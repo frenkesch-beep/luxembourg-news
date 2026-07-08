@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-07-08T08:16:54.748Z",
+  "generatedAt": "2026-07-08T08:25:51.239Z",
   "items": [
+    {
+      "id": "898e2c69fe7f2e6b967b189886103a2720974e58",
+      "title": "Luxembourg's royal family before the abdication: who's who and the dynasty's secrets",
+      "url": "https://www.youtube.com/watch?v=ENmCQJ3qxvc",
+      "source": "noticias reales",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "es",
+      "publishedAt": "2026-07-08T08:25:31.216Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/ENmCQJ3qxvc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChSLoU8fNYcbwlyHgJOBSGap7g2w",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "La famille royale luxembourgeoise avant l'abdication : qui est qui et les secrets de la dynastie",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die luxemburgische Königsfamilie vor der Abdankung: Wer ist wer und die Geheimnisse der Dynastie?",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg's royal family before the abdication: who's who and the dynasty's secrets",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger kinneklech Famill virun der Ofdreiwung: wien ass wien an d'Geheimnisser vun der Dynastie",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fd4d14cc65a523d435e42ae7d40f1722c443daab",
+      "title": "Election day at RTL Luxembourg",
+      "url": "https://www.youtube.com/watch?v=z4hwHiNs_UA",
+      "source": "RTL Group",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "de",
+      "publishedAt": "2026-07-08T08:25:31.056Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/z4hwHiNs_UA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFYoPzAP&rs=AOn4CLBBgXzJnfheJKLRaprrc438oOqmBQ",
+      "topics": [
+        "politics"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Election day at RTL Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Election day at RTL Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Jour d'élection sur RTL Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "39b8c4e610e8781e2e8de0050c365def88fc4921",
       "title": "Lussemburgo: case a prezzi astronomici, le proteste in una delle capitali più ricche del mondo",
@@ -2732,6 +2794,39 @@
       }
     },
     {
+      "id": "07329d8889b43d4df43971f8a4cb5f4a6188ff05",
+      "title": "NOTÍCIAS | 07.07.26 | 12:00",
+      "url": "https://www.youtube.com/watch?v=l3D_Uqd3EE8",
+      "source": "Radio Latina Luxemburgo",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "pt",
+      "publishedAt": "2026-07-07T11:25:31.367Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/l3D_Uqd3EE8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFAoTDAP&rs=AOn4CLCvEayGb8LamIykpnmAG4PaZNDP3g",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "NACHRICHTEN | 07.07.26 | 12:00",
+          "summary": ""
+        },
+        "en": {
+          "title": "NEWS | 07.07.26 | 12:00",
+          "summary": ""
+        },
+        "lb": {
+          "title": "NEWS | 07.07.26 | 12:00",
+          "summary": ""
+        },
+        "fr": {
+          "title": "NOUVELLES | 07.07.26 | 12h00",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "94116fab4fbe74a8bb8b079d66c1bdcd4e8b676d",
       "title": "Люксембург - Ісландія актуальна турнірна таблиця команд на",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xdWJFLXFqeVJsZXY1d29yMUlnRmI1VGJsVEJOSFo2dnl5WkVJN3hSakFmMkkwWHJPVXVHRjJOTEpTNlFwN0NRSFdLUWViTjNYbWlBcGhYckduQmpYR2Z1eFpDdXkzQ3IzMC1FQnZ3cw?oc=5",
@@ -3253,6 +3348,39 @@
         },
         "lb": {
           "title": "Rosa Luxemburg Street zu Irkutsk gëtt bis Oktober reparéiert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "868c8661c6d726b699fbd32afe1d1adffd527c2b",
+      "title": "NOTÍCIAS | 07.07.26 | 08:00",
+      "url": "https://www.youtube.com/watch?v=rFVuitKZv0c",
+      "source": "Radio Latina Luxemburgo",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "pt",
+      "publishedAt": "2026-07-07T08:25:31.367Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/rFVuitKZv0c/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEgoRDAP&rs=AOn4CLB6ePM_c8epQYGlwAvbr9emr5maEg",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "NACHRICHTEN | 07.07.26 | 08:00",
+          "summary": ""
+        },
+        "fr": {
+          "title": "NOUVELLES | 07.07.26 | 08h00",
+          "summary": ""
+        },
+        "en": {
+          "title": "NEWS | 07.07.26 | 08:00",
+          "summary": ""
+        },
+        "lb": {
+          "title": "NEWS | 07.07.26 | 08:00",
           "summary": ""
         }
       }
@@ -10251,6 +10379,39 @@
       }
     },
     {
+      "id": "809fe6605f9e99f9cd40835858bce6185adc6402",
+      "title": "瑞銀(盧森堡) 策略基金- 固定收益型(美元) 的總覽| 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNQzBsZlFEVEQ2WWJidzlOV2c1RHYxeVhadkhhX201alh3em1jQVNoYTdEOXVGdUE0TUo3cGRQQ09tYWMzLVRnTUdJd2FWMl92dDJ2UVN5d0pTdGNrN0Z5Y3g1cVNFTHJwM1ZvcmxxeGFpb2JlLVhzMUgzcFAwSW9Tb01VdFYtMWR5X001c05Rdk5WWEVaSkhBSnpackpONmExeE1xa2hkbnRLa0xmc0JzSXdZSFhHZ2ozWmZKOHZtQUpLaW1iWGpwTHRINlEyRkh5TEpEb0Z3c25ONFBGcERGOG1BVC1mSklDRnVnX1NjOTRxZm5WYTVxY3RvU0VmSGNWSUp1VTVvMkI1SlhfWHVINU53eEpMUmNtN1V1b0ZoYTZPOV9jRkpCOTg1XzZhc2ZF?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-02T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Aperçu du fonds stratégique UBS (Luxembourg)-Fixed Income (USD) | Juheng.com",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht iwwer UBS (Lëtzebuerg) Strategie Fund-Fixed Income (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of UBS (Luxembourg) Strategy Fund-Fixed Income (USD) | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den UBS (Luxembourg) Strategy Fund-Fixed Income (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "1641ed34566fd89a98d9be10baaecdda8cc9e213",
       "title": "फोन कॉल के सामान्य आरोपों पर बहन-इन-लॉ के खिलाफ मुकदमा नहीं चल सकता: कर्नाटक हाईकोर्ट ने लक्ज़मबर्ग में रहने वाली महिला के खिलाफ FIR रद्द की",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1B4QlVRdUU1eWtZZWNIX0U1TnI1VElkWGkwczlfVDdKWm01Q2piSFF6Y2ZXbGMyYWpOQy1OOE9lTER5bXRUVzZ3Z3VqVnd0aW9odGV1SVZJVGYzM2x3ZlJRcU1EXzVSbXM5MW82bmRNaFZ0bkR4aDhKMWlwWDMybGl6YlltVW5VQ1BwcFNpMHZDekhyRm1icFRGOVQ5UlV2RHRaN2pqSGNLcm5KSzgyLW1ITQ?oc=5",
@@ -15820,6 +15981,39 @@
       }
     },
     {
+      "id": "31e9b4eeab671570730be81374bc7d055df27cb6",
+      "title": "Xtrackers trasferisce la sede legale in Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVd6RXhpcUtrVUdSd3R2VDhDT0ZQMk5hRHk0Z1QwbGtfeFdDbWROMV85Z3hET3RVSlkwdkdtRHA3SFo2c1VtVV9ra3g1M1U3dEJTWmJOdTZGNTcxUjZrN2tHb3NUaG5Ib2gtNDJsaG1xTGlLcWI0RGlYVEItaVJWSFJCRjRNVTBKNGlxTXlYclNxd3hWQm5oajFwMGoxczRhUEhCLUNHX3lzb0k?oc=5",
+      "source": "Investing.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-06-24T10:10:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Xtrackers déménage son siège social au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Xtrackers verlegt seinen Sitz nach Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Xtrackers plënnert säi Sëtz op Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Xtrackers moves its registered office to Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "4ef2e7d3041a56f29ab144317a59b984ac6b3588",
       "title": "Xtrackers II宣布將於2026年遷移盧森堡註冊辦事處 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lSnZLdUVmWTZJRTVjcE81UlNVcDJmV3AtX05uWTNDOUhRUWJ0aGZVTDRxU1gwRG5PVTllZklGUTN4Uzl4MmhURmc4NHBjaFRRUFZ2RVVyQ1lDSl9CODVzcXFBT0Y0b0Zzb2RZWUFXTmE?oc=5",
@@ -20004,6 +20198,72 @@
       }
     },
     {
+      "id": "67e9c3ab2a330de1a5170b9bc5e8ed4f57fabea5",
+      "title": "Edificio religioso nella città di Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUVqRnF0eDh0bVRZMGdvM2Jldkl0U29lamtEdEFsc2YtYWI1WWdzMUlpSG5UR1NqWGJMYm1UQ01JZ3d3SlVFUDhXM0N0d1llVy02NHVjMXV4SjZWNHJCOWtieVR1R054d19VcHBtdFlSdjNadlVCbWF6QjByMWJTUVBnOHFYR2E0VXM3dHlwcDhDY0V0TzRTRVE5NkcwS19pYkJkNzROZktQU2VwWHNLY2w3dXZzQmZvbFE?oc=5",
+      "source": "Outdooractive",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-06-20T00:51:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Édifice religieux à Luxembourg-ville",
+          "summary": ""
+        },
+        "en": {
+          "title": "Religious building in Luxembourg city",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Reliéis Gebai an der Stad Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Religiöses Gebäude in der Stadt Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d045cbef5fc6f132fed117099f537be9363b22b5",
+      "title": "Hormuz, Ginevra, Lussemburgo: la settimana dei tre tavoli e dell’Europa a metà",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamVVaEk4SFRyZEllbVVXczNMNDRvR2NoLU8xNzF0bDZmX2hfb1g1NUNuNzZicWUwSmgwTGVxeWxJRjJ5SE50YlFzNEQ5RjRqM1V0VWlRYS1RS2Z1NVB1bHptVTFVY3ROMGFpb0RQYXotVXVtZjZPV0J6cjZ0VHlGZ0szUlZvaEktTVRjUF9QZi1WWmt0SlNOSHhQN3FCWHhkRUZ4Xw?oc=5",
+      "source": "lanternaweb.it",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-06-19T11:03:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Ormuz, Genève, Luxembourg : la semaine des trois tables et l'Europe au milieu",
+          "summary": ""
+        },
+        "en": {
+          "title": "Hormuz, Geneva, Luxembourg: the week of the three tables and Europe in the middle",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Hormuz, Genf, Lëtzebuerg: d'Woch vun den dräi Dëscher an Europa an der Mëtt",
+          "summary": ""
+        },
+        "de": {
+          "title": "Hormus, Genf, Luxemburg: die Woche der drei Tische und Europa in der Mitte",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "0ed6924696c3b9b2c8241e9631d0186cdecc215f",
       "title": "Болгария-Люксембург | О матче | Лига наций УЕФА 2027",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXByeHFmX05yYTRQQXlFb2FIZ3l1X1hYWTVlVkk4ZmFYUG1ZNnc5X2lZdXNiWmNOZkk0QTZsTkZvdFpJVU1rbWViUG50RUp6WDZGMGhWcjdTaHRfM0tLNkxRbjh1X1F1QV9pZVJLN1h6SGQxX0pLekdZRWQtZUJmM2oxMm5UMTdELWU3VDBDaw?oc=5",
@@ -20193,6 +20453,72 @@
         },
         "fr": {
           "title": "Baptême des roses du Grand-Duc et du Couple de Luxembourg | Grand-Duc Guillaume V de Luxembourg | Grande-Duchesse Stéphanie | Petit François",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "395cb20f3f7e25051096e0547f827960aa92547d",
+      "title": "Eurovision 2027: le conferme di Lussemburgo, Regno Unito e Norvegia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3RkNjcyVmdESGV3ZXlSdGtmdHdvYldJeTkySmVySVRjb3NfLV9wUjdUb1lSQVllOGtBMWJZc0ltZDQzbUVBOW12bkVaa3pHejJzZEFSUFdMUnJ0Q3lJY2huMGhLRHFrck9XRjMwOGJwamFsYlMwblNvVnBpODd6OXpBVFFVWlR3eE1RTzBGWHJvbDRkd1I4QVFBQkpXUXNEdmJVTS1CajZ3VmJFTFhr?oc=5",
+      "source": "Eurofestival News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-06-19T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Eurovision 2027 : les confirmations du Luxembourg, du Royaume-Uni et de la Norvège",
+          "summary": ""
+        },
+        "en": {
+          "title": "Eurovision 2027: the confirmations of Luxembourg, the United Kingdom and Norway",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Eurovision 2027: d'Confirmatioune vu Lëtzebuerg, Groussbritannien an Norwegen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Eurovision 2027: die Bestätigungen von Luxemburg, dem Vereinigten Königreich und Norwegen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2e819fe818f9587bc09a3d38bbf9b52481ead321",
+      "title": "Cibo e bevande: Lussemburgo il più caro d'Europa",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUxMT3FsYUswTFdGRU5NcHhEOF9rVVhhODZqYm91Z3dIWUdKRGdVN3otRlRjdEN1Tnp2Z1Q0SEZlLVh0aE01a2Rrb3ZjM0JhRlpVM2R0WHFVQ0xnS3JHaGJweG9mTGFES1g3YlJvV3Z5VlJMNkw2NnRRcXhWTDkyU0pTbHp1cklfdnlkUkwwdlltd0U?oc=5",
+      "source": "EFA News - European Food Agency",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-06-18T15:34:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Iessen an Drénken: Lëtzebuerg dat deiersten an Europa",
+          "summary": ""
+        },
+        "en": {
+          "title": "Food and drink: Luxembourg the most expensive in Europe",
+          "summary": ""
+        },
+        "de": {
+          "title": "Essen und Trinken: Luxemburg ist das teuerste in Europa",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Nourriture et boisson : le Luxembourg le plus cher d’Europe",
           "summary": ""
         }
       }
@@ -20490,6 +20816,72 @@
         },
         "de": {
           "title": "Die Volleyball-Nationalmannschaft ist in Luxemburg angekommen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0366e4f816f6d2a927f25b288db867b3ea681b8e",
+      "title": "Doppie imposizioni fiscali Italia – Lussemburgo: Ricciardi (Pd) interroga il Governo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGtpelBEOHotbUdESDRELTM5LVl1NUdWNld3QXc1eGlaOEV2OEFIcTJJcks1Y2Jsb0ZzUUpCMlJOS3BOWFpGRDNkbWM2Wm9BdGkwSDFqMk92eGdEWjVnZzRlbXBHdUxTRl9pV3hwaTNYR2NTQWhvZnB1NFI5TS1QOFM2VDNKdjlmN3hwX1Q5YmdnWjRMX0YtaVNEbnk1V2RYdG9MTlQ4TnZka3E2TzNSODhZMklFcHFnOFFBeQ?oc=5",
+      "source": "Aise.it - Agenzia Internazionale Stampa Estero",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-06-18T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Duebelbesteierung Italien – Lëtzebuerg: Ricciardi (Pd) stellt d'Regierung a Fro",
+          "summary": ""
+        },
+        "de": {
+          "title": "Doppelbesteuerung Italien – Luxemburg: Ricciardi (Pd) befragt die Regierung",
+          "summary": ""
+        },
+        "en": {
+          "title": "Double taxation Italy – Luxembourg: Ricciardi (Pd) questions the Government",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Double imposition Italie – Luxembourg : Ricciardi (Pd) interroge le gouvernement",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "78ec1f42c71524ac49931b08976223f52537d235",
+      "title": "Lussemburgo, 'Magyar pro-Ue aiuterà ad avanzare su una serie di capitoli'",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQ1ZyeThreXQtWG16aTJ5b3BLd3lrb2dDV0hDLXNuS2FMR3FJSlF2NXlLdjJtZnlOZ0FjNlZEUHVma1U4a0ZNQTRfNmMwMVZrT3FJM09BS1dLdFVCUlRzQkZVcDlEdmRILXZNaDJyQlJNQU9kbG9DUjJKUTdHbi05RWNSNkdUX1NkOXJjUnZOV0xFY2lWOGw2aFBkeXlJbGlSZ2k3d0FaUG9xaWgxMHBoRWJidTdpZTlEVWdYcnZ4a0FROURUZUMzU3kxaXd0MVVYU1c3ekpzY1hOOVdOWHhJVkcyX3p6M3BGbWNWNlJEbExFcXc5ZWN3b015X0xGb0RGaUFCSWliMnbSAY4CQVVfeXFMTTU4YmZqaHQ1QmtRcDZzTVh3aUtZU01Mb2pxc2xHUXRVejhNTmJadDgwU3BKdE5uN3NPNHo2V0xXUW1OWUxIc3JEcXR0TFFCNVFWVkY3Tkp1WmNEVURaMnRURFBsMWNQV2tOMFRMSTJGMU5BMVQwVVg5eWw3ektXTmxiUEhfanMtODVzc2FicW1rYTlTX2tMTFNTX2JKb2xTWDZPX1ZaR2pCNTJ3VUJTZ0J2cXlmaFJucWFOUkYteTZ4bUdNdG55WXR5TDdhWm5FQ2hxWkNPR1F5TFNmbDZicnVMME9GWUM3U05pOWMxZlZTbHFEbGpTbDl0UmJ1Q2taYmV2NUFoNzlXTi1OMnd3?oc=5",
+      "source": "ANSA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-06-18T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg, 'Pro-EU Magyar wäert hëllefen eng Serie vu Kapitelen virzekommen'",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg, 'Pro-EU Magyar will help advance a series of chapters'",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg, « Les Magyars pro-européens contribueront à faire avancer une série de chapitres »",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg: „Pro-EU Magyar wird dazu beitragen, eine Reihe von Kapiteln voranzutreiben“",
           "summary": ""
         }
       }
@@ -24618,6 +25010,72 @@
         },
         "lb": {
           "title": "Alexandru Nazare, um Eurogrup+ Treffen zu Lëtzebuerg: Energie, Kompetitivitéit a Steierdisziplin si verbonnen a musse matenee behandelt ginn",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5ec34378ee206d603058af8802122a8a1706098f",
+      "title": "Intesa accelera sul Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdG5MSnVQXzBncHRvR2dDSVhDM0ZBQ1RtVkN6YWtzeDdaZFZkVTdlcXlRZkQ1NWFUZHFfeGhmR3ZzVEwyNmlzdkVXSTNnM05JT3FGY0dqQlhsZWdZQkZnNHpzb1VGNWZaOFB4M2IxWWRteF8tVG5hUnpzdG9BajZXVmpsV1pGOHRrVGc?oc=5",
+      "source": "il Giornale",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-06-12T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Intesa beschleunigt auf Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Intesa accelerates on Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Intesa accélère sur le Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Intesa beschleunegt op Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2958dee6ef821646733925b370b6c77c0d6c4b41",
+      "title": "Прогнозы на матч Люксембург - Швейцария 12 июня 2026",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLMmlVS1JCczFjbkxYQUhwWkpMYzMxSnFfUzdzbTBIMTdFdkx3UG1QNF9LRkJZNUpjNEEzTFVFeXlaeFhDYlYzbUdJVkJTUzZ3eHpiVC1xckNPMnYyZkJMNE5ick9lTC1MeVB4ck11TUV2dWtVWDlLRmpR?oc=5",
+      "source": "Ставка ТВ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-06-12T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Prognosen fir de Match Lëtzebuerg - Schwäiz 12. Juni 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vorhersagen für das Spiel Luxemburg - Schweiz am 12. Juni 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Pronostics pour le match Luxembourg - Suisse 12 juin 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Predictions for the match Luxembourg - Switzerland June 12, 2026",
           "summary": ""
         }
       }
