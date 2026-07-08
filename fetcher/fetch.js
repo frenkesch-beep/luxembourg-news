@@ -8,6 +8,7 @@ import { dirname, resolve } from 'node:path';
 import { normalizeTitle, runPool } from './lib/util.js';
 import { fetchGoogleNews, fetchOutlet } from './lib/rss.js';
 import { fetchYouTube } from './lib/youtube.js';
+import { translateItems, SITE_LANGS } from './lib/translate.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -63,10 +64,14 @@ async function main() {
   items.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
   if (items.length > MAX_ITEMS) items = items.slice(0, MAX_ITEMS);
 
+  // Translate titles/summaries into the site UI languages (cached per item).
+  console.log(`\nTranslating into site languages (${SITE_LANGS.join(', ')})…`);
+  const tstats = await translateItems(items);
+
   const output = { generatedAt: new Date().toISOString(), items };
   await writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2) + '\n', 'utf8');
 
-  printSummary(results, items);
+  printSummary(results, items, tstats);
 }
 
 async function loadPrior() {
@@ -84,7 +89,7 @@ async function loadPrior() {
   }
 }
 
-function printSummary(results, items) {
+function printSummary(results, items, tstats) {
   console.log('\n=== Feed summary ===');
   const pad = (s, n) => String(s).padEnd(n);
   console.log(`${pad('SOURCE', 26)} ${pad('KEPT', 6)} ${pad('DROPPED', 8)} ERROR`);
@@ -105,6 +110,16 @@ function printSummary(results, items) {
   console.log(`Languages (${Object.keys(byLang).length}):`, JSON.stringify(byLang));
   console.log('Types:', JSON.stringify(byType));
   console.log(`Feeds with errors: ${totalErrors}/${results.length}`);
+  if (tstats) {
+    const fully = items.filter((it) =>
+      SITE_LANGS.every((l) => l === it.lang || it.translations?.[l]?.title)
+    ).length;
+    console.log(
+      `Translations: ${tstats.translated} new (${tstats.requests} requests, ` +
+        `${tstats.failures} failed, ${tstats.skipped} deferred) — ` +
+        `${fully}/${items.length} items fully translated`
+    );
+  }
 }
 
 main().catch((e) => {

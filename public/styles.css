@@ -622,3 +622,51 @@ a {
     transition: none !important;
   }
 }
+
+/* Site language switcher (LB / DE / FR / EN) */
+.lang-switch {
+  display: inline-flex;
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  overflow: hidden;
+  background: var(--bg-elevated);
+}
+
+.lang-btn {
+  appearance: none;
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.35rem 0.65rem;
+  cursor: pointer;
+}
+
+.lang-btn + .lang-btn {
+  border-left: 1px solid var(--border);
+}
+
+.lang-btn:hover {
+  color: var(--text);
+  background: var(--bg-subtle);
+}
+
+.lang-btn.is-active {
+  background: var(--lux-red);
+  color: #ffffff;
+}
+
+.lang-btn:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: -2px;
+}
+
+/* "Translated from" tag on cards showing a machine translation */
+.translated-tag {
+  font-size: 0.72rem;
+  color: var(--text-faint);
+  white-space: nowrap;
+  cursor: help;
+}

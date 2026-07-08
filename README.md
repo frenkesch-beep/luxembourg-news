@@ -2,6 +2,8 @@
 
 A static website aggregating news **about Luxembourg** from **non-Luxembourgish media** (all `.lu` outlets excluded). Covers 20 languages with articles from Google News locale editions, international outlet RSS feeds, and YouTube videos.
 
+The site itself can be read in **Lëtzebuergesch, Deutsch, Français, or English** — every headline and summary is machine-translated into all four (original text on hover), and the whole UI switches language with the LB/DE/FR/EN toggle in the header.
+
 **Live:** https://frenkesch-beep.github.io/luxembourg-news/
 
 ## How it works

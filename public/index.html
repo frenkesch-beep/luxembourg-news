@@ -16,10 +16,16 @@
       <span class="brand-flag" aria-hidden="true">🇱🇺</span>
       <div class="brand-text">
         <h1 class="brand-name">Lëtz World</h1>
-        <p class="brand-tagline">Luxembourg in the world&rsquo;s news</p>
+        <p class="brand-tagline" id="brand-tagline">Luxembourg in the world&rsquo;s news</p>
       </div>
     </div>
     <div class="header-controls">
+      <div class="lang-switch" id="lang-switch" role="group" aria-label="Site language">
+        <button type="button" class="lang-btn" data-uilang="lb" aria-pressed="false">LB</button>
+        <button type="button" class="lang-btn" data-uilang="de" aria-pressed="false">DE</button>
+        <button type="button" class="lang-btn" data-uilang="fr" aria-pressed="false">FR</button>
+        <button type="button" class="lang-btn" data-uilang="en" aria-pressed="false">EN</button>
+      </div>
       <span class="last-updated" id="last-updated" role="status" aria-live="polite">Loading…</span>
       <button type="button" class="theme-toggle" id="theme-toggle" aria-pressed="false" aria-label="Toggle dark mode">
         <span class="theme-icon" aria-hidden="true">🌙</span>
@@ -52,14 +58,14 @@
     </div>
 
     <div class="chips-row" id="lang-chips" aria-label="Filter by language">
-      <span class="chips-label">Language</span>
+      <span class="chips-label" id="lang-chips-label">Language</span>
       <div class="chips-list" id="lang-chips-list">
         <button type="button" class="chip is-active" data-lang="" aria-pressed="true">All languages</button>
       </div>
     </div>
 
     <div class="chips-row" id="topic-chips" aria-label="Filter by topic">
-      <span class="chips-label">Topic</span>
+      <span class="chips-label" id="topic-chips-label">Topic</span>
       <div class="chips-list" id="topic-chips-list">
         <button type="button" class="chip is-active" data-topic="" aria-pressed="true">All topics</button>
       </div>
@@ -72,18 +78,18 @@
     <div class="card-grid" id="card-grid"></div>
 
     <div class="state-panel" id="loading-state" hidden>
-      <p>Loading news…</p>
+      <p id="loading-text">Loading news…</p>
     </div>
 
     <div class="state-panel" id="error-state" hidden>
       <p class="state-icon" aria-hidden="true">⚠️</p>
-      <p>We couldn&rsquo;t load the news feed right now.</p>
+      <p id="error-text">We couldn&rsquo;t load the news feed right now.</p>
       <button type="button" class="retry-btn" id="retry-btn">Try again</button>
     </div>
 
     <div class="state-panel" id="empty-state" hidden>
       <p class="state-icon" aria-hidden="true">🔍</p>
-      <p>No items match your filters.</p>
+      <p id="empty-text">No items match your filters.</p>
       <button type="button" class="retry-btn" id="clear-filters-btn">Clear filters</button>
     </div>
 
@@ -94,7 +100,7 @@
 </main>
 
 <footer class="site-footer">
-  <p>Lëtz World aggregates public news coverage of Luxembourg from outlets outside Luxembourg. Not affiliated with any government or media outlet. Links go to original sources.</p>
+  <p id="footer-text">Lëtz World aggregates public news coverage of Luxembourg from outlets outside Luxembourg. Not affiliated with any government or media outlet. Links go to original sources.</p>
 </footer>
 
 <script src="app.js"></script>

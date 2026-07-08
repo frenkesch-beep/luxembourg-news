@@ -58,9 +58,23 @@ Rules of engagement:
   "publishedAt": "ISO-8601 UTC",
   "summary": "plain-text snippet, may be \"\" — strip HTML",
   "imageUrl": "https://... or null",
-  "topics": ["politics"|"economy"|"finance"|"eu"|"sport"|"culture"|"travel"|"tech"|"other", ...]  // 1+ entries
+  "topics": ["politics"|"economy"|"finance"|"eu"|"sport"|"culture"|"travel"|"tech"|"other", ...],  // 1+ entries
+  "translations": {                      // machine translations into the site UI languages
+    "lb": { "title": "...", "summary": "..." },   // key omitted when it equals item.lang,
+    "de": { ... }, "fr": { ... }, "en": { ... }   // or when translation hasn't succeeded yet
+  }
 }
 ```
+
+### Translations
+
+The fetcher translates each item's title + summary (trimmed to ~220 chars) into the
+site UI languages **lb, de, fr, en** via the unofficial Google Translate gtx endpoint
+(`fetcher/lib/translate.js`). Cached per item and persisted through the history
+merge — only new items cost requests. Best-effort: on endpoint failure the frontend
+falls back to the original text plus an external translate link. The frontend
+(`localStorage: letzworld-lang`, default `lb`) renders titles/summaries in the chosen
+language and localizes all UI chrome from its `UI_STRINGS` dictionary.
 
 ## Source config: `data/sources.json`
 
