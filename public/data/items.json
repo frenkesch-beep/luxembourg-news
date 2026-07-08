@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-08T18:47:24.687Z",
+  "generatedAt": "2026-07-08T20:38:30.134Z",
   "items": [
+    {
+      "id": "20fcdc6710c351b152651cf87e0604497f2685f3",
+      "title": "Nya tränaren kastades in i hetluften i Europakvalet – Ilves kryssade i Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1CaHh1Wmp2ZXdpRDRUU3IwZE9lTXE3aTdvSmJpdnZjc3JaczRtNmg1alNtRURSX05ESW5rcnp3ZjA?oc=5",
+      "source": "Yle",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-07-08T19:21:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Den neien Trainer gouf an der Europäescher Qualifikatioun an d'waarm Loft geheit - den Ilves ass op Lëtzebuerg geklommen",
+          "summary": ""
+        },
+        "en": {
+          "title": "The new coach was thrown into the hot air in the European qualifiers – Ilves cruised in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der neue Trainer wurde in der Europa-Qualifikation in die heiße Luft geworfen – Ilves kreuzte in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le nouvel entraîneur jeté dans l'air chaud lors des éliminatoires européennes – Ilves a navigué au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "2cdeccf875fb00dc2d8df4a380766cb2b6ac6ec2",
       "title": "Премьер Люксембурга госпитализирован с COVID-19",
@@ -323,6 +356,39 @@
         },
         "fr": {
           "title": "Frieden: le Luxembourg réitère son engagement indéfectible envers l'OTAN",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d75431df9483fec9f6aef73d0183459c07e66e25",
+      "title": "Ettelbruck tabela - Koszykówka, Luksemburg",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNU9JbG0wdm5pZjFzdnZzTHVGbHFqbjF1ekFMVWI1eHV1YndLanFHVUVWa29HNEtjY21jZVU2dkZNcmh4dlpObXgxdXF1VTdmVU8yX3cyOGszS3J3SUg4VHRadmo2bDBieVJWVTEyMDBEazd3U0ZXc0QzNEVfVDktZE5BenJvNVlMYzlqWDRXSTdHYjQ?oc=5",
+      "source": "Flashscore.pl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-07-08T14:46:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Ettelbrécker Dësch - Basketball, Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ettelbruck table - Basketball, Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tableau d'Ettelbruck - Basket, Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ettelbrück Tabelle - Basketball, Luxemburg",
           "summary": ""
         }
       }
@@ -4107,6 +4173,35 @@
       }
     },
     {
+      "id": "4a8cb6bf5e1bb9893b7d104b2b98013fa4cb9b38",
+      "title": "Ilves held to draw in Conference League opener in Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWFFpTEl1WHdybEdCeFczQ1JOSEFteDZZcDFlV1B2dmh5T0NoSC14XzdUY2o1WWk0ZEl0Zmo2dlAwZENRU1VlQVpxQzJsYVFzbkZiM0NNdUQ2Qzh3bXpJQmRqN2locE84RTRKcmRrNVlJdDMycDR6QWpPaVM1SC1UVlVzcjdLYUJmbHVCX3pHWU85eU1adFRuSTVKV3puUzhZcnREZGlfVF8wVEZIYmNVMFBoQkY1djZzZks1OW8xUFpUeUx3NUNiTm1HWXhGMlp1Qmc?oc=5",
+      "source": "TribalFootball",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-08T03:19:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "de": {
+          "title": "Ilves holte beim Eröffnungsspiel der Conference League in Luxemburg ein Unentschieden",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ilves huet am Conference League Opener zu Lëtzebuerg gezunn",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ilves tenu à faire match nul lors du match d'ouverture de la Conference League au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "21686eb47ffc6e7641f783a74ec9368b620d1b78",
       "title": "INTERVIEW: Defence bank could boost NATO spending drive, says Luxembourg's PM",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1pXVGhrSzJCZkdIUlYxYl9PUlBSa1EtcmxkLWQyTmFRUlRTZHBTdERqWlpxNlJGU0ZMcGlmcEs2Zi1hQmdUc0tGMHFYd0JWcE9xel9aeThJeHNBd1BaMElTVVU0Y1RTM2hMa01Uejh5Z2VnRmlZcXNoUVBDWkh3bkZmVkVhN1UyWHJyaVVOTjZnYlpKUkpmeTBKcjJUTUwtaXpUb1plZHdTVGtVclppUHlvaEY?oc=5",
@@ -6656,6 +6751,39 @@
         },
         "lb": {
           "title": "Patrimoine Days 2026 an den Zären vum Lëtzebuerger Gaart: de Programm",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "95b30fe19c40196c157f71e6fbffd6fd37e8f937",
+      "title": "Ημέρες Πολιτιστικής Κληρονομιάς 2026 στο Παρίσι: εξαιρετική ξενάγηση στη Γερουσία - Παλάς του Λουξεμβούργου",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOEhmQVh4cWplTnZ1Mmo2TXFYa05NLUhwUW8wZzJpWjhFWC1CbkJ3bzBubFJVMC1xY2o1WHRtMTJSR0lvMXd4NHQtUHA1S1NVUmVlRld3MmUwWW9Vdmlfbm80QzJLOWVmLUh3LU5HVUNCTDdlbEljX3NINEZVRzNKNG5JWGt1bGlsUjRrR1lwbVh5NkhudjJrWGNKc1E0cS1lVm9Pa25DNjB6a1huMm5FVzdvb0N3cFFBbFZXOThWZ01YbkM3S1RRUFNMUGVSVmFWSGgwUmlVbjRoT1ZVWEMxWG9zZmJSRE5LbTVMODZWQ18yVWJObVpzT3RKOA?oc=5",
+      "source": "Sortir à Paris",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-07-06T20:59:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Tage des Kulturerbes 2026 in Paris: Außergewöhnliche Führung durch den Senat – Palais du Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Heritage Days 2026 in Paris: extraordinary tour of the Senate - Luxembourg Palace",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Patrimoine Days 2026 zu Paräis: ausseruerdentlech Tour vum Senat - Luxembourg Palace",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Journées du Patrimoine 2026 à Paris : visite extraordinaire du Sénat - Palais du Luxembourg",
           "summary": ""
         }
       }
@@ -19830,6 +19958,39 @@
       }
     },
     {
+      "id": "f635136b22f7fef7f8d6ac11897a84cc826e5d1d",
+      "title": "越南领导人致电祝贺卢森堡大公国国庆日",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPcUpzcmhjVDljbDFLLXVFRTVOTlFtVHg2d1FUNDVjRXU0b0dub0VnZkxBekpMRHRUYl9oTlRxNkw4Q2x3VEJXRW1OUDRrNUxnWGN4cGNCM2N2WmN0LUlBVkxiMmp3a1R6bkdYNklLV0QtWHdoR0w4c0duNk15QWJaRmYtc2J0YVJ3QjRCUVhzcDVMbXFHLWtnOUxzSmdzMF82Y0YzR29XclMxTGkxajNSSWtGOHR4bk1TdW9zcW5sU0hTMHdGOWdQVDA3Q0dOVWxTemtmVWtSUzVkdmVfNVp0RHRUeVBWakdrak9rVEZsanFyS3d3NS1jeXF1ajRsQVNOSEVMSGxiYlY3QXlIRUtZb3ZqdF9LWDVEblNJWHlJaUIzZTMzSV90X2UtVmc5OGppNVMyV1F4WWZBamo4?oc=5",
+      "source": "Thông tấn xã Việt Nam (TTXVN)",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Vietnamesesche Leader schéckt Message fir de Grand-Duché vu Lëtzebuerg op Nationalfeierdag ze gratuléieren",
+          "summary": ""
+        },
+        "en": {
+          "title": "Vietnamese leader sends message to congratulate Grand Duchy of Luxembourg on National Day",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der vietnamesische Staatschef gratuliert dem Großherzogtum Luxemburg zum Nationalfeiertag",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le dirigeant vietnamien envoie un message pour féliciter le Grand-Duché de Luxembourg à l'occasion de la Fête nationale",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "5925a26b99448024728f506f7dd32cbcc5e96e10",
       "title": "Luftqualitätsindex (AQI) für Luxemburg und Luftverschmutzung in Luxemburg | IQAir Deutschland",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUU1oTFlZR2NXQ0hXZGlza3VBVmNUR2xkTjBabmRId1Rtc2V5RW9EdGJnNXNmRFNhYXNpMUVNS21DNVE3d09jWjEwckJUN3NjT0phNnlUNXRLSVJwYnM5aGV3OFlSQXYtSE1fRzgyLWN0U0Y0dS04dzlOZkY4WGhwWFdla0paRGV2?oc=5",
@@ -23518,6 +23679,39 @@
         },
         "de": {
           "title": "European League 2026: Der beeindruckende Sportkomplex in Luxemburg, der die Herren-Nationalmannschaft beherbergt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8d4f6ed92e765dfc63229a76903b1631530474c9",
+      "title": "Tay Ninh - Belçika ve Lüksemburg'daki Vietnamlı Aydınlar Derneği ikili iş birliğini güçlendiriyor.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmZyZTlDNHFZMjM1SXpoUVhOdXM5c3hRTUdqMzhXR0NQWHV4M3ZySTdfenlOQXJCNDVHei1Gc05lYWEycTNibXpiNDlaT180WTBTRGthVjVZVm5ZdjhJa3huYmVUM1Z5WEZ2WmdZUC1vSlJERlBZMk0zOW8zei1zdEVTNElHcFZKbmdIY2FyZndCa0lscFpjbzEza2ViNmV1UDdkYzFNRUMybUJ4?oc=5",
+      "source": "Vietnam.vn",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-06-19T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Tay Ninh – Verband vietnamesischer Intellektueller in Belgien und Luxemburg stärkt die bilaterale Zusammenarbeit.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Tay Ninh - Association of Vietnamese Intellectuals in Belgium and Luxembourg strengthens bilateral cooperation.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Tay Ninh - Association of Vietnamese Intellectuals in Belsch a Lëtzebuerg stäerkt bilateral Kooperatioun.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tay Ninh - L'Association des intellectuels vietnamiens de Belgique et du Luxembourg renforce la coopération bilatérale.",
           "summary": ""
         }
       }
@@ -27395,6 +27589,39 @@
       }
     },
     {
+      "id": "686070cb05f7c61131971bdfcfdcee7870b3de30",
+      "title": "Marta Kos, la Luxembourg: „Dacă statele candidate livrează rezultate, trebuie să livrăm și noi”",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUczSVRrVGNxWVJhM0hFUk9vUEJxY2VSbEp6c3lveDlzWklfdEVvMF9lQkRSX2lmMUJIVlJ2SnZBRFNRSGlYdnVGcVdFVFM4d1dwLVRPTXVScmFMNFlJaVRvWDFxS01XTExnSGJ1N0QzS3U0alFUWGsyN0JmTHh4TXktZndocmMxbkVtNnFTQXpNS2NORlBQc1JzNlRSekdCZjI4ZXNJZmU1R2VyamU0N25UVWpqUGxYeUIxZ2lEU0o2UQ?oc=5",
+      "source": "Radio Moldova",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-06-15T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Marta Kos, zu Lëtzebuerg: \"Wann d'Kandidatstaate Resultater liwweren, musse mir och liwweren\"",
+          "summary": ""
+        },
+        "en": {
+          "title": "Marta Kos, in Luxembourg: \"If the candidate states deliver results, we must also deliver\"",
+          "summary": ""
+        },
+        "de": {
+          "title": "Marta Kos, in Luxemburg: „Wenn die Kandidatenländer Ergebnisse liefern, müssen wir auch liefern“",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Marta Kos, au Luxembourg : \"Si les Etats candidats donnent des résultats, nous devons aussi en donner\"",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "ab297b0ce251ba4edacc28e9d890d5992bb035d9",
       "title": "Анри, великий герцог Люксембурга: биография и отречение",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBxYVZJY21UeENNOW9GbFBLalhXckEtY1JGZGJBY25aQk9FS1VPSnNkVTVpWkZLbHRZQkpxY01EWVBXdTQ?oc=5",
@@ -27951,6 +28178,39 @@
         },
         "lb": {
           "title": "Zesummen schaffen fir den zweeten Trimester ze kämpfen | Déi éischt Partie vu Photovoltaik Roboterprodukter zu Lëtzebuerg rullt vun der Produktiounslinn",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "eb48cc724e58e297ce2277a4d20a40decbef5aa5",
+      "title": "Прогнозы на матч Венгрия - Люксембург 13 июня 2026",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnQ1V5Nk9YdkktMEpZMW1Bb1dSQ3dQcDEyOThfTUtIMVpYVmpETjNBWmtUYW5tWDl3U012Y2dYMmFQQjBqdFhRSXg1SU5pVTBoVUhSb1h1UzNwa0p2d1hMTGJURUFHLU1VZjVhV09aYnVqbThy?oc=5",
+      "source": "Ставка ТВ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-06-13T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Vorhersagen für das Spiel Ungarn - Luxemburg am 13. Juni 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Pronostics pour le match Hongrie - Luxembourg 13 juin 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Predictions for the match Hungary - Luxembourg June 13, 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Prognosen fir de Match Ungarn - Lëtzebuerg 13. Juni 2026",
           "summary": ""
         }
       }
@@ -30758,39 +31018,6 @@
         },
         "lb": {
           "title": "Lëtzebuerg - Belsch Resumé: Fussball Resultater an Highlights",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "dc2645da2c760b0639834d8eabb3353df5fdcde5",
-      "title": "Euro Youth in Lussemburgo. Team di bronzo. Vince la Russia",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHdDQmJ2WFFnT21YZ19fbzFVQ1JaZ3h1aGNuNjUtMXFZTERsY08zTzhObExOZjhDNlp0Zzk4LWJoX3hNbGhxelJkd3YyUzk0TmRNOTh1cmtKVDFlSzl2ejNweTV5a0s4QUM4VExfRWpSTDg0SFNnbWZ2QlJ0VHRLcElweEttcjJSdkFnZzVtTEFBUUNSbzVfLUQ4T2I1Z1FoSXplNDh0Q2w2RUFUeVE?oc=5",
-      "source": "Federazione Italiana Nuoto",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-06-08T18:59:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Euro-Jugend in Luxemburg. Bronze-Team. Russland gewinnt",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Euro Youth zu Lëtzebuerg. Bronze Equipe. Russland gewënnt",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Euro Jeunesse au Luxembourg. Equipe de bronze. La Russie gagne",
-          "summary": ""
-        },
-        "en": {
-          "title": "Euro Youth in Luxembourg. Bronze team. Russia wins",
           "summary": ""
         }
       }
