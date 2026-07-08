@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:50:54.901Z",
+  "generatedAt": "2026-07-08T18:47:24.687Z",
   "items": [
     {
       "id": "2cdeccf875fb00dc2d8df4a380766cb2b6ac6ec2",
@@ -1479,6 +1479,35 @@
         },
         "de": {
           "title": "NACHRICHTEN | 08.07.26 | 13:00",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2d782a6ac49fc5a83bf0b212f0d36b8707dc3ba2",
+      "title": "Le Premier ministre du Luxembourg se réunit avec le ministre des Communications",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2xzT080dmJIMEtHRVRmYjYyVGpkTVFFZnRmRVk5T2owOG1sdVIyaE5HUEJKTnk1LUVQUFE3Q1NFZnlYOGlMenRXYXhiaGhNZGxGRHNLSlVWRUdrLTlyVUVseHhKNElRX0FsVHJnMUFkLU1vX3k2bkV4ekJiSlFWZjBWY0RaR1RsMFhHdnFMUC03b1p0Ri1QZXJZbDNHRGhxa0dHdmt3UHdJaVFReWZsUy0ydlRFY2hUa1RoOWxLRVRNS2NUWm1zb2M0MHQtcTdHMS1QTg?oc=5",
+      "source": "Qatar news agency",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-08T11:08:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg Prime Minister meets with Communications Minister",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Lëtzebuerger Premier trëfft mam Kommunikatiounsminister",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der luxemburgische Premierminister trifft sich mit dem Kommunikationsminister",
           "summary": ""
         }
       }
@@ -7611,6 +7640,35 @@
         },
         "en": {
           "title": "UNRWA: The Rosa Luxemburg Foundation and the Israel Lobby",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6e3e640569f66950253053c0bdc965a96346ab61",
+      "title": "Clément Couturier retourne au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZRUNFaERGQ2ktMVY0SUV0SGkzVmlHVlZvc28tU21waGlya2xrVE1iU3RQTjRxd1B3ZlVZZ3N3OFd3djZuWUtfRWlvUHQxNTljWE56Qlpra3VPcXRTanRhMlVBMjktMWc?oc=5",
+      "source": "JHM",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-06T14:30:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Clément Couturier returns to Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Clément Couturier kënnt zréck op Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Clément Couturier kehrt nach Luxemburg zurück",
           "summary": ""
         }
       }
