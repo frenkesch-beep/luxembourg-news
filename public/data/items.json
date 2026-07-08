@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-07-08T09:00:00Z",
+  "items": [
+    {
+      "id": "sample0000000000000000000000000000000001",
+      "title": "[SAMPLE] Luxembourg PM meets EU leaders over budget framework",
+      "url": "https://example.com/sample-1",
+      "source": "Politico Europe",
+      "sourceCountry": "BE",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-08T07:30:00Z",
+      "summary": "Sample development item. Luxembourg's prime minister joined EU counterparts in Brussels to discuss the next multiannual budget.",
+      "imageUrl": null,
+      "topics": ["politics", "eu"]
+    },
+    {
+      "id": "sample0000000000000000000000000000000002",
+      "title": "[SAMPLE] Le Luxembourg attire de nouveaux fonds d'investissement",
+      "url": "https://example.com/sample-2",
+      "source": "Les Echos",
+      "sourceCountry": "FR",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-08T06:10:00Z",
+      "summary": "Élément d'exemple. La place financière luxembourgeoise enregistre une hausse des enregistrements de fonds.",
+      "imageUrl": null,
+      "topics": ["finance", "economy"]
+    },
+    {
+      "id": "sample0000000000000000000000000000000003",
+      "title": "[SAMPLE] Luxemburg erhöht Mindestlohn zum Jahreswechsel",
+      "url": "https://example.com/sample-3",
+      "source": "FAZ",
+      "sourceCountry": "DE",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-07T18:45:00Z",
+      "summary": "Beispieleintrag. Die Regierung in Luxemburg kündigt eine Anpassung des Mindestlohns an.",
+      "imageUrl": null,
+      "topics": ["economy"]
+    },
+    {
+      "id": "sample0000000000000000000000000000000004",
+      "title": "[SAMPLE] 卢森堡与中国签署新的金融合作备忘录",
+      "url": "https://example.com/sample-4",
+      "source": "新华社",
+      "sourceCountry": "CN",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-07T12:00:00Z",
+      "summary": "示例条目。卢森堡金融监管机构与中方签署合作备忘录，深化跨境金融合作。",
+      "imageUrl": null,
+      "topics": ["finance"]
+    },
+    {
+      "id": "sample0000000000000000000000000000000005",
+      "title": "[SAMPLE] لوكسمبورغ تستضيف قمة أوروبية حول الطاقة",
+      "url": "https://example.com/sample-5",
+      "source": "الجزيرة",
+      "sourceCountry": "QA",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-07-07T09:20:00Z",
+      "summary": "عنصر تجريبي. تستضيف لوكسمبورغ اجتماعاً أوروبياً لمناقشة أمن الطاقة.",
+      "imageUrl": null,
+      "topics": ["politics", "eu"]
+    },
+    {
+      "id": "sample0000000000000000000000000000000006",
+      "title": "[SAMPLE] Luxemburgo lidera ranking europeo de salarios",
+      "url": "https://example.com/sample-6",
+      "source": "El País",
+      "sourceCountry": "ES",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-06T15:00:00Z",
+      "summary": "Elemento de muestra. Un informe sitúa a Luxemburgo a la cabeza de los salarios medios en la UE.",
+      "imageUrl": null,
+      "topics": ["economy"]
+    },
+    {
+      "id": "sample0000000000000000000000000000000007",
+      "title": "[SAMPLE] Exploring Luxembourg City in 48 hours — travel vlog",
+      "url": "https://www.youtube.com/watch?v=sample7",
+      "source": "YouTube",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "en",
+      "publishedAt": "2026-07-06T10:00:00Z",
+      "summary": "Sample video item for development.",
+      "imageUrl": null,
+      "topics": ["travel", "culture"]
+    },
+    {
+      "id": "sample0000000000000000000000000000000008",
+      "title": "[SAMPLE] Люксембург увеличивает взносы в оборонный бюджет НАТО",
+      "url": "https://example.com/sample-8",
+      "source": "РБК",
+      "sourceCountry": "RU",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-05T20:30:00Z",
+      "summary": "Пример записи. Люксембург объявил об увеличении оборонных расходов.",
+      "imageUrl": null,
+      "topics": ["politics"]
+    }
+  ]
+}
