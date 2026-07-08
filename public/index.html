@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lëtz World — Luxembourg in the world's news</title>
+<meta name="description" content="Luxembourg news aggregated from media around the world, in every language.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <span class="brand-flag" aria-hidden="true">🇱🇺</span>
+      <div class="brand-text">
+        <h1 class="brand-name">Lëtz World</h1>
+        <p class="brand-tagline">Luxembourg in the world&rsquo;s news</p>
+      </div>
+    </div>
+    <div class="header-controls">
+      <span class="last-updated" id="last-updated" role="status" aria-live="polite">Loading…</span>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-pressed="false" aria-label="Toggle dark mode">
+        <span class="theme-icon" aria-hidden="true">🌙</span>
+        <span class="theme-label">Dark</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+  <div class="controls-bar">
+    <div class="controls-inner">
+      <nav class="type-tabs" aria-label="Content type">
+        <button type="button" class="tab is-active" data-type="all" aria-pressed="true">All</button>
+        <button type="button" class="tab" data-type="article" aria-pressed="false">Articles</button>
+        <button type="button" class="tab" data-type="video" aria-pressed="false">Videos</button>
+      </nav>
+
+      <div class="search-wrap">
+        <label class="visually-hidden" for="search-input">Search news</label>
+        <input type="search" id="search-input" class="search-input" placeholder="Search titles, summaries, sources…" autocomplete="off">
+      </div>
+
+      <div class="select-wrap">
+        <label class="visually-hidden" for="source-select">Filter by source</label>
+        <select id="source-select" class="source-select">
+          <option value="">All sources</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="chips-row" id="lang-chips" aria-label="Filter by language">
+      <span class="chips-label">Language</span>
+      <div class="chips-list" id="lang-chips-list">
+        <button type="button" class="chip is-active" data-lang="" aria-pressed="true">All languages</button>
+      </div>
+    </div>
+
+    <div class="chips-row" id="topic-chips" aria-label="Filter by topic">
+      <span class="chips-label">Topic</span>
+      <div class="chips-list" id="topic-chips-list">
+        <button type="button" class="chip is-active" data-topic="" aria-pressed="true">All topics</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="results-info" id="results-info" role="status" aria-live="polite"></div>
+
+  <section aria-label="News items">
+    <div class="card-grid" id="card-grid"></div>
+
+    <div class="state-panel" id="loading-state" hidden>
+      <p>Loading news…</p>
+    </div>
+
+    <div class="state-panel" id="error-state" hidden>
+      <p class="state-icon" aria-hidden="true">⚠️</p>
+      <p>We couldn&rsquo;t load the news feed right now.</p>
+      <button type="button" class="retry-btn" id="retry-btn">Try again</button>
+    </div>
+
+    <div class="state-panel" id="empty-state" hidden>
+      <p class="state-icon" aria-hidden="true">🔍</p>
+      <p>No items match your filters.</p>
+      <button type="button" class="retry-btn" id="clear-filters-btn">Clear filters</button>
+    </div>
+
+    <div class="load-more-wrap" id="load-more-wrap" hidden>
+      <button type="button" class="load-more-btn" id="load-more-btn">Load more</button>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>Lëtz World aggregates public news coverage of Luxembourg from outlets outside Luxembourg. Not affiliated with any government or media outlet. Links go to original sources.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
