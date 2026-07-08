@@ -36,9 +36,12 @@ async function main() {
   const fresh = [];
   for (const r of results) fresh.push(...r.items);
 
-  // Merge with prior history (discard sample data).
+  // Merge with prior history (discard sample data). Prior items FIRST: dedupe
+  // keeps the first occurrence, and the earliest-fetched copy must win (contract
+  // rule 3) — Google News re-issues new redirect URLs for the same story, so a
+  // fresh copy winning the title-dedupe would discard the cached translations.
   const prior = await loadPrior();
-  const merged = [...fresh, ...prior];
+  const merged = [...prior, ...fresh];
 
   // Rule 3: dedupe by id, then by normalized title (keep first seen = freshest listed first).
   const byId = new Map();

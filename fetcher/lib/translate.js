@@ -11,6 +11,7 @@ const ENDPOINT = 'https://translate.googleapis.com/translate_a/single';
 const CONCURRENCY = 3;
 const REQUEST_GAP_MS = 120; // per-worker pause between requests
 const MAX_CALLS_PER_RUN = 4500;
+const TIME_BUDGET_MS = 10 * 60000; // never blow the CI job timeout; rest deferred to next run
 const MAX_SUMMARY_CHARS = 220;
 const SEP = '\n\n';
 
@@ -78,11 +79,12 @@ export async function translateItems(items) {
   }
 
   const total = jobs.length;
+  const deadline = Date.now() + TIME_BUDGET_MS;
   let done = 0;
   let translated = 0;
   const workers = Array.from({ length: CONCURRENCY }, async () => {
     while (jobs.length > 0) {
-      if (calls >= MAX_CALLS_PER_RUN) return;
+      if (calls >= MAX_CALLS_PER_RUN || Date.now() > deadline) return;
       if (failures > 40 && failures > calls * 0.5) return; // endpoint is blocking us — bail
       const { item, lang } = jobs.shift();
       const result = await translateItem(item, lang);
