@@ -7,6 +7,10 @@ import { sha1, passesKeyword, isFalsePositive, detectTopics, withTimeout, matche
 const ACTOR = 'clockworks~tiktok-scraper';
 const TIMEOUT_MS = 240000; // actor run-sync can take a couple of minutes
 
+// Distinctly Luxembourgish words — a caption using them means a local creator
+// (de uses "ich/schön", nl "ik/mooi", so these don't collide).
+const LB_CAPTION = /\b(ech|mäin?|sch[éè]in|moien|gutt|hunn|l[ëe]tzebuerg\w*)\b/i;
+
 // Naive language tag from which keyword list matches the caption; UI uses it
 // for the language filter chips. Defaults to 'en'.
 function detectLang(text, keywords) {
@@ -54,10 +58,13 @@ export async function fetchTikTok(cfg, keywords, excludeSources = []) {
       const allKeywords = Object.values(keywords).flat();
       if (!passesKeyword(caption, allKeywords)) { result.dropped++; continue; }
       if (isFalsePositive(caption)) { result.dropped++; continue; }
-      // No Luxembourgish tiktokers or news sites: account region LU, or a
-      // name matching the excluded-source patterns.
+      // No Luxembourgish tiktokers or news sites. TikTok rarely provides the
+      // account region, so also treat these as local: Luxembourg in the handle
+      // (@pwc_luxembourg …) and captions written in Luxembourgish.
       if ((author.region || '').toUpperCase() === 'LU') { result.dropped++; continue; }
       if (matchesExcludedSource(`${author.name || ''} ${authorName}`, excludeSources)) { result.dropped++; continue; }
+      if (/luxembourg|luxemburg|l[ëe]tzebuerg/i.test(`${author.name || ''} ${authorName}`)) { result.dropped++; continue; }
+      if (LB_CAPTION.test(caption)) { result.dropped++; continue; }
       const publishedAt = v.createTimeISO || (v.createTime ? new Date(v.createTime * 1000).toISOString() : null);
       if (!publishedAt) { result.dropped++; continue; }
       result.items.push({
