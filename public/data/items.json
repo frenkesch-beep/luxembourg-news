@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-09T07:24:43.623Z",
+  "generatedAt": "2026-07-09T07:33:01.133Z",
   "items": [
+    {
+      "id": "83d5d2f742ccc8ef972a0ba6e549476befb82316",
+      "title": "Air Dolomiti ha un E195 in AOG a Lussemburgo - Italiavola & Travel –",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON3UwS1IwSjZuRnkwLWEwOFlMZEV6NkZXOXNmWllIaXUwWVkzXzM1ek43dnBfMzZmYnBHdHVfNGtTODdTbjhqUjFnVmN0bm0ycVE0eWRBQUtrSng5Mk1xRHVnZWx0a3JiTjlIZnlaWGVuTHdpcFVwdE1iMFJLSXhGei1EYnM5dw?oc=5",
+      "source": "Italiavola &amp; Travel –",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-07-09T07:21:06.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Air Dolomiti dispose d'un E195 en AOG au Luxembourg - Italiavola & Travel –",
+          "summary": ""
+        },
+        "de": {
+          "title": "Air Dolomiti hat eine E195 in AOG in Luxemburg - Italiavola & Travel –",
+          "summary": ""
+        },
+        "en": {
+          "title": "Air Dolomiti has an E195 in AOG in Luxembourg - Italiavola & Travel –",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Air Dolomiti huet eng E195 zu AOG zu Lëtzebuerg - Italiavola & Travel -",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "b5dabe9045b65c3d2087d2d3e7ca5ab85ac16649",
       "title": "WIADOMOŚĆ - Zakazy dla ciężarówek we Francji i Luksemburgu",
@@ -464,6 +497,39 @@
         },
         "de": {
           "title": "Der neue Trainer wurde in der Europa-Qualifikation in die heiße Luft geworfen – Ilves kreuzte in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0429cf1224d8e997998b373d138ce3bbfd93e94e",
+      "title": "Alliance tabela - Piłka nożna, Luksemburg",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSllCQVRlQ052Qmp2SkdTR2xlMl9Gb2ZaZ0pvS1BLaF9MbnBYcTVWRng3RVpqZ2NkZnR5OG9oYkk5X2V1cXlRZGYxeDc3bmQ3ZzlTMy1UYzFZaEwwX09BbEdyMi13YlQ2ZTdBLXg4TzVJZ0Q3UVZadW41bDg4bHE3UnVQb19tRDRwS1pkMmd2bTF5cWtJU1pWbQ?oc=5",
+      "source": "Flashscore.pl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-07-08T18:00:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Allianz Dësch - Football, Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Allianztabelle – Fußball, Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Alliance table - Football, Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tableau Alliance - Football, Luxembourg",
           "summary": ""
         }
       }
@@ -4625,6 +4691,39 @@
         },
         "de": {
           "title": "Ripple Labs erwirbt die UE Mika Casp-Lizenz in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "207ee844b79a220371f7e99c8be2511304a165d1",
+      "title": "リップルラボがルクセンブルクでEUのMiCA CASPライセンスを取得",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekRyZ2drc3l0ei1oY2dJQVJvWkFTZVRzUEgyTU0zaTloUnBOUUpzMGs3RVRGbVdRQllQRW9CbnlIMTNOX2duOXdJUWY4aktOSndnX2VfQWJVaHJBSG5ZTGZnSnNuVWVWYjY3WmJVN2JxOGlkdWU4X3FIVGhKYTFkbm55ZHNnTXRMQWtBMkFHRmxKMGw2NlE?oc=5",
+      "source": "KuCoin",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-06T19:32:34.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Ripple Labs erhält EU MiCA CASP-Lizenz in Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ripple Labs kritt EU MiCA CASP Lizenz zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ripple Labs obtains EU MiCA CASP license in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ripple Labs obtient la licence EU MiCA CASP au Luxembourg",
           "summary": ""
         }
       }
@@ -18925,6 +19024,39 @@
       }
     },
     {
+      "id": "27f983c9bf7aac02463354d5adc7bc9817446e78",
+      "title": "「日本人はしないって聞いた」「日本はどこに行っても同じだった」 ルクセンブルク人、イスラエル人、デンマーク人がショックを受けた日本の光景とは",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RZkhoN3ZBb2d2RjhGakNDUUpRLWNIQTBnOURkNTdsZE5tODdlYlpEc2l3d0tvaVM4RnlTZEVubmFFMWZxemFqYVlYbw?oc=5",
+      "source": "Hint-Pot | ヒントポット",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "``Ech hunn héieren, datt d'Japaner dat net maachen'' ``Et ass d'selwecht egal wou Dir a Japan gitt'' Wat war d'Szen a Japan, déi d'Lëtzebuerger, d'Israeli an d'Dänen schockéiert huet?",
+          "summary": ""
+        },
+        "de": {
+          "title": "„Ich habe gehört, dass Japaner das nicht tun.“ „Es ist das Gleiche, egal wohin man in Japan geht.“ Welche Szene in Japan schockierte Luxemburger, Israelis und Dänen?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "«J'ai entendu dire que les Japonais ne font pas ça.» «C'est pareil, peu importe où vous allez au Japon.» Quelle a été la scène au Japon qui a choqué les Luxembourgeois, les Israéliens et les Danois ?",
+          "summary": ""
+        },
+        "en": {
+          "title": "``I heard that Japanese people don't do that'' ``It's the same no matter where you go in Japan'' What was the scene in Japan that shocked Luxembourgers, Israelis, and Danes?",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "41b9c5d72c4a8a044378bc77d9a1ca8ae3b55137",
       "title": "Moldova Dışişleri Bakanlığı, Lüksemburg'un Milli Günü'nü kutladı",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTkthd2w3cUpKVHEyTjNLSndIZzh0dmJySFVGTXNPdWR1NG5aU0Q2eTFKbVhOOGM3SGJoem1TeUgxcTY4eHR0akNhNTJaZDJyNjA2MUhnVnBRVk12T2pGbDhLMGotbUUydDNyUENlWTFvX1ZwNXphWTlsRm9COFppRDFZSFRvR0pJT3FSRkh4UQ?oc=5",
@@ -20418,6 +20550,39 @@
         },
         "lb": {
           "title": "Tay Ninh - Association of Vietnamese Intellectuals in Belsch a Lëtzebuerg stäerkt bilateral Kooperatioun.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b2458fc827a3cf8ffe3062115badf65961dd4d58",
+      "title": "مباشر: كايا كالاس تعقد مؤتمراً صحفياً بعد اجتماع وزراء خارجية الاتحاد الأوروبي في لوكسمبورغ | أخب...",
+      "url": "https://www.youtube.com/watch?v=7D9m3nE6Zgw",
+      "source": "DWS News",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "ar",
+      "publishedAt": "2026-06-18T07:32:57.371Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/7D9m3nE6Zgw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxt9s7bFZonP2vDjJRkuuRPoVhVg",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "En direct : Kaya Callas tient une conférence de presse après la réunion des ministres des Affaires étrangères de l'Union européenne à Luxembourg | Dire...",
+          "summary": ""
+        },
+        "de": {
+          "title": "Live: Kaya Callas hält eine Pressekonferenz nach dem Treffen der Außenminister der Europäischen Union in Luxemburg | Erzählen...",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Live: D'Kaya Callas hält Pressekonferenz no der Reunioun vun den EU-Ausseministeren zu Lëtzebuerg | Sot...",
+          "summary": ""
+        },
+        "en": {
+          "title": "Live: Kaya Callas holds a press conference after the meeting of European Union foreign ministers in Luxembourg | Tell...",
           "summary": ""
         }
       }
