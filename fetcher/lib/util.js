@@ -85,18 +85,22 @@ const FP_REGEXES = [
   /provincie\s+luxemburg/i,            // Belgian province (nl)
   /provinz\s+luxemburg/i,              // Belgian province (de)
   /provincia\s+di\s+lussemburgo/i,     // Belgian province (it)
-  /jard[ií]n\s+de\s+luxemburgo/i,      // Paris garden (es)
+  /jard[ií][mn]s?\s+d[eo]l?\s+luxemburgo/i, // Paris garden (es "jardín del", pt "jardim do")
+  /pal[áa]cio\s+d[eo]l?\s+luxemburgo/i,     // Paris palace (es/pt)
   /rue\s+de\s+luxembourg/i,            // street name (Paris/Brussels)
-  /rosa\s+luxemburgo?/i,               // the German revolutionary
+  /rosa\s+(de\s+)?luxemburgo?/i,       // the German revolutionary (+ places named after her)
   /vanderlei\s+luxemburgo/i,           // Brazilian football coach
+  /luxemburgo['’]s\b/i,                // English possessive of "Luxemburgo" = the coach
   /\b(dr|mr|mrs|ms|miss|prof(essor)?)\.?\s+(\w+\s+)?luxembourg\b/i, // person named Luxembourg
 ];
 
-// The coach "Luxemburgo" (pt/es) — excluded whenever "Luxemburgo" co-occurs
-// with his football context. Country football ("Portugal x Luxemburgo") stays:
-// none of these terms appear in country-team coverage.
+// The coach "Luxemburgo" (pt/es spelling) — excluded whenever "Luxemburgo"
+// co-occurs with club-football context. For YouTube the haystack includes the
+// CHANNEL name, so football channels ("GP FUTEBOL NEWS", "Diversos FC") are
+// caught even when YouTube auto-translates the title to English. Country
+// coverage ("Portugal x Luxemburgo", diplomacy, royals) contains none of these.
 const COACH_CONTEXT =
-  /(vanderlei|ancelotti|neymar|rom[áa]rio|palmeiras|corinthians|flamengo|cruzeiro|sele[çc][ãa]o brasileira|ex-?t[ée]cnico|t[ée]cnico|treinador|entrenador|real madrid)/i;
+  /(vanderlei|ancelotti|neymar|rom[áa]rio|\bneto\b|denilson|leomar|\bftf\b|\bcbf\b|palmeiras|corinthians|flamengo|cruzeiro|sele[çc][ãa]o brasileira|ex-?t[ée]cnico|t[ée]cnico|treinador|entrenador|real madrid|futebol|f[úu]tbol|football|esportes?|deportes?|\bfc\b|eliminat)/i;
 
 export function isFalsePositive(text) {
   if (!text) return false;
