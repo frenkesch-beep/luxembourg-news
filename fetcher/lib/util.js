@@ -86,6 +86,9 @@ const FP_REGEXES = [
   /provinz\s+luxemburg/i,              // Belgian province (de)
   /provincia\s+di\s+lussemburgo/i,     // Belgian province (it)
   /jard[ií]n\s+de\s+luxemburgo/i,      // Paris garden (es)
+  /vanderlei\s+luxemburgo/i,           // Brazilian football coach
+  /t[ée]cnico\s+luxemburgo/i,          // "coach Luxemburgo" (pt/es)
+  /luxemburgo\s+(critic|detona|rips|desabafa|elogia)/i, // coach-as-subject headlines (pt)
 ];
 
 export function isFalsePositive(text) {

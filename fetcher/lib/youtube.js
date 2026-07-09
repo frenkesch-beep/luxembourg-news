@@ -73,7 +73,10 @@ export async function fetchYouTube(cfg, keywords) {
       // Keyword relevance check.
       if (!passesKeyword(haystack, langKeywords)) { result.dropped++; continue; }
       if (isFalsePositive(haystack)) { result.dropped++; continue; }
-      const date = parseRelativeDate(publishedText, now) || now;
+      // No parseable upload date (live streams, premieres, shelf entries) —
+      // drop rather than fabricate a fetch-time date.
+      const date = parseRelativeDate(publishedText, now);
+      if (!date) { result.dropped++; continue; }
       const thumbs = (vr.thumbnail && vr.thumbnail.thumbnails) || [];
       const imageUrl = thumbs.length ? thumbs[thumbs.length - 1].url : null;
       const videoUrl = `https://www.youtube.com/watch?v=${vr.videoId}`;
