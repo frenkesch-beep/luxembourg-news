@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-07-09T21:47:10.419Z",
+  "generatedAt": "2026-07-09T23:37:56.169Z",
   "items": [
+    {
+      "id": "757a5bed5748e56b38265f878a3431822fc7a690",
+      "title": "Luxemburgs Premier rät von Sozialkürzungen für Rüstung ab",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeUprOGxsMlRBUFdZMTJabTEzSlM3YjFNZGpNWWlwNW1CZGgyclRBczg4WXphMFRIR0lPeXVvVGF4bDVEUEtOWkNQaTVOTlZsb01wemtmWHNlMTQ5VDlVbzFfd3Z0ZHRORFlVc3NCckNoNU4xVUVsampOQmtnTmMwSmxrQnFZQTE5UHJVeGhUMHBxVkVxVVNfZmJMd2ZoTHNIcDVyVnl3OW5YTDRvMHhDLTlsZ3pQUm14?oc=5",
+      "source": "Ad-hoc-news.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-09T22:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg's prime minister advises against social cuts for armaments",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Premier ministre luxembourgeois déconseille les coupes sociales dans l'armement",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Lëtzebuerger Premier riedt géint sozial Kierzunge bei der Waffen aus",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0fa263c45eeb0c76245be5f5b43d07443e83bb5d",
+      "title": "Luxemburgs Premierminister widerspricht Trump zu Ukraine-Frieden",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVYxcTlVWGRKTjU1bzRMQ3ZfRlZuLXlzbXU5QjNpYW5IS21DeFRqY25HQkNrVVp6blNnRkdIY19fMHRTOE5HQWhWQXFDMGdycks0cFlYZTlMNGFObl8xd3U4aDFULVNxdnRJNGdLS2ExMHBHQnd1aFpkeUQyVXppZnR1UVB3ZnZEaTZrMHBIYVF1QmZHSngxYURPc3RUdmtDWi1PNGFwNkRwT2dQWWpSTjdfYUNzQQ?oc=5",
+      "source": "Ad-hoc-news.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-09T22:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Lëtzebuerger Premier widdersprécht dem Trump zum ukrainesche Fridden",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg's prime minister contradicts Trump on Ukraine peace",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Premier ministre luxembourgeois contredit Trump sur la paix en Ukraine",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "ea9343fe094e4b57d0279eeae5c99b7a1e338d2b",
       "title": "Grottaglie, rapinò una tabaccheria e fuggì all’estero: arrestato in Lussemburgo dopo tre anni",
@@ -88,6 +146,39 @@
         },
         "lb": {
           "title": "#fyyypppppppppppppp #europa🇪🇺 #eurotour #luxembourg #lapasserelle",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a09b0caa2e0117ab390ecb14170f25c6c1a7906a",
+      "title": "iOS e le cinque App Store restano gatekeeper: Apple perde a Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2lYY0NvN09kX1VYSXBXcmtHNi1CRVZnT2RXRVlEal9IbDFUU0pnLWdXQV96VFhMZS05S0pubHBzdnpGbVhYRXhobmFKUWlHNlZFU2VWZXRqdTVzMzdRNVVFaHcxemotejg3SlJ5ak4xQ1FGY1BlV2pkZlNQRU9MQ1NnYXEwUTlsWk5fMS0xNVUzMWNIeGlfOE8yV0F5RUFpUFBwQ9IBqgFBVV95cUxNczdRYXl2MHdxOWFaa1BlT0VGcGlNYTczaGxpZ0N3UDNXT0xYbFdrWjhVbVFNU2FvR1NjSW0xU0VBNDIxODJURzdoT2JadXUxdEljWVA2ejFNNW44aXgtajF1enNzSzNJOElnNUs5RFN6ZVdTVGY1VHhRQzFPNlRXUzlBYTVMOHpzNFJXbWk0eEwzakZaR2E0MDQ5M1ZQT01ZOG9PUFYtZTJLQQ?oc=5",
+      "source": "EduNews24",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-07-09T19:13:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "iOS und die fünf App Stores bleiben Gatekeeper: Apple verliert in Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "iOS an déi fënnef App Stores bleiwen Gatekeeper: Apple verléiert zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "iOS and the five App Stores remain gatekeepers: Apple loses in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "iOS et les cinq App Stores restent gardiens : Apple perd au Luxembourg",
           "summary": ""
         }
       }
@@ -2678,6 +2769,39 @@
       }
     },
     {
+      "id": "73991af5baa22d0ba17877013f9c60043409d1a4",
+      "title": "Ministrul Barna Tánczos: la Consiliul de Mediu, la Luxemburg: Comisia trebuie să realizeze o analiză amănunţită a situaţiei preţurilor la energie şi gaz, unde apreciem că există un risc de manipulare excesivă",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOenpkYjhyWXAzRnBidHg1S1c2cFhDNFg0WFdxNklaREp0T2JHSWlnNGkxa0pNZFRfbGNLc21yX2E2RkZjVnkxSG82ZloxUG5GcWZ1RWdHcFpUTXhjUFQ0cllTTGlVSllOamZBLXZpNkNTb3FBNFp5WmZnZlpmRGlHZXBLNUhpTUJzQXZoQjExV2FkeFFXQkxfcHFLYW84RjU1R1VuMWg0RzFhc3pOc0hlclRmMmdUU0tWLUlSTmwxdmtYVmJ6LTBVNTFTZjhHb3pHSDJoZDU1U0szbWlhU1dnVXdFdHBiMnFPemw1bWpILWlxZV9EUlc4TktkeHlfck4wMGJZYzJ1b19iZENwOUtOSFdrcVNTSnRUd2p4Ylk1dDd6RkNKTlVOdmppNUltbE1LUlFLQnY1ZWhqdzBqODVDZGhvOF8?oc=5",
+      "source": "Money.ro",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Minister Barna Tánczos: Beim Umweltrat in Luxemburg: Die Kommission muss eine gründliche Analyse der Situation der Energie- und Gaspreise durchführen, bei denen wir der Ansicht sind, dass die Gefahr übermäßiger Manipulation besteht",
+          "summary": ""
+        },
+        "en": {
+          "title": "Minister Barna Tánczos: at the Environment Council, in Luxembourg: The Commission must carry out a thorough analysis of the situation of energy and gas prices, where we consider that there is a risk of excessive manipulation",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Ministesch Barna Tánczos: am Ëmweltrot zu Lëtzebuerg: D'Kommissioun muss eng grëndlech Analyse vun der Situatioun vun den Energie- a Gaspräisser maachen, wou mir der Meenung sinn, datt et e Risiko vun enger exzessiver Manipulatioun besteet.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ministre Barna Tánczos : au Conseil Environnement, à Luxembourg : La Commission doit procéder à une analyse approfondie de la situation des prix de l'énergie et du gaz, où nous considérons qu'il existe un risque de manipulation excessive",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "59e2a0a59baed1a69d6d72432f397da3f1cb2a73",
       "title": "打過1劑AZ疫苗！盧森堡總理確診「住院隔離中」",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1sMWJwQlBaQzUtaTRVeGZOZHZXOWZodzVhRVg5dUdpdWdIWHp6NnFOODNDZkRRNUx4WmdselJjb0tGOHhRcHdJ0gFLQVVfeXFMTkRjRWNvZU9YcU5NMm95OWViMFI4dVNkSHdTUDVXMjZIZXR6ZzNEbElpVVdrZXhYY0FHZ1dkRWptMVh2NXY2elBpTXMw?oc=5",
@@ -3564,6 +3688,35 @@
         "en": {
           "title": "New Luxembourg euro coins struck with the image of Guillaume",
           "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f8c792f20ba167f85836cc84d7b800da5863f314",
+      "title": "Want to study in Luxembourg ? @MoveMe is Free for all students. Sign up for free on MoveMe before the offer ends 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembou",
+      "url": "https://www.tiktok.com/@tshayansharifi/video/7660097540204825878",
+      "source": "@tshayansharifi",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-07-08T10:10:48.000Z",
+      "summary": "Want to study in Luxembourg ? @MoveMe is Free for all students. Sign up for free on MoveMe before the offer ends 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembourg #studyinluxembourg #luxembourg #moveme",
+      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/ooBkBIGVlKitICvG4EiZwoidIzOvkaJ7ArBYh~tplv-tiktokx-origin.image?dr=14575&x-expires=1783810800&x-signature=BHI5okuSPVdqr4saoIMIIRv5qvQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Want to study in Luxembourg ? @MoveMe is Free for all students. Sign up for free on MoveMe before the offer ends 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembou",
+          "summary": "Want to study in Luxembourg ? @MoveMe is Free for all students. Sign up for free on MoveMe before the offer ends 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembourg #studyinluxembourg #luxembourg #moveme"
+        },
+        "de": {
+          "title": "Möchten Sie in Luxemburg studieren? @MoveMe ist für alle Studenten kostenlos. Melden Sie sich vor Angebotsende kostenlos bei MoveMe an 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembou",
+          "summary": "Möchten Sie in Luxemburg studieren? @MoveMe ist für alle Studenten kostenlos. Melden Sie sich vor Angebotsende kostenlos bei MoveMe an 🇱🇺🥳🤩 \n#luxemburgstadt #universitätvonluxemburg #studiereninluxemburg #luxemburg #moveme"
+        },
+        "lb": {
+          "title": "Wëllt Dir zu Lëtzebuerg studéieren? @MoveMe ass gratis fir all Studenten. Schreift Iech gratis op MoveMe ier d'Offer eriwwer ass 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembou",
+          "summary": "Wëllt Dir zu Lëtzebuerg studéieren? @MoveMe ass gratis fir all Studenten. Schreift Iech gratis op MoveMe ier d'Offer eriwwer ass 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembourg #studyinluxembourg #luxembourg #moveme"
         }
       }
     },
@@ -17418,6 +17571,36 @@
       }
     },
     {
+      "id": "37ba34e0641e2f04911f2bf9effff426a51651b8",
+      "title": "Luxembourg will be European headquarters of new multilateral defence bank, Carney says",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM3J1WGJKMDlTVnEzQ296Y2JMS0dzTFJIYWxOTmRscWxpYU9WZVc2bGVBZ1BOT1RKRU9KV1RQUnRMWk9mTndYaW8zYzhleGdIRUk4eDE5OVBuNV9mVkd5ekVEX1FXMmpjMHNYbTNxQTRrVUoxQ1Vwd24zZFpjRzR5YjRCSk9iT05qcDBrM1NZMzlzel9HYzhUY3UyckxTT0sxYV85T0ZQRmMxMVZwcTZHN0p5Z3J2U2Y5cklMYXRVMmNLS2hGeVowSFNB?oc=5",
+      "source": "Reuters",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance",
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg gëtt europäesche Sëtz vun der neier multilateraler Verteidegungsbank, seet de Carney",
+          "summary": ""
+        },
+        "de": {
+          "title": "Laut Carney wird Luxemburg der europäische Hauptsitz der neuen multilateralen Verteidigungsbank sein",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg sera le siège européen de la nouvelle banque multilatérale de défense, selon Carney",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "6c3f6e685ca7ac2e257c9e7e671e21331b8b8ad7",
       "title": "Какие стартапы победили на Nexus Luxembourg 2026 и что это говорит о запросах инвесторов",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdG9JMDk3NFpNVjJsLTRFRTV4dEhXT0Jlbmk5Nmd0STB4SGlpd0tnZ2J3amZFOEN4Mk00MDllT2ZhOVp6dEZ4S1B4MTJjTzNDQklEMVpfSkRsYXlLMEQ4a3R3eTh4aVg4UkRoRzM2aXR1blJDdTZGV0ZBMERYOFFCSV82NGRBRHpqVkNGV3J1eUhBQUhQcEUxekd5VnJJMHpieWU1U1RxVWdlM0Y5MzhDMjR6dm1nQ2JLMkZBLXRBajdfdw?oc=5",
@@ -17541,6 +17724,35 @@
         },
         "de": {
           "title": "Vorgeschlagene Änderungen der Luxemburger Verbriefungsverordnung...",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "049a4f73c26d94c1497b58f426c454a61a66bafa",
+      "title": "Christmas time in Luxembourg 🇱🇺 🎄\n\n📍Luxembourg City\n\n#luxembourg #luxemburgo #luxembourg🇱🇺 #traveltok #christmas ",
+      "url": "https://www.tiktok.com/@gui.por.ai/video/7655438592155634966",
+      "source": "@gui.por.ai",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-06-25T20:51:39.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/o8rYB7EIIFgqEcPfelFk9AgibNInQEAdDBZRD1~tplv-tiktokx-origin.image?dr=14575&x-expires=1783810800&x-signature=pkoR5aZf%2BLKe2Z52m1dkU8eAry4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Christmas time in Luxembourg 🇱🇺 🎄",
+          "summary": ""
+        },
+        "en": {
+          "title": "Christmas time in Luxembourg 🇱🇺 🎄",
+          "summary": ""
+        },
+        "de": {
+          "title": "Weihnachtszeit in Luxemburg 🇱🇺 🎄",
           "summary": ""
         }
       }
@@ -19485,6 +19697,39 @@
         },
         "lb": {
           "title": "Luxembourg Air Quality Index (AQI) and Air Pollution Information",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "19a4b38cd0abf11dfa9a7cd344cbd897b6a9504c",
+      "title": "Μαργαρίτης Σχοινάς από το Λουξεμβούργο: Ισχυρή ΚΑΠ, επαρκής χρηματοδότηση και περισσότερη ευελιξία, χωρίς λιγότερη Ευρώπη",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrbEdhcmtNc096VXYzdGhSaXF3UE1SZGVUZVAzYy1VaFRwZ3ZJTi1nal9jVlgyR2tZLVVNUzRXUHdCLUNWelhCWmVCdUtucVNvM0piV3pJeHQ4WVF1bUttX25kenM2SVVlM0x4ZUdUOVJQMkdRLThMQjBR?oc=5",
+      "source": "κεα ημαθιας",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-06-24T10:30:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Margaritis Schinas du Luxembourg : une PAC forte, un financement adéquat et plus de flexibilité, sans moins d’Europe",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Margaritis Schinas vu Lëtzebuerg: Staark CAP, adäquate Finanzéierung a méi Flexibilitéit, ouni manner Europa",
+          "summary": ""
+        },
+        "en": {
+          "title": "Margaritis Schinas from Luxembourg: Strong CAP, adequate funding and more flexibility, without less Europe",
+          "summary": ""
+        },
+        "de": {
+          "title": "Margaritis Schinas aus Luxemburg: Starke GAP, angemessene Finanzierung und mehr Flexibilität, ohne weniger Europa",
           "summary": ""
         }
       }
@@ -24170,6 +24415,39 @@
         },
         "de": {
           "title": "Europäische Liga 2026: Die Herren-Nationalmannschaft besiegt Luxemburg mit 3:0 und wartet auf ihre endgültige Rangliste",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3388016486cca6b8a7cee75970fbee13190183cd",
+      "title": "Λουξεμβούργο – Ελλάδα 0-3: Έκλεισε νικηφόρα το φετινό European League η Εθνική",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnFjUVZrLWVYUEhiVmdQQTF5UnhUSmhjcDlFejJsWHF5eF9yRFBzLU5hamVKbmVyNUtreENVekowMnhQVXNZek83cGsycDZmZVk1NkpLQVczRXNOd0d2bHV6cFVOTGRGSDBqNEY1RVoyUi1rUUlzWDQySVJZbGNBSXpLVzVxeVN1TG1jOC05YnI1c0xDT3N2T0JlaHVGQ1o1Q0czX1VaVTBaMjMxR2ViUTZsR2p2SGPSAbwBQVVfeXFMTU1uclB3bjJkeVZZUE9UUzNvbENuV0p3LWs4WGstX3NUV1ZPdHlUaGQ2UTY0Tm5YZEF3dlFEakd2Z0VHdllhMGNWMURWZUJSLVB2UjdOUTNRLXBjQ1dUVWUtei1nVmgyWmRKYmxKTjZnWEhheVN1SGJQcWlFdk1sVlBZbG5leUJqY2E1Znd2eFBXSl92MGJYU0gtQ2hoSTRnd0dJUFFFWWhiWlR5RjdkTWRCMWRiLVdTdF9tWmQ?oc=5",
+      "source": "Gazzetta.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-06-21T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Luxembourg - Grèce 0-3 : L'équipe nationale a remporté la Ligue européenne cette année",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Greece 0-3: The national team won this year's European League",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Griicheland 0-3: D'Nationalequipe huet dëst Joer d'Europa League gewonnen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Griechenland 0:3: Die Nationalmannschaft hat die diesjährige Europaliga gewonnen",
           "summary": ""
         }
       }
