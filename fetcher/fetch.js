@@ -137,7 +137,13 @@ function printSummary(results, items, tstats) {
   }
 }
 
-main().catch((e) => {
-  console.error('Fatal:', e);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    // Force exit: lingering keep-alive sockets (Apify/undici) can hold the
+    // event loop open indefinitely after all work is done.
+    process.exit(0);
+  })
+  .catch((e) => {
+    console.error('Fatal:', e);
+    process.exit(1);
+  });
