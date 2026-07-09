@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-07-09T04:38:04.480Z",
+  "generatedAt": "2026-07-09T05:29:40.557Z",
   "items": [
+    {
+      "id": "f9cb5cac3c4dbf875c8163cf019ffb95052f375e",
+      "title": "Meaux : découvrez la programmation du Théâtre Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckVtazF3bF84bnp3TWlUNHQzQ1o5X25mN0lwbnJ4Q3E2NHJWVlBOcFV5V0xIRG0zejJuTHRFZk1wVkJOVGZGWkstUHUtLWF2eFowX3N1UGRlYUw0cHdMWnlBSGRjUm5vdTZfUzlHUkZINUw1aFpTVFN4MlpNT1BVcGtINVd1b3pvRlkwMmVlbndHNVdZMmhTSkNwT2xEN2tTeXdPUWJGVUVrMk9sRWszQS0yaDhqZw?oc=5",
+      "source": "mesinfos",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-09T05:15:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "Meaux: discover the programming of the Théâtre Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Meaux: Entdeckt d'Programmatioun vum Théâtre Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Meaux: Entdecken Sie das Programm des Théâtre Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "569eb17b0b49728aeb8d8a26aad6728297705b0c",
+      "title": "En 2026, inflation au Luxembourg, l'énergie reflue, les services et abonnements deviennent le moteur, ce qui change pour vous",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMFhZZmZjSHlQZVFfb1g3OW9jUGJOR1JIam9iblh5VGtOZ3VoR3F6Nnd0ZndDd09PVHlnQ3BqZ2pULTBFYVJybnFJNEdYdmxZcEZDY2JTVVhJOW0tZ3RycVM1dHZ3MjlQOFUtTW5KdnFyMDM0d3BsbG0zcWJyNjkwZjM4dTZ2UTVtS1U1M09XWm1ReFI2WmFPc1Y3RDJPUGsyMHk4NVpkZlRNbmg2NE5UTHRmR2ZxcC1yTXJlZHFRT1VHV0ZCQm1Bc0pBcjFOTm1QZHhyM2NmYw?oc=5",
+      "source": "vonews.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-09T05:11:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "economy"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Am Joer 2026 ginn d'Inflatioun zu Lëtzebuerg, d'Energie erof, d'Servicer an d'Abonnementer déi dreiwend Kraaft, déi sech fir Iech ännert",
+          "summary": ""
+        },
+        "en": {
+          "title": "In 2026, inflation in Luxembourg, energy declines, services and subscriptions become the driving force, which changes for you",
+          "summary": ""
+        },
+        "de": {
+          "title": "Im Jahr 2026 werden die Inflation in Luxemburg, Energierückgänge, Dienstleistungen und Abonnements zur treibenden Kraft, die sich für Sie ändert",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "94f1e38ed2f423aac5c39dc5a38f739f0a2d02ea",
       "title": "Hansen i listan till lördagens Rallye Lëtzebuerg i Luxemburg.",
@@ -320,6 +378,39 @@
       }
     },
     {
+      "id": "0429cf1224d8e997998b373d138ce3bbfd93e94e",
+      "title": "Alliance tabela - Piłka nożna, Luksemburg",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSllCQVRlQ052Qmp2SkdTR2xlMl9Gb2ZaZ0pvS1BLaF9MbnBYcTVWRng3RVpqZ2NkZnR5OG9oYkk5X2V1cXlRZGYxeDc3bmQ3ZzlTMy1UYzFZaEwwX09BbEdyMi13YlQ2ZTdBLXg4TzVJZ0Q3UVZadW41bDg4bHE3UnVQb19tRDRwS1pkMmd2bTF5cWtJU1pWbQ?oc=5",
+      "source": "Flashscore.pl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-07-08T18:00:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Allianz Dësch - Football, Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Allianztabelle – Fußball, Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tableau Alliance - Football, Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Alliance table - Football, Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "07d31298adbea2a9a4fd95f1cccdf78c8fdf14dc",
       "title": "Para Luxemburgo, FTF está “acéfala” e gestão de Leomar “é muito ruim”",
       "url": "https://www.youtube.com/watch?v=dTg-V6zPCcI",
@@ -406,6 +497,39 @@
         },
         "fr": {
           "title": "Le prix du XRP baisse après la licence MiCA au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "442596e966f06455fa8b88c4c70dd75981eeb00a",
+      "title": "Frieden: Lüksemburg, NATO'ya olan sarsılmaz bağlılığını yineledi",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1lMOHNoRDRKWTN0ZEhJbDBnMk9wX1VLbWhVRlZuWWlTNkdFRGtMLTYyMGJJSDUxbHRhN1pNd1dPblhkZzhaSko2dDJGQkRtN2FPdDNWZ0RmQW5oR1VYeG1jX0MyNWpoWlhGVVgtUVZMR2JIWmtSTnkwT2pSVDUyUExEc2lZY242aXZ3dmh5RQ?oc=5",
+      "source": "hibya.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-07-08T14:51:57.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "eu"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Frieden: Lëtzebuerg widderhëlt säin onbestänneg Engagement fir d'NATO",
+          "summary": ""
+        },
+        "de": {
+          "title": "Frieden: Luxemburg bekräftigt sein unerschütterliches Engagement für die NATO",
+          "summary": ""
+        },
+        "en": {
+          "title": "Frieden: Luxembourg reiterates its unwavering commitment to NATO",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Frieden: le Luxembourg réitère son engagement indéfectible envers l'OTAN",
           "summary": ""
         }
       }
@@ -613,6 +737,35 @@
         },
         "fr": {
           "title": "🇱🇺 Le Luxembourg augmente son budget pour consacrer 2 millions d'euros à l'Eurovision",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ca33a15a85eb39c1117f3f35019143eef828dbaa",
+      "title": "Plus de trains mais des navettes gratuites vers le Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3JZODNJcXhKcGJ1M08wOVNSMzdhYlFXSS1mbEN3Qmx2VDA5MFNEUjhjdnlTZFIzR202QzRfcVVWSUNNdWd0R1ZXd2wzNmw0MHJxeWVrcjdqSGRROEl5OVRqT3U5TVlDa3pabWNDdTd4OVZzSUJTOVFOWm1QcnZlQnR2ZVZoRHJUSW1OaVVURWVXeF9PMEtKMlZlUFpyTGc5S3RDaUp4ZHZZdw?oc=5",
+      "source": "La Semaine",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-08T12:09:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "No more trains but free shuttles to Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Keng Zich méi mee gratis Navetten op Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Keine Züge mehr, aber kostenlose Shuttles nach Luxemburg",
           "summary": ""
         }
       }
@@ -3148,6 +3301,39 @@
       }
     },
     {
+      "id": "163d6de640987c4fb9079f70a60f3c6205aa2467",
+      "title": "NOTÍCIAS | 06.07.26 | 12:00",
+      "url": "https://www.youtube.com/watch?v=LRIlD52ffPc",
+      "source": "Radio Latina Luxemburgo",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "pt",
+      "publishedAt": "2026-07-07T05:29:24.938Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/LRIlD52ffPc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHcbC-hVHnLdSwY90ZV7LFDy30Fg",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "NEWS | 06.07.26 | 12:00",
+          "summary": ""
+        },
+        "fr": {
+          "title": "NOUVELLES | 06.07.26 | 12h00",
+          "summary": ""
+        },
+        "de": {
+          "title": "NACHRICHTEN | 06.07.26 | 12:00",
+          "summary": ""
+        },
+        "en": {
+          "title": "NEWS | 06.07.26 | 12:00",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "c0de10a7a508264404b5cf27840352dfe36fe845",
       "title": "Дюделанж — матчі Люксембург: Національний дивізіон 2026/2027",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSng5ZF91UklqdmNwcHF2bGFIajFOZU9MSUFhc0V5VzJIVUtBRDB5SEgweWhZZGxTNlJNaTdWN2dYbzQ3RkFDbEVBVjRZQzRiOGxYdzdVdzVYaEs4VE5la3VGZnVjRTFiTEtnMkp2dndfWHUxdXNRWGhBODMtb2d3bWtELXlkRUdlSlI5ajlBenB6UUdsZXRYNGJ6UTRoZFE?oc=5",
@@ -4513,6 +4699,39 @@
         },
         "de": {
           "title": "Ripple Labs erwirbt die UE Mika Casp-Lizenz in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "207ee844b79a220371f7e99c8be2511304a165d1",
+      "title": "リップルラボがルクセンブルクでEUのMiCA CASPライセンスを取得",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekRyZ2drc3l0ei1oY2dJQVJvWkFTZVRzUEgyTU0zaTloUnBOUUpzMGs3RVRGbVdRQllQRW9CbnlIMTNOX2duOXdJUWY4aktOSndnX2VfQWJVaHJBSG5ZTGZnSnNuVWVWYjY3WmJVN2JxOGlkdWU4X3FIVGhKYTFkbm55ZHNnTXRMQWtBMkFHRmxKMGw2NlE?oc=5",
+      "source": "KuCoin",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-06T19:32:34.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Ripple Labs obtient la licence EU MiCA CASP au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ripple Labs kritt EU MiCA CASP Lizenz zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ripple Labs obtains EU MiCA CASP license in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ripple Labs erhält EU MiCA CASP-Lizenz in Luxemburg",
           "summary": ""
         }
       }
@@ -13148,6 +13367,39 @@
       }
     },
     {
+      "id": "6587cc62ab7d8bc39a24b0049772206a30a3352a",
+      "title": "Люксембург - місце, де народився Європейський Союз та Шенген Shake Shack Calgary (3SD0nslw0r)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9keUliOHF5MGJhMjQyNE5Dcmt0V1gxbG5TeXRDZUl3ajN1OHJib1RiZkY2SWJkVnpOT29leldETFQ3NE5Ta0dwbXB0M1djdTVvQk41Szd3U1pBSWMySE5PZDFHOVo?oc=5",
+      "source": "Fathom Journal",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-06-26T09:20:49.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg - Gebuertsplaz vun der Europäescher Unioun a Schengen Shake Shack Calgary (3SD0nslw0r)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – der Geburtsort der Europäischen Union und Schengen Shake Shack Calgary (3SD0nslw0r)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - berceau de l'Union européenne et de Schengen Shake Shack Calgary (3SD0nslw0r)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - the birthplace of the European Union and Schengen Shake Shack Calgary (3SD0nslw0r)",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "f469ba9214c8f7ea2ed23608cd3ef45f6e8feb3b",
       "title": "Παπασταύρου από το Λουξεμβούργο: «Ισχυρά εθνικά και ευρωπαϊκά δίκτυα εξασφαλίζουν ενεργειακή θωράκιση και προσιτές τιμές ενέργειας για όλους",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb25JVGVQUUNOVm5WekFCZ0VnVzVOZGhRcDFicENGY0NCb040eVNMcW9GSHV0YjRzb1JYRE1oVVVyaUd0MXUwdFR3MVdMdzF0eTJfZmdBX0JncVQ3QnNVMEpzakpRQ19acWl2VzFORVRxNU8tb2RDZjRVVGVReWxXWThsWmZUc3FvcmJyVjJuY015RG9mTjBINWcydU5CSjNwUFhjdEduamN4S05pLW5mWllHQzNnSUQ4T2ljQ1N6dkRXTm5iZ2RRMDd6VklRLXlvRUJaejFUNWhuYmthYUxZVmRmYnRUdzdTRElaVS10VmRURFM2blVMMUNuWjREZmRVYmVGcU1Fdw?oc=5",
@@ -18846,6 +19098,72 @@
       }
     },
     {
+      "id": "86473a470d65af3eabbafc37a3157e99fe8efec3",
+      "title": "Президент Ильхам Алиев направил поздравительное письмо Великому герцогу Люксембурга",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aclpSTWNxMVphNW1GekZDa3VQazRfcElRM2xUTVE1am5QeGNvYUg0UnNNbVNkT1dnczMwNC1GZmt4T05CNG92NFEteE1KMWhfYVhDWml3Uktaa0puYzVz?oc=5",
+      "source": "Day.Az",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le président Ilham Aliyev a envoyé une lettre de félicitations au Grand-Duc de Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "President Ilham Aliyev sent a congratulatory letter to the Grand Duke of Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Präsident Ilham Aliyev sandte einen Glückwunschbrief an den Großherzog von Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De President Ilham Aliyev huet dem Groussherzog vu Lëtzebuerg e Gratulatiounsbréif geschéckt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "27f983c9bf7aac02463354d5adc7bc9817446e78",
+      "title": "「日本人はしないって聞いた」「日本はどこに行っても同じだった」 ルクセンブルク人、イスラエル人、デンマーク人がショックを受けた日本の光景とは",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RZkhoN3ZBb2d2RjhGakNDUUpRLWNIQTBnOURkNTdsZE5tODdlYlpEc2l3d0tvaVM4RnlTZEVubmFFMWZxemFqYVlYbw?oc=5",
+      "source": "Hint-Pot | ヒントポット",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "„Ich habe gehört, dass Japaner das nicht tun.“ „Es ist das Gleiche, egal wohin man in Japan geht.“ Welche Szene in Japan schockierte Luxemburger, Israelis und Dänen?",
+          "summary": ""
+        },
+        "lb": {
+          "title": "``Ech hunn héieren, datt d'Japaner dat net maachen'' ``Et ass d'selwecht egal wou Dir a Japan gitt'' Wat war d'Szen a Japan, déi d'Lëtzebuerger, d'Israeli an d'Dänen schockéiert huet?",
+          "summary": ""
+        },
+        "en": {
+          "title": "``I heard that Japanese people don't do that'' ``It's the same no matter where you go in Japan'' What was the scene in Japan that shocked Luxembourgers, Israelis, and Danes?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "«J'ai entendu dire que les Japonais ne font pas ça.» «C'est pareil, peu importe où vous allez au Japon.» Quelle a été la scène au Japon qui a choqué les Luxembourgeois, les Israéliens et les Danois ?",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "41b9c5d72c4a8a044378bc77d9a1ca8ae3b55137",
       "title": "Moldova Dışişleri Bakanlığı, Lüksemburg'un Milli Günü'nü kutladı",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTkthd2w3cUpKVHEyTjNLSndIZzh0dmJySFVGTXNPdWR1NG5aU0Q2eTFKbVhOOGM3SGJoem1TeUgxcTY4eHR0akNhNTJaZDJyNjA2MUhnVnBRVk12T2pGbDhLMGotbUUydDNyUENlWTFvX1ZwNXphWTlsRm9COFppRDFZSFRvR0pJT3FSRkh4UQ?oc=5",
@@ -20669,6 +20987,39 @@
         },
         "lb": {
           "title": "Geschicht: Lëtzebuerg 0-3 Tschechoslowakei | UEFA EURO 1980",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b2458fc827a3cf8ffe3062115badf65961dd4d58",
+      "title": "مباشر: كايا كالاس تعقد مؤتمراً صحفياً بعد اجتماع وزراء خارجية الاتحاد الأوروبي في لوكسمبورغ | أخب...",
+      "url": "https://www.youtube.com/watch?v=7D9m3nE6Zgw",
+      "source": "DWS News",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "ar",
+      "publishedAt": "2026-06-18T05:29:25.193Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/7D9m3nE6Zgw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxt9s7bFZonP2vDjJRkuuRPoVhVg",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Live: D'Kaya Callas hält Pressekonferenz no der Reunioun vun den EU-Ausseministeren zu Lëtzebuerg | Sot...",
+          "summary": ""
+        },
+        "en": {
+          "title": "Live: Kaya Callas holds a press conference after the meeting of European Union foreign ministers in Luxembourg | Tell...",
+          "summary": ""
+        },
+        "de": {
+          "title": "Live: Kaya Callas hält eine Pressekonferenz nach dem Treffen der Außenminister der Europäischen Union in Luxemburg | Erzählen...",
+          "summary": ""
+        },
+        "fr": {
+          "title": "En direct : Kaya Callas tient une conférence de presse après la réunion des ministres des Affaires étrangères de l'Union européenne à Luxembourg | Dire...",
           "summary": ""
         }
       }
@@ -25652,6 +26003,35 @@
         },
         "lb": {
           "title": "De Finanzminister bedeelegt sech un der Eurogruppversammlung an der ECOFIN zu Lëtzebuerg. Reunioune mat Vertrieder vun der Europäescher Investitiounsbank an dem Europäeschen Investitiounsfong",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "49bb100c3ae472901e602c81f939b0fcd4e39b7b",
+      "title": "International news from June 9th | RTL Luxembourg",
+      "url": "https://www.youtube.com/watch?v=jwQPYNBEjMQ",
+      "source": "RTL Luxembourg",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "fr",
+      "publishedAt": "2026-06-11T05:29:24.487Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/jwQPYNBEjMQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6GL8VmOIJz-UGgcPdBqbDPiUP4w",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "International Noriichten vum 9. Juni | RTL Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Internationale Nachrichten vom 9. Juni | RTL Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "International news from June 9th | RTL Luxembourg",
           "summary": ""
         }
       }
