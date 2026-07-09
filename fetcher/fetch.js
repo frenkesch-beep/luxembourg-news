@@ -8,6 +8,8 @@ import { dirname, resolve } from 'node:path';
 import { normalizeTitle, runPool } from './lib/util.js';
 import { fetchGoogleNews, fetchOutlet } from './lib/rss.js';
 import { fetchYouTube } from './lib/youtube.js';
+import { fetchMovies } from './lib/movies.js';
+import { fetchTikTok } from './lib/tiktok.js';
 import { translateItems, SITE_LANGS } from './lib/translate.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -21,13 +23,18 @@ const MAX_ITEMS = 1500;
 
 async function main() {
   const sources = JSON.parse(await readFile(SOURCES_PATH, 'utf8'));
-  const { googleNews = [], outlets = [], youtube = [], excludeDomains = [], keywords = {} } = sources;
+  const {
+    googleNews = [], outlets = [], youtube = [], excludeDomains = [], keywords = {},
+    excludeSources = [], movies = null, tiktok = null,
+  } = sources;
 
-  // Build all feed tasks (RSS first, then YouTube).
+  // Build all feed tasks (RSS first, then YouTube, then movies).
   const tasks = [];
-  for (const cfg of googleNews) tasks.push(() => fetchGoogleNews(cfg, keywords, excludeDomains));
+  for (const cfg of googleNews) tasks.push(() => fetchGoogleNews(cfg, keywords, excludeDomains, excludeSources));
   for (const cfg of outlets) tasks.push(() => fetchOutlet(cfg, keywords, excludeDomains));
-  for (const cfg of youtube) tasks.push(() => fetchYouTube(cfg, keywords));
+  for (const cfg of youtube) tasks.push(() => fetchYouTube(cfg, keywords, excludeSources));
+  if (movies) tasks.push(() => fetchMovies(movies));
+  if (tiktok) tasks.push(() => fetchTikTok(tiktok, keywords, excludeSources));
 
   console.log(`Fetching ${tasks.length} feeds (concurrency ${CONCURRENCY})…`);
   const results = await runPool(tasks, CONCURRENCY);
@@ -57,15 +64,20 @@ async function main() {
     deduped.push(it);
   }
 
-  // Rule 5: 30-day window, sort desc, cap.
+  // Rule 5: 30-day window, sort desc, cap. Movies are timeless (publishedAt is
+  // the film's release year) — exempt from the window and the cap.
   const cutoff = Date.now() - WINDOW_DAYS * 86400000;
   const now = Date.now();
+  const movieItems = deduped.filter((it) => it.type === 'movie');
   let items = deduped.filter((it) => {
+    if (it.type === 'movie') return false;
     const t = Date.parse(it.publishedAt);
     return !isNaN(t) && t >= cutoff && t <= now + 86400000; // tolerate slight clock skew
   });
   items.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
   if (items.length > MAX_ITEMS) items = items.slice(0, MAX_ITEMS);
+  movieItems.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
+  items = [...items, ...movieItems];
 
   // Translate titles/summaries into the site UI languages (cached per item).
   console.log(`\nTranslating into site languages (${SITE_LANGS.join(', ')})…`);

@@ -1,6 +1,7 @@
 // Best-effort YouTube search scraping (newest-first). Fails soft per query.
 import {
   sha1, passesKeyword, isFalsePositive, detectTopics, parseRelativeDate, withTimeout,
+  matchesExcludedSource,
 } from './util.js';
 
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36';
@@ -47,7 +48,7 @@ function runsText(field) {
 }
 
 // Fetch + parse one YouTube query. Returns { source, kept, dropped, error, items }.
-export async function fetchYouTube(cfg, keywords) {
+export async function fetchYouTube(cfg, keywords, excludeSources = []) {
   const label = `YouTube[${cfg.lang}]`;
   const result = { source: label, kept: 0, dropped: 0, error: null, items: [] };
   // sp=CAI%253D -> sort by upload date (newest first). hl/gl=en for parseable dates.
@@ -73,6 +74,8 @@ export async function fetchYouTube(cfg, keywords) {
       // Keyword relevance check.
       if (!passesKeyword(haystack, langKeywords)) { result.dropped++; continue; }
       if (isFalsePositive(haystack)) { result.dropped++; continue; }
+      // Luxembourgish channels (RTL Luxembourg, Radio Latina, …) are excluded by name.
+      if (matchesExcludedSource(owner, excludeSources)) { result.dropped++; continue; }
       // No parseable upload date (live streams, premieres, shelf entries) —
       // drop rather than fabricate a fetch-time date.
       const date = parseRelativeDate(publishedText, now);

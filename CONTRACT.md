@@ -53,7 +53,11 @@ Rules of engagement:
   "url": "https://... (final article/video url; resolve Google News redirect if feasible, else keep)",
   "source": "outlet name, e.g. \"BBC News\"",
   "sourceCountry": "ISO 3166-1 alpha-2 or \"\" if unknown",
-  "type": "article" | "video",
+  "type": "article" | "video" | "tiktok" | "movie",
+      // movie = film whose script mentions Luxembourg (QuoDB); publishedAt is the
+      //         release year, exempt from the 30-day window/cap
+      // tiktok = via Apify TikTok scraper; requires APIFY_TOKEN env (GitHub secret),
+      //          stage skipped when absent; LU-region creators excluded
   "lang": "ISO 639-1 code of the item's language",
   "publishedAt": "ISO-8601 UTC",
   "summary": "plain-text snippet, may be \"\" — strip HTML",
@@ -92,6 +96,10 @@ language and localizes all UI chrome from its `UI_STRINGS` dictionary.
   ],
   "excludeDomains": ["rtl.lu", "wort.lu", "tageblatt.lu", "luxtimes.lu", "delano.lu",
                      "paperjam.lu", "lessentiel.lu", "chronicle.lu", "virgule.lu", "..."],
+  "excludeSources": ["rtl (luxembourg|letzebuerg|...)", "radio ?latina", "..."],  // case-insensitive
+                     // regexes matched against source/channel NAMES (YouTube channels,
+                     // Google News source names) — catches Luxembourgish media with no .lu URL
+  "movies": { "queries": ["luxembourg"] },  // QuoDB subtitle search for type:"movie" items
   "keywords": {
     "en": ["luxembourg"], "de": ["luxemburg"], "zh": ["卢森堡"], "ar": ["لوكسمبورغ"], "...": []
   }

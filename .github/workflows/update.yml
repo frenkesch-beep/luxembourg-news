@@ -29,6 +29,8 @@ jobs:
       - run: npm ci
       - name: Fetch news
         run: npm run fetch
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
       - name: Commit updated data
         run: |
           git config user.name "letz-world-bot"

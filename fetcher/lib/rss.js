@@ -2,7 +2,7 @@
 import Parser from 'rss-parser';
 import {
   sha1, stripHtml, domainOf, isExcludedDomain, passesKeyword, isFalsePositive,
-  detectTopics, stripSourceSuffix, withTimeout,
+  detectTopics, stripSourceSuffix, withTimeout, matchesExcludedSource,
 } from './util.js';
 
 const UA = 'Mozilla/5.0 (compatible; LuxembourgNewsBot/1.0; +https://github.com/luxembourg-news)';
@@ -83,7 +83,7 @@ function summarize(item, isGoogle) {
 }
 
 // Fetch one Google News locale feed. Returns { source, kept, dropped, error, items }.
-export async function fetchGoogleNews(cfg, keywords, excludeDomains) {
+export async function fetchGoogleNews(cfg, keywords, excludeDomains, excludeSources = []) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(cfg.query)}&hl=${cfg.hl}&gl=${cfg.gl}&ceid=${encodeURIComponent(cfg.ceid)}`;
   const label = `GoogleNews[${cfg.lang}/${cfg.gl}]`;
   const result = { source: label, kept: 0, dropped: 0, error: null, items: [] };
@@ -99,10 +99,11 @@ export async function fetchGoogleNews(cfg, keywords, excludeDomains) {
       const link = item.link || '';
       const sourceDomain = domainOf(src.url);
 
-      // Rule 1: exclude Luxembourgish media (check <source url> domain).
+      // Rule 1: exclude Luxembourgish media (check <source url> domain and name).
       if (isExcludedDomain(sourceDomain, excludeDomains) || isExcludedDomain(domainOf(link), excludeDomains)) {
         result.dropped++; return;
       }
+      if (matchesExcludedSource(sourceName, excludeSources)) { result.dropped++; return; }
       const haystack = `${cleanTitle} ${summarize(item, true)}`;
       // Rule 2: keyword relevance.
       if (!passesKeyword(haystack, langKeywords)) { result.dropped++; return; }

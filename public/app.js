@@ -46,7 +46,7 @@
   var UI_STRINGS = {
     en: {
       tagline: "Luxembourg in the world’s news",
-      tabs: { all: "All", article: "Articles", video: "Videos" },
+      tabs: { all: "All", article: "Articles", video: "Videos", tiktok: "TikTok", movie: "Movies" },
       searchPlaceholder: "Search titles, summaries, sources…",
       searchLabel: "Search news",
       allSources: "All sources",
@@ -77,7 +77,7 @@
     },
     lb: {
       tagline: "Lëtzebuerg an de Weltnoriichten",
-      tabs: { all: "Alles", article: "Artikelen", video: "Videoen" },
+      tabs: { all: "Alles", article: "Artikelen", video: "Videoen", tiktok: "TikTok", movie: "Filmer" },
       searchPlaceholder: "Titelen, Resuméen, Quelle sichen…",
       searchLabel: "News sichen",
       allSources: "All Quellen",
@@ -108,7 +108,7 @@
     },
     de: {
       tagline: "Luxemburg in den Nachrichten der Welt",
-      tabs: { all: "Alle", article: "Artikel", video: "Videos" },
+      tabs: { all: "Alle", article: "Artikel", video: "Videos", tiktok: "TikTok", movie: "Filme" },
       searchPlaceholder: "Titel, Zusammenfassungen, Quellen durchsuchen…",
       searchLabel: "Nachrichten durchsuchen",
       allSources: "Alle Quellen",
@@ -139,7 +139,7 @@
     },
     fr: {
       tagline: "Le Luxembourg dans la presse mondiale",
-      tabs: { all: "Tout", article: "Articles", video: "Vidéos" },
+      tabs: { all: "Tout", article: "Articles", video: "Vidéos", tiktok: "TikTok", movie: "Films" },
       searchPlaceholder: "Rechercher titres, résumés, sources…",
       searchLabel: "Rechercher",
       allSources: "Toutes les sources",
@@ -632,6 +632,16 @@
       badge.className = "video-badge";
       badge.innerHTML = "&#9658; VIDEO";
       meta.appendChild(badge);
+    } else if (item.type === "movie") {
+      var mbadge = document.createElement("span");
+      mbadge.className = "video-badge movie-badge";
+      mbadge.textContent = "🎬 " + t().tabs.movie.toUpperCase();
+      meta.appendChild(mbadge);
+    } else if (item.type === "tiktok") {
+      var tbadge = document.createElement("span");
+      tbadge.className = "video-badge tiktok-badge";
+      tbadge.textContent = "♪ TIKTOK";
+      meta.appendChild(tbadge);
     }
 
     var sourceSpan = document.createElement("span");
@@ -645,8 +655,13 @@
     var timeEl = document.createElement("time");
     if (item.publishedAt) {
       timeEl.dateTime = item.publishedAt;
-      timeEl.title = formatAbsolute(item.publishedAt);
-      timeEl.textContent = relativeTime(item.publishedAt, now);
+      if (item.type === "movie") {
+        // Release year, not "59 y ago".
+        timeEl.textContent = String(new Date(item.publishedAt).getUTCFullYear());
+      } else {
+        timeEl.title = formatAbsolute(item.publishedAt);
+        timeEl.textContent = relativeTime(item.publishedAt, now);
+      }
     }
     timeSpan.appendChild(timeEl);
     meta.appendChild(timeSpan);

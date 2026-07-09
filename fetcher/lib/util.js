@@ -86,14 +86,37 @@ const FP_REGEXES = [
   /provinz\s+luxemburg/i,              // Belgian province (de)
   /provincia\s+di\s+lussemburgo/i,     // Belgian province (it)
   /jard[ií]n\s+de\s+luxemburgo/i,      // Paris garden (es)
+  /rue\s+de\s+luxembourg/i,            // street name (Paris/Brussels)
+  /rosa\s+luxemburgo?/i,               // the German revolutionary
   /vanderlei\s+luxemburgo/i,           // Brazilian football coach
-  /t[ée]cnico\s+luxemburgo/i,          // "coach Luxemburgo" (pt/es)
-  /luxemburgo\s+(critic|detona|rips|desabafa|elogia)/i, // coach-as-subject headlines (pt)
+  /\b(dr|mr|mrs|ms|miss|prof(essor)?)\.?\s+(\w+\s+)?luxembourg\b/i, // person named Luxembourg
 ];
+
+// The coach "Luxemburgo" (pt/es) — excluded whenever "Luxemburgo" co-occurs
+// with his football context. Country football ("Portugal x Luxemburgo") stays:
+// none of these terms appear in country-team coverage.
+const COACH_CONTEXT =
+  /(vanderlei|ancelotti|neymar|rom[áa]rio|palmeiras|corinthians|flamengo|cruzeiro|sele[çc][ãa]o brasileira|ex-?t[ée]cnico|t[ée]cnico|treinador|entrenador|real madrid)/i;
 
 export function isFalsePositive(text) {
   if (!text) return false;
-  return FP_REGEXES.some((re) => re.test(text));
+  if (FP_REGEXES.some((re) => re.test(text))) return true;
+  if (/luxemburgo/i.test(text) && COACH_CONTEXT.test(text)) return true;
+  return false;
+}
+
+// Source/channel-name exclusion (Luxembourgish media identified by name rather
+// than domain — e.g. YouTube channels). Patterns come from sources.json
+// excludeSources and are treated as case-insensitive regexes.
+export function matchesExcludedSource(name, patterns) {
+  if (!name || !patterns) return false;
+  return patterns.some((p) => {
+    try {
+      return new RegExp(p, 'i').test(name);
+    } catch {
+      return name.toLowerCase().includes(p.toLowerCase());
+    }
+  });
 }
 
 // Multilingual topic keyword heuristic (en/fr/de/es coverage; else -> other).

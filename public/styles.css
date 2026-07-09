@@ -670,3 +670,15 @@ a {
   white-space: nowrap;
   cursor: help;
 }
+
+/* Movie badge variant (reuses video-badge base) */
+.movie-badge {
+  background: var(--lux-red);
+  color: #ffffff;
+}
+
+/* TikTok badge variant */
+.tiktok-badge {
+  background: #010101;
+  color: #69f0e4;
+}
