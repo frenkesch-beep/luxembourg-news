@@ -1,6 +1,101 @@
 {
-  "generatedAt": "2026-07-09T23:37:56.169Z",
+  "generatedAt": "2026-07-10T04:16:22.138Z",
   "items": [
+    {
+      "id": "bbdae50674db322869d754eaddceab2476bfb8fd",
+      "title": "Kreisgruppe Rosenheim: Ausflug in die Moselregion und nach Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXlRMlB4dmhObUg3UHZLdnVjSW56Z3k4MVQ4WDVoaTdWSExBUHBjTVp1TkpSXzlvYTN0WWNScEpyUkI1SVBzVEE3dUpOaFBBT0FHUUFxMC1QT0l4SnRSR2VmTjVRMnRDb21adGlYQ2dTUXRtcTdEazAtRzltdUQ0cVRYOVFUUUJVLU5rMzhZZ0ZWY3ZZWk00WUZySWxLQ1pUVzNXNUNwUDc?oc=5",
+      "source": "Siebenbuerger.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-10T04:03:10.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Rosenheim district group: Excursion to the Moselle region and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Bezierksgrupp Rosenheim: Ausfluch an d'Muselregioun a Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Groupe du district de Rosenheim : Excursion dans la région de la Moselle et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ab1962be759823c8dd0a31484c2ff035cfe46881",
+      "title": "ElevationSpace、ルクセンブルクのSpace CargoとMoU締結 軌道上実験衛星に装置搭載へ",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE96cDd3Y0tZYlhoZGtTMEJ6dExVelA0X3BjOXBTWTdlM19MVldVUnI5ZEx3cDV5bW5rUkNOVVhCWThSQnB0UW1R?oc=5",
+      "source": "spacemedia.jp",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-10T03:42:01.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "de": {
+          "title": "ElevationSpace unterzeichnet Absichtserklärung mit der luxemburgischen Space Cargo zur Installation von Ausrüstung auf umlaufenden Experimentalsatelliten",
+          "summary": ""
+        },
+        "fr": {
+          "title": "ElevationSpace signe un protocole d'accord avec la société luxembourgeoise Space Cargo pour installer des équipements sur un satellite expérimental en orbite",
+          "summary": ""
+        },
+        "en": {
+          "title": "ElevationSpace signs MoU with Luxembourg's Space Cargo to install equipment on orbiting experimental satellite",
+          "summary": ""
+        },
+        "lb": {
+          "title": "ElevationSpace ënnerschriwwen MoU mat der lëtzebuerger Space Cargo fir Ausrüstung op engem experimentellen Satellit ze installéieren",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3e11455d4a50a370d1b6228dc63aff2e87e01868",
+      "title": "ESC2027: Luxemburgo abre inscrições para o 'Luxembourg Song Contest 2027'",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLV9oMFBBZWgza2luOWc1cXdVNTA3amdJc1ZTMmxyZWUzYlJVQWlwZlBJczBIUXV3c2VmTmZua1VlRUhtcTBjQTM4YW9CSFAtN0ZLT0VrTDl0di1hSzN2NmpkVTRxRy12QU9MTlBQVnprSVNLaU1BdGdGNlUwMm1LQ1JuTF9CZw?oc=5",
+      "source": "ESC PORTUGAL",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-09T23:42:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "ESC2027: Luxemburg eröffnet Anmeldungen für den „Luxembourg Song Contest 2027“",
+          "summary": ""
+        },
+        "en": {
+          "title": "ESC2027: Luxembourg opens registrations for the 'Luxembourg Song Contest 2027'",
+          "summary": ""
+        },
+        "lb": {
+          "title": "ESC2027: Lëtzebuerg mécht Umeldunge fir de 'Luxembourg Song Contest 2027' op",
+          "summary": ""
+        },
+        "fr": {
+          "title": "ESC2027 : Le Luxembourg ouvre les inscriptions pour le 'Luxembourg Song Contest 2027'",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "757a5bed5748e56b38265f878a3431822fc7a690",
       "title": "Luxemburgs Premier rät von Sozialkürzungen für Rüstung ab",
@@ -1433,6 +1528,39 @@
       }
     },
     {
+      "id": "65f6ef3899b0040e859eb31221c9c422bea47beb",
+      "title": "동두천시 자유수호평화박물관, 룩셈부르크 대사관과 특별전",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLTTlrOGc4M1dfMExjZWVQVHkxd3I1YnlRWG0wTXJZM1hJUUhwaWYwazg3N0lCUm95bURZTnQwOWZqS1J3eWRNN25VcXV0TTJncmpOZ2VicktmZnRFQ2xacy13QzZhenZvRjlDc1J6YmNRX3VQQ1RSaVh30gF_QVVfeXFMUHVMLVZhcU9jWEY2TzMwU2VPaXlUWjBtTVdUZ0tmT0Rob3Awb0huYzRXWGxRU204VmtRUmxmdWNUY2NJZ3ExV3F0NDNhUTBVR1duLW9JaFY4SFJibExjZ291NUJsRi1zeVJ2cmZ2NTQ2Ujk1dE5sU01UZ2RUM0Zncw?oc=5",
+      "source": "뉴데일리 경기",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-07-09T09:37:12.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Dongducheon City Freedom Defense and Peace Museum, Lëtzebuerger Ambassade a Spezialausstellung",
+          "summary": ""
+        },
+        "de": {
+          "title": "Dongducheon City Freedom Defense and Peace Museum, Luxemburgische Botschaft und Sonderausstellung",
+          "summary": ""
+        },
+        "en": {
+          "title": "Dongducheon City Freedom Defense and Peace Museum, Luxembourg Embassy and special exhibition",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Musée de la liberté, de la défense et de la paix de la ville de Dongducheon, ambassade du Luxembourg et exposition spéciale",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "a97e8ee18a6de7adbe1492b3b504e3fd086cad5b",
       "title": "Catturato a Lussemburgo dopo 3 anni di latitanza: rapinò una tabaccheria a Grottaglie",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS25mR3FwUWJmdkR2YzYyZ294ZzNqWlpBenA2aFZ5Z25hek9lbU1NVU5qaWZyczdZLXFjZThCeE9fbl93MXUxSG9BZ2kweDJmdDhSWW9wVmQxNE9LWkdvcEEyeXgxMGZkeEZmYlFJcTFfMTVtbUVOdjg1Sk53QjJXT2MyNElhOHBJUkdHcVlTSnZNdklCRWhuendHSGw5YjdPb1FfQllselVHM1kycXNIaFhfNjFoek1Z?oc=5",
@@ -2271,6 +2399,39 @@
       }
     },
     {
+      "id": "6fad3395d643388c495c9422427304b6c0d1cc40",
+      "title": "Buitenland kort: Nieuwe cco voor Lidl in België en Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XcUhiVGJkd2FqSmp1TE9ZU2FXakF4VF9maXVpeDBJV1RiU0pNNVpSMVo4bU1zUl9zUTB3c1luRVh6bGI3V18xMDRUcjE5R1g1dHdHWVhKdU1LYkdlcGpPbFRzNnVDcFdl?oc=5",
+      "source": "Distrifood",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-09T06:18:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Ausland kuerz: Neien CCO fir Lidl an der Belsch a Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Abroad briefly: New CCO for Lidl in Belgium and Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kurz im Ausland: Neuer CCO für Lidl in Belgien und Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "À l'étranger en bref : nouveau CCO pour Lidl en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "1e61ba234a5b4f89de0360d2301359bdbc327d6a",
       "title": "MiCAR Transitional Period for Crypto-Asset Service Providers Expires: What Luxembourg Market Participants Need to Know Now - K&L Gates",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTVlYVDlJS3hqbGFTWnNsUmZTZW8zTzNER1ZFWjhqZHFYd1l0SFkya2FGeDVFYndlYmhkM1VqUmU1MmFYVlg2V09SVzZkZzA5UDVRZFZUSkFkQnVlWEw4WV9UcHA5ZlJWN0EyTlNCaTRxMDk4NTFsbUxqbm1ya3dqSklNVU1CZnNtV25DbkdjNDZ4VDJUeUJ4UTRCRXQtNmhjY2pjM3Z3cFBjVEdrRG9ZYWhnWEl3OU1GdnBQSi0tUjBPa29jcHNNdGpGZmFiZ3IzYlUzMHQ1XzUwTFQ0MzFIcUJYWHh0a1Fhc0E?oc=5",
@@ -2797,6 +2958,72 @@
         },
         "fr": {
           "title": "Ministre Barna Tánczos : au Conseil Environnement, à Luxembourg : La Commission doit procéder à une analyse approfondie de la situation des prix de l'énergie et du gaz, où nous considérons qu'il existe un risque de manipulation excessive",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e3e7a026d18d88fbd072966568234540c0108c7e",
+      "title": "Luxemburg, cel mai mare paradis fiscal din UE",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ybmJ5Y1A2NFpMUU1jcFlZV2tUMFEzY000aXBEX29hZmluNkFkaUVlNWM1eWo4ZkF4dFd0bk50Z1IzZ3k5QTRTSDRrbDdjcEZBSnptbWpVTzhIVnVqREFpSTNOT3NOOVNJSkMwTG13TFQ4QjVtNHNSdHMzNA?oc=5",
+      "source": "Money.ro",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg, dat gréisste Steierparadäis an der EU",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg, the largest tax haven in the EU",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg, das größte Steuerparadies der EU",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg, le plus grand paradis fiscal de l'UE",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "32f89bdc591decbfaa576148a1c1dab681445022",
+      "title": "În ce domeniu România este alături de Germania şi Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaXBuNm5yVTdadjQ0ZU5YUmZfZkd5empHeVVjblkzc3N4cVo2Q1NQV2tJRHhjc3M2bnVHZUxjbU5hTWxhOFF3akFoeTRySnZ6M3BwOUxrY3cwRzdSSHdKYUJQS19xTFVzZzg2NHdfeUNuREZPWUdZSVBDbkRqYS1mN09HU0NuUW1acnpBU0NjSQ?oc=5",
+      "source": "Money.ro",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "A wéi engem Beräich läit Rumänien nieft Däitschland a Lëtzebuerg?",
+          "summary": ""
+        },
+        "en": {
+          "title": "In what field is Romania next to Germany and Luxembourg?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Dans quel domaine la Roumanie se situe-t-elle aux côtés de l'Allemagne et du Luxembourg ?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Auf welchem ​​Gebiet liegt Rumänien neben Deutschland und Luxemburg?",
           "summary": ""
         }
       }
@@ -3377,6 +3604,39 @@
         },
         "fr": {
           "title": "🇱🇺 Le Luxembourg augmente son budget pour consacrer 2 millions d'euros à l'Eurovision",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2e1a812f853c13b74b537bf123e3c257e409b692",
+      "title": "04-07-23 Αλφαβητικοί πίνακες μετά την εξέταση των υποβληθεισών ενστάσεων - Ευρωπαικό Σχολείο Λουξεμβούργο ΙΙ",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNW1Sb0JxLTNVaUV3NmpuNzNGOUNicEJpTFpDTHZoOTZvcUdKNkNrYnNLalZzMHpYM3lZdU1seEpHYUhTXzNXc3RITFU3WkJNYmVoNjJLRzloZU9VRXhEZFJQeFRPcUdrMVVzRlRfSERlcTNZX011azI4R2E0ZHptR2xVRlB2LVZaZkNQZFE5cm9ENy0xYjZCZGstMF9KRkhaVTBFV3RKOXV5Q2ROczBCU0hZbUFwSXluNVlSeF9aZkpXNGFjekIydnUwVkFkOXg4ZWlTV0d4Zi1KOVQ4TG9MVGxQSF9QTURtWUVjeDVkRlA2Uy1tZTNmSm5TbW5nQzVsdko1YzZxeUppbkNucUk1aGF3eVBXbUo1b2lNSGdCbU1IbjQ3cDhqc3ZHaDhZcEl6X19tSVQ0OU4zWElvZUVscy1GX0stZ0xCTGtCWk12VmJPTzBUal9jelR2cGQ1VnB5ckhoUTQ5WWdZclNZ?oc=5",
+      "source": "υπουργειο παιδειας",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-07-08T12:41:18.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "04-07-23 Alphabetesch Tabellen no der Untersuchung vun den agereechte Contestatiounen - Europaschoul Lëtzebuerg II",
+          "summary": ""
+        },
+        "en": {
+          "title": "04-07-23 Alphabetical tables after the examination of the submitted objections - European School Luxembourg II",
+          "summary": ""
+        },
+        "fr": {
+          "title": "04-07-23 Tableaux alphabétiques après examen des objections déposées - Ecole européenne Luxembourg II",
+          "summary": ""
+        },
+        "de": {
+          "title": "23.07.04 Alphabetische Tabellen nach der Prüfung der eingereichten Einsprüche – Europäische Schule Luxemburg II",
           "summary": ""
         }
       }
@@ -7903,6 +8163,39 @@
       }
     },
     {
+      "id": "5d7d5c103750f54187b7280ebc34a93f4034a1bc",
+      "title": "Uefa Conference League: La Fiorita è in Lussemburgo, dove sfiderà l’UNA Strassen",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN00zekpIT1lWdGMteFp4a0dzT1hXU3BJQjdGcHpUaDFDMFdyUmo4Mm81ZW5raUVKWlBwZ2U1aDFKbGh2TlZkTjlHdEV3bEFfazVaRzFEWThET2haRzdVVDhSejAtaFdZWjd1U1hsTmQ1dmpwV3lLQWtmQTVXekZlMU9YeDFLVFVncTh4Qko4Si1pMGwxSzBtV2x5ZXF2NEh2dksyV3AtRUZ2LXdVdUI3QTJfekQzUQ?oc=5",
+      "source": "Newsrimini",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-07-06T17:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "UEFA Conference League: La Fiorita ass zu Lëtzebuerg, wou et d'UNA Stroossen erausfuerdert",
+          "summary": ""
+        },
+        "fr": {
+          "title": "UEFA Conference League : La Fiorita est au Luxembourg, où elle défiera l'UNA Strassen",
+          "summary": ""
+        },
+        "en": {
+          "title": "UEFA Conference League: La Fiorita is in Luxembourg, where it will challenge UNA Strassen",
+          "summary": ""
+        },
+        "de": {
+          "title": "UEFA Conference League: La Fiorita ist in Luxemburg, wo es gegen UNA Strassen antreten wird",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "dc6306f0fc0cd31ddd0781027a22fadee9bd87a7",
       "title": "Eiffage rachète 80% du groupe Baatz au Luxembourg",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdTNMb2RNbkY0ZXRQenpUNjN3OFhQY21oT2FLZkk4T3NaeVdFOVZlMnVWZ2Z0NXZiNWNfODhrVEZDY21zMDhPRWFzbkNOT3p0M043dmVuVjFkV0NuSnp1SmRPNWw0d19YWVY4WERlRGh4ZG5PNVFIRGIxUW5BQV81WllhWEpNSHgxZG0zYXJKM3dzSFhPRDg3OHNyUWFQVDduRFJNenhlaUpFUlN4LXB1cWprR3FkQ19GUUxUNUZB?oc=5",
@@ -10189,6 +10482,35 @@
       }
     },
     {
+      "id": "8354d1c97703555045ab25beeeee0796423de111",
+      "title": "❤️🇲🇦#🇲🇦 #viral #foruyou #luxembourg #pov ",
+      "url": "https://www.tiktok.com/@seel.maa6/video/7659011997815737623",
+      "source": "@seel.maa6",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-07-05T11:58:20.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o0xUEVAgIfGAKQeLRKG5CpjEXeWWGRMPgwbRet~tplv-tiktokx-origin.image?dr=10395&x-expires=1783828800&x-signature=B2EAOwJ3xLiEPsu4mvf%2BnI8n%2Fvk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "❤️🇲🇦#🇲🇦 #viral #foruyou #luxembourg #pov",
+          "summary": ""
+        },
+        "lb": {
+          "title": "❤️🇲🇦#🇲🇦 #viral #foruyou #luxembourg #pov",
+          "summary": ""
+        },
+        "en": {
+          "title": "❤️🇲🇦#🇲🇦 #viral #foruyou #luxembourg #pov",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "c01c7d0b8cac687ff55abbd2fbc01f974876e18c",
       "title": "卢森堡大公国大军官级功绩勋章星芒章，银质局部珐琅，由夏洛特女大公于1961年1月23日颁布法令设立，以庆祝她的65岁生日。该勋章旨在填补荣誉体系的空白。它主要授予在专业领域、艺术、科学、文学以及长期公共或私营服务中做出杰出贡献的卢森堡公民和外国友",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JQnRERTN2d1dSZWRra01XLXRKWkJtOHpNVVpmTmFjUldnQlVLcjZfV01Wa1pQNTl0dW1HeW9BT0tXNFdmM3dsUzdybmQzOTQ3ZVduWDBsQlJaaWF0eXdBZ25EWQ?oc=5",
@@ -11221,6 +11543,35 @@
       }
     },
     {
+      "id": "f602652420c4baebfe2ee0e76f14c57e3f7944dd",
+      "title": "🇲🇦🇲🇦🇲🇦💪🏻#🇲🇦 #luxembourg #marocaine🇲🇦 #viral #foryoupagе ",
+      "url": "https://www.tiktok.com/@seel.maa6/video/7658771958246542614",
+      "source": "@seel.maa6",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-07-04T20:26:54.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/ok5imJWiLEIRJLJ1A0CIIbSiBfJQEICyCBPAwp~tplv-tiktokx-origin.image?dr=10395&x-expires=1783828800&x-signature=UkL2TPufAiDWL%2B95RMEqz2ygznk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "🇲🇦🇲🇦🇲🇦💪🏻#🇲🇦 #luxembourg #marocaine🇲🇦 #viral #foryoupagе",
+          "summary": ""
+        },
+        "en": {
+          "title": "🇲🇦🇲🇦🇲🇦💪🏻#🇲🇦 #luxembourg #marocaine🇲🇦 #viral #foryoupage",
+          "summary": ""
+        },
+        "de": {
+          "title": "🇲🇦🇲🇦🇲🇦💪🏻#🇲🇦 #luxembourg #marocaine🇲🇦 #viral #foryoupage",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "429e8e448afe82a02ec34adac587530cbc4509d0",
       "title": "Mont-Saint-Martin. Bus supprimés vers le Luxembourg : cinq maires demandent leur retour",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTJ4b1g0SzlhMVROUnpLV2VTems3S0x2UjV2ZmZLN3JvcXNlbVl2dnkydXpOVmR4RzJ0alhkLWU3VmwtVnBveC1wcW5rNkVuRVRDejVBSERBeVBxNTZyT0ZsLVNOVHpuckRVemloLVNjdE9BQThwOVk1ajZoVEUtRGxtb1F2RjF3ZHc2SUVLMDdqUGpVUmllX2E1V0NKT0tZcjNzXzZmcmVMM19RUVBmTDltT094WWRxNlpuTFFRMVBwSHh1azg3U2JiQXcxQQ?oc=5",
@@ -11572,6 +11923,39 @@
         },
         "de": {
           "title": "» DEİK/Yalçındağ diskutierten in Luxemburg über die Beziehungen zwischen der Türkei und der EU",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f5cfffc5f70db34225043fb0fdd8674a6b52fe23",
+      "title": "FC Lorentzweiler — матчі Люксембург: Дивізіон Пошани 2026/2027",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGxtb0FUQXJJNjBEdXhsbHViYmMxTGFHLUFmOEhJUEJKdFFMSGwtS1NDV1pYajFxdUFrTFRyRXV5THFGbi10cnZZQ1pWWTQzTTFIekdSLWI5end4cVVpemJzNElqTVptdE1jTHRlUzZYZFhHbmhYXzhjOXczTVJmRDhwaWxoWGdzQ0MySnhOMFEzTU81Z2pF?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-07-04T03:40:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "FC Lorentzweiler - Spiele Luxemburg: Honors Division 2026/2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "FC Lorentzweiler - matches Luxembourg: Honors Division 2026/2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "FC Lorentzweiler - Matcher Lëtzebuerg: Éieredivisioun 2026/2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "FC Lorentzweiler - matchs Luxembourg: Division Honorée 2026/2027",
           "summary": ""
         }
       }
@@ -11973,6 +12357,39 @@
         },
         "de": {
           "title": "Doppelt marginal? Periphere weibliche Autorinnen (Belgien, Luxemburg, Schweiz) im 19. und 20. Jahrhundert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3b138549235657b0f389d4c0af505653e4b3f890",
+      "title": "王储殿下祝贺卢森堡大公国庆日",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zTjNOZnFHT01RbFREa3BJRGcxdDQ2TF9mYkxIdDI1WDljRkgyXzg2M0hGYjIzSjFVazF4U2hBUm1Ldzg2Vi1pQUln?oc=5",
+      "source": "وكالة الأنباء السعودية",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-03T07:44:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Seng Royal Highness de Krounprënz gratuléiert dem Groussherzog vu Lëtzebuerg op Nationalfeierdag",
+          "summary": ""
+        },
+        "de": {
+          "title": "Seine Königliche Hoheit der Kronprinz gratuliert dem Großherzog von Luxemburg zum Nationalfeiertag",
+          "summary": ""
+        },
+        "en": {
+          "title": "His Royal Highness the Crown Prince congratulates the Grand Duke of Luxembourg on National Day",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Son Altesse Royale le Prince héritier félicite le Grand-Duc de Luxembourg à l'occasion de la Fête Nationale",
           "summary": ""
         }
       }
@@ -13953,6 +14370,39 @@
       }
     },
     {
+      "id": "c4c6a5de2f10826e99aabe6fdb18c459ad91f877",
+      "title": "Delfin, dai giudici del Lussemburgo una via d’uscita all’impasse tra gli eredi Del Vecchio",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeFRXSW5ZQkVnSmdFeE80TXNPNWhpNjEwY2lDY1FGMU5vcDBhdDZPcUdxcGt4SWotdGFhNXhBTXdkRnl6TnZVTHdWMksxc3VIeUhVNE5ORG5RSFhmTkxzb1R4YjAwMW1pTmlQVWNJcjdIaGVOQllzYzBOR0NEcEdNNG04MWVTb0ZNM0tiSWZsTVEyYkxHZ05RM1laUk4zaEVqQ0o1SURuUW9GckhxVGpRZmZtSVNWSllOZEJRZlY5dGV0Ukl6N29Ha1VlY3Z4NTJrNXczeWMwb2pmUQ?oc=5",
+      "source": "Milano Finanza",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Delfin, e Wee aus dem Impasse tëscht den Del Vecchio Ierwe vun de Lëtzebuerger Riichter",
+          "summary": ""
+        },
+        "en": {
+          "title": "Delfin, a way out of the impasse between the Del Vecchio heirs from the Luxembourg judges",
+          "summary": ""
+        },
+        "de": {
+          "title": "Delfin, ein Ausweg aus der Sackgasse zwischen den Del Vecchio-Erben vor den luxemburgischen Richtern",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Delfin, une porte de sortie de l'impasse entre les héritiers Del Vecchio devant les juges luxembourgeois",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "35cfd563d2f2df459de519ad49648e00bdf6cede",
       "title": "ΦΑΓΕ Ελλάδας: \"Μετακόμιση\" της εταιρείας από το Λουξεμβούργο στην Αμερική",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVlZNkR5Tl8ySjdnaGZzaTBmbXJxdnZreHlvc19GSzhoUURmSFplM2R0WWo0azBITGhPdHVFRnJxN2pTZG9Oa3lhSUc3MzZ3N0VlZ3oyR0Q1OXlJWE1YM2JORHR0WW1jQVZtS1ZxT2VuVWNPMkRYV2RTdXZCbDl6OXBuTTFlanYwZEthelpVWEdTU3Z4aGU3QXpKLWxWbFh2Yzd0OUNuWTk2NHdQVjB3WXlmenJzalk?oc=5",
@@ -14915,6 +15365,36 @@
         "lb": {
           "title": "Sharp seng staark Erhéijung fir 3 Deeg hannereneen, Basis Accord mat der Lëtzebuerger SES fir eng Partnerschaft opzebauen",
           "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0b9eaf68a286988e155288c4edb869deca03bc68",
+      "title": "How to apply for jobs in Luxembourg 🇱🇺 \n\nAre you considering moving to Luxembourg for work? Here's a simple guide on how to apply for sponsorship jobs in  Lux",
+      "url": "https://www.tiktok.com/@emmytravelconsultant/video/7656930506914663687",
+      "source": "@emmytravelconsultant",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-06-29T21:21:14.000Z",
+      "summary": "How to apply for jobs in Luxembourg 🇱🇺 \n\nAre you considering moving to Luxembourg for work? Here's a simple guide on how to apply for sponsorship jobs in  Luxembourg 🇱🇺 \n\n1. **Research**: Look into companies and industries that are hiring and willing to sponsor work visas.\n\n2. **Prepare Your Documents**: Ensure your CV, cover\n\nletter, and references are ready and tailored to the Luxembourg job market.\n\n3. **Networking**: Connect with professionals and join online forums or groups related to your field.\n\n4. **Apply**: Start submitting applications! Don't forget to mention your need for sponsorship.\n\n5. **Interview Preparation**: Be ready for interviews by\n\nunderstanding the local job culture.\n\n6. **Follow-Up**: After interviews, send thank-you emails to express your appreciation.\n\nBest of luck with your job search! If you have any tips or experiences to share regarding job applications in Luxembourg, drop them in the comments!#luxembourg🇱🇺 #luxury #fyp #luxelife #luxurylife ",
+      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o8F8xFBRcDqaQ1EEwgxGAE5JQf1OOnBEf1QkuH~tplv-tiktokx-origin.image?dr=14575&x-expires=1783828800&x-signature=uo4L5pW5Szf0lsUdD42A%2BSrGncU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+      "topics": [
+        "economy",
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "How to apply for jobs in Luxembourg 🇱🇺",
+          "summary": "Are you considering moving to Luxembourg for work? Here's a simple guide on how to apply for sponsorship jobs in  Lux\n\nHow to apply for jobs in Luxembourg 🇱🇺 \n\nAre you considering moving to Luxembourg for work? Here's a simple guide on how to apply for sponsorship jobs in  Luxembourg 🇱🇺 \n\n1. **Research**: Look into companies and indu"
+        },
+        "lb": {
+          "title": "Wéi bewerbt een op Aarbechtsplazen zu Lëtzebuerg 🇱🇺",
+          "summary": "Iwwerleeung Dir op Lëtzebuerg fir Aarbecht ze plënneren? Hei ass en einfache Guide wéi Dir Iech fir Sponsoring Jobs zu Lux bewerbt\n\nWéi bewerbt een op Aarbechtsplazen zu Lëtzebuerg 🇱🇺 \n\nIwwerleeung Dir op Lëtzebuerg fir Aarbecht ze plënneren? Hei ass en einfache Guide wéi Dir Iech fir Sponsoring Jobs zu Lëtzebuerg bewerbt 🇱🇺 \n\n1. **Fuerschung**: Kuckt an Entreprisen an Indu"
+        },
+        "de": {
+          "title": "So bewerben Sie sich in Luxemburg 🇱🇺",
+          "summary": "Denken Sie darüber nach, beruflich nach Luxemburg zu ziehen? Hier ist eine einfache Anleitung, wie Sie sich für Sponsoring-Jobs in Lux bewerben können\n\nSo bewerben Sie sich in Luxemburg 🇱🇺 \n\nDenken Sie darüber nach, beruflich nach Luxemburg zu ziehen? Hier finden Sie eine einfache Anleitung zur Bewerbung für Sponsoring-Jobs in Luxemburg 🇱🇺 \n\n1. **Forschung**: Schauen Sie sich Unternehmen und Industrie an"
         }
       }
     },
@@ -23944,6 +24424,35 @@
       }
     },
     {
+      "id": "7c6823e0245b676cee25dfc6e1c86bb7b2d24352",
+      "title": "Etihad zieht Start der Luxemburg-Flüge vor und erhöht Frequenz",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGlFMmVNWmtHTmRDTjJJSGlkT1diTEIxZEpBTVJuYUpTeTZJd0RaZENFTFZfZGhuTkc4M0dzSlhTanFRNlNnamg1M1Qtbk1KejBfdTZxNHRIX2xlZTctb3lySzBZT29ONzhCOEJqQURRbGoxdERLSUNKdzljbnZFUDlEV2hOblBLcmtPZ2U2Nlo0a2VSR2l5cUdBcTJFX2JTUElZeHltdlptV2FBX3c?oc=5",
+      "source": "aeroTELEGRAPH",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "Etihad advances start of Luxembourg flights and increases frequency",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Etihad fortgeschratt Start vu Lëtzebuerger Flich a erhéicht d'Frequenz",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etihad avance le démarrage des vols au Luxembourg et augmente la fréquence",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "bc7dd4c36e49f7d8516b89a4904db9b931439dd2",
       "title": "Pov you live in Luxembourg 🇱🇺 #luxembourg #europe #foryou #viral #world ",
       "url": "https://www.tiktok.com/@mapperfromasia/video/7654048156832861460",
@@ -24453,6 +24962,35 @@
       }
     },
     {
+      "id": "e3ae4602c084c116d43a5cbf3fcd806c6e5d2085",
+      "title": "world's richest european country. Luxembourg 🇱🇺. \nدنیا کا امیر ترین یورپی ملک۔لکسمبرگ \n#luxembourg #fyp #viral #europe #tourism ",
+      "url": "https://www.tiktok.com/@drsyedshahid/video/7653734094576127234",
+      "source": "@drsyedshahid",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-06-21T06:37:25.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/osD6kEfBQIhNBFoEGkPfIiVqE9jVBRgT3qE4AF~tplv-tiktokx-origin.image?dr=9636&x-expires=1783828800&x-signature=Z2jzIt9byFHJnCJNYGeydMFB6to%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "world's richest european country. Luxembourg 🇱🇺.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "dat räichste europäescht Land vun der Welt. Lëtzebuerg 🇱🇺.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das reichste europäische Land der Welt. Luxemburg 🇱🇺.",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "8341dfdf31ec85968de5b2e35528af1470008240",
       "title": "Λουξεμβούργο-Ελλάδα: Ψάχνει καθαρή νίκη και... δώρα για την 4άδα του European League η Εθνική ανδρών",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMk0tLVNmNVg3RWppLU5LY19RN1FJSkl2MmladHl4alQxbHpyTGxST2VFcDRNbnFHVk5oSEduRnkwclZQRXlxMW4wMHcwdE4tQzc3TkN2WTRYd3RhRHlrWWhMV0lWNXJnaVJhNE45eHdXS3lrRElzNTdmaFBkN0dqb2pzclR6dnkxMXRFdDJybVY2dGo5MEh5b1NqNlVXYkJaQWNRSFFXU07SAaABQVVfeXFMTVdjdGdhOUZuNnBXYXZXX1VZblV6NkZaMTBjMEVBamVUckpWOWZzdVlGWWV1VHg1OW05SXp0dFFJU1FwdVdMaldBN1N4OUt5RFQ0YWJsYlZXVXoyVFp0d1ZEWmlkR3FLd0gyTUMtbFRQTEw4MWRXS1Y1MGxOUlZiY2Z4bmRsU1R6dmU3aXAwN2ZmeFdWd3RIVF9vU2pGa1Y5NA?oc=5",
@@ -24902,6 +25440,35 @@
         },
         "fr": {
           "title": "Tay Ninh – L'Association des intellectuels vietnamiens de Belgique et du Luxembourg renforce la coopération bilatérale.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a2b81e86d5b66c330dc4996f32dcc4b63a2e63d6",
+      "title": "Nouvelle voie d'obtention de visa au Luxembourg, postulez dès maintenant ! Sans agent, sans IELTS...",
+      "url": "https://www.youtube.com/watch?v=XCUvIYBuowQ",
+      "source": "Owafk Africa",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "fr",
+      "publishedAt": "2026-06-19T04:15:38.128Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/XCUvIYBuowQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTq1Rz3BA2ICFzK-Ta_ntkLvp3vw",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "New route to obtaining a visa in Luxembourg, apply now! Without an agent, without IELTS...",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Neie Wee fir e Visa zu Lëtzebuerg ze kréien, gëlt elo un! Ouni Agent, ouni IELTS ...",
+          "summary": ""
+        },
+        "de": {
+          "title": "Neuer Weg zur Erlangung eines Visums in Luxemburg, jetzt beantragen! Ohne Agent, ohne IELTS...",
           "summary": ""
         }
       }
@@ -25844,6 +26411,39 @@
         },
         "lb": {
           "title": "\"Eis Bridder iwwer de Prut hu ganz emotional reagéiert.\" De Premier Munteanu iwwer d'Ënnerstëtzung zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "61e70c45e461d6cad43b2f570e2e4a11ab381192",
+      "title": "Avrupa'da SGP Raporu: Lüksemburg Zirvede",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVjRjb0dDZ1JfbS1ZUVJIXzZPZlJKaU9Jd2JLRHZza3ZBcHkxZ0NFOHhlMnVQbTltdS0zbVhNU1VfeHk5RDB2dWwyT0o2QVRra1VDNFZqNHgwRXl3eDgzcUhhY2h0VGdBZmx4bHFoRDlKNnFUYlJMNnZveHNseDlycjZ3YmtvalFEOUlpMnlhR0RPSXfSAY4BQVVfeXFMT3hqY3hoby1mLW9XOUk1U1BWdnpGX2h5aWRqdS1SeFU2RE82YmxpMGcwNmRjaXdnWTVsV3h4N1RUTWVMZnI3SGg5X0J2SUlCeDdBYkRYeHc1VDFVZTg3Zy1pNkFNQjV6b1pFWGxkLWhBVnpYMmJxaFdiRkF3dUQ3NkdqUXJ6eDFuQ2JGWXhKdw?oc=5",
+      "source": "Son Dakika",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "SGP-Bericht in Europa: Luxemburg an der Spitze",
+          "summary": ""
+        },
+        "lb": {
+          "title": "SGP Bericht an Europa: Lëtzebuerg un der Spëtzt",
+          "summary": ""
+        },
+        "en": {
+          "title": "SGP Report in Europe: Luxembourg at the Top",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Rapport SGP en Europe : le Luxembourg en tête",
           "summary": ""
         }
       }
@@ -26860,6 +27460,39 @@
         },
         "fr": {
           "title": "A. Georgiadis a participé au Conseil des ministres de la Santé de l'UE à Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "dfaa5c2eead4b5895305f0f7379439cb4be7a663",
+      "title": "Charalambides Lüksemburg’daki EPSCO Konseyi oturumuna başkanlık ediyor",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDhPTFM2Mm00UDJDekpPS0dvNWc4OC1CMERvb0xGNnMxbW15ZzNDVzMwNG1ZQ1hzVnRUbzJsSFlUa2RFVDlITmxyMnpzaElCRlFyTnE3R0stcWJBMXRMSWRweV8zX2c1WU4yMngxV1RRYVJKSHRyZXQ4WHhlVE5OQXdSOW04d2VFclg3d21fWGdvOUhiM1J3Ui0yOXF6TDdLOUVxUFNoZm1JVkZUak1YbmV2cWRwdVUyUXgwd0NkR1pSeGFHLUdN?oc=5",
+      "source": "ΚΥΠΕ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-06-16T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Charalambides presidéiert EPSCO Conseil Sëtzung zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Charalambides chairs EPSCO Council session in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Charalambides leitet die EPSCO-Ratssitzung in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Charalambides préside la session du Conseil EPSCO à Luxembourg",
           "summary": ""
         }
       }
@@ -28862,6 +29495,39 @@
         },
         "en": {
           "title": "Cargolux and Cathay Pacific Innovation join hands to introduce electronic flight folders - Cathay Pacific",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d7cf71eaa53f63f0cc15191127146d1b9787bcb3",
+      "title": "Wysokie odznaczenie i kosmiczne technologie. Kulisy wizyty Sikorskiego w Luksemburgu",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVERPZ3ROVXVDeF9NV3R1SXMzdE9IQmpKV3Y2YTBUUVM4bTFtVmZXbEhwei1vSEU0VGRJMVNZbUNhT2lnVDd5TkRGUHB0ek56Qm0yOGZ1LUx2aS1qelRfbjBCNHBZUkpVN1Q4N2FIUkduSzVBa3VIZzlzb0Y1RkF4ZU9JeWtiV1pUemNCenBDQk9aaGtzdTVJRWxMNmpFX2tXQmpEbFNtTTNHSVZKNFkyeWtHSGJOLUhrZzJkZmhsc2xZZGN0QUNZ?oc=5",
+      "source": "Bankier.pl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-06-15T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Héich Ënnerscheedung a Weltraumtechnologien. Hannert de Kulisse vum Sikorski senger Visite zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "High distinction and space technologies. Behind the scenes of Sikorski's visit to Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Hohe Auszeichnung und Weltraumtechnologien. Hinter den Kulissen von Sikorskis Besuch in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Haute distinction et technologies spatiales. Dans les coulisses de la visite de Sikorski au Luxembourg",
           "summary": ""
         }
       }
