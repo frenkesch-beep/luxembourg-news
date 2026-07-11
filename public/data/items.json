@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-11T16:13:08.091Z",
+  "generatedAt": "2026-07-11T17:17:13.569Z",
   "items": [
+    {
+      "id": "679012ca72650604a85d89f592d2cc4eb0a45a2c",
+      "title": "En direct Match de préparation. FC Metz - Racing Luxembourg : la deuxième rencontre amicale des Grenats en direct",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQUNDeGM0MmgtdHVWRm15Nk9aZGRpR25uMHp5TUt2QWNpdXZKSzRyMnFZWmUySTR4elJfdWxfa3k3Z194TjRVSktoNzVlVXBWdHZmS0ZMQ2Q1dzFvQ011TFVZTXlJSWE2UlUxTV95QkVEWlh6c0Q3RnJyblVJSlNyTnpPZ2ZKNS13OXVkRDl3MDhIN2FIeXVSOTgycXROQUV6NVBLanFaanNhX21PLVBKR3NZNlF0RVA2Y3ZGVUNOeEhfOE9tUk4tYg?oc=5",
+      "source": "Le Républicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-11T16:02:40.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "en": {
+          "title": "Live Preparation match. FC Metz - Racing Luxembourg: the second friendly meeting of the Garnets live",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Live Virbereedung Match. FC Metz - Racing Lëtzebuerg: den zweete Frëndschaftsmatch vun de Garnets live",
+          "summary": ""
+        },
+        "de": {
+          "title": "Live-Vorbereitungsspiel. FC Metz – Racing Luxembourg: das zweite Freundschaftsspiel der Garnets live",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "58df5d75e3ba89945dc62e8bf9924c98997472bf",
       "title": "Antagning till Luxembourg Song Contest 2027",
