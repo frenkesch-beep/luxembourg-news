@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-07-12T06:47:14.126Z",
+  "generatedAt": "2026-07-12T09:17:03.528Z",
   "items": [
+    {
+      "id": "e270251cc4ceef7fec431c4953caccd93a4b98b0",
+      "title": "معلمة بوسنية تفصل من عملها في لوكسمبورغ بسبب دعمها لغزة وتنديدها بحرب الإبادة",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TRUF3eEIwcWpsVEpGMWRoSWg1cWJrNWxMd2N3bWxfb2ljc0R2R1NnNHBtMGMxVkduZWJZdnRsTFp3Zk1mRXc?oc=5",
+      "source": "جو 24",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-07-12T07:39:33.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Une enseignante bosniaque est licenciée de son travail au Luxembourg en raison de son soutien à Gaza et de sa condamnation de la guerre d'extermination",
+          "summary": ""
+        },
+        "en": {
+          "title": "A Bosnian teacher is dismissed from her job in Luxembourg because of her support for Gaza and her condemnation of the war of extermination",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Eng bosnesch Schoulmeeschterin gëtt aus hirer Aarbecht zu Lëtzebuerg entlooss wéinst hirer Ënnerstëtzung fir Gaza an hir Veruerteelung vum Vernichtungskrich",
+          "summary": ""
+        },
+        "de": {
+          "title": "Eine bosnische Lehrerin wird wegen ihrer Unterstützung für Gaza und ihrer Verurteilung des Vernichtungskrieges von ihrem Job in Luxemburg entlassen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0fc301b65ea9df5b827ff44a8429d99881a4f1fb",
+      "title": "Grégoire Munster und Loïc Dumont gewinnen die Rallye Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzdUhUT2p2WUNqVklWZUpOZ082d3JVUkgySnpQaUJ1NzloZW1wcC1GMUtVQlFlakxOVy1uM0pRR3IyQWs?oc=5",
+      "source": "BRF Nachrichten",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-12T07:35:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Grégoire Munster und Loïc Dumont gewinnen die Rallye Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Grégoire Munster and Loïc Dumont win the Luxembourg Rally",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Grégoire Munster et Loïc Dumont remportent le Rallye du Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "73e27c47e18a2148060799794d688f163320c692",
       "title": "Hungary and Luxembourg take all the spoils in women’s qualifier in Helsinki",
@@ -2550,6 +2612,39 @@
       }
     },
     {
+      "id": "789b1a24464488231c87ac7e7d00bb3464d7c4c3",
+      "title": "画廊 卢森堡国家图书馆 / Bolles + Wilson + WW+ architektur + management - 15",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNc0doT2NUa0YzRUhnLXYwdU41VkpoQl9OLS1nTTdreU5sYnVxMi10aW5CUDQ3RC1od3ZfQlpRMGJsbEQ1TS1UVEtkQlRnekNYU1VtLXRLVDVBa1ZvM181X0htWk1IaEVtSThmWnBnanBoSDdBeXRRODd1RkRXQXdXbTNxVWZlU0xDd1BjeTZ5dXNxSE5YTGZ5YkhwQ05zWmE3TGdqWm9ESHFXNVJwSnFDY1dtemRKdHdBNGlWX1ZqRTZLWU5JYmh4U1BKdE5fb0U2dkNPSjhCRGR0M0hlY3RXVnZhdnZ1M0FkLWxEbUtuRzZGV0o2WS1nTmlUYmhYTFFfWVJqZGhVc1RVV293UlNhMmlxWWhqclVUV2E5TjhiNll6Tjg3VE9RRXBBLURqdEg3Tm5uTDJraFd2SEJNV0Exd3I1WmtmNnlKY1J6LXRoQktBWUNNSV9jRHFYNkg1bUEydnRn?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-10T06:54:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 15",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 15",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de la Bibliothèque Nationale du Luxembourg / Bolles + Wilson + WW+ architektur + management - 15",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie der Nationalbibliothek Luxemburg / Bolles + Wilson + WW+ Architektur + Management - 15",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "7cf3e884674f3ce9b3d64222720a7dc6970937cb",
       "title": "🌍 Au muncit în Luxemburg și Germania câte trei și șase luni, dar au revenit acasă fără niciun ban. Vorbim despre câțiva locuitori ai raionului Căușeni care, ac",
       "url": "https://www.tiktok.com/@tvcauseni.studio_l/video/7660778416077163798",
@@ -3068,6 +3163,39 @@
         },
         "fr": {
           "title": "ESC2027 : Le Luxembourg ouvre les inscriptions pour le 'Luxembourg Song Contest 2027'",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0c46508bf2e84c2bf3c1a0134701e0b907740374",
+      "title": "Galeria de La Maison du Savoir - Universidade de Luxemburgo / be baumschlager eberle - 13",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOQnJ0QVV2YWRmaXZHN0MwaGppbHVMYnJYSi1rN0x5ZDIxcG1QT3hsVnZ2Ql9lZWhuWml0X3ZETHd4Sy16bDFHc2FkWlY3M25XZGwzbDhpcFpXWTVwZFZSRm1IV0JTczZFd3dYUWNGYXhWWXB3OHdUTGRiUERTX3MtS2ppbmRzMjJremd2aWJwY3JRU1RIei1selM1aGRlTzVGWDlJTDRXRWZmUDA4ZENiRXVuZm1sTW5rVE1NOVpHRGVzb2dGNTNEUDdoUC0wUXk0TGlIZjRWWi1SYU1iR29ldTVPeFpISG5PVUgtN0YwUjVjSlBuNjBGbDFmSXBOLTRpYmFWUm85UTBqNDJsR2JMc1JWMmliQzEwYnZBRGZsTzhDNmhYSnNoMHJFMEY?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-09T23:21:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galeria de La Maison du Savoir – Universität Luxemburg / be baumschlager eberle – 13",
+          "summary": ""
+        },
+        "en": {
+          "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 13",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galeria de La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 13",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 13",
           "summary": ""
         }
       }
@@ -37151,394 +37279,6 @@
         },
         "lb": {
           "title": "Lëtzebuerg muss Informatiounen iwwert d’Betriber ginn",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4e685923e04bce1ed7f5f01f3614b09737e5b177",
-      "title": "Συνάντηση Πιερρακάκη – Γιούνκερ στο Λουξεμβούργο",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXJCMXgycmxDX3llTEtmb3ZjbmxubThvQlpTYWlIR3NYd0k5UVdka0ltXzJQSE5jdldRZFQ2aGNuVHBkbjh1bXpHY3ZJVi1MQzFEMlVGYjBGY0xKLThNaFJPNmVnVnVyY0tRM01fYVlCQktpVVJqZlBXOHFGZm4wTlJLOTR2YTQwS3oySw?oc=5",
-      "source": "Business Voice",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-12T07:19:32.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Pierrakakis - Juncker Treffen zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Pierrakakis – Juncker-Treffen in Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Pierrakakis - Juncker meeting in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Rencontre Pierrakakis-Juncker à Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fc39c236fbd601499fbf9fb610f8441538d72320",
-      "title": "‘Illegal and immoral’: How Luxembourg became the EU hub for Israeli war bonds",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0lZa1o0WXFMYXZ5QThUamlCcnlHQ2lYLXFzR052MjlIUlRZNWNzZmxDX21iSjhjNWJqSHlUREEzZ0M1T2NQZ2Q1S2pfUGcwNXhyRHpiTHJoMEhPNndpcjZtSzE0SVBpVkNSQXJCS0RGRC0xdUo5akY1dlJWM2lyRGRRaXZoTllIUDdKSUlUcnI5YXhab00wMHd1T0VOVVFtd1I0?oc=5",
-      "source": "Middle East Eye",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "\"Illegal an onmoralesch\": Wéi Lëtzebuerg den EU-Hub fir israelesch Krichsobligatiounen gouf",
-          "summary": ""
-        },
-        "de": {
-          "title": "„Illegal und unmoralisch“: Wie Luxemburg zum EU-Drehkreuz für israelische Kriegsanleihen wurde",
-          "summary": ""
-        },
-        "fr": {
-          "title": "« Illégal et immoral » : Comment le Luxembourg est devenu la plaque tournante européenne des obligations de guerre israéliennes",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "88188c773aaabe44804663d250d789326a064efe",
-      "title": "Luxembourg and UNDP partner to tackle crises and fight inequalities",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWWlFLVNLeDNha2kzemNvM1dDSjJwZi0tRWJCUHp0Uk5tQnBfLW5UaXRQRFBXN0NtY0pwWDZiR0RoNGdNV1VDVXg4TkVpdnN3Q0VCNlctWmN5X3FSeHhRZjhLTTVlcmpZUDBZcEtqRXhFak5kczFqNWJ3MzFncFZlWGh4cWRRVjZ4TzFDbDhrZXNFOURT?oc=5",
-      "source": "UNDP",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Luxembourg et le PNUD s’associent pour faire face aux crises et lutter contre les inégalités",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg an UNDP Partner fir Krisen unzegoen an Ongläichheeten ze bekämpfen",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg und UNDP arbeiten gemeinsam an der Bewältigung von Krisen und der Bekämpfung von Ungleichheiten",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9fd3f495f13de2c62954810fbddd3c3b38aa4cab",
-      "title": "Главы МИД стран ЕС в Люксембурге обсудят новый пакет санкций против РФ",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mdmxVQzIydUNKeU56SjlwQTRuNHhvYVhWbndpc3VfbUktNllodlZndDVEQi1kRlp5VHYtRmhwbE5BeWlSaENseVpFS1EyYVREQ0c0cDJXNFZ1emxHMUhCMl8wdkjSAXBBVV95cUxQU3ZhampHa1BiWnpsMkpEQjVubkJidjN0T3J1a08yWTJxZ0FwUjRJeW1sZlFzWEw1dWEwM0hzY1BRLWFjOHNpamNZMlVYYzY5bUREakZQYlA1UlQzWFRwcF9mdHFLWWtJSmY2QlUycHdL?oc=5",
-      "source": "Українська правда",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Ausseminister vun den EU-Länner diskutéieren en neie Pak vu Sanktioune géint d'russesch Federatioun zu Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les ministres des Affaires étrangères des pays de l'UE discuteront au Luxembourg d'un nouveau paquet de sanctions contre la Fédération de Russie",
-          "summary": ""
-        },
-        "en": {
-          "title": "The foreign ministers of the EU countries will discuss a new package of sanctions against the Russian Federation in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Außenminister der EU-Länder werden in Luxemburg über ein neues Sanktionspaket gegen die Russische Föderation beraten",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f4d603932d17845d63cb68b6f6cfee7dc95e0a5e",
-      "title": "卢森堡可以说是欧洲最富魅力的“袖珍王国”之一，从宪法广场到大公宫殿，从卢森堡古堡（伯克要塞）到峡谷古桥，半城山水半城古堡，勾勒出了卢森堡独有的迷人风光。 http://t.cn/RyhilcD ​",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GVmxZcHN2WnN2U0NualFNcmZ2T0tsQzJHOGpQOTg0OU93T0NfWGs3a2JQcFZJWFM1N2xsbGxfalZKbFNUSDJSXzN1SlA1RlJoWmM4eVJucWNSdHhpUVRzSGVsaw?oc=5",
-      "source": "新浪网",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg kann als ee vun de charmantste \"Pocket-Kinnekräicher\" an Europa gesot ginn. Vun der Verfassungsplaz bis zum Grand-Duc säi Palais, vum Lëtzebuerger Schlass (Festung Burke) bis op déi al Bréck am Canyon, hallef Stad ass vu Bierger a Flëss ëmgi, an d'Halschent ass eng Buerg, déi déi eenzegaarteg a charmant Landschaft vu Lëtzebuerg beschreift. http://t.cn/RyhilcD",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg can be said to be one of the most charming \"pocket kingdoms\" in Europe. From Constitution Square to the Grand Duke's Palace, from the Luxembourg Castle (Burke Fortress) to the ancient bridge in the canyon, half city is surrounded by mountains and rivers, and half is a castle, which outlines the unique and charming scenery of Luxembourg. http://t.cn/RyhilcD ​",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg peut être considéré comme l’un des « royaumes de poche » les plus charmants d’Europe. De la Place de la Constitution au Palais Grand-Duc, du Château du Luxembourg (Forteresse Burke) à l'ancien pont dans le canyon, la moitié de la ville est entourée de montagnes et de rivières, et l'autre moitié est un château, qui dessine le paysage unique et charmant du Luxembourg. http://t.cn/RyhilcD ​",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg gilt als eines der charmantesten „Taschenkönigreiche“ Europas. Vom Platz der Verfassung bis zum Großherzogspalast, vom Schloss Luxemburg (Burke-Festung) bis zur alten Brücke in der Schlucht ist die Hälfte der Stadt von Bergen und Flüssen umgeben und die andere Hälfte von einer Burg, die die einzigartige und bezaubernde Landschaft Luxemburgs umreißt. http://t.cn/RyhilcD ​",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "79b78521a861dabf99ebe89c892e2aa859992c50",
-      "title": "룩셈부르크, 1인당 GDP 세계 1위",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzNKNzZUaTNXOERHUXhjU0llQTlpd0laaWl2alAwWHpzc1poODJXY3RhdVo3bGpGVl8ycWMwcUt1aVVRVm5LMWJJYm55ekYwVVl1OHUxMzV3R1JzcGNLQzFtLU14QU0tYmMwNG1zSVRVdGRlZjJneTNHbmVaa0Q1R0pJSkduYzNR?oc=5",
-      "source": "글로벌이코노믹",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "economy"
-      ],
-      "translations": {
-        "de": {
-          "title": "Beim Pro-Kopf-BIP liegt Luxemburg weltweit an erster Stelle",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg ranks first in the world in GDP per capita",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg se classe au premier rang mondial en termes de PIB par habitant",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg läit op der éischter Plaz am PIB pro Awunner",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9f4c40864e96aa981f1a019361ee7ff44556e3de",
-      "title": "스텔란티스·볼트·포니.ai, 룩셈부르크서 레벨 4 자율주행 모빌리티 시범 사업 개시 : 네이버 블로그",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPekFUTmJuU3hXMHFkVjJISHJrVFBma1VITERJR3JlRE43bnkyRTcwc3ZfT2VhaEdGYUhuT1Z6NnpaSjBsaWtFeGszejQ0MFhmdFN3a2dhTkYyMlMwMF9nV0Jwa2N3QVBFb0ZJUTN6U2Jwdw?oc=5",
-      "source": "Naver Blog",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Stellantis, Bolt und Pony.ai starten Pilotprojekt für autonome Mobilität der Stufe 4 in Luxemburg: Naver Blog",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Stellantis, Bolt, and Pony.ai lancéiere Level 4 autonom Mobilitéit Pilotprojet zu Lëtzebuerg: Naver Blog",
-          "summary": ""
-        },
-        "en": {
-          "title": "Stellantis, Bolt, and Pony.ai launch level 4 autonomous mobility pilot project in Luxembourg: Naver Blog",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Stellantis, Bolt et Pony.ai lancent un projet pilote de mobilité autonome de niveau 4 au Luxembourg : Naver Blog",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d301206498fb516e094231dfac798faec2d16eba",
-      "title": "Συνάντηση Πιερρακάκη – Γιούνκερ στο Λουξεμβούργο σε πολύ εγκάρδιο κλίμα",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjlkYmViVTg3TXlfelBBQnpIdjhSSmNFNmRzcGcxMlBLYjlHZFFnaXJWVDZqakViUzN3Qk1GcWQxY1JRLTlGcmhqNDFOTzRkeGtWZW14TXQ2OVRGcFN2ZGpYVjVXeThGd0F5cFo0MkM5VnlUUVJZN3hBZUZ1U2QtYW5KMFZlZnk2dndZOVZsZkxfTDdEU2FwUHZzbUlxT2J1UnI4NzRXa28tMEFaT3FfdFZ1LVlUY0hzWHJJ0gHAAUFVX3lxTE00amlRYzVnN0o2TlQ4c2E3N3Iwc2dUWnJqcTZMWU5La25OUTZNazJXZzhDWDFQd0NMcE9uODNSOW85cERvYjFRcGdzdkZBZGRhSEVqRzRIMVpXUjFHenNCeHJlNGdYLXR2aXpQZmZfWUpJelNVTzdfR01xb2N2M0xPdzU0SHMzYkVObzg0b2cxRFFySEFDOFJHbTBBdkVEdlNJM2RrUjRic1pNU1pwTHNpUVJKc0ZDVkNoZHhQaEpDaQ?oc=5",
-      "source": "ertnews.gr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Treffen von Pierrakakis und Juncker in Luxemburg in sehr herzlicher Atmosphäre",
-          "summary": ""
-        },
-        "en": {
-          "title": "Pierrakakis - Juncker meeting in Luxembourg in a very cordial atmosphere",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Rencontre Pierrakakis - Juncker à Luxembourg dans une ambiance très cordiale",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Pierrakakis - Juncker treffen zu Lëtzebuerg an enger ganz häerzlecher Atmosphär",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fd78fe7d0e8a3b98d3e4ca45570caea5e50e545e",
-      "title": "Τι σημαίνει η αύξηση των επιτοκίων ^ ποιον συνάντησε ο Πιερρακάκης στο Λουξεμβούργο ^ οι προοπτικές και οι νάρκες της οικονομίας ^ κρίση στη ΔΥΠΑ; ^ τι βλέπουν οι αναλυτές στην Metlen ^ οι αρετές του ιδανικού εργοδότη ^ η κβαντική αγορά πετρελαίου ^ σ",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPN2wtNjJlaGV1SnVkc0hRTnppaDg2Ul9yMUZyanlSRHdJb29GLXg1VkhPOS1qbm1JWDhwcWN6YWxhUnh4a1dyX0JwejYxcXJqRHpETUpzZTJHNWhuRU5rb0JxWnNjUGlIRUdoUlJCSEFyWkFoYzFDUjBWaW9WNWF0TkVYcDJFT0wxQWtrWFZ5YnNWS09veC1EQ2xWRVcxdElGWWIwRGcyMjNFcUtaZjVjQ1dFN1ZnVnZfSmdocFZ1RkxsTVZfZjk3R2FGRGxPOGRWR0NsOFpRRlZPVVFmRXpkQ01KeVlTUDdHcUZlSndtd2NRajdTVnEtUnZoZ1A5czlDb0MtNXYxVWhNNXRsci1rS0J5UUpSNy1ZM1ZpWURFdUVWTnJta1ZNRk5vS0M3VnFqN1RlclZvaXpaSDFWQnlLbEFTRURZdEQ0RW5IbXdpa2czLTYwV0F0OVBPUzZ5NmxCNlNlcGVpSnU2eU1S0gHyAkFVX3lxTE1TZ05PNnpIRXZwUnJDNnBiaHlEalNEZTA0R3I1bFllamxZLTV4NWpLNGc5VVhfZXhPaXotbjE2ZDBVSDRXZjY0RUhadS1oUnFxTWxZdFhiVXpKWVpFNUV1Y3U5aHJySl9DWW1nQ0FYT2NfaENBOWl6dktZcVA1RWg2cFA1MUJucl9fNDVFTjBsQjRvOWh5NjJuVFpYODFIeDJWMll5cFhNTnJPLVpsdE5tcGlxUW1OY0VReUJTT1lhVkNYRkE1cjJSZE0yQjVkVVk0TXhXU0k2cXh2WUlPNXRUTEcxR2tSWkQ4b3BQWTlQSWxqa0tWY0llVWRVY3AxakM0OHdjdkhsWDdEbVM2RFFCcEgtVlJFOVdmNGJXelZidmtaQU5NTXpZeWY4X2pvT0VGdTAxdTU4TjJQTmt4RzVpOFVFNG1EbUxLZ0RpaHAxSlp2MVM2Y3lxdmtibjdlWHNPVGRMTEk2TVNlSDRyTWdrTnc?oc=5",
-      "source": "NewsIT",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Que signifie la hausse des taux d'intérêt ^ qui Pierrakakis a-t-il rencontré au Luxembourg ^ les perspectives et les mines de l'économie ^ la crise à la DYPA ? ^ ce que voient les analystes chez Metlen ^ les vertus de l'employeur idéal ^ le marché du pétrole quantique ^ p",
-          "summary": ""
-        },
-        "de": {
-          "title": "Was bedeutet der Anstieg der Zinssätze ^ Wen traf Pierrakakis in Luxemburg ^ Die Aussichten und Minen der Wirtschaft ^ Krise bei DYPA? ^ Was Analysten bei Metlen sehen ^ Die Tugenden des idealen Arbeitgebers ^ Der Quantenölmarkt ^ S",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Wat bedeit d'Erhéijung vun den Zënsen ^ wien huet de Pierrakakis zu Lëtzebuerg begéint ^ d'Perspektiven an d'Minen vun der Wirtschaft ^ Kris bei DYPA? ^ wat Analysten bei Metlen gesinn ^ d'Tugend vum ideale Patron ^ de Quantenölmaart ^ p",
-          "summary": ""
-        },
-        "en": {
-          "title": "What does the increase in interest rates mean ^ who did Pierrakakis meet in Luxembourg ^ the prospects and mines of the economy ^ crisis at DYPA? ^ what analysts see at Metlen ^ the virtues of the ideal employer ^ the quantum oil market ^ p",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "692d7e610993f37a1acab464aabf4f392f3f235a",
-      "title": "Συνάντηση Πιερρακάκη–Γιούνκερ στο Λουξεμβούργο: «Κανείς δεν θα πίστευε πριν από χρόνια ότι Έλληνας ΥΠΟΙΚ θα βρισκόταν στο τιμόνι του Eurogroup",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMHZSVGxwdUluSjRfazBZZmhmTjk4ZTJvVUpvXzRKWkJZR1hOZ1RRU2IxU05uQzN3RG9mYTFUQkZweVl5Q095YUk3MHg0WmhjZkxnWTduYi1kMEtUNW9zWkpVRW9PSDJBS1NQUEMzdWJWYTVFME9ZN1g4WDBkMjYteno4RlpBSmNzU3ZjYVhoLVpsNUw4aHYtNHhxQ3J5QlBBRk01cjVDZjlYNGVfdkJKdjZQWmtGV2dhQkdZdVdwTDFzYm9oblN3Y2N5dHYwMGZQSzFiMFpBNzhoNEtvd3g4NmxybWFSMUF3WnI2eUdtN21lZ2FMcXUtc3BkM01uWVRzZUdfYXFEWQ?oc=5",
-      "source": "Αθήνα 9,84",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Pierrakakis-Junker-Treffen in Luxemburg: „Niemand hätte vor Jahren geglaubt, dass ein griechischer Finanzminister an der Spitze der Eurogruppe stehen würde.“",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Réunion Pierrakakis-Junker à Luxembourg : \"Personne n'aurait cru il y a des années qu'un ministre grec des Finances serait à la tête de l'Eurogroupe",
-          "summary": ""
-        },
-        "en": {
-          "title": "Pierrakakis-Junker meeting in Luxembourg: \"No one would have believed years ago that a Greek Minister of Finance would be at the helm of the Eurogroup",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Pierrakakis-Junker Treffen zu Lëtzebuerg: \"Keen hätt viru Jore gegleeft datt e griichesche Finanzminister un der Spëtzt vum Eurogrupp géif stoen.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5c3e007430e2b2ea768a8c71e82e7a99a9dc1efb",
-      "title": "Luxemburg först ut för Bolts självkörande fordon",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbl91MUhTeWNJM2ZmdFh4bTFtZnRfQ1BUd1JxdlVTS21FM01RTWlHX3l5NDgxdmhodXBheTREaXp0WXJSSF9oeXFzTVhyLVVhOVN6WHZaUTJkRW9YcUdoM25NZGdMZ0xKNWtxRlZULUdqZDcxZ3F3NEQzM2tiQldIXw?oc=5",
-      "source": "Dagens industri",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "sv",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg fir d'éischt fir dem Bolt säi selbstfahrenden Gefier",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg first for Bolt's self-driving vehicle",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg ist der erste Anbieter von Bolts selbstfahrendem Fahrzeug",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Une première au Luxembourg pour le véhicule autonome de Bolt",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8595cde0dd847cd4a0c8455c89cb33949c8d2edc",
-      "title": "Alexandru Nazare, la reuniunea Eurogrup+ de la Luxemburg: Energia, competitivitatea și disciplina fiscală sunt conectate și trebuie tratate împreună",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd255ZjBXbUwxeTFyY1lRZ3IySEI4SEpYNV8xVkp1eFBXOER2WkhlNC1acWstaWlmUVJoT1BmRzVoTlNqUXNRT1JmWmJoRFdWR2tBZ0lURjFtbFBQQWYzQXc3ZzVKUU42RkItN1RVbnlOV1V0QkdTSFVvdUFnVmZsQkI3NkJrVTlhaW5tWWdTRWMyYWN1U2lHam5ad3ljNW9EY2kweENubHR5SnVaYVdNNERaQUlTcUwteXFFWVVJeXlPdHEtaElOd1VFVkpUVWlsVmJyMmx1dXlYcWhPYUtkTl95UTBaUW91TzNZZHdfRDBhSHFqcVJmTncyeEpCaWJaR3F1OG9B?oc=5",
-      "source": "caleaeuropeana.ro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Alexandru Nazare, à la réunion Eurogrup+ à Luxembourg : L'énergie, la compétitivité et la discipline fiscale sont liées et doivent être traitées ensemble",
-          "summary": ""
-        },
-        "de": {
-          "title": "Alexandru Nazare, beim Eurogrup+-Treffen in Luxemburg: Energie, Wettbewerbsfähigkeit und Haushaltsdisziplin hängen zusammen und müssen gemeinsam behandelt werden",
-          "summary": ""
-        },
-        "en": {
-          "title": "Alexandru Nazare, at the Eurogrup+ meeting in Luxembourg: Energy, competitiveness and fiscal discipline are connected and must be treated together",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Alexandru Nazare, um Eurogrup+ Treffen zu Lëtzebuerg: Energie, Kompetitivitéit a Steierdisziplin si verbonnen a musse matenee behandelt ginn",
           "summary": ""
         }
       }
