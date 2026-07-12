@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-12T13:57:22.052Z",
+  "generatedAt": "2026-07-12T15:17:03.846Z",
   "items": [
+    {
+      "id": "4a095ad577c1d222a29246748736aafb687d4412",
+      "title": "Ripple is regulated in Europe before it is classified in America: inside the Luxembourg license",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWYTBmRDJOODB0T1VkcWROTURJRF9mZUdsX1hORmRSMXdQbm1NSHVrdDJyczcwSTFiTGFsSVdxeXlnUDZHSzZEU0J4NmVDRy05Vy1tbWF3?oc=5",
+      "source": "Cryptonews.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-12T14:07:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Ripple est réglementé en Europe avant d'être classé en Amérique : à l'intérieur de la licence luxembourgeoise",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ripple wird in Europa reguliert, bevor es in Amerika klassifiziert wird: innerhalb der Luxemburger Lizenz",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ripple gëtt an Europa reglementéiert ier et an Amerika klasséiert gëtt: an der Lëtzebuerger Lizenz",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "8da80e7fc4612d6ab71105847efbab1629da7236",
       "title": "فصل معلم في لوكسمبورغ بسبب منشورات على إنستغرام تدعم فلسطين",
@@ -837,6 +866,35 @@
         },
         "lb": {
           "title": "Zentral Verteideger zu ... Lëtzebuerg mat 16 Joer, De Ketelaere verdankt seng formidabel Weltmeeschterschaft u senger Bescheidenheet",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "379989b5ff8197e69cd369038936ad8a2dd80dae",
+      "title": "Anke Rehlinger fordert Spritpreis-Deckel nach Luxemburger Modell: Vorstoß scheitert im Bundesrat",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSkJUam9iSDMyOGppdnp1QWwxa25KaE9TemlDRzdaOG5sd2UxV2pjb0lkdTYybm03RDBjZkpsOE1wdjhwSUQ2eFlPYUdDOGlNUzFveVVneTR4T1RYWFF3cmpxa3RDWnd4M3ZfNXFKY0k0WDNYRUExdnNFTWltWjVyRGlVTUJSNzdCc050UGtzcEZENVBzcVN6VkFYYTdXbWhMMmNPdDlFQzZReFRBNHNLcmhOS0pGSHZqYzdQMXNqOGtSbmM5ZGJ3a3B6RHVYQ0JRZGFLN2hSdEt3LVBwMGR1VnJ3?oc=5",
+      "source": "SOL.DE",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-11T10:59:47.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Anke Rehlinger réclame un plafonnement des prix des carburants sur le modèle luxembourgeois : l'initiative échoue au Conseil fédéral",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Anke Rehlinger fuerdert Brennstoffpräiskappen nom Lëtzebuerger Modell: d'Initiativ feelt am Bundesrot",
+          "summary": ""
+        },
+        "en": {
+          "title": "Anke Rehlinger calls for fuel price caps based on the Luxembourg model: the initiative fails in the Federal Council",
           "summary": ""
         }
       }
