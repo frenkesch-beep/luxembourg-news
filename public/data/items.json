@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-12T21:07:19.439Z",
+  "generatedAt": "2026-07-12T22:08:16.324Z",
   "items": [
+    {
+      "id": "0d01a8d437eb0a950012d840f00fd6da03b325dc",
+      "title": "EURO6000 cleared for Belgium and Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUhtanVFX0Z6bE9xVmZ1V1VPOEtFM2hHaXkzTTJiLWVDd1BJUFpLalJmenN0bjEwRDY1LTBDTlRzTmVtcVBJVTlOWTI0b2dYSWlzYjJWcG9rN01pd2djSWo4S3ZjMU9fdk41NnpRSE9PazR2RjgtVmI4X3VPMmhjRlNOSTFSQ1lmUlFrX05yMVBpeEVwbWc?oc=5",
+      "source": "RAILMARKET.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-12T22:01:08.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "6000 EURO fir d'Belsch a Lëtzebuerg geklaut",
+          "summary": ""
+        },
+        "fr": {
+          "title": "EURO6000 autorisé pour la Belgique et le Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "EURO6000 freigegeben für Belgien und Luxemburg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "946bcb083018b65239c4043c4015660673bc875c",
       "title": "Esch-sur-Alzette. Flow Festival 2026 : trois jours de musique au cœur du Parc Belval au Luxembourg",
@@ -26,6 +55,35 @@
         },
         "de": {
           "title": "Esch-sur-Alzette. Flow Festival 2026: drei Tage Musik im Herzen des Parc Belval in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0b808dd94cf3ab0548a0bd8f5e65b00768349acc",
+      "title": "Télétravail des frontaliers : le Grand-Duché de Luxembourg précise la règle des 34 jours",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYkZzSC16OWpzZHE1Unl3ZUJJb3IyekZ6bEc0Yjd2M0ZjSmwzOW5iZnBGc01JakRpZGZ0RU5SNDRKdXd3dFc4OFY5TVhSWVBMSV9CYzJ1U1FnNU1CYXloVEU0Ykd4RlZmZGZPSXhYaElPdlkzN1RfbXdZeUJ4blU3cmxSbFdMX2lJVHYzbTExMEtxYkpRNTBlWVpFWmk5VUhSd1lFeEE1dHJ6TFJKYlNCWm1kZHZoVTJXdVl3ZzNhcGVuUXlNUHZpRnBGREtxYURnZGI2WDhacC1SVGtjdnpHd2FOaXhKWi1IbzJjWi1wVGVQNXNzWXZJamJUOUU?oc=5",
+      "source": "L'Avenir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-12T16:02:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Telearbeit für Grenzgänger: Das Großherzogtum Luxemburg legt die 34-Tage-Regel fest",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Télétravail fir Grenzaarbechter: De Grand-Duché de Luxembourg präziséiert d'34-Deeg-Regel",
+          "summary": ""
+        },
+        "en": {
+          "title": "Teleworking for cross-border workers: the Grand Duchy of Luxembourg specifies the 34-day rule",
           "summary": ""
         }
       }
@@ -808,6 +866,39 @@
         },
         "de": {
           "title": "Der FC Metz besiegte RFCU Luxembourg in einem Freundschaftsspiel",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b329d37b8d07dc8e11cd5ab5a089e7d26f6968b0",
+      "title": "История: Югославия 0-0 Люксембург | UEFA EURO 1972",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xdnBOQUtIaVczcW5mSVljZ0VYSWFaSTJCR3p0ZWNicURxNlVIbTJkWFlaQmk4WE96Q0dQWDN1MFRnakkyeWNZd3BES0RzY3BrRS00dkIyckkwVThnaTRlYUhuVm04RDA0ZWJ2T0FUazJLSnV1V0t6X2pWeW03Zw?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-11T20:48:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Geschicht: Jugoslawien 0-0 Lëtzebuerg | UEFA EURO 1972",
+          "summary": ""
+        },
+        "en": {
+          "title": "History: Yugoslavia 0-0 Luxembourg | UEFA EURO 1972",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Histoire : Yougoslavie 0-0 Luxembourg | UEFA EURO 1972",
+          "summary": ""
+        },
+        "de": {
+          "title": "Geschichte: Jugoslawien – Luxemburg 0:0 | UEFA EURO 1972",
           "summary": ""
         }
       }
@@ -31475,6 +31566,35 @@
       }
     },
     {
+      "id": "eae47c9e5229ece2d109f1d28eb45f57f387c5c9",
+      "title": "Qualité de l’air à Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYm9yQmhWekZZWmhUczBGVzBBYlI2VmJqejJEQ1dxa0VtQTdvaFl0cHFjT0NBNnpnVzkyb0FOWHhNQmxIR0c3dnRHbzl1bFJWUjNPcEhBSnRNUmRBa2xNdkYwc2xsVW5tamJnM2lzWkdob1pBYWFvR0VaRDEtOGlKY1ZnU242dENx?oc=5",
+      "source": "IQAir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-06-23T04:18:26.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Air quality in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Loftqualitéit zu Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luftqualität in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "37ceefa17b400952c6e0b01dec5c6fbb1d4fdf48",
       "title": "رئيسة الجمعية الوطنية تهنئ رؤساء برلمانات لوكسمبورغ وكرواتيا وكندا بمناسبة الأعياد الوطنية",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RNDBYa2M5NUJrVHNvX05ZQjFXREJXY2RWbWFsVkw3Zy1QMkNhTEt4NmM2UEVzUGIyUi13REFteGlHWlpGWnNfZzd0SVJaelFUTHdnXzZNM2Z2Zw?oc=5",
@@ -31823,6 +31943,39 @@
         "de": {
           "title": "✨ZU VERMIETEN✨",
           "summary": "EU/Luxemburg:\nMöblierte Wohnung von ± 90 m2\n🚪2 Schlafzimmer\n🚿1 Badezimmer\n📏Terrasse von ± 8 m2\n📊PEB:D\n💶 Miete 800 €/Monat\n📆Erhältlich bei\n\n✨ZU VERMIETEN✨\n\nEU/Luxemburg:\nMöblierte Wohnung von ± 90 m2\n🚪2 Schlafzimmer\n🚿1 Badezimmer\n📏Terrasse von ± 8 m2\n📊PEB:D\n💶 Miete 800 €/Monat\n📆Verfügbar ab 22. Juni 2026\n\nKontaktieren Sie uns so schnell wie möglich, um die Organisation zu organisieren"
+        }
+      }
+    },
+    {
+      "id": "76921ae3cae434b1b47b7dc7abe2878cea5ba8b5",
+      "title": "История: Гетеборг 4-0 Люксембург | Составы | Лига Европы УЕФА 1998/99",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUm9uUlZPRC1MSXMxS2dFaHpWNWxRZS1URFdLZGFCOHA3MXJnSE5NRXhmdEJEVWZTTDNEZEVRQkJIeHZWQ2o0eHRXSG1sZUpLOVlSaXFIQzBSaUlYR0Utc2kwV2FoQWdpVmUyM1pnOVhZRTk1MmNRS1NzaWFfck81a3lEajF1RFBWYWZUNnhweUtmZw?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-06-22T08:54:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "historique : Göteborg 4-0 Luxembourg | Compositions | Ligue Europa de l'UEFA 1998/99",
+          "summary": ""
+        },
+        "en": {
+          "title": "History: Gothenburg 4-0 Luxembourg | Compositions | UEFA Europa League 1998/99",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Geschicht: Göteborg 4-0 Lëtzebuerg | Kompositioune | UEFA Europa League 1998/99",
+          "summary": ""
+        },
+        "de": {
+          "title": "Geschichte: Göteborg 4:0 Luxemburg | Kompositionen | UEFA Europa League 1998/99",
+          "summary": ""
         }
       }
     },
@@ -32338,6 +32491,35 @@
         },
         "fr": {
           "title": "Union Investment Luxembourg : 2 nouveaux membres au conseil d'administration",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5f0f6b5b58d95544caa0e7661aa58116906101e5",
+      "title": "Are Consumer Discretionary Stocks Lagging Codere Online Luxembourg (CDRO) This Year?",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWNmSEJEQVRUZFU5bWJ4TnptdjJONDBZbTN4RmFsRFJuSmd3MElVdGZlT0l2TDMwX2Z3WlplRnBaczI4VDN1TEhKSlpLcDBHVzBzaVBGd0szTnFaQlhfMTh0NGZuTDAtV1ZxVmptM0ozSWxOSjZ1T3BXbFVDTDFuZW9UWmNQRGNCV3J6Qmx6Mjk0NzFTRWlmZlFvNEF3M3hpdDljVXRaQXRpb0d5QlE?oc=5",
+      "source": "Yahoo Finance",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Sinn Verbraucher Diskretionär Aktien Lagging Codere Online Luxembourg (CDRO) Dëst Joer?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les actions de consommation discrétionnaire sont-elles à la traîne de Codere Online Luxembourg (CDRO) cette année ?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Liegen zyklische Konsumgüter dieses Jahr hinter Codere Online Luxembourg (CDRO) zurück?",
           "summary": ""
         }
       }
@@ -38289,6 +38471,35 @@
         },
         "de": {
           "title": "Der Cluster gehört uns! Was bedeutet der in Luxemburg verabschiedete EU-Beschluss zur Ukraine?",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3303a1a15e7a5345809e0163b936d508e9b2cfdb",
+      "title": "EU eröffnet in Luxemburg Beitrittsverhandlungen mit der Ukraine und Moldau",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rVHNqd0lRakpGLWFPNkxJWGhXZWRsYk0tQW81R3U2amFKekgzRm95MXAyTk9GRmg0eWc2LVNlT2hZUEV3b0xlc0F6bW9pRVY2Y2x0d2d6bnJqRmd6dldv?oc=5",
+      "source": "tagesschau.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-06-15T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "EU opens accession negotiations with Ukraine and Moldova in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'UE ouvre les négociations d'adhésion avec l'Ukraine et la Moldavie au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'EU mécht Bäitrëttsverhandlunge mat der Ukraine a Moldawien zu Lëtzebuerg op",
           "summary": ""
         }
       }
