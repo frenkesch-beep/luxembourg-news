@@ -1,6 +1,65 @@
 {
-  "generatedAt": "2026-07-12T10:47:10.321Z",
+  "generatedAt": "2026-07-12T12:08:42.636Z",
   "items": [
+    {
+      "id": "5e53e79f1d24fc50c7123c0a68ad9ccd3fd9fb68",
+      "title": "\"Deux destinations très attendues\" : Luxair ouvre deux nouvelles lignes au départ de l'aéroport du Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWElxdXpaZ3RQX0JMeU1NZHV2VzJNdTVuNVJVMm9IMVUydFluWHBwcmdEUGJJUGZibWs5YkNRNmdhckM3ZkFGQzh5a2xkRTdPeGQtalJPamlkMERaWG5VdkozeXFOU0JvbloxWW1hTjd1TzlUTlBoZzRCYTF0aFNpdTQtVG51VVhUREQyTXF3ejZicHBpQ2syWWxrRlg1VzFTX1luaHMwVHpvX1k1SG9qblByck5XZGFZRFBHSGZ0TlVlOGQtenM0RXk1QUljSURMT210eWM1YVNaVVE?oc=5",
+      "source": "Actu.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-12T11:02:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture",
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "“Two highly anticipated destinations”: Luxair opens two new lines from Luxembourg airport",
+          "summary": ""
+        },
+        "de": {
+          "title": "„Zwei mit Spannung erwartete Ziele“: Luxair eröffnet zwei neue Linien ab dem Flughafen Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "\"Zwee héich erwaart Destinatiounen\": D'Luxair mécht zwou nei Linne vum Lëtzebuerger Fluchhafen op",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ee7bce4d0f18f46f63bd27bc8385777e5533611e",
+      "title": "[Video] Rallye Luxemburg: Gregoire Munster schlägt Rekordsieger Marijan Griebel",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnh1S2c1UFJsR2ZnMTlJN2psOWhkb3pVRndCYkJzc25kSG50dWdQdDdoeDJ5N201NXlKTUVhY3J0NkUyeGpPd0xtMlh0VjBzSV9xNDJCdHlOMWwzY0swM0E2NjA2ZXRYcV9GNzdlNEhDQlNyNnBVdElQaldhLVFzRGpxa0dtamQxdkpkRVhoOU9xWklqNEpjVzZwSWlKMGFfR01fdmd6czZkcTdkZU5GSzM1SVpVVHhoSWNRdjFXYVlFS1pEQjY0?oc=5",
+      "source": "GrenzEcho",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-12T10:25:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "[Video] Rallye Lëtzebuerg: De Gregoire Munster wënnt de Rekordgewënner Marijan Griebel",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Video] Rally Luxembourg: Gregoire Munster beats record winner Marijan Griebel",
+          "summary": ""
+        },
+        "fr": {
+          "title": "[Vidéo] Rallye du Luxembourg : Grégoire Munster bat le recordman Marijan Griebel",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "3ba8c49b9c6762e3a1788a1a2965f7cad480ce56",
       "title": "Teacher in Luxembourg dismissed over posts supporting Palestine, reports say",
@@ -26,6 +85,39 @@
         },
         "fr": {
           "title": "Au Luxembourg, un enseignant licencié pour ses postes en faveur de la Palestine, selon des rapports",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "74cbd5d8b1b7b308aeb3cf10e7a4da641bfd8119",
+      "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 2",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNdXlSaEwxeFBtMTRGWGFiUWZORTVHajdTV21UaDlOZ3VlVG5mcG1xVWxDWFV6eFpzcTdlUHVWSzhkTWNPdjU3ZUlySXpzdXNwT3NkNjRHY1JGRC12TVY2ZnM0QXR2dk9ndmxVT1hHeWFlMUdsMl9WSmRpbXBhRzlWUG5oRW9TNW01bFNJNWpadS1sdFZkbGt5ZmVIcGtkY3pYejBFZ3hxRkJnb29Mdk01NjJkV1hIMW1VR21hT2JWUnVaRENXYjlGWDUzQUdYdnl5RUJHMmhuRTg5TkdkVGsxS3VXMDVNeGlqNmNXU1BvdVUyOFR4ZjY2cDU4S0k3VUVUUVVETnc5OU9jMmRhYklyV3dmTUdKOUx6ZzYxNHhhbXZkUUppaHVYSlFaZFd6d0FKbXV5dmxkTW5CcU15c0NrbXk5VmdkT3Q3OUdIc24xbVRtUW5scGRSZlRvOHQwRFNoNThiQkFRUQ?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-12T07:47:52.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ Architektur + Management - 2",
+          "summary": ""
+        },
+        "en": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 2",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 2",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + direction - 2",
           "summary": ""
         }
       }
@@ -88,6 +180,35 @@
         },
         "fr": {
           "title": "Grégoire Munster et Loïc Dumont remportent le Rallye du Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8b06a4af2583a7e745721d410a8b77f2e9a0dd34",
+      "title": "++ Luxemburg: Der 31-jährige Kevin Armand K. wird vermisst ++",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlBneU5tcGJFYzEtRi0tUDA4VFhOYi03bzJnQVZMZmRBN2JZSXJCS2daNm94ZUhReUdYZ180TWF1dzFBaDBmQmJ1cFMwbnRFUTlqUTZ6UmRKamIyUUtpZXR5VTdEZ0xLSXNCdVVuRWpBWFdJWFlsbHdQV2l3ZWJ3WTAtVG5adjBjdmVYeTJ1Wm5HZw?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-12T06:52:41.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "++ Lëtzebuerg: Den 31 Joer ale Kevin Armand K. gëtt vermësst ++",
+          "summary": ""
+        },
+        "en": {
+          "title": "++ Luxembourg: 31-year-old Kevin Armand K. is missing ++",
+          "summary": ""
+        },
+        "fr": {
+          "title": "++ Luxembourg : Kevin Armand K., 31 ans, est porté disparu ++",
           "summary": ""
         }
       }
@@ -460,6 +581,39 @@
         },
         "de": {
           "title": "Bosnisch-Lehrer: Wegen meiner Unterstützung für Palästina wurde ich von meinem Job in Luxemburg entlassen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4b6e64ff991dbcbf4b5e62d9c98f68883487a312",
+      "title": "룩셈부르크, 1인당 GDP 세계 1위",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPZ2dMR2ZwNTU3eFprOEZxVlFWQnRxWXlreEdIQWpsYWRmbl9xVWlpOXdNeDN5cGh1dXdHWXFONHFDNlRTTFhLUXVmajFSUGNXWVNXRGlnNUZzRU5DLTgtLVR4V3FxM3Fzd2J2X0JfMVZoS0JxR1JsQnprd1llYlNTWVVNcnlFQlh3cFp0U1d2OGd4V3JacWFOVm9FNkFfV3NGVjZEZkdEUTB6S0Uzc2Mydzg2QUF6Z1ZtNUs2QXNCVk1RUW01Y1VaYjZnODFMUkY4UENYbkEzMUtteks5c1lEMXk5b2xlZzBFRkdrZW1fbzA5VUtuX2hQUS1mY3BITjRXQldUUFl5czJPWkRhNlFKV0pYS3Rla3hmQUtoNmRBX2lEZmtoYWpURzVQU205OVRlMkJXNEJBWXVxbWx1Q1htRmZ3VGVFdnlKNGNFdklEMVRmMml2Mm4zVDIwTElxOTVjNFpfcGhjdERYaTRfdmUzdnVlSWtjQ3B5?oc=5",
+      "source": "MSN",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-07-11T14:05:52.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "economy"
+      ],
+      "translations": {
+        "de": {
+          "title": "Beim Pro-Kopf-BIP liegt Luxemburg weltweit an erster Stelle",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg ranks first in the world in GDP per capita",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg läit op der éischter Plaz am PIB pro Awunner",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg se classe au premier rang mondial en termes de PIB par habitant",
           "summary": ""
         }
       }
@@ -19543,6 +19697,39 @@
         },
         "lb": {
           "title": "FAGE Griicheland: \"Relocation\" vun der Firma vu Lëtzebuerg an Amerika",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "85918f48f074bea45696dc758b967384200acadd",
+      "title": "Israel Bonds: come il Lussemburgo consente la raccolta di capitali per finanziare gli attacchi su Gaza",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3VZTVBDdm9oU0ktMEppblJWUW05aElxTU0tT19JUG0tWDVzNkdLb3RTTHZJZlQwVEVPNHE2V0VXZFpiQy12SG4xSWp1Y3prTTVwdEFTUWtXYk94Z0VCNXNOYmt2WGRwVnFydzdaUkptRWVJdE85MjBBNVZrVDlKUHRMZ3JWVEY1TVM2RFR4Ylk?oc=5",
+      "source": "InsideOver - Inside the news Over the world",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-07-01T04:43:55.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "de": {
+          "title": "Israelische Anleihen: Wie Luxemburg die Kapitalbeschaffung zur Finanzierung von Angriffen auf Gaza ermöglicht",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Obligations israéliennes : comment le Luxembourg autorise la levée de capitaux pour financer les attaques contre Gaza",
+          "summary": ""
+        },
+        "en": {
+          "title": "Israel Bonds: How Luxembourg Allows Capital Raising to Finance Attacks on Gaza",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Israel Bonds: Wéi Lëtzebuerg erlaabt Kapitalerhéijung fir Attacken op Gaza ze finanzéieren",
           "summary": ""
         }
       }
