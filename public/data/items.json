@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-07-12T22:08:16.324Z",
+  "generatedAt": "2026-07-12T23:10:17.141Z",
   "items": [
+    {
+      "id": "9ec47488472940664ef34bcdbaa70e8cc7eceb98",
+      "title": "Luxembourg win first ever EuroHockey competition with Helsinki gold",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN0FlSm9jV1ctcmZZRmRPSUotYzFoS3J6Z3g0R1gxZnVJNDlhcGtTdjBaSFpCRW5meGFmbjk3LTdaekdZb0haX2lTOElHVXB1dWE0RXlJT2VpYTNYc1BMc29TSnpHVEl4RTBjQkFNZmo3OTBPNVBMZnZjR2VWVmhkYjd4cUhqOE5zUUlENkpEdFgzSW1M?oc=5",
+      "source": "EuroHockey",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-12T22:25:28.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg remporte la toute première compétition EuroHockey avec l’or à Helsinki",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg gewinnt mit Helsinki-Gold den ersten EuroHockey-Wettbewerb überhaupt",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg gewënnt déi éischt EuroHockey Concours mat Helsinki Gold",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f5751b9b793d677758c4bd0471b616b59127f4b6",
+      "title": "Herbert Visser: Van Laser via Luxemburg naar 100%NL (slot)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNENadlpUM21ZbzJYLXV1R25MR2tZd05sOGVtRzhHcjkzcmZnTDZyb3gyRURULXR2V2ZHRUplM0hIU1UxeHViNjBVN0dlQkJnX2pIazA3alNLcUtENmt6S1Q1anBma2VUcTFEQ1JTaHYyWFNHVmxvRHdpM3JLUUptRzhlYw?oc=5",
+      "source": "RadioVisie",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-12T22:21:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Herbert Visser : Du Laser via le Luxembourg au 100%NL (finale)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Herbert Visser: Vum Laser iwwer Lëtzebuerg op 100% NL (final)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Herbert Visser: Vom Laser über Luxemburg zu 100%NL (final)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Herbert Visser: From Laser via Luxembourg to 100%NL (final)",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "0d01a8d437eb0a950012d840f00fd6da03b325dc",
       "title": "EURO6000 cleared for Belgium and Luxembourg",
@@ -180,6 +242,39 @@
       }
     },
     {
+      "id": "8cf19402e3daa95b98cb855690ba7fc03e90f9b4",
+      "title": "画廊 卢森堡国家图书馆 / Bolles + Wilson + WW+ architektur + management - 21",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVlVPMmM4UkNwSEd0dUxDYlBzMEV1aHVEc0FSMlBFaGJWZG9wQXYxZGFrNXV6ZnNZUVlJQUw5bE5ST21nbzNLVTh2OWQtYmphd3hia3NaeTRtOGw2cmZUYUd3Y0RjbXZMSGl6N09BZThTWV9hTzQtdlpPSVhSNnpJY21Ldm9mZlNwOHdyOVpUSUdwQXpTbFlsYlRTRnZ1UnNLOERpTXFtS3FHTi0wWHM2TUV3bEo4bzhvaERYbUJibkFsWnR4VkJERmJyWTAxb3BqSVdpZWZqZzF6LXpYYVdMOUpQMVZEdHppdGNTU1FYSUxyQlBHblNPQUltZzFjTWJyX0xQcWw1TXl1d29kTFlOUzhQeVJtaHN3RlpTTEpwSmdIMmQ0RW5IUFkzSW1YSURJSzJFSEhBbEtiOWRNazhEQW1BTk9UY1dvaWtqbmRVRDBzVk1RRGVmNDY5MVJnbGRMcElEeGVvbUM?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-12T13:02:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie de la Bibliothèque Nationale du Luxembourg / Bolles + Wilson + WW+ architektur + management - 21",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 21",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie der Nationalbibliothek Luxemburg / Bolles + Wilson + WW+ Architektur + Management - 21",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 21",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "2f7aaeb6754085ffb7d9ae73e9dd602d606a52a5",
       "title": "Team Antwerp wint 3x3 Lite Quest-toernooi in Luxemburg",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGZzdGNMdFFzWjJ5T0s4VWg3NFFZR1NRcnl2S0VQTGNYTkRIZ2d0aGRkOUdYbzBRVlhycFExLU1tUVlvU0dRTkpzODVvWWlCVjM4LTRHRHlVNW4xbWtlQXBnYk1yWnZBWDBQSlVUbDlzLUlmaFhIU2R6MG9lRFkzSHZKQkE1MGh5YXFMQlM2cEkyUUxrNEFYdW5fVWtwZU15UlNuNkd4NDBUODhsRnJNeWNR?oc=5",
@@ -300,6 +395,39 @@
         },
         "fr": {
           "title": "[Vidéo] Rallye du Luxembourg : Grégoire Munster bat le recordman Marijan Griebel",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e993cdd4b0c9d13212cebf669c7d58c13dbc8987",
+      "title": "画廊 卢森堡大学学习中心，工业遗迹的复兴 / Valentiny Hvp Architects - 12",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMGNIZHRNRWd3ZjU3RDhUbjJOTjlsRU93TXB6NVZyUFhhaFkzX0VrOXlHWlkydDM5RHkxdzhMdk91TEJnMUE3Q2NKSHdPTjVvSXhQbldVd1lGRGpjSlhKc1I5M3F2cXBPQ0VZTTZ3S3BLa3VVWmVGVDJLa1NmSGY0QzROck1ScjFYYnh1VFp0clctejFlVzVQWU9pdkU4c3VydXktM283WEZLVWt1RW1qN0dBOUplVDg3QkQya3NsWmpjOXVMTHpCVDVtdjlWRnFKcmd2c1poa1c1V0V5Z2xlaVpVT1p0Z1BFVmxrbThIc0NMbjAxNWh1V1hONWcyemVnSW9ZUE9sTk9SNVB1YTVRdlE5OUFGc1h6dTFWTFFTR3F4UlYtdmU3UUZ4cw?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-12T09:58:08.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Gallery of University of Luxembourg Learning Centre revitalizes an Industrial Heritage / Valentiny Hvp Architects - 12",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Lernzentrums der Universität Luxemburg revitalisiert ein industrielles Erbe / Valentiny Hvp Architects - 12",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of University of Luxembourg Learning Center Revitalizes an Industrial Heritage / Valentiny Hvp Architects - 12",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La galerie du centre de formation de l'Université du Luxembourg revitalise un patrimoine industriel / Valentiny Hvp Architects - 12",
           "summary": ""
         }
       }
@@ -28661,6 +28789,39 @@
       }
     },
     {
+      "id": "e28eb9319289360d0603348327f46b064b4ce62b",
+      "title": "Ia românească sărbătorită în Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalRPM1hQdDJwekVDYm9kdWNLTDNmRGxDd01XUzA5NDNvdFJhMVdfZVZ5SUtQN3ZhSDhPczZ2bEhYUlpRWU9fNm1IY2pzYjRhUVI2WVoySF9SMmo0VzhXbDgtYmMwU0RmYzNOWHpPbXlnN3pvcXBaTC1DdFJfbmF4NDViOWl4RHZTdWQwLTEyeXdra0JhN1l4TzJlVldqQmRwOTQ0NWhnZFB2Zw?oc=5",
+      "source": "Ziarul Lumina",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Rumänesch Ia zu Lëtzebuerg gefeiert",
+          "summary": ""
+        },
+        "en": {
+          "title": "Romanian Ia celebrated in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Rumänisches Ia in Luxemburg gefeiert",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'IA roumaine célébrée au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "77d10f90e977d3b65325af55be3b1eb6ea99525c",
       "title": "リップル、ルクセンブルクでMiCA CASPライセンスの暫定承認を取得",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5hbUE4LTZRNUpqRExFdkg2Xzdrck9ORWxvaHRQMkFJV3I4Z25KMDNFWWZCeUU4R3djTzUxbDRaRGJZWm8?oc=5",
@@ -32013,6 +32174,39 @@
       }
     },
     {
+      "id": "5ae9ef3b38e05301ea10c69bbaacccf71672b9eb",
+      "title": "История: Гетеборг 4-0 Люксембург | Лига Европы УЕФА 1998/99",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmxBME5pRDEzLWlVV0pFaFV4VjVQVWtvUDFGRGxpMXMxdFVyOExpS3lyYjN6Ym1FLUh6cDBHMjZqczBub3NGbFoxZ3NoelBjRG9VSW9YMmtGUUIxR2M5U1huZVFCaDNzYml4bmdHTWtFbDZfeFpOUjRKSVZCb0w0bG1pVVFoTzhORXpNOEF4S0o?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-06-22T07:48:57.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Geschicht: Göteborg 4-0 Lëtzebuerg | UEFA Europa League 1998/99",
+          "summary": ""
+        },
+        "de": {
+          "title": "Geschichte: Göteborg 4:0 Luxemburg | UEFA Europa League 1998/99",
+          "summary": ""
+        },
+        "fr": {
+          "title": "historique : Göteborg 4-0 Luxembourg | Ligue Europa de l'UEFA 1998/99",
+          "summary": ""
+        },
+        "en": {
+          "title": "History: Gothenburg 4-0 Luxembourg | UEFA Europa League 1998/99",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "c27143a782ffff51278526b60c15d6dce659a3e3",
       "title": "Η Εθνική βόλεϊ ανδρών νίκησε το Λουξεμβούργο και ελπίζει σε πρόκριση",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS0g2VWdZVE9RUlNSNnZTWjRoT00xR2U4ZERpY1BCR2J0QkJLN09IZXJ4SmlRbWVRZWtfUThqR1Zwd25BRU9zNnpzTlctVmpsZjQzWTZRU0Ribnc5LVU5ZktoY3BMZnk0UWZOR3lIUnVuSXlqLU1iMGRoUnV6SWdQOWNEWU9fa0ZGUlExWHNQbHBrbUwtTklVOW0zU1FpVTA?oc=5",
@@ -32520,6 +32714,72 @@
         },
         "de": {
           "title": "Liegen zyklische Konsumgüter dieses Jahr hinter Codere Online Luxembourg (CDRO) zurück?",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "088ce405d043f89f32806c7b098d03d87e6a9ead",
+      "title": "Niels Vandeputte wint gravelrace in Luxemburg: “Heel fijn dat ik in de Belgische driekleur kan winnen”",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlUtVXZ6Z2dzOWg2bXRJbV91VmM3aTJVSHhHTThhaFREdDBBekdQQ0Ntd0FSVUFKQnBXT1dVSjA1MDRZMHRuT1pXalZTSUZGdEw1U3pEdmRhYldBSmN3N1V3OUJVNHlrX3lqQjB4UWNiczJfX3JhaVpyRHFJeGRaSEVlajJtUVlFZTZQbWFIQU9nckZWd0JrMTd4dW9vT3ItYVRjYy16NXd4U1JuVWljUWNNZjFobkg3cEdwcC1RRlhwZmdJLVdyZWNORU9oeXdXSXpNQ0tKQUtyanhQcFJKZ2ZvSVg?oc=5",
+      "source": "GVA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Den Niels Vandeputte wënnt de Gruefcourse zu Lëtzebuerg: \"Ganz flott dass ech an der belscher Tricolore gewannen kann\"",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Niels Vandeputte remporte la course sur terre au Luxembourg : « C'est très bien de pouvoir gagner dans le drapeau tricolore belge »",
+          "summary": ""
+        },
+        "en": {
+          "title": "Niels Vandeputte wins gravel race in Luxembourg: “Very nice that I can win in the Belgian tricolor”",
+          "summary": ""
+        },
+        "de": {
+          "title": "Niels Vandeputte gewinnt Schotterrennen in Luxemburg: „Sehr schön, dass ich in der belgischen Trikolore gewinnen kann“",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "1a6338f38f8fdb51a9888e6cbc98bd6f7b71df20",
+      "title": "UEFAネーションズリーグ ブルガリア vs ルクセンブルク 日時",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwMmJEM1FxRVJSQ0I1X05PV1R6MkM4Z2M2Zm10aWJLX21pcnRHZkNHRHNNSVJYY3U0WUROZkRjaEhDbjc1X3NfZjJiblZuZ2Z6QXc?oc=5",
+      "source": "スポカレ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Ligue des Nations de l'UEFA Bulgarie vs Luxembourg Date et heure",
+          "summary": ""
+        },
+        "lb": {
+          "title": "UEFA Nations League Bulgarien vs Lëtzebuerg Datum an Zäit",
+          "summary": ""
+        },
+        "en": {
+          "title": "UEFA Nations League Bulgaria vs Luxembourg Date and Time",
+          "summary": ""
+        },
+        "de": {
+          "title": "UEFA Nations League Bulgarien gegen Luxemburg Datum und Uhrzeit",
           "summary": ""
         }
       }
