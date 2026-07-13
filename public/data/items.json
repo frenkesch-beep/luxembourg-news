@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-07-13T19:50:37.005Z",
+  "generatedAt": "2026-07-13T21:13:43.063Z",
   "items": [
+    {
+      "id": "56b5ca9cb344e600e702b46e314048183a195519",
+      "title": "Tanner in Luxemburg: Militärzusammenarbeit vertieft",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmtyVTJ0UjdySC1pWkZqQkRVR29UNmp5dlBuc2NxaVpQc3U5azJRbkFfVFMwTGxCWlh3eHQ4aXgtS2xndDd0djRjaV9sMVVSTXU4NWVISS1Nbmd1VWVaMTlyVEdzbFVtSkE4NTZjWDRPM1pnQmYyUDg4SElNeUlVX2tGVDBTN3VBT2p6ajJQM3BUV1k3RG5kNHJJWXZMTk1JQkE?oc=5",
+      "source": "Salzburger Nachrichten",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-13T20:21:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Tanner in Luxembourg: military cooperation deepened",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Tanner zu Lëtzebuerg: militäresch Zesummenaarbecht verdéift",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tanner au Luxembourg : la coopération militaire approfondie",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "98afa6a23b85b4b2a7b04edd0f8797086193b3f1",
+      "title": "Ripple 获卢森堡牌照，XRP 母公司欧洲合规之路更加清晰",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwaVlaZS1XWlRyUWN6R3YzVDB4eDZLQ21BRUFzM0N4VlBjSFFKWEh6bHNNZjVpbFN1OURRNUFQTno5Tml1SWxhSlp3?oc=5",
+      "source": "区块周刊BlockWeeks",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-13T19:59:06.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Ripple erhält die Luxemburger Lizenz, der Weg der XRP-Muttergesellschaft zur europäischen Compliance wird klarer",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ripple obtains Luxembourg license, XRP parent company’s road to European compliance becomes clearer",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ripple kritt d'Lëtzebuerger Lizenz, d'Strooss vun der XRP Muttergesellschaft fir d'europäesch Konformitéit gëtt méi kloer",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ripple obtient une licence luxembourgeoise, le chemin de la société mère XRP vers la conformité européenne devient plus clair",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "31c356eb73dca7a220063a89b39c5cc321f417ef",
       "title": "Tour 1992: Induráin verplettert de concurrentie in Luxemburgse tijdrit",
@@ -63,6 +125,39 @@
         },
         "de": {
           "title": "Fc Luxembourg City vs. Hostert: Live-Ergebnisse, Aufstellungen und Konfrontationen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0a95be53888ed09cfb79f46204edcb4b3c3aad48",
+      "title": "Galeria de La Maison du Savoir - Universidade de Luxemburgo / be baumschlager eberle - 1",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOa1JsNld5WEFxdXg5bEczeWlaZkJ1b0s4Y21oSzZsVEcxaXY0ZjU0YnFwZjN4M21aSUZSUmREeHh6MWhmUG9DWi0tSklLNkt6YnZIX1BEYUx4MXF2UFNFVVpaR3dnUWxvNHdoVkZXVGtxMVBFZUl3ODEtSXdfLXRocXJncWVnNTc5dWZQZkxMSmxjbkw4aUt5d013UmRkQ2N4NnVpb0ViYmdaaDNBNy1LaXlwbE5TazAtQ20tak5xcmd0VmxkS21pR25UZ1d5dzNycEcxak1GT1dRb09JRDJyakhNeDBoWk4xWVZfZWl1NmRIMms5cm1xaVY0SWM0NElzdXkzeXVCM2EtWmpoSVF5a2lveENqV3ZwM2tBaXBHOVhKMF9rdkNsSlFmY0s?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-13T18:35:01.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galeria de La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 1",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 1",
+          "summary": ""
+        },
+        "en": {
+          "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 1",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galeria de La Maison du Savoir – Universität Luxemburg / be baumschlager eberle – 1",
           "summary": ""
         }
       }
@@ -1154,6 +1249,39 @@
         },
         "lb": {
           "title": "D'Jente Van Mulders wënnt 70,3 Ironman Lëtzebuerg ouni Schwammen mat engem ganz belsche Podium",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9382cb2c9085acf513cc46451097026603979b90",
+      "title": "Galería de Casa en Luxemburgo / Eric Pigat Architectural Design - 2",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPV3AxbDN3ckVFREs1ZzdFdlowS1RmRnJvNU1oUlJhRC0zZi0wNk1sdDE4WFk4LTkwdk5MSHhYa1BrRmRtcFhyVUs0Rnl1Nk5YOGwyeEtOMm5XM015WnktZ0FNR0Vod0ZnNVphajdXaGJMR1ByVEFkMTM3OUZIN1hKSkxoN19JRE80OXc1dWdQczlQN0ZWejl6ODR5VmI1QjZvX21mV1Zra3VDaUxXYzFlZWJYb0tJazZaTlpKNFVLa2hrQ21SWXBHVHlvOE1HNkVpTlczbkpZemFCbldwZU9vWlR0WHc4Y29lMW45M0N4Q2VJbktVTV9qcGRHUWRSdw?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-13T09:41:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie de Maison au Luxembourg / Eric Pigat Architectural Design - 2",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Hauses in Luxemburg / Eric Pigat Architectural Design - 2",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of House in Luxembourg / Eric Pigat Architectural Design - 2",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of House in Luxembourg / Eric Pigat Architectural Design - 2",
           "summary": ""
         }
       }
@@ -4571,6 +4699,35 @@
         },
         "fr": {
           "title": "La Galeria de Mecanoo et Metaform remportent le concours pour le Vélodrome et le Complexe Sportif de Luxembourg - 3",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b85a8ec511722345c0aef6737a8b7fe88d52064e",
+      "title": "Comment trouver un emploi au Luxembourg en 2026 | Visa de travail, parrainage de visa et parraina...",
+      "url": "https://www.youtube.com/watch?v=G_63sfQyAqg",
+      "source": "MirasVerse",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "fr",
+      "publishedAt": "2026-07-10T21:13:33.056Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/G_63sfQyAqg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBuqpL5uQv9Nn9vxnrLOon3dvyeoQ",
+      "topics": [
+        "economy"
+      ],
+      "translations": {
+        "en": {
+          "title": "How to find a job in Luxembourg in 2026 | Work visa, visa sponsorship and sponsorship...",
+          "summary": ""
+        },
+        "de": {
+          "title": "So finden Sie im Jahr 2026 einen Job in Luxemburg | Arbeitsvisum, Visa-Sponsoring und Sponsoring...",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Wéi eng Aarbecht zu Lëtzebuerg ze fannen 2026 | Aarbecht Visa, Visa Sponsoring a Sponsoring ...",
           "summary": ""
         }
       }
@@ -26071,6 +26228,39 @@
         },
         "en": {
           "title": "European Trial丨Foton CAVAN Motors Luxembourg scene test begins CAVAN European road test journey and arrives in Luxembourg. Relying on the complex and diverse real road conditions in Luxembourg, CAVAN C1 completed a multi-dimensional comprehensive performance evaluation. The whole journey was stable and smooth, and the driving experience was excellent. CAVAN is deeply involved in the European market, relying on its deep insights into the local logistics scene to provide a balanced and stable industry",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ef5356392974704252ad86bf9dcd88b5b9e5756c",
+      "title": "卢森堡的领土经历了怎样的变化？",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85QVRJczFzbWcxSG1RVGZ3Ny1VTFczSV9Xb2RPUzRaUTlMRlpCNk1pcFFpQUFzVFZXVGtBeEtqb0lrSFZZMFlkalZkMWx4VTlFX1MxQkVn?oc=5",
+      "source": "qq.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-06-28T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Wie hat sich das Gebiet Luxemburgs verändert?",
+          "summary": ""
+        },
+        "en": {
+          "title": "How has the territory of Luxembourg undergone changes?",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Wéi huet sech den Territoire vu Lëtzebuerg geännert?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Comment le territoire luxembourgeois a-t-il connu des changements ?",
           "summary": ""
         }
       }
