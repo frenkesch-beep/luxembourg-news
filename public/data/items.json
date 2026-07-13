@@ -1,6 +1,324 @@
 {
-  "generatedAt": "2026-07-13T17:23:42.114Z",
+  "generatedAt": "2026-07-13T19:50:37.005Z",
   "items": [
+    {
+      "id": "31c356eb73dca7a220063a89b39c5cc321f417ef",
+      "title": "Tour 1992: Induráin verplettert de concurrentie in Luxemburgse tijdrit",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sX3lZWDFDaGFWcXpZUEJxRmhBT3NSY2h2QlJkSGtLOHpNZmpZenRoMFlQYW5WU2g2Z05ab0s5U0NhcFFma2pMWkJWbXR6NEoxbHY4UkgwZFJIZG9fa3FQVXIzb3Z2al9UbTFaQ2xKcjY1eVg1?oc=5",
+      "source": "Het is Koers!",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-13T19:07:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Tour 1992: Induráin besiegt die Konkurrenz im Luxemburger Zeitfahren",
+          "summary": ""
+        },
+        "en": {
+          "title": "Tour 1992: Induráin crushes the competition in Luxembourg time trial",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tour 1992 : Induráin écrase la concurrence au contre-la-montre luxembourgeois",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Tour 1992: Den Induráin zerstéiert d'Konkurrenz am Lëtzebuerger Zäitfueren",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a031d9d86a84b2c74e810f6a8d23b46fb9c62fa3",
+      "title": "Fc Luxembourg City kontra Hostert: wyniki na żywo, składy i konfrontacje",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkRkZE9ob1lsXzhreE9rcGM4NzBGVnlVc25qUGY4RERYQWloTjd6RUJoQkNOYm9fS25KYVdHQlRQazhxTlFkUUxmQkwtdS1VWkMyV3N1amtfNWlia3N5X3Q4UWM4ekQ1UklHazNGNW5NdG1uRGV6UFRkNkJhNmlIMDRSeVlkMHhTdjRfOHlsX3M5blNjRmRpY0o0bkQtNTNhQXVHY1BPbnl3QQ?oc=5",
+      "source": "365Scores",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-07-13T18:45:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Fc Luxembourg City géint Hueschtert: Live Resultater, Opstellungen a Konfrontatiounen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fc Luxembourg City vs. Hostert: live scores, lineups and confrontations",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Hostert : scores en direct, compositions et confrontations",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fc Luxembourg City vs. Hostert: Live-Ergebnisse, Aufstellungen und Konfrontationen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5c8df140c55566caa617ac67609227c7e0efb331",
+      "title": "Camel Active reorganises its distribution in Belgium and Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkNkQUIza3VXSXNSdkh4emtqNUVKOE9PLTItdzZWVnNOY2loSWNTSWJxc0lKaDdmbUdReGJ1cDIteFZaV3FGQ3QxUWE2R1NBSW41M1JsVkp0ek1DOXlIb1E2aGtNbnJYTkpNcjJiZWJVTnVfblVqNHNVa3c0NkozUlpDcUgzeUJWcGF4R185N20xYWpWcWZRU19wMEM5M2VfSURQOWJMYmc0Z29XMEtOcVR5anN2Zw?oc=5",
+      "source": "FashionNetwork USA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-13T18:16:46.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Camel Active reorganiséiert seng Verdeelung an der Belsch a Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Camel Active organisiert seinen Vertrieb in Belgien und Luxemburg neu",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Camel Active réorganise sa distribution en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3fc283fe0ec6bebfa50059a251535361c640c75f",
+      "title": "Camel Active herstructureert de distributie in België en Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWndjM0NLNTlkdTRHYm4xLTZMc1VvYmR1LVNGU3ZTMkYxNFhnNU1mempkSUlYOFRJbmhFU3JNV1hSMEpUY244WkRKVjJUUmh0LURaVTE0bjBnUHd3RFFYUnhJUElsbDROYm1MbVlnX0doVFBrcWtrYzhlMzl3VTFoQVYxSkFZSC0zbEVSRFZRWk82NzVmaUIxcnlfb285NmRidFVGNFN6YjE1cnk1RlNDbFNNcTY?oc=5",
+      "source": "FashionNetwork France",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-13T18:16:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Camel Active restructure sa distribution en Belgique et au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Camel Active is restructuring distribution in Belgium and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Camel Active restrukturéiert d'Verdeelung an der Belsch a Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Camel Active restrukturiert den Vertrieb in Belgien und Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6819eda09798f198bd7ba08dc269370bb76fe79a",
+      "title": "Camel Active реорганизует дистрибуцию в Бельгии и Люксембурге",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZExRcklyR1paVl94dHVQTDNFZTBqXzdjOVRQVkI0QzNuckRiaURuZkxjZC1TZFVuZUV3cmtDaWNjX2xJclNyakUxVWhiMXNRUWdOYk9UMGd2MXdXc3NTLU9SMndEbjA1WlFCODFERWZpXzJ0TkFrT3Z1NDA0a2VhcXJNMW4zdEIyWXhXZjhXQkZiMnVmbFJDYVlYYk1IVjhtVmJyR2h5N3o5MU9HRkRWUjVaWGVOOEp5clE?oc=5",
+      "source": "FashionNetwork Россия",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-13T18:16:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Camel Active reorganiséiert d'Verdeelung an der Belsch a Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Camel Active reorganizes distribution in Belgium and Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Camel Active organisiert den Vertrieb in Belgien und Luxemburg neu",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Camel Active réorganise sa distribution en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d62c75ab64ec1d297cdd308881cd192716ee9fc3",
+      "title": "Camel Active, Belçika ve Lüksemburg’daki dağıtım yapısını yeniden yapılandırıyor",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOb1pkbjlrSHp3Si02dTlOVHI0MERZSFRJcmozSVNIdExiYlVBZkNSZ0xqVDQ5RlpQeVBFNm5vTHc0S2gtWkJ6OWpqbGY5dXVKVjZ2T2N2ZWVDaGdnb2o4dHFrQ2NrSzlHSm1pM3hXdXdpblV6T01FcUUwa3NHOUszRTRKdllvOUFIRVNMdncxYU5RMDg2Y1d0Y0JXMDh2NlRpVkZxUXV5Vk5XQmVJVWJjY1dUS3RiM0JDUVlnRnNiNjBydUQ4VFlFYnRzck8xSDJOX0ktWFMwUDQyWFBfM3NHeXJqbVhGd1lQaHJJajJUbzVodkZfSi0wVWVGQXh4OC1zVlE?oc=5",
+      "source": "FashionNetwork France",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-07-13T18:16:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Camel Active restrukturéiert seng Verdeelungsstruktur an der Belsch a Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Camel Active is restructuring its distribution structure in Belgium and Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Camel Active restructure sa structure de distribution en Belgique et au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Camel Active restrukturiert seine Vertriebsstruktur in Belgien und Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7fb15392c9b1292c492420ecb6912f72cb19e8c3",
+      "title": "キャメルアクティブ、ベルギーおよびルクセンブルクにおける流通体制を再編",
+      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPcU5jVkdha3U4QlB1dXRQQkhxN3g2UFkwUUt2cDlNX3hEVVhsMnpVb0RBdkdVbGJPOEJSQkR1ZlE0WWJEWDZJSzlGeFpBUmthcVNuVUVNNzFIYUplU21CVFVWSzFtZHEyTGhLdTRNZjVITVEtQzNGcmxKeXYxMkxZZVpsZ3JvczMzbzRXTHVQbzZFZ3pmQWRFSkxyVGZ1SS0ycG5fRXVSSmFyekxNX0xNWjNEanJZMDhTVnBGT2M4RGoxb21BQURwVkhhYUZNelJ4aFlNcGpBRkZ0eFBpT0UtNVlPM2l3eEdDWkhSaVhkS2lyc0xRUnc4eGhmMVh2NFpyMW9ET2V2bXEtb2xkd3I0Nmo3MnV1OEtSSDVYSWNLNm90X1VvUlBOcm5xREQ1VzMxSUUxT05OM2Q3VXBic1FqaVloZThFejBZZVFWZEoyTHpYaG0zZUg5MnhUSWhWZXJxSGpXQVRtSF8wUkNOMWVuNXdmQVdlT0tzY2Q1NlJFdXBQdV9FZkZ0b2lBaE9NOUVraFNmY204V3FYc0ZUOFNCSjdtR3dpQXpWLUNTZUF6WnFBME9kNlpzLXdGZXc0R1g3bWppRGpSa3plZ05hdUxxdDdDNUR3ME5vMXJtanB2ZllxNXhWODB6VlVfaU5rLTg3R003Sl9B?oc=5",
+      "source": "FashionNetwork France",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-13T18:16:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "CamelActive reorganiséiert d'Verdeelungssystem an der Belsch a Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "CamelActive organisiert das Vertriebssystem in Belgien und Luxemburg neu",
+          "summary": ""
+        },
+        "en": {
+          "title": "CamelActive reorganizes distribution system in Belgium and Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "CamelActive réorganise son système de distribution en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ec89b7f1dd4b753d2d4691a64058e6a0875c8d7b",
+      "title": "The Pussycat Dolls à la Rockhal : le concert pop événement au Luxembourg en 2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzFYc1hTR2NLb21vazdmTlRJU19Zc1RhdlF5OHNVcnB6M2VKNWtack5Rd0dYaFVsd21kYlY3V2prMTdsS3VwdHdTXy1jM2dLYV8wUlBvQ2ZsR1NDeWNQTVRIY3pwZXBFbHVXVGIxSG0xMTc2aEg0bTQxZEFCR0lqRQ?oc=5",
+      "source": "Info-lux.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-13T18:14:35.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "The Pussycat Dolls à la Rockhal : le concert pop événement au Luxembourg en 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Pussycat Dolls à la Rockhal: the pop concert event in Luxembourg in 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Pussycat Dolls à la Rockhal: das Popkonzert-Event in Luxemburg im Jahr 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9dbd4897c12fd18cbdf08f538c3d63ccbce02ec4",
+      "title": "Porto Novo: Grupo Sonjon Revoltiód actua na décima edição do evento “Weekend Capverdien” no Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeG1MMC00NXNJWEVkTk1LUWFBUktnZVNQRnhpeDgzZExhQlNXd1JZNjdKX0FnSldfR1NLbm5MVXhIUk5jcXZpM3R1aW5Zd2Yyd2xKTEh3MlppUGNrOHlJTldXSXZfQ0M2QXFReHptUnFaWndGTXdsSGtIcWI5WUVwVUtPVkg1ZGV4R281YU9YQktRVUVjUWlmYmdiNGpqN3NoamtMM01pNmZtWVpndnZhNUE3YjZ3aWhrTTRKUnF5Qm5wRkVLZ3h4djFXLV8tVlhCdlE?oc=5",
+      "source": "Balai Cabo Verde",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-13T18:11:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Porto Novo : Grupo Sonjon Revoltiód se produit à la dixième édition du « Week-end Capverdien » au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Porto Novo: Grupo Sonjon Revoltiód performs at the tenth edition of the “Weekend Capverdien” event in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Porto Novo: Grupo Sonjon Revoltiód spillt op der zéngten Editioun vum „Weekend Capverdien“ zu Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Porto Novo: Grupo Sonjon Revoltiód tritt bei der zehnten Ausgabe der Veranstaltung „Weekend Capverdien“ in Luxemburg auf",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "cbc006388088f04d6294935d18dcdfb5cec738d3",
+      "title": "Le Québec et le Luxembourg unissent leurs forces en cybersécurité",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlLWdmUDlfc1NTcXFyT3NEU3QxcW1QWVFUMWdheGtWUTNQUlZjMW5Db21RSTAyOEJwR3ZURm1FNXpQOTRTR3I5bnNYQTNHUGVfTk94bVIxdnhxVU1CVUE?oc=5",
+      "source": "Lelezard",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-13T17:37:08.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Québec a Lëtzebuerg schaffe sech an der Cybersécherheet zesummen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Quebec and Luxembourg join forces in cybersecurity",
+          "summary": ""
+        },
+        "de": {
+          "title": "Quebec und Luxemburg bündeln ihre Kräfte im Bereich Cybersicherheit",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "b81ec2a5a4a96a1e012744473355d8d2c730c409",
       "title": "El castillo al que se han mudado los grandes duques de Luxemburgo cuyo pasado nazi asusta",
@@ -92,6 +410,39 @@
         },
         "fr": {
           "title": "Les étrangers peuvent-ils passer l'examen de fonctionnaire luxembourgeois avec un salaire mensuel de 70.000 ?",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "58a70d0cf430cb812bfd62ee2b0f6aeadb1327fb",
+      "title": "画廊 卢森堡Pandemos Agora 精品店 / Klab Architecture - 6",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTEFBdlRlMVJiY3FIa3EzSVgxZEQwYVNMWHVuYWFONGJab3p4STlhZUNHOFdTaVZvSTdnaG5Zenl1ci03bTBXM041MkFrcFRfQUJFTEdhNmV4Nmpkc0ExcDlQeDMwNGFwQWFJNjU0QlNkWU9HcEFYMWJJLVRoZGdKSTJmYllWekpvdEpqM1ZOSHNtRnA2Rm9fcExCY29maDRWWklIM3NEX1ZaVTVxeGZwUmdsQ2gxZEJRajlJVnhGWFl1UlVhZU54NFplYm1zczQ1akRQWWlDQUZvaFVZOE03QU5TaGZ4NkxMcEFfenJR?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-13T16:16:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Galerie Pandemos Agora Boutique Luxembourg / Klab Architecture - 6",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie von Pandemos Agora Boutique Luxembourg / Klab Architecture - 6",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Pandemos Agora Boutique Luxembourg / Klab Architecture - 6",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de Pandemos Agora Boutique Luxembourg / Klab Architecture - 6",
           "summary": ""
         }
       }
@@ -283,6 +634,39 @@
       }
     },
     {
+      "id": "4c65fd6f713245a41e0259f3def57c1285f8edfc",
+      "title": "Da Índia, China, Brasil, Ucrânia e Cabo Verde. Os novos imigrantes do Luxemburgo são jovens e altamente qualificados",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNnBzd1NrLUlZdjlhbEhsdk5NSVRja0k1VHJaSW1PRlpzUVh6d1RQMHNINEZUZWc5TExFYlpYMGVqNndZLWtPX0lYcDlYS3hNVzE4ZTJiS1VNa1NNSXVpWUZsQXlBRl9WdmJVWnFFOU5uZkxoS1YzVmRFQmhWaldQX0NGTnI1NlRKb1FUU0lkOFN5dTN2R0tlTk9ZWm12aGxmeGdYc08zN3ZOMUZxanJ3aXFwc1UzUXRIb2ZPZVA0elg?oc=5",
+      "source": "24 Notícias",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-13T13:12:14.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Aus Indien, China, Brasilien, der Ukraine und Kap Verde. Die neuen Einwanderer aus Luxemburg sind jung und hochqualifiziert",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Vun Indien, China, Brasilien, Ukraine a Kap Verde. Déi nei Immigranten zu Lëtzebuerg si jonk an héichqualifizéiert",
+          "summary": ""
+        },
+        "en": {
+          "title": "From India, China, Brazil, Ukraine and Cape Verde. Luxembourg's new immigrants are young and highly qualified",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Originaire d'Inde, de Chine, du Brésil, d'Ukraine et du Cap-Vert. Les nouveaux immigrants luxembourgeois sont jeunes et hautement qualifiés",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "7d9a310fa762398670bf24d5b65f10bfe3e77182",
       "title": "Belgien plant digitale Vignette ab 2027: Das müssen Autofahrer aus Trier und Luxemburg wissen",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGo1aUk5X2gzdy12QlhKMGxvMF9GSnZFTzZKV2dfZ3l4NGkzZkhfcDN0VGx1dmtLeDdEdFhORDh0M2xVNlZBaDQ1QjhlRE5TREdPMXZRMmVKVXJyQnFxRTNqeHliM0cwNS1uYmpscllJRWRTM1NsQkgzRW96THl1MnNyb2FvbzlGakpkRnpFV3lqenFkUFE?oc=5",
@@ -465,6 +849,35 @@
       }
     },
     {
+      "id": "1ff56d3877ad4878f3313f6fcca4c39506cd96a7",
+      "title": "Fc Luxembourg City vs Hostert: Scores, Results Lineups, H2H & Odds",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVppUEFFdnZVX3BXVDYzN2ROc0ZBRi16RVJSd1hPSURVNEdlNzdjR1FXem43b2dPc2k5d2xSa3FSNmhOUzB4SXYxUkIwWXAxNkRZYVRDeXBEdVhWdzJmdjhINHBTY2xLMnItUFYxdElaNlRFMFBacnI1cE5sSVpFMmNEVk95c3MtYktLMDNHNmliWW1rVWVEVk1yU0RnVWxySkFoOTc4VHZYMEc2Zmc?oc=5",
+      "source": "365Scores",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-13T12:17:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Fc Luxembourg City vs Hostert: Resultater, Opstellungen, H2H & Odds",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fc Luxembourg City gegen Hostert: Ergebnisse, Aufstellungen, H2H und Quoten",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fc Luxembourg Ville vs Hostert: scores, compositions des résultats, H2H et cotes",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "26e23520724a3571e609affb561f4f4e2c7af540",
       "title": "\"Do We Have To Wait For Netanyahu To Go?\" | Luxembourg FM Blasts Europe's Israel Policy Delay",
       "url": "https://www.youtube.com/watch?v=j4STkAfXQRo",
@@ -584,6 +997,35 @@
         },
         "lb": {
           "title": "Spuenien iwwerhëlt Lëtzebuerg als bëllegst Tankland",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3a6f2ef5415ee750e71f2c2ac762cb496cb5cbac",
+      "title": "Suff-Fahrten in Luxemburg: Schlangenlinien, Motorrad-Sturz, Bedrohung von Beifahrerin",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN1c4T1RIQnZHeTBGVGtHenA5VWJyc0k3b0JQMWZyLV9ObVJDQS1GemV6dHY2RUZSWUQ1YjlNZVlUZ0tDMG5hbll5QXVDT1VhTFllNFZYenpPUGpwWDhRWmthZkkwbkxyRFJUOFRQTzFtVWlaVHQycGJ3Z0tBSnhtaHNTbGF5RUdKTXVTamZzcWlqSVdhTE92eUVkR2JMUDRkV0F3aHJXdGQyeGxOTU1LbHlRVGJWRDQ?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-13T10:53:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Drunk driving in Luxembourg: snake lines, motorcycle crash, threat to passenger",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gedronkfahren zu Lëtzebuerg: Schlaangenleitungen, Motoaccident, Gefor fir Passagéier",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Alcool au volant au Luxembourg : lignes serpentées, accident de moto, menace sur le passager",
           "summary": ""
         }
       }
@@ -2890,6 +3332,39 @@
         },
         "de": {
           "title": "Geschichte: Jugoslawien – Luxemburg 0:0 | UEFA EURO 1972",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "16446740c1bb3c4d5516a5ee5c5404ccfdc11255",
+      "title": "Powiązane tytuły - Luksemburg, Luksemburg (2022)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS21EUFdBR2MwLThHTl9hUXRfZ1A5bVhUMmpjcTE5aUg4ck45SUNrRmY4eGx4Q2NnZG1wODNISUdSUEdlaFhhS0JLa2VJc0ZqdllFSFhUemFDYnlKRTRpc0RFcUJjMlFBcllrWW5SeVk3STQ1cUZId0tQeldpb2Rqdlh2X18zWjU2dWJGelREWWo?oc=5",
+      "source": "Filmweb",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-07-11T19:49:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Verwandte Titelen - Luxembourg, Luxembourg (2022)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Related titles - Luxembourg, Luxembourg (2022)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Verwandte Titel - Luxemburg, Luxemburg (2022)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Titres connexes - Luxembourg, Luxembourg (2022)",
           "summary": ""
         }
       }
@@ -23266,6 +23741,39 @@
       }
     },
     {
+      "id": "266473bf40fb11632e25b42624f08bad4618f0d7",
+      "title": "CGD vai emitir 500 milhões de euros em dívida perpétua no Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR2ppbGdaUTNtZFNuLUR4WVBUTHNDOUtWQ2tNcDV0TThjT0IwMVdQckFlOG16SGdjVzBmTmFQbmtuemlkVV8zS045OTk3UEszUVp5QjNUc1ZOQy10QzZnYW1DSlRrcDVQMWswVlNGUkl3ZkNSQ3pDX2o5UEFNb0poaWtpTHRFeHlyaXZfbTJhUHYyNTRET25OVU1qTnEtQWV3WkV5R3NPMXFGdlRUb3psMlh1UUJhdmpz?oc=5",
+      "source": "Jornal Económico",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "CGD wird in Luxemburg unbefristete Schuldtitel in Höhe von 500 Millionen Euro begeben",
+          "summary": ""
+        },
+        "en": {
+          "title": "CGD will issue 500 million euros in perpetual debt in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'CGD wäert zu Lëtzebuerg 500 Milliounen Euro éiweg Schold ausginn",
+          "summary": ""
+        },
+        "fr": {
+          "title": "CGD va émettre 500 millions d'euros de dette perpétuelle au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "35cfd563d2f2df459de519ad49648e00bdf6cede",
       "title": "ΦΑΓΕ Ελλάδας: \"Μετακόμιση\" της εταιρείας από το Λουξεμβούργο στην Αμερική",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVlZNkR5Tl8ySjdnaGZzaTBmbXJxdnZreHlvc19GSzhoUURmSFplM2R0WWo0azBITGhPdHVFRnJxN2pTZG9Oa3lhSUc3MzZ3N0VlZ3oyR0Q1OXlJWE1YM2JORHR0WW1jQVZtS1ZxT2VuVWNPMkRYV2RTdXZCbDl6OXBuTTFlanYwZEthelpVWEdTU3Z4aGU3QXpKLWxWbFh2Yzd0OUNuWTk2NHdQVjB3WXlmenJzalk?oc=5",
@@ -34940,6 +35448,39 @@
       }
     },
     {
+      "id": "1e035c153c558c6d0535c7a9ae44398fbf7cb852",
+      "title": "Fernández-Pacheco to support Planas in Luxembourg in defense of Andalusian fishing",
+      "url": "https://www.youtube.com/watch?v=c7-I5TbFBm8",
+      "source": "Europa Press",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "es",
+      "publishedAt": "2026-06-22T19:50:12.954Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/c7-I5TbFBm8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4rR14e9h4826F3Zj8wo1rqVyJYw",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Fernández-Pacheco fir Planas zu Lëtzebuerg an der Verteidegung vun der andalusescher Fëscherei z'ënnerstëtzen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fernández-Pacheco soutient Planas au Luxembourg pour défendre la pêche andalouse",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fernández-Pacheco to support Planas in Luxembourg in defense of Andalusian fishing",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fernández-Pacheco unterstützt Planas in Luxemburg bei der Verteidigung der andalusischen Fischerei",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "7526dd9277877d3da714919e84691a77d4662047",
       "title": "Aus Luxemburg: Chemie holt Mittelfeldfeldspieler Luis Jakobi",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ1RhbERrQkRiY0RoeVdYa3U4MkZjZkFueEhsSmlzTldaZDAyYXBhVk14WklhRW5RYXhEOEtLcjFoRmR3NjlBTXk5dzVNTC1keURRa0NuNnVJRE82SXJobkZfRnB2Z1AzTm5KNUp1bGdEcU1mVWI3SXJ6dkZWZDc5NkRaWDFpYlJUY3lvcW9BcmZtT0tpNjdKN2JOTnJselpTMUEw?oc=5",
@@ -42443,35 +42984,6 @@
         },
         "de": {
           "title": "Das Robotertaxi kommt mit den Elektroautos Bolt, Pony und Stellantis in Luxemburg an",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "db0ce4f1a7311c3a7eea556524a46f582fd304d2",
-      "title": "Luxembourg country.\n#facts #viral ",
-      "url": "https://www.tiktok.com/@lifestory01l/video/7650961637989551392",
-      "source": "@lifestory01l",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-06-13T19:18:47.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/o8atvqLlEamaAF7EfBmELQDr4AhLBSD6EIRfRs~tplv-tiktokx-origin.image?dr=9636&x-expires=1783756800&x-signature=ov8gtwUM2gVrQ3%2Fo%2BytHbNNihPg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg country.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburger Land.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Land.",
           "summary": ""
         }
       }
