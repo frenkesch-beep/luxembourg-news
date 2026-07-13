@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T22:12:09.605Z",
+  "generatedAt": "2026-07-13T23:14:25.584Z",
   "items": [
     {
       "id": "f955ba9d3d791ce10c517c221fb5ab28d8442ee5",
@@ -448,6 +448,39 @@
       }
     },
     {
+      "id": "e08ed301bbe39e297fc2ac7194815b482c597fd5",
+      "title": "Live: Λουξεμβούργο-Μαυροβούνιο",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmM5UUJXbmxyZWtqMkhjMkJ1Z25FVDFKSXJjTFhGY3lIUUNHX0ZOQzZTZkVabG52aEVYNEJDdE1kTTV6Ql9KRTB4RFozbHdjTy1rejU2Q1FmLUsyY0ZCYmRyOTdfVVo0akdORlE1bmVTbU1NLXRzZ0FTSjdVbTVlSDBVT1nSAYQBQVVfeXFMT2ZjOVFCV25scmVrajJIYzJCdWduRVQxSklyY0xYRmN5SFFDR19GTkM2U2ZFWmxudmhFWDRCQ3RNZE01ekJfSkUweERaM2x3Y08ta3o1NkNRZi1LMmNGQmJkcjk3X1VaNGpHTkZRNW5lU21NTS10c2dBU0o3VW01ZUgwVU9Z?oc=5",
+      "source": "sport-fm.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-07-13T17:51:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "En direct : Luxembourg-Monténégro",
+          "summary": ""
+        },
+        "de": {
+          "title": "Live: Luxemburg-Montenegro",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Live: Lëtzebuerg-Montenegro",
+          "summary": ""
+        },
+        "en": {
+          "title": "Live: Luxembourg-Montenegro",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "cbc006388088f04d6294935d18dcdfb5cec738d3",
       "title": "Le Québec et le Luxembourg unissent leurs forces en cybersécurité",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlLWdmUDlfc1NTcXFyT3NEU3QxcW1QWVFUMWdheGtWUTNQUlZjMW5Db21RSTAyOEJwR3ZURm1FNXpQOTRTR3I5bnNYQTNHUGVfTk94bVIxdnhxVU1CVUE?oc=5",
@@ -596,6 +629,39 @@
         },
         "fr": {
           "title": "Homburg ramène Torres du Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d06a096fde04be8f37cb265a581267f290136ff7",
+      "title": "友谊赛前瞻：卢森堡实力孱弱需避免大败，意大利将自由发挥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tM2ZOTmN2TkJERlRMN2RkX0xJZTBBb1MwVG56eUZEaFR4RThTcmcxTXlzQ0tOMDN5RlZ0TndTcVV4YUE0V1piamNUZmFXYkx3SkVxQzc1eWs?oc=5",
+      "source": "企鹅体育",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-13T16:27:10.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Frëndschaftsmatch-Virschau: Lëtzebuerg ass schwaach a muss eng grouss Néierlag vermeiden, Italien gëtt fräi ze spillen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Friendly match preview: Luxembourg is weak and needs to avoid a big defeat, Italy will be free to play",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du match amical : le Luxembourg est faible et doit éviter une grosse défaite, l'Italie sera libre de jouer",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vorschau auf das Freundschaftsspiel: Luxemburg ist schwach und muss eine große Niederlage vermeiden, Italien wird frei spielen können",
           "summary": ""
         }
       }
@@ -1217,6 +1283,35 @@
       }
     },
     {
+      "id": "f10c3906f2398afe4d63d8a6a4e0d7c44dbb1442",
+      "title": "Österreich will Beteiligung an Luxemburger Satelliten",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcEtVQlM4bThBMzYyWmVJYjdURE80eE9wYjJCSkVqQmRXQWdiY3pFU1dGUmhmMGFCajlzd2xDSU5YZVM2dXZKcEdILXZNZnlDbUlXMGVJVldHOHVIX1dIOWp3N1lORnVFLUtEQ3dEWVRrRFZDcnNVVlVnUlBmZTVEdTlYYm52em5nVGc?oc=5",
+      "source": "VOL.AT",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-13T10:50:49.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Éisträich wëll Participatioun u Lëtzebuerger Satellitte",
+          "summary": ""
+        },
+        "en": {
+          "title": "Austria wants participation in Luxembourg satellites",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'Autriche veut participer aux satellites luxembourgeois",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "d7aeb47c3aa867dac7ff735a8d3122b3dfced8ee",
       "title": "Эстония — Люксембург до 20: прогнозы 14 июля 2026",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DOFdRRHdNbFZOSHpDdVZxaGxhc2poRl95VnE5QXg5eG5nU24ydmhnUEQweWlhSVFHUGM5bG5HclNRVFl1NEdhOUZIR0k4OEFfV0hubHBTa0FNOUEzYjVNTEtXanBPaG15Q0RsOTRRek9pU1ZBei1PLV9ielNrTnc?oc=5",
@@ -1439,6 +1534,39 @@
         },
         "fr": {
           "title": "OpenAI identifie l'impact de l'IA sur l'emploi européen : le Luxembourg grandit, l'Allemagne s'expose, l'Espagne résiste",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3790b6bb9f30df4df4829fc9f8d4d6ee3522d8e3",
+      "title": "Galería de Casa en Luxemburgo / Eric Pigat Architectural Design - 12",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaVZqQVJfZkdhWWR0Q2tvdTIwVTlLOHdmSms2QWdDeWwtS1Z1MUtkR0NzR09mc2Zxa3pIdHRPQlZaaGhxem1kWngydFpNZ1hZT2tjTUlJV2VCU2Y2bERzYXBlVGtidU0wS1F0Z2ZHdlkyYTZMd0wya3I2LTdFWmttQjdmaXhWZnZzRUo0X1JFQmdadUZ6cVBmeWRBZVpMaW5hNlowdWhoVThJOG9nN2JPdE1rYWRHZ3NLYmdMWVVtc3hrLXF6czBrbDl6OGUxemJXTEFYR2RzcmJna0VEWUlRX2l5NER5cjZrY3FYay1MTjVYRHp6UDJWNktmTWxGRFk?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-13T09:10:59.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie des Hauses in Luxemburg / Eric Pigat Architectural Design - 12",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of House in Luxembourg / Eric Pigat Architectural Design - 12",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de Maison au Luxembourg / Eric Pigat Architectural Design - 12",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of House in Luxembourg / Eric Pigat Architectural Design - 12",
           "summary": ""
         }
       }
@@ -21361,6 +21489,39 @@
         },
         "fr": {
           "title": "Travailler au Luxembourg : Années de bébé : Pourquoi les frontaliers sont souvent financièrement défavorisés",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "68e1caeb75c62629b65a1e8eced6b79fef61fef3",
+      "title": "Летисия Матеуш | Матчи | Люксембург | ЧЕ среди женщин",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEtrLWltLWJhTldfbDJwbkRuV1ZOMW92bVFZMWYtQVZveWNxZXMtb1ZjRThRRkNkNjhaRmExdU9vQU1GaWZ1Y3d2MUdJRlJ6TDcxQk5IbmVPMGsta2tGVXV3U2ZQNTBEWFY2elhsQmxGTHQxTWdjbmd3dmlKazZTc0J3cmpVZw?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-03T10:07:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Léticia Mateus | Matchs | Luxembourg | Championnat d'Europe féminin",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Leticia Mateus | Matcher | Lëtzebuerg | Dammen Europameeschterschaft",
+          "summary": ""
+        },
+        "en": {
+          "title": "Leticia Mateus | Matches | Luxembourg | Women's European Championship",
+          "summary": ""
+        },
+        "de": {
+          "title": "Leticia Mateus | Übereinstimmungen | Luxemburg | Frauen-Europameisterschaft",
           "summary": ""
         }
       }
