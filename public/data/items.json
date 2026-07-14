@@ -1,6 +1,131 @@
 {
-  "generatedAt": "2026-07-14T00:09:46.138Z",
+  "generatedAt": "2026-07-14T03:35:14.778Z",
   "items": [
+    {
+      "id": "7748ed386d19f804965fb1f9593be7cf0e3a48b2",
+      "title": "跟着赛事游商洛 | 卢森堡队运动员Julia Gorajska",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3ZWkwMkdnVUU2RkU1NzlnTUs5U1lLcm1fbTI4SzFwZm5wYTdaMjRtNXVUamcxVmM3MXc4b3g0R1M0dW42ZDhVYzRhQWFnZEhQeFJrWQ?oc=5",
+      "source": "手机网易网",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-14T02:50:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Rees op Shangluo mam Event | D'Lëtzebuergerin Julia Gorajska",
+          "summary": ""
+        },
+        "en": {
+          "title": "Traveling to Shangluo with the event | Luxembourg team athlete Julia Gorajska",
+          "summary": ""
+        },
+        "de": {
+          "title": "Mit der Veranstaltung nach Shangluo reisen | Die luxemburgische Mannschaftssportlerin Julia Gorajska",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Voyager à Shangluo avec l'événement | Julia Gorajska, athlète de l'équipe luxembourgeoise",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0971f4900dfc455f9801ee84360d7c94d27841ab",
+      "title": "Israel-Hamas War: Luxembourg FM Blasts Europe, Targets Netanyahu Over Gaza Policy | WATCH",
+      "url": "https://www.youtube.com/watch?v=wHUq_Kbdaew",
+      "source": "MIRROR NOW",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "en",
+      "publishedAt": "2026-07-14T02:35:06.004Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/wHUq_Kbdaew/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBIFiw3Ak-4ZTdxop7TvcvyVF8MQ",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Guerre Israël-Hamas : le ministre luxembourgeois fustige l'Europe et cible Netanyahu à propos de sa politique à Gaza | MONTRE",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Israel-Hamas Krich: Lëtzebuerger FM sprengt Europa, zielt Netanyahu iwwer Gazapolitik | WACHTEN",
+          "summary": ""
+        },
+        "de": {
+          "title": "Israel-Hamas-Krieg: Luxemburger Außenminister verprügelt Europa und nimmt Netanyahu wegen der Gaza-Politik ins Visier | BETRACHTEN",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4d9d0989c0859fa92b09a49f1498cf2c401765ec",
+      "title": "Sénégal : Senelec cote ses premières obligations durables à la Bourse de Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY2NWWDk1UUVXcTh5dWRrOWhUa3ZzY3N0OEtMdG5pbUw1NGl5WXJIcUtHTE9xaUg5NktfOEFKV25pa2FwLWV3QUx4RFM5M3BqTWRIcEc4YzF3czc3Q05kQUhaZmktSkM2Y3FFT2NkMkhwdDIxeFpYS0dpOVNqR25IZHNhOFlodkJQRUNXaUhidHV6bUoyZHdvU3VsS1FhTFVvZU9FV2VVTDAzRzYtbUVtWDk3N2Y4RFQ0N1VKdXhGcEo2R1B5TkZGVzdfNTh0RmhjazcxdkZZWWI?oc=5",
+      "source": "AGENCE ECOFIN",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-14T02:28:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance",
+        "sport"
+      ],
+      "translations": {
+        "en": {
+          "title": "Senegal: Senelec lists its first sustainable bonds on the Luxembourg Stock Exchange",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Senegal: Senelec notéiert seng éischt nohalteg Obligatiounen op der Lëtzebuerger Bourse",
+          "summary": ""
+        },
+        "de": {
+          "title": "Senegal: Senelec listet seine ersten nachhaltigen Anleihen an der Luxemburger Börse",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a3e2700a6b575c17e8128850fe5e37e8027c3f1c",
+      "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 26",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNWUlqS21DWE84b3daQVVkdnI5bnlwNWpGUjlxbTE2MEtxaGZLLUJDNGM0VFBVVUw2VXh1d0kxdGxMbVd6azg3NWV3MWQxWFpLWjFQODZRTzV2NkNSYzI2aktGUDVjNWRPNFdQUjBBMDZGdTZXd19VejM1ZGk2aU1fRGVmNHRFR1lJNVhpUGZkMXd0Vl9oUFhQLTdQcnkxdzV0S1k0bzVUMEFEcy0zeVRlNGJoOWEwSXpjOGNab3VBaHNieTBsYlJSYlRqempfdFRKQks4R01BMlZ3R2hseXg5cGRWRFZFQTdXcDh2S2VKb0RfTlZoMFRIUXZBcGFxdm9vZVdMZFA1OWQxS0pFNkFJZllnZ0FwUDZPOHMtc21LT1BZUTdmck4wNEhfbDlLTWJBY3VrOHB6NXJxYS1qSThBdnVJY0ZhaFV4MlItbkE4ZnNrWHhYeF82TWtvNUFUVmN3TkVIaFFWN2htby1XYUY2TXU2RXNxODN5OVNsUnNNZ1NjY3dEQ2c?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-13T23:39:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 26",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ Architektur + Management - 26",
+          "summary": ""
+        },
+        "en": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 26",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + direction - 26",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "f955ba9d3d791ce10c517c221fb5ab28d8442ee5",
       "title": "Romania Stamps Mint Never Hinged/MNH Cars Luxembourg Stamps For Sale Collector Stamp Issue",
@@ -11152,6 +11277,39 @@
         },
         "fr": {
           "title": "Le prix du XRP baisse après la licence MiCA au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d83b2e9c8ad75a18934073e4f078f5cb8d7a047e",
+      "title": "ルクセンブルク最大級のテックイベント、政府招待枠で日本から14社が出展(ルクセンブルク、日本、欧州) | ビジネス短信",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VbVdiOVRfZ3hDQ1AydmJNdEh0RnBkNXh0TDdLeUJGbXNFWnhoWUt6dUNUalh3SUlWZjJQdGdqWk9lcFZMQzVLMDZRZXB2WWdKcmtWcjVOVDJPdHVJTDRBdk9pdFphMkJFSl9mR19n?oc=5",
+      "source": "jetro.go.jp",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-08T15:01:37.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerger gréissten Tech Event, 14 Firmen aus Japan op Invitatioun vun der Regierung ausstellen (Lëtzebuerg, Japan, Europa) | Business Newsletter",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg's largest tech event, 14 companies from Japan exhibiting at government invitation (Luxembourg, Japan, Europe) | Business Newsletter",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburgs größte Tech-Veranstaltung, 14 Unternehmen aus Japan stellen auf Einladung der Regierung aus (Luxemburg, Japan, Europa) | Business-Newsletter",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le plus grand événement technologique du Luxembourg, 14 entreprises japonaises exposant sur invitation du gouvernement (Luxembourg, Japon, Europe) | Bulletin d'information des entreprises",
           "summary": ""
         }
       }
