@@ -1,6 +1,101 @@
 {
-  "generatedAt": "2026-07-14T03:35:14.778Z",
+  "generatedAt": "2026-07-14T06:26:11.006Z",
   "items": [
+    {
+      "id": "4fbaf58eba253ca030c4fe09fcf5e6a614e958ea",
+      "title": "(盧森堡)法盛國際基金 I公開說明書之變更事項通知",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWVXVTdHZEdNMmZMQ3hYMnpwejUxc0piU1FHVVVneHpQX0NKdG00eHR2MUpxTTI1UXB0QlBRS1NrZmxwS2NrQmdEWVdKa3MyYzU3dlFiRHN6UmFpanRfcDJRZlIxWm1mRElWM2VxcDcwZXRjd1lIbS1QcUlWM2lHWHpheVkzcEMyak4tNHdsY25GZXBtWFBTTVhOZzY1NHNMOEJ6ajFwMV90Wm8?oc=5",
+      "source": "ezfunds.com.tw",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-14T06:13:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "(Luxembourg) Notice of Changes to the Public Prospectus of Fasheng International Fund I",
+          "summary": ""
+        },
+        "fr": {
+          "title": "(Luxembourg) Avis de modification du prospectus public de Fasheng International Fund I",
+          "summary": ""
+        },
+        "en": {
+          "title": "(Luxembourg) Notice of Changes to the Public Prospectus of Fasheng International Fund I",
+          "summary": ""
+        },
+        "de": {
+          "title": "(Luxemburg) Mitteilung über Änderungen am öffentlichen Prospekt des Fasheng International Fund I",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "27f5d963206af40341fe467cb6f5c3976a67f631",
+      "title": "Paytm Europe secures Luxembourg payment institution licence",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkpaN0pCQ2l3VVVUUnQzME5KSzE2ZXRZZE1mRkFNc2JwQVY0YVR3Y1FmdFR1dWZ6V3IxTGJOc1FoUUgzY3d3ZGhfaUxDUGtfRG5uaWpxOWtuZkZHcVo3VDBPRk8zUS05WURGY3NBTW1mTmNXNE5yaC04VUFCTmE3RWJTNUFRMTNxaWlPQU54bUswNTRMRzlHQjFNcURXaFk?oc=5",
+      "source": "IBS Intelligence",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-14T05:59:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Paytm Europe obtient la licence d'établissement de paiement luxembourgeois",
+          "summary": ""
+        },
+        "de": {
+          "title": "Paytm Europe sichert sich die luxemburgische Zahlungsinstitutslizenz",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Paytm Europe séchert Lëtzebuerger Bezuelungsinstitut Lizenz",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c8673ddb98ce6adf6b6ba92326458f5335d9a8fc",
+      "title": "Округ № 2: спортивные объекты вместо аварийных домов и ремонт улицы Розы Люксембург",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaMzNJZWZfVk5GQXhpM2dUcjZLZmw5aFE3U1B2V25BZkNCRVhNZHNTWXR5YXNmRWJGeldrWEdRdmxxYnhwN1k1VkJsWFp0Vkk0cld3cllYbzNOSDFBdGc?oc=5",
+      "source": "Твой Иркутск",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-14T05:56:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Bezirk Nr. 2: Sportanlagen statt heruntergekommener Häuser und Sanierung der Rosa-Luxemburg-Straße",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Bezierk Nummer 2: Sportsanlagen amplaz baufälleg Haiser a Renovatioun vun der Rosa Luxemburg Strooss",
+          "summary": ""
+        },
+        "en": {
+          "title": "District No. 2: sports facilities instead of dilapidated houses and renovation of Rosa Luxemburg Street",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Quartier n°2 : installations sportives à la place des maisons vétustes et rénovation de la rue Rosa Luxemburg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "7748ed386d19f804965fb1f9593be7cf0e3a48b2",
       "title": "跟着赛事游商洛 | 卢森堡队运动员Julia Gorajska",
@@ -94,6 +189,35 @@
       }
     },
     {
+      "id": "3800b8e4c716702cceca7924f826030d31afd74b",
+      "title": "Club Lux Builds Global Connections Between Sheboygan County Students and Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOY2cxOGJRbzl6MFpDUjQwWGF4LVczSFM2Y25qYXBKNU9JZ19oME1jeTJUekgtR3FTVGZON0tOaFUzVzhKZGt6Q1hCRzNSejJXVmdpNWtmZDFSS0Nwc1Fua2RGYXJEYVRmZV9fOHBoRkdCSkVpMDJyYzNFRXRlZDlCN09fWndZaWItNlVkWkdGdEFnWlVpSndwY3FSaGk5X1hlUVJrcUl0YnhUMUtWSi11U3lsZU9WdWlqTXVlSVFCa0htaFVUNFhHa2JpRWtGREt3bUM4dkVqRDViRUE5ck1XZC1Xc09GelpEbm5HUlBwWXdUa0pWS0Utd05iTQ?oc=5",
+      "source": "Sheboygan Sun",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Club Lux baut globale Verbindungen zwischen Studenten des Sheboygan County und Luxemburg auf",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Club Lux baut global Verbindungen Tëscht Sheboygan Grofschaft Studenten a Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Club Lux établit des liens mondiaux entre les étudiants du comté de Sheboygan et le Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "a3e2700a6b575c17e8128850fe5e37e8027c3f1c",
       "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 26",
       "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNWUlqS21DWE84b3daQVVkdnI5bnlwNWpGUjlxbTE2MEtxaGZLLUJDNGM0VFBVVUw2VXh1d0kxdGxMbVd6azg3NWV3MWQxWFpLWjFQODZRTzV2NkNSYzI2aktGUDVjNWRPNFdQUjBBMDZGdTZXd19VejM1ZGk2aU1fRGVmNHRFR1lJNVhpUGZkMXd0Vl9oUFhQLTdQcnkxdzV0S1k0bzVUMEFEcy0zeVRlNGJoOWEwSXpjOGNab3VBaHNieTBsYlJSYlRqempfdFRKQks4R01BMlZ3R2hseXg5cGRWRFZFQTdXcDh2S2VKb0RfTlZoMFRIUXZBcGFxdm9vZVdMZFA1OWQxS0pFNkFJZllnZ0FwUDZPOHMtc21LT1BZUTdmck4wNEhfbDlLTWJBY3VrOHB6NXJxYS1qSThBdnVJY0ZhaFV4MlItbkE4ZnNrWHhYeF82TWtvNUFUVmN3TkVIaFFWN2htby1XYUY2TXU2RXNxODN5OVNsUnNNZ1NjY3dEQ2c?oc=5",
@@ -127,6 +251,39 @@
       }
     },
     {
+      "id": "09e71f7395e617b19caba661e610b424433fd0c0",
+      "title": "Luxair Admite Ter Interesse Em Ligar Luxemburgo Aos Açores",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMURYVlpWbGZyUFJNclFaQjBkQWxaRUdkd2FoaEY1NXM5bUxmN0U4TnBZVDgtMTZLb3Q1akdUSlRtOVhoZHQwWU1DVk95UGx1X0h6OTBpN1E1MVJlV21NdkRxcF9kWExnUnJFOFdRVE1CcjV5NmpRVjE2QnRqVXFnNFRiazRBdnZmWF9xNUdPY3FrWkdRbWF1STF1TzZjUQ?oc=5",
+      "source": "Diário dos Açores",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-13T23:01:14.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Luxair gëtt Interessi zou fir Lëtzebuerg mat den Azoren ze verbannen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxair admet son intérêt pour relier le Luxembourg aux Açores",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxair gibt Interesse an einer Verbindung zwischen Luxemburg und den Azoren zu",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxair Admits Interest in Connecting Luxembourg to the Azores",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "f955ba9d3d791ce10c517c221fb5ab28d8442ee5",
       "title": "Romania Stamps Mint Never Hinged/MNH Cars Luxembourg Stamps For Sale Collector Stamp Issue",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FSnJDa0VMZFRpRndkNEtYblBfNnZaanQyeTV3cjVNUFZsYmtTZWJwS0FyRGhaNUxNYVRkUWxUMG9GeXNnNFpVWGpYaGlOaHZOREJyb004Tm9XQkpYcGVQbTNfUl9CeG9tNVBCYUZsaWNOR0VRRUFzRmRXRQ?oc=5",
@@ -151,6 +308,39 @@
         },
         "de": {
           "title": "Rumänien Briefmarken postfrisch/MNH Autos Luxemburg Briefmarken zum Verkauf Sammler-Briefmarkenausgabe",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "06019401d3490e847639b5e75914c8d387128143",
+      "title": "Galeria de Vincent Callebaut Architectures propõe metamorfose futurista para antigo hotel em Luxemburgo - 9",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNYkg5YmY3VWY3T2RTTGFGcHNvTjB5eWlpZlJvRllpTEVPbGtLU0ZVTV9pX2RLV3pnTy1HRW1wWDJyUmpPcS1QLVRLXzlWNGRsQ2tubkRGTkNxWGFvdzEzeXhLWXBESkFRcENGNGZBem41WWt2aFJCNnNncUZzMDlma3dwUXlYZG5hZ2JCZjJNVXIybDdnM2ZLRmhKQ2xZdHFadVRFSUIweHdDWHlTdS1hUlhWa01tcjdlWHM0YTh6eWxSN2lRT2FiR1BmNkxCRm5hUTQ3MTY2dGxWLUpKUWJjTlZjTjRyRl9aSlJXQjY0UVFFVFl5QU1aNW5mWXpBcjhweE8zUnNCbkpEaXlrQVZVRkVaTWhQYVJTWEotUDd1dm03QWxWZVdXR3VNdmhQTzVWYWYwZHdtT2xmaU5Ec3N4Um5YMlJNVUdpTmd1ZzI4LXUxeHBlREtIS0ZLc2ZBYThqb0NVRlZhenpMVnBOOWhIcGxmUnlreko1QnE5MVN3eEt1V2lyUVpST2tPWGl5ODNC?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-13T21:37:28.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie von Vincent Callebaut Architectures schlägt futuristische Metamorphose für ehemaliges Hotel in Luxemburg vor – 9",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie vum Vincent Callebaut Architectures proposéiert futuristesch Metamorphose fir fréieren Hotel zu Lëtzebuerg - 9",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery by Vincent Callebaut Architectures proposes futuristic metamorphosis for former hotel in Luxembourg - 9",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La galerie de Vincent Callebaut Architectures propose une métamorphose futuriste pour un ancien hôtel à Luxembourg - 9",
           "summary": ""
         }
       }
@@ -1163,6 +1353,39 @@
         },
         "fr": {
           "title": "L'essence la moins chère n'est plus au Luxembourg : qui est devenu le nouveau leader de l'Europe",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "72185b659f2ccc746019e5b9c4a2060e0dde9f27",
+      "title": "Galeria de Vincent Callebaut Architectures propõe metamorfose futurista para antigo hotel em Luxemburgo - 2",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNZHo1VDZmcVBKanViU3o2ZkV1dlZ6WWt2NlBGNlVvWVNqQmtwOEJXdEtkbWxzMHpDZWU1WjZjX29mNVFVSnRiRHhjcm5WZEttVlc4Zi1xVVY2OU1FaW8zc2NMSGU1ODJMLVVaelp3VEFwXzRRWENpUXQzNDlSU0h2bktvT2w1R1ZkbFhYYnJlbzZrODc2ZlRIM05LVG80b1dudFhXQnlWcEJ4ZWFjOG5kWFd1N3lGNnlQaGkzS0VDZlRjRGpFTUhRaEYxRmVqbTAzaTBpT3RFazlXR0hBak9XaHYxWWM5VTRxMF9TTmZwSjZoTDRQbW5saXdHR0dpT1JaZjFTTG1JclhNOWlkcHBDd2dTeGdpQ1lJU0VVd3NybE9xbUVNMUNPbE9RbU4xOTByV04yTmI0UDlHakx2R05JTWQ1aEIyeE9FUk5melhCcDVkZXBpakRObDZFMGxlVU1lNGJMc1BIWVUxSWtHdFVTOXFB?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-13T12:41:11.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie von Vincent Callebaut Architectures schlägt futuristische Metamorphose für ehemaliges Hotel in Luxemburg vor – 2",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La galerie de Vincent Callebaut Architectures propose une métamorphose futuriste pour un ancien hôtel au Luxembourg - 2",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery by Vincent Callebaut Architectures proposes futuristic metamorphosis for former hotel in Luxembourg - 2",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie vum Vincent Callebaut Architectures proposéiert futuristesch Metamorphose fir fréieren Hotel zu Lëtzebuerg - 2",
           "summary": ""
         }
       }
@@ -4089,6 +4312,35 @@
         },
         "de": {
           "title": "Live-Vorbereitungsspiel. FC Metz – Racing Luxembourg: das zweite Freundschaftsspiel der Garnets live",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3f45122e3393f33498d6d07f94b8b0766f15e733",
+      "title": "Luxembourg Cit vs Hostert | Club Friendly Games | “Live scores” + “Preview”",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMcHNNamNqRE5WUXhHc1o0Yjh1RnZCQjU4TG1TdFhiMnNUMjRUQzZzTG9iR004VFEwcGVFZFhNOXNDcHlRNGR4ajNfaFVSaVQ4LVE?oc=5",
+      "source": "OneFootball",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-11T16:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg Cit vs Hostert | Club Frëndschaftsmatch Spiller | \"Live Partituren\" + \"Virschau\"",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg Cit contre Hostert | Matchs amicaux des clubs | « Scores en direct » + « Aperçu »",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxembourg Cit gegen Hostert | Vereinsfreundschaftsspiele | „Live-Partituren“ + „Vorschau“",
           "summary": ""
         }
       }
@@ -15028,6 +15280,39 @@
         },
         "en": {
           "title": "Luxembourg - Unfolding a harmonious rainbow in the castle of world citizens (below)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b91d588a6c11ce77fa9e3b6af1120f9a724a0ee9",
+      "title": "룩셈부르크 - 세계 시민의 성에서, 조화로운 무지개를 펼치다(上)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rNG44c2dLRVNnQW5fQUFzdDQ3LXZEV3pDcUVMUFktUmgtMkQzdjhBTGZLTThJdXk2UjVQUjYyMzAwblc5RjhKN3NVdlY1RENHQXFQOXVQb2RCSVJjRDBKYTlQNkpKT3k2UlpseNIBcEFVX3lxTE1hZl85cHgxTUpxa2ExcVNCeENPb1pMbk9hRWxKbnZHX1pBd2pOLUxueG5Dd1FkN3JZS3N5bXNmSEFvazJRMEFWQkVrSFNRUU9uWW1BQk9BdHRzVkFwWEFtVXNqOHlvci03RjMzS3luUGk?oc=5",
+      "source": "톱클래스",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg – Entfaltung eines harmonischen Regenbogens im Schloss der Weltbürger (oben)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Unfolding a harmonious rainbow in the castle of world citizens (top)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - En harmonesche Regenbogen entfalen am Schlass vun de Weltbierger (uewen)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Déployer un arc-en-ciel harmonieux dans le château des citoyens du monde (en haut)",
           "summary": ""
         }
       }
