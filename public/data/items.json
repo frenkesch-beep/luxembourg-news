@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-07-14T19:43:54.379Z",
+  "generatedAt": "2026-07-14T21:16:01.646Z",
   "items": [
+    {
+      "id": "b7e58e177ac5ea260b0eb549f26ea23100d7e7f6",
+      "title": "Alianza estratégica: Costa Rica y Luxemburgo transforman las reglas del desarrollo global",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV01ZNTZqU0JYTnJXZGgxdjJjUTI0R3BnTmlPU3kwN09CZzh0QUl4WVRUR3BpdF9SaDhOZUdYbWNZeHE4UDh2RTRwNEE4TXY5alA1R245WFhIRE5nMDMtR1FoQlpNY2d6NS1hVHMzUDRaVmo5Tlppa2lmX2FQd0lnbHpqYXoxckpPY0dJU2dIWHpMNGw0Ty1NdU9xb0xvbUV4WnRFakxBT1VhYnpMTVhXbnlmNnFxMnpremVsZ0JpRkd6OW1SakgxRGJ2ZEw?oc=5",
+      "source": "Puntarenas Se Oye",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-14T20:04:37.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Strategische Allianz: Costa Rica und Luxemburg verändern die Regeln der globalen Entwicklung",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Alliance stratégique : le Costa Rica et le Luxembourg transforment les règles du développement mondial",
+          "summary": ""
+        },
+        "en": {
+          "title": "Strategic alliance: Costa Rica and Luxembourg transform the rules of global development",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Strategesch Allianz: Costa Rica a Lëtzebuerg transforméieren d'Regele vun der globaler Entwécklung",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2186eb52f200dc5c0dc72770ca8a700f782b54a1",
+      "title": "Luxembourg takes another important step toward strengthening its start-up ecosystem - White & Case LLP",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObG5GM0g2QnhiT3FxV3hMcVV0ZTduQmpjWXc5VGhMS2V2b1Z4ajhkRE5YdGNLZGdabDBsUUNsYjMxcUo4VV9peEpWMHItQ3JQZU5qRjlMaWxfWElqTElrQV9MVHo4aWh3WnBoS1VIbXVkNWhVVVQxaGJmWmNIamlMLU9fUlRsU3owUEZzbFZmdjBKbi03RkxBaEJFbVdPWlZJVXRYbEw1UnYxdkdoamdYV293c3RzcFgwVGpmOA?oc=5",
+      "source": "White &amp; Case LLP",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-14T19:29:59.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg mécht e weidere wichtege Schrëtt fir säi Start-up-Ökosystem ze stäerken - White & Case LLP",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg franchit une nouvelle étape importante vers le renforcement de son écosystème de start-up - White & Case LLP",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg unternimmt einen weiteren wichtigen Schritt zur Stärkung seines Start-up-Ökosystems – White & Case LLP",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "ed1fd83a32b3a936fd4c9e5f4fa6c2af4de65e74",
       "title": "Katy Perry et Justin Trudeau s'offrent une escapade remarquée au Luxembourg",
@@ -2725,6 +2787,39 @@
         },
         "lb": {
           "title": "De Stadler EURO6000 dierf elo och an der Belsch a Lëtzebuerg fueren",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "afa269023431ea3e0b8bc247f805b14b187e7675",
+      "title": "小国大作用！卢森堡没战斗机却玩转太空，连加油机都和荷兰共享",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5faXRicHZfZEo3dHhaT1dNNUpJTmxseW9ObmtlYkJZaUljSWRVb1loN1JqUGY2bzZSZmNpQkdMUFFwcmZJN0hnNWVvQnBaRy1tX3NPYWxPV0ozZUw0TzBvOURn?oc=5",
+      "source": "手机网易网",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-13T13:24:18.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Un petit pays fait une grande différence ! Le Luxembourg ne possède pas d’avions de combat, mais il joue avec l’espace. Elle partage même ses pétroliers avec les Pays-Bas.",
+          "summary": ""
+        },
+        "en": {
+          "title": "A small country makes a big difference! Luxembourg doesn’t have fighter jets, but it plays with space. It even shares its tankers with the Netherlands.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein kleines Land macht einen großen Unterschied! Luxemburg hat keine Kampfjets, spielt aber mit dem Weltraum. Es teilt seine Tanker sogar mit den Niederlanden.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "E klengt Land mécht e groussen Ënnerscheed! Lëtzebuerg huet keng Kampfjets, mee et spillt mam Raum. Et deelt souguer seng Tanker mat Holland.",
           "summary": ""
         }
       }
@@ -8781,6 +8876,37 @@
         },
         "fr": {
           "title": "Aperçu actuel : Prix des carburants au Luxembourg : le diesel devient de plus en plus cher",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "408c54ba3101e7f561e534d3a5feed799403f3e4",
+      "title": "AI-Generated Content in the European Union: What the Adherence to Code of Practice Means for Article 50 Compliance—Special Focus on Luxembourg's Financial Sector - K&L Gates",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeHR6OFp4UmVmMVB3SExaR3h0LVFjcU5PMEZHUDdrLVVVdjdIOER5X2YxMW9vLUNIRzFBbGx2aU1LVXJXazB4VXNsY2N3c2k5SGFBT29WZzlMUFpaX29QSHRoNHJTTFI4VVlrTk1jeHVSdzR4cEdWdVRDQmlGclBuODAyU09MTzBJZE5wZjlrYl8tN2trODZabXozdHRRTWNVMFBUWXRWWWZCLWYzUzlaT2NBNU9tc0FyUFd4dTIwTk5oNm1kYWtRQ01semtqcTR3b3JSMHhlSmN5TTNqOXpzLVUtWUh2YU9QMVZ4Zi01M3Y4VjFYalNRQ2NRc0txT2NoeHI0cU92X2ljQ3RVTzRxbGFvbmI4ZkRvNVhIQw?oc=5",
+      "source": "K&amp;L Gates",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance",
+        "eu",
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "AI-generéiert Inhalt an der Europäescher Unioun: Wat d'Adherence to Code of Practice bedeit fir den Artikel 50 Konformitéit - Besonnesch Fokus op de Lëtzebuerger Finanzsektor - K&L Gates",
+          "summary": ""
+        },
+        "de": {
+          "title": "KI-generierte Inhalte in der Europäischen Union: Was die Einhaltung des Verhaltenskodex für die Einhaltung von Artikel 50 bedeutet – besonderer Fokus auf den luxemburgischen Finanzsektor – K&L Gates",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Contenu généré par l'IA dans l'Union européenne : ce que signifie l'adhésion au code de bonnes pratiques pour la conformité à l'article 50 – Focus spécial sur le secteur financier luxembourgeois - K&L Gates",
           "summary": ""
         }
       }
@@ -45320,39 +45446,6 @@
         },
         "lb": {
           "title": "Guillaume - Groussherzog vu Lëtzebuerg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "286b5f76ad5b7fa2d4d4219f0fb40e0a836e677e",
-      "title": "DELEGAȚIA MOLDOVEI A PLECAT SPRE LUXEMBURG PENTRU DESCHIDEREA NEGOCIERILOR DE ADERARE LA UE",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xZXRnejFUMEpWdUNiV1ZFcTVxR0JqR0RnMFY0bnRxQ2VuRVdybjZLLURkam1USS1Hek5OSzh2aVp4UFFqSnNxbE1IV1JtaUZhQjRN?oc=5",
-      "source": "Infotag",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-06-14T21:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "DIE DELEGATION VON MOLDAWIEN reiste zur Eröffnung der EU-Beitrittsverhandlungen nach Luxemburg ab",
-          "summary": ""
-        },
-        "en": {
-          "title": "THE DELEGATION OF MOLDOVA DEPARTED FOR LUXEMBOURG FOR THE OPENING OF EU ACCESSION NEGOTIATIONS",
-          "summary": ""
-        },
-        "fr": {
-          "title": "LA DÉLÉGATION DE MOLDOVA EST DÉPART POUR LE LUXEMBOURG POUR L'OUVERTURE DES NÉGOCIATIONS D'ADHESION À L'UE",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'DELEGATIOUN VUN MOLDAVA ASS AN LËTZEBUERG FIR DÉI OPÉIEREN VUN EU-ZUZITZÉISCHNEGOTIOUNEN",
           "summary": ""
         }
       }
