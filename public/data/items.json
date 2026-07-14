@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-14T21:16:01.646Z",
+  "generatedAt": "2026-07-14T22:16:46.435Z",
   "items": [
+    {
+      "id": "d8be928ec655712378c104fc537aaf66d3dd6c6d",
+      "title": "Ποδόσφαιρο: Βουλγαρία - Λουξεμβούργο",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ubjJqaDVldUdFeWJmN0NFaFhnellEV25uWFVTcWNUYnBCanZkQ2FnbGl4RXNoRll4NjJrV3JWM3ZLNnhVWGxhVFFCWnZFQmdwTUlpajRETkJjY2I1cVI0RFRmSVJmTmtrZm53ODhUNlRoWXRlcThzQVBRTTN3UQ?oc=5",
+      "source": "cosmotetv.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-07-14T21:14:52.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Football : Bulgarie - Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Football: Bulgaria - Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fussball: Bulgarien - Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fußball: Bulgarien - Luxemburg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "b7e58e177ac5ea260b0eb549f26ea23100d7e7f6",
       "title": "Alianza estratégica: Costa Rica y Luxemburgo transforman las reglas del desarrollo global",
@@ -1419,6 +1452,39 @@
         },
         "fr": {
           "title": "Quartier n°2 : installations sportives à la place des maisons vétustes et rénovation de la rue Rosa Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3116caa1b4e1ac4b18e2df70c339ba83042d1fc0",
+      "title": "Galeria de Guia de arquitetura de Luxemburgo: 23 projetos para explorar no Grão-Ducado - 8",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWDlIMUlQN3NUNGlMbVVKcnZEcWhhVHFuM2M1UWs2andmdklsc3Ewc2tIZ2x4ZDF2UWI5TGg3QlJSRE9YVjUyQlQtcHlNMFVxRlNRUFppR3hCNDlMak5SWGNic0xFTTJ2REhHbnVSMFZ6Wm92UWswWEdzd0cweElsSW9pOUJrZFpyX0xmTThXQ2d0TlZxaVprM0pSNWlucTdDQmtJOVVINzFTQm1HNmNXMWl5X3FDbEVpVUJwT1pwbzNhVWc3bTUtanZXSDRTYzVMTDVBR0M4NndXNGlwbDlHYXZ1ak9HeDVoaHlkN2tPYzhobVYtZW1lcWo3dHVselFIbDdpRTdZM1VRZ2F2TGNtMnFodTZKVkh0UXZZTks3T0RZRm1WYUw3UW1EQUQtSjJWQlZsYkNiWmpJRVZ0M0pvTw?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-14T03:34:55.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie du Guide d'architecture luxembourgeois : 23 projets à découvrir au Grand-Duché - 8",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Architecture Guide Gallery: 23 Projete fir ze entdecken am Grand-Duché - 8",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Architecture Guide Gallery: 23 Projects to Explore in the Grand Duchy - 8",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Luxembourg Architecture Guide: 23 Projekte zum Entdecken im Großherzogtum - 8",
           "summary": ""
         }
       }
