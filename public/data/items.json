@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:16:31.539Z",
+  "generatedAt": "2026-07-15T23:15:55.974Z",
   "items": [
     {
       "id": "c481a11243feee651a58c38d288484bf1cdace63",
@@ -129,6 +129,39 @@
         },
         "fr": {
           "title": "L'équipe nationale d'Ukraine a battu le Luxembourg et a participé aux éliminatoires de l'EuroBasket U-20",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7cef413d2b8c300f741df1ba1a0d7d8c2cd88caf",
+      "title": "فاز كي كلاكسفيك على أتيرت بيسن، بينما تعرض فريق لوكسمبورغ للهزيمة.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUF9lNVVHVzVCRnE2V2dGS1RPRVRoenR4YW0tMFdCYlc1bmtHSE5sb1diREtBeUY5TXM3dFBUOTVlRDE1QnI4YUJXVGpoTl83QXVSV0EtQm9GMW9BVGUyZ1hpR2FRd21fU1FhYkNIbXhsdUR3TEZ5MFlsWTdRUUxNOVQwdkJpczBRYU5jc1J1dmEyZU1UbUE?oc=5",
+      "source": "Vietnam.vn",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-07-15T19:45:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le KI Klaksvik a battu Atert Pisen, tandis que le FC Luxembourg a été battu.",
+          "summary": ""
+        },
+        "en": {
+          "title": "KI Klaksvik beat Atert Pisen, while FC Luxembourg were beaten.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den KI Klaksvik klappt Atert Pisen, iwwerdeems den FC Lëtzebuerg geschloe gouf.",
+          "summary": ""
+        },
+        "de": {
+          "title": "KI Klaksvik besiegte Atert Pisen, während der FC Luxembourg geschlagen wurde.",
           "summary": ""
         }
       }
@@ -20325,6 +20358,39 @@
         },
         "fr": {
           "title": "Luxembourg - Déployer un arc-en-ciel harmonieux dans le château des citoyens du monde (en haut)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "03d2a82979259f1d531ef523bb5f9f765c5d32f8",
+      "title": "Schmidt Hammer Lassen 赢得卢森堡旧工业街区复兴设计竞赛",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnhfRG5pVzBfRWZxTklyeDJBd21TejN5UVBGY2ZjU29venpoaFFfUDdnN05GQVlwVm1EYWFaazFCWTJocHMxaFdmTnktckQzTE00aVlNcmlWRDdxVXZteFdRNHZOYnk5TG95M0NmcjBXLU03WE9DbldKTnZFMWFSc0g5ZkZfV3EzeUFydjJtcnpjblFWRnA2akdBWWI0X0FuYU04VWJIbHpPNmN6YTA4a2RkSF9RWTQzTFJsdA?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Schmidt Hammer Lassen remporte le concours pour la revitalisation d'un ancien quartier industriel au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Schmidt Hammer Lassen wins competition to revitalize old industrial district in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Schmidt Hammer Lassen gewënnt Concours fir den alen Industriebezierk zu Lëtzebuerg nei ze revitaliséieren",
+          "summary": ""
+        },
+        "de": {
+          "title": "Schmidt Hammer Lassen gewinnt Wettbewerb zur Revitalisierung eines alten Industrieviertels in Luxemburg",
           "summary": ""
         }
       }
