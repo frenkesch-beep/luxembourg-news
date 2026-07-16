@@ -1,6 +1,134 @@
 {
-  "generatedAt": "2026-07-16T16:42:37.321Z",
+  "generatedAt": "2026-07-16T18:20:19.063Z",
   "items": [
+    {
+      "id": "d928767bf169d6e308919e3bb1e3705dad60c40d",
+      "title": "Pilatos en Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR2xLSnNIM2RsTkY1SUI3ZG9xdXllRzdaN1lORW1ZYXNNaUc4cy0tTGRJYzc2NXM3UDNNMHVlbzluRnVHNTEwVGJKRzgxU1o3TTJiX2V3RUduaUdHTUFhbnlrVlQ4V1UxYml3Y3VBMjJBTExzWlVmNm1ETll3R2hWcVM0LVRDQkRTSVNLSNIBkgFBVV95cUxNLU9PMElTVV9KVXR2ekoydlBISk8zMzFQQjF1T0lhOHRwcVY3UzM1RVpfWHUwNFlDVFptTk5tUVRuaVh3MkRYR2ZNMENvTUExVFpXSWhYQzloN0tfUnlJTkNZVXE5T0dTNjdSWFVIelFoeVlUZXB6em1BWkVOMDB1dDg3b0h6aG9vV2lONEdPSXhiUQ?oc=5",
+      "source": "ABC",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-16T18:09:57.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Pilate au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Pilatus in Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Pilate in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Pilatus zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a985b53a83637b6448ed6dc546f32914676ff8f2",
+      "title": "Calcio e solidarietà: domenica il 2° Torneo del Cuore del Comites Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2R3OTFvTG5VTlh6cDduazV1S29hcFRsVUpVY2E3bGhITGNiMGpUOHpibEp6WlBXWXlFNnd5dXQ2czVLV09VSGlDclo1VzN6aWpuX2JFaDBxSVlwQUV3Y1dkRHRTRUJfYU5UaVVod2x0b0pxOVlHVnpuUXZYQjB2cDhuVkxYT0pSUVItU2JKWXFJWDJFcUFKZUNKSFkzOGJTOEYwYzB4NzRISXZZeVJuSS1pNXlpcnZrUTA3VGdZSlg?oc=5",
+      "source": "Aise.it - Agenzia Internazionale Stampa Estero",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-07-16T17:53:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Fussball a Solidaritéit: Sonndeg den 2. Comites Luxembourg Heart Tournoi",
+          "summary": ""
+        },
+        "en": {
+          "title": "Football and solidarity: the 2nd Comites Luxembourg Heart Tournament on Sunday",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fußball und Solidarität: das 2. Comites Luxembourg Heart Tournament am Sonntag",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Football et solidarité : le 2e Tournoi du Coeur des Comités Luxembourg dimanche",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "023f882f32795e28f237453bd8b959033528255e",
+      "title": "Portuguese-Descendant Killed and Dismembered in Luxembourg",
+      "url": "https://www.youtube.com/watch?v=GyxVZJiPqDQ",
+      "source": "LETRAS DE UM CRIME",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "pt",
+      "publishedAt": "2026-07-16T17:20:11.472Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/GyxVZJiPqDQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNoyVghqRFUkxH9g44T5iNYuyPtw",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Portugisesch-Descendant zu Lëtzebuerg ëmbruecht an ofgeschnidden",
+          "summary": ""
+        },
+        "de": {
+          "title": "Portugiesischer Nachkomme in Luxemburg getötet und zerstückelt",
+          "summary": ""
+        },
+        "en": {
+          "title": "Portuguese-Descendant Killed and Dismembered in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Un descendant d'origine portugaise tué et démembré au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e27c5f876335bd5d0498defe71df7992382a2cca",
+      "title": "Altstadt Luxemburg: Zwischen Festungsmauern und Zukunftsglanz",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEdnaTdCSW5XYjNuQ3VfNTFMMnlhcTVzdHhLZTR4dzY5OTQyTWkzVnUzdm9yMzE2a2lqc0FMX1poNllYQ2U3U01mNHZkUFU5SjVFT3h1OEhzb29rdDMzYXItdjc1ZEFVYUxFSnNsNDdHdXI0UDlLV1NxbUlGQnU0MUFVNkNrN2VLRWNVRV9QSVZKazJZcEZTaDBsc2VrcmxHTHoyQWlGR3JFWGlFTjU1bUlsblFIVnM?oc=5",
+      "source": "Ad Hoc News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-16T16:41:38.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Old Town Luxembourg: Between fortress walls and the splendor of the future",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Vieille Ville de Luxembourg : entre murs de forteresse et splendeur du futur",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Alstad Lëtzebuerg: Tëscht Festungsmaueren an der Zukunftsglanz",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "efc98b338692cbffc004c1417ad7396cc7873b5a",
       "title": "Flambée du prix de tous les carburants au Luxembourg dès ce vendredi : voici les nouveaux tarifs en vigueur",
@@ -245,6 +373,39 @@
         },
         "lb": {
           "title": "Objeten op der Strooss: Tëscht Lëtzebuerg an Igel: B49 no der Spär nees fräi",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5c9adddcae74937f2bff675299eb8b29f1e0ad58",
+      "title": "El aval de Luxemburgo a la amnistía acaba con tres años de maniobras judiciales inéditas contra una ley",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUEQ2X1JkaTNXVXZySTVFVWtpckw1ODlwa2xjX1NRSS1lczd5UEd1QXNKQzJfNENYTDVEaDR0dkpYMWVVNE1USzdtaDlUblhDRVpWVWJnY3ZoSVQteldIcGhvTzlxWGxaUUFmOGY3eXlLMTlVQVJ1cGU1OGJaaWJIZ2tpSWpZZ0xDV3pmUU1GVTY5LXBtTUxXXzZoZ2cyVXhlOGtUVG9qZWdsdmk4WEhhc0pzb3Etbzd1SUROVHBNemE?oc=5",
+      "source": "infoLibre",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-16T13:41:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Lëtzebuerger Ënnerstëtzung vun der Amnestie schléisst dräi Joer vun eemolegen Justizmanöver géint e Gesetz op",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg's endorsement of the amnesty ends three years of unprecedented judicial maneuvers against a law",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Billigung der Amnestie durch Luxemburg beendet drei Jahre beispielloser juristischer Manöver gegen ein Gesetz",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'approbation par le Luxembourg de l'amnistie met fin à trois années de manœuvres judiciaires sans précédent contre une loi",
           "summary": ""
         }
       }
@@ -47531,167 +47692,6 @@
         },
         "fr": {
           "title": "Baptême des roses du Grand-Duc et du Couple de Luxembourg | Grand-Duc Guillaume V de Luxembourg | Grande-Duchesse Stéphanie | Petit François",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8d4f6ed92e765dfc63229a76903b1631530474c9",
-      "title": "Tay Ninh - Belçika ve Lüksemburg'daki Vietnamlı Aydınlar Derneği ikili iş birliğini güçlendiriyor.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmZyZTlDNHFZMjM1SXpoUVhOdXM5c3hRTUdqMzhXR0NQWHV4M3ZySTdfenlOQXJCNDVHei1Gc05lYWEycTNibXpiNDlaT180WTBTRGthVjVZVm5ZdjhJa3huYmVUM1Z5WEZ2WmdZUC1vSlJERlBZMk0zOW8zei1zdEVTNElHcFZKbmdIY2FyZndCa0lscFpjbzEza2ViNmV1UDdkYzFNRUMybUJ4?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-06-19T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Tay Ninh - L'Association des intellectuels vietnamiens de Belgique et du Luxembourg renforce la coopération bilatérale.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Tay Ninh - Association of Vietnamese Intellectuals in Belgium and Luxembourg strengthens bilateral cooperation.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Tay Ninh – Verband vietnamesischer Intellektueller in Belgien und Luxemburg stärkt die bilaterale Zusammenarbeit.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Tay Ninh - Association of Vietnamese Intellectuals in Belsch a Lëtzebuerg stäerkt bilateral Kooperatioun.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "057960f4c53146f5b871ee5e7e18a1856df701c9",
-      "title": "タイニン – ベルギーとルクセンブルクのベトナム知識人協会が二国間協力を強化。",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXRpRFJNVnU5OHlWTjExeXgxQV9zMi1OY2xqZDdQTnRfWHA0My1EOHJfTElESUhZYnVLYjB0TXp3bkR5YlUtRThHMkg5dDZHUEk5OFhyemR2aS11Wm1uOXozMGwxckRPaDFudWN2QlVYbXFVT1AzY3dLdXFSV3FaekJBc29VaVJ0bDlMaWRYbEdlbGZiRVpfUzN4YlF0dzlSTHZQVVFPZUN4WXVk?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-06-19T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Tay Ninh - D'Associatioun Vietnamesesch Intellektuellen vun der Belsch a Lëtzebuerg stäerkt bilateral Zesummenaarbecht.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Tay Ninh – The Vietnamese Intellectuals Association of Belgium and Luxembourg strengthen bilateral cooperation.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Tay Ninh – Der vietnamesische Intellektuellenverband Belgiens und Luxemburgs stärkt die bilaterale Zusammenarbeit.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Tay Ninh – L'Association des intellectuels vietnamiens de Belgique et du Luxembourg renforce la coopération bilatérale.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "16dfeb5cb3d5fe89ab8888ac24fd8b6e1a7ac4a4",
-      "title": "European League 2026: Το εντυπωσιακό αθλητικό συγκρότημα στο Λουξεμβούργο που φιλοξενεί την Εθνική ανδρών",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUtKYWkyY1QxajlnWjNxNnUtbERPYnRHWTh5NnU0eTNIdWd2V0dpX3FqVUhnQmRqYS1fMlRXM2F4SWxuRW9GckVIQURDR1ZEaHBvLTVtQTdaNnpDMWxjRFBxT1VSSG4xaEJObEJKbV82N3JVOTdIYUF3SXRpdlhyMmMxX2ZOR1gzNUxTQWlHd3Fld19JQndZYzNDSmhfN0JvYUZnM1NmSzRLSl9nM3hOT05xQ2RuS2gtZVh6eVNSQi1RTzZTTk9Dag?oc=5",
-      "source": "Ελληνική Ομοσπονδία Πετοσφαίρισης",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-19T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "de": {
-          "title": "European League 2026: Der beeindruckende Sportkomplex in Luxemburg, der die Herren-Nationalmannschaft beherbergt",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ligue européenne 2026 : L'impressionnant complexe sportif luxembourgeois qui accueille l'équipe nationale masculine",
-          "summary": ""
-        },
-        "en": {
-          "title": "European League 2026: The impressive sports complex in Luxembourg that hosts the Men's National Team",
-          "summary": ""
-        },
-        "lb": {
-          "title": "European League 2026: Den impressionante Sportskomplex zu Lëtzebuerg, deen d'Härennationalequipe hält",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3bbf7d46a1eaa88938811acfe955c1bd57695419",
-      "title": "Ministra Holguín se reunió con su homólogo de Luxemburgo, Jean Asselborn",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVZSY3Y1V29oRzY0dVI0Y3Q4ZXgzWXR3Q2ZLRUFDS3E2cXhDZ1NJVnBxLWlmb0dtYXp4ekhWMl9XazJ0T3c5NFVPT2JjdUdsTG9PZWtaYjUyT1JMelZQaDF1MkNUZUk5NTRFa1BiVzZ2M2FFaHJVMlhPZUpzUUN4TzFrZkhrQ05BTEFJRWlzMExhaV84MmVjM2lIbjFOWTM2X0JEVTJlT2R2bjFJSDVUeWtuUEp0RkE0MndnRGFYZzU4S0J5?oc=5",
-      "source": "Ministerio de Relaciones Exteriores de Colombia",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-06-19T04:49:35.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Minister Holguín huet sech mat hirem Lëtzebuerger Kolleg Jean Asselborn getraff",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ministerin Holguín traf sich mit ihrem luxemburgischen Amtskollegen Jean Asselborn",
-          "summary": ""
-        },
-        "en": {
-          "title": "Minister Holguín met with her Luxembourg counterpart, Jean Asselborn",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La ministre Holguín a rencontré son homologue luxembourgeois, Jean Asselborn",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a2b81e86d5b66c330dc4996f32dcc4b63a2e63d6",
-      "title": "Nouvelle voie d'obtention de visa au Luxembourg, postulez dès maintenant ! Sans agent, sans IELTS...",
-      "url": "https://www.youtube.com/watch?v=XCUvIYBuowQ",
-      "source": "Owafk Africa",
-      "sourceCountry": "",
-      "type": "video",
-      "lang": "fr",
-      "publishedAt": "2026-06-19T04:15:38.128Z",
-      "summary": "",
-      "imageUrl": "https://i.ytimg.com/vi/XCUvIYBuowQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTq1Rz3BA2ICFzK-Ta_ntkLvp3vw",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "New route to obtaining a visa in Luxembourg, apply now! Without an agent, without IELTS...",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Neie Wee fir e Visa zu Lëtzebuerg ze kréien, gëlt elo un! Ouni Agent, ouni IELTS ...",
-          "summary": ""
-        },
-        "de": {
-          "title": "Neuer Weg zur Erlangung eines Visums in Luxemburg, jetzt beantragen! Ohne Agent, ohne IELTS...",
           "summary": ""
         }
       }
