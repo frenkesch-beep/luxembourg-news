@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-16T21:18:03.572Z",
+  "generatedAt": "2026-07-16T23:11:47.100Z",
   "items": [
+    {
+      "id": "9f8fbf8db4413a3ad7789868f1fbe8802addb541",
+      "title": "Team USA chefs train at Omaha's MCC campus ahead of Culinary World Cup in Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVF9LNVNVY3RnQlZLWC1KMXpHV2JjN19tc2Fndk15WDNxOUxWLWM4VUpSaXNKZkhNakZlNnhuVEdGZFdVOXNmMFQ3YkZZbHI5TXhFTmQ3WnRydURSTnRqYTliU2V1bFFrS2p5bE9uUkItc2RjZnFBMmVsYVBwYUM0OWVmbUg0bU16bDhabzNtN3luVmlxZFhGdDlhMW4wUFJUME84RWVFZDAtMXhndFY5eTM1UVhuYXlJbkZIOA?oc=5",
+      "source": "KMTV 3 News Now",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-16T22:25:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Team USA Käch trainéieren um Omaha's MCC Campus virun der Culinary World Cup zu Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les chefs de l'équipe américaine s'entraînent sur le campus MCC d'Omaha avant la Coupe du monde culinaire au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Köche des Team USA trainieren vor dem Culinary World Cup in Luxemburg auf dem MCC-Campus von Omaha",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "675cd34c98afc6a33419e9057f58c267b6c5c5c7",
       "title": "Luxemburgo demanda a Austria ante el Tribunal de Justicia de la UE por paso del Brenner",
@@ -287,6 +316,39 @@
       }
     },
     {
+      "id": "5f72cd77738a7e52ac1ce0d5f46eb0e03b5ad47f",
+      "title": "画廊 CMI 卢森堡 / Moreno Architecture - 11",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb004ZkJKSjl2dTBrUU5CVjdlekJjWkwwV3NJYjBlWjZTZFRHaXdFbmtCdkd6U0JUWm5qanlOZlJXRjgta3FJTDY4dFpDNGlGOHY5b2xKdzBRQ25iNkM3eWQ0ZnhiWWV3MkRyaGg4MGIzejFHd2c2SjkyemtzZHB1RVR3YnV6TFFMd1BMQmFYUWotbVpJNlVBVElfc2N4T2duMjYtV01VY3JQaGRyZlNZQzNnSGVSb1pZSUtXbXlGcVg1MUF4SmVoNHp3ZGJyOUtRekQ0?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-16T16:11:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Galerie CMI Luxembourg / Moreno Architecture - 11",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of CMI Luxembourg / Moreno Architecture - 11",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de CMI Luxembourg / Moreno Architecture - 11",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie von CMI Luxembourg / Moreno Architecture - 11",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "eea5faa84881c9bdc9b6bd212055f20a85cd0c68",
       "title": "3º Encontro das Famílias Luxemburguesas com presença da Embaixada do Grão-Ducado de Luxemburgo",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEJFTFhIbnU0NXRkb0Zxblc1SnROWEplR1dnR2gtb2JYU3J1TmlpUF90dGtQVEV2dG1pUXdzcU0tUzRTVndGQzdqbVN4aVBraHk4aFVKQ0ZGWUhXdERaaVdzTTJ2Wm1oalhjUGZ2UmNUelhVelNqclBQSUFwZjBBSEhUbG93NzRyWkgyeE5wZ0hEUjVreEpiX0RpYkpiMDhwc3NoSVF5d041YjBnM0JFaVJrZXhJVGVnQ21kQjNFWnVjNG1a?oc=5",
@@ -439,6 +501,35 @@
         },
         "fr": {
           "title": "Amnesty : le Luxembourg parle, Madrid décide",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "300314f06ca0178111531ac8e97b04454314a489",
+      "title": "Codere Online Luxembourg (CDRO) Holds Steady Near Support as Traders Eye Resistance - Bollinger Band",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ1RJd0E1Xzc5aWlZX3RkZV9DQUpkMXJHT091b183R0c2V2NxdFdPQUdXWFVhNXdNMzFQVkY0Znd2UERqWTYtbG9vckdWY05LaU82RU9nR09pTGJ3VXBhdHZZdVZCcTV6VWRvenNtSTlYNjVIRFRFXzJ6Ui0zSVIzZW5EaURpbUF2Y0VCVmZUWHU3QkI5OUZZdkJqY19UUFFrZXZrSUZxZnQtQk5WbC1LUzlSRDc3ZnU3RDgxTGhOdDM?oc=5",
+      "source": "dars.gov.et",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-16T15:43:20.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Codere Online Luxembourg (CDRO) hält Steady Near Support as Traders Eye Resistance - Bollinger Band",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Codere Online Luxembourg (CDRO) maintient un support proche alors que les traders observent la résistance - Bande de Bollinger",
+          "summary": ""
+        },
+        "de": {
+          "title": "Codere Online Luxembourg (CDRO) bleibt stabil nahe der Unterstützung, da Händler den Widerstand im Auge behalten – das Bollinger-Band",
           "summary": ""
         }
       }
@@ -5643,6 +5734,39 @@
         },
         "fr": {
           "title": "Le Pavillon du Luxembourg à l'Expo 2025 Osaka, conçu par STDM et Mikan, explore le rythme et la modularité - 9",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9d85f791ab907d558837c42f8941f7d09d2e5968",
+      "title": "画廊 由 STDM 与 Mikan 设计的2025年大阪世博会卢森堡馆，探索韵律与模块化 - 34",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOSEkyRVVjcnhuSWEwRDdjakF0aFhpa2RsMVdCZDJoV2Z2eE1xc04xcHlVZFpINE42eHJUREp6aU5yYzJRVjUxX1pRQ2FUWXpWZnNVMkVCOVVrMGZhMGZ6aWpuT2F3SVc4eW04ODlxTEdxREhKcU5na3p1MTQwLXRmajUzVmgwRmwtOTlVOGh2LWJ3b2FNRkJGcU5Nd0NhV3cwUjFiT2JmUlNWY0dRZFVfQUs0b250QUt5UjNMcGZmd2VQWG1LNHdWOHczSkhzQXpJNHNGUVMwQlpJYXk4RFlEVWZOeXRFYm42QWxObTV5QzdLUUNUeFNOLVQydEc1T01WQ09jMzhMQ0YtYWdsMVNqNVFmeGU5d0VfZ1F3OHl4eU1rdm5KSzlldjF1b1o1b0thREZBemszcHZfT2RpVEhVTldVZlBGT2dJdUwwa2Q4QkpqU2dhVjI0a1BzWnhUekRWeU5hbVg3bHNkVzNNd24xdTUyajduUG9QU2VNR0dFNGtvM01i?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-15T03:00:26.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Galerie Luxembourg Pavillon op Expo 2025 Osaka, entworf vum STDM a Mikan, entdeckt Rhythmus a Modularitéit - 34",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery Luxembourg Pavilion at Expo 2025 Osaka, designed by STDM and Mikan, explores rhythm and modularity - 34",
+          "summary": ""
+        },
+        "de": {
+          "title": "Gallery Luxembourg Pavilion auf der Expo 2025 Osaka, entworfen von STDM und Mikan, erforscht Rhythmus und Modularität – 34",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Pavillon du Luxembourg à l'Expo 2025 Osaka, conçu par STDM et Mikan, explore le rythme et la modularité - 34",
           "summary": ""
         }
       }
@@ -24289,6 +24413,39 @@
         },
         "fr": {
           "title": "Atari a finalisé sa transformation en société anonyme (S.A.) au Luxembourg.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7e3f809c9741a7747a91fb7a1ef96654a1d6e456",
+      "title": "UNStudio 设计卢森堡混合建筑，旨在减少碳足迹",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGFRRjZOX092WE9RRGFSYjB5Rmo1bGZPeVhCX19aZ2Rmem1Rbm1ZdHI1UkRGRnROaFlOQnhjQUZrcWdxTzB1RC02Wk8tWkpGaVRhM2RURkRvOWFtOTNlUjNzbDVtOHJPaHAzR0I1SFFmNVVpMmtjd3FwODNkSTFxRlpNaVFHbEhNMGYyMndfa0RrczVWSUZZbWRhRnhLcVA5SFRHYmlSOVc4Vkk?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "UNStudio designt Hybridgebai zu Lëtzebuerg fir de Kuelestoffofdrock ze reduzéieren",
+          "summary": ""
+        },
+        "en": {
+          "title": "UNStudio designs hybrid building in Luxembourg aiming to reduce carbon footprint",
+          "summary": ""
+        },
+        "de": {
+          "title": "UNStudio entwirft Hybridgebäude in Luxemburg mit dem Ziel, den CO2-Fußabdruck zu reduzieren",
+          "summary": ""
+        },
+        "fr": {
+          "title": "UNStudio conçoit un bâtiment hybride au Luxembourg visant à réduire l'empreinte carbone",
           "summary": ""
         }
       }
@@ -47524,167 +47681,6 @@
         "de": {
           "title": "Niemand erzählt Touristen von diesem kostenlosen Aussichtspunkt in Luxemburg 🇱🇺",
           "summary": "📍Panoramaaufzug Pfaffenthal\n\nWürdest du damit fahren?\n\n#luxemburg #traveltiktok #europetrav\n\nNiemand erzählt Touristen von diesem kostenlosen Aussichtspunkt in Luxemburg 🇱🇺\n\n📍Panoramaaufzug Pfaffenthal\n\nWürdest du damit fahren?\n\n#luxembourg #traveltiktok #europetravel #travel #hiddengems"
-        }
-      }
-    },
-    {
-      "id": "168aa4896e8d566094724c079cf5af55d38169cf",
-      "title": "#luxembourg #somali #somalia #mogadishu #xamarcadey🇸🇴🇸🇴🇸🇴🇸🇴 ",
-      "url": "https://www.tiktok.com/@ogaalka_yurub1/video/7653408771816836382",
-      "source": "@ogaalka_yurub1",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-06-20T09:35:40.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/o0XlqEI0nAD5ApA5Eo8EB3O2SVFuRN1E76AefH~tplv-tiktokx-origin.image?dr=14575&x-expires=1783771200&x-signature=iOcyVr98pqPGO71kd88fwE3Z%2BIc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my3",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "#luxembourg #somali #somalia #mogadishu #xamarcadey🇸🇴🇸🇴🇸🇴🇸🇴",
-          "summary": ""
-        },
-        "en": {
-          "title": "#luxembourg #somali #somalia #mogadishu #xamarcadey🇸🇴🇸🇴🇸🇴🇸🇴",
-          "summary": ""
-        },
-        "de": {
-          "title": "#luxemburg #somali #somalia #mogadischu #xamarcadey🇸🇴🇸🇴🇸🇴🇸🇴",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4eeca17dd97d3c9eb431d11a0df6a0fd3e7081a1",
-      "title": "룩셈부르크 대사가 공개한 이태원 관저 인테리어",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52Y3hPeDNwelduc2diaGtseS1OQ2E3bDlWcnBib25HcUk5YjZReTU5S1F1bVNoN0VPSFB2c0xlS08tSU5vNEk3WC1QVmNxVG8?oc=5",
-      "source": "엘르 코리아 │ ELLE KOREA",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-06-20T08:55:45.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Das Innere der Itaewon-Residenz wurde vom luxemburgischen Botschafter enthüllt",
-          "summary": ""
-        },
-        "en": {
-          "title": "The interior of the Itaewon residence revealed by the Luxembourg ambassador",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'intérieur de la résidence Itaewon dévoilé par l'ambassadeur du Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den Interieur vun der Itaewon-Residenz vum Lëtzebuerger Ambassadeur opgedeckt",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bf00e5ead4aaeafde931ad0324d9ffb906b3d22a",
-      "title": "Rijkste families van België stallen 91 miljard in Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWktYNUFfZENoZVhYc3FCd2V3Y2RUQTNFYVhHWXA4S2xHTHgxVlFEMFpRT2VOTTVlVVBiMzhCUGZyeWNMZWVQQ0UwcWdtaXdRajQ1Y2NObEg1RnlWRUVpa3RVRVZna3phbEtIVWVnbnJ3WjVfeW52UGhIZVNwemw3TEI4cVJDNlM3Z0F2d3VSTlliZnNGZEN0UTRjdGZGbmJ0dVBmcENNMXRUelMzN2otdUdLV2FEZTRkR0w5NnRvTHJpM3FrVXc?oc=5",
-      "source": "De Tijd",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-06-20T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Les familles les plus riches de Belgique stockent 91 milliards au Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die reichsten Familien Belgiens lagern 91 Milliarden in Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Belgium's richest families store 91 billion in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Déi räichste Familljen an der Belsch späicheren zu Lëtzebuerg 91 Milliarden",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "373945168f6611f92f88fbe8105b21a1bfaa0c2c",
-      "title": "Rijkste Belgische families gebruiken massaal Luxemburgse vennootschappen met totale waarde van 91 miljard euro",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWkNHTDR6TjZPcF9TUVplZVBla0trbGVFUnFqSWhGalNDS1BHUVpUMFRWVTU4SmtmMnVqYXhCaTUxN2UybEEtNVFKdFUwdWV1UkxGZS15MjVBTlBVVkNtN2dYY1U3VWlDb1hjYnpHRmVELVVlbmxiSHRoVkNna2FyWHpFVFVnc0dNUkg3eTZLNWo5UzBZNXRtT1FycHhubUotODBfWTNtQXNSeG03RUZhOTRrRGpmRGFSbWVtdGxLV3o5dkxJbF9DSzlYY0NpRHVmeGZSVmdSODBLOS1JOGFWYjBVZ0dwZ0V5WDVWZmo3M21JRnZz?oc=5",
-      "source": "Nieuwsblad",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-06-20T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Déi räichste belsch Famillen benotzen massiv Lëtzebuerger Firmen mat engem Gesamtwäert vun 91 Milliarden Euro",
-          "summary": ""
-        },
-        "en": {
-          "title": "The richest Belgian families massively use Luxembourg companies with a total value of 91 billion euros",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les familles belges les plus riches font massivement appel à des entreprises luxembourgeoises pour une valeur totale de 91 milliards d'euros",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die reichsten belgischen Familien nutzen massiv luxemburgische Unternehmen im Gesamtwert von 91 Milliarden Euro",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "46eeb9b8082311940217a2c4548ef27a5b55b694",
-      "title": "Een problematische Belgische exodus naar Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNODdDZ1pyREZWMjg0all3OWFreXE1WU9kQlBFdlpiMVduQ3Z2T0J0YVpsWHBVZnBnUFJoZFo5blpYc1JnSy15LWlkVEJxSkM0cjIweW9TTzA1bTlONXFDcDlRYmVVVkFXT3JIMVJ2dnJlNll0c3ZSV3Awd2dnZ2dWYzA3Z0dfWTNFLWtHN1JLRVhxWTBxaldFUjNrYWw0YzZzbktVdQ?oc=5",
-      "source": "De Tijd",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-06-20T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Un exode belge problématique vers le Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "A problematic Belgian exodus to Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ein problematischer belgischer Exodus nach Luxemburg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "E problematesche belsche Exodus op Lëtzebuerg",
-          "summary": ""
         }
       }
     },
