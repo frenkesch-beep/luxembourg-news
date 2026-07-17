@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-07-17T14:04:24.810Z",
+  "generatedAt": "2026-07-17T15:41:51.027Z",
   "items": [
+    {
+      "id": "88dce6abb12009f640bb08e57e285bf8751223e9",
+      "title": "Eiffage se développe au Luxembourg avec le rachat des activités travaux de Baatz",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnlMV3g4UGx1Z2lYc0JXN3BYWTU2VEl5dTZZaGhiRG5CMFNjZHJ1MnQtbGx6ZWR0aGNPZ210VjJnRGhFTC1MRFpOVUt0Q1drTjYyM1g1SzZyaDV6TExiX0c2bW5FanR3d2xiSTBQeGFDYnc4V1I0QjRpYmNaMHVNUDVWZkthUVcwalBldlJ6cmxTeHIzTkJTQTZyOXJvUQ?oc=5",
+      "source": "Batiactu",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-17T14:55:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Eiffage expands in Luxembourg with the acquisition of the construction activities of Baatz",
+          "summary": ""
+        },
+        "de": {
+          "title": "Eiffage expandiert in Luxemburg mit der Übernahme der Bauaktivitäten von Baatz",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Eiffage erweidert zu Lëtzebuerg mat der Acquisitioun vun de Bauaktivitéite vu Baatz",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e7f3130c598790801b898710c466f85c735bc0bb",
+      "title": "Ils ont commis plus de trente vols en Sud-Luxembourg: \"Les victimes sont traumatisées\"",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTktoVmtvVzhfZkNjRzdKMVZ5LXRldEdBNFNKY21sSzZDOUpuNEY5QWhoQ0NpOG9MVlA5NjNXVzBtUEY3NmJrQ1VWWmdMYXBWaWdmMmxRQTF0ZS1lYmxLc20tdVlzU3cxUFhEUWtyTExGNVBsYW41Y1VpMTM4UC1DMVBqeEJ4bDhBUTNDbzhwVmJ0X0lTaHlDT1NTVDRPd1JhdktvSm1mV0tYTFB4Q1VEcHQ2LXd0eU9hZm9JdHc4ai1ZY3UyTHFyR29qRVpOYW1qNjVBeHRXaUxTODNZaFA1T3NfNG1tV0RFd3NRZ3dUVnphcUIy?oc=5",
+      "source": "DHnet",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-17T14:15:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Si hunn am Süde méi wéi drësseg Déifstall gemaach: \"D'Affer sinn traumatiséiert\"",
+          "summary": ""
+        },
+        "en": {
+          "title": "They committed more than thirty thefts in South Luxembourg: “The victims are traumatized”",
+          "summary": ""
+        },
+        "de": {
+          "title": "Sie verübten mehr als dreißig Diebstähle im Süden Luxemburgs: „Die Opfer sind traumatisiert“",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "594f2553818f11bd77ad03bd6ad9dd9b1aecbb3c",
       "title": "Direttamente dal Lussemburgo: l'Arce piazza un colpo internazionale",
@@ -184,6 +242,35 @@
       }
     },
     {
+      "id": "1023e5d7d5919f56911bd01d1926df0cbcd00e2f",
+      "title": "Le Togo et le Luxembourg signent trois accords pour accélérer la transformation",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ0N2N1VIZlEwM2NQenp5ODlHaUNJWnM5cVlrZGhqTTFyVm9RSFBBcGU5RE04anpNa29hOHltUzQ1eVBnRXhjMlhXSHFuZ0l3dlF3Q1U4anlhY2lXX2RCa216WXc2cU1BQmJPc3B0czc4WmVNbUY2SGtOaTVHbFN1SDFYYl9fdGhVTEp0NlFBSUJ5STI5VldnYUlBTmI0MUdGUW1UVUZJa0NHZzhDbGt3eS1WX1hKMXVxbkdLWTY0TVp4WXJfR2pLSFBLMjRnMm0wQzVEeWxrbFBERE1oc3NETGRranB0WEg1QW5KVkpqd3c?oc=5",
+      "source": "Sika Finance",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-17T08:30:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Togo und Luxemburg unterzeichnen drei Abkommen zur Beschleunigung der Transformation",
+          "summary": ""
+        },
+        "en": {
+          "title": "Togo and Luxembourg sign three agreements to accelerate transformation",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Togo a Lëtzebuerg ënnerschreiwen dräi Accorde fir d'Transformatioun ze beschleunegen",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "718499620b99c24e9a061c3e73ad76f9a149bc45",
       "title": "В общежитии на Розы Люксембург загорелся холодильник — эвакуированы 15 человек",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXNXRko4YnpBclZzZkFMSC1Rc3kzMmFTQ0JGTHM1OUFUSnROVm1icWxQd1VXeDJBdTJfNnAwcC1LZkhWUF8yQ1IwMjdVT2hBdkNrOXVCQkk5MHFOUHF0Z2lwNm9zVEg1M3FDbFB2VllPc2V4cTJ2YXNMMVBER1BwclZybTlCV2FScWxvMmRsUGp2YThLNF9VcFVoazh1cWxGS2RJMW56LVR2WXBqVGNpT2ZYa9IBuwFBVV95cUxOYUFnMGZQV2x0S1lEWl9UZmdaNGNiYVQ5aHJlSi1iY1EwQ2JRMzJQcENVZF9IV3pocmMzcmloTUJLN0k1Y3pGNTg4Y2p3cFJLeTY5WEs1UUtQME1Cczd3UEo1MEVTM0xIVXpTQXZIYVNQY2tHVGlzMjNfRmZZMURxeE0zRVZtZEhFaExsWHFkLXhTRVNOaE44UTF0NDdaQUhOWTlNdVB1YnhadHVCYmw4RXdPVE9fdE5IMXNF?oc=5",
@@ -307,6 +394,39 @@
         },
         "fr": {
           "title": "Un foyer de la rue Rosa Luxemburg a pris feu : 15 personnes ont été évacuées",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7dd163d142d26dddfa18403079e144d4e604ccb7",
+      "title": "画廊 UNStudio 设计卢森堡混合建筑，旨在减少碳足迹 - 2",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNb3VBSnBtYllwY0hnVTVfVmhiMHA3d0VjcUxnd1FaaHcza3RMU085NWRRaWVmc0JTM1ZoRzhGMjJyNzd2eTBVcy1mWWRUV1p3bFN4bU55S2R0NGRDNzBLODNxVVpHelc3amhKaElzeFlYLUZZbHdSbk9YbUpndmZMSVR2SmdpR3Bwa1o2aXNGbG5OMEhES0V6SklodmZ0TUEyUnkyS0VqTURwd1gwMERDMzhtbzdBRGZCNWg2Y2xvZDFaUF9JS2lYM1NjVTBQQ2RSd25IakpDelZDTUpvZjVYdlhnQUlDa0NhNDZfYl91d3ZZbGlram5zWlBxZFpSeUVQMUhRRmQ1ZEpXQy1sUmllT1FRcHZ6R0s1dFIxS2MwMVJfYUpRSUloc0dDOXIyOGZkY3k0eEtuXzE4SVZu?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-17T07:28:14.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Gallery of UNStudio designt Hybridgebai zu Lëtzebuerg fir de Kuelestoffofdrock ze reduzéieren - 2",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de UNStudio conçoit un bâtiment hybride au Luxembourg visant à réduire l'empreinte carbone - 2",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of UNStudio designs hybrid building in Luxembourg aimed at reducing carbon footprint - 2",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie von UNStudio entwirft Hybridgebäude in Luxemburg mit dem Ziel, den CO2-Fußabdruck zu reduzieren – 2",
           "summary": ""
         }
       }
@@ -651,6 +771,39 @@
         },
         "de": {
           "title": "Die Köche des Team USA trainieren vor dem Culinary World Cup in Luxemburg auf dem MCC-Campus von Omaha",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a54290d34389c16203c6d912bf2756672482fa77",
+      "title": "🔥 AGNELLI VINCE A LUSSEMBURGO ORA TREMA LA GIUSTIZIA SPORTIVA",
+      "url": "https://www.youtube.com/watch?v=nsE0kwlUlk0",
+      "source": "CALCIO FLASH italia",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "it",
+      "publishedAt": "2026-07-16T21:41:41.969Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/nsE0kwlUlk0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkY4S7DgMPxf-vSG6jlF3o1vM9oQ",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "🔥 AGNELLI GAGNE AU LUXEMBOURG MAINTENANT LA JUSTICE DU SPORT SHAKE",
+          "summary": ""
+        },
+        "en": {
+          "title": "🔥 AGNELLI WINS IN LUXEMBOURG NOW SPORTS JUSTICE SHAKES",
+          "summary": ""
+        },
+        "de": {
+          "title": "🔥AGNELLI GEWINNT JETZT IN LUXEMBURG, SPORTGERECHTIGKEIT SCHÜTTERT",
+          "summary": ""
+        },
+        "lb": {
+          "title": "🔥 AGNELLI WINN A LËTZEBUERG ELO SPORT JUSTICE SHAKES",
           "summary": ""
         }
       }
@@ -13718,6 +13871,39 @@
       }
     },
     {
+      "id": "01400f94455c02265621e37352e744983ed395e7",
+      "title": "画廊 2025 年大阪世博会卢森堡馆 / STDM architectes - 5",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQbHZkNGpXWVZzRzVaWFluOEU4Mm8xZ1pJVHRxbFVjMXZtWGw2MjBzcXhGek5KVEJxTXdWTXI0LTJHNXFORkktWDZkMUtfNUh2WU94OWpuNHpja01lWmZVZXVFOUhDQWJtdjVGVWJPRW11OVJ5bG05WlZETVBleFgtR1NmQkxiQktxVDVUTkhfalVXU3hNR0ZhMHI1a3RvZGFoLUgtVDBTOGxES2JaQW5sRDNzczRjbTREZkxTa3lNMndvVGthRm5lbHoyT1JBbjNOMU5wRkVGV2h6bzVWS05CYTNOSlB0MUMzMkRkdlJjT1lETXR6N0tkRHBoUmdzQzcyQklIdzJWNDRMcVpTQS1zVjZ3RzVPdFdmbUtv?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-11T23:43:58.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie du Pavillon du Luxembourg à l'Expo 2025 Osaka / STDM architectes - 5",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Luxembourg Pavilion at Expo 2025 Osaka / STDM architectes - 5",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of Luxembourg Pavillion at Expo 2025 Osaka / STDM architectes - 5",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Luxemburg-Pavillons auf der Expo 2025 Osaka / STDM architectes - 5",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "e6edcbaade47bf79f4fca33fab1b6eb024d48d71",
       "title": "画廊 2025 年大阪世博会卢森堡馆 / STDM architectes - 22",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQNXRrRWRKZ1hZSThiNWsxaEZmaXNoNUUyeU5EcTRBZ3I2RHRZeW1seXFxR0dRSkJQbFJVMTE0TTF4eVU5VDZoX2VvaWRDSDd6SjV0eExOVjVpRmNYaEVEQm1yWG9pNVhCOG9nbjF0WmNyVmV0dzh1SjJqR2VURUJmLXNHS0llb3RFR1ZBR0dYZUJmbzh1d2RrcktjTVpOSmhDVDY0RWtMejhVY2l1Uy1yamdIVTQwOXJJbXMwQ0tlYW1FS2prSndNdWg3dzVaQlQ2c1pZUTg0YzJ5aFh0SzlQN3d6T0d2VnNHOHYxVXdxc2htTktjRk12RlJCajJrdW1XQm9WMVJWUU1MVDVhSmM3dEJXWnBtMlhfZmh3?oc=5",
@@ -14638,6 +14824,39 @@
         },
         "fr": {
           "title": "XRP : la licence complète au Luxembourg et le pilote Swift ne convainquent pas le prix, qui s'accroche à 1,",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7a9276e56d8630f532d3ed681cbd1aa18cc2ae04",
+      "title": "معلمة بوسنية تروي قصتها.. فُصلت من عملي في لوكسمبورغ بسبب دعمي فلسطين",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaVNZTnQ0S1RRSWstZElOYS0wUlE3cWhYQklaMExERVdRdkNQc1l0WXc3WEhoZ05XV1lwZFB1QWpKWUlIalZ1anU3elRRcHRZYkJFcXc1OHdmbDdndDlXQlZTSjd4R2t4cmQ0alFPSU51THI5eFdCdDU2UlZuNFJmSUctZmhvUUdMNmNxNW16ZmhUY1ZUbTU0OU1rZDhZbUsyV0pCZ00zRHJEUEl4ZlBhWGdaR2IyeFFKemxRNlFKNHdPc1dVb3Q1ejNwaE94dDVKb003WDFaSzNOcmhXczBjZmlQMEIycjVrbnA2MDRPZWRVYWdTQkotX1FkeWhsckZXUzNEZmdXSFFsenpOSmRwWXdqd21JT2ZtTG83OWxxLXlXN2g3SENjem9yeWtFV3NDMWxWeXRxcVExQVowV0xpag?oc=5",
+      "source": "راي اليوم",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-07-11T09:55:01.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Eng bosnesch Léierin erzielt hir Geschicht.. Ech gouf vu menger Aarbecht zu Lëtzebuerg entlooss wéinst menger Ënnerstëtzung fir Palästina",
+          "summary": ""
+        },
+        "en": {
+          "title": "A Bosnian teacher tells her story.. I was dismissed from my job in Luxembourg because of my support for Palestine",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Une enseignante bosniaque raconte son histoire. J'ai été licencié de mon travail au Luxembourg en raison de mon soutien à la Palestine",
+          "summary": ""
+        },
+        "de": {
+          "title": "Eine bosnische Lehrerin erzählt ihre Geschichte. Ich wurde wegen meiner Unterstützung für Palästina von meinem Job in Luxemburg entlassen",
           "summary": ""
         }
       }
@@ -47448,234 +47667,6 @@
         },
         "lb": {
           "title": "Vu Lëtzebuerg: Chemie bréngt de Mëttelfeldspiller Luis Jakobi op",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "831f5d2773f66e0812614c4940429a1c0f186178",
-      "title": "European Union Begins Process for Ukraine's Accession in Luxembourg | WION",
-      "url": "https://www.youtube.com/watch?v=XaQUPGGueJs",
-      "source": "WION",
-      "sourceCountry": "",
-      "type": "video",
-      "lang": "it",
-      "publishedAt": "2026-06-22T15:12:41.306Z",
-      "summary": "",
-      "imageUrl": "https://i.ytimg.com/vi/XaQUPGGueJs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj6e_HX8okiO27RnsqgrjMumDpLw",
-      "topics": [
-        "eu"
-      ],
-      "translations": {
-        "de": {
-          "title": "Europäische Union beginnt in Luxemburg den Beitrittsprozess der Ukraine | WION",
-          "summary": ""
-        },
-        "en": {
-          "title": "European Union Begins Process for Ukraine's Accession in Luxembourg | WION",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Europäesch Unioun fänkt de Prozess fir de Bäitrëtt vun der Ukraine zu Lëtzebuerg un | WION",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'Union européenne entame le processus d'adhésion de l'Ukraine au Luxembourg | WION",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e5f1f69f3bea64bbfbc56bd8fb98b6ae90863efa",
-      "title": "10 Junho: PR apela a que Luxemburgo alargue opção curricular de ensino de português",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTNDVlpMbEFudm1rNHdhVXBFbFctUnJ4ZF9TTGR5clg3NG5aYnFUNlJacUF1emdQbW1Wb0xhcWdEZDQyLUNfZnRsTGNzUXZKRDR0bVV3M0lWc1N6TVFBYUU3d2FxWUxHUlptam54eDE0M0VIaTlYTVhPUzluU252cURGOURkNE5WTm96dlhYMFNWS3dNekZuSHJiOHRTR2s5NmhXZ3lkSzd6Q1h3aTVLNmxEdXg0djBBTVlnVWFiRVJFNldoMXpKZ2ZZV09yU1lBbHVOM0xOVFhzYnBkZ0E?oc=5",
-      "source": "JM Madeira",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-06-22T13:44:25.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "10. Juni: PR fordert Luxemburg auf, die Lehrplanoptionen für Portugiesisch zu erweitern",
-          "summary": ""
-        },
-        "fr": {
-          "title": "10 juin : PR demande au Luxembourg d'élargir les options de programmes d'enseignement du portugais",
-          "summary": ""
-        },
-        "lb": {
-          "title": "10. Juni: PR fuerdert Lëtzebuerg, d’Méiglechkeete vum Léierplang fir portugisesch auszebauen",
-          "summary": ""
-        },
-        "en": {
-          "title": "June 10: PR asks Luxembourg to expand Portuguese teaching curriculum options",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "078e29cc19c745bd26245baca6656547f807c654",
-      "title": "AB Tarım ve Balıkçılık Bakanları Konseyi Lüksemburg’da toplanıyor",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblVFTDA2MXR3bEpTbk1hVTJYdWY4WEs3SW8za2toNkpQQm1kWVZlMmZBTTZvZXdDQWgtaUhMb1JuX2RyakJKZnBGRzByenUzRF85X29ldlZBM2owS090N0VuWU1xZ2RxM3hocTI5cVk1cUxUank5MUVKVGpiXzg0aW1JSTB3Y3lMbGd0S1ZTaEhnZms4cGw4dWRDenhkMVhURlJ4RzlpeXhZVlZXMnJwZkV5SlFSdHJKdW1ENWVHNmFpZ0JBcVQyV0hxN2ZVazA2T1FaeG9zem0zWkhUV2FiRlZR?oc=5",
-      "source": "ΚΥΠΕ",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-06-22T10:39:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Conseil des ministres de l'Agriculture et de la Pêche de l'UE se réunit à Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der EU-Rat der Landwirtschafts- und Fischereiminister trifft sich in Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "EU Council of Agriculture and Fisheries Ministers meets in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den EU-Landwirtschafts- a Fëschministerrot trëfft zu Lëtzebuerg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "28aebd9507f3c004d65bfc6e9ece17c98ca061d5",
-      "title": "✨A'LOUER ✨\n\nEU/Luxembourg:\nAppartement meublé de ± 90 m2\n🚪2 chambres\n🚿1 salle de bains\n📏Terrasse de ± 8 m2\n📊PEB: D\n💶 Loyer 800€/ mois\n📆Disponible à partir",
-      "url": "https://www.tiktok.com/@ta.douce.mariette/video/7654153585181101344",
-      "source": "@ta.douce.mariette",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-06-22T09:45:11.000Z",
-      "summary": "✨A'LOUER ✨\n\nEU/Luxembourg:\nAppartement meublé de ± 90 m2\n🚪2 chambres\n🚿1 salle de bains\n📏Terrasse de ± 8 m2\n📊PEB: D\n💶 Loyer 800€/ mois\n📆Disponible à partir du 22 juin2026\n\nContactez-nous au plus vite pour organiser une visite !!\n#Immobilier #Bruxelles #luxembourg🇱🇺  #Appartement #Location ",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/oQPJoeEQIDQq80OfICFmyuZPoEGEoEAzDBQRBp~tplv-tiktokx-origin.image?dr=9636&x-expires=1783911600&x-signature=u0Ogn6MKB9Lm7OcTIrNL17FhjjE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "eu",
-        "culture"
-      ],
-      "translations": {
-        "en": {
-          "title": "✨FOR RENT✨",
-          "summary": "EU/Luxembourg:\nFurnished apartment of ± 90 m2\n🚪2 bedrooms\n🚿1 bathroom\n📏Terrace of ± 8 m2\n📊PEB:D\n💶 Rent €800/month\n📆Available from\n\n✨FOR RENT✨\n\nEU/Luxembourg:\nFurnished apartment of ± 90 m2\n🚪2 bedrooms\n🚿1 bathroom\n📏Terrace of ± 8 m2\n📊PEB:D\n💶 Rent €800/month\n📆Available from June 22, 2026\n\nContact us as soon as possible to organize"
-        },
-        "lb": {
-          "title": "✨ FIR LOREN✨",
-          "summary": "EU/Luxemburg:\nAménagéierten Appartement vun ± 90 m2\n🚪2 Schlofkummeren\n🚿1 Buedzëmmer\n📏Terrasse vun ± 8 m2\n📊PEB:D\n💶 Loyer € 800/Mount\n📆Verfügbar ab\n\n✨ FIR LOREN✨\n\nEU/Luxemburg:\nAménagéierten Appartement vun ± 90 m2\n🚪2 Schlofkummeren\n🚿1 Buedzëmmer\n📏Terrasse vun ± 8 m2\n📊PEB:D\n💶 Loyer € 800/Mount\n📆Verfügbar vum 22. Juni 2026\n\nKontaktéiert eis sou séier wéi méiglech fir ze organiséieren"
-        },
-        "de": {
-          "title": "✨ZU VERMIETEN✨",
-          "summary": "EU/Luxemburg:\nMöblierte Wohnung von ± 90 m2\n🚪2 Schlafzimmer\n🚿1 Badezimmer\n📏Terrasse von ± 8 m2\n📊PEB:D\n💶 Miete 800 €/Monat\n📆Erhältlich bei\n\n✨ZU VERMIETEN✨\n\nEU/Luxemburg:\nMöblierte Wohnung von ± 90 m2\n🚪2 Schlafzimmer\n🚿1 Badezimmer\n📏Terrasse von ± 8 m2\n📊PEB:D\n💶 Miete 800 €/Monat\n📆Verfügbar ab 22. Juni 2026\n\nKontaktieren Sie uns so schnell wie möglich, um die Organisation zu organisieren"
-        }
-      }
-    },
-    {
-      "id": "76921ae3cae434b1b47b7dc7abe2878cea5ba8b5",
-      "title": "История: Гетеборг 4-0 Люксембург | Составы | Лига Европы УЕФА 1998/99",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUm9uUlZPRC1MSXMxS2dFaHpWNWxRZS1URFdLZGFCOHA3MXJnSE5NRXhmdEJEVWZTTDNEZEVRQkJIeHZWQ2o0eHRXSG1sZUpLOVlSaXFIQzBSaUlYR0Utc2kwV2FoQWdpVmUyM1pnOVhZRTk1MmNRS1NzaWFfck81a3lEajF1RFBWYWZUNnhweUtmZw?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-06-22T08:54:24.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "historique : Göteborg 4-0 Luxembourg | Compositions | Ligue Europa de l'UEFA 1998/99",
-          "summary": ""
-        },
-        "en": {
-          "title": "History: Gothenburg 4-0 Luxembourg | Compositions | UEFA Europa League 1998/99",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Geschicht: Göteborg 4-0 Lëtzebuerg | Kompositioune | UEFA Europa League 1998/99",
-          "summary": ""
-        },
-        "de": {
-          "title": "Geschichte: Göteborg 4:0 Luxemburg | Kompositionen | UEFA Europa League 1998/99",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d06237832064608c2a1910de08715ed4f6e3720a",
-      "title": "История: Гетеборг 4-0 Люксембург | О матче | Лига Европы УЕФА 1998/99",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZldtdzR5bDZWSWtscGNvQXJMc2JmTmFTV1k4VTlGNnR2ZUNmZGhvUXNzVk9lTG5vVnEwVjQzSnVidlpNWnMzSWVfVmk5UDZRMHBtYS0tUkZXYjRKazQyb3FHS1RWM2dvNHdLNUNTZXU3bWV1LVpoMlc3dXpOODkyLW1ta3BBYS02azJPSnVvS2dwLWg3?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-06-22T08:34:10.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Geschicht: Göteborg 4-0 Lëtzebuerg | Iwwert de Match | UEFA Europa League 1998/99",
-          "summary": ""
-        },
-        "en": {
-          "title": "History: Gothenburg 4-0 Luxembourg | About the match | UEFA Europa League 1998/99",
-          "summary": ""
-        },
-        "fr": {
-          "title": "historique : Göteborg 4-0 Luxembourg | À propos du match | Ligue Europa de l'UEFA 1998/99",
-          "summary": ""
-        },
-        "de": {
-          "title": "Geschichte: Göteborg 4:0 Luxemburg | Über das Spiel | UEFA Europa League 1998/99",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5ae9ef3b38e05301ea10c69bbaacccf71672b9eb",
-      "title": "История: Гетеборг 4-0 Люксембург | Лига Европы УЕФА 1998/99",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmxBME5pRDEzLWlVV0pFaFV4VjVQVWtvUDFGRGxpMXMxdFVyOExpS3lyYjN6Ym1FLUh6cDBHMjZqczBub3NGbFoxZ3NoelBjRG9VSW9YMmtGUUIxR2M5U1huZVFCaDNzYml4bmdHTWtFbDZfeFpOUjRKSVZCb0w0bG1pVVFoTzhORXpNOEF4S0o?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-06-22T07:48:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Geschicht: Göteborg 4-0 Lëtzebuerg | UEFA Europa League 1998/99",
-          "summary": ""
-        },
-        "de": {
-          "title": "Geschichte: Göteborg 4:0 Luxemburg | UEFA Europa League 1998/99",
-          "summary": ""
-        },
-        "fr": {
-          "title": "historique : Göteborg 4-0 Luxembourg | Ligue Europa de l'UEFA 1998/99",
-          "summary": ""
-        },
-        "en": {
-          "title": "History: Gothenburg 4-0 Luxembourg | UEFA Europa League 1998/99",
           "summary": ""
         }
       }
