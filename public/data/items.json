@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-17T11:41:43.040Z",
+  "generatedAt": "2026-07-17T14:04:24.810Z",
   "items": [
+    {
+      "id": "594f2553818f11bd77ad03bd6ad9dd9b1aecbb3c",
+      "title": "Direttamente dal Lussemburgo: l'Arce piazza un colpo internazionale",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWRMUkJKWERLcWxDMXJTSnFjdkJzcU1aX3duTmRpbVB1MU95eWxGUm4xZkNBWDZvNU5rLUIxX05QMFgxUS1NYjZWR2Q0NVdPZVlTczU0UDAyWGZuajFkeTVXbUd6ME50Wkw3RDBfWDh1SURKSEdSQzAtSTl6SFZGZUZIN2M3WWxnYWI5ck5qNHNfejBJdzN4blU0d1gwVTlXbGRhQndMYzllMF9VOG13TkJlc1gxWVdzZ2ctd0RET3FmWUtCem9PQ3haeGN4RUU?oc=5",
+      "source": "Gazzetta Regionale",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-07-17T13:38:21.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Direkt aus Luxemburg: Arce gelingt ein internationaler Coup",
+          "summary": ""
+        },
+        "en": {
+          "title": "Directly from Luxembourg: Arce lands an international coup",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Direkt vu Lëtzebuerg: Arce mécht en internationale Putsch",
+          "summary": ""
+        },
+        "fr": {
+          "title": "En direct du Luxembourg : Arce réussit un coup d’État international",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "3a9dadc2da73bd7d6de87b91814f8dc78a9661ff",
       "title": "Konzerte „Plëss in Concert“, Place d’Armes in der Stadt Luxemburg | saarnews",
@@ -88,6 +121,35 @@
         },
         "fr": {
           "title": "Au Luxembourg, c'est moins cher: prix du carburant - La Sarre est la région carburant la moins chère d'Allemagne",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "cd3ae1b37b2dbcd66544ce8204c4b58d77947730",
+      "title": "Spritpreise Luxemburg heute (17. Juli): Diesel und Benzin werden teurer",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkxHM05tdjIzWmxPbFZ3eDRYa3UxSW84ck9HaEVvaDNPc1Z1czU3dGJJREU4TkZFWG1OWEtMVy1hSlU0elptLW5xNzhhMEo1M3QwNDhOVXJKcElvUUJUYkFhcEN6cjY1WkdQOFhOOTh1ZFpud1pLWWl3WG10VVU2RzJoRGpKSG1LZEozRw?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-17T09:04:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Fuel prices Luxembourg today (July 17): Diesel and gasoline are becoming more expensive",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffpräisser Lëtzebuerg haut (17. Juli): Diesel a Benzin ginn ëmmer méi deier",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​des carburants Luxembourg aujourd'hui (17 juillet) : Le diesel et l'essence deviennent de plus en plus chers",
           "summary": ""
         }
       }
@@ -622,6 +684,39 @@
         },
         "fr": {
           "title": "Football : Luxembourg - Italie",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "dced6544ec13173716564fdd6353824ad784fd4a",
+      "title": "Is er leven na de troon? ‘Ik ben eindelijk weer mezelf,’ zegt Maria Teresa van Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWZqU1BfSTAzU25wVjk1NFd6dy1kdUxSNjE0Skg2ckpkcnFCX0RiMG5sTWlPMER6T3g1SDdTRDlPc09BRWlJdThsc3JPVHZVV1JDV2kyY0VjaTB2UGJaUG1mNTFVWHVHMHFyX1BmRXIzeVRJMFFkcEg1NWpmUE14ZWJFVDcyVGlxWC1vRC1kcGFRVFMzcEliWlJzTGJib0lvSHc4?oc=5",
+      "source": "Libelle",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-16T20:33:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Gëtt et Liewen nom Troun? \"Ech sinn endlech erëm selwer\", seet d'Maria Teresa vu Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Gibt es ein Leben nach dem Thron? „Ich bin endlich wieder ich selbst“, sagt Maria Teresa aus Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Is there life after the throne? “I am finally myself again,” says Maria Teresa of Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Y a-t-il une vie après le trône ? «Je suis enfin à nouveau moi-même», déclare Maria Teresa du Luxembourg",
           "summary": ""
         }
       }
@@ -1723,6 +1818,35 @@
         "de": {
           "title": "Spanien: Die europäische Justiz bestätigt das Amnestiegesetz für katalanische Separatisten",
           "summary": "Der Gerichtshof der Europäischen Union mit Sitz in Luxemburg bestätigte am Donnerstag, dem 16. Juli, das 2024 von der sozialistischen Regierung von Pedro Sánchez verabschiedete Gesetz, das den katalanischen Separatisten danach eine Amnestie gewährte"
+        }
+      }
+    },
+    {
+      "id": "703a8d3e556d8ecabe8a5ffb2545808cf87125c4",
+      "title": "Amir receives phone call from Duke of Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmdGcm1FRXBVSVYxQS1ZdGNUdWZiTFFYRFdmTjJjOWw2VVZYdGxOR0pnQjFsbU8wdWlvNVhmY3o3STV2U09fNWNJRkFkemFhYU9CTGlJcVhaSjRmQW9NTVp5YXZUQjZGb0t6MkkwZE9yVGxOeE5WMThEY3pQWU5HR0JZLUctM3R4cG10aDlCdmR4bUtfM1ZJVDJac2NoUUhDZXFKWVVQYjLSAa4BQVVfeXFMTkUyMUN2SV9KUjJ1Q0NoNFZSWE44eU1iaUFQVFF0allhcW9TQjVuVjUtS000dTRSMi1GNzBzOEZCbXVucXdoS0dNdUdCb0RkUGxjQnpQdEFVUldtUzUxR1puMjRCZ0NSRWNiaWdfZEY2dXZHNE54N1VQQkQxUDkwT2NWaDkzeHRqU1JlcGhnODNpVk9Kb2FwblZQbkM3Q0ZsV2Q4c1BqNl9Xc2ZqbGRn?oc=5",
+      "source": "Qatar Tribune",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-16T11:49:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Den Amir kritt den Telefon vum Herzog vu Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'Émir reçoit un appel téléphonique du duc de Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Amir erhält einen Anruf vom Herzog von Luxemburg",
+          "summary": ""
         }
       }
     },
@@ -47552,134 +47676,6 @@
         },
         "en": {
           "title": "History: Gothenburg 4-0 Luxembourg | UEFA Europa League 1998/99",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "25cef6bf152c53d8ed8b911ffbf9f151231978d6",
-      "title": "Abdel-Aati meets his German counterpart in Luxembourg",
-      "url": "https://www.youtube.com/watch?v=Om7mg4B3X4g",
-      "source": "القناة الأولى المصرية",
-      "sourceCountry": "",
-      "type": "video",
-      "lang": "ar",
-      "publishedAt": "2026-06-22T07:38:55.521Z",
-      "summary": "",
-      "imageUrl": "https://i.ytimg.com/vi/Om7mg4B3X4g/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhaIGUoZDAP&rs=AOn4CLDSf03W5HLRWmoaBuT1TErV1bxqQw",
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den Abdel-Aati trëfft säin däitsche Kolleg zu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Abdel-Aati meets his German counterpart in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Abdel-Aati rencontre son homologue allemand au Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Abdel-Aati trifft seinen deutschen Amtskollegen in Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c27143a782ffff51278526b60c15d6dce659a3e3",
-      "title": "Η Εθνική βόλεϊ ανδρών νίκησε το Λουξεμβούργο και ελπίζει σε πρόκριση",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS0g2VWdZVE9RUlNSNnZTWjRoT00xR2U4ZERpY1BCR2J0QkJLN09IZXJ4SmlRbWVRZWtfUThqR1Zwd25BRU9zNnpzTlctVmpsZjQzWTZRU0Ribnc5LVU5ZktoY3BMZnk0UWZOR3lIUnVuSXlqLU1iMGRoUnV6SWdQOWNEWU9fa0ZGUlExWHNQbHBrbUwtTklVOW0zU1FpVTA?oc=5",
-      "source": "iAxia -",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-22T07:36:01.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die Herren-Volleyball-Nationalmannschaft besiegte Luxemburg und hofft auf die Qualifikation",
-          "summary": ""
-        },
-        "en": {
-          "title": "The men's national volleyball team defeated Luxembourg and hopes for qualification",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Hären Volleyballnationalequipe klappt Lëtzebuerg an hofft op Qualifikatioun",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'équipe nationale masculine de volley-ball a battu le Luxembourg et espère se qualifier",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "46747ccf1b1e1a258b91ac3a0289652641d35b20",
-      "title": "Here’s the UWS Dish: Cafe Luxembourg’s Grilled Cheese Sandwich",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaDh5V2VrMFJMbVZJdUxoUURkLVRSYU1VV0UwaEs0TEt3cjlIMllYNEJkMHNYUUJDNTdXbE1YeXl4ZFZLcldEQ0dtMTB4X0I5ajBUMHZxMFBiQjhkekVBRTdyd201UUZXODltMkNjU28td2VTYTR3cU9PV1huVlpYLUYyYzVmeFVFNDd0SHZzWmNiSHVqeFBKVngtVEtYVlk?oc=5",
-      "source": "West Side Rag",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-06-22T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Hier ist das UWS-Gericht: Cafe Luxembourg’s Grilled Cheese Sandwich",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Voici le plat UWS : le sandwich au fromage grillé du Café Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Hei ass den UWS Plat: Cafe Luxembourg's Grilled Cheese Sandwich",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fe26491125b9b3d10a06f869177060eae083357b",
-      "title": "Орхан Айдын: Мы должны сыграть удачно против Люксембурга и Ирландии",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkFWbml1ZFZkZHJ3MUlWSklqRGtPZFl0OTJTd29SUGRDcjlWVjJmcWNTN1puR2RLZmFtSnp2aFFsMzE0Wm1hTzEzRjZaSTFmNEZ3MVpUeUxsVzZxUUFFUFRpcGZ0SnI0TVFnS18zSGdYcVpFRVprUU5TdGoxZnRoMXE3bjhYRVgyYVdPaEhwUEE5NXdUc2tuQnZrMUlDWWVERThRQ0Y5bUNrc25kOTF1ODF3XzRfb3doS3ktM0JwQnpLWlJGaFppYw?oc=5",
-      "source": "Azerisport.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-06-22T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Orhan Aydin: Wir müssen gegen Luxemburg und Irland gut spielen",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Orhan Aydin: Mir mussen gutt géint Lëtzebuerg an Irland spillen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Orhan Aydin: We must play well against Luxembourg and Ireland",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Orhan Aydin : Nous devons bien jouer contre le Luxembourg et l'Irlande",
           "summary": ""
         }
       }
