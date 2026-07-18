@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-18T12:05:40.330Z",
+  "generatedAt": "2026-07-18T13:50:54.640Z",
   "items": [
+    {
+      "id": "631dd4df649c0707eac7e4c8afda4237378b4901",
+      "title": "В Ульяновске из горящего общежития на Розы Люксембург эвакуировались 15 человек",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlQyUkhRR1RlUVJoM0I2X0RGbWJqQzNzeXlEdHF4ZFRIWkduRkt6TGh6RXlhX1BSbFdhTkE1T3JJNkRHWHdUVFZMV3hQZlFZQWlWbzhrZEROU0dfenI1R3gzVHhFMG41TVhMSTNUalhMR3ZMTjY5SnJSVDVfakZWV3BkZzhyMHRfQjZlV3p6M2VuZnVJeTJmRC1CQ0dTNkxUQldHaG9HQUwyWVk1N3NyYzdORGfSAbcBQVVfeXFMTm5XYUh0d1RSRGhPWllKczkzdnNfMXVMdVYyMjNZYU51WVcwV2FhamdwaUM1b1Y3blNzektmZHZXT2FGZTlzUl9oN3NGZGNKS1FReXlTOUxtVGRBOU15ZGZ5a01BRk1OTWRsZ3lNWFJFZFlQb2FTc1FJVkdZVDJCUVE1Q1U0TzA4ZnNqanl6ZEV5ZmExTDJkcUVxR0NKUFZKZmdETGFFeUZSVzUxbndCQWdQSXI5eTlJ?oc=5",
+      "source": "73online.ru",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-18T13:10:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "In Uljanowsk wurden 15 Menschen aus einem brennenden Wohnheim an der Rosa-Luxemburg-Straße evakuiert",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Zu Ulyanovsk goufen 15 Leit aus engem verbrannten Hostel op Rosa Luxemburg evakuéiert",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Ulyanovsk, 15 people were evacuated from a burning hostel on Rosa Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "À Oulianovsk, 15 personnes ont été évacuées d'un foyer en feu sur Rosa Luxemburg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "4758aba19886341d2747bc081ec0cb7ba5347004",
       "title": "Luxemburgo: Orçamento para o Festival Eurovisão 2027 subiu para 2 milhões de euros",
@@ -698,6 +731,35 @@
         },
         "lb": {
           "title": "Galerie CMI Luxembourg / Moreno Architecture - 6",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ee49a2a083b2dbf75750ab69ec17861584390e35",
+      "title": "Luxembourg vs Bulgaria - Class. Games 5-8 - FIBA U20 EuroBasket 2026, Division B",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORl95N3duVnJ1MVdDY2N5VXRqdzhIMExhWklLcUlTSGR6eDhLUENEYWZ0Wmh3Ukx5M3Jpd1AxcUZJSk1HclIxNXR1bUtyN1hsMW42b0JUOXJNX1pXM2lpanFXbkdiby0tNUczR2RWT2NCMjVEOW5GVUxyblJKVGp1UWpFZzRKanJ1NG5HV3pGdDkyOFRERVNCUEpR?oc=5",
+      "source": "FIBA Basketball",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-17T21:15:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg gegen Bulgarien – Klasse. Spiele 5-8 – FIBA ​​U20 EuroBasket 2026, Division B",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg vs Bulgarien - Klass. Spiller 5-8 - FIBA ​​U20 EuroBasket 2026, Divisioun B",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg vs Bulgarie - Classe. Jeux 5-8 - FIBA ​​U20 EuroBasket 2026, Division B",
           "summary": ""
         }
       }
@@ -47572,72 +47634,6 @@
         },
         "lb": {
           "title": "Ripple kritt virleefeg Genehmegung fir d'MiCA Lizenz vun de Lëtzebuerger Autoritéiten fir an Europa auszebauen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d459a54273ab34a45f029f242572ef6b1cc6fd23",
-      "title": "リップル、ルクセンブルクでMiCA仮予備承認を取得、欧州全域での暗号資産サービス展開へ前進",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BMkM3TnZGYXYwU1BmVTNLVThTaDUtcF9TdW5Ya3ZSSHMzckFaYkNnU2RCYXhLNFNOUFNoTTlGWndPT1AyeXVCT0pjWFN5UHVOaXlXcUlxVjVWSkl2X19yVzNvRThDSFlQalQtNm85VEJ3VHZU?oc=5",
-      "source": "BigGo ファイナンス",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Ripple reçoit l'approbation préliminaire de MiCA au Luxembourg, et va de l'avant pour étendre les services d'actifs cryptographiques à travers l'Europe",
-          "summary": ""
-        },
-        "en": {
-          "title": "Ripple receives MiCA preliminary approval in Luxembourg, moving forward to expand crypto asset services across Europe",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ripple erhält die vorläufige MiCA-Genehmigung in Luxemburg und treibt die Ausweitung der Krypto-Asset-Dienste in ganz Europa voran",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Ripple kritt MiCA virleefeg Genehmegung zu Lëtzebuerg, geet weider fir d'Krypto Asset Servicer uechter Europa auszebauen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "730e94723af76e98881f5899ff0a3929c543c471",
-      "title": "リップル、ルクセンブルクのMiCAライセンスを通じてEUで予備承認を獲得",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOemc3VHpxTnB1empvYm45cWZ2dFAtb0g1Y3ZWeEhDODdQYmNVWFhmSnVsRXU3NjNQS2pFbmFYMmJXT2FOcUJiWk1BLWdMNkxFOUItQ3B1ODQxRW1aYnVrb2Jqd0tOWC1TRDNkejZwX0RiWkNhdDVPMDdIXzVmZ0RvVkphRmI4X285c3NxQTVtN2tPMTJnMTFXM3ViamRpc21tRGYzVkpYUml2MVpLekp0Tmw4VmhTOXJibURBdm9tT0lQTWl4Mzc4ckx3?oc=5",
-      "source": "CoinDesk",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Ripple erhält in der EU eine vorläufige Zulassung durch die luxemburgische MiCA-Lizenz",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ripple reçoit l'approbation préliminaire dans l'UE grâce à la licence luxembourgeoise MiCA",
-          "summary": ""
-        },
-        "en": {
-          "title": "Ripple receives preliminary approval in the EU through Luxembourg’s MiCA license",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Ripple kritt virleefeg Genehmegung an der EU duerch d'Lëtzebuerger MiCA Lizenz",
           "summary": ""
         }
       }
