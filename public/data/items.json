@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-18T16:13:37.620Z",
+  "generatedAt": "2026-07-18T17:16:39.384Z",
   "items": [
+    {
+      "id": "bd1bde33b914b756562d1ec3609ad37f92d684c1",
+      "title": "\"Einen Teil von mir versteckt\": Maria Teresa von Luxemburg durfte jahrelang nicht sie selbst sein",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDBkQXY2ZmFiNk1JZGdxVDBaSldHLUsxNmZKcC1kNmI1dVhrOFlrTWs5WnlHT3NxUWU5ZFlqLVF1LTJJUnRjZmtPT29wNHhmRnRaYTlkOG4tSVdiUUNGWWdNeWZUa3lCVDBHVHRCNjFBUHJFVFBLWFRkMGJLUG5jMDRrYjNtb210SVBMR081X1l6NXFCOVJINlRsT2d5UGdjY1pfRjZzYTVnR1R4d3RsU3dFeTlPQ1YweDQycA?oc=5",
+      "source": "GALA.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-18T16:15:13.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "“A part of me hidden”: Maria Teresa of Luxembourg was not allowed to be herself for years",
+          "summary": ""
+        },
+        "lb": {
+          "title": "\"Een Deel vu mir verstoppt\": D'Maria Teresa vu Lëtzebuerg dierf jorelaang net selwer sinn",
+          "summary": ""
+        },
+        "fr": {
+          "title": "« Une partie de moi cachée » : Maria Teresa de Luxembourg n'a pas eu le droit d'être elle-même pendant des années",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "4cd2e7b0342f9afb619986e87c3a4dd28193f2ec",
       "title": "Europe's Richest Retirees Revealed | Why Luxembourg's Pensioners Are Wealthier Than The UK",
@@ -47597,39 +47626,6 @@
         },
         "fr": {
           "title": "Fête nationale du Grand-Duché de Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "569d254da818356894d19572a59bdc943858de92",
-      "title": "Bakan Göktaş, Lüksemburg Milli Günü resepsiyonuna katıldı",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTJwcjNfaUxCMXpneS1aNVlNVWxtcm9KZ3pUZTdBaHgtX2RGMXpDd2dLVjB5aE51VkpoRTNhNVV2cml6bFdWLTF5UmpGZFIzS2Nzc3dNZ2E1RnE1a3BTaWxEMnU2VmRoOTJ5VDNnaEZsdzdGLXJENEhLMnVtdjZyUGZLdW1HUGdNdm1iTzZRR2hURkVYS0U2eXZpb9IBoAFBVV95cUxQRVFSUmpuRE1mZU83SXdPdmxfN1RyZ2cyTFF2T3FwYjZsbFJpNU11SDhOZEF1Ykdra0pjT0FPWXhQNFZIaVphN0lJZmk0UWpFXzdSR1lNTVVKbnB0VXJPaGZ3b0VJZGtDaTNaWWdqSHlYWU1UeUtMZ3VtQ0FaSFBvQml1V1ZBTHE3U3lsRkxTdzkxaHh2Tk95VkdJckxJYk1l?oc=5",
-      "source": "DHA | Demirören Haber Ajansı",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le ministre Göktaş a assisté à la réception de la fête nationale luxembourgeoise",
-          "summary": ""
-        },
-        "en": {
-          "title": "Minister Göktaş attended the Luxembourg National Day reception",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Minister Göktaş war bei der Receptioun vum Nationalfeierdag zu Lëtzebuerg dobäi",
-          "summary": ""
-        },
-        "de": {
-          "title": "Minister Göktaş nahm am Empfang zum luxemburgischen Nationalfeiertag teil",
           "summary": ""
         }
       }
