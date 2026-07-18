@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-07-18T06:19:47.741Z",
+  "generatedAt": "2026-07-18T08:59:34.512Z",
   "items": [
+    {
+      "id": "8572a00a0c65e3305426880ebdc6b02aa2053fa8",
+      "title": "IA de Biliões, Notas Suspensas e Notícias que Afetam Luxemburgo e Portugal",
+      "url": "https://www.youtube.com/watch?v=1bLrrvu7t-Q",
+      "source": "LuxNeva Music",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "pt",
+      "publishedAt": "2026-07-18T08:47:21.349Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/1bLrrvu7t-Q/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAArgIigIMCAAQARgTIE0ofzAP&rs=AOn4CLBC4lRl8JG0eOM55NSrjNJlEHphdQ",
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "AI vu Milliarden, Suspendéiert Notizen an Neiegkeeten déi Lëtzebuerg a Portugal beaflossen",
+          "summary": ""
+        },
+        "en": {
+          "title": "AI of Billions, Suspended Notes and News Affecting Luxembourg and Portugal",
+          "summary": ""
+        },
+        "de": {
+          "title": "AI von Milliarden, suspendierten Banknoten und Nachrichten, die Luxemburg und Portugal betreffen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "IA en milliards, notes suspendues et actualités affectant le Luxembourg et le Portugal",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ae91fdcc45809cf2c517651a0da585485810a5bf",
+      "title": "ИИ-прогноз на матч Люксембург до 20 - Болгария 18 июля 2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUlvMDQyOV9SODd2WTRydGlmRy11alJTMWxtTEtfNEpadUhTdkxrU0Z2LVFUb0lVcEtLX00yWWdSdFhwTjh5ZFB4eVJuLXhPN0IzOFBxdE9SYjRHeGJGZWp0ZkhJM3BucTZ3UlI3WFU2TkpBLWNFRUtLWHd1dHAzNw?oc=5",
+      "source": "Ставка ТВ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-18T07:04:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "AI Prognosen fir de Match Lëtzebuerg U20 - Bulgarien 18. Juli 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "KI-Vorhersage für das Spiel Luxemburg U20 - Bulgarien am 18. Juli 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "AI forecast for the match Luxembourg U20 - Bulgaria July 18, 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prévisions AI pour le match Luxembourg U20 - Bulgarie 18 juillet 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5d8e61fe04925b6c6ed67452171818905b9415de",
+      "title": "Mehr Drogenfunde in Luxemburg: Flughafen als Transitpunkt",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHlwUzF4NHpxS05LaXNvMXlLOGw0UlNJcjdLZVJyTmVJOUpBekxTd0JYeVhRNHFvT3FxV0MybkgwVDBjam5QU1YxZTkwNFdNbVZ6LTdnVlU0VFNIM19FZnQxeEczQWlFVDJqSGlQTEdNME53MmlpX05IYVYwV00wQlhyVll3b2RwNUxEMXBHMXBoX0I5LWg1eHVuUGo4Wl9zQmFYVzUyT3RIeF80R3ZONVlB?oc=5",
+      "source": "Wochenblatt Reporter",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-18T06:29:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance",
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Méi Drogenentdeckungen zu Lëtzebuerg: Fluchhafen als Transitpunkt",
+          "summary": ""
+        },
+        "en": {
+          "title": "More drug discoveries in Luxembourg: airport as a transit point",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Davantage de découvertes de drogue au Luxembourg : l'aéroport comme point de transit",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ffb7fd6964bc0f4348e48be176402b6d62d204b3",
+      "title": "Hong Kong Overtakes Singapore, Switzerland, Luxembourg, and Dubai, Reinforcing Its Position as the Top Destination for Family Offices, International Investors, Executive Travel, and Long-Term Wealth Planning",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sanpwZEJDXzVJc2NJZ0JFSWNCMU54YVpHeTZMSHFoU2pLdmdfME5uYm9fRzlfUm5EMGVQbG1oWjZHMUhxRXpVdG1uYnA3M1RpOEVuX3hWaG41UjNQUFRUN0k4VnhkUENOb1h6RW1n?oc=5",
+      "source": "Travel And Tour World",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-18T06:29:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance",
+        "travel"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Hong Kong dépasse Singapour, la Suisse, le Luxembourg et Dubaï, renforçant ainsi sa position de première destination pour les family offices, les investisseurs internationaux, les voyages de dirigeants et la planification de patrimoine à long terme",
+          "summary": ""
+        },
+        "de": {
+          "title": "Hongkong überholt Singapur, die Schweiz, Luxemburg und Dubai und festigt seine Position als Top-Reiseziel für Family Offices, internationale Investoren, Geschäftsreisen und langfristige Vermögensplanung",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Hong Kong iwwerhëlt Singapur, Schwäiz, Lëtzebuerg an Dubai, verstäerkt seng Positioun als Top Destinatioun fir Familljebüroen, International Investisseuren, Exekutiv Reesen, a laangfristeg Verméigensplanung",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "b85d62e92cdaebf270691b76c643154a2131f2f4",
       "title": "Wall Street Zen Upgrades Codere Online Luxembourg (NASDAQ:CDRO) to \"Strong-Buy\"",
@@ -55,6 +181,39 @@
         },
         "fr": {
           "title": "Le Luxembourg réduit la TVA sur le logement abordable",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "899712d0f6a02dc0dc3f3ff8c23d7f777aa7bcdb",
+      "title": "Interinos: Luxemburgo también empieza a quitarle la toga al “yo mando aquí”",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjBYS1owb0hIcXFJVFJ4bHBxMkM0TnZ5RVdHamZTZHVfdzdPdTJ1MEJKZDlGd2pvYl9ORDV5bVVtUHI0V0lqTHZWRkI4QTJSSlYxWFk0dmpVOVdFVTIyTlJWWjJ6eG82T2tuUkJJdFhjSE9yeGN0cHlJOTNjMUVHUW1KMzA0VU83dUV2MjJORjlaSHBYYmVMSUhCU0t2Zl9wMF9Kc2R3MkZNamgxdi1NSWNGazZIUQ?oc=5",
+      "source": "diariosabemos.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-18T04:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Zwischenzeiten: Auch Luxemburg beginnt, die Toga „Ich habe hier das Sagen“ abzulegen.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Interims: Luxembourg is also beginning to take off the toga of “I am in charge here”",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Intérimaires : le Luxembourg commence aussi à enlever la toge du « c’est moi qui commande ici »",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Zwëschenzäit: Lëtzebuerg fänkt och un d'Toga vun \"Ech sinn hei zoustänneg\" ofzehuelen",
           "summary": ""
         }
       }
@@ -117,6 +276,68 @@
         },
         "lb": {
           "title": "De Lëtzebuerger Fluchhafen gëtt ëmmer méi en Hub fir Drogen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "1b70e1e57928ab059d01446c43838870b4710d24",
+      "title": "Internationaler Drogenhandel: Luxemburger Flughafen wird zunehmend Drehscheibe für Drogen",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWHRuY1VYVkZEaFVBM000QmNuXzEtcnVRVWxVZ09oUFptSXRBRldSRUJRT0JaUWZHSzNCZFlhSVlva3ZGdW5Wck84ajhPWDVQeWV1MlA3ZGl1eVMxbmFyenRYQUZleTJpd3NTeVBjUlhOY0RBajAxeDZsZER1bDFGcWlFeWZuNHJYVGZQUWczWE9XUjZRcHBwaHdoLTNDNzhiOS1oMV9QNDBfdE9lS2tZV21iMnNIZDZxYzZaMUZpZ1V4WlpCTUJadmkwY2daLUlibmx5cU5NU1VPbkVZVXdyZmNfc1BLMFRLUWVydkd1a0lETXV0ME5HNXp5ejk4eVBJRmc?oc=5",
+      "source": "STERN.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-18T02:00:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Internationalen Drogehandel: De Lëtzebuerger Fluchhafen gëtt ëmmer méi en Hub fir Drogen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Trafic international de drogue : l’aéroport de Luxembourg devient de plus en plus une plaque tournante du trafic de drogue",
+          "summary": ""
+        },
+        "en": {
+          "title": "International drug trafficking: Luxembourg airport is increasingly becoming a hub for drugs",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e7be70dd160d04a5be105bff30d256313b6f7f38",
+      "title": "Berbourg fikstürü - Futbol, Lüksemburg",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16MnJlYzVTVTI5QzJRa2xESDlPSU52WlZHRGFzSi1GaW4yNXNlUVNLbUtsVjBRM3o0Z0lmSEhRTWFfajI3LW1BZUcyNDVoNjlSdFo2OTVLNThLTUJ5Q0UtajFjVTZabE5vci0yNGhyU2s3TmVPUm93SEFnUQ?oc=5",
+      "source": "Flashscore.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-07-18T01:29:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Berbourg Match - Football, Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Berbourg prochain match - Football, Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Berbourg Spielplan - Fußball, Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Berbourg fixture - Football, Luxembourg",
           "summary": ""
         }
       }
@@ -217,6 +438,39 @@
         },
         "lb": {
           "title": "Galerie CMI Luxembourg / Moreno Architecture - 6",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "859b43c363d9cea606585a3377bd906704300798",
+      "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 1",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOVkhSRFdDWXRBbkpZWGhKWF9CNHJIYkdmSlVSVEZXMmdIVWdocjRwZHFCRmtMN2Z4ZlI3OWpjbzFEb0dwenp6eXljXzM0eWRmTklLeU9xU3A2MHBoNHVLYU02S2lVYU5scnRsdFctNW9nUFQ0Q1g4MnhQOU85SUszeTVSRzQyemVGT0RCVlA0VTZKSmtBNmFfaHo5ZXM4YlFsWUtLZWRlRWpreTM4SG5WSE9odS1JMFc0VU42d215cUVhTW0yNlh5WTM0WkRITmhCV0x5NFZtMXgxNTRzQ3RVejc0Qmo4Q21WQ3VlcVJGYzJ2XzZMQl85NU00eDBUa2JOUTg2ek13Qlp6Zk9xSGZLTW5JTVF3anBSYzZJcjlmSWs4bHV5NWxMT1V4bXdpQzFOM3BCaEZYaXQxTkdENFg3YXp0cndLWFZITXJnTUo2dWpRNEtCY3ZvSU8yclVGSEpZVUZWWnpmdw?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-17T18:43:21.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 1",
+          "summary": ""
+        },
+        "en": {
+          "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 1",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ Architektur + Management - 1",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + direction - 1",
           "summary": ""
         }
       }
@@ -47388,270 +47642,6 @@
         },
         "lb": {
           "title": "Den Ilham Aliyev huet dem Groussherzog vu Lëtzebuerg gratuléiert",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ef5181fff42779eefff48861bad453edd116b79c",
-      "title": "FENPROF e SPE reforçam no Luxemburgo a defesa dos docentes do Ensino Português no Estrangeiro (EPE)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHJFbmNTTExMQTNyNW5vUWJpOWRLbkVINVRsamV5YWwzM3dzVkh0QWtRSC10SVFoQjQ1bENONDFCa0pNVUFmMnpKTnFFMTROcVJEVXg1T1lHY3B5SGExNjhpSHBHdnQzNFQ4SkcwcFRFbGZLZ1Qtc0UwbnB1Vy1UZmxCSmt5cTE1TmNNNWptejBxYUpxQlA3c2pia0NSZ3RhN0tMU1NXaV81VGRoTlVKR1NSUUhXWmlsQXMwZw?oc=5",
-      "source": "fenprof.pt",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'FENPROF an d'SPE verstäerken d'Verteidegung vun de portugiseschen Enseignanten am Ausland (EPE) zu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "FENPROF and SPE reinforce the defense of Portuguese Education Abroad (EPE) teachers in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "FENPROF und SPE verstärken die Verteidigung der EPE-Lehrer (Portuguese Education Abroad) in Luxemburg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "FENPROF et SPE renforcent la défense des enseignants de l'enseignement portugais à l'étranger (EPE) au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c037b8a8b76eab3841debcaae1718289409ae519",
-      "title": "Праздник 23 июня: В Люксембурге отмечают Национальный день",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbjZsNU1aRjlScWpDdmp6TDVidlhNWDhhejRQSzBWRW04QnhDWDBCaTYySEJtTEhJcVRyZUYzVDdQTDlzWjV2TEZyUS1IcGFNZGhXNmRuX1lRWGNtYVhNdUpBZjI4WlRVMFpNWDVxNjlFR1g3dnpTYzlCTWFuaW5RSWVKb3FGQQ?oc=5",
-      "source": "UA.NEWS",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vakanz 23. Juni: Lëtzebuerg feiert Nationalfeierdag",
-          "summary": ""
-        },
-        "de": {
-          "title": "Feiertag 23. Juni: Luxemburg feiert den Nationalfeiertag",
-          "summary": ""
-        },
-        "en": {
-          "title": "Holiday June 23: Luxembourg celebrates National Day",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Jour férié le 23 juin : le Luxembourg célèbre la fête nationale",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8d614553c9a588c9268363b78983e79d3ad70064",
-      "title": "صاحب السمو يهنئ دوق لوكسمبورغ",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNV3c3UkEzR1RvZmtpUW5QMlJReXh5VF85bHhqZjVJUDBuV0lHaVhzVnoyVm5Jc0JZWWo0SU9lTF8tOWZjc2FsQXE4bURuQ1JmbzF5cHpmUWRmeVFWMzB3anBnT05IWE53U2tlYUNQNWpTR3lmWmV4NnMwbmJza2ltYmxsVHRhVkgwUUwyYmhiWF9hY1lLb0FRZ3cwTVdDRzFQbzBIdU1aUFdiWVQzVlVuLXNWTU9SQ243NEZjTFVQOWd0clpheHg0dEdHQUpQTXI2Z2RwVjNLQnVHdkJWbFROQUZKc2xPMFhXLWVqT0R2NURnOFRIZDljcC1BUHFEeHdHSmpKdjRyN1g2M2pNbXlOYlhGODbSAZoCQVVfeXFMTklCNjJ2ZWRuNEJDcW12aVpSd0hhdnBEUlR1U1JwNU5OQnFMQVJMdFpia2FLMUxDUzh2d2RCdWtmNjhvUGNmeWdld1hCOG5YcHRJYmd0aU1EMDRkeEpwbm1PSFgyMW5kcTFiSTJMNTVzQzlBOFY4TlUwQnJvcVVuTnV3OFRhX0lacVpndF9HaV9RWnRwTl91dTdMVGNsNFJ0RGdvbEpxbnBocmRxTDRQWTVTMDFIYWtZMWptSFd6VzZFbW5rMkV3UUtOQ0MwbFZPbV9nTnpfaW9VUkt0NWdfTERLOXBUa0EwUExYaHZxZjVDX2VLaExYUnNjUjdjODdmNVg3dm1mcGdqUEd4ckxOOTBjV3NlVGQ5b2VR?oc=5",
-      "source": "جريدة الراية",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Seng Héicht gratuléiert dem Herzog vu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "His Highness congratulates the Duke of Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Seine Hoheit gratuliert dem Herzog von Luxemburg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Son Altesse félicite le duc de Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "acdd1ac43f68047d8e3fe368fc2d48ef5faaab72",
-      "title": "6.22 卢森堡大公纪尧姆五世和大公夫人斯蒂芬妮出席国庆节前夕活动，也是他们当家做主的第一年",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzQVhUSGo5cExVNFBUdzdmbUhqZW0wWmJQbUJ6ZDZKcE03eE5KZkFlaVByUm5Xa3ZudlN3dlZfZUtiR2J6cnRBVXNpak90NTE1TFZkYWZTTVYyVEhuVlRmRGVlaw?oc=5",
-      "source": "新浪网",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "6.22 De Grand-Duc Guillaume V. vu Lëtzebuerg an d'Grande-Duchesse Stephanie waren um Virowend vun Nationalfeierdag bei den Aktivitéiten dobäi. Dëst war och hiert éischt Joer als Meeschter vum Land.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "6.22 Le Grand-Duc Guillaume V de Luxembourg et la Grande-Duchesse Stéphanie ont assisté aux activités à la veille de la Fête Nationale. C'était aussi leur première année en tant que maîtres du pays.",
-          "summary": ""
-        },
-        "en": {
-          "title": "6.22 Grand Duke Guillaume V of Luxembourg and Grand Duchess Stephanie attended the activities on the eve of National Day. This was also their first year as the masters of the country.",
-          "summary": ""
-        },
-        "de": {
-          "title": "6.22 Großherzog Guillaume V. von Luxemburg und Großherzogin Stephanie nahmen an den Aktivitäten am Vorabend des Nationalfeiertags teil. Dies war auch ihr erstes Jahr als Meister des Landes.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "27f983c9bf7aac02463354d5adc7bc9817446e78",
-      "title": "「日本人はしないって聞いた」「日本はどこに行っても同じだった」 ルクセンブルク人、イスラエル人、デンマーク人がショックを受けた日本の光景とは",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RZkhoN3ZBb2d2RjhGakNDUUpRLWNIQTBnOURkNTdsZE5tODdlYlpEc2l3d0tvaVM4RnlTZEVubmFFMWZxemFqYVlYbw?oc=5",
-      "source": "Hint-Pot | ヒントポット",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "``Ech hunn héieren, datt d'Japaner dat net maachen'' ``Et ass d'selwecht egal wou Dir a Japan gitt'' Wat war d'Szen a Japan, déi d'Lëtzebuerger, d'Israeli an d'Dänen schockéiert huet?",
-          "summary": ""
-        },
-        "de": {
-          "title": "„Ich habe gehört, dass Japaner das nicht tun.“ „Es ist das Gleiche, egal wohin man in Japan geht.“ Welche Szene in Japan schockierte Luxemburger, Israelis und Dänen?",
-          "summary": ""
-        },
-        "fr": {
-          "title": "«J'ai entendu dire que les Japonais ne font pas ça.» «C'est pareil, peu importe où vous allez au Japon.» Quelle a été la scène au Japon qui a choqué les Luxembourgeois, les Israéliens et les Danois ?",
-          "summary": ""
-        },
-        "en": {
-          "title": "``I heard that Japanese people don't do that'' ``It's the same no matter where you go in Japan'' What was the scene in Japan that shocked Luxembourgers, Israelis, and Danes?",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7a33de3dc97ccf4ad1c8ece9ea9a96b4b14d3275",
-      "title": "Bakan Göktaş, Lüksemburg Milli Günü programında konuştu Açıklaması",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdTQ1NzlOZ1N1SF9vTEFYaGhIQTdIOENRb3dzd0Fwci13SUJ6TjNJWWE4TEVtdjJLLW5hY3NIV1htdVM4YTczRUJCSExUX21KZ19hRDUzVzJNYmtRQmR5NFM2RXVueTJMSzFuYk52YThrbmY1bEFtNlpGRXNDOER4RmlWXzQ5NDFqdEVMekU0b3V2N1BQRG5RUVJ0bi1VYjY4LUxnNtIBoAFBVV95cUxQWk9FRGxXM2RuQUJJYnNmVkI4OVI3MWY5dm9rLXozQ1RxNWh2TFZPUVZHSU1kYmRYQUJwMXZJSUprdlFNdThzdS1zRmhVQnh5Nkt4TWpCN043bktYMG9VZmVNVXBadUpFZzZTS1ctOUN1YWhUNzA0S3VzTWhIRnNDV01oZFBWcVJrLWpmdEczall4WVQyVEdHRHRRU1hfM1Z0?oc=5",
-      "source": "Haberler",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Minister Göktaş huet um Programm fir Nationalfeierdag zu Lëtzebuerg geschwat. Ausso",
-          "summary": ""
-        },
-        "de": {
-          "title": "Minister Göktaş sprach im Rahmen des Programms zum luxemburgischen Nationalfeiertag. Stellungnahme",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le ministre Göktaş s'est exprimé lors du programme de la Fête nationale luxembourgeoise. Déclaration",
-          "summary": ""
-        },
-        "en": {
-          "title": "Minister Göktaş spoke at the Luxembourg National Day program. Statement",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fe318f8820d35f89d9507d64bebd9fc52a16ec87",
-      "title": "Lüksemburg-Türkiye Stratejik İşbirliği Vurgusu",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnFZZHlWMnVOQXdTT0N0YUhaaEtmQ0xlWGlrVFlaaGNIX0ozQnQ1NWxOYlZQLVlDTDBlSW5XWk1PWHFaNW9nMTRpcjlmNmZoOWlRazdZQ2JYZVNRWHNCcHVjQnlNalRPSC1Qb05qOE1uOEJ5RzdPUndMenBXenhYdWVJVzdhd0dmdXlJRGRzbzBaZGZ4Z2V0a3RZUGRkUdIBlwFBVV95cUxPLXpNR2czRHREc1J0WWlyY0wySlhTS2hCaGVfR1dXQUE3RkotcVl6RHlTaTd6cDFYbS1fZ2p4V1dwMTBSMkFnRXNvZlJRWU1VNzZ3MVp1MmVvY1dfZUNodTZMZFRyOS1fSXpvMXVrbEM0WUJjeXhLZy1iTXlfdllSYWxLcTdkYlhuS29oRkpQRms1bE1ZdnZv?oc=5",
-      "source": "Haberler",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Accent sur la coopération stratégique Luxembourg-Turquie",
-          "summary": ""
-        },
-        "en": {
-          "title": "Emphasis on Luxembourg-Türkiye Strategic Cooperation",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Schwéierpunkt op Lëtzebuerg-Türkiye strategesch Zesummenaarbecht",
-          "summary": ""
-        },
-        "de": {
-          "title": "Schwerpunkt auf der strategischen Zusammenarbeit zwischen Luxemburg und der Türkei",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "86473a470d65af3eabbafc37a3157e99fe8efec3",
-      "title": "Президент Ильхам Алиев направил поздравительное письмо Великому герцогу Люксембурга",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aclpSTWNxMVphNW1GekZDa3VQazRfcElRM2xUTVE1am5QeGNvYUg0UnNNbVNkT1dnczMwNC1GZmt4T05CNG92NFEteE1KMWhfYVhDWml3Uktaa0puYzVz?oc=5",
-      "source": "Day.Az",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De President Ilham Aliyev huet dem Groussherzog vu Lëtzebuerg e Gratulatiounsbréif geschéckt",
-          "summary": ""
-        },
-        "de": {
-          "title": "Präsident Ilham Aliyev sandte einen Glückwunschbrief an den Großherzog von Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "President Ilham Aliyev sent a congratulatory letter to the Grand Duke of Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le président Ilham Aliyev a envoyé une lettre de félicitations au Grand-Duc de Luxembourg",
           "summary": ""
         }
       }
