@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T22:08:19.327Z",
+  "generatedAt": "2026-07-18T23:12:00.394Z",
   "items": [
     {
       "id": "766485c0558f30203721721223ad085daf707252",
@@ -68,6 +68,39 @@
       }
     },
     {
+      "id": "88a818b5817a402c39fc0218161a9a64e68dbfa2",
+      "title": "Статистика 1 дивізіон Люксембургу 2024/2025",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRldyNGlPTFNfN1gtbzN1bmV2WkIzU2hqTHdEeGtLbGtMTHYtbW1yTUxSc0Jvdno3OGlEeXF4OEJLSVhiMmtLSldLd0s1YkMyYk1ad3g5NlRIbnBaTTJsMmN2eTZlUzBKNXk5WnV5TGVsT2FMXzhGdzJVb3JUNHJWYTVFcG5ORmlxVXRSa0ZLQTZVMV9Cemcw?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-07-18T17:33:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerger Divisioun 1 Statistiken 2024/2025",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Division 1 Statistics 2024/2025",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg Division 1 Statistiques 2024/2025",
+          "summary": ""
+        },
+        "de": {
+          "title": "Statistik der Division 1 Luxemburg 2024/2025",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "b486a40f56dfd14f1d5efa4d365257142c24fc70",
       "title": "Luxembourg Quantum Computing Companies 2026: Complete Vendor Guide",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SLUx2Tnc1WmM4dU1xM2xrVE93NDBjUVhZMWVBS2VhTmh6NS1FRTlJT2Jtd3ZjT3B0eEdqQkQwcjYtd3Z6V1ZtQ2JaSTlsQkRpTlhuVXJtSHhLYkR3YjVQSV9lQU1TSlNJbzk2ZEpSUVNxR2lIOXZZ?oc=5",
@@ -92,6 +125,72 @@
         },
         "de": {
           "title": "Luxemburger Quantencomputing-Unternehmen 2026: Vollständiger Anbieterleitfaden",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d2f6080192da9f106caa7f7e9729cdbd8418e56f",
+      "title": "Статистика 1 дивізіон Люксембургу 2017/2018",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1RNTC0wWkZqWWdTRnF0RjhuMHZ1YnBJaGpkNGJWR3hPOWU3d1BKYk82TEpjTzNOX2VIbjYtM2FsNzRPLXJvY1Q4WlBZWEtHVEs1Z1lVWXFaZGlMYjRkQWRhbTd4VTVvUmF3cnBxb1ZKcVVBMTUyRnpoTE1aSjFrVy1mUEZsaTE1bzUzSnJNQmZnakRPNkVJ?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-07-18T16:58:40.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Statistik der Division 1 Luxemburg 2017/2018",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Division 1 Statistics 2017/2018",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger Divisioun 1 Statistiken 2017/2018",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Division 1 luxembourgeoise Statistiques 2017/2018",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e516f1dd19f448118e09508cf9ea0ba22d2bd62c",
+      "title": "Статистика 1 дивізіон Люксембургу 2014/2015",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVm1rQ0ZOSDNRZGNfRHNRTmFQMlUzbV9ob3A5RUh1UEZFTDhVenZPLUVqMlNHWHFNYWhKOXVEeXl5WjAxaFA3X2lxV3pMWjhiTEdaM0dCNGt2Z2s5ckxlQjJsOVZ0d3J5QXlyQUpCR01VdjBDRnhQVnFSRWM4QXVsLU9IQVBaVF9vLU9wTlc2WVo4RHBGT1Ew?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-07-18T16:42:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Statistike vun der 1. Divisioun Lëtzebuerg 2014/2015",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Statistiques de la 1ère division du Luxembourg 2014/2015",
+          "summary": ""
+        },
+        "de": {
+          "title": "Statistik der 1. Liga von Luxemburg 2014/2015",
+          "summary": ""
+        },
+        "en": {
+          "title": "Statistics of the 1st division of Luxembourg 2014/2015",
           "summary": ""
         }
       }
@@ -47519,105 +47618,6 @@
         },
         "lb": {
           "title": "Ripple kritt virleefeg Genehmegung fir d'Lëtzebuerger Krypto-Asset Service Provider Lizenz",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "215218b92b8e7c765408e23f684013a02e325fde",
-      "title": "ルクセンブルク、スマートモビリティの欧州拠点目指す 新支援施設とインフラ投資で自動運転を推進 金融の「次」を創る産業多角化",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42dlN6X1dZSDRBLVpRck54SDRRbl9pVWduQk8tVVpzYTgwa0tTLU83c3YweklHeFYtVlYweTZhSWVHRVUtOXlpYVJOeEQxbF94NmdhUEs4eVB4cGxGQ01PSnBFRm0zbW5VX0xEV01PUmEzT1Js?oc=5",
-      "source": "ジョルダン",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-06-23T08:27:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg soll en europäeschen Hub fir intelligent Mobilitéit sinn, autonom Fuere förderen mat neien Ënnerstëtzungsanlagen an Infrastrukturinvestitiounen Industriell Diversifikatioun fir déi \"nächst\" an de Finanzen ze kreéieren",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg möchte ein europäisches Zentrum für intelligente Mobilität werden und autonomes Fahren mit neuen Unterstützungseinrichtungen und Infrastrukturinvestitionen fördern. Industrielle Diversifizierung, um das „Nächste“ im Finanzwesen zu schaffen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg aims to be a European hub for smart mobility, promoting autonomous driving with new support facilities and infrastructure investment Industrial diversification to create the “next” in finance",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg vise à devenir une plaque tournante européenne de la mobilité intelligente, promouvant la conduite autonome avec de nouvelles installations de soutien et des investissements dans les infrastructures. Diversification industrielle pour créer le « prochain » dans le domaine financier.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3160867b96fc87d94341df86e8d67c6bbdb1da23",
-      "title": "رئيس الدولة ونائباه يهنئون دوق لوكسمبورغ باليوم الوطني لبلاده",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzhIc3JxZFVKa2lKTU1wQzMzZUM5cE5TWmdTdnlPQ203cnlrQWpaOHNWSkk2TGIxUVNqSkEtSXpnRHFyMVh0NTFSVXRYcDdETUI5VWx5NERfbHgzY1FrTEVmRjZuWGk1WWFWT0JtVm9VMzhMQjJ6a0pHbFhDaWFzM3g0cnkzLWNXMTJmTzB0S0FIRGhDM2I5MGh3QQ?oc=5",
-      "source": "Sharjah24",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-06-23T07:07:28.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Das Staatsoberhaupt und seine beiden Stellvertreter gratulieren dem Herzog von Luxemburg zum Nationalfeiertag seines Landes",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Head of State and his two deputies congratulate the Duke of Luxembourg on his country's National Day",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Chef de l'Etat et ses deux adjoints félicitent le duc de Luxembourg à l'occasion de la fête nationale de son pays",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Staatschef a seng zwee Deputéiert gratuléieren dem Herzog vu Lëtzebuerg fir säin Nationalfeierdag",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "57d3502e218c0fb56b06ee1b581f36576d5494a3",
-      "title": "Ripple 获得卢森堡加密资产服务提供商牌照初步批准",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaU9uZEk1cjF2ZDBQNUlUZGZBTTF3S2NpMWhfVVJuVXpKSF9yNVhOcXRfZGsxdFJ0SnpvN1RoTHhOSjBIcFo2dUs5eWlDX0Z3ejBRREJITDBQYTVYY1AtdnFQekNzZV9ZVkhJd3ppYjZlWU5RT2Q2OFlHdHFFY0gydUFMOVVjTVZRdlB6STFDVnNKVnhZZkFReEM0UjI5OU93RWRmMHN1N3Y?oc=5",
-      "source": "富途牛牛",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-06-23T07:05:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Ripple kritt virleefeg Genehmegung fir d'Lëtzebuerger Krypto-Asset Service Provider Lizenz",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ripple erhält vorläufige Genehmigung für die luxemburgische Lizenz als Anbieter von Krypto-Asset-Diensten",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ripple reçoit l'approbation préliminaire pour la licence luxembourgeoise de fournisseur de services de crypto-actifs",
-          "summary": ""
-        },
-        "en": {
-          "title": "Ripple receives preliminary approval for Luxembourg crypto-asset service provider license",
           "summary": ""
         }
       }
