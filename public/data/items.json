@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-19T19:33:11.104Z",
+  "generatedAt": "2026-07-19T21:08:33.498Z",
   "items": [
+    {
+      "id": "b346b4ebf8eded23ed93fe2b98f9beca899443d8",
+      "title": "ルクセンブルク新興支援手厚く テックイベント参加4社が報告",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45TWVTR2pHb2ZEZlNnTEEwU09wU1NJQmhQMWN0TzVxaWdkcW1fOHZiSTN1VFJZZUl4RWY5WmxQUjhiODJvek1TamRzdFgxUkJVUkNqX2oxdW1OX0U?oc=5",
+      "source": "日刊工業新聞",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-19T20:03:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Quatre entreprises participant à un événement technologique font état d'un soutien généreux aux startups luxembourgeoises",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Véier Firmen, déi um Tech Event deelhuelen, berichten iwwer generéis Ënnerstëtzung fir Lëtzebuerger Startups",
+          "summary": ""
+        },
+        "en": {
+          "title": "Four companies participating in tech event report on generous support for Luxembourg startups",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vier an der Tech-Veranstaltung teilnehmende Unternehmen berichten von großzügiger Unterstützung für Luxemburger Startups",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "c1e5533a40808f0cdb2714ad428f015717526a86",
       "title": "画廊 由 STDM 与 Mikan 设计的2025年大阪世博会卢森堡馆，探索韵律与模块化 - 2",
@@ -47590,39 +47623,6 @@
         },
         "de": {
           "title": "Luxemburg – Zivilluftfahrt, Raumfahrt, Chancen für tschechische Exporte. Globale Branchenchancenkarte 2026/2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7055428e368ff1d7351e55cc9b31b2204fdb40be",
-      "title": "Lucembursko - ICT, elektronika, kyberbezpečnost, příležitosti pro český export. Mapa globálních oborových příležitostí 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUZqLXJUWmlXU01WQ0RUd3VyV3M2N0Z1RFNxVVlzbVlXM1BlUkRYU1MtaEl1Wm94UENRRE1PbDhGRnpBTzBOUUZXc2N5MFlIc3JzZDhJOFIyOEc0SFZvUlpPOFdiRFoxamN3RXZ6WC1wZlB3VkIxckFDTFlrRm9FaFdCb2MzYUViU2RZWG1lZ25RSXRqa0c2U25hOFVNOGwyUkgxYmJJTkJ2WFhKMUpyajRnSDFrS0xjbHUwSTZn?oc=5",
-      "source": "Zprávy Kurzy.cz",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Luxembourg - TIC, électronique, cybersécurité, opportunités pour l'exportation tchèque. Carte des opportunités mondiales de l’industrie 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - ICT, electronics, cyber security, opportunities for Czech export. Global Industry Opportunities Map 2026/2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg - ICT, Elektronik, Cybersécherheet, Méiglechkeete fir Tschechesch Export. Global Industrie Méiglechkeeten Map 2026/2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg – IKT, Elektronik, Cybersicherheit, Möglichkeiten für den tschechischen Export. Globale Branchenchancenkarte 2026/2027",
           "summary": ""
         }
       }
