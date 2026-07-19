@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-19T16:13:59.542Z",
+  "generatedAt": "2026-07-19T17:18:16.415Z",
   "items": [
+    {
+      "id": "1dc998f10ddfcaf3c6e0c88636743f46c66aa09a",
+      "title": "Trots flera diabetesskador – Lars-Göran, 74, tar sin trehjuling till Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0Zsel8yM1BjTU9vRGlEanRybktjRWJCVGhyLWpKMG5MM0xiSjJsX2NRY0VuejRtYWZtdlhPSG15Uzd0N1p4Z2d0RlJBZ3ZwZnFhcVF4R2JHNTZtRFNYVU9sM3NRdmFUU1BYM2tWTmljd3c1SWRhLWVoWG9Ra3VmeDNWX1F0VXFGNU4xVXlveVhKaC1WM2hqRXlWaDZqYl9rMVdUag?oc=5",
+      "source": "Blekinge Läns Tidning",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-07-19T16:09:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Trotz mehrerer Diabetes-Verletzungen – Lars-Göran, 74, fährt mit seinem Dreirad nach Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Despite several diabetic injuries – Lars-Göran, 74, takes his tricycle to Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Malgré plusieurs blessures liées au diabète – Lars-Göran, 74 ans, emmène son tricycle au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Trotz e puer Diabetikerverletzungen hëlt de Lars-Göran, 74, säin Dreirad op Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "b37988fd2aacea29ba91516ac59b2020ccc964f0",
       "title": "Heingroup completes sorting plant modernization in Luxembourg",
@@ -30,6 +63,39 @@
         },
         "de": {
           "title": "Heingroup schließt Modernisierung der Sortieranlage in Luxemburg ab",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7842652dc0ba5f6baa918765e42859736f4c0f23",
+      "title": "ルクセンブルク 0 - 0 アイルランド：マッチレポート、統計、ラインナップ、H2H",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjZ0QzQ0cTVZRGFISEJYa1ZKbmYyUWZXekJYazNpVVN1cmRDeElFS1pHTGpQeTF0NGdVZTJaUldfbTJzOXd1cjFob2JvN1duS3pmcUVfUjI3dkZLLXQxOW9aNkJVUWpUZUJyM3ZKc0h3dUNrZy12My1nVGJIVU4xYmRwY3VFRFpq?oc=5",
+      "source": "365Scores",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-19T12:04:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Luxembourg 0 - 0 Irlande : Rapport du match, statistiques, composition, H2H",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg 0 - 0 Ireland: Match report, stats, line-up, H2H",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg 0 - 0 Irland: Spielbericht, Statistiken, Aufstellung, H2H",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg 0 - 0 Irland: Matchbericht, Statistiken, Opstellung, H2H",
           "summary": ""
         }
       }
@@ -510,6 +576,35 @@
         },
         "de": {
           "title": "„Luxemburg kann als Brückenkopf für Koreas Beitritt zu Europa dienen … Grenzüberschreitende Implementierung medizinischer Daten“",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2a4d3cb09d8cb56777c82aa3bb0fa7f30f667042",
+      "title": "Luxembourg Becomes Gateway for Korean Healthcare Data into Europe",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52UjVsWi1zM0lORlltRjdWa0JxR3ZDMm1ZMXJkRG9TTm5lNU1RMzFIblFKZnpqT1ZpajJNQXN1Z3dzWUdnMHZFQXpTOTZXenh3cDMxQw?oc=5",
+      "source": "동아사이언스",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-19T00:02:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg gëtt Gateway fir Koreanesch Gesondheetsdaten an Europa",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg devient la porte d'entrée des données de santé coréennes vers l'Europe",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg wird zum Tor für koreanische Gesundheitsdaten nach Europa",
           "summary": ""
         }
       }
@@ -47524,105 +47619,6 @@
         },
         "fr": {
           "title": "OpenLux dévoile les nouvelles entreprises de riches espagnols au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7f99edfa7cc2d7e5e1a469300b787f96b4b81880",
-      "title": "Waarom Stéphanie en Guillaume van Luxemburg wel wat opwinding kunnen gebruiken",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTnFPd0ExZjIzVllFRFRhTFZ4T3pldi1IZzA3cDFvUGhqR2FQSWlqNUlzazJEMWRGSll1WmlHQ29KTGxKdmJHQnViRDFfaElCUklfSkV2c0ZKN2lIM2Z0dXd1bVcxZ1A0SGJyMmY3UV9kbmVIMWVnOHkyVWJKUWg3NlU0X1F4OUNFT0EydVNQUQ?oc=5",
-      "source": "Libelle",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Warum Stéphanie und Guillaume aus Luxemburg etwas Aufregung gebrauchen könnten",
-          "summary": ""
-        },
-        "en": {
-          "title": "Why Stéphanie and Guillaume from Luxembourg could use some excitement",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Firwat d'Stéphanie an d'Guillaume vu Lëtzebuerg e bëssen opreegen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Pourquoi Stéphanie et Guillaume du Luxembourg auraient besoin d'un peu d'excitation",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e28eb9319289360d0603348327f46b064b4ce62b",
-      "title": "Ia românească sărbătorită în Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalRPM1hQdDJwekVDYm9kdWNLTDNmRGxDd01XUzA5NDNvdFJhMVdfZVZ5SUtQN3ZhSDhPczZ2bEhYUlpRWU9fNm1IY2pzYjRhUVI2WVoySF9SMmo0VzhXbDgtYmMwU0RmYzNOWHpPbXlnN3pvcXBaTC1DdFJfbmF4NDViOWl4RHZTdWQwLTEyeXdra0JhN1l4TzJlVldqQmRwOTQ0NWhnZFB2Zw?oc=5",
-      "source": "Ziarul Lumina",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Rumänesch Ia zu Lëtzebuerg gefeiert",
-          "summary": ""
-        },
-        "en": {
-          "title": "Romanian Ia celebrated in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Rumänisches Ia in Luxemburg gefeiert",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'IA roumaine célébrée au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2842a078b943c2586b693244dbd1a27d97673d43",
-      "title": "La investigación 'OpenLux' revela nuevas sociedades de grandes fortunas españolas en Luxemburgo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWhNYkowdGYzTFBMUWVkb0paTmlIUXhSMUhQRElTNnVNbWkwZk9maG5xWVhidy1vWkRFRFpJUkF4UE5NTU96eHJ5MnNoT0l1QzJMU0FDdUhPd1ZpM2NTRld3aUx5R0QyRWlCOTRKbmNTUmlnRGZuY2gzYko0U045a0RLaUVZRzdMLUYxUWtrc1hVN2RuelRGSXJQRVNIRHBQblBRSko4bnBmdw?oc=5",
-      "source": "Yahoo",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Enquête 'OpenLux' weist nei Firme mat grousse spuenesche Verméigen zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die „OpenLux“-Untersuchung deckt neue Unternehmen mit großem spanischen Vermögen in Luxemburg auf",
-          "summary": ""
-        },
-        "en": {
-          "title": "The 'OpenLux' investigation reveals new companies of great Spanish fortunes in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'enquête 'OpenLux' révèle de nouvelles entreprises espagnoles à grande fortune au Luxembourg",
           "summary": ""
         }
       }
