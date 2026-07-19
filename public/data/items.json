@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-19T21:08:33.498Z",
+  "generatedAt": "2026-07-19T22:09:37.006Z",
   "items": [
+    {
+      "id": "680a361435524eb9c306b20f5f8b8bd52a3016f0",
+      "title": "Ποδόσφαιρο: Λουξεμβούργο - Βόρεια Ιρλανδία",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUtaMnhuSEQyNXlWZ1UwMkVRMXRXYXFrZGl3ZEthX0luVDNYdlNXd0dWT1dZS0xPUG80SFNFR0pKWTVxa1Nua0pQQnVrSVQ1RjR1MmlmWnBlem51WEVwZEtBZ2xaZnVzMk1iRjE2NzdQVjdVdEtaNzZoR2VvcGtBZzEwOEJVLVZp?oc=5",
+      "source": "cosmotetv.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-07-19T21:04:11.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Football : Luxembourg - Irlande du Nord",
+          "summary": ""
+        },
+        "en": {
+          "title": "Football: Luxembourg - Northern Ireland",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fussball: Lëtzebuerg - Nordirland",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fußball: Luxemburg - Nordirland",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "b346b4ebf8eded23ed93fe2b98f9beca899443d8",
       "title": "ルクセンブルク新興支援手厚く テックイベント参加4社が報告",
@@ -12487,6 +12520,35 @@
         },
         "fr": {
           "title": "ORTEC acquiert TOBA HR Solutions pour renforcer la gestion des personnels de santé en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6d499c7c4c63fdfb46451ca8ca62b230a576ed40",
+      "title": "A fugitive from Luxembourg robbed a jewelry store in Gràcia for 8,530 euros",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcWFJNy04b0RlTkF1Z2FzeV9FMmVLaHluWnZhcW1sUVVETHM4OTczMmRkcmhBZUVZLU9wb1FMWElsaXZaY255dWZjaDJqQTRyRjMtajNEZzZKUXhCWG9Pd3BONmtnbnZsczgxM096dDB5SWlpMlVmYndvWWNPcnV1WUVOdlBqaXV3S1FRNUYxNDdZdU9ZMXVsaFg5cDlMYVU2RzMzYk9DY3pBYmZPX3dBU0FZTWJXTUluNWxBalczNnJWaFNmbWJsa3lEM0F2eUtOOEE?oc=5",
+      "source": "APD Noticies",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Un fugitif luxembourgeois a cambriolé une bijouterie à Gràcia pour 8.530 euros",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Eng Lëtzebuerger flüchteg huet e Bijouterie zu Gràcia fir 8.530 Euro iwwerfall",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein Flüchtling aus Luxemburg hat ein Juweliergeschäft in Gràcia für 8.530 Euro ausgeraubt",
           "summary": ""
         }
       }
@@ -29382,6 +29444,39 @@
       }
     },
     {
+      "id": "f5fea30acb534acebc355744b390f4e892cdb915",
+      "title": "Urban Agency e COBE projetam masterplan para Esch-sur-Alzette, em Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjJpbXNYbk9EUDl6eTJlTHZ6SWZSS3Q2N0F6MGQzVm1HSnN6R2pESGk3eFEyRlBYZlNZVHBrMEZwMklCZGROTFZ1QkxRUkdrWW01TEsxdk9vRVltSmItRFhZZDBqMnF6Z3VTY2x5QUNPem9FS0cwRDFIdzNfN3NQbDVzclBZQWVsRDZGOWlEUFFwbWpKQkVmY3haM0xDZi1NWjZKa1VyWWw1dVFMMW92QllB?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Urban Agency and COBE Design Masterplan for Esch-sur-Alzette, Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Urban Agency and COBE design masterplan for Esch-sur-Alzette, in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Urban Agency und COBE entwerfen Masterplan für Esch-sur-Alzette in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'Agence Urbaine et le COBE conçoivent un plan directeur pour Esch-sur-Alzette, au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "bbfeb3429a6c1ed11f4bd6b398c5a89158e0de84",
       "title": "Люксембург-Болгария | О матче | Лига наций УЕФА 2027",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlRNTy0xVTA0VUpZdWh2N2xBel8ySHJyOHhaRzhCR3ptNjNfZlpGNmtrRWxaRnBWcS1uMjFHcHZZY1paaHU3QnRlNG41Y09uR2dZNTlkcFpvaEE5RlRaNnoySDFYT2hhRWRXakZzS19iXzg0NnYzaG9aS1lpR0tHemJLbDNNc0pSVjZ0U04ycw?oc=5",
@@ -36644,6 +36739,35 @@
         },
         "lb": {
           "title": "Türkiye-EU wirtschaftlech Relatioune goufen zu Lëtzebuerg mat der Participatioun vun héije Beamten diskutéiert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3c425349230fa71335306b5e4419076bf2cc73ad",
+      "title": "Grande Région. Économie : « Depuis 2022, la croissance zéro du Luxembourg passe inaperçue »",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEFxWHlDUDgwMXI1MXZZNzY3YjhQZ25VSm43QzViZUU1OHp1SWxRdy1wZDNiQlQ4OGVTZmhzMFMzZjZOZ3piWXNCTmxiRXRtU05uelR5WkEyVy1YYktfWXkzeWl4Ymd5U09nZkRHSDY2RDI1NmNLUkkxdWxNLTlfNjNLOG1kMGpQbXMyTmdweXhXb0VibGh4SHFDSWJQQnY5S3RIWlFYWTdxQnJHalRVTTcycDYzUGhveU8w?oc=5",
+      "source": "L'Est Républicain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-03T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "economy"
+      ],
+      "translations": {
+        "en": {
+          "title": "Greater Region. Economy: “Since 2022, Luxembourg’s zero growth has gone unnoticed”",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Groussregioun. Wirtschaft: \"Zënter 2022 ass den Nullwuesstem zu Lëtzebuerg onopgemerkt\"",
+          "summary": ""
+        },
+        "de": {
+          "title": "Großregion. Wirtschaft: „Seit 2022 ist Luxemburgs Nullwachstum unbemerkt geblieben“",
           "summary": ""
         }
       }
@@ -47491,138 +47615,6 @@
         },
         "de": {
           "title": "Luxemburg – Verteidigungs- und Sicherheitssektor, Chancen für tschechische Exporte. Globale Branchenchancenkarte 2026/2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3586c6678113ff366338b6b23a8018797be2bf93",
-      "title": "Lucembursko - Dopravní infrastruktura, příležitosti pro český export. Mapa globálních oborových příležitostí 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMnJJZzJsX1pfYkh2ZExiLWE1Sy13NFh5azVxM0U1eG5QMDFUWVl5eFlET3lWZGpLWnh3cnRkbjJLcUZ3R00yajdtZks0SU9Rd3hNcUJlYWpwNzVrZjBEOVBISDlXSnhyanp6b1VXakN5d0JVZW9GS2ZRQ2NMS1RZMHh3dFMyMjgyN08zR29raXd4NVZrbndtNFNwUGstUlZIYnZqcl9MbjFWTEkxZ09Vd2JVWFBhMWpnUDIxNXZUd0o?oc=5",
-      "source": "Zprávy Kurzy.cz",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg - Transportinfrastruktur, Méiglechkeete fir tschechesch Exporter. Global Industrie Méiglechkeeten Map 2026/2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Infrastructures de transport, opportunités pour les exportations tchèques. Carte des opportunités mondiales de l’industrie 2026/2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg – Verkehrsinfrastruktur, Chancen für tschechische Exporte. Globale Branchenchancenkarte 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Transport infrastructure, opportunities for Czech exports. Global Industry Opportunities Map 2026/2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "30b2ad8cae0e69c5e890a0a7fd9268c4296c0366",
-      "title": "Lucembursko - Voda a životní prostředí, příležitosti pro český export. Mapa globálních oborových příležitostí 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObU8wYzlIOHhwakpReTZfajJtbHZQWjJBRzgyQktUeDBRR2ZLSVdrY0ZXbFNUallwajJQdjlJVUM2cmUwN2dnVjAzYkdPOTV1QTlVLVRiT1JoLURXOFlPUTdJQlhHNUo0NENlMzYwb1BNSTgtSEg2RjJCN2xsbW1DR3Vzc29qQllhcVpkZTNyX0kwNHNNd2huUC1QaGpORnRGYzZsQ0laUlcwUE9uaW5zNHNMcy03MzdIOGh2a3plNFhLQQ?oc=5",
-      "source": "Zprávy Kurzy.cz",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg - Waasser an Ëmwelt, Méiglechkeete fir Tschechesch Export. Global Industrie Méiglechkeeten Map 2026/2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Eau et environnement, opportunités pour l'exportation tchèque. Carte des opportunités mondiales de l’industrie 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Water and environment, opportunities for Czech export. Global Industry Opportunities Map 2026/2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg – Wasser und Umwelt, Chancen für den tschechischen Export. Globale Branchenchancenkarte 2026/2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2b27442ddabc743e8e55bd120ee28afd11146eae",
-      "title": "Lucembursko - Výzkum, vývoj, inovace a vzdělávání, příležitosti pro český export. Mapa globálních oborových příležitostí 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcURJWVkxMzlLNFk4d2pQWjlGcXY1TlVMX202eUJENGRDYnVXUHd6WDIxRnZZdnh6VmxIQ0VfSkI4Q1MySW16SHN5SlZpbjlUT2RJdFV4TnNOOWRlNW5fYkhvVk5LTDNJYlRNczN0Qk14dEhPSVZKZ0tpVE9Jazg3NDJlbDJ1RWd1SDhrQzFKLWFpT2xWQlFXTWZMTHpyMlV2SHB4cjQwTGppR2xtYnAtcUl5eFBtcDNCRlVHaFVweE8?oc=5",
-      "source": "Zprávy Kurzy.cz",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg – Forschung, Entwicklung, Innovation und Bildung, Möglichkeiten für den tschechischen Export. Globale Branchenchancenkarte 2026/2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Recherche, développement, innovation et éducation, opportunités pour l'exportation tchèque. Carte des opportunités mondiales de l’industrie 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Research, development, innovation and education, opportunities for Czech export. Global Industry Opportunities Map 2026/2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg - Fuerschung, Entwécklung, Innovatioun an Erzéiung, Méiglechkeete fir Tschechesch Export. Global Industrie Méiglechkeeten Map 2026/2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "16f5ca07f4263b9f3ea4b51e84d61074123fbd54",
-      "title": "Lucembursko - Civilní letectví, vesmír, příležitosti pro český export. Mapa globálních oborových příležitostí 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbXJkUDltanJDbXIwaHFBQl85NzJiTmlBdXhsSkstQ19EMWROd3RNdmpNZ1VBSTMwbkZMMEFGaWtIWUZCdUVvTG5tQlZ5UW1aMmthZy1vdDRpRHJiY2Nka3hmWERwQkFnZUFUX0JZbGgteGZzWXM0T3hIaWZYVkxKZy0zNzU4VkF6NDlrU1p4XzBQUDl0SHh0Yjl0bV9FVWJFclpES3dOQTNfcUc4Z0pHWWYycThscUZDSVVXVjJKb3Y?oc=5",
-      "source": "Zprávy Kurzy.cz",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Luxembourg - Aviation civile, espace, opportunités pour les exportations tchèques. Carte des opportunités mondiales de l’industrie 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Civil aviation, space, opportunities for Czech exports. Global Industry Opportunities Map 2026/2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg - Civil Aviatioun, Weltraum, Méiglechkeete fir tschechesch Exporter. Global Industrie Méiglechkeeten Map 2026/2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg – Zivilluftfahrt, Raumfahrt, Chancen für tschechische Exporte. Globale Branchenchancenkarte 2026/2027",
           "summary": ""
         }
       }
