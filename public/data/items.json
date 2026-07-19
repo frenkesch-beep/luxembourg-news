@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T13:54:44.022Z",
+  "generatedAt": "2026-07-19T15:16:01.330Z",
   "items": [
     {
       "id": "b37988fd2aacea29ba91516ac59b2020ccc964f0",
@@ -191,6 +191,35 @@
         },
         "en": {
           "title": "Lars-Göran, 75, cycles to Luxembourg – for children with diabetes",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e4f39eb4b6731eb57f5b9b995870f835201c6f02",
+      "title": "Massenschlägerei in Luxemburg: Zwei Männer erleiden Stichverletzungen",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2Nrb1A2NWdfaTBTaldfaFZSOEZoVnpFUnViam5FRkoxeDJkWFJKVk1hNm1sME1uY0d6MHlLSGV1RlFBWE1lZm5TVHMxWi1sME1RM3lncjFqVGJkZl9uT0NhSlA2SEItX3JDYnpvOFNETEpEakhZVjR6bmFudlBOSENvc3NyWWE1RWV2R1YxdzQ3TDdodHZEdHJWR3FTVExreURyNWhMaw?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-19T09:31:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Mass brawl in Luxembourg: Two men suffer stab wounds",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Massesträit zu Lëtzebuerg: Zwee Männer gi mat Messer blesséiert",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Bagarre de masse au Luxembourg : deux hommes sont blessés par arme blanche",
           "summary": ""
         }
       }
@@ -47594,39 +47623,6 @@
         },
         "fr": {
           "title": "L'enquête 'OpenLux' révèle de nouvelles entreprises espagnoles à grande fortune au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5e1f76617641e40c581187ec2c70ac6de57ebc4d",
-      "title": "Luxembourg Times: жители жалуются на нашествие огромных пауков",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT1AwMk1IZFZpT0o3UlNNUTFwZ1gxLWF3YkthOWFycnRwbVNsbmJOdjIxZW54ZFNoZlFzUkdKYU9ISFk4VHBKSjVFajFMRnMzSV9fZHY3M2tDZXpQZHJ2RC12S2hEcFRJdzRDZThQdHAxLXBWTTRiLW1kMlNZRW43UVVOX0VER0tQTFpaX3Zob1JkbjBMXy10djNPZXRZZw?oc=5",
-      "source": "Общественная служба новостей",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Zäit: Awunner beschwéieren iwwer Invasioun vu risege Spannen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Times: Residents complain about invasion of huge spiders",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg Times : Des habitants se plaignent de l'invasion d'énormes araignées",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxembourg Times: Anwohner beschweren sich über Invasion riesiger Spinnen",
           "summary": ""
         }
       }
