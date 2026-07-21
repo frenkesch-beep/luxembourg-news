@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-21T18:41:18.191Z",
+  "generatedAt": "2026-07-21T20:36:57.300Z",
   "items": [
+    {
+      "id": "bd83341cc6bfe909dd6a96b45b0c1d57dd230ef7",
+      "title": "ЛК. Топ-сенсация от эстонцев, отключение света на Мальте и перестрелка в Люксембурге",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNejRSM2x2TDVUb0UtMlhSUGVMdVU2UlR3cGtZWTQyX2FqdnVLTDBRMFZDVDdBVFlxMkN4TTVGT0w5c2RzVUwyX01qbTdscHhlT1lBVi1KakZfUFpSeUdHUkJfd2ZrT1JpUi1OUlNES2E4bEJYOXpBWW5MVUdDZXhybHlmcmx4c19IRE1sWFVhcWhDcTVRMHdUdnp2Rk9SS3Y2Y3NETDExelZ2ZHMyZVJ0RFlDdTQ3eW8yaVB1MjBHUXlJblhQQkZfOFRldUJ3MUNpUGR1a2J0eUVZeVJWTEJaZC1JVS1oVWFjZE41etIB8gFBVV95cUxOZjVOazBXaDREZDliMF81aGVOTzRXYW0xUXJrQ0F4MDg4SmdMNUtiekFIQ0s4XzlRU1BxSkFNN3VHbWViYUlKYndOQ1RlMHFGdnFqV2hjUlIxZGZNTzhiV184eklhMUcwZ24xMG9vaVk3NG5ja09kZkk4V2tDVVJheE1UVHQyUUZCa2hVV0VySDlpUmN4c18zTG14Qjc5eTBRQk5LR3JJci1XM1lKNkZUaW5HZzAwRmhIRkJBSHYwVnNjWjE0OEVsNkplQkFDc3FNRmtwRHZ1d2dxSGR2Yk1LVzZ0ekZiNnFvOUtpSDdLdE9Mdw?oc=5",
+      "source": "UA-Football",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-21T19:40:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "OK. Top-Sensation der Esten, Blackout in Malta und Schießerei in Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "OK. Top sensation from Estonians, blackout in Malta and shootout in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "D'ACCORD. Top sensation des Estoniens, black-out à Malte et fusillade au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "OK. Top Sensatioun vun Estland, Blackout op Malta a Schéisserei zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "ed3375c11ac0fae0ec8764a3b9222aa4b085e0d6",
       "title": "France-Luxembourg | EURO des moins de 17 ans de l’UEFA 2027",
@@ -840,6 +873,35 @@
         },
         "lb": {
           "title": "Thionville. Zweete Start vum Joer fir de Campus IPAG BS Thionville-Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6f4a5929b2fadcea719cd2c934bd785d2110519a",
+      "title": "Spritpreise Luxemburg heute: Diesel und Benzin steigen deutlich am Dienstag, 21. Juli",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5xRnYxUzVveVgwaXdYUlNEcnNBN256NVhhZlB5NDVEcGNtSW4xMjViWDhqeVlob2pxNllNTkFkaDEtbUlJX19PS29hRmV2anJ0eWxCR3hvSEt5T0FPMC05RmVLMHAzTzNUbC1CbFpQeXl1d0lwUWpkSzBERUcwMFg2ODFkQmxyN0RPb3dDUnpoeFF6?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-21T09:15:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Fuel prices Luxembourg today: Diesel and gasoline rise significantly on Tuesday, July 21st",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​des carburants Luxembourg aujourd'hui : Le diesel et l'essence augmentent significativement mardi 21 juillet",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffpräisser haut Lëtzebuerg: Diesel a Benzin klammen en Dënschdeg, 21. Juli däitlech",
           "summary": ""
         }
       }
@@ -2375,6 +2437,39 @@
         },
         "fr": {
           "title": "Indice de qualité de vie 2026 : ce pays arrive en tête du classement – ​​et ce n’est plus le Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "59decba2876a7bcc9cd08377b952bb2ee393befa",
+      "title": "Mutuactivos culmina la fusión de Mutuafondo FI en Luxemburgo con el traslado de 2.500 millones",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlF0QUZGSGIwaEtWTkgweFdwc2hTaF9VWWU0blZSMXVFaVZzc0dHQjFtbUd5WG1TU3Mzc011SzJzcGtBcHk0NGQ4VFpjbXBMWEpWYXZWV3NoeW9LcTFxdzRNVTNIbEFYQjBXOXVVWHI4aWJZS2stNGZBZ2NPYTgzMHFQU3h6cUJlUDJFbnRTZm1FWjJDak5zcklEaHZjSndWMkIxYjJBR2g3dHB3TkFB?oc=5",
+      "source": "RankiaPro",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-20T09:19:51.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Mutuativos fäerdeg d'Fusioun vum Mutuafondo FI zu Lëtzebuerg mat der Iwwerweisung vun 2,5 Milliarden",
+          "summary": ""
+        },
+        "en": {
+          "title": "Mutuativos completes the merger of Mutuafondo FI in Luxembourg with the transfer of 2.5 billion",
+          "summary": ""
+        },
+        "de": {
+          "title": "Mutuativos schließt die Fusion von Mutuafondo FI in Luxemburg mit der Überweisung von 2,5 Milliarden ab",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Mutuativos finalise la fusion de Mutuafondo FI au Luxembourg avec le transfert de 2,5 milliards",
           "summary": ""
         }
       }
@@ -47379,105 +47474,6 @@
         },
         "fr": {
           "title": "Papastavrou du Luxembourg : Des réseaux solides garantissent des prix abordables pour les citoyens et les entreprises – L’Europe ne doit pas faire de rabais",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "46bce920d811bae56691529ac31b357e0df66e09",
-      "title": "Παπασταύρου από Λουξεμβούργο: \"Ισχυρά εθνικά και ευρωπαϊκά δίκτυα εξασφαλίζουν ενεργειακή θωράκιση και προσιτές τιμές ενέργειας για τον πολίτη και τις επιχειρήσεις\"",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPTXlTMlZKWlQ0MFdLTmxINXFkVC0tdXRLYnVlZlNMbHVFb0c5dGgtZ3Bac2FMV1oxSXBwTlNsZGUyVVZCRkZpZFB4SE83bk43R2hNWVRfaS1NUDVJMU5DQ0htLVJha3JCbDczUmItOHByUkZ1WDZpTzJaUlRFY2lxY1lFVjBqdnlQaFpKbVlYMGFXU19ZTUZBakY4UWVUZ2kxYkswWGZyLXpYVFNqa0l4cVNqRTEzeWtkeUhhOGpUV20xY00tVFhYVmxacWVqRTlxZE9zOEZ3V0YwZHpXRGo2bFZwTlN0MEMyZWFVV2ZFcGZDN19UeWZ6MlBOZTFIOUc0TWJoQnB6ckJmdjREcTBvWG4yUnF2YVVwWlo0OWlncDNoeF9uMlg5a1VTWURXZ3FGQTRhZ3lNRERSZGxKa3c?oc=5",
-      "source": "Παραπολιτικά",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Papastavrou vu Lëtzebuerg: \"Staark national an europäesch Netzwierker suergen fir Energieschutz a bezuelbare Energiepräisser fir Bierger a Betriber\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "Papastavrou from Luxembourg: \"Strong national and European networks ensure energy shielding and affordable energy prices for citizens and businesses\"",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Papastavrou du Luxembourg : « Des réseaux nationaux et européens solides garantissent une protection énergétique et des prix de l'énergie abordables pour les citoyens et les entreprises »",
-          "summary": ""
-        },
-        "de": {
-          "title": "Papastavrou aus Luxemburg: „Starke nationale und europäische Netzwerke sorgen für Energieschirmung und erschwingliche Energiepreise für Bürger und Unternehmen“",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4c291ba6f88d7775983184a0968e5313a834a75d",
-      "title": "Στο επίκεντρο η ενεργειακή ασφάλεια και ο εφοδιασμός στην ΕΕ στο Λουξεμβούργο",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHV4bFNnM0VST0Y0WlJJZUJzRWRGMDZiMDNpRzJJNXhDeEJFLXJOaVloTURmUzdNdlhKSjdqQUJsM28wRUtVd0dNZHEtWGN6ZEVFSWZmcUJiRnpJdW5xY21sam9LUS14cTFBU04xazFWT19JQkpnY2ZYbGs0SEdJMnItZFl1TkpIeEVtUHNFdHAtR1ItVHZ5QUxCRmk3MVlNYjVHT3N0RGY4TVFqb3Y0LVkxTDFIeGU2UERMX2JxUQ?oc=5",
-      "source": "BusinessDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Fokus op EU Energiesécherheet an Energieversuergung zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Konzentrieren Sie sich auf die Energiesicherheit und -versorgung der EU in Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Focus on EU energy security and supply in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Focus sur la sécurité et l’approvisionnement énergétique de l’UE au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7a4c77a70eda7bddf3d4b2fae41efa855f32d3f8",
-      "title": "Acord european pentru stocarea energiei, semnat la Luxemburg. Buşoi: Va aduce preţuri mai stabile",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb3VRd0ljWlkyOXRDdjdOUUI1d1hxLUVRaVJHR0I3cTFXanVnd2NDcFpoUWh5UVZ1LVpDOE5qdU93UnU0TXltVl9mTGc1YVhoV2hZM09yOTVpZXRfRkVJdTdLWVJGelh5NzhhWERjdmREci1xUXgwVWxqN054T1NXaTdCTGJPRDl4V2tjZFNxN3dEV0sxS0wyZm9nQ1hzbkRrXy1wS2dTdF9pYVlZeC0xOTV3RzVJN3dRcVBLb3NBaExtSEZpUjUyT0hqSGhoVmliano1SmVn?oc=5",
-      "source": "Observator News",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Europäisches Abkommen zur Energiespeicherung, unterzeichnet in Luxemburg. Busoi: Es wird stabilere Preise bringen",
-          "summary": ""
-        },
-        "en": {
-          "title": "European agreement for energy storage, signed in Luxembourg. Busoi: It will bring more stable prices",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Accord européen sur le stockage de l'énergie, signé à Luxembourg. Busoi : Cela apportera des prix plus stables",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Europäeschen Accord fir Energielagerung, zu Lëtzebuerg ënnerschriwwen. Busoi: Et wäert méi stabil Präisser bréngen",
           "summary": ""
         }
       }
