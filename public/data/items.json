@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-21T23:13:36.851Z",
+  "generatedAt": "2026-07-22T00:09:13.332Z",
   "items": [
+    {
+      "id": "a60c686630f3c4e73ab2d0161f1169344dd8fd75",
+      "title": "계룡시, 룩셈부르크 참전기록 디지털로 보존…6·25 아카이브 공개",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5NEJwaXFvcTBoN2lrOTlQb2pRTDBWNlg0QmNHOHFEMDdrSXpSQzRnSDJOSkdOTGhuUkwzZ2l5X1Y0NEh5NlotZFNFc3RsM2hEY29nSGg5TnlvVGRrdmRoNnNJV3R3YW5zYzRCOEhuWQ?oc=5",
+      "source": "내외일보",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-07-21T23:26:50.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "La ville de Gyeryong préserve numériquement les archives de la guerre luxembourgeoise… Publication des archives du 25/06",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gyeryong City preserves Luxembourg war records digitally… 6/25 archive released",
+          "summary": ""
+        },
+        "de": {
+          "title": "Gyeryong City bewahrt luxemburgische Kriegsaufzeichnungen digital auf … 25.06.-Archiv veröffentlicht",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gyeryong City bewahrt Lëtzebuerger Krichsrekord digital ... 6/25 Archiv verëffentlecht",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "3239dcf2aa5c8779acca5f9d3e1fe7a7d0f15fb9",
       "title": "Матч Резиденс - Люксембург-Сити 22 июля 2026",
@@ -47437,39 +47470,6 @@
         },
         "fr": {
           "title": "Quelles startups ont gagné au Nexus Luxembourg 2026 et ce que cela dit sur la demande des investisseurs",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9baa3a2e501811c6ccc68ff24f4507412e9cc5bd",
-      "title": "الصين تصدر سندات بقيمة 5 مليارات يورو في لوكسمبورغ",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNRTVWYzJCRmYwVkt3aVd4ZjNNOG42MXc4RjByUXg2VUtzOE1PUFVDcVFfeGh6YU9zeHl2dEZEOGRZTW96UTdOY3lyZDhiOUl2X2JlTGQwVmpEejlqcEtEUVFaUlowMnZNNkV4Y0lqb0ZIcmdQV2xLRHdaWEJHb3ZxTTBFdk5SR3ZITW03WDB6Wkw4S0czTTVwVnRuQTN2WVlHcS1qdnp4T1pCRnRmUms1OF9BaF80OGcxX2J1S3R2ZEU1aFozdGxXbUJheXV6VjN6V01LTTBZWUh6NHRFX1ZOMEZTV2pqelZGdXdITnJqNkpuY1Y0R0VfeDZjY2RGUFdaNmpsaUI2dnlvQmR5OWxteGVYOHZsRUNESWNqckhtaVVCYTd0aDhDdzZsLVNpTlN1MThLZXMzaHFPbjN6RUFRX2h4bFZ6eHpqR3BwdmdGeGxmOU5WWVdFQnJCRkRORm1VaTZfOU93eV9RckVPQm5PY3AwMlkyc0lrQW4wMVNVU3lLYm1vQUxOckh0TDZMTUZmRnlsZy1pWnkyYjVXMUVKc2l6TnpHM2xmNERnQVV2MWVudXFwNk53MENhZU1GU1NXUDQ3OVhWNlJpX0hKaFQ5enJwVVl4UQ?oc=5",
-      "source": "الشرق الأوسط",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "China gëtt zu Lëtzebuerg Obligatiounen am Wäert vu 5 Milliarden Euro eraus",
-          "summary": ""
-        },
-        "de": {
-          "title": "China begibt in Luxemburg Anleihen im Wert von 5 Milliarden Euro",
-          "summary": ""
-        },
-        "en": {
-          "title": "China issues bonds worth 5 billion euros in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La Chine émet des obligations d'une valeur de 5 milliards d'euros au Luxembourg",
           "summary": ""
         }
       }
