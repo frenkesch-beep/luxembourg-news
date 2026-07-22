@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-07-22T18:35:10.982Z",
+  "generatedAt": "2026-07-22T20:32:26.713Z",
   "items": [
+    {
+      "id": "530e5aa63f0427570a8837da7b0455d02c9e192b",
+      "title": "Football. L'US Thionville Lusitanos arrache le nul contre le Racing Luxembourg, le match en images",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa1o0enVYQTRIcGR1S2JZazk0R2t1NlVYLU1VT1EyWHpsVTVTWmRiQV9nbmQ3VTh4RnNZSmVaSk8tSzFTSHYyZ2RVUDNJeGozRjdsVko1aXphYjVlSVh0X1g4N0kxMkxKZlZseFN0ZDBvVENMdDFSemhkRmd5eXBfdzRuS3hmMGFsc2tHSmR3Z2twNW5Ea1FiRmh0VUJzMG9hVmhXSFc5Vy1yd0JGV0NyeTVlczN1TkVEU0tsN2U1bHRvcURqYkdoVHFoRlhXYm9HOW5vbHdn?oc=5",
+      "source": "Le Républicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-22T19:13:57.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "en": {
+          "title": "Soccer. US Thionville Lusitanos snatch a draw against Racing Luxembourg, the match in pictures",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fussball. D'US Thionville Lusitanos schléit géint de Racing Lëtzebuerg, de Match a Biller",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fußball. US Thionville Lusitanos holen sich ein Unentschieden gegen Racing Luxembourg, das Spiel in Bildern",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ec497995bd8203c512b78a9506a2d3069d6a978b",
+      "title": "والفيردانج ضد اسم فريق كرة القدم في مدينة لوكسمبورغ | مباريات ودية (أندية) | النتيجة والتفاصيل",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xd2xFaVZaN1llX2RFeE9qNGJvX2NadFpPcDh6QmlIZkd4WXlZLXFSeW1ZcWlpcWJldnU0N2tENnNhanJacGNzNUJOUExUTE8zS0NmSW5xVEtGek1iV0EzNzl2Wm12Zw?oc=5",
+      "source": "Elbotola",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-07-22T18:30:18.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Walverdang géint den Numm vun der Fussballequipe an der Stad | Frëndschaftsmätscher (Veräiner) | Resultat an Detailer",
+          "summary": ""
+        },
+        "en": {
+          "title": "Walverdang vs the name of the football team in Luxembourg City | Friendly matches (clubs) | Result and details",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Walverdang contre le nom de l'équipe de football de Luxembourg-Ville | Matchs amicaux (clubs) | Résultat et détails",
+          "summary": ""
+        },
+        "de": {
+          "title": "Walverdang gegen den Namen der Fußballmannschaft in Luxemburg-Stadt | Freundschaftsspiele (Vereine) | Ergebnis und Details",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "1a377eba5cac8f999b9306cd92099c2ab5879358",
       "title": "Lebensqualität-Ranking: Luxemburg schlägt die Welt – München jubelt, Berlin verliert",
@@ -26,6 +88,39 @@
         },
         "lb": {
           "title": "Liewensqualitéit Ranking: Lëtzebuerg klappt d'Welt - München feiert, Berlin verléiert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2f7768f365ed9eef8834cf9cb97bd3cdfe25738e",
+      "title": "История: Люксембург 2-3 Германия | UEFA EURO 1992",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4weE1jZE93YUU0THJ6d2JYcnNGLXFscG0yd0NpRzVfTFVQaUlXcUhISUhjbXF4Ukh5RVhiYk90Yk9CMDVuZFFrUFpnRGx0eTFwXy0zSk9QdVRScV9OU1d5X0FKTnVxQURoQ08xLVlWVkU?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-22T17:14:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Geschicht: Lëtzebuerg 2-3 Däitschland | UEFA EURO 1992",
+          "summary": ""
+        },
+        "de": {
+          "title": "Geschichte: Luxemburg 2-3 Deutschland | UEFA EURO 1992",
+          "summary": ""
+        },
+        "en": {
+          "title": "History: Luxembourg 2-3 Germany | UEFA EURO 1992",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Histoire : Luxembourg 2-3 Allemagne | UEFA EURO 1992",
           "summary": ""
         }
       }
@@ -11967,6 +12062,39 @@
         },
         "fr": {
           "title": "Galerie de l'agence urbaine et du plan directeur de conception COBE pour Esch-sur-Alzette, Luxembourg - 8",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fc47cfab2d16656fc58feedc33315799dbf5b8d9",
+      "title": "画廊 Urban Agency 与 COBE 为卢森堡阿尔泽特河畔埃施设计总体规划 - 9",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPT1hyTVV3UVhybWJub0VwRkotazYwdXJOa1ZTMzdLc2w3R19JT2t1Rm5DXzRSZjEtdV9RWWZwcldQQWhzZzFka044NUUybThjd3l5Q0p5TDV1djNLOW45SDJxOTNwVG9aUEZMYV9HMHlsUUhCMjdIckgtMTNudjNpbUZ3c3NySnVycFVqTTQ5Yjh3RUFQQUVDbXhJWGFVSmxOQ1RVZDNDUUJSTDlISTVvZE9aTE0zZWhDX25OamJxa2t4bjh4dFZ6bC1CbEd3MWs2Zm5Ra0M0amxLUGpuNUhIV25sZ1ZKWHJSd1M1aVFRdmhLdjVsRS0wZV9mX29rQ0w4ZVI5NkxGS3NsU0QzdVNya0RKU1MtcS13R2l3VWo0VWpZcWJFbXVmWFI3cC1nWExrZmxJdmVXUjFLU1c0cXBxZ2QyQmxQVXQ1VlVR?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-16T00:45:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie von Urban Agency und COBE Design Masterplan für Esch-sur-Alzette, Luxemburg – 9",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Urban Agency and COBE Design Masterplan for Esch-sur-Alzette, Luxembourg - 9",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de l'agence urbaine et du plan directeur de conception COBE pour Esch-sur-Alzette, Luxembourg - 9",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of Urban Agency and COBE Design Masterplan for Esch-sur-Alzette, Luxembourg - 9",
           "summary": ""
         }
       }
@@ -47272,138 +47400,6 @@
         },
         "de": {
           "title": "M. Mousouttas in Luxemburg zum letzten EPSCO der zyprischen Ratspräsidentschaft",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1ed950346758ea7ff3d3508c3f775cf44dc2ef76",
-      "title": "Ο Υπουργός Εργασίας και Κοινωνικών Ασφαλίσεων αναχωρεί για το Λουξεμβούργο, όπου θα προεδρεύσει του EPSCO",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb3pMTjF2eDRsMm9tMTlTRmpMUGQ1Y3Fua0ZRSWdleFVKZzhwNmJIYThsdlY0aVZIeDFubmlJSjBhaFhtaHVXN0p5V3VHb3FOT0NCYnFUZzR5SVMxTmtNcmRkNHRKdGs1aVFTV2FFWDR0YW9uX0RiZ2FTSGtJS25vTlNPeWVPaUZfLU1uUWFBYmZ5S3FlNlN0RnhlVThpR29ULWNEaWt2dFMyUTRyc0VDTTZhM2thZFhNenFJaE1udGlFQ3VHMi1od0I5ZlNoWldHdmZvakdVczhGQUZDNF9PWmhKM0tsdkFXRmNUNUhpcVZidw?oc=5",
-      "source": "Κυβερνητική Πύλη - Gov.cy",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-28T11:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le ministre du Travail et de la Prévoyance sociale part au Luxembourg où il présidera EPSCO",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Minister of Labor and Social Insurance leaves for Luxembourg, where he will chair EPSCO",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den Aarbechts- a Sozialminister verléisst op Lëtzebuerg, wou hien den EPSCO presidéiert",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der Minister für Arbeit und Sozialversicherung reist nach Luxemburg, wo er den Vorsitz von EPSCO übernehmen wird",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a217bdf975493085b4a2d139e5440ffda1de142a",
-      "title": "Индекс качества воздуха (AQI) в Люксембург и загрязнение атмосферы в Люксембург",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlR6TFpzOGVBcDJfRzB4a0hCXzdGWGF0Y1lLVzJjSVM4VHZoQVBkelhNTjRsWElVYWZoTFlfT1BwN2c4RzJPVzVfODBzNUoyUzNkY2plRkNZeURSQzk0LTJuWUNxNy10cTd2dTZXM242aHIzaXpsaVpNSXhweDN2UE9tb3VmLVht?oc=5",
-      "source": "IQAir",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-06-28T10:56:04.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Indice de qualité de l'air (IQA) au Luxembourg et pollution de l'air au Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Air quality index (AQI) in Luxembourg and air pollution in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Loftqualitéit Index (AQI) zu Lëtzebuerg a Loftverschmotzung zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luftqualitätsindex (AQI) in Luxemburg und Luftverschmutzung in Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1baeeb5bda34c37fe496f762318ee097afe1618d",
-      "title": "Στο Συμβούλιο Υπουργών Περιβάλλοντος στο Λουξεμβούργο ο Παπασταύρου - Καταδικάζουμε την προσπάθεια της Τουρκίας να αποκλείσει από την COP την Κύπρο",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdjFtZUVLaW1hWTJfdm5oVkJjQnBHUDNtWE1LWkZQX0JWeHFvUDlHQV9rRjNDZmw1YjRPeWZ4SHExNVJBLXBsOTFlN2hoSU9PUktlaGpIUkhZZ3Q2VkhtNmhFTWwtQXFWNVVUYl9BdURNYjVVT3FfVHVFNkRIYkg0UUVqZzlZNDBscE1TSVVpSGNzcElBZkZ3dUItY0ZiRDl2cVFfVkxrUkk4cHpaWEZmd0dUWkhwS2VDSjNRTWl2elVyUE91Q3BoQ2NlejBVRUcwTmpFSGQ1eE12UXdVVDgwZ1RiZTU5LWhlQ2c?oc=5",
-      "source": "worldenergynews.gr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-28T09:33:12.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Papastavrou am Conseil des Ëmweltministers zu Lëtzebuerg - Mir veruerteelen dem Tierkei säi Versuch Zypern aus der COP auszeschléissen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Papastavrou at the Council of Environment Ministers in Luxembourg - We condemn Turkey's attempt to exclude Cyprus from the COP",
-          "summary": ""
-        },
-        "de": {
-          "title": "Papastavrou beim Rat der Umweltminister in Luxemburg – Wir verurteilen den Versuch der Türkei, Zypern von der COP auszuschließen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Papastavrou au Conseil des ministres de l'Environnement à Luxembourg - Nous condamnons la tentative de la Turquie d'exclure Chypre de la COP",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "20fbc5a4997f20c576016376937ac81c4e877fcb",
-      "title": "Η Υφυπουργός Κοινωνικής Πρόνοιας στο Λουξεμβούργο για να προεδρεύσει του EPSCO",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkdmSGZ6a3g4MHUwMnhXV1Z0WEdfejgwU1JyTENPSjlCempRckZxY3JjZmRmVm9ZcnV0STRnNm1ZeFYxaXNCVU5jMGdXdzFoY2FIWGtwcHdEaVRLcHhNdWdZak5qemFTSXFLaEJLUk1ianl5RGRtWWVsTUJEUW0xOWZ6TkVVR0xNcmR0eDA2Z2g2OGx0ODR6UDhtUXFwTl9kZDlJTG9wLVBmSE1OQjdhY29nN2dpV0cyMXc?oc=5",
-      "source": "ΚΥΠΕ",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-06-28T07:07:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Der stellvertretende Sozialminister in Luxemburg übernimmt den Vorsitz von EPSCO",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Deputy Minister of Social Welfare in Luxembourg to chair EPSCO",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le vice-ministre de la Protection sociale du Luxembourg présidera EPSCO",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Vizeminister fir Sozialhëllef zu Lëtzebuerg gëtt President vun der EPSCO",
           "summary": ""
         }
       }
