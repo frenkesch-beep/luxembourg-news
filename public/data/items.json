@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T18:38:07.048Z",
+  "generatedAt": "2026-07-23T20:31:21.547Z",
   "items": [
     {
       "id": "ddbd7fc835619bbce8aa80b6982ab5cc76c06993",
@@ -245,6 +245,35 @@
         },
         "de": {
           "title": "„Eine Verschlechterung meiner Lebensqualität“: die sommerliche Not der Grenzgänger mit dem Wegfall der Züge nach Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ca37faa0c974f3d55edaca7b60d150cae6a528f2",
+      "title": "++ TANKEN IN LUXEMBURG AKTUELL: Spritpreise mit Auf und Ab ++",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSUZjREo2a2psZmVGNUZZbjBUeDN5d01yOEl3SE5RZTFkZnRuM05rcXpNbkZQLXFmVWdzYmxMVnJTMW1VSDBzQWRkd1pzQkFrRFZTek5zQXZYc3FUSlE4MzVqeDJBXzd0eUJXbDZlNGM0TzBxcWFmU0NFbG1NbjljSnZ4TTlPS1lVLXVUekhxV2U4UQ?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-23T16:21:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "++ FUELING IN LUXEMBOURG CURRENTLY: Fuel prices go up and down ++",
+          "summary": ""
+        },
+        "fr": {
+          "title": "++ RAVITAILLEMENT AU LUXEMBOURG ACTUELLEMENT : Les prix des carburants montent et descendent ++",
+          "summary": ""
+        },
+        "lb": {
+          "title": "++ DREIFUNG A LËTZEBUERG AKTUELL: D'Brennstoffpräisser ginn erop an erof ++",
           "summary": ""
         }
       }
@@ -47314,39 +47343,6 @@
         },
         "lb": {
           "title": "D'Reparatur vun der Strooss an de Reseauen an der Rosa Luxemburg Strooss soll bis Oktober fäerdeg sinn",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "167085279ae23b3ba6015301bb95d5c84bbb13d4",
-      "title": "Дорогу на Розы Люксембург в Иркутске планируют закончить к 1 октября",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0ZTMTZlcndFeHFwSTkwNEkzeF9SVGVkNkozM1lnRk4zWGFYb2tYOHFxeFpnb21FVTZkWEdYc2dNUVU3bm84NzYwRkFmYnk2eHBJMGljWldLandaUEUtVkNTaU9aeUlkM2lta1pERTJ5Qm1YRXRxdGZTY1RuczVHTjJDZkN2bTZPYjZkZGUyZ2t3RnBHenkzYnBGbFpKd0w5OFhCOQ?oc=5",
-      "source": "Иркутск Сегодня",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-01T00:09:44.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Strooss op Rose Luxemburg zu Irkutsk soll bis den 1. Oktober fäerdeg sinn",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La route vers Rose Luxemburg à Irkoutsk devrait être achevée d'ici le 1er octobre.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Fertigstellung der Straße nach Rose Luxemburg in Irkutsk ist für den 1. Oktober geplant",
-          "summary": ""
-        },
-        "en": {
-          "title": "The road to Rose Luxemburg in Irkutsk is planned to be completed by October 1",
           "summary": ""
         }
       }
