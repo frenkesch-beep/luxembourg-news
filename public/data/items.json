@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T22:15:25.026Z",
+  "generatedAt": "2026-07-23T23:14:20.775Z",
   "items": [
     {
       "id": "210fc39ebfdf3e2a1885c9f74583f3b95afe5c15",
@@ -47282,6 +47282,39 @@
       }
     },
     {
+      "id": "968e505f6a7b6c602eb755c43d61b18f09f47346",
+      "title": "Ремонт дороги и сетей на улице Розы Люксембург планируют завершить к октябрю",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53U3dBaWUzNkF5RUtYSzFRd201NkdkZ01BUkZfbEI3N2hwZ1cwWlVZa0IxRms2ZmFycUNBVlduVDNsemdVWWZGc1lHeVViUV80R1E?oc=5",
+      "source": "Твой Иркутск",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "La réfection de la voirie et des réseaux de la rue Rosa Luxemburg devrait être achevée d'ici octobre.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Repair of the road and networks on Rosa Luxemburg Street is planned to be completed by October",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Reparatur der Straße und des Netzes in der Rosa-Luxemburg-Straße soll bis Oktober abgeschlossen sein",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Reparatur vun der Strooss an de Reseauen an der Rosa Luxemburg Strooss soll bis Oktober fäerdeg sinn",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "35cfd563d2f2df459de519ad49648e00bdf6cede",
       "title": "ΦΑΓΕ Ελλάδας: \"Μετακόμιση\" της εταιρείας από το Λουξεμβούργο στην Αμερική",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVlZNkR5Tl8ySjdnaGZzaTBmbXJxdnZreHlvc19GSzhoUURmSFplM2R0WWo0azBITGhPdHVFRnJxN2pTZG9Oa3lhSUc3MzZ3N0VlZ3oyR0Q1OXlJWE1YM2JORHR0WW1jQVZtS1ZxT2VuVWNPMkRYV2RTdXZCbDl6OXBuTTFlanYwZEthelpVWEdTU3Z4aGU3QXpKLWxWbFh2Yzd0OUNuWTk2NHdQVjB3WXlmenJzalk?oc=5",
@@ -47310,39 +47343,6 @@
         },
         "lb": {
           "title": "FAGE Griicheland: \"Relocation\" vun der Firma vu Lëtzebuerg an Amerika",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "85918f48f074bea45696dc758b967384200acadd",
-      "title": "Israel Bonds: come il Lussemburgo consente la raccolta di capitali per finanziare gli attacchi su Gaza",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3VZTVBDdm9oU0ktMEppblJWUW05aElxTU0tT19JUG0tWDVzNkdLb3RTTHZJZlQwVEVPNHE2V0VXZFpiQy12SG4xSWp1Y3prTTVwdEFTUWtXYk94Z0VCNXNOYmt2WGRwVnFydzdaUkptRWVJdE85MjBBNVZrVDlKUHRMZ3JWVEY1TVM2RFR4Ylk?oc=5",
-      "source": "InsideOver - Inside the news Over the world",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-01T04:43:55.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "de": {
-          "title": "Israelische Anleihen: Wie Luxemburg die Kapitalbeschaffung zur Finanzierung von Angriffen auf Gaza ermöglicht",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Obligations israéliennes : comment le Luxembourg autorise la levée de capitaux pour financer les attaques contre Gaza",
-          "summary": ""
-        },
-        "en": {
-          "title": "Israel Bonds: How Luxembourg Allows Capital Raising to Finance Attacks on Gaza",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Israel Bonds: Wéi Lëtzebuerg erlaabt Kapitalerhéijung fir Attacken op Gaza ze finanzéieren",
           "summary": ""
         }
       }
