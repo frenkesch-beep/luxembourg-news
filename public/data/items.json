@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-23T23:14:20.775Z",
+  "generatedAt": "2026-07-24T00:13:04.310Z",
   "items": [
+    {
+      "id": "bd660e7aa6d993f5a15ec0fd7301487419abd965",
+      "title": "Togo-Luxembourg : 14 millions d’euros pour la cybersécurité",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mWmZaVHZVZlBLWDlKejdPOFRFQkR3UnBBTWxvMXBkMHZaU3ktS3QyeDliOXMzYjQtUEh6QTVZeF9fMVBQVVVPbVpUVVhDSUg0R3RKZ2dCQmFWcURPUWlQSW5id3NyZ1paT2dBeWFQV2Z5VDVCRzNuZXlLN0U?oc=5",
+      "source": "Journal du Togo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-23T23:25:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "en": {
+          "title": "Togo-Luxembourg: 14 million euros for cybersecurity",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Togo-Lëtzebuerg: 14 Milliounen Euro fir Cybersécherheet",
+          "summary": ""
+        },
+        "de": {
+          "title": "Togo-Luxemburg: 14 Millionen Euro für Cybersicherheit",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "210fc39ebfdf3e2a1885c9f74583f3b95afe5c15",
       "title": "Embraer 190: fabricante anuncia novos pedidos de jatos para Japão, Espanha e Luxemburgo",
@@ -30,6 +59,39 @@
         },
         "de": {
           "title": "Embraer 190: Hersteller gibt neue Bestellungen für Jets für Japan, Spanien und Luxemburg bekannt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7e3b519b66f1ae345803b753d75aeaf65c0451a6",
+      "title": "Люксембург-Италия | Группы | ЧЕ - юноши до 17 2027",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96djZBdDBKNlJVV0NTVWFZblIwNXY2UkFQdEs5SlgtcENhSF84TC1WaFlEYlYzQnhzVWR6TUoxU1lLVUkxRTZ1eUNoZ1l4eXgtWnpidk5QMXFjT3JVa041M3lLS29tb1VIV0tubTc1eDRwM01pTVhzZEpobWpIUQ?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-23T20:19:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg-Italien | Gruppen | Europameeschterschaft U17 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg-Italy | Groups | European Championship U17 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg-Italien | Gruppen | Europameisterschaft U17 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg-Italie | Groupes | Championnat d'Europe U17 2027",
           "summary": ""
         }
       }
@@ -47277,72 +47339,6 @@
         },
         "en": {
           "title": "The road to Rose Luxemburg in Irkutsk is planned to be completed by October 1",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "968e505f6a7b6c602eb755c43d61b18f09f47346",
-      "title": "Ремонт дороги и сетей на улице Розы Люксембург планируют завершить к октябрю",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53U3dBaWUzNkF5RUtYSzFRd201NkdkZ01BUkZfbEI3N2hwZ1cwWlVZa0IxRms2ZmFycUNBVlduVDNsemdVWWZGc1lHeVViUV80R1E?oc=5",
-      "source": "Твой Иркутск",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La réfection de la voirie et des réseaux de la rue Rosa Luxemburg devrait être achevée d'ici octobre.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Repair of the road and networks on Rosa Luxemburg Street is planned to be completed by October",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Reparatur der Straße und des Netzes in der Rosa-Luxemburg-Straße soll bis Oktober abgeschlossen sein",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Reparatur vun der Strooss an de Reseauen an der Rosa Luxemburg Strooss soll bis Oktober fäerdeg sinn",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "35cfd563d2f2df459de519ad49648e00bdf6cede",
-      "title": "ΦΑΓΕ Ελλάδας: \"Μετακόμιση\" της εταιρείας από το Λουξεμβούργο στην Αμερική",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVlZNkR5Tl8ySjdnaGZzaTBmbXJxdnZreHlvc19GSzhoUURmSFplM2R0WWo0azBITGhPdHVFRnJxN2pTZG9Oa3lhSUc3MzZ3N0VlZ3oyR0Q1OXlJWE1YM2JORHR0WW1jQVZtS1ZxT2VuVWNPMkRYV2RTdXZCbDl6OXBuTTFlanYwZEthelpVWEdTU3Z4aGU3QXpKLWxWbFh2Yzd0OUNuWTk2NHdQVjB3WXlmenJzalk?oc=5",
-      "source": "PowerGame",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-07-01T06:43:22.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "FAGE Griechenland: „Verlagerung“ des Unternehmens von Luxemburg nach Amerika",
-          "summary": ""
-        },
-        "fr": {
-          "title": "FAGE Grèce : \"Délocalisation\" de l'entreprise du Luxembourg vers l'Amérique",
-          "summary": ""
-        },
-        "en": {
-          "title": "FAGE Greece: \"Relocation\" of the company from Luxembourg to America",
-          "summary": ""
-        },
-        "lb": {
-          "title": "FAGE Griicheland: \"Relocation\" vun der Firma vu Lëtzebuerg an Amerika",
           "summary": ""
         }
       }
