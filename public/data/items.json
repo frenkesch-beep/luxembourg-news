@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-25T15:29:09.253Z",
+  "generatedAt": "2026-07-25T17:17:22.816Z",
   "items": [
+    {
+      "id": "9047a58c27b5ebffce522fcfcc53806423831604",
+      "title": "卢森堡副首相贝泰尔访新 出席卢驻我国大使馆开馆仪式",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15eXBPM3hzRENRWjItTGtLdEM3ZlhNcmZRR2ZlcThGR3E5anMzMVZlakt5cHFhMTF3YkF6YlZmcmRZMGFmTVZYNGtpWENYWm5aelFjT2JSSW5JbkRPZ1ZWMDJlWldFNFlnanRGUDIzWQ?oc=5",
+      "source": "联合早报",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-25T16:10:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Lëtzebuerger Vizepremier Bettel war an Neiséiland op Besuch an der Ouvertureszeremonie vun der Lëtzebuerger Ambassade a mengem Land.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le vice-Premier ministre luxembourgeois Bettel s'est rendu en Nouvelle-Zélande et a assisté à la cérémonie d'ouverture de l'ambassade du Luxembourg dans mon pays",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der stellvertretende luxemburgische Premierminister Bettel besuchte Neuseeland und nahm an der Eröffnungszeremonie der luxemburgischen Botschaft in meinem Land teil",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Deputy Prime Minister Bettel visited New Zealand and attended the opening ceremony of the Luxembourg Embassy in my country",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "8394d4244fcd2736ca4d69705eb5684783765f5c",
       "title": "12 points go to… Le Luxembourg ! Luxembourg!",
@@ -26,6 +59,35 @@
         },
         "de": {
           "title": "12 Punkte gehen an... Le Luxembourg! Luxemburg!",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8319e46637115d0e0eb571c3da41bffc413f7418",
+      "title": "Spritpreise Luxemburg heute: Das kosten Benzin und Diesel am Samstag, 25. Juli",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONTAwLVhaTU96RHJtcTNoZ295Z1hfdEZuemt6eGdqN0lOZjRMaUd0TVJiV1NoemZCMGZwRTBaZ0pzSDg0M3JKVXoyS3pZX1h3U2RkVnVfcnRxVkVrMTFZVDFGRTkyRThCZFlpTGpmcHdVLVNzSndTNzJkQmtjVkZVc1ZsZ3pocXg5T1h2WnE3YmRyQjk4SUwzeUNHNmhlX3U5QU8tT0NyckpJcTRZN3c?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-25T08:54:49.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Fuel prices Luxembourg today: This is what petrol and diesel cost on Saturday, July 25th",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​des carburants au Luxembourg aujourd'hui : voici ce que coûtent l'essence et le diesel le samedi 25 juillet",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffpräisser Lëtzebuerg haut: Dat kaschten de Bensin an den Diesel e Samschdeg, 25. Juli",
           "summary": ""
         }
       }
@@ -225,6 +287,39 @@
       }
     },
     {
+      "id": "9999201f632ad0790e5f9cdee29f2527f1dfde39",
+      "title": "画廊 CMI 卢森堡 / Moreno Architecture - 20",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRFRQMDN1RExnSmVtWDlfOE5kcUo2dDFrRHJsSm51Rld1Uk5LUHhjWkhqc2tfUkY3Vl8tTDBFQ1dFX3pRWl9ER3BRTDQ1LW9jRDY0aWZwUkhGR3IzSklkb1ZXWGxmajFwVDlfMW1fWFZDOWF4TTlZOFk3eHdXM2lmN0pIUmwzQmJXR3BIQW1kRXJwVWVYLWVuS3JDSjd6YkFBVE5EZU4wY1JHQ1p1VVo4UGFhS2NXMVlQaGxlSGt2Nk9RREtLbEk0bHNtVmM?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-24T22:32:52.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie von CMI Luxembourg / Moreno Architecture - 20",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of CMI Luxembourg / Moreno Architecture - 20",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de CMI Luxembourg / Moreno Architecture - 20",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie CMI Luxembourg / Moreno Architecture - 20",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "1f37a4751bd6cfe0acd2c5874005b0bce7edfdcb",
       "title": "【藝術文化】新生代小提琴女神瑪莉亞．杜尼亞絲 攜手盧森堡愛樂9月登台",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pS0RzVzVKaWUzYVBGN0szRTR6Wi1QX2ZxQXQxalktRWF1NV9jM2I5clpjVWtNLXdmaDA4VFFSUFpZWEx5LWpnNnQ5TWN6LWVwaURRdGpBTdIBXEFVX3lxTFBjMnFXZldRbndsMDJoRkxxNDVscFJMNVluNWlGcUtHRGJMTnZxXzgyVl9ISHNEUkEtR25sM1VZVzExNC05QzhOaFNLTUNOakUtYmpjTFZoYklBTnhJ?oc=5",
@@ -377,6 +472,39 @@
         },
         "fr": {
           "title": "L'UE débloque une aide de 54 millions d'euros pour les entreprises de transport luxembourgeoises touchées par la hausse des prix du carburant",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2582e2d7a1ac3cb2ebbefb89cd32b767acb2e18c",
+      "title": "AMM-59: Вьетнам укрепляет сотрудничество с Панамой, Люксембургом, Нидерландами и Катаром",
+      "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxNZ3lkX3BhMnViNHVJSjJrSjNQMV96ZlZBcDhKcnJ4aC1WalI0bEJxVWNrQU9CMmswcFo3UW01VnJ5b2VPYldpWXJ0VDJ1MFVlSldSRVNBWE1oSE91dllrTXNld0xVeGlveHpQWFNhcmJvVTJmaFByVThpRGQ4RTdTbnlkblNBQ1BsV0o0Ny1kbndOby1xaGNwT3JaQVpvdHVxMmpqV0tOOW03NTRkV09RQTBKeHVHWjRLSTJBX2k0eFJ4TWFvWHJ3Z3hOanFuZEdlRjZ0Q0lKWlNmV21WWno4NFZOc3FHeXF6SHJDcm5ZVjVfZ3MxdkF2bE1JdmFzcTJNLXd3Y0VzVzh6ZHl3WVB2V29Gai1UeTEyQkVBUDJ4dS1vNWxiSVVWdng4VnZTQUV1MEFyWUh1TnNMdG5SckwwNGh5UU1mTnV2OF9ySEc3cWkxN3VGTXFJT1plT1JTWWduMFhmVXRmUGFWYl9SczJLRGpFLTdUU1FDc01iUFlSRVRqUUxxTk9KYktlUk1mYXk4RkxlTXo5T1pLZVFpQ0xmdVU0UEN3Qk05cm1ibHJ3U2g4UnJUUHY1SW96RmtnVC1IOEFhd3QtTGRfVTB4UG83M3NuZmlkS28tUy1UcHpPM0RkSFI3VUlLeFV5RjdLdGs2d3RCSnVWdDlrN1ROQTQxb21Ub0pPOHhvVWxKTGR3bkY0a201a0s3Mk1uUXhZakUtVFRJNUlicm9kcTRNNlQyaXJFV2kzcU5jbWtseXA2Tk1yR0tWS2NQVWdYVVo3MWtEcXRnNXoyTnFoNWlCajhSNW1CdkZGZDZGck80bEV6R2VSRzFDcXdsRDRPN0J0dXZHeS1pUnZGOHJPWmQ1bTdLZjZhUTRXVHJZUHBOY2JKMmlwMERPc2NTVg?oc=5",
+      "source": "Thông tấn xã Việt Nam (TTXVN)",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-24T18:23:47.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "AMM-59 : le Vietnam renforce sa coopération avec le Panama, le Luxembourg, les Pays-Bas et le Qatar",
+          "summary": ""
+        },
+        "en": {
+          "title": "AMM-59: Vietnam strengthens cooperation with Panama, Luxembourg, the Netherlands and Qatar",
+          "summary": ""
+        },
+        "lb": {
+          "title": "AMM-59: Vietnam stäerkt d'Zesummenaarbecht mat Panama, Lëtzebuerg, Holland a Katar",
+          "summary": ""
+        },
+        "de": {
+          "title": "AMM-59: Vietnam stärkt die Zusammenarbeit mit Panama, Luxemburg, den Niederlanden und Katar",
           "summary": ""
         }
       }
@@ -7723,6 +7851,39 @@
         },
         "fr": {
           "title": "France-Luxembourg | UEFA U17 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a65a8c2533a6f0bbf1668f64de373f52c5eca1d9",
+      "title": "Arménia-Luxemburgo | UEFA Sub-17 2027",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ERkMtQUpKWlAwQXB3UkktVnhpT2FSMDhmcFU0bndPQjljeWg4ZDFqVllnay1ZSV9uV3BTN0xJSjJ1SkRQenM0TS1aek42ajdkR083Z0FsaFlLOWRoQ3dkMG1OQ2hZSlBOU2I4aXFrY3BqNlE?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-22T05:43:14.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Arménie-Luxembourg | UEFA U17 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Armenia-Luxembourg | UEFA U17 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Armenien-Luxemburg | UEFA U17 2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Armenien-Lëtzebuerg | UEFA U17 2027",
           "summary": ""
         }
       }
@@ -47168,159 +47329,6 @@
         },
         "lb": {
           "title": "Nam Byeong-ho, CEO vun Herrings, \"Softwareofkommes mat der Lëtzebuerger Regierung... Europäesche Verkaf erwaart\"",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "193d4b4a159ee24d7bbfd05b4d55237dae397455",
-      "title": "لوكسمبورغ مهاجماً أنشيلوتي: لو كان برازيلياً لكانت المطالبة بإقالته فورية",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53NFA2UHVKUW5DQ3Zybmd1NnJLZnFPQTRhUnF2YlRUSjctOFFQek1pZ2Q0LVNXMjVGX3lxbzZubVo0VUROa0NhbzZBN3dCdWpNa3dxaHhpQkxncHpPUnh2cHl2MllnbUnSAWdBVV95cUxOdzRQNlB1SlFuQ0N2cm5ndTZyS2ZxT0E0YVJxdmJUVEo3LThRUHpNaWdkNC1TVzI1Rl95cW82bm1aNFVETmtDYW82QTd3QnVqTWt3cWh4aUJMZ3B6T1J4dnB5djJZZ21J?oc=5",
-      "source": "البيان",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-07-06T06:34:37.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg attackéiert den Ancelotti: Wann hie Brasilianer gewiescht wier, wier d'Demande fir seng Entloossung direkt gewiescht",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg greift Ancelotti an: Wäre er Brasilianer gewesen, wäre seine Entlassung sofort gefordert worden",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg attaque Ancelotti : s'il avait été brésilien, la demande de licenciement aurait été immédiate",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg attacking Ancelotti: If he had been Brazilian, the demand for his dismissal would have been immediate",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "07b0557237da20986359eb1b2e3aa6a7edf12654",
-      "title": "Karl Herzog wins the Grand Prix de Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjFxTWtQbFI1cTZGM0c2WDVKUHdoSTlMdFdUYWhsN2NaTnU5TVVFZk5RRU5kemZxdHM4MzdGSHN4TzlKaXRXZEVKSG9DVzMtSVRVYnNmeXFBZ012TlNVd2ZHb09aVEdYYUdHc1RfUW5HaXg1c1k3bDBrdEZicXItSDJZX0FRRndlZU50MF9R?oc=5",
-      "source": "Red Bull – BORA – hansgrohe",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-06T06:23:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Karl Herzog wins the Grand Prix de Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Karl Herzog remporte le Grand Prix de Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Karl Herzog gewinnt den Grand Prix de Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0409413c0079c790476df9a32f6c3363465f576f",
-      "title": "На площі Рози Люксембург відкрилося друге відділення реєстраційної служби",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXpuQ2RrR09sQlprZnVVajZYNXdoVVRKYWtHczFKYU14ejdpeG5kT3pmQS15dW13MG54SEJoSlhybjgtLTl3bUpaUm1aaENfZXU2Y2otbXBFTHI0TElCTjVOSWZlZlpfNHlQS3RrNmhVcjJMeTJzQVhWUkR5bjNjbFlsajJRZFVWeVQ1eDNEQm1iZjNIR3p4MVJTQ2VPNWIzdTEtTVlKeXE0Uk5DTGdVaW9QVldFdElMQ2RDSUI4VXNDcEFJMFE?oc=5",
-      "source": "Офіційний сайт Харківської міської ради",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-06T06:22:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Une deuxième succursale du service d'enregistrement a ouvert ses portes sur la place Rosa Luxemburg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Eine zweite Filiale des Meldedienstes wurde am Rosa-Luxemburg-Platz eröffnet",
-          "summary": ""
-        },
-        "en": {
-          "title": "A second branch of the registration service opened on Rosa Luxemburg Square",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Eng zweet Filial vum Aschreiwungsservice huet op der Rosa Luxemburg Square opgemaach",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fea0e0f781ea6212a070013f5d2b2341bc3b3b79",
-      "title": "Achtung Radarkontrolle: Hier stehen die Blitzer in der Region Trier und Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWlY4VXhxY292eExSOUVDMjdjNWdLWDRKblYtYkN6bXU1UVlqMjIxRm1nSjZqaklMOTFYWVFDczIwdk02TXJ3U0VLUlhsZk5pSXdTTGNfZ3dDeThhTXRncGdkcVNJMHZKcVhMYUJRQVhyYXBISkhmR3U5NnFOMFZsRGloaWdVaGZFay1VeG82bUJhczNzN1A3c25HZTZKT1VpcGdz?oc=5",
-      "source": "Volksfreund",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-06T05:14:33.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Attention speed camera: The speed cameras in the Trier and Luxembourg region are located here",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Opgepasst Vitesskamera: Hei stinn d'Vitesse Kameraen an der Tréier a Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Attention radars : Les radars de la région de Trèves et de Luxembourg se trouvent ici",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "772db043cda6c20a864a387be569a20c576b43f6",
-      "title": "Arles 2026 : Lët’z Arles Luxembourg Photography Award 2026 : La Nature d’Edward Steichen",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcm9vNXBmeGZqVG0wSWRNRGZRU1o5MmxEOHZFZnpuREZHZWEzX0pGYnd4Xy1NNTJnQnpnX2RCeW5aWmQxdmZ6TVNpLVZ2UW9RRzRnT3A2Tmp0RUQ3RV9SUVdQcmI1N01EN21sOVJUVXFTaVBLYXFLTVpyVkNWTkpXRzNBc3J1bzZ3dU1GVFR3Y2s1UWE5czF0X3pSTXFCS241NGZKQTFJMkx2MU9YdjdsZTJOOFFKU3d2NjRUaQ?oc=5",
-      "source": "The Eye of Photography",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-06T04:49:33.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Arles 2026 : Lët’z Arles Luxembourg Photography Award 2026 : La Nature d’Edward Steichen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Arles 2026 : Lët'z Arles Luxembourg Photography Award 2026 : La Nature d'Edward Steichen",
-          "summary": ""
-        },
-        "de": {
-          "title": "Arles 2026: Lët'z Arles Luxembourg Photography Award 2026: La Nature d'Edward Steichen",
           "summary": ""
         }
       }
