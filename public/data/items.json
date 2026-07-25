@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-24T23:16:59.814Z",
+  "generatedAt": "2026-07-25T00:17:51.400Z",
   "items": [
+    {
+      "id": "1f37a4751bd6cfe0acd2c5874005b0bce7edfdcb",
+      "title": "【藝術文化】新生代小提琴女神瑪莉亞．杜尼亞絲 攜手盧森堡愛樂9月登台",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pS0RzVzVKaWUzYVBGN0szRTR6Wi1QX2ZxQXQxalktRWF1NV9jM2I5clpjVWtNLXdmaDA4VFFSUFpZWEx5LWpnNnQ5TWN6LWVwaURRdGpBTdIBXEFVX3lxTFBjMnFXZldRbndsMDJoRkxxNDVscFJMNVluNWlGcUtHRGJMTnZxXzgyVl9ISHNEUkEtR25sM1VZVzExNC05QzhOaFNLTUNOakUtYmpjTFZoYklBTnhJ?oc=5",
+      "source": "自由藝文網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-24T21:30:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "[Art et Culture] Maria, la déesse du violon nouvelle génération. Dunias s'associe à la Philharmonie du Luxembourg pour se produire sur scène en septembre",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Art and Culture] Maria, the new generation violin goddess. Dunias joins hands with Luxembourg Philharmonic to perform on stage in September",
+          "summary": ""
+        },
+        "de": {
+          "title": "[Kunst und Kultur] Maria, die Geigengöttin der neuen Generation. Dunias schließt sich den Luxemburger Philharmonikern an, um im September auf der Bühne aufzutreten",
+          "summary": ""
+        },
+        "lb": {
+          "title": "[Konscht a Kultur] Maria, déi nei Generatioun Violingëttin. Den Dunias schafft mat der Philharmonie Lëtzebuerg zesummen, fir am September op der Bühn optrieden",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "a5d056fb5c0d56c0ccc58b66f4202bf649c009fd",
       "title": "Ποδόσφαιρο: Λουξεμβούργο - Μάλτα",
@@ -47277,39 +47310,6 @@
         "lb": {
           "title": "Besonnesch op deene verreenten Deeg wou Dir keng Ahnung hutt wat Dir zu Lëtzebuerg maache musst ... 🌧️",
           "summary": "Mir sinn zesummen komm, gespillt, gelaacht a sinn e bëssen ze kompetitiv 😂\n\nBesonnesch op deene verreenten Deeg wou Dir keng Ahnung hutt wat Dir zu Lëtzebuerg maache musst ... 🌧️\n\nMir sinn zesummen komm, gespillt, gelaacht a sinn e bëssen ze kompetitiv 😂 \n\nEng aner lëschteg The Gather Erfahrung mat der beschter Energie. \n\nM"
-        }
-      }
-    },
-    {
-      "id": "9d386eace8502c5079144f30ee0a2937e6839a41",
-      "title": "Contern K tabela - Koszykówka, Luksemburg",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GT3YzelI5RmtOSktjQy13Y3JBb2hrczNlcmo0cVNWWGxFNFd3bERBTFZsRDJBemVUaXhDc0h3SU5jSmRDMGE1YWJQUUNQaGVSUWNmdExjOGJOTkxXaDg5M2JyZUpLYWlUSGdzQUhVTm1WbTZSSng2ZEhqdmdvUQ?oc=5",
-      "source": "Flashscore.pl",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-07-05T14:36:14.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Contern K Tabelle - Basketball, Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Contern K table - Basketball, Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Contern K Dësch - Basketball, Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Tableau Contern K - Basket, Luxembourg",
-          "summary": ""
         }
       }
     },
