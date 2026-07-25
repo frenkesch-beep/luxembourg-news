@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T11:35:39.923Z",
+  "generatedAt": "2026-07-25T14:03:18.424Z",
   "items": [
     {
       "id": "8394d4244fcd2736ca4d69705eb5684783765f5c",
@@ -64,6 +64,35 @@
       }
     },
     {
+      "id": "1115ca4d4170acda09c8fece69ac4c99c1232583",
+      "title": "Ende einer Ära in Luxemburg: RTL lässt historische Langwellen-Masten in Junglinster sprengen",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzRadjZXN0l5TUVPXzg0V3diaFZwLVZwZURsb2U5cGdWcHZ0dUJQX3Z1R25lTjdwaEdoS3ktRW1pU1p2SjRCODlWVGk3ei12dzlfRWt5UXE3MEJkUjFQOHJrcHF0b01jbmg0Z1dlclBSSkVZeDFlLTdTdFhYdnAweE1NY3dIZlBILW1NZjNpQ21XMEd3MkU4Z0UyU1AtdE9neXh6Tml1Y3RVSkI0TnRPaDltQTd3MmhtLThWcw?oc=5",
+      "source": "radioWOCHE",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-25T06:23:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "End of an era in Luxembourg: RTL blows up historic long-wave masts in Junglinster",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fin d'une époque au Luxembourg : RTL fait exploser des mâts historiques à ondes longues à Junglinster",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Enn vun enger Ära zu Lëtzebuerg: RTL sprengt historesch laangwelle Mast zu Jonglënster op",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "306121513ac03471c0802779c07509332ee05adf",
       "title": "Stipendi docenti, Italia fanalino di coda in Europa: -57% dal Lussemburgo",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTEF1V3VpdmliQjJ5OW1kRVNrbzA4anIwdU94Uk5GQ0VfS3czWnR5Q2l3VEdRaFVqYUNaRk5xVDNaR3R3T1o0cXFvRXhnOWUyQW5LOVFnNkJyenp1S0NIU01TVWRtWHVadVRiRzNHWjd6ZU4wRjkwN2NvVU9tYllWQmRDRlk4cS1hSF9JWlNVMVRRUDVmM0tmNmNYYUlPZ9IBowFBVV95cUxPME5oRXRiclo4TDFPQVJSZzBTWWxNXzNNRjZiNDNPSzJza2RWU2JKUWRHMEt4S0ZFejBLX0N0VERkOGc3aHcxREE2WTRpMGpMeE1WMEp1VGIza2hvV0FUMFRHZVJlUlJIN01aaG9vM1VSMkhZMkRNbVZ6Y05OQXhob2FzeWFSUVVYZWJSaVd4OTI0bGxMMUN2NExvMkxnLWR1Y0xz?oc=5",
@@ -92,6 +121,72 @@
         },
         "de": {
           "title": "Bei den Lehrergehältern bildet Italien das Schlusslicht in Europa: -57 % gegenüber Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "41da467aecc9783e3b54bc5c65f6029056c43892",
+      "title": "Esch, Lüksemburg Hava Durumu Tahmini | MSN Hava Durumu",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMThvY3BwT0lueENVUURqWER6WFlZUHlkUTJEdm96XzBqdWUycVROdUZCMlJ1SmwwbGg3T1NSWk9hdXVNVTFfbUxVb3JjOUJ6WWcwdEMtbXJOcUcxTU1sRC1uM09ISUdORklNZVhpM3daLUd6R0tXNmJZSzV3UGpnWDFPbFE?oc=5",
+      "source": "MSN",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-07-25T02:18:47.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Esch, Luxemburg Wettervorhersage | MSN-Wetter",
+          "summary": ""
+        },
+        "en": {
+          "title": "Esch, Luxembourg Weather Forecast | MSN Weather",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prévisions météo pour Esch, Luxembourg | Météo MSN",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Esch, Luxembourg Wiederprevisioun | MSN Wieder",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "58b6b5020589c745b8a9f380e32bc2bd4cc8e366",
+      "title": "베트남-룩셈부르크 외교장관 회담...협력증진 합의",
+      "url": "https://news.google.com/rss/articles/CBMizAVBVV95cUxNc291QW5Ed09jU2pLa212MmNBdXlqdDNxNDQtVElJTmJMSzIyV0hUREZQNGdiWXF4MnFXZ2RWYzIzWDAxWTRWMTREamYzSVR1dUhWQUk0Mk8zZGYxUDUxa3NvQk1GdVBMZHZEamJ6UWdGZi0yZVUwWjRCUDlBYjUybWlmSDJ2RWtTRzAxVHpkV0VUVno5OEliT0FfVktsY2FvdElkN2RsTzJnbktNVW9XYm9MbndkbEJWSzI1UVdIZkkwYldNZmRBWnV4dWRDczhaSllnSXJjSG44aWdxNXY5RlJfLXEySlZidnI4clBYOVg4NVg5cktPcnlxX3pRLTdHWGdpdlFPZi1rNXQ2VFZmRmxGbHNubVdmU2k2WkR3aGtfZF9CWFNERnRaT28wdkJOOWtWXzhqZEcyTlVfaTZmVllJSDRTcUxLbUVZaDY5NVQ5ZG0yaGlKRXdzZ25GNC11WlJCcFg0d2hGWDhkM24wWDBONC05SnFnaFVXUmVIQm5YaEd4NW5oT1NWVkpsWlZWanloYl9ZQlB2OWE4OW0zM3l3LU5WcW5TaDJUQ0hjZ3VIaDQybS1ZVDJ0YUx0S3d4SHFrZzRIZVRGWUUyWDlBeGJFeWVfdHpYNFV0RFhQaXA0MHVEa3Bka0pmSS15ZUZtRVVLUmtXVERNNTBWbjFWbDFiR1NjUFZPam5oeFN0VXFwNEI3cmhfS3VQS05aUzRvSlk3TWhKOUg2NXNMLThyNGFzY0R1Mm5sQ1Q5a2ZuZUI2cElnMldicndPVGJrNGI2RU04bVdPUHQ4bXkwRmNSeS1FbDVfRkg1UkltZFNrU3FXOFJwSWJxZFRWTVpEaEdjS2pENnhUeU52Y2ZyazVGU183S3A3ZjZvUVd6aEwxQm83ZE5qZjR3ejlIeUVqRDBSLUV0RDkzd1REaGd2UXVZaTRPRG5LWTVnT3pXOA?oc=5",
+      "source": "Thông tấn xã Việt Nam (TTXVN)",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-07-25T01:15:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Vietnam-Lëtzebuerger Ausseminister Sëtzung ... Accord fir Zesummenaarbecht ze vergréisseren",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La réunion des ministres des Affaires étrangères Vietnam-Luxembourg... conviennent d'accroître la coopération",
+          "summary": ""
+        },
+        "de": {
+          "title": "Treffen der vietnamesisch-luxemburgischen Außenminister ... vereinbart, die Zusammenarbeit zu verstärken",
+          "summary": ""
+        },
+        "en": {
+          "title": "Vietnam-Luxembourg Foreign Ministers Meeting...Agree to Increase Cooperation",
           "summary": ""
         }
       }
@@ -47226,105 +47321,6 @@
         },
         "de": {
           "title": "Arles 2026: Lët'z Arles Luxembourg Photography Award 2026: La Nature d'Edward Steichen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e56a1afc6551c482ed5dd92f638e1d5accc045bb",
-      "title": "Чемпионат Люксембурга по футболу — 28 Тур 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlZEYXVnVFpHV3NQdjJiU2ZkWGp3TlItWmI4dmMtZ3FiLTNoWlJoY3M0eHRDeDRNNndtUm8xWmZPNEJBdjB1UnVXVU5TNlNtNmxEMmhCQmFpQ3RxN1lZRGNraHNkQ3dRQjRxYzlyN2laUG1ZczlhMXl2RVdhOHdvVl8xQ1lqOEUydEJUOWV1R2JBMlZNMmczYnVn?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-06T04:03:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Fussball Championnat - 28. Tour 2026/2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburgische Fußballmeisterschaft – 28. Tour 2026/2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Championnat du Luxembourg de Football - 28ème Tour 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Football Championship - 28th Tour 2026/2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "eecb9a7204f38c562c7b6f7aa30bc65d5993d11d",
-      "title": "Люксембург признан самой красивой столицей Европы, обойдя Париж и Мадрид",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRFNhb0g5WUVEMlhqM044Wm5seTlTMHluT0taRXNuZHh2NDF0eFFjNFdTdl8tR19XUEVDb3h1WmE3c0FYbGFqbnFta1ROWEk0NGhlbk5wbXR1M01GZEcwaEUxME1hdG4zRlFrNEpqbGF6cmU2YTVydV9Bbk51eXJrZVRaYlBzVHM3c0U5dS1Bb3pzMmFldXp5SDVxRWZSN09h?oc=5",
-      "source": "noi.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-06T02:54:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg gilt vor Paris und Madrid als die schönste Hauptstadt Europas",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg gëtt als déi schéinst Haaptstad vun Europa unerkannt, schléit Paräis a Madrid",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg est reconnue comme la plus belle capitale d'Europe, devant Paris et Madrid",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg is recognized as the most beautiful capital of Europe, beating Paris and Madrid",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "97e9eacdae38dff3ee4fce7d3c9baea353a647de",
-      "title": "Золото Европы: как юные синхронисты из России покорили пьедестал в Люксембурге",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjl3Y20zLUI4Q190bGFvWWRrMTRTWkJyN2NnSW9Jbk5KamdaajZPTVhkMTByWGtWaUNWZzlIWDNGelByallTWnpJU21OeWJCSWlHTXVzR0xtcldOS0ZRREpyZTgwM3pYVTBWYk91RVkzLThpUWxMY1A4TkUxdVNvd2ZPZloxTUNjSmxyRnI4bHFGVXdLS3IybWZ1V0RiY1k1VGVYVVhR?oc=5",
-      "source": "OdinNews",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-06T01:44:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Europagold: Wie junge Synchronschwimmer aus Russland in Luxemburg das Podium eroberten",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Or européen : comment de jeunes nageuses synchronisées russes ont conquis le podium au Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "European gold: how young synchronized swimmers from Russia conquered the podium in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Europäescht Gold: wéi jonk Synchronschwëmmer aus Russland de Podium zu Lëtzebuerg eroberen",
           "summary": ""
         }
       }
