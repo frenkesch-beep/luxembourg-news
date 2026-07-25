@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-25T10:02:35.257Z",
+  "generatedAt": "2026-07-25T11:35:39.923Z",
   "items": [
+    {
+      "id": "8394d4244fcd2736ca4d69705eb5684783765f5c",
+      "title": "12 points go to… Le Luxembourg ! Luxembourg!",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sVVhBOUFRR3UyODk3Q3ZfaTBzcVRRNnVWUjNRU3hFeFZrSHRlSUFYbmUtOWJHblk2a0tqU3BLb1I3eWl3VjNJMm9vRlJjYUE3elJuRmFzZUlpeU5vQTJfbF93SjFtakRVajRBS3Jibml2azZMSW4tLUREemNwY3c?oc=5",
+      "source": "L'Eurovision au Quotidien",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-25T10:58:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "12 points go to… Le Luxembourg ! Luxembourg!",
+          "summary": ""
+        },
+        "en": {
+          "title": "12 points go to... Le Luxembourg! Luxembourg!",
+          "summary": ""
+        },
+        "de": {
+          "title": "12 Punkte gehen an... Le Luxembourg! Luxemburg!",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "72115dd9f2726a00fa61fc22a1fbecb9cbb8f2c5",
       "title": "Radio Luxembourg | Radio Studios | Radio Equipment | DJ Equipment | Technology | Studio Equipment",
@@ -7119,6 +7148,39 @@
         },
         "lb": {
           "title": "Brennstoffpräisser haut zu Lëtzebuerg: Dat kaschten den Diesel an de Bensin e Mëttwoch, den 22. Juli",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7702c59d2ac070a156695219ef32b7036a1ce89a",
+      "title": "Wskaźnik jakości powietrza (AQI) w Mondercange i zanieczyszczenie powietrza w Luksemburg | IQAir Polska",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkFzdlMwb2FMTENXSUg0cHRkQlpKVDlkMmhLUzZWdjRtSEFPYzJ1NkN1eF9DODRnX0FsUmxnQXBPYTZJenVjaWozbEVzdmpTVkpZbXZKRWlncC00V3Rhd0xpeXNfOERIOGZkVldiQm1CeTRJZTk1YkFtR1g3Z1hhMTd3?oc=5",
+      "source": "IQAir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-07-22T10:38:03.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Air Quality Index (AQI) zu Monnerech a Loftverschmotzung zu Lëtzebuerg | IQAir Polen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luftqualitätsindex (AQI) in Monnerich und Luftverschmutzung in Luxemburg | IQAir Polen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Air quality index (AQI) in Mondercange and air pollution in Luxembourg | IQAir Poland",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Indice de qualité de l'air (IQA) à Mondercange et pollution de l'air au Luxembourg | IQAir Pologne",
           "summary": ""
         }
       }
@@ -46950,6 +47012,72 @@
       }
     },
     {
+      "id": "6aa7ea3bf8575467d32dac53036aa031b9e78e18",
+      "title": "L’iniziativa di Canada e Lussemburgo: Carney e Frieden lanciano la banca della NATO",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkVKajVCajF4THhfaDJaSTE4SkI2RDNSemlsd3pkaWw2SW5EVHMyMkhxYXNOb0FHN2tDUFE2ZU45UWFfaHNFZTRkamo3cnM5dl9zekxGZ3FSY2pkOTdvN0RtQ1RJcDM4b3hvOVRPV29rOFNWdXh3OXAxWjBra3FSdVJ2dmJ0SGFiNjBlTzQwSUJ3cTNHTUQtcDBHblNqUFBwcExJRlZ2ZTJvOHVNbi1sblVYQVdVaG45R09R?oc=5",
+      "source": "Analisi Difesa",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "eu"
+      ],
+      "translations": {
+        "de": {
+          "title": "Die Initiative Kanadas und Luxemburgs: Carney und Frieden gründen die NATO-Bank",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'initiative du Canada et du Luxembourg : Carney et Frieden lancent la banque de l'OTAN",
+          "summary": ""
+        },
+        "en": {
+          "title": "The initiative of Canada and Luxembourg: Carney and Frieden launch the NATO bank",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Initiativ vu Kanada a Lëtzebuerg: Carney a Frieden lancéieren d'NATO-Bank",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d1fa4b37d1a69f4c296e960278816b04cfb14047",
+      "title": "남병호 헤링스 대표 \"룩셈부르크 정부와 소프트웨어 협약...유럽 매출 나올 것\"",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcU5xRldUYVROd0t1RlZVNWhNdWQ5MUNFY2d2QjdIWk1SN3VOc3BPMEVYYWgwZXpoVTBseXdnU1pJM0tpb3RodnJuYTJYLWFnbndKZ1lSYzZ4UlZsVHpKRHZMOTE0WE9oYmh4bXJ1QWU0RVZxN09QOG5aRWtTVFVjcA?oc=5",
+      "source": "edaily.co.kr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Nam Byeong-ho, PDG de Herrings, « Accord logiciel avec le gouvernement luxembourgeois... Ventes européennes attendues »",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nam Byeong-ho, CEO von Herrings: „Software-Vereinbarung mit der luxemburgischen Regierung … europäische Verkäufe erwartet“",
+          "summary": ""
+        },
+        "en": {
+          "title": "Nam Byeong-ho, CEO of Herrings, “Software agreement with Luxembourg government... European sales expected”",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nam Byeong-ho, CEO vun Herrings, \"Softwareofkommes mat der Lëtzebuerger Regierung... Europäesche Verkaf erwaart\"",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "193d4b4a159ee24d7bbfd05b4d55237dae397455",
       "title": "لوكسمبورغ مهاجماً أنشيلوتي: لو كان برازيلياً لكانت المطالبة بإقالته فورية",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53NFA2UHVKUW5DQ3Zybmd1NnJLZnFPQTRhUnF2YlRUSjctOFFQek1pZ2Q0LVNXMjVGX3lxbzZubVo0VUROa0NhbzZBN3dCdWpNa3dxaHhpQkxncHpPUnh2cHl2MllnbUnSAWdBVV95cUxOdzRQNlB1SlFuQ0N2cm5ndTZyS2ZxT0E0YVJxdmJUVEo3LThRUHpNaWdkNC1TVzI1Rl95cW82bm1aNFVETmtDYW82QTd3QnVqTWt3cWh4aUJMZ3B6T1J4dnB5djJZZ21J?oc=5",
@@ -47197,134 +47325,6 @@
         },
         "lb": {
           "title": "Europäescht Gold: wéi jonk Synchronschwëmmer aus Russland de Podium zu Lëtzebuerg eroberen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ae10b2c899ec65908b1ab5d61f6a45f27ec3daf2",
-      "title": "Вільц — турнірна таблиця Люксембург: Національний дивізіон 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVVlckUtb3l0dlJkclo5ZVpRX3B2NWdWY3VLVG5jdGdlQ0IzMkROOUtXdkV5ejFvUWVMaUdQMVh4TVRHcHJTeTZhRzRMSGd0VWFzTXJLTGw5cHJsRFNvZXRMVFJJV2pGZGlraF9yZ1UzWWJZVXFOaE9KMFRZWFBHSTkteWNUV3dMM1FqeUFaUkNub3B1YkE?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-06T01:25:39.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Wilts - Klassement Lëtzebuerg: Nationaldivisioun 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Wilts - standings Luxembourg: National division 2026/2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Wilts - Rangliste Luxemburg: Nationale Division 2026/2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Wilts - classement Luxembourg: Division nationale 2026/2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6fcb4bdac1e1c581f0ad4916791f0556426d7062",
-      "title": "US Feulen — турнірна таблиця Люксембург: Дивізіон Пошани 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSzhXcTQxdDRPOFJHNWtyOW1TMVRmQW55Y0pQVy1BVEozcGR1YzVTRkRlVDY2cURxOXBDZ21vM2xzRmVlaDRoZERUMVJOdGhLazlPMFRiWEQ4b1hVNXdqZ3dPaE5mbkhBMmFUbEc3cDRJU05QWFJhd05GYWlDdVB2XzhOdFVWdV8yTXc?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-06T01:25:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "US Feulen - Standing Luxembourg: Honours Division 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "US Feulen - standings Luxembourg: Honors Division 2026/2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "US Feulen - Rangliste Luxemburg: Honors Division 2026/2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "US Feulen - classement Luxembourg: Honors Division 2026/2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4f98598a1e12fe90a41af1c9e35921191b2f4a0c",
-      "title": "FC Koeppchen Wormeldange — турнірна таблиця Люксембург: Дивізіон Пошани 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUNhbnhjQUQxRHkyTTJQZWR4TGFZSXBldU5aOW5LVVQ3TnNuYm5mbllGM1A5R0pFSzU0ZjhOZG1qWnNVQjkzekZpUWtKM01jSTJwVjNodkZOVWxOd2dDZFZjYnVWY0pWUjhlcjRvUnZ0ZTNxZXFsTUJxRWluTE1iejI5ZUVGQ0FGa3BGXzlR?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-06T01:25:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "FC Koeppchen Wormeldange - Klassement Lëtzebuerg: Éieredivisioun 2026/2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "FC Koeppchen Wormeldange - Rangliste Luxemburg: Honors Division 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "FC Koeppchen Wormeldange - standings Luxembourg: Honors Division 2026/2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "FC Koeppchen Wormeldange - classement Luxembourg: Honors Division 2026/2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2d0011ca8ac05c7dee5ed5a27397a62dc1b0c202",
-      "title": "La licence provisoire de fournisseur d'actifs cryptographiques de Ripple au Luxembourg est passée à une conformité totale",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ2xRNFJFZFBWbm9rU0xPVDgxcFF2VjNpVXF5b3pDUFU3UGpYeTNmaW1vbGtNaTItV1gzNTMxbktzQk1SVDBYcS0wd2xUMTF3RFBjQ01HY0dkYWZZWldNelhvRy1Nb01BbXRQVXkzSzdleWN2S3Z3Z25ncExLT2ZrYkk1U1NJOTh6TTctaV9Wdm01Tm9DNFVnNUJhOUFwYWIxdXVhMkxsR1EzT3JQaTVzUE55N09VMTB2TURzeXlQcmJaQlV3WXNoX2tQQ1I1ZFFPYS1aaw?oc=5",
-      "source": "CoinDesk",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-06T01:01:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Ripple's provisional crypto asset provider license in Luxembourg has moved to full compliance",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die vorläufige Lizenz von Ripple als Anbieter von Krypto-Assets in Luxemburg ist nun vollständig konform",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Dem Ripple seng provisoresch crypto Asset Provider Lizenz zu Lëtzebuerg ass op voll Konformitéit geplënnert",
           "summary": ""
         }
       }
