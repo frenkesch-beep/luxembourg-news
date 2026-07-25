@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-25T07:28:40.960Z",
+  "generatedAt": "2026-07-25T10:02:35.257Z",
   "items": [
+    {
+      "id": "72115dd9f2726a00fa61fc22a1fbecb9cbb8f2c5",
+      "title": "Radio Luxembourg | Radio Studios | Radio Equipment | DJ Equipment | Technology | Studio Equipment",
+      "url": "https://www.youtube.com/watch?v=BKSfZWxNjp4",
+      "source": "ThamesTv",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "ja",
+      "publishedAt": "2026-07-25T08:02:26.510Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/BKSfZWxNjp4/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhcIFwoXDAP&rs=AOn4CLCE2QfFMxHgKyLZDqEichVTTq9ibg",
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Radio Lëtzebuerg | Radio Studios | Radio Equipement | DJ Ausrüstung | Technologie | Studio Equipement",
+          "summary": ""
+        },
+        "en": {
+          "title": "Radio Luxembourg | Radio Studios | Radio Equipment | DJ Equipment | Technology | Studio Equipment",
+          "summary": ""
+        },
+        "de": {
+          "title": "Radio Luxemburg | Radiostudios | Funkausrüstung | DJ-Equipment | Technologie | Studioausrüstung",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Radio Luxembourgeoise | Studios de radio | Équipement radio | Équipement DJ | Technologie | Équipement de studio",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "306121513ac03471c0802779c07509332ee05adf",
       "title": "Stipendi docenti, Italia fanalino di coda in Europa: -57% dal Lussemburgo",
@@ -30,6 +63,39 @@
         },
         "de": {
           "title": "Bei den Lehrergehältern bildet Italien das Schlusslicht in Europa: -57 % gegenüber Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9768898c3982df0152419337c05160e8a03454b7",
+      "title": "Luxemburg O21 0-1 Faröer O21 (9 sep., 2025) Uitslag",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxZkg5ejlMd0llQzVSS2lLd3hJNVZ3a0pVVXpVTmhhUmdrWGpXTXc0OWxWb21qOXVRbmZSQjBOelYyTzEtSlU4M01WMFg2MzV2eE1sR01pTkhDTzdJaGZYcXMySmplN2xrMXJsM0FJTThmVWI1VzU1LXpVNA?oc=5",
+      "source": "ESPN.nl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-24T22:36:29.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxemburg O21 0-1 Faröer O21 (9 sep., 2025) Uitslag",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg U21 0-1 Faroe Islands U21 (September 9, 2025) result",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ergebnis Luxemburg U21 0-1 Färöer U21 (9. September 2025).",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Résultat Luxembourg U21 0-1 Îles Féroé U21 (9 septembre 2025)",
           "summary": ""
         }
       }
@@ -2497,6 +2563,39 @@
         },
         "en": {
           "title": "The Chinese automobile brand CHERY sets up in Belgium and Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5970abc2ade779ccf5e72e217ac9e116c3330481",
+      "title": "Il Lussemburgo desidera continuare a contribuire alla nuova fase di sviluppo del Vietnam.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaV9Dd1RaRllSZEdhTHBOQzlELWQ0d0dlekRrc0p3bGZmTUNJSkxSTU1KYkRRZzFRMW82MFppTUx1RmVwQXp5bHB6akdFekVxck9XZTJkMURLeFM2bzJzcEtsMnRpeENuZXNDYV9mUnJ0S2pmc2tRQXZITGgxck9FUXh2SXNuOEhrcERab2ZMX1o1SlE3VzNjVFBuMVRsd0dmQXlkYlFybnFfbm0y?oc=5",
+      "source": "Vietnam.vn",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-07-24T10:31:10.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg möchte weiterhin zur neuen Entwicklungsphase Vietnams beitragen.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg wishes to continue contributing to Vietnam's new phase of development.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg wëll weider un der neier Entwécklungsphase vu Vietnam bäidroen.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg souhaite continuer à contribuer à la nouvelle phase de développement du Vietnam.",
           "summary": ""
         }
       }
@@ -5476,6 +5575,39 @@
         },
         "fr": {
           "title": "Bregal Sagemount prend une participation majoritaire dans la société luxembourgeoise ATOZ Services",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "cb32908bdfa6cf3175dbb0ee75b61e5aa5d6d281",
+      "title": "Antonov An-2 Runway Incident at Luxembourg Airport | What Really Happened? ",
+      "url": "https://www.youtube.com/watch?v=r_4sl6VpyWo",
+      "source": "Sky watch global ",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "pt",
+      "publishedAt": "2026-07-23T10:02:26.145Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/r_4sl6VpyWo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRw8nP_EnDd_oLvfYLU2whVznqkQ",
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "de": {
+          "title": "Zwischenfall auf der Landebahn einer Antonov An-2 am Flughafen Luxemburg | Was ist wirklich passiert?",
+          "summary": ""
+        },
+        "en": {
+          "title": "Antonov An-2 Runway Incident at Luxembourg Airport | What Really Happened?",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Antonov An-2 Runway Incident um Luxembourg Airport | Wat ass wierklech geschitt?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Incident sur la piste de l'Antonov An-2 à l'aéroport de Luxembourg | Que s’est-il réellement passé ?",
           "summary": ""
         }
       }
@@ -8741,6 +8873,39 @@
         },
         "lb": {
           "title": "Embraer erweidert Jet Flott a Japan, Spuenien a Lëtzebuerg mat neien Bestellungen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6b1d3c75b93a991a27fb027372f42b8cd7af6e31",
+      "title": "Avioni i linjës Ryanair Londër–Tiranë devijoi në një ndalesë të paplanifikuar në Luksemburg",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZERGOHVqV09uS1NQakNxMldORTEtSi1CSXhaa1RpNS14d3hnazI1ZHl4Uy1WT1gxTEtHdVdxUEt5dlJRNUlTU29INmJRSkVNdTlUMnZUaWlGRjktWlEwSkowWkhSa01lMlJPRDFnbm0wSk4yVzFmSGFwRmVwR3libjlLSkVJZndGZHM5eWhkRnNNWks5VUZ3QnczOFpwWHhoaTRVRy1MR3kwS3dLblVoblRLTTltc2FVUllFeUszNmlDeWVOM05vT0MzOWZtMFY0Q1FweHBQOE45dFlJMjZTMGsxU2pLbUdiT1dqQmtNamxwamtZUFhWOVpKXzNlSjdsZmxCSWQxX3JJUnRpQzg5U0F6bjd0TFRCajdmLUNnTGdiRWZOSEJv?oc=5",
+      "source": "Reporteri.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T12:01:12.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Der Ryanair-Flug London-Tirana wurde zu einem außerplanmäßigen Zwischenstopp in Luxemburg umgeleitet",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Ryanair London-Tirana flight diverted to an unscheduled stop in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le vol Ryanair Londres-Tirana dérouté vers une escale imprévue au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Fluch vu Ryanair London-Tirana ass op en ongeplangten Arrêt zu Lëtzebuerg ëmgeleet",
           "summary": ""
         }
       }
@@ -12213,6 +12378,39 @@
         },
         "en": {
           "title": "Lars-Göran, 75, cycles to Luxembourg – for children with diabetes",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8d8df119b0fd61b45b061abe23dba931633c4d69",
+      "title": "Galería de Guía de arquitectura de la ciudad de Luxemburgo: 23 proyectos para explorar en el Gran Ducado - 12",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPM2t2YjN3REY2N2tBeThWTzFHeEFWbFJ2MTFYcHZ0WTlpRnRLSzVwcGhzQ1V5TE0zajJBRDJ1TkhHdHUwQjliS0hocEYyRWpoeEVXMDRoUTlJdHBiaHdTNWo5eXlqLXFycUNBZXByMEcycFNKdUdsandzT3pMU1lXYlZzOEhKNkExdlZfellaeXdpZjVNV2V5cGpLMEEzYUx1S2hUM2FjNWNCVkYyR3YtaUU5TDlsZllNY1RfN2t3UTZUZk5pTG95cHN5bHZNNmxxSy1HSEZ6MXFhMkpYUGplUlhxX0ltWVFqYWZIWWFWTkdnU2dEck05V3hzM1pjOFNYb09XR1pSNDk1WjdqRVJ1RTZ6TGhKTmRtbUE3UzlBUDFSb2N6U3V5OWxfUUtTd0hOMkxZMVRQRmpfcVlKSkdGaUVCa1I3VFF5Xzd6cGp6YS0zeUJJZDdURQ?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-19T09:34:14.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Architekturführer der Galerie der Stadt Luxemburg: 23 zu entdeckende Projekte im Großherzogtum - 12",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Luxembourg City Architecture Guide: 23 Projects to Explore in the Grand Duchy - 12",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie du Guide d'architecture de la Ville de Luxembourg : 23 projets à découvrir au Grand-Duché - 12",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie vun der Stad Architektur Guide: 23 Projete fir ze entdecken am Grand-Duché - 12",
           "summary": ""
         }
       }
@@ -47127,200 +47325,6 @@
         },
         "lb": {
           "title": "Dem Ripple seng provisoresch crypto Asset Provider Lizenz zu Lëtzebuerg ass op voll Konformitéit geplënnert",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f2f7d2ba482a44174d532addaad32c353fb145cf",
-      "title": "Luxemburg wertet Ripples vorläufigen Krypto-Asset-Anbieter auf vollständige Konformität hoch",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVQcEdlTDJOZnVpaFVIVUUySDJha2U4bU9IRndPYS1EMnVPSVRDVklFdDdSemtMYUZEUk5MYVZWSnczQng4Vl80UndydkVGQ0JIYVVyeGFJcWZEZDNGc210dnlzbWQ4dWVIVnBPWFRnaDBSdGIxSlNqRjBJb2RvTVNIcC1RaVNmV2NMRjFNUURlQnZFY3Q3UldsTE1NSVpNaXNGb3llSVMtLTRESkdSLW9DSmZKQy1jb2k0T2pXWkpkNnFHNVlNMHdBQXFxYzZTUVV2Xw?oc=5",
-      "source": "CoinDesk",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-06T01:01:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg upgradéiert dem Ripple säin Tëschenzäit Krypto Asset Provider fir voll Konformitéit",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg upgrades Ripple's interim crypto asset provider to full compliance",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg met à niveau le fournisseur intérimaire d'actifs cryptographiques de Ripple pour le rendre totalement conforme",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1f238eff05a58ec2de79576762c682cf3ad1ba54",
-      "title": "Il Lussemburgo aggiorna il fornitore preliminare di asset crittografici di Ripple a piena conformità",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnpNTF9NdXBCUGRROVYyOFg1VklzTExuYndyMG5NcjdGaUFLMVd5OUdoa29pTXlORnZfX3dCSnk1ZEt4MVY3V2diZlhreVB5YXJWMWRpOVNSMUxESTFKeFlNMzVqTVVHU2R5WkZiSVpTTGYtSFFyekwzRXAtamJBQVRiaEJDbFdoQWxwOXF4bXlGdU5WdS1nOUItelp1d2JTUkxOQ2pGcmwweFZLd3hlZWhiZzZ6U0doYVJwYzhoLXFjUzdCT0I4RkMwejdHUVZVZV9zSA?oc=5",
-      "source": "CoinDesk",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-06T01:01:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Luxembourg met à niveau le fournisseur préliminaire d'actifs cryptographiques de Ripple pour le rendre totalement conforme",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg stuft den vorläufigen Krypto-Asset-Anbieter von Ripple auf vollständige Compliance hoch",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg upgrades Ripple's preliminary crypto asset provider to full compliance",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg upgradéiert dem Ripple säi virleefegen Krypto-Verméigen Ubidder fir voll Konformitéit",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5a69f8bc08f56f7b34c2e2606540cd62a8f4ebda",
-      "title": "Люксембург оновлює статус попереднього провайдера криптоактивів Ripple до повної відповідності",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGhIdDI3V0hFSWZwR2xCRGdHejBIZExCMURzYXhlUkVXZlhzUGROYXNBT3lIeEJGUm5kSDJNNmNQSGF1cnM4Sk91aVA5MmZIeVNXUGkzR0Y3Z1dNZDA5S29PMTZQZEpYbFo4bVBBNVlhMnc2VHhvWkJJSnNKRDhaQU84aXdRcEdZeVktYzc5SllqU1ozRGQ1UUtPUVBOZXp4bEdIZnEzX3NrWUUwNzJlWjA5RHdLWlJiU0twcTZXT3ltY2x3TmhfZXAtRll3TGFnTkJ1ag?oc=5",
-      "source": "CoinDesk",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-06T00:01:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg verbessert dem Ripple säi fréiere Kryptoasset Provider Status op voll Konformitéit",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg stuft Ripples bisherigen Status als Anbieter von Krypto-Assets auf vollständige Compliance hoch",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg met à niveau le statut précédent de fournisseur de crypto-actifs de Ripple pour le rendre totalement conforme",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg upgrades Ripple's previous cryptoasset provider status to full compliance",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6aa7ea3bf8575467d32dac53036aa031b9e78e18",
-      "title": "L’iniziativa di Canada e Lussemburgo: Carney e Frieden lanciano la banca della NATO",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkVKajVCajF4THhfaDJaSTE4SkI2RDNSemlsd3pkaWw2SW5EVHMyMkhxYXNOb0FHN2tDUFE2ZU45UWFfaHNFZTRkamo3cnM5dl9zekxGZ3FSY2pkOTdvN0RtQ1RJcDM4b3hvOVRPV29rOFNWdXh3OXAxWjBra3FSdVJ2dmJ0SGFiNjBlTzQwSUJ3cTNHTUQtcDBHblNqUFBwcExJRlZ2ZTJvOHVNbi1sblVYQVdVaG45R09R?oc=5",
-      "source": "Analisi Difesa",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-05T23:24:38.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "eu"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die Initiative Kanadas und Luxemburgs: Carney und Frieden gründen die NATO-Bank",
-          "summary": ""
-        },
-        "en": {
-          "title": "The initiative of Canada and Luxembourg: Carney and Frieden launch the NATO bank",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'initiative du Canada et du Luxembourg : Carney et Frieden lancent la banque de l'OTAN",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Initiativ vu Kanada a Lëtzebuerg: Carney a Frieden lancéieren d'NATO-Bank",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d1fa4b37d1a69f4c296e960278816b04cfb14047",
-      "title": "남병호 헤링스 대표 \"룩셈부르크 정부와 소프트웨어 협약...유럽 매출 나올 것\"",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcU5xRldUYVROd0t1RlZVNWhNdWQ5MUNFY2d2QjdIWk1SN3VOc3BPMEVYYWgwZXpoVTBseXdnU1pJM0tpb3RodnJuYTJYLWFnbndKZ1lSYzZ4UlZsVHpKRHZMOTE0WE9oYmh4bXJ1QWU0RVZxN09QOG5aRWtTVFVjcA?oc=5",
-      "source": "이데일리",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-05T23:11:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Nam Byeong-ho, CEO vun Herrings, \"Softwareofkommes mat der Lëtzebuerger Regierung... Europäesche Verkaf erwaart\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "Nam Byeong-ho, CEO of Herrings, “Software agreement with Luxembourg government... European sales expected”",
-          "summary": ""
-        },
-        "de": {
-          "title": "Nam Byeong-ho, CEO von Herrings: „Software-Vereinbarung mit der luxemburgischen Regierung … europäische Verkäufe erwartet“",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Nam Byeong-ho, PDG de Herrings, « Accord logiciel avec le gouvernement luxembourgeois... Ventes européennes attendues »",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "22e6a5d399ced25ffe7b072ca2e2a831164eb0ef",
-      "title": "Eurovolby 2024 | Lucembursko - Země EU - Výsledky voleb",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2lWb0dQSktwb19MNl9yVXNjY3Z5RzRwX0pRYy1QZ2tpS3MwaDFLdmVhS1RwNk40MmtrSDNDYlN0TExxc3BXSlVBMmxsYW5SaGRhajRxdks5VF9oY290WFJMTl9qV01obXpYN1dHZnhSZU42TFlleUZpLTBfYVNpRVI4RGtyQU5GSlRaenlFYVJGb3AyaTZuVFJtc04xVHBZWjJzMExXZ2h2OG9oNElpaUp6NjFrTE0?oc=5",
-      "source": "Novinky",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-07-05T22:52:29.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Eurowalen 2024 | Lëtzebuerg - EU-Land - Wahlresultater",
-          "summary": ""
-        },
-        "en": {
-          "title": "Euro elections 2024 | Luxembourg - EU country - Election results",
-          "summary": ""
-        },
-        "de": {
-          "title": "Eurovolby 2024 | Luxemburg - EU-Land - Wahlergebnisse",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Eurovolby 2024 | Luxembourg - Pays de l'UE - Résultats des élections",
           "summary": ""
         }
       }
