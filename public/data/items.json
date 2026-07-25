@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-25T21:09:18.917Z",
+  "generatedAt": "2026-07-25T22:11:13.649Z",
   "items": [
+    {
+      "id": "1791ec68ef83ce8796198a4e8f50074c0ac8baa7",
+      "title": "VdK Ortsverband Mayen organisiert erfolgreichen Tagesausflug nach Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVZqeW9IM1ROODNmWHdqdk1jVVZJWFBNbEt6LTBWcmx6S3Z3eFJ5bkczRExWYTFsSDluREdfTExJYUhjZURLYWRjWHhYNGFtTW52YjRIaDMtRlJLeTJ1RndwemVkdVozLTlnMEFsa2FWbm5yOFQ1dThpSktxWXJ0VjQyWGtSRFVlQWlmQXNvbjF1ZzRDdFZad2IzeHZWVzAyWDVHbVdVZHpoMVNjaGU2NXliRUgwdnJjYUxWblZtcw?oc=5",
+      "source": "blick-aktuell.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-25T22:07:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "VdK Mayen local association organizes successful day trip to Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "VdK Mayen Local Association organiséiert erfollegräichen Dagesausfluch op Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'association locale VdK Mayen organise une excursion d'une journée réussie au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "9047a58c27b5ebffce522fcfcc53806423831604",
       "title": "卢森堡副首相贝泰尔访新 出席卢驻我国大使馆开馆仪式",
@@ -88,6 +117,39 @@
         },
         "lb": {
           "title": "Brennstoffpräisser Lëtzebuerg haut: Dat kaschten de Bensin an den Diesel e Samschdeg, 25. Juli",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "16c2acb187ebaa5525994aa10a8067e494541b27",
+      "title": "Соцсети: на улице Розы Люксембург произошло ДТП",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPdnZnam1Ucy0tNFZRenFMakY5NzBTWDlsR0ZRYTFUdG1HQkxkdWRxXzJjamVpdmptVHBkNFZkV19IRHBneTJxVnZlN1hJSHE1aEY1UFRTMmF4RjB0b21MeVN4c3BYbzdYQjUyS1I2MlBFY2M4ZFF5S0pmMnlLaktiallZUFJ4M3NERXFNSW95ZUV0QWZPOVAxbjRaZ3ZhdUwySHdlU3lGV1Y2QlZWcFA2TjRCWVh5b0JDOGNrdTdlSkpOM0FmQ3hRSDlfMWlYYldHRzlmYko3dHFfc1VhbElEUXJvYzB5MDRqQ0ljMGRKc0xla3lMcDV2UlJZZndpVmlPQ1lIRmZlVUp6ZEpsb1I5M1hOOGs3OXVlMkJVNGNwVHlLZFQxSTFwZm10Z25zcDM0ME1uakFfdkpaQ29FZnM0WExsOXdpYUlXMm1ZStIB0gJBVV95cUxNdkxJdHhZNjZZV3pob1ZRaDRKbjBVOU1UQ3QtMmVRTXNiUXVtM3YyV0ZpOGV0WVZ1ODhvNUZVZXNMRGVJRzV6YmNvWXNweVZoZkJQSFBnNFNJdFN4bklUbFVTQzBlemtmVFBITWZRVFdlUHd2bE5DOVgwcVpuel9uX1A2TVNvaWE4UHhBTXhLNmFBa0dvbnJyNmZtVHBvTGQ1elJIYUVkWGotR3doOE5LNVVSY09ZdjB6b01qRjFsMFJKMDZYUU91ZjlyQ1VRbmhfNU9qbF9iYi13bmozMVhwSHQ5OTQ1bW02OTFLaW9zQWJtMTFYeGVyQjdueFBJekFldmJyOVE0MFBZQVRrWlZhdlNhSS00aWZRV045TF9yRlU5cHhKaWpQNXpmLXBSUWRPNDFFZFByMjBUOHpkVTRCUHlKaXZxR1RvQW5hajJKajZRdw?oc=5",
+      "source": "misanec.ru",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-25T08:18:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Soziale Netzwerke: In der Rosa-Luxemburg-Straße kam es zu einem Unfall",
+          "summary": ""
+        },
+        "en": {
+          "title": "Social networks: an accident occurred on Rosa Luxemburg Street",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Réseaux sociaux : un accident s'est produit rue Rosa Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Sozial Netzwierker: Accident an der Rosa Luxemburg Strooss",
           "summary": ""
         }
       }
@@ -6071,6 +6133,39 @@
         },
         "de": {
           "title": "Von der Verteidigung bis zum Wohnungsbau: Luxemburg verstärkt den Vorstoß bei Privatanleihen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fb84e83c8f6e83512180674342bfda9c97f3719a",
+      "title": "瑞銀 (盧森堡) 美元非投資等級債券基金 (美元) (月配息) 的總覽 | 鉅亨網 - 基金老司機",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNakpxOG5PSVA5N0tvck1vdU8zZFg4NWRfNzBKaG9fQ3VOZUtTZTRGNkx5SEdibGw4djNJRE80alVhVVNIZ1hab0E2aG41VHNOMzdXUm90Y05qMHYzLVpEYndrTnVidGFhWHBxT00yaWV4bFphOW1nUktiVnk0dWg3VUM3X1hFVUpOMDdQVUhWb0pvV1JjNFFkVUlCYWk5RlViaVVKbldObmFEUS1iU1hTaThBaDQ2VVpkQlN1RDAzU2dvRkRhdWdfcE1paTJ6anN1aGFTR1dLeXRSLWNIUmVrbEtKeXJKSHVZenVLTXZoQ3lpTHJNREttMG1UYjJlMnVXVElPcWVXa1FkTlIzY2xYODZHajFNVUQ0SGxnUE1aX2hmVkQ2TDB0aDdWR3dlRlEzRkVYVVhMMVNUX0xVa1E2ODFySlJDejBPV211WUdZYVEzOHFXaHplS2dNcW5OLUx1R1BpcElOLUhHc292V1l5ZXZreTJsX0xESVdReQ?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-23T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun UBS (Lëtzebuerg) USD Non-Investment Grade Bond Fund (USD) (Monatlech Verdeelung) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du fonds UBS (Luxembourg) USD Non-Investment Grade Bond Fund (USD) (distribution mensuelle) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of UBS (Luxembourg) USD Non-Investment Grade Bond Fund (USD) (Monthly Distribution) | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den UBS (Luxembourg) USD Non-Investment Grade Bond Fund (USD) (monatliche Ausschüttung) | Juheng.com – Fondsveteran",
           "summary": ""
         }
       }
@@ -47230,105 +47325,6 @@
         },
         "lb": {
           "title": "CMI Luxembourg / Moreno Architecture",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ece89cea0292822245bf64c40b221af1600fd522",
-      "title": "Urban Agency 与 COBE 为卢森堡阿尔泽特河畔埃施设计总体规划",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHRPWnRULWNCbkVvVnZ0bDQ4bERLY3lWMGRsdHlfNWY4ZUJSYnJ1UzVBZmdRV3R6aG9kaVRwYlA1YlZWaWF1MWVjWl8yQTg5Y1NXdGtiR2diS0xEa1JVUG9ybjJzUUxsME45WVRuUEJKNWsyOTc2R3lkZ2s5aUVsOHBCNHdjN1JfaC00RERuZEJDdVZjMzV5N2dsM2JublBzVmNnSXY3ZDBfdEw0aUNyRXNyN2RXalloWW1CdA?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Urban Agency und COBE entwerfen Masterplan für Esch-sur-Alzette, Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Urban Agency and COBE design master plan for Esch-sur-Alzette, Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Urban Agency and COBE Design Masterplan for Esch-sur-Alzette, Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'Agence Urbaine et le COBE conçoivent un plan directeur pour Esch-sur-Alzette, Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4f5f63999704724301c7638dc859bbe00c95043d",
-      "title": "2025年威尼斯建筑双年展卢森堡参展项目将以声音为媒介探索疆域",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdmotaF8xdlBQMXpPMWxjVnlwY1FtODhKSTZoSnhUS0U0YzdySXAtUjNoUXVkbUh6RGExUC0zU0lSZlpKYlJXMHJ3NXdYSjVmdG5rNTMySVhZb3dySUZ6UE03eVhLWURrc0RjX3RjZU41ZWdLNjVKVllIRmJQRVZtVWFOX3NFVHpyZ3ZYRGxmSEFreVk3OWtPSm5xTWMwX0JpcHNETHFfelF4OWpfTW9Hd3Zsejc3QzFIaVV0SHA1SmZCLUYyWUZWMHpOWWVzbXk1bkRVUVZINGNPMXdabnpDQ0huS2M4STZSN1lHeUlNUQ?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Projeten op der Architekturbiennale 2025 zu Venedeg benotzen Toun als Medium fir den Territoire z'erklären",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les projets luxembourgeois de la Biennale d’architecture de Venise 2025 utiliseront le son comme moyen d’exploration du territoire",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg’s projects at the 2025 Venice Architecture Biennale will use sound as a medium to explore territory",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburgs Projekte auf der Architekturbiennale Venedig 2025 werden Klang als Medium zur Erkundung des Territoriums nutzen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e5f1f69f3bea64bbfbc56bd8fb98b6ae90863efa",
-      "title": "10 Junho: PR apela a que Luxemburgo alargue opção curricular de ensino de português",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTNDVlpMbEFudm1rNHdhVXBFbFctUnJ4ZF9TTGR5clg3NG5aYnFUNlJacUF1emdQbW1Wb0xhcWdEZDQyLUNfZnRsTGNzUXZKRDR0bVV3M0lWc1N6TVFBYUU3d2FxWUxHUlptam54eDE0M0VIaTlYTVhPUzluU252cURGOURkNE5WTm96dlhYMFNWS3dNekZuSHJiOHRTR2s5NmhXZ3lkSzd6Q1h3aTVLNmxEdXg0djBBTVlnVWFiRVJFNldoMXpKZ2ZZV09yU1lBbHVOM0xOVFhzYnBkZ0E?oc=5",
-      "source": "JM Madeira",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "10. Juni: PR fordert Luxemburg auf, die Lehrplanoptionen für Portugiesisch zu erweitern",
-          "summary": ""
-        },
-        "lb": {
-          "title": "10. Juni: PR fuerdert Lëtzebuerg, d’Méiglechkeete vum Léierplang fir portugisesch auszebauen",
-          "summary": ""
-        },
-        "en": {
-          "title": "June 10: PR asks Luxembourg to expand Portuguese teaching curriculum options",
-          "summary": ""
-        },
-        "fr": {
-          "title": "10 juin : PR demande au Luxembourg d'élargir les options de programmes d'enseignement du portugais",
           "summary": ""
         }
       }
