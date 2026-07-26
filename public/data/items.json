@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T21:12:16.642Z",
+  "generatedAt": "2026-07-26T22:14:12.918Z",
   "items": [
     {
       "id": "0584b977914179e7d1dbea28674396e50e3e0085",
@@ -5371,6 +5371,39 @@
         },
         "de": {
           "title": "Goyangs Sonderbürgermeister Min Kyung-seon besucht die koreanische Repräsentanz des Luxembourg National Institute of Health (LIH)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a797fec0c900f3a1183d6d7feac49bb982b622b5",
+      "title": "민경선 고양시장, 룩셈부르크 국립보건원 첫 방문…AI·바이오 국제공동연구 '속도'",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoSS03dnQ1djVZeU0zMzBqRUFtN1FfTXRGc1RoamFPWWFvdUw4cUU5MlFKZmZ6Um02WlFTRFVIM3ljZUhzb2lNdFlwRUQxX3FXU3VoS3g3MzhXekM4?oc=5",
+      "source": "선데이뉴스신문",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-07-24T05:45:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Goyangs Bürgermeister Min Kyung-seon besucht zum ersten Mal das Luxemburger Nationale Gesundheitsinstitut... AI/Bio International Joint Research „Speed“",
+          "summary": ""
+        },
+        "en": {
+          "title": "Goyang Mayor Min Kyung-seon visits the Luxembourg National Health Institute for the first time... AI/Bio International Joint Research ‘Speed’",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le maire de Goyang, Min Kyung-seon, visite pour la première fois l'Institut national de la santé du Luxembourg... La recherche conjointe internationale AI/Bio « Vitesse »",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Goyang Buergermeeschter Min Kyung-seon besicht déi éischte Kéier de Luxembourg National Health Institute... AI/Bio International Joint Research 'Speed'",
           "summary": ""
         }
       }
@@ -47308,39 +47341,6 @@
         },
         "fr": {
           "title": "Journées du Patrimoine 2026 à la Serre du Jardin du Luxembourg : calendrier des manifestations",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "abd3b64ebaa39fed6e7ebaf6c2c6811ed7b52bb5",
-      "title": "리플, 룩셈부르크서 CASP 인가 획득…유럽경제지역 30개국 서비스 길 열어",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5neEMzVlQ0OWx1bExPQ1dJMG9WR3BjNjcxTGIxVEdHdThBZzIySm8tazAtc3lrUU90Zlc1VmFHNlJmcm1TLVB4eF9NajJRcm9iWEF0OG50WDE2OVFSVkIyZmhyeEZmRzdxaG9NZzlyaEVmTTQ?oc=5",
-      "source": "디지털투데이",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-06T12:09:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Ripple kritt CASP Zertifizéierung zu Lëtzebuerg... De Wee opmaache fir Servicer an 30 Länner am Europäesche Wirtschaftsraum",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ripple erhält CASP-Zertifizierung in Luxemburg... ebnet den Weg für Dienstleistungen in 30 Ländern im Europäischen Wirtschaftsraum",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ripple obtient la certification CASP au Luxembourg... Ouvrant la voie à des services dans 30 pays de l'Espace économique européen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Ripple obtains CASP certification in Luxembourg... Opening the way for services in 30 countries in the European Economic Area",
           "summary": ""
         }
       }
