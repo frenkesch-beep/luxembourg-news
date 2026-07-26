@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-07-26T11:37:31.039Z",
+  "generatedAt": "2026-07-26T13:57:58.793Z",
   "items": [
+    {
+      "id": "b4893e43d70f3bf5b83172ba400b2f198acdaddb",
+      "title": "Feu de forêt à Gedinne: la Zone de secours Luxembourg dépêchée en renfort",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSVQzYnF5YVMxTGFmZTd1NUxlS09OYjR2ZkNCNzdJZWY4Sk5ucEdFMTFZUGdRWmdEQkVZWVpfSjk0Zlp1TzBzYXdfUG1NMk9fdlltTmNnaGZ1WFpwdGJ6ckNmOFZWQ2hWS3NlVkNKQ3pUVmF6TUp1QjBfS0lJQnFMQTQxYy0ySE5ITXctODVJNlpaRHVWbDJMY2MwVnZaelp6MVRmWHJRMTVOTkxiR0EyNE9yUlBJMXdPMDNkc3JxSQ?oc=5",
+      "source": "TV Lux - Naturellement Proche",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-26T12:17:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Forest fire in Gedinne: the Luxembourg Rescue Zone dispatched as reinforcements",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Bëschbrand zu Gedinne: D'Lëtzebuerger Rettungszon als Verstäerkung geschéckt",
+          "summary": ""
+        },
+        "de": {
+          "title": "Waldbrand in Gedinne: Die Luxembourg Rescue Zone wird als Verstärkung entsandt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a4cb162e2e830cd9917185751e96d2fd01fc476b",
+      "title": "李显龙会见卢森堡副首相贝泰尔 重申双边友好关系",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPam9RVDNxVWgxU1JRSDg2bGRWZXNENVlycHlWdnI0elcxNjVQTWx6X0NQVklla1A3YnpRRGEzZGtqUjZYa0t2aHBXdC1lUjczWlR3Y1ptYlB4c0luQng5NG1fM0hnM1U2MENJT3JPMUg0RktRVWNIbUY1VlgzZVRvRnN5R0s2QVJtY2tBZ0E2N2VxaXV0djJyTEtwV2kxV2xKYjNzSXVKeW1oZXEzbWdYZkcwWDVXVnZW?oc=5",
+      "source": "8world",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-26T11:44:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Lee Hsien Loong trifft sich mit dem luxemburgischen Vizepremierminister Bertel, um die bilateralen freundschaftlichen Beziehungen zu bekräftigen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Lee Hsien Loong rencontre le vice-Premier ministre luxembourgeois Bertel pour réaffirmer les relations amicales bilatérales",
+          "summary": ""
+        },
+        "en": {
+          "title": "Lee Hsien Loong meets with Luxembourg Deputy Prime Minister Bertel to reaffirm bilateral friendly relations",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Lee Hsien Loong trefft sech mam Lëtzebuerger Vizepremier Bertel fir d'bilateral frëndschaftlech Relatiounen ze bestätegen",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "714a17f416116f73e2035b5263f091669a6511de",
       "title": "卢森堡副首相访问我国 出席驻我国大使馆揭幕仪式",
@@ -563,6 +625,39 @@
         },
         "en": {
           "title": "Luxembourg Deputy Prime Minister Bettel visited New Zealand and attended the opening ceremony of the Luxembourg Embassy in my country",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c6fdf939c47901cfb95ebb237415d2ef14385ad0",
+      "title": "Galería de Puerto Libre de Luxemburgo / Atelier d'Architecture 3BM3 - 21",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMGJ4WWtNUXRHNW5lV3IxS2xoZE1FcVF4TThIeXVhcnpjMVRDcU56V2dyUktaSVlqUzA1d2s2SDZuTjZoVGxDMXN1QUh1bXFFVHNHdGNRR1FWYTN4SjF2VDY3czNFNzh5Q1pPN2ZlMlR5RGltYkU3VjF1Z2ZKZUJOV1dBMnBHMGozLUVVT1Y3V05ycUpnY3JEWG5SY0hfSHptUEdpVzN5LUJzYUE2N3JGSDZnR3lTa3hsQUltLWhuT0RlVW04c251aVpTUWVULV85eGN1VHJRSEp2RFFodUVv?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-25T15:59:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie du Port Franc de Luxembourg / Atelier d'Architecture 3BM3 - 21",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 21",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Freihafens Luxemburg / Atelier d'Architecture 3BM3 - 21",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 21",
           "summary": ""
         }
       }
@@ -47234,105 +47329,6 @@
         },
         "lb": {
           "title": "Ripple kritt MiCA offiziell Genehmegung zu Lëtzebuerg... De Wee opmaacht fir d'Expansioun vum Service op 30 europäesche Mäert",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "11fb4e13d997223f15a2d03b8450145f08f32d25",
-      "title": "2026년 문화재의 날, 룩셈부르크 정원 온실에서의 행사: 프로그램",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQN1pMRWlFQlVnd3JQb3hGUkJmMklQX1VMbXdZd2hpWDJ1dGt3cGxwWnVhcmFfTm8za1hmWG11Wno3QndERko1alhCZ0M3Q1hDUklGUk5CNDhpUTVOY0QzNzNMUDVvVjRBZTBQSzJjTVJYSXhubXlMajV1OVNSZXVvclFpVlFGY1pQaWwxRDhUZkNObC1YY09GMWZURXBMblV4V0doMmdOWENfSV8xODdiaDJ3U3pKcHB3b1RUZjBjejZDSkszSkx5c0FIRlFNWk1kRWlVc2dfTU5QX0VtQ1ZDT2E3cmlST212d01SaGVNdnhFeEE?oc=5",
-      "source": "Sortir à Paris",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-06T11:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Dag vum Patrimoine 2026, Eventer am Conservatoire de Jardin du Luxembourg: Programm",
-          "summary": ""
-        },
-        "de": {
-          "title": "Tag des Kulturerbes 2026, Veranstaltungen im Luxembourg Gardens Conservatory: Programm",
-          "summary": ""
-        },
-        "en": {
-          "title": "Cultural Heritage Day 2026, events at the Luxembourg Gardens Conservatory: Program",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Journée du patrimoine culturel 2026, manifestations au Conservatoire du Jardin du Luxembourg : Programme",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e704cc5286410464e747deb9485d86c5ebc5c715",
-      "title": "XRP-bedrijf Ripple scoort grote Europese zege met MiCA-licentie in Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUTB1VV9OSFZGS3Q0ZVFkVjVrSEhrYkM0N04yM1ZjcFZCcDRTbkhZeS1QbXVQckp3SFNfQ0RsSWJLWmVuQzNfQWtZcFJfSERWMEc3bm5XYzRIeTM3Sld3NzBpVmVpY2pINmhnSzFpaUVFYzRucm13OE9DTGRVMDlkUUtaRUF6bGZ1NlJ1VHlXODVhV2Y5OGVlblMwdlM?oc=5",
-      "source": "Newsbit",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-06T10:56:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Das XRP-Unternehmen Ripple erzielt mit der MiCA-Lizenz in Luxemburg einen großen europäischen Sieg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La société XRP Ripple remporte une victoire européenne majeure avec la licence MiCA au Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "XRP company Ripple scores major European victory with MiCA license in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'XRP-Firma Ripple wënnt grouss europäesch Victoire mat MiCA Lizenz zu Lëtzebuerg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a284187d06fa9356497f4fc7369aebe1bf0fc2f8",
-      "title": "Luxemburg a fost desemnată cea mai frumoasă capitală europeană, depășind orașe precum Paris și Madrid",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWi1FNGhtVnB4ZWpYNjlKbDdfYS1GbTBqbG9BaEdDTTJ2ZkxrdktvY3h6UnRhQWJKVGh0TTR6LTg3eUVGdm5MS0IxRDQxRGphZWd6dk9VTnZVbjRTajZsTWUwSnhiX2p3czRJY1NuY0RZamg5QzROZTE3c1ZKdV9pcVBCdFM1YW9qSTFsTnhYS2pQbnNQdnVSMjZBOUoxbWRRS0RoeVdCMVBGSVZaM1VVWEpQdGlQQQ?oc=5",
-      "source": "Informat.ro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-06T10:51:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg gouf als déi schéinst europäesch Haaptstad ernannt an huet Stied wéi Paräis a Madrid geschloen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg has been named the most beautiful European capital, beating cities such as Paris and Madrid",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg a été désignée comme la plus belle capitale européenne, devant des villes comme Paris et Madrid.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg wurde zur schönsten europäischen Hauptstadt gekürt und übertrifft Städte wie Paris und Madrid",
           "summary": ""
         }
       }
