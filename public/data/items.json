@@ -1,6 +1,101 @@
 {
-  "generatedAt": "2026-07-26T19:38:23.404Z",
+  "generatedAt": "2026-07-26T21:12:16.642Z",
   "items": [
+    {
+      "id": "0584b977914179e7d1dbea28674396e50e3e0085",
+      "title": "Ocho empresas costarricenses avanzan a etapa final por cofinanciamiento de Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXpWRmZ0bjBLNUhWdmR1N3U3LWs4dVRjbkRqblBZMWk4d1FKTzBCMC04OGFnbDRqdk9QRElQNTRna3g4eWZlbUZkdFFMdXVsdlhMcGN6dEJETHN1eWFPdkUzYU0wb0VpWnpGZHBuN3c3RHRQa3A0QjhHSTZYSnRERVFvWGZRYTJjOVZKUUJpdkNTU1BSRDlKQXJQSlE2dzFKVlR0anNJYV81UkJ3?oc=5",
+      "source": "El Observador CR",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-26T20:04:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Aacht Costa Rica Firme kommen op d'Schlussphase duerch Co-Finanzéierung vu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Eight Costa Rican companies advance to the final stage due to co-financing from Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Huit entreprises costariciennes accèdent à la phase finale grâce au cofinancement du Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Acht costa-ricanische Unternehmen gelangen dank der Kofinanzierung aus Luxemburg in die Endphase",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "860085d83bc64364bd4531ad6a56dd68c1a144eb",
+      "title": "Tennis : Les dames de La Roche, championnes Namur-Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNHpsbzNtcFZ5UEVjRjVHSEowZ2ZiRVJjWHRzU3gwa2h3WTY2N0Q2d0ppNGxDTF9jNWFCQ1M2dUdVNnRVdDlvbnViRV9Cd1c5SlotUVRQQmRFNnEzc3Y0Y05QNG9yb091WGM2RDNnd0U0MXRCYmJOMW5JZFJxQUtwT3dRRmVKeW9qUHQ1YXBBYUUtSkw0eEo4bWV5a2NHVHlXelU2dEtUdWFvS2NyTXpRRnNSQkVZZGdud2EzbnJhanNvWUgxU193dk5pclRvNjdISGh6eWxn?oc=5",
+      "source": "L'Avenir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-26T19:42:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "en": {
+          "title": "Tennis: The ladies of La Roche, Namur-Luxembourg champions",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Tennis: D'Damme vu La Roche, Namur-Lëtzebuerger Championen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Tennis: Die Damen von La Roche, Namur-Luxemburg sind Meister",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fd8a58467574facd75af50a6e2e38e4401acd6f6",
+      "title": "Quem decide a cidadania agora: Cassação, Corte Constitucional ou Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUppUDBPbkNnc2x5ZXRqY3pic1Q1UjhoOW5kMlVFYWRUWUhpZWREWGZ1S3FoajZHYlpoRkF5REdCRGdOYVdNSTBDVUMycXA3TG56NEFMbGoySEIzWVEtQnlRR1dBZkQ3YzVtWGVTYnowTk9iVXVVcHphbE1EOGZFN3hnc284TWpDcW9sM3J5dHJrek5ONzA2b0UwdjBuMFpIdm1J?oc=5",
+      "source": "Italianismo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-26T19:39:18.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Qui décide désormais de la citoyenneté : la cassation, la Cour constitutionnelle ou le Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Wien entscheet elo Nationalitéit: Kassatioun, Verfassungsgeriicht oder Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Who decides citizenship now: Cassation, Constitutional Court or Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Wer entscheidet jetzt über die Staatsbürgerschaft: Kassation, Verfassungsgericht oder Luxemburg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "80e04df2e9caf5f538ce13c8cb95b39a6da7e067",
       "title": "Luxembourg. Deux avions contraints à des atterrissages d’urgence en une semaine au Findel… pour la même raison",
@@ -33597,6 +33692,39 @@
       }
     },
     {
+      "id": "82d697297ca6e133d24f78302d76d9f4b6e89f45",
+      "title": "Galería de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 24",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPc0N1OTdEZ3ZTLS1kY2tldVFybHlyODJ0NzJLSjZaMXpPRXBmVURmSDFYZTRJME1nUjRCdEZhXzFFaXdQVF9tMVpCcHI4QjhjMlA5V21nZ01UOGdUMnJCeGFMT1VDZW0wS3dxTTNjSGNFRGM5d3NIYzdGOF84ZXVsU1hUanNrSUg2Yy1sYlUtVUJuTkVnVUZsbjB1dV9qN3lfX2pZN2RsbHJRWVRNUzctbnBlbnRfUzFIUmd5RTNvUDVtSlJsSW5GQVo5b1FaaEhBM0NCQWVMVXlxRlVYQ2dNeGJpbnRFcnhwX0pHSEh6cEJ3QWJLNkxjV01kSkVVcHR6eUNoSHlLYy1uLW1JVXJLbDhxdmdiSFcyN29BMGpNczQwa21hR1lVbWlmRUpjSDRpUE1yNGhpZEltNlVOVnpDTWQ2clN5ZENLMERmbEtyWHQtTVhnd0Zwc1B6VnhrT1JycDctRUVvZHhjQQ?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-11T01:57:20.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie de la Bibliothèque Nationale du Luxembourg / Bolles + Wilson + WW+ architektur + management - 24",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of the National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 24",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of the National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 24",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie der Nationalbibliothek Luxemburg / Bolles + Wilson + WW+ architektur + management - 24",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "1953d3d8c23a240f724a686ee1178fa2b8b6c1fe",
       "title": "Galeria de Vincent Callebaut Architectures propõe metamorfose futurista para antigo hotel em Luxemburgo - 11",
       "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQMExpcVpPMkxVQ2R6UVc5VFVtcTBPWllCVU0zYXZabUhZSnlxUUpRbHpUT2tsQVlId0lvd2JFWVRSV0MtemZBNUFyNlRLbERGZ2hoMFZSTVAwSFdaZ2Q2T1lRS1FQTjhnaUVVODVLSGxWMkZoa0tGakxXSllwVVQ5Y1pURUlsd3ZKbUNtOE9JMllRaGhBSUMtdlJacXU5SjJhRWJMRDZCUWMwMzAzNzdIaE5pZzdCWTgtckZ6RW13SUtLWU1YZ3hKdmUxRmxIZEVNQUVNU19qN1UzWE14QlhqeFJQQ09zclZ3Rk45YTJHbG03dHRReFk3ZWo3VWxIX05fVFZRT1ctakFQd1R1Rkk2SV9fb2VZaUdrR1lWU3l1T0lVSF85ZUtLTWZnUTMyaG5UMjUweFFsOG1DSWUzX1ZlbVZBTW43NHJDRHdER19fUGFRdWlmV2tQM092ak9neXhLVkY4UUNpRDNNdzJJM1R2ZTlB?oc=5",
@@ -47213,122 +47341,6 @@
         },
         "en": {
           "title": "Ripple obtains CASP certification in Luxembourg... Opening the way for services in 30 countries in the European Economic Area",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d553c130a48ef3a338990d660d45431dba6b8fe7",
-      "title": "Regionalliga: Nach Luxemburg-Abenteuer - Mustafa Kourouma wechselt in die Regionalliga",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2VGOEFNOUJsekFhSmxqRXI1TUxEMldjM3A3SjdQSHBJeTVlMF9HTVZlMUlaa3BxVkVkSHpsbUUyYURmQ2JKOW5pSTZ4a3pGMFAtUjAwcGo2MkZuTUN4SFdESkFqb2R4WjdDWDJPaml6anpUU3FYQ0lyRUtxMHdaNFU4V1BzMlNSZXN4TDlnSDZtaDB3UDRKTjVpVkpFb24zaWdIWTBRLXFOZjNuNWxGWW1KVnQ1Q3NxSTZzZVJCblA2M19XVFRnaWZEZ2o3Y2lI?oc=5",
-      "source": "RevierSport online",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-06T11:47:45.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "en": {
-          "title": "Regional League: After the Luxembourg adventure - Mustafa Kourouma moves to the Regional League",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ligue Régionale : Après l'aventure luxembourgeoise - Mustafa Kourouma rejoint la Ligue Régionale",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Regionalliga: No der Lëtzebuerger Aventure - Mustafa Kourouma plënnert an d'Regional League",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a1a634af945ddf8311112be351782426c93dd5d1",
-      "title": "Malta Outdistances Cyprus, Luxembourg, Leading European Destinations in Foreign Overnight Stay Share in 2026 While Other Destinations Show Strong Domestic Tourism Dominance Across Europe’s Travel Market Structure",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pTW5hOTBxWExZQ1NOOHRoWWZ2UkN3TFJCVG1GWTBCbFpURGgyWWp2cGZGbjk4ZnZVMzZycDdCZFVzbmFTWE1laVRVSF9VRWNLNGpZLThUajJsYzY4eFRmZ1Ayd2FIMDlOaGQyamN3?oc=5",
-      "source": "Travel And Tour World",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-06T11:45:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Malta Outdistances Zypern, Lëtzebuerg, féierend europäesch Destinatiounen an auslänneschen Iwwernuechtungsdeelen am Joer 2026 Wärend aner Destinatiounen eng staark Domestic Tourismus Dominanz iwwer Europa's Reesmaartstruktur weisen",
-          "summary": ""
-        },
-        "de": {
-          "title": "Malta übertrifft Zypern und Luxemburg als führende europäische Reiseziele beim Anteil ausländischer Übernachtungen im Jahr 2026, während andere Reiseziele eine starke Dominanz des Inlandstourismus in der Struktur des europäischen Reisemarkts aufweisen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Malte devance Chypre et le Luxembourg, principales destinations européennes en termes de part de nuitées à l'étranger en 2026, tandis que d'autres destinations affichent une forte domination du tourisme intérieur dans la structure du marché du voyage en Europe.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f2ce345b19e4458470e86c2174d6b156ab81d928",
-      "title": "Is Luxembourg worth it for one night?\n\nMy verdict is yes. My first impressions - I’m pleasantly surprised! One of the few cities breaks that you can chill in!\n\n",
-      "url": "https://www.tiktok.com/@naza_the_explorer/video/7659377114319211798",
-      "source": "@naza_the_explorer",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-07-06T11:35:14.000Z",
-      "summary": "Is Luxembourg worth it for one night?\n\nMy verdict is yes. My first impressions - I’m pleasantly surprised! One of the few cities breaks that you can chill in!\n\nLuxembourg \nRecommendations \nTravel tips \nCity breaks \nWeekend trips \n\n#luxembourg #travel #fyp ",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/ogbAZYVBIkkiSZEBCRziE1VvNBxCqCuhvaLNm~tplv-tiktokx-origin.image?dr=10395&x-expires=1783854000&x-signature=7nYYb7K9phOM9XtrjgCGnbaEVkI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Ass Lëtzebuerg et derwäert fir eng Nuecht?",
-          "summary": "Meng Uerteel ass jo. Meng éischt Andréck - Ech sinn agreabel iwwerrascht! Eng vun de puer Stied Pausen datt Dir an Chill an!\n\nAss Lëtzebuerg et derwäert fir eng Nuecht?\n\nMeng Uerteel ass jo. Meng éischt Andréck - Ech sinn agreabel iwwerrascht! Eng vun de puer Stied Pausen datt Dir an Chill an!\n\nLëtzebuerg \nRecommandatiounen \nRees Tipps \nStadpausen \nWoch"
-        },
-        "en": {
-          "title": "Is Luxembourg worth it for one night?",
-          "summary": "My verdict is yes. My first impressions - I’m pleasantly surprised! One of the few cities breaks that you can chill in!\n\nIs Luxembourg worth it for one night?\n\nMy verdict is yes. My first impressions - I’m pleasantly surprised! One of the few cities breaks that you can chill in!\n\nLuxembourg \nRecommendations \nTravel tips \nCity breaks \nWeeke"
-        },
-        "de": {
-          "title": "Lohnt sich Luxemburg für eine Nacht?",
-          "summary": "Mein Urteil ist ja. Meine ersten Eindrücke – ich bin angenehm überrascht! Einer der wenigen Städtetrips, in denen Sie entspannen können!\n\nLohnt sich Luxemburg für eine Nacht?\n\nMein Urteil ist ja. Meine ersten Eindrücke – ich bin angenehm überrascht! Einer der wenigen Städtetrips, in denen Sie entspannen können!\n\nLuxemburg \nEmpfehlungen \nReisetipps \nStädtereisen \nWeeke"
-        }
-      }
-    },
-    {
-      "id": "8a6d12ecc41a87fadaf9e455efb2cd520d56c968",
-      "title": "Ripple Secures Crypto Services License in Luxembourg and Achieves Full MiCA Compliance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOVpQMXF1dVpNeEtyYUtrOW1hZlZGUnNBOHZhMmlmNXdJRlNDRDhlcTBhUERVQjNIY3pETEg2UUo3cDhlcUFpeDVFeWNHZnA1UFZfVkszUWlNVGUwekhKYkRNNGxPVE5iV1A1aXVoNTFoUTBENC0yY1FuVU5icW9ORDR3a3ZjS1ZjeE1LUTd3UXc?oc=5",
-      "source": "incrypted",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-06T11:32:29.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Ripple séchert d'Crypto Services Lizenz zu Lëtzebuerg an erreecht voll MiCA Konformitéit",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ripple sichert sich die Lizenz für Kryptodienste in Luxemburg und erreicht die vollständige MiCA-Konformität",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ripple obtient une licence de services cryptographiques au Luxembourg et atteint la conformité totale avec MiCA",
           "summary": ""
         }
       }
