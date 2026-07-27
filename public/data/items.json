@@ -1,6 +1,225 @@
 {
-  "generatedAt": "2026-07-27T04:05:51.390Z",
+  "generatedAt": "2026-07-27T07:53:23.907Z",
   "items": [
+    {
+      "id": "b2353f39624bd49fcf7e606ae42b2a4803e23e3f",
+      "title": "CaixaBank renforce sa banque privée internationale avec de nouveaux responsables à Luxembourg et Miami.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmlWblJSa2c0ZzFMNkpRUV8xY2huNGRwREItWV9SNlEzTDhjaENPd19icFg4U3hDbzNhUjdqYXNyaUxPNm9lYndLaTU0S0hfMUpBaldGdTdYWnAxbFhSLXpsMjVEbzJpQ2phdUdMQkx2UWNJcmdpVkpmV0MyME5DeVgwTFNZbExKU19HemRkLTFxTXhXYU93enJnaW5YRVV5VW9YSDl2aFJKUVFlb2JzYUM3UU1DR0M4eWY4S1dJUUFJeW8?oc=5",
+      "source": "Le Courrier d'Espagne -",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-27T07:24:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "en": {
+          "title": "CaixaBank strengthens its international private bank with new managers in Luxembourg and Miami.",
+          "summary": ""
+        },
+        "de": {
+          "title": "CaixaBank stärkt seine internationale Privatbank mit neuen Managern in Luxemburg und Miami.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "CaixaBank stäerkt hir international Privatbank mat neie Manager zu Lëtzebuerg a Miami.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "1d7d8b414c9e4e42cd4a75cae3b16b9b611655c2",
+      "title": "Onderzoek: legalisering cannabis in Luxemburg had beperkte impact op gebruik en markt",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOak9JSm1NYUJSUFBZQ1BkSHBZaHZwdUVQU2FGZmp5R2trWTl2bnJ5RkpRazdheEZCVmZPRWFpeEFaNFRMN19WcFZ6X09MSWx5X0ZMLThRVWRIV3BjakFfVFJKQmNjYlJ3OWYtZHZiY3lNSWJOVmpwemhNQUMxMzkyZi1BVVFZUy1tSUE?oc=5",
+      "source": "cannabisindustrie.nl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-27T07:04:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Fuerschung: D'Legaliséierung vu Cannabis zu Lëtzebuerg huet limitéiert Auswierkungen op d'Benotzung an de Maart",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Recherche : La légalisation du cannabis au Luxembourg a eu un impact limité sur la consommation et le marché",
+          "summary": ""
+        },
+        "en": {
+          "title": "Research: Legalization of cannabis in Luxembourg had limited impact on use and market",
+          "summary": ""
+        },
+        "de": {
+          "title": "Forschung: Die Legalisierung von Cannabis in Luxemburg hatte nur begrenzte Auswirkungen auf Konsum und Markt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fe1fa32bb251ee1f7410b41b643a834c5c3bc070",
+      "title": "한투리얼에셋 룩셈부르크 펀드, 83억 못 갚고 또 연기",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PRTUwVVBIbjRXZTR4dFJLOWszcHpxX0U3MlBDTGxKYjFBVzd6b2NVakotZGZ5cnFlWjdVUjlWMzhjZzRScXJMb2JOaEZmaUk?oc=5",
+      "source": "v.daum.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-07-27T06:45:03.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Hantu Real Asset Luxembourg Fund reporté à nouveau après avoir échoué à rembourser 8,3 milliards KRW",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Hantu Real Asset Luxembourg Fund wurde erneut verschoben, nachdem die Rückzahlung von 8,3 Milliarden KRW nicht möglich war",
+          "summary": ""
+        },
+        "en": {
+          "title": "Hantu Real Asset Luxembourg Fund postponed again after failing to repay KRW 8.3 billion",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Hantu Real Asset Luxembourg Fund gouf erëm ausgestallt nodeems hien 8,3 Milliarde KRW net zréckbezuelt huet",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "939e13e7a5532ca92a2972d3ca18cd9068ee3fe6",
+      "title": "瑞銀盧森堡基金公開說明書變動相關事宜",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNkg4M1Izc3RuWFJ1Zm1YOWIxQlk4V0o5ZGw2NFlSbDFnbzVKX1ZCYnExNk54ZXNoeHhNX0JxV2hGRnJzZm14Zm93eW4zczhoQ3lfekVZd3NYbzJ4aWctbEdlZVRzTWIyTWNpV196SXR1SnROV09Pblh1LU5RSDl3SUNLTWIxTzZGbVlCWGhTa2x5VEs0QlNrSGJKUmNJLVVGV0lOQXZrWDhqcUk?oc=5",
+      "source": "ezfunds.com.tw",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-27T06:21:01.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Saachen am Zesummenhang mat Ännerungen am ëffentleche Prospekt vun UBS Luxembourg Funds",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Questions liées aux modifications du prospectus public des Fonds UBS Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Matters related to changes in the public prospectus of UBS Luxembourg Funds",
+          "summary": ""
+        },
+        "de": {
+          "title": "Angelegenheiten im Zusammenhang mit Änderungen im öffentlichen Prospekt von UBS Luxembourg Funds",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d614a7c3800cfb3efd2a0d2f548391e4bd3393a2",
+      "title": "Achtung Radarkontrolle: Hier stehen die Blitzer in der Region Trier und Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2QyUmVJYVdpU2Nrcm9JWi1TY2pwdnhEZ3FqZ3d1RXlQT3lQTEIxVkhLUUJ0Z0ZaTl9GZmh1TUhaZ3EzQWtTZndiOTloN01Sb3RCbm95TTN6VDloSndXNmZVQ1hjby04U3dNeHRFZGxaenVTZmNlT2UzUHJVdDhqR3RMdnBNTUlsMHJILVFuQ0JiU0JrdnhldkE2NzQxWi1IM0U5a1ZMMGdYM2s?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-27T05:30:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Attention speed camera: The speed cameras in the Trier and Luxembourg region are located here",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Opgepasst Vitesskamera: D'Vitesse Kameraen an der Regioun Tréier a Lëtzebuerg stinn hei",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Attention radars : C'est ici que se trouvent les radars dans la région de Trèves et du Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7b8bb685bf3d6b6a0e69fb81a516cf6d16a2cc1b",
+      "title": "France : La composition probable contre le Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnM0NWptX0dZNjc5dURwMzllRnNPMDZJRG9tb2sxczZURDhWaTB2SVpVQ0tLQXVRWERwX1RKNFY5RzVzRHM3NHRVMGhWZnN0YWdDZWc1MWpnWlhIRlNpakR0QURTN1Nybkx5SHZiQlQ2ak8weTlHS3lIZlJPZFcxM0xDNTV1cGhnV2E0X3E3RE9CdTFQdVpwMGw4bHZJaTg?oc=5",
+      "source": "Foot01",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-27T05:12:40.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Frankräich: Déi méiglech Zesummesetzung géint Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "France: The probable composition against Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Frankreich: Die wahrscheinliche Aufstellung gegen Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f6502b6073c9b170d07b3dae797cda2fe2eff45e",
+      "title": "«Полностью искусственно»: люксембургский депутат ЕС раскритиковал отказ Европы от русской культуры",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOV92LWliLXB0aXlONW9pYkhvdnlLdW1qVjFJYWg4VGZJcm1JR2R4WkR0djZScVByN29oS3BJOFU5dkRza1ppU19uS1JOcUlJcDBCT0lQRFY5RWpvMG5IYVg1VzVNbVdvRGxwWFZwd3dfcEF2UnNJczVUNjY4NlBmaXdKdmtScFJmMFp6OG5uRk1POW54RExxQW5IWnpzRDZwdVpNNDV1S2h5R09ldzQ2RHJSMkUzRDdrWFU5c19MUllUT19Rd1VMTEtTU2lRZjMtTG5F?oc=5",
+      "source": "RuNews24",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-27T05:08:28.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "\"Komplett kënschtlech\": Lëtzebuerger EU-Member kritiséiert Europa hir Oflehnung vun der russescher Kultur",
+          "summary": ""
+        },
+        "fr": {
+          "title": "« Complètement artificiel » : le Luxembourg, membre de l’UE, critique le rejet de la culture russe par l’Europe",
+          "summary": ""
+        },
+        "en": {
+          "title": "“Completely artificial”: Luxembourg EU member criticized Europe’s rejection of Russian culture",
+          "summary": ""
+        },
+        "de": {
+          "title": "„Völlig künstlich“: Luxemburgisches EU-Mitglied kritisierte Europas Ablehnung der russischen Kultur",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "0584b977914179e7d1dbea28674396e50e3e0085",
       "title": "Ocho empresas costarricenses avanzan a etapa final por cofinanciamiento de Luxemburgo",
@@ -47122,225 +47341,6 @@
         },
         "de": {
           "title": "Clément Couturier kehrt nach Luxemburg zurück",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f05f20480b49e6b5c04a1a278ab85ac853e203f3",
-      "title": "Juillet en festivals : Belgique, France et Luxembourg entre grandes scènes et formats indépendants",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM05leko3aV9faGVTel9UemQ3aDlvY0x2M3VhTm8zajlicmRMNm94c2k4Z3VtVFprc2ZfMjByNUUyRk9OMlRNbEdFNVYwVkpyT3VPbElTaG5UeTJZMzlITXEyUWllZm5FMU5iM1ZGMTdTZ2JDNVpvVEhTakJGLUNrT2hLQUJoby1pbVZZa3MzMWVZa1BxNGVXd1FENFoteGJ3Y1ExRzdQVnphNEJjVF9kQnRVOG9YZFRxWVREd1NSRjg?oc=5",
-      "source": "Mixmag France",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-06T14:08:40.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "en": {
-          "title": "July in festivals: Belgium, France and Luxembourg between major stages and independent formats",
-          "summary": ""
-        },
-        "de": {
-          "title": "Juli bei Festivals: Belgien, Frankreich und Luxemburg zwischen großen Bühnen und unabhängigen Formaten",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Juli a Fester: Belsch, Frankräich a Lëtzebuerg tëscht grousse Bühnen an onofhängege Formater",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "75e54fa60f0e9e57001dca82f162abb08a5c56b1",
-      "title": "В Иркутске к октябрю завершат ремонт улицы Розы Люксембург",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemJXVy1pbHpKS3FFUllTLUtfRFVhUXBDZHUwa09GeDlFMWNwbS0yRXZ4R0g1OVF5Y0pSQmh5N1B6QnFmU3JWUjd4ck5aUlNrZ1BVMTNIUENDVENfekRSRm5ySE9GLXFCdnFMcUVYSFZYUFctR1FnY2plU2Q2Y21tcVk2WElPWThTZjczaVQxV2RZdDZyanN4UXc0THZ1M1I0X3pKVTZVUTNXSHNKTVB6UzdUY2kxUQ?oc=5",
-      "source": "Национальные проекты России",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-06T14:00:39.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "In Irkutsk wird die Renovierung der Rosa-Luxemburg-Straße bis Oktober abgeschlossen sein",
-          "summary": ""
-        },
-        "fr": {
-          "title": "A Irkoutsk, la rénovation de la rue Rosa Luxemburg sera achevée d'ici octobre",
-          "summary": ""
-        },
-        "en": {
-          "title": "In Irkutsk, the renovation of Rosa Luxemburg Street will be completed by October",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Zu Irkutsk wäert d'Renovatioun vun der Rosa Luxemburg Strooss bis Oktober fäerdeg sinn",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "83e5dc8746386c1a15bc7210f51d492d887eacce",
-      "title": "Conference League: La Fiorita è in Lussemburgo",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHZySDlGRjZ5eWlxSjg0V0RiR3JkN0lMb0JsZldUbjJIUWNsX0pLcEdDeDhrb2t1Wjd2Qy1PQ0QwRURYcl9RdmJ5dzJsOFg5Ul93MTBScnByTGR1T0F2VDRmaURWVF95eUxGMU5fbUFHcW9NYjZBdEg5TVE4eE02Q2JDWkg4OG8xZllvQjdmWkJhbWhYYVNQUEt6MU1HSlBQd0ZyV2FzOXd6TjRUWDdZ?oc=5",
-      "source": "San Marino Rtv",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-06T13:49:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Conference League: La Fiorita ass zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Conference League: La Fiorita ist in Luxemburg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Conference League : La Fiorita est au Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Conference League: La Fiorita is in Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ac6173a63bdb0ee2e35f5559168de4fbea9f655a",
-      "title": "Twee vrienden werden in Luxemburg nog tegengehouden door de politie. © Delaere",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQT0VjbzU1dDVyV29vSDBJX3FNaVF3V01sSUpka0NhUUlpQTRUZHc5V0lTdURnVFdMX2I2ZUFESlFiNjFUWEZ1OFhBNERTcWFpM052em5EQmJuSVNiREtLYm5qeFJBb3lqRXJLeF9TdFpQZlFlRm83YUN4dHJDblU1QzJkZ3hqQkxIRkF0ekx4UHRsSGh2cGNQRXVmOHFqeGVhZ0JOV3hUQWtfTXpPWXUzMXh4TDB6Sm9ZWFJZN2dwWkJyRnBRcG9lMElaOHRraE9aU25lOXhkaGxtWXRBWW9IX1NXWjJjS1N6bWJIYTZVZEpxcHlMVUd5YTlaMldaemIwLXU2Ukc4ckdRYnpvbTZiOUlR?oc=5",
-      "source": "HLN",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-06T13:38:05.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Zwei Freunde wurden in Luxemburg von der Polizei angehalten. © Delaere",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Zwee Frënn goufe vun der Police zu Lëtzebuerg gestoppt. © Delaere",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Deux amis ont été arrêtés par la police au Luxembourg. © Delaère",
-          "summary": ""
-        },
-        "en": {
-          "title": "Two friends were stopped by the police in Luxembourg. © Delaere",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6eb31d90afb7db5f594c28832a77162b64929162",
-      "title": "Paytm Europe、ルクセンブルクの規制当局から支払機関ライセンスを取得 https://t.co/twBX7I2",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QR3dwdDhXYkI2RV9KQ3Ezb1ZQTUcwNEY5SDRlTGFQM2tDWVR0SThJcUxkRUtIdERWSFM3OVdxZGhCSkN5cHU4RXpvYlh0X2paXy1fMWVnQm1KQkpTVE5wQm91MF9aM3VweVNJUERXN1M3dENm?oc=5",
-      "source": "KuCoin",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-06T13:26:12.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Paytm Europe erhält die Lizenz eines Zahlungsinstituts von der luxemburgischen Regulierungsbehörde https://t.co/twBX7I2",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Paytm Europe reçoit la licence d'établissement de paiement du régulateur luxembourgeois https://t.co/twBX7I2",
-          "summary": ""
-        },
-        "en": {
-          "title": "Paytm Europe receives payment institution license from Luxembourg regulator https://t.co/twBX7I2",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Paytm Europe kritt d'Lizenz fir d'Bezuelungsinstitutioun vum Lëtzebuerger Regulateur https://t.co/twBX7I2",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ce737cad34ab69f97402080379a60b4885f56e25",
-      "title": "Pinsent Masons strengthens Luxembourg Investment Funds team with the arrival of Jennifer Burr",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEpqT2dnb210TTlfbFhXZzJfb0dwVldfX2xGaTJPVHoxbXBqWGdqVE1sRlFBNnB3U0hsa2x4M2RQbk1MeGtRdDBCdllMTE43aVU1SmtubjZ4c0ZhWjZ5ckh0dkxpWkhuYWRjazFYS005bXA2QzgxaWh4eG9oZ1owUlRlV0cxNHJ6eDMzQW5CMzZlRHVveEhaOVZhT0lHMmN4aXV2YXdQTUVXc28?oc=5",
-      "source": "Pinsent Masons",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-06T13:08:36.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "de": {
-          "title": "Pinsent Masons verstärkt das Luxembourg Investment Funds-Team mit der Ankunft von Jennifer Burr",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Pinsent Masons renforce l'équipe de Luxembourg Investment Funds avec l'arrivée de Jennifer Burr",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Pinsent Masons stäerkt d'Lëtzebuerger Investment Funds Team mat der Arrivée vum Jennifer Burr",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "375f5f3ea2cb4206c843e914ebfcafb30e6341a7",
-      "title": "Glaube nicht, dass mich Luxemburg nochmal zu Gesicht bekommt…\n\n#reisen #meinleben #luxemburg ",
-      "url": "https://www.tiktok.com/@hssl.dna/video/7659399615321509152",
-      "source": "@hssl.dna",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-07-06T13:02:26.000Z",
-      "summary": "",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/oAsIKe0X4gpjGTNQSdmIA7DMTGlLQie7Ufr77a~tplv-tiktokx-origin.image?dr=9636&x-expires=1783792800&x-signature=WJJXRVnkbywWn%2FtgrxJ2Ee8crAI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Don't think Luxembourg will see me again...",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ne pensez pas que le Luxembourg me reverra...",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Denkt net datt Lëtzebuerg mech erëm wäert gesinn ...",
           "summary": ""
         }
       }
