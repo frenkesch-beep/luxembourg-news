@@ -1,6 +1,93 @@
 {
-  "generatedAt": "2026-07-28T18:46:36.630Z",
+  "generatedAt": "2026-07-28T20:35:15.364Z",
   "items": [
+    {
+      "id": "431e8a9d23ead8f1d8cfc6b6a0098f08e4c63c0c",
+      "title": "Trois Normands d'une même famille meurent en Afrique du Sud, deux personnes interpellées au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZm0wb0FmY3NIX1FjQzlUQUc3NDhEOUNHNkdIMVZYQ0s5MS1oeldEczJ2MmdTRlcyaWZTMEVQY25EVm90R05kZ3ZZdlpXWDNoQWtDQ2JZNU1EeE1qQVBJdENiQndjZnhiSXlUWThZRUp5UzRIdThEdzAwd2F5N2Z6d0QtbTdYQXJWaHBxenNUcWJfQzlxU0x1RndORFNTajhqY3hyYVRDUzJpREFGUDgyWGxjLVc2QWlKMG5Lb3N1Tkd1UEZQTmJnMVI4WmJHV2Q1VVk3M01fN2c2RlpTYy1WZ1FBN21iOXg4aUE?oc=5",
+      "source": "BFM",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-28T19:44:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Three Normans from the same family die in South Africa, two people arrested in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Drei Normannen derselben Familie sterben in Südafrika, zwei Personen werden in Luxemburg festgenommen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dräi Normannen aus der selwechter Famill stierwen a Südafrika, zwee Leit zu Lëtzebuerg festgeholl",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "65a30981f6ec783858d93a9ade4cb2301af4bbfc",
+      "title": "Trois Français tués en Afrique du Sud : deux suspects arrêtés au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHg2clZDeUI4V2hFWHZ0TUxlRXBnZVhaWUpzN2NvbnpOQTlnaVZNUHhoZmVrbXpMVlRaUmNtT01xaXQwb3BYWnBuRnozSWNxb0xBSnVTWWQwWUoyZlMtZVE3dkMxRE05b0g3eHNHYXVZbklSamhvZHF5MjdjaWUtNUktX0FXc2tHV3NUNVFrLUxUYmRfRVBhZkVaTXJBUURTbmkweEdrRTNNbjhmQlFXTExyelRYOFM4X1FF?oc=5",
+      "source": "Le Télégramme",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-28T19:27:01.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "3 Fransousen ëmbruecht a Südafrika: 2 Verdächteger zu Lëtzebuerg festgeholl",
+          "summary": ""
+        },
+        "en": {
+          "title": "Three French people killed in South Africa: two suspects arrested in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Drei Franzosen in Südafrika getötet, zwei Verdächtige in Luxemburg festgenommen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a59c67b8d9bc2395b29f942683714dec26450fea",
+      "title": "Manche : deux responsables du Burger King d’Avranches assassinés en Afrique du Sud, deux suspects arrêtés au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQM1R3OTVEY1p6X1FuSC16RGdmeUFvMUd6QmtLLXY1NVdyUEM3ZHZRS0pkaVBJMy0ycS12U01TZVVILTJPci05OF90TnJVWnQxRVc0dlZWWVRsRERZTG5vWnh6QTBBYWR6WkkwWmdVYUUtejZmYUh0RWtBeFRfOUVNYXBOVzA4bUJUd25vVXBhYUhMSzRPd0RFMDJJamdXSXNocndKOVl3bl8ySXdMMEpXNm9aYjlxZmdrR0hFRnFtenBpZGx6aVoybFEzYnpMQndwU3R1OGFKRFJIWjVpUENrSVVMSE5RVnVpNU8wUk9raTlsQmdP?oc=5",
+      "source": "Le Figaro",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-28T19:12:37.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Channel: two managers of the Avranches Burger King murdered in South Africa, two suspects arrested in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Channel: zwee Manager vun den Avranches Burger King ermorden a Südafrika, zwee Verdächteger zu Lëtzebuerg festgeholl",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kanal: Zwei Manager des Avranches Burger King in Südafrika ermordet, zwei Verdächtige in Luxemburg festgenommen",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "a7a32c078ed49f3e571214bca49d1e59cbb468fe",
       "title": "Großherzogtum: Von der Sauer bis zur Hauptstadt – hier können Sie in Luxemburg campen",
@@ -60,6 +147,64 @@
       }
     },
     {
+      "id": "e2578c058d941db8cb3713484447ff7672e85f9d",
+      "title": "Afrique du Sud : trois Français assassinés près de Pretoria, des arrestations en France et au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOd0VSZVR5WTFFa3JNOHdOYnZqUVVLeWNiYm9SeWRPT1NyQTlQM2ZsTGhRc1VUVldfb0N0S3F4MFl2dkZFTndyTzAwNWpRbER2YXFqcDhXb0lGQjVfWVFZWUZxSHV4YzNzTU9iMmctR1ZNdHpjN2VIX2o2NG5DSm15M3pmeTZOWkg1Y0ZwcC1adW5oRUcyWXRBZE1LZkhYV2w5Ung3RlFXY1ZNY0hGaG5feW5aRmh6VTRxMzJjc3Jnakp0WFVRSjBKS3IxS2M2M2hQWTNYdVBfUC1Bbk1JNk96QVpvVnZiUTNVMVcwNEFsUVdrb3dLTUZrZFBlc3VlZ2M?oc=5",
+      "source": "Orange Actualités",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-28T17:45:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "South Africa: three French people murdered near Pretoria, arrests in France and Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Südafrika: Drei Franzosen in der Nähe von Pretoria ermordet, Festnahmen in Frankreich und Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Südafrika: 3 Fransousen ëmbruecht bei Pretoria, Verhaftungen a Frankräich a Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9ee1a2b9e2bb827002d449aad72efc711b6476ea",
+      "title": "Trois Français retrouvés morts en Afrique du Sud, deux suspects interpellés au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVzI4TWl1NUxNYWVjLWZjU2xWaUlXYjZ4MUVkVjRSRmpVMnY0ZDdTODJwenlXNGpCUWE2eGtDMHVteGxFcXh2aXJwRGY2em1LeDFWRmoxZ0JXLU9OSlhiczFPLWVxYXNRNFJJWjlZRmhlTmtMN1N2VmxVOTYtYjJyUm9UcHlYVlh4N3ZwV0FKRkZXMklibHVwNGlyVkp4TjhuVEYxdlgwWkRJVF92MlM4UFZhWXBMTTd1d1RIUWN5QXRUNkVWcFZteDFIN0dFM1V5aGc5Z2RsWQ?oc=5",
+      "source": "franceinfo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-28T17:27:37.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Three French people found dead in South Africa, two suspects arrested in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Drei Franzosen wurden in Südafrika tot aufgefunden, zwei Verdächtige in Luxemburg festgenommen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "3 Fransousen dout a Südafrika fonnt, zwee Verdächteger zu Lëtzebuerg festgeholl",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "ac72285ca5bd0dc34b90a6efb7eddc555f7f7f9e",
       "title": "Trois Français originaires d’Avranches retrouvés morts en Afrique du Sud, deux suspects interpellés au Luxembourg",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWUtWOWFkRTBxSEsyZ0NjWFVwSDY1aDRWMkZXWUotbGh5ckJjVTllbGk1MlktV1hjaExXeEJBZklQb0JVSjJPZTBTWE5uZWFraTVILWhlbllnYTdWekoyNU1VVmhTRDZDYlBlNmloU3NJbUJuRlRtRF9vT0w4ZVhkdDZXaUl1VUJRTHhlc2tpRHZpMFMwNWd0Nm1lWkdiRDVoakR6eXlkUGNrN0p1Yk9lQ2g4ZF9jb0Jpc0tKR2JsS0tObGZzNU1FQ2ZNVmF6SnI4Qm5JT0wxTVRxcGlyRnNLa0ZvOFFjWV9SQ2FYZDN5M0g5Z1JnMnJwVFIzcnpKV0JmWkx2NDVEZm1yZw?oc=5",
@@ -84,6 +229,39 @@
         },
         "lb": {
           "title": "Dräi Fransousen aus Avranches dout a Südafrika fonnt, zwee Verdächteger zu Lëtzebuerg festgeholl",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2a0a91cc7a74bfe69af5900fe0433c1ddb56f8ca",
+      "title": "卢森堡大学等联手：让机器人\"一眼认出\"任意物体并精准对齐3D模型",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1peDZMQWVocDJUeHlMdjNnOEZaNGdJSy1fRV9FYTJUeXhIYVdOUjJnOGpwV0xhTkFxcHZQLWpTbkZtYXJ6MGJQeUx4Z1BlTWVtSnFRWUYwTDNIVUhmU0xmMkozWXp0U1cxRExncTdUNDdpdEVvbmJ4dEl1U28?oc=5",
+      "source": "新浪财经",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-28T14:44:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Universitéit Lëtzebuerg an anerer schaffe sech zesummen, fir datt Roboteren all Objet op ee Bléck \"erkennen\" an 3D Modeller präzis ausriichten",
+          "summary": ""
+        },
+        "en": {
+          "title": "The University of Luxembourg and others join forces to allow robots to \"recognize\" any object at a glance and accurately align 3D models",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Universität Luxemburg und andere bündeln ihre Kräfte, um es Robotern zu ermöglichen, jedes Objekt auf einen Blick zu „erkennen“ und 3D-Modelle präzise auszurichten",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'Université du Luxembourg et d'autres s'associent pour permettre aux robots de « reconnaître » n'importe quel objet d'un seul coup d'œil et d'aligner avec précision les modèles 3D",
           "summary": ""
         }
       }
@@ -45226,6 +45404,35 @@
       }
     },
     {
+      "id": "d5202db107c91df5534e0dc50c238e1a18b3e03d",
+      "title": "The Grand Ducal Couple of Luxembourg Pay a Courtesy Visit to Paris | More #royalnews",
+      "url": "https://www.youtube.com/watch?v=cwmvzAXT3nQ",
+      "source": "The Royal Correspondent: Royal Daily News",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "en",
+      "publishedAt": "2026-07-07T20:35:05.549Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/cwmvzAXT3nQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_XKH1o48SYMOX12fXemamvyLajw",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Groussherzoglech Koppel vu Lëtzebuerg mécht eng Courtesy Visite zu Paräis | Méi #royalnews",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das großherzogliche Paar von Luxemburg stattet Paris einen Höflichkeitsbesuch ab | Mehr #royalnews",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le couple grand-ducal de Luxembourg en visite de courtoisie à Paris | Plus de #royalnews",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "582c5ca6dd6bb55f961653b13168f1e103a589b8",
       "title": "Nice day from Luxembourg city #luxembourg #roshdi #roshdi©® ",
       "url": "https://www.tiktok.com/@roshdi.photography/video/7659886625148685600",
@@ -47053,237 +47260,6 @@
         },
         "en": {
           "title": "Luxembourg - Unfolding a harmonious rainbow in the castle of world citizens (below)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b91d588a6c11ce77fa9e3b6af1120f9a724a0ee9",
-      "title": "룩셈부르크 - 세계 시민의 성에서, 조화로운 무지개를 펼치다(上)",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rNG44c2dLRVNnQW5fQUFzdDQ3LXZEV3pDcUVMUFktUmgtMkQzdjhBTGZLTThJdXk2UjVQUjYyMzAwblc5RjhKN3NVdlY1RENHQXFQOXVQb2RCSVJjRDBKYTlQNkpKT3k2UlpseNIBcEFVX3lxTE1hZl85cHgxTUpxa2ExcVNCeENPb1pMbk9hRWxKbnZHX1pBd2pOLUxueG5Dd1FkN3JZS3N5bXNmSEFvazJRMEFWQkVrSFNRUU9uWW1BQk9BdHRzVkFwWEFtVXNqOHlvci03RjMzS3luUGk?oc=5",
-      "source": "톱클래스",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg – Entfaltung eines harmonischen Regenbogens im Schloss der Weltbürger (oben)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Unfolding a harmonious rainbow in the castle of world citizens (top)",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg - En harmonesche Regenbogen entfalen am Schlass vun de Weltbierger (uewen)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Déployer un arc-en-ciel harmonieux dans le château des citoyens du monde (en haut)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "03d2a82979259f1d531ef523bb5f9f765c5d32f8",
-      "title": "Schmidt Hammer Lassen 赢得卢森堡旧工业街区复兴设计竞赛",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnhfRG5pVzBfRWZxTklyeDJBd21TejN5UVBGY2ZjU29venpoaFFfUDdnN05GQVlwVm1EYWFaazFCWTJocHMxaFdmTnktckQzTE00aVlNcmlWRDdxVXZteFdRNHZOYnk5TG95M0NmcjBXLU03WE9DbldKTnZFMWFSc0g5ZkZfV3EzeUFydjJtcnpjblFWRnA2akdBWWI0X0FuYU04VWJIbHpPNmN6YTA4a2RkSF9RWTQzTFJsdA?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Schmidt Hammer Lassen remporte le concours pour la revitalisation d'un ancien quartier industriel au Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Schmidt Hammer Lassen wins competition to revitalize old industrial district in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Schmidt Hammer Lassen gewënnt Concours fir den alen Industriebezierk zu Lëtzebuerg nei ze revitaliséieren",
-          "summary": ""
-        },
-        "de": {
-          "title": "Schmidt Hammer Lassen gewinnt Wettbewerb zur Revitalisierung eines alten Industrieviertels in Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9d2d2201b25411133a8c1f6ebe3b86b7899da587",
-      "title": "UNStudio projeta edifício híbrido em Luxemburgo com pegada de carbono reduzida",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVFZWVdjZ3RBZGYtSDVTOFRXREVGU1VhNjVQNVVrWEpCOHpvaEdLZVJKeGlYekxQUnIwdXFBcEhrSFpDdDhhQU01akpRVThNdjFHUWFDbWNxYU1wSzk1WDRXRFFORTU1anRkemNHUUxCaGhuRDdGZjlJX25jT1FRS0E0WDNMOUlQYWVqQXpGYmJ3Y2U4TGNXVW81a0VyM1VLOTdlWnZObV9oUlZkS3dNRjRRM2Z2Zw?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "UNStudio designt Hybridgebai zu Lëtzebuerg mat reduzéierte Kuelestoffofdrock",
-          "summary": ""
-        },
-        "en": {
-          "title": "UNStudio designs hybrid building in Luxembourg with reduced carbon footprint",
-          "summary": ""
-        },
-        "de": {
-          "title": "UNStudio entwirft Hybridgebäude in Luxemburg mit reduziertem CO2-Fußabdruck",
-          "summary": ""
-        },
-        "fr": {
-          "title": "UNStudio conçoit un bâtiment hybride au Luxembourg avec une empreinte carbone réduite",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d6578736bd12d9502f31616f2e2119b58f6f98f0",
-      "title": "アタリは、ルクセンブルクの公開有限責任会社（S.A.）への転換を完了しました。",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmxfanVVX1FHdnZ4N3FOTlVIbGVjVjFUQUtmeVEzY2FwRzE2QnBzb3E3SWxGeGJxanEwNTB5REo4bFBSSU1rY2NGRmVHSDR6c2pSc2NwQ3haaGM5OEl1YVhjaFhIcUpwcWNGVGw2TXV0NVhZeFJnZnI0czlxaWxCVHM1cnJxNTFWMWxDM2htUVNKTVRHaFhSVTk2eUNNLWJyNmZfbUplYU15Z2YxUTZ2TDNJUF9sY3FWRFhZUA?oc=5",
-      "source": "Moomoo",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Atari huet seng Transformatioun an eng Gesellschaft mat limitéierter Haftung (S.A.) zu Lëtzebuerg ofgeschloss.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Atari has completed its transformation into a public limited liability company (S.A.) in Luxembourg.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Atari hat seine Umwandlung in eine Aktiengesellschaft (S.A.) in Luxemburg abgeschlossen.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Atari a finalisé sa transformation en société anonyme (S.A.) au Luxembourg.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7e3f809c9741a7747a91fb7a1ef96654a1d6e456",
-      "title": "UNStudio 设计卢森堡混合建筑，旨在减少碳足迹",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGFRRjZOX092WE9RRGFSYjB5Rmo1bGZPeVhCX19aZ2Rmem1Rbm1ZdHI1UkRGRnROaFlOQnhjQUZrcWdxTzB1RC02Wk8tWkpGaVRhM2RURkRvOWFtOTNlUjNzbDVtOHJPaHAzR0I1SFFmNVVpMmtjd3FwODNkSTFxRlpNaVFHbEhNMGYyMndfa0RrczVWSUZZbWRhRnhLcVA5SFRHYmlSOVc4Vkk?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "UNStudio designt Hybridgebai zu Lëtzebuerg fir de Kuelestoffofdrock ze reduzéieren",
-          "summary": ""
-        },
-        "en": {
-          "title": "UNStudio designs hybrid building in Luxembourg aiming to reduce carbon footprint",
-          "summary": ""
-        },
-        "de": {
-          "title": "UNStudio entwirft Hybridgebäude in Luxemburg mit dem Ziel, den CO2-Fußabdruck zu reduzieren",
-          "summary": ""
-        },
-        "fr": {
-          "title": "UNStudio conçoit un bâtiment hybride au Luxembourg visant à réduire l'empreinte carbone",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f5fea30acb534acebc355744b390f4e892cdb915",
-      "title": "Urban Agency e COBE projetam masterplan para Esch-sur-Alzette, em Luxemburgo",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjJpbXNYbk9EUDl6eTJlTHZ6SWZSS3Q2N0F6MGQzVm1HSnN6R2pESGk3eFEyRlBYZlNZVHBrMEZwMklCZGROTFZ1QkxRUkdrWW01TEsxdk9vRVltSmItRFhZZDBqMnF6Z3VTY2x5QUNPem9FS0cwRDFIdzNfN3NQbDVzclBZQWVsRDZGOWlEUFFwbWpKQkVmY3haM0xDZi1NWjZKa1VyWWw1dVFMMW92QllB?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Urban Agency and COBE Design Masterplan for Esch-sur-Alzette, Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Urban Agency and COBE design masterplan for Esch-sur-Alzette, in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Urban Agency und COBE entwerfen Masterplan für Esch-sur-Alzette in Luxemburg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'Agence Urbaine et le COBE conçoivent un plan directeur pour Esch-sur-Alzette, au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "02543c77f23dbb341d04c3d867dc21626caf40af",
-      "title": "Luxemburg, desemnată cea mai frumoasă capitală din Europa, peste Paris sau Madrid",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1lWERoZ0o2ZDVGNjd3ck9TT3Q3bGljQjJQUTRwS0JKUWtibnVhc0pqRXRZRUVsdUd1cUV3bVdPWmdGbnk2eVY2dVo0NkQ3dTBVa2VJQ1lKeGpXbFpfS1R4QUpBRnNlZUI3Z251WHNkbk1qQm9JVHZJRGxXYThaNG5OQklIMVpUZ040SzBvX2JoMWQ0XzJMdWxTQjFYN2Zlc3JUQnZPbks?oc=5",
-      "source": "noi.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Luxembourg, désignée plus belle capitale d'Europe, devant Paris ou Madrid",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg wird zur schönsten Hauptstadt Europas gekürt, vor Paris oder Madrid",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg, named the most beautiful capital in Europe, over Paris or Madrid",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg, iwwer Paräis oder Madrid déi schéinst Haaptstad an Europa genannt",
           "summary": ""
         }
       }
