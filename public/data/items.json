@@ -1,6 +1,93 @@
 {
-  "generatedAt": "2026-07-28T06:41:28.884Z",
+  "generatedAt": "2026-07-28T09:48:50.184Z",
   "items": [
+    {
+      "id": "63effefc1326e0a9c7feaf1da5d4f1faf4f1b6fd",
+      "title": "Commission approves €54 million Luxembourgish state aid for road and rail transport firms facing increased fuel prices",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdFFwdWJpQXdZNFpkOGFiME93QUdnV3FWdGJNODBKUXpsZVRhQUNkRWNSVFJfX2JrbHNzYjJCOUpqZDRiM0NqRm5TVEsxYmNUcWhjT3QzcmljRzkzbWhKMXlyOWpNRF9iYlVEa3o5X21YUmExNmdNR2VnYm0wTFFtMmotQ1NEN0ZXNUg1ZlNDVVdxS1pjQlpraDU5QTBjZ1ROd2lvc0pqNW9fLU8xa3EwZWttb3RtLWtCMGdjY0U3N0lKNTlBNnlCU1B5TlBib3VpeVhab2VoUk1ERHYyOEh5V0locU5ZSGxWQ1BNa1g4RUNlemJsX21rUXUwa2ZnaTI3eTBz?oc=5",
+      "source": "EU Reporter",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-28T07:31:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Kommissioun stëmmt 54 Millioune Lëtzebuerger Staatshëllef fir Stroossen- a Schinnentransportfirmen, déi méi Brennstoffpräisser konfrontéiert sinn",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Commission autorise une aide d'État luxembourgeoise de 54 millions d'euros en faveur des entreprises de transport routier et ferroviaire confrontées à la hausse des prix des carburants",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kommission genehmigt luxemburgische Staatsbeihilfen in Höhe von 54 Mio. EUR für Straßen- und Schienenverkehrsunternehmen, die mit steigenden Kraftstoffpreisen konfrontiert sind",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3dd7388c35716424a3a59419a19a92626d131e64",
+      "title": "Update: Geldautomat in Luxemburg gesprengt – Nach diesem PKW wird gefahndet",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkFLWEhxRk9lUHZQN3NGY2wzTVRtN3NFREhybm9iZy1WRW91WXZRazZSRmE5YTNiVXBwekNmRGtzbTlNVkJ5a1dQN3ctSUhyNHBYUmFiOXdRczdrZzV0RHg1b2xqX012NXJ4MlZFM0JxR3lRUm5tUWZuaEFoSW9hWEhLbEdkeXlfdFd5QldKNDFUT09Da1lIUlE3RTJnN0QwSTNGcWw0TkhZdw?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-28T05:38:19.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Update: ATM blown up in Luxembourg - A search is underway for this car",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Mise à jour : ATM explosé au Luxembourg - Une recherche est en cours pour cette voiture",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Update: Geldautomaten zu Lëtzebuerg gesprengt - Et gëtt no dësem Auto gesicht",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ba01d4ff0ca2e6ef7eb1f8d24d9e9cc735d4df64",
+      "title": "++ Aktuell: Geldautomat in Luxemburg gesprengt – Umleitung eingerichtet ++",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0o3cmplV2ZhM2VmTEl3VjFyWEZ0cnExcWNIamZpZWJhRnNjZG5KYXZwS2tNUV9hT1UyODl5SHY4NUFtdng0VWdYdFBJYXlrRUZick1sb3N3TVpMeTZOeTRGaU9mSmpaZ21Td0gtNi1ndEFCOUJJNjJQQTFXUEdPZXNoOXVEN000eldDLXljNjZubnRuUzlWaDJzVDhGZHpx?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-28T05:03:03.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "++ Aktuell: Geldautomaten zu Lëtzebuerg gesprengt – Ofdreiwung opgestallt ++",
+          "summary": ""
+        },
+        "en": {
+          "title": "++ Current: ATM blown up in Luxembourg – diversion set up ++",
+          "summary": ""
+        },
+        "fr": {
+          "title": "++ Actuel : ATM explosé au Luxembourg – déroutement mis en place ++",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "5bc5a29ccc041f1e94a1c6fc907d62eae768e710",
       "title": "Thomas Vaarten Named New CCO For Lidl Belgium & Luxembourg",
@@ -55,6 +142,72 @@
         },
         "de": {
           "title": "Luxemburg und die Landwirtschaft: „Offensichtlich gibt es Konkurrenz um junge Leute, die ein Unternehmen gründen wollen“",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a2b3ba38d93d8e0a81c354ba9a2d0ab4859cb11f",
+      "title": "RAIF maakt Luxemburg centrum van Europese private markten",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1c5MzZ2b000eDllQzctZWFFZldLd1BVamM4N0hJNjh1dkdYZW10dkQwVVo0WW8zV0ZUYTBVeGhUZmo2a0R6TjcxWkJUQlhzTUZ5TFRyX1BRRzBVV0xIcC0tQTFGT0loMW9HRGF4VEM0ZV9KbnVBME5nWHBfZ2VweFEzbmtxNVU4bWxRUG9XazlfcjU4ZktRbFdNb1I4bmVuYlE?oc=5",
+      "source": "Investment Officer",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-28T04:31:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "RAIF mécht Lëtzebuerg zum Zentrum vun den europäesche Privatmäert",
+          "summary": ""
+        },
+        "en": {
+          "title": "RAIF makes Luxembourg the center of European private markets",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La RAIF fait du Luxembourg le centre des marchés privés européens",
+          "summary": ""
+        },
+        "de": {
+          "title": "RAIF macht Luxemburg zum Zentrum der europäischen Privatmärkte",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2b46f251fcf4abcce1e6469434912bc3ee98cc87",
+      "title": "Galería de UNStudio diseña edificio híbrido en Luxemburgo ocupando acero 100% reciclado - 1",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNZWtFRjNfRnlMUjdXQ1R2aGQ1QlVDbkRGbHNZWUNYaVJnamtxTHoxQ1BLWXdmMzYxWnhmdGFFQ2VfSzFvWnh2Q3d1dHZZbmRLcUNwNlYzQlB6YW80MmV1ajV5Tjdod2pRRkYwN0N3U2g5ZG5VVE9JYU5JQXVXa2lDNVh2NGpOSmp6TmE4NXE3N1BnellyQ240YlNVMDZVQ0x4eXVfTWRUTmJSbk54ZFhPY1cwZ3Y2Q3NLQU1oRm02OUs0dmlCcjFKMzhaX0c3c1Jaa2lJaTNBUGNqMGJzWkhSdjQwZGhIcG13ckNCYldDb2hsSUFHQXpmUDhQS2c2a25USVc4NlhmY1pOSjR0elh1a3hsaldQVnBkdElmdWhsUUdvTTJxTVd1Ull4aVd4SjJkWGhTMFNQNTREQWhleDB5eDlnMXF0cVh3eTBxVjhoR3pFS18tbnBWZWNUXzE1SVBXeDBlWjRfbFM2aHJwU0JmX1FKaXdLQXBYTWJjenI1UU1Lc1F0?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-28T03:40:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie von UNStudio entwirft Hybridgebäude in Luxemburg aus 100 % recyceltem Stahl – 1",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of UNStudio designt Hybridgebai zu Lëtzebuerg aus 100% recycléiertem Stol - 1",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of UNStudio designs hybrid building in Luxembourg using 100% recycled steel - 1",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de UNStudio conçoit un bâtiment hybride au Luxembourg en utilisant 100 % d'acier recyclé - 1",
           "summary": ""
         }
       }
@@ -1940,6 +2093,39 @@
         },
         "fr": {
           "title": "L'association locale VdK Mayen organise une excursion d'une journée réussie au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "52e429c1f2a2b9dd471aa81fc11fd948cbf691a9",
+      "title": "Schifflange, Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzY0E5RWFjQWFoVDZpZ0xHd2ctZUJteFFXOHNvbzN0bXN5WHB3N2RNbHBUellGbmIzWHFWZ05TaGUweGlVTVZFUGgyUnNGWG5UbE1CNXF5OUEtRjJTdkRycUNfemlJejBVX2FCckZIUmV0Zw?oc=5",
+      "source": "MSN",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-07-25T22:05:21.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Schifflange, Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Schifflange, Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Schifflange, Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Schifflange, Luxemburg",
           "summary": ""
         }
       }
@@ -10799,6 +10985,39 @@
         },
         "lb": {
           "title": "Gyeryong City a Lëtzebuerg grënnen en digitalen Archiv vum Koreakrich",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ef78a644b277f5e6d983779b01f0c493d9c70427",
+      "title": "계룡시, 룩셈부르크와 6·25 디지털 아카이브 구축…참전기록물 공개",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zOWZqVzZ1QWQzVnFCSzNndEpWZmRyS3E5Uk5zTFJQYjlsenVPOUZOVzNfeDJ3cGU3SnIzUlZyZDE2c0ZYalJBMm1QaGxBcTMtYzFvUTJzdFNCZFR4QlpscnBfX0FrU0pqdVA5cndSMDAtbE9wTHVqVA?oc=5",
+      "source": "네이트",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-07-22T01:15:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Die Stadt Gyeryong richtet am 25. Juni ein digitales Archiv mit Luxemburg ein... Offenlegung von Kriegsakten",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gyeryong City stellt de 25. Juni digitalen Archiv mat Lëtzebuerg op ... Verëffentlechung vu Krichsrecords",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gyeryong City establishes June 25 digital archive with Luxembourg... Disclosure of war records",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La ville de Gyeryong crée des archives numériques du 25 juin avec le Luxembourg... Divulgation des archives de guerre",
           "summary": ""
         }
       }
@@ -28466,6 +28685,39 @@
       }
     },
     {
+      "id": "5f3d5c0be47c5d70460427b133d5ac9dff73e9e9",
+      "title": "Galería de Guía de arquitectura de la ciudad de Luxemburgo: 23 proyectos para explorar en el Gran Ducado - 5",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUENLUjdTRjJKbmtVQ3h0OG5iN2d6ZHZsTTB3Vkk1a2dwQWVoaGRfUHJCMldZRFR1eUVCQy05c0NiM2ZCRFNOcFdjaGpCWDJvV2NRc0d6cG9acmd4THdGUEVoZVo4a3JQZGdhOW9ZZDB5b3pDNDNiQ2ZCVFhnUHJRWWF4VzVoUmlaZG9Cc2xjZHZKeG9reURfSzEwUTBwLTFiODUweVFrUEx5NzM3eVZ6RURpSmNYeFctVGRUcUpVSnVwZm8wREtULVRFSHV0Q1VwVUJrVlVMWDhPQVRHd3czUWJsbV8tZk1JeXdLSG5wTlczN25MVlY2TGdQMW5jakVpT09xTDBvOV9sNkNSZFYyZmNVelRJYVp4dHoyTzJneVpHQ2J6Z3R2Q1dTRlJBNGxCbndYVUMwcnhVdUQ0X0pWRVhZdFd4Z1pyM0lBbDRBX01fTmxKQ2pwWQ?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-14T09:49:14.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie du Guide d'architecture de la Ville de Luxembourg : 23 projets à découvrir au Grand-Duché - 5",
+          "summary": ""
+        },
+        "de": {
+          "title": "Architekturführer der Galerie der Stadt Luxemburg: 23 Projekte zum Entdecken im Großherzogtum - 5",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Luxembourg City Architecture Guide: 23 Projects to Explore in the Grand Duchy - 5",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie vun der Stad Lëtzebuerg Architektur Guide: 23 Projeten ze Entdeckung am Grand-Duché - 5",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "4047bddd021f34f876c6a18f094efb8bbbe6907d",
       "title": "Aucun train ne circulera entre Thionville et Luxembourg à partir de ce jeudi et jusqu'au 23 août inclus",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ1VZS3cxNGRPZFhXRFNXLXR0MFNkZzRoRFlwVVVIYzZRa0kzWmdrYXdsWDdpQkNOUjJHNEdLWDFVa2lneWV6LWhSN3gtWTl2OW1pc3VhS2t0Q0NGTkdHNlBpd09KZmRaNDExZDJxNE5sV3FkamNPUDV0bXBkMFFFUlRIMWZSOERHbTZ0MnRHVUs3TlVsMm8zeE5KM3ZTNmlsRm5tYmpkcjJwTWFBRkQ2dFE4eUFvalRRM19QY2xUTENzTXd4RjVCM2duTzBJRENaT3F5Z3NOZG5pUUZ0QVgzWnNpbw?oc=5",
@@ -35402,6 +35654,39 @@
         },
         "de": {
           "title": "Von Kyoto nach Luxemburg. Es wird ein Kunstworkshop abgehalten, um die Friedensgefühle der Kinder in einem einzigen kulturellen Werk zu verbinden, bei dem traditionelles Kunsthandwerk aus beiden Ländern zum Einsatz kommt.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4405be7a090a134014f6630bc1494115b4dd10b6",
+      "title": "Galeria de Vincent Callebaut Architectures propõe metamorfose futurista para antigo hotel em Luxemburgo - 5",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOUjM1QXBwT2ZHMHNMSko3SGVWeTZNOW50aFRpbGtaU0d3TWE2QWUySGNVaFlLQTdNZWI0T0dGR1pzRDFaeFowSkdXSTZVN0xzbzUxc0E4d0JkMkpVOTZDLS0xckE0dVhqM2lZRWhYcFpiUGNtNDFuVGxXX2Y2cmgwOEZmV1E2bzI2TngzWjAyZTFHN09PNkk2MkpDSldGTlZ6dW80Rk8zV1Jyalp5Y2FrdDJvdUZycGJIRnNpT3p3RlBjMFdnUjZjXzRwWXRkaWtUVGlHNmM0WnJiQ3hvdl9LNllGOXVLS0dxNGphRnRpbWVrYlFLSWFkcUw5eTFxTlowbnIybnFCMVdoMkU4d3kyOHc2NXpULU11UFlIQnFYbG14ZjBDN25xZWZBRDR4Um0xQWNTQUpvWnk1eHVfX1R0bEJabVg5OXM3RlJyU0pBTzliaGFRb0lBUXJaTlhhY2R2ZEMxcGk4bDY5N25xWXJEVUFB?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-10T23:43:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie von Vincent Callebaut Architectures schlägt futuristische Metamorphose für ehemaliges Hotel in Luxemburg vor – 5",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery by Vincent Callebaut Architectures proposes futuristic metamorphosis for former hotel in Luxembourg - 5",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La galerie de Vincent Callebaut Architectures propose une métamorphose futuriste pour un ancien hôtel à Luxembourg - 5",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie vum Vincent Callebaut Architectures proposéiert futuristesch Metamorphose fir fréieren Hotel zu Lëtzebuerg - 5",
           "summary": ""
         }
       }
@@ -47011,299 +47296,6 @@
         },
         "fr": {
           "title": "Le Grand-Duc de Luxembourg annonce qu'il abdiquera en 2025",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "27b8d64bd0b0090299dddc4bd794175fc593b132",
-      "title": "法国 0 - 0 卢森堡：比赛报告、统计数据、阵容和H2H",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1g4NXB4b1BMTDJueVVDcHVPWVNVMG9oSkN2cUg0dlFaUmtFMk9kRUFNS2JmQUF2ZXc1WWtfX3BiMV82ZFEzYzNZV1NDUXdldFlxc3lwTW1tLU5MajVsRXdpTjEzY0dwTjVSNnpaMm81OTVqWkVEUEVaYU9ibVpIc3h1OUdXdi0yaklN?oc=5",
-      "source": "365Scores",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-06T22:36:59.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Frankreich 0 - 0 Luxemburg: Spielbericht, Statistiken, Aufstellungen und H2H",
-          "summary": ""
-        },
-        "en": {
-          "title": "France 0 - 0 Luxembourg: match report, statistics, lineups and H2H",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Frankräich 0 - 0 Lëtzebuerg: Matchbericht, Statistiken, Opstellungen an H2H",
-          "summary": ""
-        },
-        "fr": {
-          "title": "France 0 - 0 Luxembourg : rapport de match, statistiques, composition et H2H",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "082c6520df756623696b9651caa407a50f54f1f6",
-      "title": "Luxemburg, desemnată cea mai frumoasă capitală din Europa, peste Paris sau Madrid",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNd253bnlnVlFpU3dkeDZCQWpLYzRyY2xCc1FyWVFwRnM0c2owaWRQdURFeTJZLTVVSXJ5RnFYQ1hOVVNUYWg3cWV4VE5PcGM4WGtJVHFHWmx3TUF0TDl3S0VkcXV0b2VGTXhoc2ZWY0hpcEtaM3g2ZlNzeE51RXlCNFl2blRqaWdmT2Y5aFBOTUhYYUdvbXIzeENBenlRVHRILV8zZl9fMFp1REtBdGFib19XNHhtYkw3eUotOHpaSExYTTFjN1JSZ2w4Mko1cm1nSXJ6XzhFeDlpUTdWSC1WSGJvR3hJTHZaZEZ5QlBxek4tb0JkNUp1Yk9OalFnUVEzVzZJTXlsNV9lWGVsQ1NEdmlpUdIBkwJBVV95cUxNd253bnlnVlFpU3dkeDZCQWpLYzRyY2xCc1FyWVFwRnM0c2owaWRQdURFeTJZLTVVSXJ5RnFYQ1hOVVNUYWg3cWV4VE5PcGM4WGtJVHFHWmx3TUF0TDl3S0VkcXV0b2VGTXhoc2ZWY0hpcEtaM3g2ZlNzeE51RXlCNFl2blRqaWdmT2Y5aFBOTUhYYUdvbXIzeENBenlRVHRILV8zZl9fMFp1REtBdGFib19XNHhtYkw3eUotOHpaSExYTTFjN1JSZ2w4Mko1cm1nSXJ6XzhFeDlpUTdWSC1WSGJvR3hJTHZaZEZ5QlBxek4tb0JkNUp1Yk9OalFnUVEzVzZJTXlsNV9lWGVsQ1NEdmlpUQ?oc=5",
-      "source": "noi.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-06T22:00:24.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Luxembourg, désignée plus belle capitale d'Europe, devant Paris ou Madrid",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg, named the most beautiful capital in Europe, over Paris or Madrid",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg wird zur schönsten Hauptstadt Europas gekürt, vor Paris oder Madrid",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg, iwwer Paräis oder Madrid déi schéinst Haaptstad an Europa genannt",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5caf91077290b25a3c90cd3ccf76dcbdb40477f7",
-      "title": "14-07-25 Προσωρινοί αξιολογικοί πίνακες εκπαιδευτικών για την κάλυψη θέσεων διδακτικού προσωπικού στο Ευρωπαϊκό Σχολείο Λουξεμβούργο ΙΙ",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxONHlxY2JNaEpuSmt0SnlqX0VFYTRUWERLWWxIZWtlaFJIV0o5dlcxR0c0cC1FcmJQTmxSTTE2RFRvbkZzYUVuQ3BYdU5Pa3kwZjFGN2huV1ZhVGkyeTBRQS0xNVZCaDRJUGhVYlRJdWpvbXlXQkNfYjRfQUJLSVlfYnlWa2hyQlFFMGlUSk9vcURiQmptSzJySmJzX1haejMtelBXMzdIN3A0Y0NoYWtOSy1USFctY3ltOE9iWHR5ckpyXzNzT3BqY09MSzZaaWhuM3NqcXBKRDJ4XzJzMFFOdjRSd1NsaEViY0FYLTJ4SEhBV3V0dzY1ZnJZQnppNlphRE5TOGUwd25rUmQ4NGUtSzJZMVhnLXl5Z2Q2ZlRMUGdpek1CbGZFRUxRcw?oc=5",
-      "source": "υπουργειο παιδειας",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-07-06T21:58:16.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "14.07.25 Vorläufige Bewertungstabellen für Lehrkräfte zur Besetzung von Lehrpersonalstellen an der Europäischen Schule Luxemburg II",
-          "summary": ""
-        },
-        "lb": {
-          "title": "07-14-25 Temporär Evaluatiounstabelle vun den Enseignanten fir Léierpersonal Positiounen an der Europäescher Schoul Lëtzebuerg II ze decken",
-          "summary": ""
-        },
-        "fr": {
-          "title": "14-07-25 Tableaux d'évaluation temporaires des enseignants pour couvrir les postes d'enseignants à l'Ecole européenne Luxembourg II",
-          "summary": ""
-        },
-        "en": {
-          "title": "07-14-25 Temporary evaluation tables of teachers to cover teaching staff positions at the European School Luxembourg II",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "271b7b391629a7143180c778874517ec373bf6c5",
-      "title": "أيام التراث 2026 في البيوت الزجاجية لحديقة لوكسمبورغ: البرنامج",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVV95UzdVU1psRk5WX2p3bVVtRHNzWXR2RHQ1ZWhqTHBaLTRacnU4Ym9VU05EMlNhZm1uSmtrYXhSRE5vMDRkUlVQNUhCbW1mYnV6Y2JwSGlaSjB2UDYxUDVnenhtY05kOFFKRkxtTF8tR2MtTWdweWdXcUcwUWtPOEhNYlpPa05mSUU0N205VjZkMnNOWlZIV2lYMzhZcGEyY3hKMWh4am0yRDM4S3N0c01xeWRaOElXN1pNWmdqVWJDNjVzeS1KT29rbjRuUQ?oc=5",
-      "source": "Sortir à Paris",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-07-06T21:51:43.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Patrimoine Days 2026 an den Zären vum Lëtzebuerger Gaart: Programm",
-          "summary": ""
-        },
-        "de": {
-          "title": "Tage des Kulturerbes 2026 in den Gewächshäusern des Jardin du Luxembourg: Programm",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Journées du Patrimoine 2026 dans les serres du Jardin du Luxembourg : programme",
-          "summary": ""
-        },
-        "en": {
-          "title": "Heritage Days 2026 in the greenhouses of the Luxembourg Garden: programme",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b8d0753714a153dca420dbd1b6e08354591aa6f2",
-      "title": "Ripple Wins Full MiCA CASP License From Luxembourg, Authorizing Crypto Services Across EEA",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE1vQ3NLSFdLcnlSRnZqdkNOV3Bod215QXdCNkRzV3pXR2pwZ1RxRkNqSml2d25DODVPY0p1VzJNc0p3SkZiR3ZENG9wdjRMUHJmeHlMa3hRcFNfd3N4Q1VFYlFlSmhDSE04NHBQOThOdmkzODJ0RDVXT3Y5UC14WHdOVzltWGdMTGc3cUw4ckI4Z0pDODdNYWUyRmZfWWg1UVEyd1kteDBUajFGR1ROWnRvOWhlcFlVd2stTW01VmpCOU5tYzNmcHB3ZzhFRnhNckxRV2lBa2pTcFZOc3Y5SnhsaGpYWGlqMkE?oc=5",
-      "source": "NewsCord",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-06T21:48:24.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Ripple gewënnt voll MiCA CASP Lizenz vu Lëtzebuerg, Autorisatioun vu Krypto-Servicer iwwer d'EEA",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ripple erhält die vollständige MiCA CASP-Lizenz von Luxemburg und autorisiert damit Kryptodienste im gesamten EWR",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ripple obtient une licence complète MiCA CASP du Luxembourg, autorisant les services de cryptographie dans l'EEE",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c13f3d1ac474f4e831642922b2b5898fc3d28494",
-      "title": "02-06-25 Διεξαγωγή συνεντεύξεων εκπαιδευτικών υποψήφιων κλάδου ΠΕ11 Φυσικής Αγωγής για απόσπαση με σκοπό την κάλυψη θέσης διδακτικού προσωπικού στον Πρωτοβάθμιο Κύκλο του Ευρωπαϊκού Σχολείου Λουξεμβούργο ΙΙ",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQZHV0U2dWbXJBMGthWngwTFhqM1BqWldHdm9jOW5TZlI3eXRaa0xmT3g4cnNhcFNibExIVWZQOHBMczB6blZKcjRJeTlkdk9TNkJlMGI0eWxUU2k5WkJQOExkdjhyV0I5RVdTanpreElXQ2VWcXRrRkZaRW94dHluVFJNQmxNOWN4ald6SDN2Y3gxdnZjRlZUMlBpTjdpeUtmUWJQbXpadWVQYXFscmxBZ1BHU21vY1B6Ujd0TGdvcWJfZlZ0dmJwNGZnXzZhYVZvWkhoZjVSS3lha0ZfUVBiT1AxU0FzbERBMzZTbWR6d2x4NGZ4UUQyZVBDOGc5NXU4TktFdGpUX1VrYUR3c0J6MlpNTzNGTF9kRmttamp0Zl85QlQzZ3Z5ckJWWEd4Y2xuMkhfNktsallxVEpTNEtqOU5XX3plNm44ZlNLZ1VfaFh4UXYyRXM1U2s2VkRxUC1aekVadXB1QlEyR3FKeHRfbmdwb3BjZy1aY3FDYmFDUXZHUDdMT3hiTlhKYTd2Zw?oc=5",
-      "source": "υπουργειο παιδειας",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-07-06T21:33:10.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "02-06-25 Duerchféierung vun Interviewe vun den Enseignantskandidaten PE11 Physical Education Branche fir Detachement fir eng Léierpersonal Positioun am Cycle Primär vun der Europäescher Schoul Lëtzebuerg II ze besetzen",
-          "summary": ""
-        },
-        "en": {
-          "title": "02-06-25 Conducting interviews of teacher candidates PE11 Physical Education branch for secondment in order to fill a teaching staff position in the Primary Cycle of the European School Luxembourg II",
-          "summary": ""
-        },
-        "fr": {
-          "title": "02-06-25 Réalisation d'entretiens avec les candidats enseignants PE11 branche Éducation Physique en détachement afin de pourvoir un poste d'enseignant au Cycle Primaire de l'Ecole Européenne Luxembourg II",
-          "summary": ""
-        },
-        "de": {
-          "title": "02-06-25 Durchführung von Vorstellungsgesprächen mit Lehramtskandidaten PE11, Zweig Sport, zur Abordnung, um eine Lehrkraftstelle im Primarbereich der Europäischen Schule Luxemburg II zu besetzen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "61b3f570d8757000b95130faeeaa84be19900305",
-      "title": "16-07-25 Κύρωση αξιολογικού πίνακα εκπαιδευτικών υποψηφίων για την κάλυψη με απόσπαση της θέσης κλάδου ΠΕ86 Πληροφορικής στο Ε.Σ. Λουξεμβούργο ΙΙ (Αρ. Πρόσκλ. 29280/Η2/14-3-2025)",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcy1aeUl6THRyRnpORnRaa3M1NGJVRllnSmJDVkE5Y1FERmFWamw4VGNla3ZWWXB5cXdOQWh0U1IyamxnWTRmaV8wMG4xV29YN3ZtbU5ReG9LX0NfNUhnLUJZa3VEWWsydDl1TzFLWDlmbFN4OFhLYzJYN3dZNjdON2ljZGh5ZVQyMEI4LVdob1dDY201MTFZVENUNHpjTTZBLVZYcWdrUlpYQUNIRmhEMEpSc25lTk1nRGFTdlM4dWdiVWRiVm9IS1lVU1FzcXdwcFdRa3hwWEhJdFZwNFBoSWlQNTV1YXJpSXFTUzVkUWhnNFNMVUhFVEkzRzgwajZKWjJ0M3RlNmN0UDA4MjdBb2gySXpJRzlCYngyd3NmMTVMVThMSkp6bDktSmVqaFlWS1hJVEVVd3JzMUp6aHM1bzQyWHMxSGIwQ2VtQ1F0Vk9MM1FadzdjUnZ5RlFXdXc?oc=5",
-      "source": "υπουργειο παιδειας",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-07-06T21:08:38.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "16-07-25 Sanction de la liste d'évaluation des candidats pédagogiques au détachement du poste PE86 branche Informatique à l'E.S. Luxembourg II (Invitation n° 29280/H2/14-3-2025)",
-          "summary": ""
-        },
-        "en": {
-          "title": "07-16-25 Sanction of the evaluation list of educational candidates for the secondment of the PE86 Informatics branch position at the E.S. Luxembourg II (Invitation No. 29280/H2/14-3-2025)",
-          "summary": ""
-        },
-        "lb": {
-          "title": "07-16-25 Sanktioun vun der Evaluatiounslëscht vun de Bildungskandidaten fir den Detachement vun der PE86 Informatik Branche Positioun an der E.S. Luxembourg II (Invitatioun Nr. 29280/H2/14-3-2025)",
-          "summary": ""
-        },
-        "de": {
-          "title": "16.07.25 Genehmigung der Bewertungsliste der Bildungskandidaten für die Abordnung der PE86-Informatik-Zweigstelle an der E.S. Luxemburg II (Einladung Nr. 29280/H2/14.3.2025)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "093460a2360f665a0bb7111bd4388cb64cf4b874",
-      "title": "Ремонт улицы Розы Люксембург в Иркутске идёт поэтапно",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDVlaXVIaGdOME9uaWRFS1pvUTVySTdEY0JXNnVmLVowOEx5alpYWEs5czBVa2FaeWluM2Nwd3FmWGtjdlJDTmVaNWhnYUlhRUgtT2tqWUFOX3J6OEZYcFp4VEtYMnFqNGxJZlRnZXhucTlLRnE5azNXMW1KNjBUaVYxY2Yta1JVd1pMREFpVjFDMnVLa3NlbDFnb2NMOEEyRTZ3?oc=5",
-      "source": "ИркСиб",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-06T21:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La rénovation de la rue Rosa Luxemburg à Irkoutsk progresse par étapes",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Renovierung der Rosa-Luxemburg-Straße in Irkutsk schreitet schrittweise voran",
-          "summary": ""
-        },
-        "en": {
-          "title": "Renovation of Rosa Luxemburg Street in Irkutsk is progressing in stages",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Renovatioun vun der Rosa Luxemburg Strooss zu Irkutsk geet an Etappe vir",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e65a62228475831fe563009e43fb84a3f44864b1",
-      "title": "Дни наследия 2026 года в оранжереях Люксембургского сада: программа мероприятий",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm0taVBfNDM1MXNrNVlHNTR4cjZQY1VMSGw4QjB0S0dZRmJhLVlDMG5fMWwtSjRpNEo4TkRtb0QzVzhWREJKVndnbnNxbTR3QzlLZzN5NmtHV3dkZWhkNVJFTVIzMUFjVGlqLV9TUFViVG1aZ3l5MHJ2WUJ0Wl9BNy1XbEc1NDkzd2pfZkVJSU9uMG1BbmpndWZPS0dwVEFucm8tVlhVQ3BDcUxwNnk5TUdmcUotTG5pa0llY2hOOXNKUQ?oc=5",
-      "source": "Sortir à Paris",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-06T20:59:33.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Tage des Kulturerbes 2026 in den Gewächshäusern des Jardin du Luxembourg: Veranstaltungsprogramm",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Patrimoine Days 2026 an den Zären vun de Jardin du Luxembourg: Programm vun den Eventer",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Journées du Patrimoine 2026 dans les serres du Jardin du Luxembourg : programme des manifestations",
-          "summary": ""
-        },
-        "en": {
-          "title": "Heritage Days 2026 in the greenhouses of the Luxembourg Gardens: program of events",
           "summary": ""
         }
       }
