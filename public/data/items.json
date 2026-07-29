@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-07-29T17:39:19.257Z",
+  "generatedAt": "2026-07-29T19:44:51.709Z",
   "items": [
+    {
+      "id": "d0b1f06b3332aece6e4bd930a7914e476f6520ca",
+      "title": "Bank of Luxemburg führt Kernbankplattform NuPoint von CSI ein",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdVhIenNzbUUwbEF3bnhqcmxOQjlkWG5LcEpkODBsMzdpb1dnT25UYktYR0l0d1ZBd3VSS3pBTVlKMjkxc1ZzaGhITUxhVHhqYVZaUml4b3JvVWYzVlhqX1VEay1iZDBwdzE0SFdyLUZZSnBMZ0ZwWVJDcnlqT0ZfUEI3U2FRcjdVTU0zTlVjYjBFUDdZcnRSakNVajlMeWRjblNwQVNMdk5zcXdWQmRGSWRQM1dzem9OdTRmWXdfOGFSZVN0VTFR?oc=5",
+      "source": "MarketScreener Deutschland",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-29T18:37:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "en": {
+          "title": "Bank of Luxembourg launches core banking platform NuPoint from CSI",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Banque de Luxembourg lance la plateforme bancaire de base NuPoint de CSI",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Bank of Luxembourg lancéiert Core Banking Plattform NuPoint vum CSI",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ace00196f1d9134df3c8955be372d6a84cc25b60",
+      "title": "Criteo Finalizes Luxembourg Redomiciliation, Board Greenlights U.S. Move Set for January 2027",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS0dveEpaa2kzWkpDMHA3dlRYWGNNQ2k1SkZOeERiTWdiSDBrbW12T1JxVm5VdUdnVWMtWFR1eG9ubHFQY2owSXg5Uksyb1Y0NDdoazg2NFpuc3ZTWnVfekJ3YWE1Z0JaY0lEaG1FYWRBUzRNMlc3TV9jNmJ4NzR2dXBvZmhUb0p6czJycm83bXlxRkVZVHFYdUQ3bHRKSW1uNE52aUpWLXZzVVJOOXFMWjVyM1NXTTRTNjZVVDZNMl9kaldfekllQzJiaENCU2xGUkt3?oc=5",
+      "source": "Kalkine Media",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T18:22:26.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Criteo finaliséiert d'Lëtzebuerger Redomiciliatioun, Board Greenlights US Move Set fir Januar 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Criteo schließt Umsiedlung nach Luxemburg ab, Vorstand gibt grünes Licht für US-Umzug für Januar 2027 geplant",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Criteo finalise la redomiciliation au Luxembourg et donne son feu vert au déménagement aux États-Unis prévu pour janvier 2027",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "77804d3811a8dfc188c5d401400f4a535e7489f0",
       "title": "Bergerat Monnoyeur distribuirá los telescópicos Faresin en Bélgica y Luxemburgo",
@@ -1862,6 +1920,39 @@
       }
     },
     {
+      "id": "9019f5dc19f1fe6337fba49f909aabea3231d16f",
+      "title": "神奈川県と同じ広さの小国「ルクセンブルク」で見た、ちょっと意外なスタートアップ環境（画像）（45/46枚目）",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUejhwMGZneEJ4OTlhTUpFaWNiZjUyNlhOb3lmSFpONzhiQWtmQkxER2MtSUZ3ZnFIdHpOZlUxY1hlWGRWTEJhY0VndkxuYmtOazdzWU1WUlRlY2VVTHhfTHctRldfNlU5ekZ0SGJMeDVjQVpDdEFZSnZpZw?oc=5",
+      "source": "ITmedia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-29T03:43:41.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Ein etwas überraschendes Startup-Umfeld in Luxemburg, einem kleinen Land von der Größe der Präfektur Kanagawa (Bild) (45./46. Foto)",
+          "summary": ""
+        },
+        "en": {
+          "title": "A somewhat surprising startup environment in Luxembourg, a small country the same size as Kanagawa Prefecture (image) (45th/46th photo)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Un environnement de startup quelque peu surprenant au Luxembourg, un petit pays de la même taille que la préfecture de Kanagawa (image) (45e/46e photo)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "E bëssen iwwerraschend Startup-Ëmfeld zu Lëtzebuerg, e klengt Land mat der selwechter Gréisst wéi Kanagawa Prefecture (Bild) (45./46. Foto)",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "175c13a618f724d733ff21898353cc5f215bd697",
       "title": "Esa: Luxemburg nimmt optische Bodenstation für Quantenkommunikation in Betrieb",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0pFNE5TYkFKVzFDTWkxMmdSYmJCUEdxX2J6UHZrcEF1b2drYTNlcXNDQ0RfdE1wb0xoWkVsU3owSzBGa2szUEZZTHRXdjk5dlREMkYyZ08tVUU3VUlVMDlrd0V3Y1JKNXR2dm00RHdfQTNuYTV5YnpsZHRwTUZZQTY2UVpLWEYxT3lyM013VDl0WnRaV0x3TU44YkVLd1VxdmNCZ0diVzJPdmRQZFE?oc=5",
@@ -2080,6 +2171,35 @@
         },
         "lb": {
           "title": "Vu Lëtzebuerg: Den Al Ittihad fënnt nei Léisung fir Mëttelfeldkris",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9c5c868b684780602d28bc8dcc4ae78a17a8c2a0",
+      "title": "Luxembourg. Deux suspects arrêtés dans l'enquête sur le meurtre de trois Français en Afrique du Sud",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcXNQSngzdnljZU02ZU8zWkQyOWM4dFVkSUo2WklRVENBMnk3VEtuYXgxd2NGWWJNRXJYaDlxclkzRy1hYmxmcHhVU2M0Yk1VaVBKY0wtOFJHLVdDeG1Mal9ocjJCODZkSy0xdEpnYTRNTzBVSG9jcmxPam1oM3RMSnB1d1pSQTF3NG1YOFVOcWxlbzNya0ZKcTI4Q29ZN3lwTWx4b0I0UjZZUlgtbVpHaFMtYVhTd3hDaHZDdUhkUjdRSE1LWlk5ZG91V0pLNk0?oc=5",
+      "source": "Dna.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-28T20:07:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg. Im Rahmen der Ermittlungen zum Mord an drei Franzosen in Südafrika wurden zwei Verdächtige festgenommen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg. Two suspects arrested in the investigation into the murder of three French people in South Africa",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg. Zwee Verdächteger festgeholl an der Enquête vum Mord vun dräi Fransousen a Südafrika",
           "summary": ""
         }
       }
@@ -30782,6 +30902,39 @@
       }
     },
     {
+      "id": "c905b705300e7e7f8b1c6895c6e220ec40ad8f71",
+      "title": "Galeria de Guia de arquitetura de Luxemburgo: 23 projetos para explorar no Grão-Ducado - 1",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQRENSYjR2R0ZIdmtMUnRRNlFTeEZZOGpucUhqbHpyT3M4Z3p6X29Fak1ZOHc3a3FQb2FmSnR2UUNnZWs1RUJTN0NsRUhZVWw5UlJhZk5sQ2lGNEI0NW8xZXZxajFsM1RpTzJzaGdOTUJqVFFhSFNuWVNSQ3JfbElDWV9iY09MX1I5ZkZyV044LV9tT0RHdFpDS2dBUTg2MVk5UmdicmF0akpZTXhrTXNvWDY2NUNOcjJvRzdmaUNlQWRmVENhd3BxYTJlc09NbjR5QmRMRGZ2WmpsaVc1dU9LVy00anVLcV9TbHI2X2FmemcxNEdEcWw5eUV3aC1oMmZiYVVVSk5SbHNtNjlVeThiMlJLTC03LW1CM0NySW5qcWZPNEczSWEyUHQ2N0lkZWxwX3JjZUhMclByTS1xaVlfcA?oc=5",
+      "source": "archdaily.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-14T20:22:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie du Guide d'architecture luxembourgeois : 23 projets à découvrir au Grand-Duché - 1",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Architecture Guide Gallery: 23 Projects to Explore in the Grand Duchy - 1",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Luxembourg Architecture Guide: 23 Projekte zum Entdecken im Großherzogtum - 1",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Architecture Guide Gallery: 23 Projete fir ze entdecken am Grand-Duché - 1",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "97f4a76091efb4b61f9cc820ce108666934cdc04",
       "title": "UNESCO Bike Tour - Lussemburgo, Città Vecchia e Fortezza • Bicicletta",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeEpnWjBMWDl0ZEZqTmxEclNMY0pBbWpyRC1Lc1U2TlBmc09pNmFmaE9Wb2EzR2pFOEZkWmVWbGtmbHRha3RodkJ5eUVmQnZMcmoxZUo5aFpwQlh3MVROckw2MGdYMnRfSUp4OWhvRlhGTnh4dzNXQ2NBU1hkSVgwYnNleDZ4T1F1LVRhUzBYYVdZVGhXVEQxZDM4a0RNUUZVWENiQ1Z3a1FNSlFWWjVmMkVGMmJuVHFmUTBxa2hpekhIdw?oc=5",
@@ -47162,164 +47315,6 @@
         "de": {
           "title": "Dunboyne-Popstar CMAT eröffnet für Robbie Williams in Luxemburg",
           "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0c59b10d073a2252c8d178b35109436b9510d338",
-      "title": "All just 10 minutes from Luxembourg City and Cloche d'Or. Discover this exceptional top-floor apartment in the residential area of Leudelange, Luxembourg. What’",
-      "url": "https://www.tiktok.com/@mbmgrouprealestate/video/7660099434159623446",
-      "source": "@mbmgrouprealestate",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-07-08T10:18:10.000Z",
-      "summary": "All just 10 minutes from Luxembourg City and Cloche d'Or. Discover this exceptional top-floor apartment in the residential area of Leudelange, Luxembourg. What’s your guess on the price?\n\nOUR HOMES, Leudelange, Luxembourg | 142 sqm. | 3 Bedrooms | 2 Bathrooms | 3 Balconies | 2 Indoor Parking Spaces | If interested, contact us via: CONTACT@MBMGROUP.LU \n\n#luxembourg #luxembourg🇱🇺 #apartment #fyp ",
-      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/o0YcRiMEqIkAEAF0RCTFTCPEQSDApFAshgfheL~tplv-tiktokx-origin.image?dr=14575&x-expires=1783839600&x-signature=HbfszHR3Aiuy4mHFU3jQFmNNr0w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
-      "topics": [
-        "culture",
-        "tech"
-      ],
-      "translations": {
-        "en": {
-          "title": "All just 10 minutes from Luxembourg City and Cloche d'Or. Discover this exceptional top-floor apartment in the residential area of Leudelange, Luxembourg. What’",
-          "summary": "All just 10 minutes from Luxembourg City and Cloche d'Or. Discover this exceptional top-floor apartment in the residential area of Leudelange, Luxembourg. What’s your guess on the price?\n\nOUR HOMES, Leudelange, Luxembour"
-        },
-        "lb": {
-          "title": "Alles just 10 Minutte vun der Stad Lëtzebuerg an der Cloche d'Or ewech. Entdeckt dëst aussergewéinlecht Appartement op der ieweschter Stack am Wunnberäich vu Leideleng, Lëtzebuerg. wat'",
-          "summary": "Alles just 10 Minutte vun der Stad Lëtzebuerg an der Cloche d'Or ewech. Entdeckt dëst aussergewéinlecht Appartement op der ieweschter Stack am Wunnberäich vu Leideleng, Lëtzebuerg. Wat ass Är Schätzung iwwer de Präis?\n\nEIS HOMES, Leideleng, Lëtzebuerg"
-        },
-        "de": {
-          "title": "Alles nur 10 Minuten von Luxemburg-Stadt und Cloche d'Or entfernt. Entdecken Sie diese außergewöhnliche Dachgeschosswohnung im Wohngebiet Leudelange, Luxemburg. Was’",
-          "summary": "Alles nur 10 Minuten von Luxemburg-Stadt und Cloche d'Or entfernt. Entdecken Sie diese außergewöhnliche Dachgeschosswohnung im Wohngebiet Leudelange, Luxemburg. Wie schätzen Sie den Preis ein?\n\nUNSERE HÄUSER, Leudelange, Luxemburg"
-        }
-      }
-    },
-    {
-      "id": "bd54433eac540630762a643d953750fc0018655f",
-      "title": "卢森堡大公国骑士级级橡树皇冠勋章，银质珐琅，1841年由卢森堡大公兼荷兰国王威廉二世创立，授予在民事、军事、科学或艺术领域做出杰出贡献的卢森堡公民以及外国友人。 ​​​",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ed0FQNmpkMkdIcEdoQ3IxSmk4MlBGRTVuYjcwWGtLT2dmTXVRX2dZZ2ZEdVhZYnBuRHlzdHNIRmFydkltQVMwSHdOUkQtT2ZnMGQ0elJSME1OMzlPeDlSYVJicw?oc=5",
-      "source": "新浪网",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-08T10:17:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Der Eichenkronenorden des Großherzogtums Luxemburg, Rittergrad, Silberemail, wurde 1841 von Wilhelm II., Großherzog von Luxemburg und König der Niederlande, gestiftet. Er wird an luxemburgische Staatsbürger und ausländische Freunde verliehen, die herausragende Leistungen im zivilen, militärischen, wissenschaftlichen oder künstlerischen Bereich erbracht haben. ​​​",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Oak Crown Order of the Grand Duchy of Luxembourg, knight-level, silver enamel, was founded in 1841 by William II, Grand Duke of Luxembourg and King of the Netherlands. It is awarded to Luxembourg citizens and foreign friends who have made outstanding contributions in the civil, military, scientific or artistic fields. ​​​",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'Ordre de la Couronne de Chêne du Grand-Duché de Luxembourg, niveau chevalier, émail argenté, a été fondé en 1841 par Guillaume II, grand-duc de Luxembourg et roi des Pays-Bas. Il est décerné aux citoyens luxembourgeois et aux amis étrangers qui ont apporté une contribution exceptionnelle dans les domaines civil, militaire, scientifique ou artistique. ​​​",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den Eiche-Kroun-Uerde vum Grand-Duché de Luxembourg, Ritterniveau, Sëlwer Email, gouf 1841 vum Wëllem II., Groussherzog vu Lëtzebuerg a Kinnek vun Holland gegrënnt. Et gëtt u Lëtzebuerger Bierger an auslännesch Frënn ausgezeechent, déi aussergewéinlech Bäiträg am zivilen, militäreschen, wëssenschaftleche oder artistesche Beräich gemaach hunn. an",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "64bc1d8e0bc3cb8012c88a101ad96e23d42e98a6",
-      "title": "Eiffage se refuerza en Luxemburgo con la adquisición de la constructora Baatz",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnB6RG5NNEVGeDFJaTdrS0JxSFpqTVlTWGpMRG5XbnhCRmFKZFZwc3ZyOXhMNm1xQTlhTHlUd0lNSFZzQXNzY3BSUVlCd1Z3eVBzdWJLVlBrUHFlQlQ0anpOYWdzQkJCakhNaFJVMnp4b3hlcGxfTVhpY0RsMzJzaE13TDdZZlg5VEFHMXdIXzY5cUtVbU5NM0R0SmNKNTVVOFZIVmxYTDVOTnViblYxbGc3WmNoa25wUDBBX1VZbGZ1SzZDN3FmQkxn0gHPAUFVX3lxTE9RNU9Zb2hULTg4T3JLSWx1X3VuZ19ySktGT1Z6V1JwSUZGMzdWV1BrZzdSeXJCQkVXSG5Sb2NrUnVjNk81WlE0MjJsaXZFaV9YaHhHbExaclMwQ1dFaXBfajBEUUdnc2NwMU5qdndLeUxIWk1PcTFMd2g3NWhJUV9PUXB5VWFQZXlzWUJLUmszVkxEdERUdGQ0MG9YRExqVVNFTk9PRHRQZXlDdDhDRk5jOFRjYTVrRi0yTFBHVkNlc0tVZmxDQXdrVTA0aFF1UQ?oc=5",
-      "source": "Alimarket.es",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-08T10:13:14.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Eiffage verstärkt sich in Luxemburg durch die Übernahme des Bauunternehmens Baatz",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Eiffage verstäerkt sech zu Lëtzebuerg mat der Acquisitioun vun der Baufirma Baatz",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Eiffage se renforce au Luxembourg avec l'acquisition de l'entreprise de construction Baatz",
-          "summary": ""
-        },
-        "en": {
-          "title": "Eiffage reinforces itself in Luxembourg with the acquisition of the construction company Baatz",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8c50537703985763b84a6dc64ed2609757bdf12f",
-      "title": "Nieuwe Luxemburgse euromunten geslagen met beeltenis Guillaume",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmRtTXVFQVVUcG1Xc25QWV9UV3JSRTB5RmIyaGNMTUJPX2tIcm04MHlwNVRuWHF6WkkydlJ4aDBKZllOa3BSLWdoUTVhVUJ0aklvR2FvazFacDBiMGkzMVhtbW01a1FkSmg3b2lWa1k1Wm9kR2F1U2RnUzFqR2xwZWVaWGZqZzI1MW1WQ2c1QlVQNzF2bVZFNTA5dVd0N0pWSVE?oc=5",
-      "source": "plusonline.nl",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-08T10:13:12.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Nei lëtzebuerger Euromënzen mat dem Bild vum Guillaume geschloen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Nouvelles pièces en euros luxembourgeoises frappées à l'effigie de Guillaume",
-          "summary": ""
-        },
-        "de": {
-          "title": "Neue luxemburgische Euromünzen mit dem Bild von Guillaume",
-          "summary": ""
-        },
-        "en": {
-          "title": "New Luxembourg euro coins struck with the image of Guillaume",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f8c792f20ba167f85836cc84d7b800da5863f314",
-      "title": "Want to study in Luxembourg ? @MoveMe is Free for all students. Sign up for free on MoveMe before the offer ends 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembou",
-      "url": "https://www.tiktok.com/@tshayansharifi/video/7660097540204825878",
-      "source": "@tshayansharifi",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-07-08T10:10:48.000Z",
-      "summary": "Want to study in Luxembourg ? @MoveMe is Free for all students. Sign up for free on MoveMe before the offer ends 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembourg #studyinluxembourg #luxembourg #moveme",
-      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/ooBkBIGVlKitICvG4EiZwoidIzOvkaJ7ArBYh~tplv-tiktokx-origin.image?dr=14575&x-expires=1783810800&x-signature=BHI5okuSPVdqr4saoIMIIRv5qvQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Want to study in Luxembourg ? @MoveMe is Free for all students. Sign up for free on MoveMe before the offer ends 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembou",
-          "summary": "Want to study in Luxembourg ? @MoveMe is Free for all students. Sign up for free on MoveMe before the offer ends 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembourg #studyinluxembourg #luxembourg #moveme"
-        },
-        "de": {
-          "title": "Möchten Sie in Luxemburg studieren? @MoveMe ist für alle Studenten kostenlos. Melden Sie sich vor Angebotsende kostenlos bei MoveMe an 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembou",
-          "summary": "Möchten Sie in Luxemburg studieren? @MoveMe ist für alle Studenten kostenlos. Melden Sie sich vor Angebotsende kostenlos bei MoveMe an 🇱🇺🥳🤩 \n#luxemburgstadt #universitätvonluxemburg #studiereninluxemburg #luxemburg #moveme"
-        },
-        "lb": {
-          "title": "Wëllt Dir zu Lëtzebuerg studéieren? @MoveMe ass gratis fir all Studenten. Schreift Iech gratis op MoveMe ier d'Offer eriwwer ass 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembou",
-          "summary": "Wëllt Dir zu Lëtzebuerg studéieren? @MoveMe ass gratis fir all Studenten. Schreift Iech gratis op MoveMe ier d'Offer eriwwer ass 🇱🇺🥳🤩 \n#luxembourgcity #universityofluxembourg #studyinluxembourg #luxembourg #moveme"
         }
       }
     },
