@@ -1,6 +1,436 @@
 {
-  "generatedAt": "2026-07-29T06:45:48.945Z",
+  "generatedAt": "2026-07-29T09:50:31.519Z",
   "items": [
+    {
+      "id": "cf9f465c19e727c9b44831039c2b352f08edaffa",
+      "title": "Les 10 meilleures choses à faire au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FWFpUWldHN2lEcnd4VXljcnRCQ00teU5BUVRDeC14R1UxUHhURHFueGlScUF5QWlmSlNLSzhRRzBkSElhMFlOSy1lV3J0TmJYTkxUTTIzM19yb21fTUdBWm5ROA?oc=5",
+      "source": "fr.qz.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-29T09:22:53.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "The 10 best things to do in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Déi 10 Bescht Saachen zu Lëtzebuerg ze maachen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die 10 besten Aktivitäten in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0cc8f29d7d72809b41390a8c3d8ffbdd93ed40e6",
+      "title": "Vídeo. Área ardida na Europa já equivale ao território do Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZG16WEdyZTJWYUthN0Ixbkh3a3NWbzJURG04a2xneEw0MENleUhBdWdRbHJwY2VqejdsT3V3MlRXbXMyUzFDNjNvNTZCa1p6NHJjZDMyQ2k1Ui1sbUpqdmctQjZ6Q0l0dVh6Wm51Y3ptaC1TT0ZvSXN0TnlBZk1fSFR2X0h5Nzg2cEdPbjBVeDZaZHAxTDJzc2tKQURYTUdZdEQ4VVhZckxlVThNRHF1WXAzczFNXzIyTW42NUVUcnJEYnBmalk2dXdUbw?oc=5",
+      "source": "Euronews",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-29T09:19:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Vidéo. La superficie brûlée en Europe équivaut déjà au territoire du Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Video. Gebranntgebitt an Europa entsprécht schonn dem Territoire vu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Video. Area burned in Europe is already equivalent to the territory of Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Video. Die verbrannte Fläche in Europa entspricht bereits der Fläche Luxemburgs",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "1378cbe5ae44e5ea07a479ebd83fb70e7f2f6e7f",
+      "title": "Área ardida na Europa já equivale ao território do Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYkRydThtOVJRdjdGRlBTWkFWeE9ndGNGRnFGUC1SbWlUVXRibEt4VmNVeUkxRC1yTl8wNU9Gd2V1aEVEQ3RuR0cxUHNWcFRzWTN1YkhfNzBPNzI3bFNseFY4aXhJc2VsMkJFYjh6aEsxVnZiQlV4M0hMeE9NNU1fNWRDSko0NmxkV2tBd09XQ29PMlZmMkdpbU9PWXYxazJwa0tpUXgzRFpTNEZvdmVKZmMxTDh6TmlVWGJ1WHFUWEJfSFlKNURod2hBUWhxUzho?oc=5",
+      "source": "Euronews",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-29T09:19:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Gebranntgebitt an Europa entsprécht schonn dem Territoire vu Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La superficie brûlée en Europe équivaut déjà au territoire du Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Area burned in Europe is already equivalent to the territory of Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die in Europa verbrannte Fläche entspricht bereits der Fläche Luxemburgs",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "47822f66fc3ea471dac3f9a6cfc59af0f08dad42",
+      "title": "The 10 best things to do in Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xUlJGbDA1SjNiU1ZXWWpFRDFZRmtYbi1PbjU2SWVOUU5BV1F4RE5uSlJ6dEVsSFd4bWtpZTc3RzBTa0h0aU0yNmIteFNrRDljc1RFUFJR?oc=5",
+      "source": "qz.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T09:10:38.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Déi 10 Bescht Saachen zu Lëtzebuerg ze maachen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die 10 besten Aktivitäten in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les 10 meilleures choses à faire au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6e776a381d6468d107ccdd1127e7840433442f1b",
+      "title": "Corte italiana manda para Luxemburgo questão sobre cidadania italiana",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1RmSU9pc2d1R0JKRzhPX1VfOXBOa1gwUFdHV29aRjFsTVlZbnZxZk5LSVdxWUdVQXFXVEpEZ0dteEZKeXJRdHVjWVhlNHhualg4T215cVprQlVJV09HUXVSdjdkeWRSNUtRQmV5TFJnUjVlbEl4QzBKVmR5Wjctb01ub09vbW5PUEsyOWFMUndONnI2T045T0lrenhIdEo2amVLRXROdEFvcU1RQnFpVVZVaktEUdIBuwFBVV95cUxPc0VRQWt2STJGdUxHcEFSLTZwaklBbGlTTlhLNFBXdm42eVdVRGZraWJJUjExdlZHR21pOXQtSHBwZ19zVWdCSTYzdXlSOEpRUzdQT0dtbDhxbnVpV2pOQkhBMHpLbVZpTkNETGZ2VzVvZlkxR19IbUlwQW1RTXp0eFY4cWE5UHVScU1rbE5vTmhuRENpYnBnS1VNMXJmbmM5Tm5xQy1OOV9mMFB3cWg4a2ZTNUlxMzFRZE0w?oc=5",
+      "source": "InfoMoney",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Italienesch Geriicht schéckt Fro iwwer italienesch Nationalitéit op Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Un tribunal italien envoie au Luxembourg une question sur la citoyenneté italienne",
+          "summary": ""
+        },
+        "de": {
+          "title": "Italienisches Gericht schickt Frage zur italienischen Staatsbürgerschaft nach Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Italian court sends question about Italian citizenship to Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "bc6852b1658e09b60f972f155d78f7515a6bc1b9",
+      "title": "Marie Muller: The birthday that put Luxembourg on the Olympic judo map",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGw3M1VTMFlBbDJnYnJia0k1U1lSSmVLNXB1QWdrLVBHOXBnYWJPSVkybWMwR0R0eGQwLXh2X0hmWllKd1F2M0EwSFY3M3pQdW1vUi1QamlpaGVBbG9NRmNfSnV2VEpBOVFkaDJ0WWp5WkoteUp6bW1scDJ5WGxQSUFQekM0ZDZzbVFQaUk2bE9yNmVxVjBsWjFMSnFkVk1xTTdBLWREVGxiZw?oc=5",
+      "source": "JudoInside.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T08:50:53.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "de": {
+          "title": "Marie Muller: Der Geburtstag, der Luxemburg auf die olympische Judo-Landkarte brachte",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Marie Muller: De Gebuertsdag, dee Lëtzebuerg op d'olympesch Judokaart gesat huet",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Marie Muller : L'anniversaire qui a placé le Luxembourg sur la carte olympique du judo",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "868cd10479410fb33be24d933279691343f8f5da",
+      "title": "Luxembourg du Rire 2026 > 5 400 spectateurs pour une édition historique à la Rockhal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ1UtMlNfdFpmcFJGdUpDYVRkSldkcDNwbDBqSkM2bGRWc2ZOSzAxME1XS0FZd09zeUdYOFFaWjlpY1Zxc05nZEtac0cwc2ZCYjRyWXMya1Z4cG9xWV9ZdVY4WE9OX2ZFUElvdi1vUUREOEtrZEpYTkdsYkhzcldvRGplMzVGblNFZ1hlUWVfVXhPa3dtem9YdzBzTE5Fbml6OXZZdDJHelBVQWpqWDZDS0hQd1NLUU9jTFltZ0FGYlY?oc=5",
+      "source": "Info-lux.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-29T08:23:57.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg du Rire 2026 > 5,400 spectators for a historic edition at the Rockhal",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxembourg du Rire 2026 > 5.400 Zuschauer für eine historische Ausgabe in der Rockhal",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg du Rire 2026 > 5.400 Zuschauer fir eng historesch Editioun an der Rockhal",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f2f19a73b2263097e7ce07fd9bd5f31220b2a0b5",
+      "title": "ESA Commissions Optical Ground Station in Luxembourg to Advance Quantum-Enabled Ultra-Secure Satellite Communications",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZldSM1RCT0lpcEVVeG9WRlh5eWpRcVhRRUJIaHpJUnlMdkV2RlFwbXdlcEdlZF9jS1ExeXp0bzNRel9xWENjc0Z5bTJGdXBrTVRHX2NQRmJVTS03SC0xNFJvczhnU1N6M3NlZUlzeHVDS084RU9Yejg0MS11V2hUY2ZtZHhGS1pidnF0ZHZrMGplWHA3UlA3S1E2N0tuYUo3LU9XaEtUZTBJTWNZV1owd0pJbXpwbXVlMVVFUjc0NElDejFndV9Ucmp1cmZDdHZicjdCYTJmcXZjTUdzOWdzdThmNzNzTjg?oc=5",
+      "source": "SpaceWatch.GLOBAL",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T07:53:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "de": {
+          "title": "ESA beauftragt optische Bodenstation in Luxemburg mit der Förderung quantengestützter, hochsicherer Satellitenkommunikation",
+          "summary": ""
+        },
+        "lb": {
+          "title": "ESA Kommissioun Optical Ground Station zu Lëtzebuerg fir Quantephysik-aktivéiert ultra-sécher Satellitekommunikatioun ze förderen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'ESA met en service une station optique au sol au Luxembourg pour faire progresser les communications par satellite ultra-sécurisées quantiques",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "dde36579f4e5723278b07b68f6120d32ef9c10f2",
+      "title": "غير معقول ‼️ المنتخب الإندونيسي يمطر شباك لوكسمبورغ بالأهداف | eFootball Gameplay",
+      "url": "https://www.youtube.com/watch?v=5wVASkt-_qo",
+      "source": "Timnas Garuda",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "ar",
+      "publishedAt": "2026-07-29T07:50:14.445Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/5wVASkt-_qo/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA51bYLsf2TO4pFBtUFp0PixEcpdA",
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "de": {
+          "title": "Unglaublich! Die indonesische Nationalmannschaft ließ im luxemburgischen Netz eFootball Gameplay Tore niederprasseln",
+          "summary": ""
+        },
+        "en": {
+          "title": "Unbelievable! The Indonesian national team rained goals on Luxembourg’s net eFootball Gameplay",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Onglécklech! Déi indonesesch Nationalequipe huet Goler op de Lëtzebuerger Netz eFootball Gameplay gereent",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Incroyable! L’équipe nationale indonésienne fait pleuvoir les buts sur le filet luxembourgeois eFootball Gameplay",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "164e668770b5784120d4fc9359064bee3f261f2c",
+      "title": "29-07-26 Προσωρινοί αξιολογικοί πίνακες υποψηφίων κλάδου ΠΕ70 Δασκάλων στα Ευρωπαϊκά Σχολεία Λουξεμβούργο ΙΙ και Βρυξέλλες ΙΙΙ",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR0JrUU9uVDhPWHFGTzVpamRGRnRtNmQ5c2lIXzVYWnlMOHo2YjNBWFRyUXd2UkpvSnpKQkVGWmtJMzgtYTdfYTNoX21JLXBPcDVMRXB6a2hoelQ0d0VHYWxwdy1SU3BUZF9CekQ4NzEyeE9LZm9JQkZvajlFYkNLTDhPcnM5OG96UlJGUzhKdFY3Ykk3Z3BiMndyVGtsWnFRWFc4cGNscFB0YmdVVC1iSG9BTFZxSXpEVkN3d0F3czJkb2p2YjFNUG4tRFp5MUhCUU5Pd3RHX2I5bV9PMURWaEZYT2pKWEc0YTFPb1dLY3phY0lqX0pMVi1n?oc=5",
+      "source": "minedu.gov.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-07-29T07:47:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "07-29-26 Provisoresch Evaluatiounstabelle vun de Kandidate fir d'PE70 Branche vun den Enseignanten an den Europäesche Schoulen Lëtzebuerg II a Bréissel III",
+          "summary": ""
+        },
+        "en": {
+          "title": "07-29-26 Provisional evaluation tables of candidates for the PE70 branch of Teachers in the European Schools Luxembourg II and Brussels III",
+          "summary": ""
+        },
+        "de": {
+          "title": "29.07.26 Vorläufige Bewertungstabellen der Kandidaten für den PE70-Zweig der Lehrkräfte an den Europäischen Schulen Luxemburg II und Brüssel III",
+          "summary": ""
+        },
+        "fr": {
+          "title": "29-07-26 Tableaux d'évaluation provisoires des candidats à la branche PE70 des Enseignants des Ecoles européennes Luxembourg II et Bruxelles III",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4a79a2e3411682cd9bece06ddfd720d40e8e6725",
+      "title": "Les Archives nationales du Luxembourg en mission déménagement",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjNsbkZSWkN3bUpiQnV0V21kdGl6Um1XX1JwSlM3YUloUE1YdmdMbmdVOTdSdGFNRXpzNmNyNVVpbkE4WHhtZ3hPWWlXN1U4ejUtelgwZTlMZk5UbVNrZVhsdHRiMWp2YnJYSUZrZmhJeEpwRGNzeHY4T2JSR0ctQUh5X3NZY2ZnNC0wMU9PWm9xc05nNVZKSlhkYXItT3dBSDR4X0ZBSVZjQVk?oc=5",
+      "source": "Archimag",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-29T07:44:38.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Les Archives nationales du Luxembourg en mission déménagement",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Archives nationales du Luxembourg en mission deménagement",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Archives nationales du Luxembourg en mission deménagement",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "54ca24a5ecb85f9b44f951593453c095929d3d13",
+      "title": "Luxembourg arrests suspects in French nationals death in South Africa",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYUtHdkplMXlDeVplVEkyQmVQZ2JCMFdKb2pBNUtEc1JLdEpKbF85ZHF5TW9PNVhRcU5rWEVydmxkTTJxMV9TbUMtX2loMW81dDZRTnVNd2ROck8zeUR5dGhKbDI2TzRCRDdjTE1kcWdFN1V1WEJ6eXVyOHJJS1p4ckFjdUxrY1dqY2s5Q1FwbFNySmpUM1E?oc=5",
+      "source": "Jacaranda FM",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T07:40:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg verhaftet Verdächtige im Fall des Todes eines französischen Staatsbürgers in Südafrika",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg verhaft Verdächtegen am Doud vu Fransousen a Südafrika",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg arrête des suspects dans la mort de ressortissants français en Afrique du Sud",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0baa4aba466c3c9f1d6fba028cb431f3c5805617",
+      "title": "Ульяновские дорожники начали укладку асфальта на улицах Артема и Розы Люксембург",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1oyT1NtOG96TnV0VVRaSEU1ekZuZThCUzNDWHlTNmg4ekFISTkzelMySTJvNU1SZDJCcHF4NUVVWnRoalNOS09vNXFIRG9WeEt1czdyWTgtVE51c240RklQamNKOHF3TVJoMGtJeE9oREpRZ18wTWZWWkVBeHlhdmJ6em5nQmpnWjA2bG12MVpnRk1TazF0Wl9zTDk4ZlREVDJveWcyM2VlRlc2aF9pQzVpbnYyd9IBvgFBVV95cUxPNmJVbmVyVkNMSE10LTZ6enlJT3dVTldEREtCd1RfY3NSQXNjdXdrVWNocFNwTFhVVFRhaWoybUZSU1dVb0NNSm8ySm93blBPVm05ZWFJc0d5V2pabTM0Z0pFZkxkMzRBZEFyaktqRFN0eW9EeTlTUUFJV3ptOXJCbHB0MDhNZFQtd3RBdWVac1V6TGIzT2NuVEZLQU5Na0pPOTdNc2FQNEFZYVE0MzZTY2dab1JzTGNzYkRtSDhB?oc=5",
+      "source": "Улпресса - все новости Ульяновска",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-29T07:12:08.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Les ouvriers routiers d'Oulianovsk ont ​​commencé à poser de l'asphalte dans les rues d'Artem et Rosa Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ulyanovsk Stroossenaarbechter hunn ugefaang Asphalt op de Stroosse vun Artem a Rosa Luxemburg ze leeën",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Straßenarbeiter von Uljanowsk begannen mit dem Asphaltieren der Straßen Artjom und Rosa Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ulyanovsk road workers began laying asphalt on the streets of Artem and Rosa Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "bb001aada674e17a7db19b4284efc8100b10cb68",
+      "title": "Luxembourg library on high alert for voracious insect that threatens its books",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWdQOFFSaU1Ub3RGUHhCREVzY2lYSWRxWVk4Y3E4RjMzUktENEc5eTd0TUkwdkgxNXBqc1I2SnkxeXRGeUoxdXJhZWV0LXZDV1RvT3dJN2lQYzFkT2RGUTFNdS0wN20tNEVZR3VWR3dvbExaMTBNbmI5Q3gzZmNkZGlwc2lBWmxPa3h4c0VYZnpSdXY3VEQ3bUpJVUl3RXM?oc=5",
+      "source": "Yahoo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T07:07:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "La bibliothèque luxembourgeoise en alerte face à un insecte vorace qui menace ses livres",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburger Bibliothek in höchster Alarmbereitschaft wegen gefräßiger Insekten, die ihre Bücher bedrohen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Lëtzebuerger Bibliothéik ass op Héichwarnung fir éierlech Insekt déi seng Bicher menacéiert",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "7064d4928fa194d0c635377cd8416ab46e6fda39",
       "title": "Лесные пожары: Европа готовится к антирекорду. Там выгорела площадь, равная Люксембургу",
@@ -68,6 +498,35 @@
       }
     },
     {
+      "id": "3feea1f16807ff30268bdafc982b889cd88eb0f3",
+      "title": "Two arrested in Luxembourg for murder of 3 French nationals in Pretoria – reports",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbmdWYk5pVjExUzVuU3ZfRHF0NnRjWmhFTWYyeXpiWEJiVVRYbFp5UlFTNEt4VnhIRng1N2hGMG5neDRzRElYYUZvVTZmX0tST3ZhTndwV09DSnVKV2wzS2NqRXB2aTVXN3R0bXhSVlFVVEVPTzJBZ0lYQ1ZxcW9Ga21kQ2IySklyNkdicnZ4alc0UjBJYS1melFjRmVkakVQTmdqeE1ac0V5UTRHYWl1QnA2Sjl5TlQzOGczMHBDMF9CRm5nQzdDRmpxZmZXa0xKTDVqaUp3dVE5bGxSd1E?oc=5",
+      "source": "News24",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T06:20:46.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Zwee verhaft zu Lëtzebuerg wéinst Mord un 3 Fransousen zu Pretoria - mellt",
+          "summary": ""
+        },
+        "de": {
+          "title": "Berichten zufolge wurden zwei Personen in Luxemburg wegen Mordes an drei französischen Staatsangehörigen in Pretoria festgenommen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Deux personnes arrêtées au Luxembourg pour le meurtre de trois ressortissants français à Pretoria – rapports",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "1a715c4e6be6c0b4a020688b9970c06f24d0af17",
       "title": "Trois ressortissants français retrouvés morts en Afrique du Sud : deux suspects arrêtés au Luxembourg",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWm54VGRNSkNqOFJrR3ZJNUctY3VMUG9uSU5TZUs4QUM1a2R4Y3pycklWS2taVndnWTd1ZXpQeE1lMVNGREhvU2ZnUk9xU0Ywek9TeVFHMERTZ3hFLTdfZU04WVBwQlVJNGxSOGx3bWNyTE9fVHRVM0hZcVdYTTAxXzBjTEVaZEJVcV9YX3RIczhVZXQtamM5dl9iTTVOMGtLNmpfNnpSZHBQNUoycUh1Z3JhWW5Xdkp2UzhoWHhodWJmNVdM?oc=5",
@@ -121,6 +580,35 @@
         },
         "fr": {
           "title": "Incendies de forêt : l’Europe est sur la bonne voie pour connaître la pire année jamais enregistrée alors que la superficie brûlée atteint la taille du Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "bc834c62892d3582e7837dc151bab137d73267a8",
+      "title": "Video. Wildfires: Burned area across Europe reaches size of Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVVOTDBpcmVNSFJjRzBKQnBUUjNmQ2ZldWFtMGdyNk1OekRNYnBwY1lsSEtKUW9FSjdtclg1dXZhSGFCUGlRNWFrc1h5TVhnUXd3NnJfNDhSTjNsYlkxSG42dUNDNldoRGYyU19ER0Vkclp1bjdmYkk0NWFmR0lNV0YwLWhHSEJQT21YT0VBT3Y5TXhlNm40UEVsYnlOS0h3OWdBOWhQM010dlZVUlU5N3pRbEhTY1A2U3hUXzU4ZUJaV01wcHJZZ2stLVI?oc=5",
+      "source": "Euronews.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T05:30:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Video. Waldbrände: Die verbrannte Fläche in ganz Europa erreicht die Größe von Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Vidéo. Incendies de forêt : la superficie brûlée en Europe atteint la taille du Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Video. Bëschbränn: Verbrannt Gebitt uechter Europa erreecht d'Gréisst vu Lëtzebuerg",
           "summary": ""
         }
       }
@@ -452,6 +940,39 @@
         },
         "de": {
           "title": "Kanal: Zwei Manager des Avranches Burger King in Südafrika ermordet, zwei Verdächtige in Luxemburg festgenommen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9f056125d46a836c1cee248ee95689874c4ba17c",
+      "title": "Ben Gasper — статистика у Люксембург: Національний дивізіон 2014/2015: скільки голів та передач",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnB3eTdvSVQ1WnhiaGtHVWtsd3A5YmQyOEhOUnJ4VVMwWm1XeFBNVzlQQmZ6aVVjQjlJQVowcFhFS0JDRWFSR3ROOHNVSllvUW16ZGNkd1prMUhWTVo4M2NITVpHNjQtdU14bzlhb2FnS3RYXzZrUDdNVUpKbzUwQ2xsa0NldXNPd2lhU1RKdUZ6aFdtTWg0X1AzZW1iUQ?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-07-28T19:12:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Ben Gasper – Statistiken in Luxemburg: National Division 2014/2015: Wie viele Tore und Assists",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ben Gasper - Stats in Luxembourg: National Division 2014/2015: How many goals and assists",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ben Gasper - Stats au Luxembourg : Division Nationale 2014/2015 : Combien de buts et de passes décisives",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ben Gasper - Stats zu Lëtzebuerg: Nationaldivisioun 2014/2015: Wéivill Goler an Assists",
           "summary": ""
         }
       }
@@ -3944,6 +4465,39 @@
         },
         "lb": {
           "title": "National gläichgeschlechtlech Hochzäit! D'Lëtzebuerger Premierministesch bestuet e Freideg a geet mat hirer gläichgeschlechtlecher Koppel um rouden Teppech | International",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b6f1faef6a60b235a3db8aff52264789bf2194b7",
+      "title": "Galería de Puerto Libre de Luxemburgo / Atelier d'Architecture 3BM3 - 10",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSFZuNmx4bXVUVFYwMDlOOW5aZlk0T1BMbXZJd1V3UURhUXJydEZMR251NlpjVElnejA0Qk56QV9vM3g4bDRrWmdIZEdGdnJfcTROSGJKczVZeFpDeTlVWTdqNE92SmNrN1RVU01FNjlfcHR3VkdOZm5hYVZSb25iLWRpYlF0RVNWOXFrUU1GVE9ZSTh1SWUzeVRZUzI2YnBkSTN5WTdtS3pMR3dBNVRkWHpSSDNCMDZBZlBDRncyT2M0N0VCY2p1UndPS3dvaENXanBremhsUzREaHczd0Fr?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-25T20:15:11.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie des Freihafens Luxemburg / Atelier d'Architecture 3BM3 - 10",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie du Port Franc de Luxembourg / Atelier d'Architecture 3BM3 - 10",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 10",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 10",
           "summary": ""
         }
       }
@@ -46733,544 +47287,6 @@
         },
         "lb": {
           "title": "D'Prinzessin Amalia vun Holland blénkt beim Trounwiessel zu Lëtzebuerg #amalia #princessamalia #fyp #viral #usa",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "65629b39a93dcb89fea6abcbe7cf38b3896aa19c",
-      "title": "Atari finalise son transfert de siège au Luxembourg sans impact sur sa cotation",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXRpdDFUSkZiNkFyZ0RRSmZfa255bDNyTFRSc3g1SVN0TXlZNmJtN1l0WVNpVnpORXJXcVhpZDJ6ZTNFcEZUanJjc2t5dmpGOEhHS2xGVnRDWld6cldNMkZmdGcwX1c5OWN2bUVWUlNKX0VlVWZhQ2VxVDhjZ3p3a0Y2bHQya0FLUFVDVjQ5SXlaSGJaY0VVbm1KLTk0dFV6dDN1N09oTnJLVjBYN25vYzBZQXh0d3JBZld6Zw?oc=5",
-      "source": "ABC Bourse",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-07T17:55:04.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Atari finalizes its headquarters transfer to Luxembourg without impact on its listing",
-          "summary": ""
-        },
-        "de": {
-          "title": "Atari schließt die Verlegung seines Hauptsitzes nach Luxemburg ab, ohne dass sich dies auf seine Börsennotierung auswirkt",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Atari finaliséiert säin Transfert vum Sëtz op Lëtzebuerg ouni Impakt op seng Oplëschtung",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "46558bafa903257f3830cf2ad115ee8b383e5dfb",
-      "title": "« Les chauffeurs semblaient perdus » : les bus de remplacement entre Arlon et le Luxembourg vivement critiqués",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONjU0OGNEeGVEOWxudUdNcm5CeDVMbWZGamV3VXphU1EyZ25nR0pSdXhmWVhjLVBFbEtUVVkzandMRTlRdnZsSUI3RXIyU2QtSUladElieExlbXBVUU90LUMtY24xRnNNUW92RjZJVlBEeTA5bTlLVktaSHZHbjJDYWFPLTVfYmV4RmJyaUZJMjdYODU4OEh5elR3dGZaZ3Utc3RUY0gzeUtraFhyNTFCRUMwNzFqNGFyVi1LOE9qdnp5SUgx?oc=5",
-      "source": "Sudinfo",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-07T17:51:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "“The drivers seemed lost”: replacement buses between Arlon and Luxembourg strongly criticized",
-          "summary": ""
-        },
-        "lb": {
-          "title": "\"D'Chauffeuren hu verluer geschéngt\": Ersatzbusser tëscht Arel a Lëtzebuerg staark kritiséiert",
-          "summary": ""
-        },
-        "de": {
-          "title": "„Die Fahrer schienen verloren“: Ersatzbusse zwischen Arlon und Luxemburg scharf kritisiert",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1d9fb3308839b507a195e10e9856c7e34e43ca77",
-      "title": "Gironde. Un « moment de continuité dynastique » : le grand-duc du Luxembourg en visite à l’usine de la Monnaie de Paris avant le lancement de pièces à son effigie",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPZndhZzM0SllYVFhHVFd1UHYxX2E2UktveXlhUi1Sa2lHYThIVFEtMFBLSVVLWGxiZkJHX2JnVWNkVDY3S2w2WmpsVElsMWFEdHl2MUlWd05GUVhGbG15ZlRkWm9nTENwS0FPVEloU08ycGFORU1VZGlXOXZvN1hnQVJJaVdKRFlTQnNGc29uQ1BpRjlwM1NJQXRaUFZ1SHE1MDVQZlMwM2NsRndGMGNrQkxZcEFKMGNTYnJPYTB2UTJ5Mm4zdnIweklpbXp6UFEyeDZ3Sm4zNEgyUmFWTFZsUEFqSWR0RG5aMXNadmhtaXMwLUJqcHFvdk9tZ09wTkp5RTBWRnVQc253VUNwbUZkX2FmbXpHOF81S0NqTDNaU0hOcnU1VjVCWVY1V3RyeUF6?oc=5",
-      "source": "Sud Ouest",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-07T17:44:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Gironde. Ein „Moment dynastischer Kontinuität“: Der Großherzog von Luxemburg besucht die Pariser Münzstätte vor der Einführung der Münzen mit seinem Bild",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gironde. A “moment of dynastic continuity”: the Grand Duke of Luxembourg visits the Paris Mint factory before the launch of coins bearing his image",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gironde. E \"Moment vun der dynastescher Kontinuitéit\": de Groussherzog vu Lëtzebuerg besicht d'Paräisser Mënzfabréck virum Start vu Mënzen mat sengem Bild",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "da5ad810f19c5c231c2bc294bd326798be1adc46",
-      "title": "W7 in Luxemburgische Schweiz ist einfach magisch ",
-      "url": "https://www.tiktok.com/@nickyandsatchmoontour/video/7659840239015316768",
-      "source": "@nickyandsatchmoontour",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-07-07T17:32:16.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/oYIEaFqWTBwMDmDNQfwfGmIQEIch0TtxPidARE~tplv-tiktokx-origin.image?dr=9636&x-expires=1783785600&x-signature=qHdN4A6AVqU4yTv6u3T5CIzdA3c%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "W7 an der Lëtzebuerger Schwäiz ass einfach magesch",
-          "summary": ""
-        },
-        "en": {
-          "title": "W7 in Luxembourgish Switzerland is simply magical",
-          "summary": ""
-        },
-        "fr": {
-          "title": "W7 en Suisse luxembourgeoise, c'est tout simplement magique",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5237db86a9ac5bc6074f50a68443c5b03a5efbeb",
-      "title": "Atari completes its Re-domiciliation from France to Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXNlUmcyZThDVC1US241MzBPNmFlR3l1N2xkWWVVR2lodUJmTkVhaG5yTS1XWVRGM1EtYmZOZjZhMHR6MkZYbExEdmQ1ZXpXLUJrV1JCb25Hc3ZVaDlKUDFCU3Q0TE1fb1lwTVB5T1JDMVMyY0g1RWR2MHhfV1pNd1IxUlMyenc3TmtCRDZwM3pxMjR0R2lrVVdxU0JDZTRfTk9qTlJtWDhHRWgyUU40d9IBtgFBVV95cUxNR1VuR3l3ZHJtTE1YM2xlYWxGMDhnVTl5QlNrMzZoWUdTcExEMWhScHNMT25wVEJYUU9LLTRSaXI2a2wtZ2J5ME9JVE9sZlhmTlFPYmwyb2F6alNmMGJRZXZYOF9YcnU1UWhxQWRyR1Rtb3Z5aTlfZnBBRThpYk1JR3dxbmRQRXJyZVpvWUVvZ2EyMkFoYjFmWHl2cTZEQkdDcXVxWEFJei1jSUpwS2p0U0NNaVFXQQ?oc=5",
-      "source": "ActusNews.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-07T17:30:40.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Atari finalise sa redomiciliation de la France au Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Atari schließt seine Umsiedlung von Frankreich nach Luxemburg ab",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Atari fäerdeg seng Re-Domiciliatioun vu Frankräich op Lëtzebuerg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ef85b4a4c8cdda4525de33f28eb49e95b7d76232",
-      "title": "TOBB Başkanı Mustafa Rifat Hisarcıklıoğlu, Lüksemburg Başbakanı Luc Frieden ile Ankara'da Görüştü",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTRGYllwTUttYnRVMWoyVDU4Q19CX09HN3AtV2UyZkp1TWlwb0s2ZnBCdktmNHlIVkpvRkxfSUR4Slg1dy1KZlEwakpxWE15V215MkxWUENFS0NONl9QM2w5MTFoOWw1Y1B3bE5lVkp1QmFBTjU4OXhKX1g5Q1IyaHJEckRSRVppUmpTSV9LLUdSaEU2aUd3NEtBQkoxWjVtbmU4NDZ5cktscFNZRXg1WEUzVEF5OXlmTEZNSVQ1YmJ4ZmJ0MUhj?oc=5",
-      "source": "afyonses.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-07-07T16:41:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le président du TOBB, Mustafa Rifat Hisarcıklıoğlu, a rencontré le Premier ministre luxembourgeois Luc Frieden à Ankara",
-          "summary": ""
-        },
-        "de": {
-          "title": "TOBB-Präsident Mustafa Rifat Hisarcıklıoğlu traf sich in Ankara mit dem luxemburgischen Premierminister Luc Frieden",
-          "summary": ""
-        },
-        "lb": {
-          "title": "TOBB President Mustafa Rifat Hisarcıklıoğlu huet sech mam Lëtzebuerger Premier Luc Frieden zu Ankara getraff",
-          "summary": ""
-        },
-        "en": {
-          "title": "TOBB President Mustafa Rifat Hisarcıklıoğlu Met with Luxembourg Prime Minister Luc Frieden in Ankara",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ea9379ffb0f01315b8f7450e91d170fad460ec7c",
-      "title": "УНА Штрассен (Штрассен, Люксембург) - Результаты, расписание матчей / календарь игр - Лига конференций УЕФА 2026/2027 - Футбол",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQalR2WG9Za0wyeFpaZUNTX0djeUNVeVh1Tk1CSllzekNkLUFHSGVwQk96OWw1MHZxNUIzOWRwUXBuVkh6ajg1NVF3X09lUnFiNG94ZTByS2g5Qk8xZ1ZObEhZUGg2X2lKYXpNTGtjbHQ3cFR5Y1RfTkJVRFVJRkE5QVVjVTV0STFTNGl1c3hBTEFfa3c?oc=5",
-      "source": "championat.ru",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-07T16:15:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "UNA Strassen (Strassen, Luxembourg) - Resultater, Spillplang / Spillkalenner - UEFA Conference League 2026/2027 - Fussball",
-          "summary": ""
-        },
-        "en": {
-          "title": "UNA Strassen (Strassen, Luxembourg) - Results, match schedule / game calendar - UEFA Conference League 2026/2027 - Football",
-          "summary": ""
-        },
-        "de": {
-          "title": "UNA Strassen (Strassen, Luxemburg) - Ergebnisse, Spielplan / Spielkalender - UEFA Conference League 2026/2027 - Fußball",
-          "summary": ""
-        },
-        "fr": {
-          "title": "UNA Strassen (Strassen, Luxembourg) - Résultats, calendrier des matchs / calendrier des matchs - UEFA Conference League 2026/2027 - Football",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7defa1177ff84573a9f353bbc64c8cd67b2a1669",
-      "title": "Das kostet das geplante Freibad am Rosa-Luxemburg-Platz",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb0tlSGl0MVMtRUlUc2Rzc2VTZU5pMHpDcXBqMW83cmpuSGpHVDFMbXlMYlFpdE5RRDZJNVdDQnZseEJ0cFZQdnE1R0VzZnVLQkNIWElmVTVKNTJoT2RvVDhmOUJyWnhoclNxYWwwLWlyNy13ZzZ6MDlUVmNXa0FIbW5JUThSdWRvcjE2RHRlMkJXck9VZmNuekw4akFObkNyV214UmJUS001YmtxX2tHZkF1bDBhWnZn?oc=5",
-      "source": "Berliner Morgenpost",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "This is what the planned outdoor swimming pool at Rosa-Luxemburg-Platz will cost",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Voici ce que coûtera la piscine extérieure prévue sur la Rosa-Luxemburg-Platz",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Dat kascht déi geplangten Outdoor-Schwämm op der Rosa-Luxemburg-Platz",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9920d7595efde94ba6bec2d14eef3bb655c11ef3",
-      "title": "Люксембург - Ісландія статистика матчу 29.09.2026 і результат",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96S1hVMnZxaGloMzhjNVptelE4U3RjdWktXzZ2RXlycVdERk5GWWhQWFBKWVFyaUF5Z1Q1RnBRX3dfaFRnZDlMbjNIUDI4MkhiRDZUaDNPdUhyMnR2RUJGMERWb2NQU1Vnc0U2a1ViWXFfZ3RY?oc=5",
-      "source": "Футбол 24",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-07T15:56:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg - Island Match Statistiken 29.09.2026 a Resultat",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Iceland match statistics 29.09.2026 and result",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg - Island Spielstatistik 29.09.2026 und Ergebnis",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Islande Statistiques du match 29.09.2026 et résultat",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2a1e39a85be29cb94d4da12c8c5a0e2649c1b144",
-      "title": "Den Här Dias an vill anner Proffen kommen op eis Prom Night!🔥🎉  Dat wëlls de net verpassen!👀        🎟️ Et ginn nach e puer Ticketen séier sinn , éier se for",
-      "url": "https://www.tiktok.com/@ltl.1ere.c/video/7659812302450953494",
-      "source": "@ltl.1ere.c",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-07-07T15:43:58.000Z",
-      "summary": "Den Här Dias an vill anner Proffen kommen op eis Prom Night!🔥🎉  Dat wëlls de net verpassen!👀        🎟️ Et ginn nach e puer Ticketen séier sinn , éier se fort sinn!                           Mir freeën eis op iech!✨💃🏽🕺🏽#promnight #Tickets #luxemburg ",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oUTEQmkR3EORr6DEFDgFtTYfQfPOqTEBtJ38aA~tplv-tiktokx-origin.image?dr=9636&x-expires=1783756800&x-signature=n%2FgbAdTco4nkScNyIl68wpIUKSw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den Här Dias an vill anner Proffen kommen op eis Prom Night!🔥🎉  Dat wëlls de net verpassen!👀        🎟️ Et ginn nach e puer Ticketen séier sinn , éier se for",
-          "summary": "Den Här Dias an vill anner Proffen kommen op eis Prom Night!🔥🎉  Dat wëlls de net verpassen!👀        🎟️ Et ginn nach e puer Ticketen séier sinn , éier se fort sinn!                           Mir freeën eis op iech!✨💃"
-        },
-        "en": {
-          "title": "Mr. Dias and many other professors are coming to our Prom Night!🔥🎉 You don't want to miss this!👀 🎟️ There are still a few tickets left, hurry up before they're gone",
-          "summary": "Mr. Dias and many other professors are coming to our Prom Night!🔥🎉 You don't want to miss this!👀 🎟️ There are still a few tickets, hurry up before they are gone!                           We look forward to seeing you!✨💃"
-        },
-        "fr": {
-          "title": "M. Dias et bien d'autres professeurs viennent à notre Prom Night !🔥🎉 Vous ne voulez pas manquer ça !👀 🎟️ Il reste encore quelques billets, dépêchez-vous avant qu'ils ne disparaissent",
-          "summary": "M. Dias et bien d'autres professeurs viennent à notre Prom Night !🔥🎉 Vous ne voulez pas manquer ça !👀 🎟️ Il reste encore quelques billets, dépêchez-vous avant qu'ils ne disparaissent !                           Nous avons hâte de vous voir !✨💃"
-        }
-      }
-    },
-    {
-      "id": "52b3beed5540a4a0f35f803e8a473121d8bc6043",
-      "title": "Spent the night in Luxembourg and this is how the day went! \n\nFirst impressions: love it. Free transport, lovely weather, good food! What more could a girl ask ",
-      "url": "https://www.tiktok.com/@naza_the_explorer/video/7659808869136272663",
-      "source": "@naza_the_explorer",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-07-07T15:30:38.000Z",
-      "summary": "Spent the night in Luxembourg and this is how the day went! \n\nFirst impressions: love it. Free transport, lovely weather, good food! What more could a girl ask for 🤭\n\nLuxembourg black girl \nEuro summer \nLuxembourg travel \nExtreme trips \nLifestyle \nTravel vlog \nExplorers \n#luxembourg #traveldiaries #eurosummer #nazatheexplorer #foryoupage❤️❤️ ",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oUBAN0N2IEEojP9R7YaiBNBp5yiVBAk0nAGAb~tplv-tiktokx-origin.image?dr=10395&x-expires=1783879200&x-signature=yNwjAHB%2BE7Q3hs%2FScg8pf1bu7bk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Iwwernuechten zu Lëtzebuerg an esou ass den Dag gaangen!",
-          "summary": "Éischt Andréck: Léift et. Gratis Transport, schéint Wieder, gutt Iessen! Wat méi kéint e Meedchen froen\n\nIwwernuechten zu Lëtzebuerg an esou ass den Dag gaangen! \n\nÉischt Andréck: Léift et. Gratis Transport, schéint Wieder, gutt Iessen! Wat méi kann e Meedchen froen 🤭\n\nLëtzebuergesch schwaarz Meedchen \nEuro Summer \nLëtzebuerger Rees"
-        },
-        "en": {
-          "title": "Spent the night in Luxembourg and this is how the day went!",
-          "summary": "First impressions: love it. Free transport, lovely weather, good food! What more could a girl ask\n\nSpent the night in Luxembourg and this is how the day went! \n\nFirst impressions: love it. Free transport, lovely weather, good food! What more could a girl ask for 🤭\n\nLuxembourg black girl \nEuro summer \nLuxembourg trave"
-        },
-        "de": {
-          "title": "Habe die Nacht in Luxemburg verbracht und so verlief der Tag!",
-          "summary": "Erster Eindruck: Ich liebe es. Kostenloser Transport, schönes Wetter, gutes Essen! Was will ein Mädchen mehr?\n\nHabe die Nacht in Luxemburg verbracht und so verlief der Tag! \n\nErster Eindruck: Ich liebe es. Kostenloser Transport, schönes Wetter, gutes Essen! Was will ein Mädchen mehr 🤭\n\nLuxemburgisches schwarzes Mädchen \nEuro-Sommer \nLuxemburg reisen"
-        }
-      }
-    },
-    {
-      "id": "6c5f67603d837505ae37c97130bc571633d0988b",
-      "title": "#luxembourg #friends #girl ",
-      "url": "https://www.tiktok.com/@lisaa_ou/video/7659801612768087329",
-      "source": "@lisaa_ou",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-07-07T15:02:25.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o0AVGIfUMQzL3jeAkYo8DWpmJMQfEihgdWPWCg~tplv-tiktokx-origin.image?dr=10395&x-expires=1783756800&x-signature=S6%2FWk5L0Ecmbsgpr91flGX8TyVg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "#Lëtzebuerg #Frënn #Meedchen",
-          "summary": ""
-        },
-        "en": {
-          "title": "#luxembourg #friends #girl",
-          "summary": ""
-        },
-        "de": {
-          "title": "#Luxemburg #Freunde #Mädchen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4ca51361c3f88149e98caa37a1a5d0d8111a8e3d",
-      "title": "Open Air in Luxemburg: Robbie Williams: König der Entertainer und nettester Narzisst",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeFRMckZIdXcwMTRaTmU2dVhBVzhKOFdZNGJrNkNzd3B3MmxxMGpzZjVRdnc4VE9PSmFDMXRHbHpReHVRdnZXc3ZqTlpLUndVQ2lISTJTOC10ZnlldllNY25iX2swbmFMamNJNUM0RlQ0MHZZOHdvdUlMbTg4SEdJdEk5dTRDNkJWdFNGQmttZy1uT1Z0cDBjNnBRVl90NGhjVkpzSHQ3U1UtTjVjNTJXRTZoZFlwY0Q4c2c?oc=5",
-      "source": "Volksfreund",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-07T14:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Open Air in Luxembourg: Robbie Williams: King of entertainers and nicest narcissist",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Open Air zu Lëtzebuerg: Robbie Williams: Kinnek vun den Entertainer a schéinsten Narzissist",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Open Air au Luxembourg : Robbie Williams : roi des artistes et narcissique le plus sympathique",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2e717e9946919686d2b4527035f1a8f042b624e6",
-      "title": "Artémis courtage s’exporte au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZVd4b1lQc2U2ZjJYdC1hejd6TktMbFd3WTZJcWJHU2Q3aWZWLTYtRG1yZUVwVFB4eDBuMFhZdkpNRmN2bjZPLUthSS1RRVRpVW5sTnBBSWE0R3pmd3Qxb2h5Qk1NU3I5TjhqcEZES3FTRjlrX2RabkttNFNGR0NpelBaWVZJUWdXZ2hSekFPSHozekVySW44aFc3R1FmX3JQMHl1WUZUSkJxVlZXSFpnT282UEZodGdrMDlHUE1qek9nX05hbzBhcA?oc=5",
-      "source": "Gestion de Fortune",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-07T13:50:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "en": {
-          "title": "Artémis brokerage is exported to Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Artémis-Brokerage wird nach Luxemburg exportiert",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Artémis Brokerage gëtt op Lëtzebuerg exportéiert",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "92118eef5e5917eea3711227d6ca2a22a87d0063",
-      "title": "Luxemburg 2 - 1 Slowakije: Wedstrijdverslag, statistieken, opstellingen & H2H",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDF6UzNqNmZTaGJFZ3JVaXRPWkFEODhvZ0dPbVJ1SmRtN1kybnRfNVkyYlZ0bktSV25PelBIekduWVA2aHpwdDRlR0hlYjZTYW9EZC1sWFNBY0JJRV9WNWktZFdnTjd1ZGRVM2ZqZ0pHTWRxSzFvV3V5WnplcmtSbldLYm9VNnM0REhwSA?oc=5",
-      "source": "365Scores",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-07T13:42:34.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg 2 - 1 Slowakei: Spielbericht, Statistiken, Aufstellungen und H2H",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg 2 - 1 Slovaquie : rapport de match, statistiques, composition et H2H",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg 2 - 1 Slowakei: Matchbericht, Statistiken, Opstellungen & H2H",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg 2 - 1 Slovakia: Match report, stats, lineups & H2H",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ea7afed6449ad7970774863f66eb396dc92a5560",
-      "title": "Artemis courtage s’implante au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1BQZmFndVFlY1Z2QmtfNDU3bG1FN1Fxak8xb24xclFoOTdMNEIxY0lUNmd2OWdIX2lvNlpZYTEyZ2VGQ2lMVFRFbTZqWFI4SnQ3MjFSN25MempWa0tEdkYwM296RnRpYUQyLXNfX2R6R2ZUVWVzWWg1YVJtcTdzYnF5Q0VNRjBMR1M0?oc=5",
-      "source": "L'Agefi",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-07T13:21:59.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "en": {
-          "title": "Artemis brokerage sets up in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Artemis-Brokerage lässt sich in Luxemburg nieder",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Artemis Brokerage setzt sech zu Lëtzebuerg op",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1c3bc42c9ce206ac4e1281fdd9a9bccb35a25146",
-      "title": "EDAG Engineering : Axxion S.A., Grevenmacher, Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDZmTXlHb29abDJZcUF3RTctTGhwQXhFdnhlYUJlTXJxbzE5VGN0U2o1aGxOWHpHVllTMkhfOUVMLWRFMzJNUXNCWl9TWkVqVld5b25CeEtkQWx5Q1JuU1JmUzZnWEJDRUliVG9JaU1YNXJtZFVVMlBscll3bVZmLTd3NVJZOFRGVlhOb056S0dXTGpqLV9GdkxLRXg3Yk1PYURkaTZnaVZObkVEQUhrSTFSQU1wVkE?oc=5",
-      "source": "MarketScreener Deutschland",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-07T13:14:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "EDAG Engineering : Axxion S.A., Grevenmacher, Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "EDAG Engineering: Axxion S.A., Grevenmacher, Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "EDAG Ingénierie : Axxion S.A., Grevenmacher, Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5dfbf030e6af73cf57e6168a0f5f1d1da9b50ded",
-      "title": "Ripple gains full EU MiCA CASP approval in Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjJJS1RsVmtLSFd3ZFNNb0s3cnN2ZUgyS1oyT0NLaGV1ZEpRcV9VOUF5MnpYV291VVQyLTFHU1k0M2FxRjBVaXpweXVoay1ELWdaWEw2d21GNGNMWVNsdl84VXRyZjVCT09LblR6YWJoODRpR1M5SWo1MzljdGJsYmdFa0ZydWp2bnVSVFd2WTBENnBFbzNZeGlQQ0xqMWVIRHh2andB?oc=5",
-      "source": "FinTech Futures",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-07T13:14:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Ripple kritt voll EU MiCA CASP Genehmegung zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ripple erhält in Luxemburg die vollständige EU-MiCA-CASP-Zulassung",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ripple obtient l’approbation complète de l’UE MiCA CASP au Luxembourg",
           "summary": ""
         }
       }
