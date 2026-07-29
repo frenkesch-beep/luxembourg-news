@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T19:44:51.709Z",
+  "generatedAt": "2026-07-29T21:13:20.099Z",
   "items": [
     {
       "id": "d0b1f06b3332aece6e4bd930a7914e476f6520ca",
@@ -26,6 +26,39 @@
         },
         "lb": {
           "title": "Bank of Luxembourg lancéiert Core Banking Plattform NuPoint vum CSI",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3ffdd954793b0d7b3c65512b7e482bc027e67192",
+      "title": "Bank of Luxemburg voert kernbanksysteem NuPoint van CSI in",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZUxKZk9OOEw1emIwdEJ4bWF3X1VuNE91RWdqeHpBMVNnNjRxRUNkaVpZSFFFMElTQ2ExVndWc1RIMEdxQmlsdVJZc0xYM043QzZJZEc1T2w3bl91ZmdLX1RSTEpyWUJUYUdsT3ZoaUpMSkpfeTZtZXlhS0J3S3hQOWZPT1VIdlpkZjYzb3RwSFlDdmI5SE9mcFE3X1FGb2VIY1VfbDRqUk4xQmVyeXY1RWVKcFZFNVYw?oc=5",
+      "source": "MarketScreener Nederland",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-29T18:37:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Bank of Luxembourg stellt Core Banking System NuPoint vum CSI vir",
+          "summary": ""
+        },
+        "en": {
+          "title": "Bank of Luxembourg introduces core banking system NuPoint from CSI",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Banque du Luxembourg présente le système bancaire de base NuPoint de CSI",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Bank of Luxembourg führt das Kernbankensystem NuPoint von CSI ein",
           "summary": ""
         }
       }
@@ -271,6 +304,35 @@
       }
     },
     {
+      "id": "b9e41e32b6a3befc507057246161e5854091f2af",
+      "title": "Criteo drops French domicile, eyes NYSE after Luxembourg switch",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTl1NmFNTzNQVTJXQ3J2N0tjaENuaGJLdWdFZ0ttSTdESDlndzdTRllrVlRuTEZ1WTNhejlxcmItRl9rVEc5Nks1UG11VDZvTVB6Sm9yblI2VU1kLWt1NVRmdk00eGtwcERGRWF5RUJzeXNiXzhrZlBIQ1V3LVhBVjZCcEhYRDA?oc=5",
+      "source": "PPC Land",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T14:45:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Criteo gibt seinen Sitz in Frankreich auf und konzentriert sich nach dem Wechsel auf die NYSE auf die NYSE",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Criteo Drëps franséisch Domicil, Aen NYSE no Lëtzebuerg schalt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Criteo abandonne son domicile en France et envisage le NYSE après le transfert au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "29a2314d31cce540b96263db45886ba31ae15116",
       "title": "La patronne d'un Burger King français assassinée en Afrique du Sud avec deux de ses proches : sa fille enlevée retrouvée au Luxembourg, le père arrêté comme principal suspect",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPRWtXNkNtQkxRU0NHa0NReUNOMDBUNlFjQVhyMG9KRnd2UlFhS0kwVUlSTXRxRWdJQVg3d3Rsd3d2OE1TYV9ZQmVfeGpKQnd0cklSQlQwbDdNVnlqR0dIR0Z3UFQxN0V3V1hWOVZxenQ5QXF0OHVIWE1XMFhuWmU0Q1g4VmQwZlYtN2VGMjh5aEl3TjQ1ZjFqVzVOX2VkdEdfa1BNX0x6cWxHOW41dkFrNUFGT1czN296MUxVSnE0M1BjcGFNTmJhTjdLLWxHa0RxbHdRdnFZZVg1bWtjNHNVRmNSQkI5SWlmVVZxUWVyNzVtTWJUcHdhc2dja1lwVjdWM1ZhTWRxVWZEZkNlRG1xcGpTcTlNMnZieW4tbDExUDY1RHFk?oc=5",
@@ -390,6 +452,35 @@
         },
         "fr": {
           "title": "Criteo (NASDAQ : CRTO) finalise sa redomiciliation au Luxembourg et vise une fusion aux États-Unis en 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "afa1b7046d2f2bd6650724d65b5c03681b99c210",
+      "title": "Criteo Redomiciles from France to Luxembourg, Plans U.S. Move and NYSE Listing to Boost Shareholder Value",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbGx4Y0JOYTZ6QkpseHZEVEl6azg4S1dTMEVQTm9pNFh3c3dkT2ZEMG01MUtXNUU3cHN1VUFiUFBJbkdlQjN0R3d2bThOR3J6d01wbW91Z3IyaXhsbWRtMkxFLW1xSEdGSExUSl9RbUJOMG5lQmM1X19vTjByZWRpN3hCNlYydDdMeldnR2hHc1NSeU8yaUo2bFNmakNTbllkTVBodnZjcGg2dm9DUFFrak9pWnFVSjNGQjF3cmVDd0dYeHZzWE5EVWNKbXhYd21ZMjJXcUwxU2c3Yjl1?oc=5",
+      "source": "Minichart",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T14:01:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Criteo verlegt seinen Sitz von Frankreich nach Luxemburg und plant einen Umzug in die USA und eine Notierung an der NYSE, um den Shareholder Value zu steigern",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Criteo Redomiciles vu Frankräich op Lëtzebuerg, plangt US Move an NYSE Listing fir Aktionärwäert ze stäerken",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Criteo déménage de la France au Luxembourg et prévoit un déménagement aux États-Unis et une cotation au NYSE pour augmenter la valeur actionnariale",
           "summary": ""
         }
       }
@@ -1332,6 +1423,35 @@
         },
         "fr": {
           "title": "Marie Muller : L'anniversaire qui a placé le Luxembourg sur la carte olympique du judo",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fd8305d8d50b8784547efa79a04a15b0aacfb071",
+      "title": "Spritpreise Luxemburg heute: Super 95 deutlich günstiger – Diesel bleibt teuer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObURqNnBLRnZQbW1haDM2MUxweGxnd3liOGJVZDRsVThsWDdSSEpYWUdObV9xMDNtXy1pWjhLd08yLS1vajg1bEhKWDlxTmpINUctM0FDWktEYlAtemN4UlRSaldKSDlXeXBMckFpVjZ3QVl1Y09MRWVEU2t3ZndTZUw4QTdydEI2UnBmUkl2R3RnSmtqQkw3dU5kMFZpeVZKQy1uVmdVNEg5XzdzUTE0?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-29T08:46:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Prix ​​des carburants aujourd’hui au Luxembourg : le Super 95 nettement moins cher – le diesel reste cher",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fuel prices in Luxembourg today: Super 95 significantly cheaper – diesel remains expensive",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffpräisser haut zu Lëtzebuerg: Super 95 däitlech méi bëlleg – Diesel bleift deier",
           "summary": ""
         }
       }
@@ -47190,130 +47310,6 @@
         },
         "fr": {
           "title": "La Commission adopte ses procédures d'infraction de juillet - Principales décisions concernant le Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "114284679074fd75bac77dce0e047bafd68250a5",
-      "title": "El primer ministro del Gran Ducado de Luxemburgo se reúne con el ministro de Comunicaciones",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTG5MQ1JsYzZuNmxqN2Z2MzZlWWN5ZExsVGNmMGo5X1FKS3pNRXVLU3ROZGhXNDdveUtxZDZZZGVVVEhBTzh6ZkVPdnVZMWRHQUpkcTQ3aHJyVzZpTjhwWkdBUkxOQzlJRnhEZkpvMFpJT0VJcUQ4eGpqRm9LSWJiRWpmdXBfQ1FLdkltVjhFZ3kwa1h3UDZ3WnhDdGFlamNFckhURTZYZFdiczg5YjNtZ3ItbHJHOWxDZDRFNU5XU3JWOVlVRWRqN1ZHc3VEbWdhTFZRTi1nOA?oc=5",
-      "source": "Qatar news agency",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-08T11:32:10.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Premier Minister vum Grand-Duché de Luxembourg trefft sech mam Kommunikatiounsminister",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Prime Minister of the Grand Duchy of Luxembourg meets with the Minister of Communications",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der Premierminister des Großherzogtums Luxemburg trifft sich mit dem Kommunikationsminister",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Premier ministre du Grand-Duché de Luxembourg rencontre le ministre de la Communication",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "55435b7291d7f3f059466119b6ee3f6e26aa7f26",
-      "title": "رئيس وزراء دوقية لوكسمبورغ يجتمع مع وزير الاتصالات",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQeFAtX1hfMDNDdXVleFZ2Z01Vd1JKRW9JQ0NSNVFEeklnUmlINTFkR3BSNjE3TE1yNDk5SlRiY0ZfLWdHdFVDOE9pWjhVWFBLTlFpcmF0aTMtLUNYMjhqWlhSQUViYmtHNFRyZmFlTHdSLUVVaEpydXUyVEVtT0lLOE9OSXp5RTZuaVVhR3JtQTJaQXlYSklXdTRGRnV4ZGI4ekVZNUpaRlJVYUthS0tqRGhGcVdoa0dEWmsybzJKNE1mM0tXYWxQZU8yeXI5dXlJWGNyUUFVb2hVWU1xQkVuRVJYdjdQNW1EbUh6VnhrWmV1X2RobkdLcUh1clpYbHZFb1loSGVxWUpxWVd6N2RDWjctRmQ5ZGxHTW8xc21kdw?oc=5",
-      "source": "مرسال قطر",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-07-08T11:19:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Premier vum Herzogtum Lëtzebuerg trefft sech mam Kommunikatiounsminister",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Prime Minister of the Duchy of Luxembourg meets with the Minister of Communications",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der Premierminister des Herzogtums Luxemburg trifft sich mit dem Kommunikationsminister",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Premier ministre du Duché de Luxembourg rencontre le ministre de la Communication",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2d782a6ac49fc5a83bf0b212f0d36b8707dc3ba2",
-      "title": "Le Premier ministre du Luxembourg se réunit avec le ministre des Communications",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2xzT080dmJIMEtHRVRmYjYyVGpkTVFFZnRmRVk5T2owOG1sdVIyaE5HUEJKTnk1LUVQUFE3Q1NFZnlYOGlMenRXYXhiaGhNZGxGRHNLSlVWRUdrLTlyVUVseHhKNElRX0FsVHJnMUFkLU1vX3k2bkV4ekJiSlFWZjBWY0RaR1RsMFhHdnFMUC03b1p0Ri1QZXJZbDNHRGhxa0dHdmt3UHdJaVFReWZsUy0ydlRFY2hUa1RoOWxLRVRNS2NUWm1zb2M0MHQtcTdHMS1QTg?oc=5",
-      "source": "Qatar news agency",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-08T11:08:04.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg Prime Minister meets with Communications Minister",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Lëtzebuerger Premier trëfft mam Kommunikatiounsminister",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der luxemburgische Premierminister trifft sich mit dem Kommunikationsminister",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "444afe68e9b22e4823ef3fada960694d7d7577af",
-      "title": "Dunboyne pop star CMAT opens for Robbie Williams in Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1VfYUJVU3N5ZnBmSjAybHlWTE5vZ1VzSnhDN09RSERISllpa2FtM0Z1RGRiQWFjU2o3WHYtNjRpakt0c2IweXNDZ3Y4ZmtDUnc1WTliYVdCR05iS25fU2RNQy1zakh6Y1hCTXVSbUo1N0xJWEtrUlNTeEJyOVJRS2c1VlBCeGxaUmY3U1FGSVNyd2lkaFhBa3lQYUZCRnNfdHlpeXFqZw?oc=5",
-      "source": "Meath Chronicle",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-08T10:39:07.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den Dunboyne Popstar CMAT mécht fir de Robbie Williams zu Lëtzebuerg op",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La pop star de Dunboyne, CMAT, fait la première partie de Robbie Williams au Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Dunboyne-Popstar CMAT eröffnet für Robbie Williams in Luxemburg",
           "summary": ""
         }
       }
