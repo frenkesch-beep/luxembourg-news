@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-07-30T09:43:16.458Z",
+  "generatedAt": "2026-07-30T12:04:45.502Z",
   "items": [
+    {
+      "id": "07ce1c68ea5f5ecf1ecc4ace4638213d1b89ba05",
+      "title": "Trois Français tués en Afrique du Sud, l’ex-mari de l’une des victimes arrêté au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPXzNOaEhqd0EtUFdpbUJ6bFkwWEV3QTNkLTVxQ3hEZmwtdHFBOFk3MjdUZ3RUX240Rm90bUp6aGk1TzYzdTdOZklobFQ4SXdWOVhJOU9vY0VQc25TYlFnRUdxa1lRQ1ZnVkFpRWZCTGNUYmpNc1ZPOXp0aE5ucjRvaE5HTlc3eFNWZl8wZmhDQ3c5NEhnY19GTGVCa3VCOUlvOVJrTE4wOU1jYVFyMUNUZnE3dFRPVzBPZjdyYVU3aWRYMjZla2dBMERvRlRvQzJtdXJmNldnaTRNMmFXQmI1S0RZdkd6aGw0TGIxbHpyQk5GM2I5YjNRcW9VRjlpQ05zWHBNNA?oc=5",
+      "source": "Libération",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-30T10:49:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Three French people killed in South Africa, the ex-husband of one of the victims arrested in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dräi Fransousen ëmbruecht a Südafrika, den Ex-Mann vun engem vun den Affer, déi zu Lëtzebuerg festgeholl goufen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Drei Franzosen in Südafrika getötet, der Ex-Ehemann eines der Opfer in Luxemburg festgenommen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b7cd98de8261cd0bb68fac6ebd6fadfb633bcdcf",
+      "title": "Criteo completes move to Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwRlJFT0t0NDlmRUF0amY5RXg1d3FJMEpUVXRUTEdHR2JSYzVyRTA1NkhkQ3NOVXpRTDBmM29pdjY2X190ekZycEd1dTg2S2xWa3RtTHBtQ1RrcF9JdTlTQVdISDVHY0xvYnIyVUEyaDVlX2ZTZEp6bHJEUjEyUQ?oc=5",
+      "source": "marketingreport.one",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-30T10:17:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Criteo fäerdeg de Plënneren op Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Criteo schließt Umzug nach Luxemburg ab",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Criteo finalise son déménagement au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "4d38225ab7978b82909374ec45c13bc3c5737835",
       "title": "Astronomie. Luxembourg Science center : l’éclipse du 12 août n’aura pas de secret pour vous !",
@@ -55,6 +113,35 @@
         },
         "de": {
           "title": "Tolle Gegend. Brände in der Gironde: Luxemburg mobilisiert einen Wasserbomber und fünfzehn Feuerwehrleute",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a51b23a68abb1d5c893621a93e352c0330889e53",
+      "title": "Meurtre de trois Normands en Afrique du Sud : deux suspects arrêtés au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0ZhVE9ZZUZXMzZBV3NIdVJCZ3VRV0hMN29LUERDOG0yU3IyZDJaYnd2Nk1WYWM1cjZmZGdGSWZjZDRQeVp3UXlkS1NkQnpVbDdkZU5kUE85ek5MdDAxcTZNeWNRN2RLS3IwUldmNDVJV3lXdWh4c0RHenZqZG9hbjM4U2cxREcyTWVxaGxFUTVsbVFPNGpla2UxU1Q4NC15UU5mZEZ6UUZFZHVQZHdzbmx2Nlh1cWViOUpERjZJQWptcTIxeTV4QQ?oc=5",
+      "source": "Sud Ouest",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-30T08:21:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Mord un dräi Normannen a Südafrika: zwee Verdächteger zu Lëtzebuerg festgeholl",
+          "summary": ""
+        },
+        "en": {
+          "title": "Murder of three Normans in South Africa: two suspects arrested in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Mord an drei Normannen in Südafrika: Zwei Verdächtige in Luxemburg festgenommen",
           "summary": ""
         }
       }
@@ -300,6 +387,68 @@
         },
         "lb": {
           "title": "Si frustréieren d'Sendung op Lëtzebuerg vun 1.643 Fläschen mat flëssege Kokain",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2b2c06204902541a9e0fcfeb31796b55301172f8",
+      "title": "Люксембург-Грузия | Статистика | ЧЕ - девушки до 17 2027",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnE0bm1SalpnbVl3cDMxRm55aU9yT2hZcmJGdjEzUmM4WjIzT2xObUhWOGRyQTN1VDVOWEZsRlNjcVo1SDJGQWxOV2J6T1pJaERaemxBTVNsNlZMSTZEVEZKUEtaQUFqcWVmejhabE1XcU15V2stWmpUMmJ6UFNlSVo3Nnd1MmFrUGc?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-29T23:25:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg-Georgien | Statistiken | Europameeschterschaft - Meedercher bis 17 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg-Georgien | Statistik | Europameisterschaft - Mädchen bis 17 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg-Georgia | Statistics | European Championship - girls up to 17 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg-Géorgie | Statistiques | Championnat d'Europe - filles jusqu'à 17 ans 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "215f4c10bdf16e37e134051351e2993665593dbc",
+      "title": "Walferdange vs Racing FC Union Luxembourg - live score, predicted lineups and H2H stats",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWpkMUhlRzdNTEdmclhxbjYzd29sX0ZoYWFGRVEyRnpqaUp1YlA3OVJweEdETlJPRmlEZzBWczMwVE9ULU9UcUlNWG5WV3RMSUlDdXYxX2ZsRDBlUXJBYkRSYTUwVHgxVzlXTW1UR1BWczZNajBHSnpoSnVXUFFvWDNyR2RrUzAtSnJoelhZdGo?oc=5",
+      "source": "FotMob",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-29T21:58:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Walferdange vs Racing FC Union Lëtzebuerg - Live Score, Previsioun vun Opstellungen an H2H Statistiken",
+          "summary": ""
+        },
+        "de": {
+          "title": "Walferdingen gegen Racing FC Union Luxembourg – Livescore, vorhergesagte Aufstellungen und H2H-Statistiken",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Walferdange vs Racing FC Union Luxembourg - scores en direct, compositions prévues et statistiques H2H",
           "summary": ""
         }
       }
@@ -1672,6 +1821,39 @@
         },
         "lb": {
           "title": "Criteo fäerdeg de Verlagerung op Lëtzebuerg a plangt 2027 an d'USA ze plënneren",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8973a4ad5cc2da6e287c99ec8bf3358d2b65aaf8",
+      "title": "Criteo completa il trasferimento in Lussemburgo, previsto spostamento negli USA nel 2027",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMk5HUmRuTmVDRXpOeU1UVV8wZmMxZmlvVEFibWxjVFVMQWhlcGdDM3JDVThWSEZidGdSZjlCOHRxNWM1U0pjc0JRbjcwUGRnWDBibXN5QWNCdkRhbU02SzVWWGxIaTJENEF2ZTh6WHF6M1JycnV3UjV2enI5YVFzb1NRVDFHX2plX19FcmdnSEF3Q1NTUFRsWVpNdEViTVQtbmJzUjBsOXZUWGc4TG5rR3dRbUloaVJxSTdrbmp4ZTJ0M3kyWTdIUEZaV0VZTjZCT1pUeXMyMG00NjA?oc=5",
+      "source": "Investing.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-07-29T10:05:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Criteo schließt den Umzug nach Luxemburg ab und wird voraussichtlich 2027 in die USA ziehen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Criteo fäerdeg de Plënneren op Lëtzebuerg, erwaart fir 2027 an d'USA ze plënneren",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Criteo achève son déménagement au Luxembourg et devrait déménager aux États-Unis en 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Criteo completes move to Luxembourg, expected to move to USA in 2027",
           "summary": ""
         }
       }
@@ -3842,6 +4024,39 @@
         },
         "fr": {
           "title": "Un environnement de startup quelque peu inattendu au Luxembourg, un petit pays de la même taille que la préfecture de Kanagawa (image) (42e/46e photo)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d60a956c35a968f7949cb5e6b8e2f94d85937d4e",
+      "title": "IT先進国・ルクセンブルクのワイン農家が、ITに頼らない理由（画像）（5/6枚目）",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVVVRdGF5OEFtMHM2Qi1oNE1XcmZfUEFHUUJNcldUMjI3Zkl2MkQ3T04yanpqOG5qZ0xIbUZSSnVFdmhDa0NOQ1ZNcGIydG83WGppV0NpNXlNanZLRFJxUlN3SkxQcy1ZVF9lZGZ2dHRuMEt1eFRkb1YwTQ?oc=5",
+      "source": "ITmedia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-28T12:28:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Raisons pour lesquelles les viticulteurs du Luxembourg, un pays avancé en matière d'informatique, ne comptent pas sur l'informatique (image) (5e/6e photo)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Grënn firwat Wäibaueren zu Lëtzebuerg, engem IT-fortgeschrattent Land, net op IT vertrauen (Bild) (5./6. Foto)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Reasons why wine farmers in Luxembourg, an IT-advanced country, do not rely on IT (image) (5th/6th photo)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Gründe, warum Weinbauern in Luxemburg, einem Land mit hohem IT-Anteil, nicht auf IT setzen (Bild) (5./6. Foto)",
           "summary": ""
         }
       }
@@ -13868,6 +14083,39 @@
         },
         "en": {
           "title": "Armenia-Luxembourg | Squads | UEFA U17 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6c3639a53b5b5cef176ebda5441a4f2e4e68b30b",
+      "title": "Arménia-Luxemburgo | Grupos | UEFA Sub-17 2027",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjF1bVFfMlk4NFc5OHRJQ2RjbUlodlFMVzdYVkhuUFlTMjVfVnN1VmhfSEY3VlRJdFJfUXJrN2dsYjUwMTJRcUhjQ1YzMzFJaU91MzR6TG56Q19zWmlkbzhLa1JSd2ZkZVpVUDhCZ0FyNHMzRGR4OUJrakI3X2c5Uw?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-23T02:29:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Armenien-Lëtzebuerg | Gruppen | UEFA U17 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Arménie-Luxembourg | Groupes | UEFA U17 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Armenia-Luxembourg | Groups | UEFA U17 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Armenien-Luxemburg | Gruppen | UEFA U17 2027",
           "summary": ""
         }
       }
@@ -47074,262 +47322,6 @@
         "en": {
           "title": "🗣️ Luxembourg Foreign Minister Xavier Bettel urges Europe to ‘wake up’ on defense",
           "summary": "📍 In an interview with Anadolu, Bettel says Europe must strengthen its defe\n\n🗣️ Luxembourg Foreign Minister Xavier Bettel urges Europe to ‘wake up’ on defense\n\n📍 In an interview with Anadolu, Bettel says Europe must strengthen its defense capabilities while preserving NATO unity\n\n🔹 He cites Ru"
-        }
-      }
-    },
-    {
-      "id": "4d0c34b11164a1584a475de7cba59af1cded44a0",
-      "title": "Un avion Boeing 737 a ieşit de pe pistă la Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHB0R0gybzdTcTR2VVl2cjIxNFlQN1Y1ZnZzbkd6b3U1WTZhN2p0c3lDYi00TEhNNHJrckNER0RSMTlvWWQxQ0pnRmk1b3liTnJQSEhLQldXajV5TDE4RWJ4emlJTmoxQVhxYXpKNzNVbW56X29jUDg0M0ZBNVZTWlE0alRSdw?oc=5",
-      "source": "Money.ro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Un Boeing 737 est sorti de piste au Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "A Boeing 737 went off the runway in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Zu Lëtzebuerg ass eng Boeing 737 vun der Pist ofgelaf",
-          "summary": ""
-        },
-        "de": {
-          "title": "Eine Boeing 737 ist in Luxemburg von der Landebahn abgekommen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "73991af5baa22d0ba17877013f9c60043409d1a4",
-      "title": "Ministrul Barna Tánczos: la Consiliul de Mediu, la Luxemburg: Comisia trebuie să realizeze o analiză amănunţită a situaţiei preţurilor la energie şi gaz, unde apreciem că există un risc de manipulare excesivă",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOenpkYjhyWXAzRnBidHg1S1c2cFhDNFg0WFdxNklaREp0T2JHSWlnNGkxa0pNZFRfbGNLc21yX2E2RkZjVnkxSG82ZloxUG5GcWZ1RWdHcFpUTXhjUFQ0cllTTGlVSllOamZBLXZpNkNTb3FBNFp5WmZnZlpmRGlHZXBLNUhpTUJzQXZoQjExV2FkeFFXQkxfcHFLYW84RjU1R1VuMWg0RzFhc3pOc0hlclRmMmdUU0tWLUlSTmwxdmtYVmJ6LTBVNTFTZjhHb3pHSDJoZDU1U0szbWlhU1dnVXdFdHBiMnFPemw1bWpILWlxZV9EUlc4TktkeHlfck4wMGJZYzJ1b19iZENwOUtOSFdrcVNTSnRUd2p4Ylk1dDd6RkNKTlVOdmppNUltbE1LUlFLQnY1ZWhqdzBqODVDZGhvOF8?oc=5",
-      "source": "Money.ro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Minister Barna Tánczos: Beim Umweltrat in Luxemburg: Die Kommission muss eine gründliche Analyse der Situation der Energie- und Gaspreise durchführen, bei denen wir der Ansicht sind, dass die Gefahr übermäßiger Manipulation besteht",
-          "summary": ""
-        },
-        "en": {
-          "title": "Minister Barna Tánczos: at the Environment Council, in Luxembourg: The Commission must carry out a thorough analysis of the situation of energy and gas prices, where we consider that there is a risk of excessive manipulation",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Ministesch Barna Tánczos: am Ëmweltrot zu Lëtzebuerg: D'Kommissioun muss eng grëndlech Analyse vun der Situatioun vun den Energie- a Gaspräisser maachen, wou mir der Meenung sinn, datt et e Risiko vun enger exzessiver Manipulatioun besteet.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ministre Barna Tánczos : au Conseil Environnement, à Luxembourg : La Commission doit procéder à une analyse approfondie de la situation des prix de l'énergie et du gaz, où nous considérons qu'il existe un risque de manipulation excessive",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e3e7a026d18d88fbd072966568234540c0108c7e",
-      "title": "Luxemburg, cel mai mare paradis fiscal din UE",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ybmJ5Y1A2NFpMUU1jcFlZV2tUMFEzY000aXBEX29hZmluNkFkaUVlNWM1eWo4ZkF4dFd0bk50Z1IzZ3k5QTRTSDRrbDdjcEZBSnptbWpVTzhIVnVqREFpSTNOT3NOOVNJSkMwTG13TFQ4QjVtNHNSdHMzNA?oc=5",
-      "source": "Money.ro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg, dat gréisste Steierparadäis an der EU",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg, the largest tax haven in the EU",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg, das größte Steuerparadies der EU",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg, le plus grand paradis fiscal de l'UE",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "32f89bdc591decbfaa576148a1c1dab681445022",
-      "title": "În ce domeniu România este alături de Germania şi Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaXBuNm5yVTdadjQ0ZU5YUmZfZkd5empHeVVjblkzc3N4cVo2Q1NQV2tJRHhjc3M2bnVHZUxjbU5hTWxhOFF3akFoeTRySnZ6M3BwOUxrY3cwRzdSSHdKYUJQS19xTFVzZzg2NHdfeUNuREZPWUdZSVBDbkRqYS1mN09HU0NuUW1acnpBU0NjSQ?oc=5",
-      "source": "Money.ro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "A wéi engem Beräich läit Rumänien nieft Däitschland a Lëtzebuerg?",
-          "summary": ""
-        },
-        "en": {
-          "title": "In what field is Romania next to Germany and Luxembourg?",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Dans quel domaine la Roumanie se situe-t-elle aux côtés de l'Allemagne et du Luxembourg ?",
-          "summary": ""
-        },
-        "de": {
-          "title": "Auf welchem ​​Gebiet liegt Rumänien neben Deutschland und Luxemburg?",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "59e2a0a59baed1a69d6d72432f397da3f1cb2a73",
-      "title": "打過1劑AZ疫苗！盧森堡總理確診「住院隔離中」",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1sMWJwQlBaQzUtaTRVeGZOZHZXOWZodzVhRVg5dUdpdWdIWHp6NnFOODNDZkRRNUx4WmdselJjb0tGOHhRcHdJ0gFLQVVfeXFMTkRjRWNvZU9YcU5NMm95OWViMFI4dVNkSHdTUDVXMjZIZXR6ZzNEbElpVVdrZXhYY0FHZ1dkRWptMVh2NXY2elBpTXMw?oc=5",
-      "source": "三立新聞",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-08T23:18:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Habe 1 Dosis AZ-Impfstoff erhalten! Der luxemburgische Premierminister wurde positiv getestet und wird „ins Krankenhaus eingeliefert und isoliert“",
-          "summary": ""
-        },
-        "fr": {
-          "title": "J'ai reçu 1 dose de vaccin AZ ! Le Premier ministre luxembourgeois est testé positif et est \"hospitalisé et isolé\"",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Huet 1 Dosis AZ Impfung! De Lëtzebuerger Premier testt positiv an ass \"Spidol an isoléiert\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "Got 1 dose of AZ vaccine! Luxembourg Prime Minister tests positive and is \"hospitalized and in isolation\"",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ccb56d5334d348114adf7c5a5eff8d876c81e4bc",
-      "title": "MiCAR Transitional Period for Crypto-Asset Service Providers Expires: What Luxembourg Market Participants Need to Know Now",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNalc3bXZlMTNhdnNRVEZjZWxqZ18xTVA0QzNoZzBiVFMxcnkxcTBfT3RfcXNYUUZ6X3V0ak5mRl93Q3FraDBBSUdpdVlGZlBGUzhhZ1hOcElTb29wOFBSaGNRTFVvNFNpMDNkWWZyZlZacFRsdlZvaWJaTjF1NkdWSjB5elZKWmNuQWxfcUtZZ0piZExrV1EwODZkNkx4bi13Z2ExejhWN3hBTFE5UUpBSHJvc9IBuAFBVV95cUxObkhzNUJ4eVJVRS04VzRLUnpnMnlvVHlmb0hSQm1aYUtDbzJxU3loaU02YXNJMl96WEFTNE1qVnJCcDN2SE5fR3FOTVZsVDU2S0xBZHl3N21xSUE1eVpZd21VOVRlSWQ1RDVralA0TjN3T3dqTFhUa3BsMWt6cUFlREw1Zl9HMlZZWnJPYmdEamJvRFZBNjkzck1Ca1UtbkpLZDZHNTZ2SXJzeXFSX2RNWkVzc3hvenM3?oc=5",
-      "source": "The National Law Review",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-08T22:01:19.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "MiCAR Iwwergangsperiod fir Krypto-Asset Service Provider leeft aus: Wat d'Lëtzebuerger Maart Participanten elo musse wëssen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Expiration de la période de transition MiCAR pour les fournisseurs de services sur crypto-actifs : ce que les acteurs du marché luxembourgeois doivent savoir maintenant",
-          "summary": ""
-        },
-        "de": {
-          "title": "MiCAR-Übergangsfrist für Krypto-Asset-Dienstleister läuft ab: Was Luxemburger Marktteilnehmer jetzt wissen müssen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a8f6effa10419cc91f76884aee982ae168b57a28",
-      "title": "Novas datas de \"Deixem o Pimba em Paz\" em Portugal e no Luxemburgo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFZ6ZlZIaHpUaWZfcnpfb05lcVNVcjBmNzU5aHlwaHR3NDkwR0NzYU02VXVuUElNc1VPempET2R1d1V5d1NLMDZ3ZDdCRGlYS3R4N0ZTeWpnOW9RRG9OUTBVSXlFX1gycGRXY0pDaTN3WFl2TlY1Z25hcUtaOEJMU2VZdGNPRnJXYzMzTUV6clBINnl2WXljT3VhakFtTm5ERFdOOQ?oc=5",
-      "source": "cardapio.pt",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-08T21:25:14.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Nei Datumer fir \"Leave Pimba in Peace\" a Portugal a Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "New dates for \"Leave Pimba in Peace\" in Portugal and Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Nouvelles dates pour « Leave Pimba in Peace » au Portugal et au Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Neue Termine für „Leave Pimba in Peace“ in Portugal und Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a12cbffaf4e1ad1d25204d502eb0d156a74e0ab3",
-      "title": "Would you visit Luxembourg? 🇱🇺 ",
-      "url": "https://www.tiktok.com/@thekemoymartin/video/7660245121996164383",
-      "source": "@thekemoymartin",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-07-08T19:43:30.000Z",
-      "summary": "",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o0iWA11BWiQiCriIK1IAcEAKYqAfTwyOABJEGB~tplv-tiktokx-origin.image?dr=9636&x-expires=1783756800&x-signature=iSg1AmAXwad2i6HoJFkHJGM0nKY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Géif Dir Lëtzebuerg besichen? 🇱🇺",
-          "summary": ""
-        },
-        "en": {
-          "title": "Would you visit Luxembourg? 🇱🇺",
-          "summary": ""
-        },
-        "de": {
-          "title": "Würden Sie Luxemburg besuchen? 🇱🇺",
-          "summary": ""
         }
       }
     },
