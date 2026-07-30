@@ -1,6 +1,93 @@
 {
-  "generatedAt": "2026-07-30T18:47:26.214Z",
+  "generatedAt": "2026-07-30T20:35:49.225Z",
   "items": [
+    {
+      "id": "aacfea2dc7edbe11471431d8784f7e69d1c2ee77",
+      "title": "Le Luxembourg vient en renfort dans la lutte contre les incendies en Gironde, aux côtés des pompiers de la Moselle",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDhIdVhvZEtsV2NKckYzYWRjUDZnWXhhWUdsT3FwR01YTXJTOVAxWEdRV0Q1SWk4ZUd5cTM0VmFMcnl2S3A3d0lpT2loV3ZETmFTTDdBeVh3UmpxU2lyX3FEQi0wRFlXeUU0bXYwSFZZUUV5Z3VFQjVWaTI4MzRrVDlxMzhfY2RPSThBOXl1YnNIbl9kRTFYU0N5R3pfOG0yMDNhS3Q0NGc3S1BWVzREU0hXUDFENF9JVUdhWXdUOFhWTEtVUGx4a1VjTkk5bW5GS1VJdExkUjlYQmsxR2c3U3M1akFKWUpxRTN2SU1hclc1bzRLb0E?oc=5",
+      "source": "Le Republicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-30T20:10:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg comes to support in the fight against fires in Gironde, alongside the Moselle firefighters",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg kënnt nieft de Muselpompjeeën am Kampf géint de Bränn an der Gironde ënnerstëtzen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg unterstützt gemeinsam mit der Mosel-Feuerwehr den Kampf gegen die Brände in der Gironde",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f143db072ca4a605080669407ac942c4d597beec",
+      "title": "CMA CGM among three multinationals to form Luxembourg captives in H1 2026",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmhfS2o1OEZnR08zUTRtcFRPaTJwa19SblJjb0FyTFlTU1pKUUxCVEY4cExyeWxTNnFpc0U3OUxyMzcyWHRBZTYxLXhzekZvanVqVEFfZFRBY2RONW1yTlpSUkx6QkZoeVZYRkZLTk5Ha083aHk4MElOVGtOa3RnQWpZTHU2TWMzWHY1Z0ZOQUJOcGJSOEdrZWg2U1FMY2JyQXZLREk1ZjYzTHVyWEpz?oc=5",
+      "source": "Captive International",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-30T18:56:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "CMA CGM ënnert dräi Multinationalen fir Lëtzebuerger Captives am H1 2026 ze bilden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "CMA CGM parmi trois multinationales à former des captives luxembourgeoises au premier semestre 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "CMA CGM gehört zu den drei multinationalen Unternehmen, die im ersten Halbjahr 2026 luxemburgische Captives gründen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e615f9c29c4e86fa319fdc29860b822fbb5431f7",
+      "title": "Peltre. Incendies en Gironde : les pompiers du Luxembourg et de la Moselle s’allient et partent en renfort",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWVpaSW5LbjFVT2NrS1YyYUVsWGZDbmFYMDJ5dGhvM0ItRjR6QmhUdFI2UUM1QS0zVk1HZjNtWVdtWnZ5dG9iaFpXODRmOTJMeV9mZmw4bTAxMG1mX0NWNmpEbHlsQm1uMzJOdUtoUzFBQmRqMWtzdTBycEkySHJuRVVGQXJqYXN2UmpxbWtHSzR3aDl3SHhMOHV5S0M0OERXQXROMmhsNHFrY1VFellQUnJCMlNwQTUxRUhsM0RiUUpPODQ5bmlLVGltQ2NfbkJVakF2dXd5eVlHbzI0cVZ3U2NaTGU1dV8xQm8xbw?oc=5",
+      "source": "Le Republicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-30T18:48:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "Peltre. Fires in Gironde: firefighters from Luxembourg and Moselle join forces and provide reinforcements",
+          "summary": ""
+        },
+        "de": {
+          "title": "Peltre. Brände in der Gironde: Feuerwehrleute aus Luxemburg und der Mosel bündeln ihre Kräfte und sorgen für Verstärkung",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Peltre. Bränn an der Gironde: D'Pompjeeë vu Lëtzebuerg a Musel schléissen sech zesummen a suerge fir Verstäerkung",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "a0fcd084ebd70b3a751d5f28b47e09937a3ad5c5",
       "title": "Codere Online Luxembourg, S.A. Raises Earnings Guidance for the Year 2026",
@@ -2558,6 +2645,39 @@
         },
         "de": {
           "title": "Criteo schließt die Verlegung des Hauptsitzes von Frankreich nach Luxemburg ab; Der Vorstand genehmigt die nächsten Schritte für den Umzug in die USA.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e05e44276e9fa7f4b0f97ef4554a4ef3f74524a6",
+      "title": "Criteo完成從法國遷冊至盧森堡；董事會批准下一步遷往美國的計劃",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0Fxd1NoR1NNcjhqcDZER1hmVjhTOURBM2ppb1Rfc1ZCemhmRldKV0I5UTlqM1hTOUhRbG40aklpOEtqSHo4RkpndGlJRnExaGNsRW0tTzRiSWlCMWFJcHExbWoxWGhTa1VYZEVVY2lRc1U4cVRjX3p0ODI1bmc3NUtRVjVCTW95MTZPVzNpZjY2QkhFN2JZd0hxVHQwUXJfdWJWaVRTNFROM0ZraGRMOE9vQmoyN2VvUS1wUVVlNU1FdkU?oc=5",
+      "source": "Moomoo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-29T10:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Criteo schließt Umzug von Frankreich nach Luxemburg ab; Der Vorstand genehmigt den nächsten Umzug in die Vereinigten Staaten",
+          "summary": ""
+        },
+        "en": {
+          "title": "Criteo completes relocation from France to Luxembourg; board of directors approves next move to the United States",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Criteo achève sa délocalisation de la France au Luxembourg ; le conseil d'administration approuve le prochain déménagement aux États-Unis",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Criteo fäerdeg de Verlagerung vu Frankräich op Lëtzebuerg; Verwaltungsrot stëmmt nächst plënneren an d'USA",
           "summary": ""
         }
       }
@@ -47179,130 +47299,6 @@
         },
         "de": {
           "title": "Frankreich und Luxemburg führen Lkw-Fahrverbote ein. Vier Tage Verkehrsbeschränkungen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c6ed44e8e71ce950c2348831486c84c3ad1da89a",
-      "title": "IA, crise du logement et concurrence internationale : le Luxembourg va-t-il se débarrasser des frontaliers",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRTlJRkN3R1BDN29VMTFJUDlONkV4YjBkRXR6RW1aTFItTnRDcGVodjJPTEstVHlwemt4QzFzcVJDeVg1VjdLSGhmVy1hRFRyRmNyaG5fVmFjWTh2U0F0dVVZbXBRaGx3UC1mZkRsQm1xSndyQm1LYXJhTGQtWUxqczFRMFYyQzZEamdHUU5rU19tbUZGcDhiV29MT1BYWC1XSGlVakZnWVRxZVI0RmZkVEJJbDlUQUpHNHZLWlVTS1dPazhuVFV6THRoOEo4OTJuNDRLakZPcHg?oc=5",
-      "source": "La Semaine",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-09T07:37:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "AI, housing crisis and international competition: will Luxembourg get rid of cross-border workers",
-          "summary": ""
-        },
-        "de": {
-          "title": "KI, Immobilienkrise und internationaler Wettbewerb: Wird Luxemburg Grenzgänger loswerden?",
-          "summary": ""
-        },
-        "lb": {
-          "title": "AI, Wunnengskris an international Konkurrenz: wäert Lëtzebuerg de Grenzaarbechter lass ginn",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ea9166ad4cebab6dab51c8b73885960a1db80f19",
-      "title": "Easternmed Real Estate Capital: Αγόρασε το 100% της KanAm HoldCo Element S.a r.l. και απέκτησε ακίνητο στο Λουξεμβούργο",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNckFFQm9LLWlBeGN6bW9KcjB3dlVpRUR6X0VidlhsdkxPTDN6REV0ZGQ4VWVTX1VBN0w1Q0J3RUxiV053NnlDOXdFSEJ2eVA4bkk0c05aZmZURDh4NzdTZmt5SS1xRHQtejJDOXc1bnREMEdlV2NnMXctMWZ2S2VpMnlBVTdTUDRqdWx2d0cwY3hGVXFIU29yUi1RRUFaUVh3SFVBbTFBa1JCbUVGZDM0OVVrQkpQX3NOV1VnbEsxMmxkNGJvVVJtaS1Qd21FdnFDS2F6YVFGX1FUUTMtUGVTeEVpRFlselJYbDNFX3BSS2pYeUZXTFphdEV5UE8?oc=5",
-      "source": "InBusinessNews",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-07-09T07:30:38.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Easternmed Real Estate Capital: Kaaft 100% vun KanAm HoldCo Element S.a r.l. an Immobilien zu Lëtzebuerg kaaft",
-          "summary": ""
-        },
-        "en": {
-          "title": "Easternmed Real Estate Capital: Purchased 100% of KanAm HoldCo Element S.a r.l. and acquired property in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Easternmed Real Estate Capital : Achat de 100 % de KanAm HoldCo Element S.a r.l. et acquis un bien immobilier au Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Easternmed Real Estate Capital: 100 % von KanAm HoldCo Element S.a r.l. erworben und erworbene Immobilien in Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7bc8b2b8fe0839e84ff1d83aaeca0bd75e36f20b",
-      "title": "Sind Sie der Graf von Luxemburg?💃🏼\n\n#dorthekollo #60s #viral #foryou #schlager ",
-      "url": "https://www.tiktok.com/@tschelinoo/video/7660425706031090977",
-      "source": "@tschelinoo",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-07-09T07:24:15.000Z",
-      "summary": "",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/ocfIAJJB61hVEoiET3oi7CFBBUAmJIIPZ6TAAB~tplv-tiktokx-origin.image?dr=9636&x-expires=1783756800&x-signature=3xy%2BVb8%2FpzFPTKOEz3lmXtHrGHo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Are you the Count of Luxembourg?💃🏼",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Êtes-vous le comte de Luxembourg ?💃🏼",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Sidd Dir de Grof vu Lëtzebuerg?💃🏼",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "83d5d2f742ccc8ef972a0ba6e549476befb82316",
-      "title": "Air Dolomiti ha un E195 in AOG a Lussemburgo - Italiavola & Travel –",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON3UwS1IwSjZuRnkwLWEwOFlMZEV6NkZXOXNmWllIaXUwWVkzXzM1ek43dnBfMzZmYnBHdHVfNGtTODdTbjhqUjFnVmN0bm0ycVE0eWRBQUtrSng5Mk1xRHVnZWx0a3JiTjlIZnlaWGVuTHdpcFVwdE1iMFJLSXhGei1EYnM5dw?oc=5",
-      "source": "Italiavola &amp; Travel –",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-09T07:21:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Air Dolomiti dispose d'un E195 en AOG au Luxembourg - Italiavola & Travel –",
-          "summary": ""
-        },
-        "de": {
-          "title": "Air Dolomiti hat eine E195 in AOG in Luxemburg - Italiavola & Travel –",
-          "summary": ""
-        },
-        "en": {
-          "title": "Air Dolomiti has an E195 in AOG in Luxembourg - Italiavola & Travel –",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Air Dolomiti huet eng E195 zu AOG zu Lëtzebuerg - Italiavola & Travel -",
           "summary": ""
         }
       }
