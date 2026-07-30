@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-07-30T00:14:17.963Z",
+  "generatedAt": "2026-07-30T03:32:48.776Z",
   "items": [
+    {
+      "id": "65c02b35125df4aca2287fad757f76403a9b7af6",
+      "title": "WIADOMOŚĆ - Luksemburg uruchamia miliony dla przewoźników",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41ZEZWZzdmZVY2V3lUQnF6OWxEX1ZBNHIxMF82blNjSldPcDZBSzdTVF95MXhvWWpTZDlNTlQ5dFRoV1pkLXRKaE5pSGdEMHAzS2VqTWxIOUtpeWE0QWRQanBWRHkzMEk?oc=5",
+      "source": "Etransport",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-07-30T03:04:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "NACHRICHTEN – Luxemburg gibt Millionen für Spediteure frei",
+          "summary": ""
+        },
+        "en": {
+          "title": "NEWS - Luxembourg releases millions for carriers",
+          "summary": ""
+        },
+        "lb": {
+          "title": "NEWS - Lëtzebuerg freet Millioune fir Carrieren",
+          "summary": ""
+        },
+        "fr": {
+          "title": "ACTUALITÉ - Le Luxembourg débloque des millions pour les transporteurs",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fbfcadf8bd0a7140a9c751cd94fec129efa7017b",
+      "title": "Frustran envío a Luxemburgo de 1.643 botellas que contenían cocaína líquida",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeENuVFk1RFFKQy1Pd29UeHVJWWY5X0xSVlVadHNSSHhsR1VPM3czT2wzb3B3dEZSeUhWdVRzWjBtdTZOWmVJUkl5cU9jdzdOSUxCSVJvekVaMElyTk1fTHFvd29kV2NBMnlPQlhmTjBha2Z6a2kwY2JLdzFqdkItXzR1YXpGZ2RlZWx2ZDVaVjN2SE9XMDNfWnJCd1pwVlV6?oc=5",
+      "source": "eju.tv",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-30T01:59:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Ils empêchent l'expédition vers le Luxembourg de 1.643 bouteilles contenant de la cocaïne liquide",
+          "summary": ""
+        },
+        "en": {
+          "title": "They frustrate shipment to Luxembourg of 1,643 bottles containing liquid cocaine",
+          "summary": ""
+        },
+        "de": {
+          "title": "Sie verhindern den Versand von 1.643 Flaschen mit flüssigem Kokain nach Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Si frustréieren d'Sendung op Lëtzebuerg vun 1.643 Fläschen mat flëssege Kokain",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "d0b1f06b3332aece6e4bd930a7914e476f6520ca",
       "title": "Bank of Luxemburg führt Kernbankplattform NuPoint von CSI ein",
@@ -1080,6 +1146,39 @@
         },
         "de": {
           "title": "Criteo schließt Umzug nach Luxemburg ab – plant US-Umzug im Jahr 2027 von Investing.com",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9cf6786e32e8d9e63cd6cf21d89c6f723b792065",
+      "title": "كريتيو تُتم انتقالها إلى لوكسمبورغ وتخطط للتحول إلى الولايات المتحدة عام 2027",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1Tmt4Z05lcVdPYzJ0UExERVNMT1gxbS1sRGFvOW9QSWI1X3RPWV9icmFyVldiT1N5SDlsTU1aaEZVZ0JIQzJKMEV4ZVM0NDZUX1BmTjE2Zi1xSG5sbGVKY3lGd1dTM1ZQakJIc2FiMWM?oc=5",
+      "source": "sa.investing.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-07-29T10:06:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Criteo fäerdeg seng Plënneren op Lëtzebuerg a plangt 2027 an d'USA ze plënneren",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Criteo finalise son déménagement au Luxembourg et prévoit de s'installer aux États-Unis en 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Criteo completes its move to Luxembourg and plans to move to the United States in 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Criteo schließt seinen Umzug nach Luxemburg ab und plant, im Jahr 2027 in die Vereinigten Staaten zu ziehen",
           "summary": ""
         }
       }
@@ -14298,6 +14397,39 @@
         },
         "lb": {
           "title": "Brennstoffpräisser haut zu Lëtzebuerg: Dat kaschten den Diesel an de Bensin e Mëttwoch, den 22. Juli",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "feec5e4babced98230c002f310c01ea153bd6831",
+      "title": "França-Luxemburgo | Plantéis | UEFA Sub-17 2027",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6aTRlQ3FnSzJMY1RvQXU2NnpidlVrQzl6YmFyeUZEb0VUMlh2NlIyV2RIcHdseVVGX3d5UXZMZzdjNkVGLTIxU2p3LUZLNkZsZjRsUmlsd2paUWRWWWRxU255SVota3NaVlBPYW1GU25sOXhuX1B5bXVBVzk?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-22T10:55:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Frankreich-Luxemburg | Trupps | UEFA U17 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "France-Luxembourg | Escouades | UEFA U17 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "France-Luxembourg | Squads | UEFA U17 2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Frankräich-Lëtzebuerg | Kader | UEFA U17 2027",
           "summary": ""
         }
       }
@@ -47204,122 +47336,6 @@
         },
         "de": {
           "title": "Henri Leconte (63 Jahre): sein neues Leben in Luxemburg, zwischen Trainertätigkeit und seiner Leidenschaft für den Golfsport",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8dfb621aaeb33c8e4ee541abe09b875ef7737641",
-      "title": "Chinese investment in Luxembourg: navigating a new era of regulation",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUFHbVRIY3pkdUc2Ti1jOUlHXzE3dlZRdkE1WXNNZ2d3bkF4TThyUDhIYnJxSzJnNjJCQjh3SHJwY0FlQlMyeFdLNnNQSVlYck1SakQyTmFHa084dkdSd2ZTa1NPelRRWEJqb2ZRRGpNN0toRVUyZGRYRklZZDVuaVJ1REFyWWkzU3dNaGVoZzlmbnBCYzdodDZGVmNtem1VSmhlWm0wNFpMWWpRNm5IUzRQNXJjSlpIVTFIaGI2OE9zcUF6OXQ0?oc=5",
-      "source": "IFLR",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-08T14:00:56.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Chinesesch Investitiounen zu Lëtzebuerg: eng nei Ära vun der Reguléierung navigéieren",
-          "summary": ""
-        },
-        "de": {
-          "title": "Chinesische Investitionen in Luxemburg: Navigieren in einer neuen Ära der Regulierung",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Investissements chinois au Luxembourg : naviguer dans une nouvelle ère de réglementation",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "890b6ff0f174987bbfd3c8fc25a86612d8bc14d6",
-      "title": "10.000 Besucher tanzen: Jamiroquai in Luxemburg: Disco-Party, wilde Hüftschwünge und eine Trump-Parodie",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGV4bjhaZVF4dDRPemZyYnBUTHFfblVJdHJpRGUwYjY0bmZzUElMbVRRbVo2dlQyYTRxek5jclVVVWpINW9EVUJtcFZnQjRLVzMySWFnczFoS2pMUzZqVVpXNGg4RlBXRGdpZlNjQldwRWtpWW4yZ0taSURoZ0F0V1ZhbHpNVHdraDhEY1I5TjVIZXBsTXFoQ1QxSWF0a281bUhlcXBLMTVwcVhodXM0UE82UEFobFlv?oc=5",
-      "source": "Volksfreund",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-08T13:35:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "10.000 Visiteuren danzen: Jamiroquai zu Lëtzebuerg: Discoparty, wëll Hip Swings an Trump Parodie",
-          "summary": ""
-        },
-        "en": {
-          "title": "10,000 visitors dance: Jamiroquai in Luxembourg: disco party, wild hip swings and a Trump parody",
-          "summary": ""
-        },
-        "fr": {
-          "title": "10.000 visiteurs dansent : Jamiroquai au Luxembourg : soirée disco, swings hip endiablés et parodie de Trump",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bf2c96751021b24c77ca98fef3b9d6568a8be67b",
-      "title": "#luxembourg #fyp #foryou #creatorsearchinsights #itaharimuser ",
-      "url": "https://www.tiktok.com/@barsafuyal17/video/7660146446913637650",
-      "source": "@barsafuyal17",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-07-08T13:20:34.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0IjAeQcWiDolvGQCAeeLAA4I0QMUlnxDJnUnI~tplv-tiktokx-origin.image?dr=14575&x-expires=1783839600&x-signature=KzyFFUUtc4LnzDESEouKWZn8AEg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "#luxembourg #fyp #foryou #creatorsearchinsights #itaharimuser",
-          "summary": ""
-        },
-        "de": {
-          "title": "#luxembourg #fyp #foryou #creatorsearchinsights #itaharimuser",
-          "summary": ""
-        },
-        "lb": {
-          "title": "#luxembourg #fyp #foryou #creatorsearchinsights #itaharimuser",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e535d0fe46a9b28734b6167a44f38d48965d187b",
-      "title": "Konzert vor 9000 Musikfans: Jamiroquai übertreibt das Jammen in Luxemburg und nimmt Trump aufs Korn",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYUp1bGc2MW52WmowX0VJRUQyYVBZT0R3Q3dVTUQxd04tWW1TcUpDSEJXd29RVlJ1M1lpYW9CNFJwQ1V1S2ljalkxM1IzYU1QTEpqOFRHSjJNNXJ6QVhVZzVhWi1TZEh5UndHVXJYOVVPVjJKLV9lS3ZLSDdmdDYxRnljdjFQRjlMRm53aVh6NW9UNlVKLVJKX1hJRHZRT1ZydHA4Tjl2X0lVZ2VPbUhSX1BqbDNzMWhZ?oc=5",
-      "source": "Saarbrücker Zeitung",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-08T13:18:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Concert viru 9.000 Museksfans: Jamiroquai iwwerdriwwen de Jamming zu Lëtzebuerg a setzt sech op Trump",
-          "summary": ""
-        },
-        "en": {
-          "title": "Concert in front of 9,000 music fans: Jamiroquai exaggerates jamming in Luxembourg and takes aim at Trump",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Concert devant 9.000 fans de musique : Jamiroquai exagère le jam au Luxembourg et vise Trump",
           "summary": ""
         }
       }
