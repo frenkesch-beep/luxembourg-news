@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-31T15:29:34.722Z",
+  "generatedAt": "2026-07-31T17:53:15.640Z",
   "items": [
+    {
+      "id": "9373f71528a5ae657654304a5a4d1d75d48c2fed",
+      "title": "Luxembourg privacy watchdog sees delay in AI enforcement powers",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLW05akNQMk9GeEtKOF8ycmVucmxGOF9PaUx3c0JhZW9GaVdxSEhzWXJ0WHhqWnhJbHhKWFd6YlRJcGhIdzYxMmo3RUpYQXZLU1U5eU9jdkZ3YllqcFBlcTgtM3kzQ3NEaU00NjlRUzhmTHNFQjhFaERFUWtJTElyUU5vN1FvNVZVRFBEbGc4RXl0cFN3ZmpRS2VfQjYyXzZfMW1TMnhyMGZFQdIBWkFVX3lxTE50UFQtVm1Yc3BGWTF3S1l0dEZ1OF9YV1pGY2toSDBJV2YtUHpPV0ZaNlFoSFg1YkRiYTBJcnN5UVJncXVUQ05WWTQzZGNQNjUzTHZmUUUwRWZmZw?oc=5",
+      "source": "MLex",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-31T15:31:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerger Privatsphär Waachhond gesäit Verspéidung bei AI Duerchféierungsmuecht",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L’organisme luxembourgeois de surveillance de la vie privée constate un retard dans les pouvoirs d’application de l’IA",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der luxemburgische Datenschutzbeauftragte sieht eine Verzögerung bei den Befugnissen zur Durchsetzung von KI",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "37065ce431a0e707206cbcb8c75fd82f77c3084e",
       "title": "Luxemburg schlägt Euroscheine mit Gewehr und Panzer vor",
@@ -26,6 +55,39 @@
         },
         "fr": {
           "title": "Le Luxembourg propose des billets en euros avec un canon et un tank",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5211622f67a643a40b1a17af3553546eacbcd683",
+      "title": "Corte de Rota da TAP Gera Surpresa no Governo: Fim da Ligação Direta Porto-Luxemburgo Sob Crítica",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOemVyX1hTa3YxSnRCMjhHVmhVTVN6d1E0WXBFWTFYOUViTmN4Q0Z1VFBYRnpSSTRsVGpOcy1DVUZDRXc1VVNtVXcxb25FcGxNSkVZal9RalVJbFVnaWN3OWVWWi1lazBRRHB4MVdQaFdqLVJlSWhGVGQwc1ZtOFhzVVdSSXAtR3RKbkZXQlpSMWFjaF94eUd1RGZfU0pRbHBPQmJlTTZuRjZCWmVPMzk4elVwTFZhbHNXcGZpdUp3VERaVWJWdk12Rm5Hd2dzM3ZrVWozQXctWHM?oc=5",
+      "source": "Rádio Festival",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-31T14:35:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "de": {
+          "title": "Kürzung der TAP-Strecke sorgt für Überraschung bei der Regierung: Ende der Direktverbindung Porto-Luxemburg steht in der Kritik",
+          "summary": ""
+        },
+        "en": {
+          "title": "TAP Route Cut Generates Surprise for the Government: End of Direct Connection Porto-Luxembourg Under Criticism",
+          "summary": ""
+        },
+        "lb": {
+          "title": "TAP Route Cut generéiert Iwwerraschung fir d'Regierung: Enn vun der direkter Verbindung Porto-Lëtzebuerg ënner Kritik",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La coupure de la ligne TAP crée la surprise du gouvernement : la fin de la connexion directe Porto-Luxembourg critiquée",
           "summary": ""
         }
       }
@@ -176,6 +238,64 @@
       }
     },
     {
+      "id": "3b1ab8be349d13dcdac822d08a941555c1066e9c",
+      "title": "La Commission européenne salue la solidarité du Luxembourg avec la France dans la lutte contre les feux de forêt",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOanl1QVRzbk9qUm5zNS1Wa2hKYU1nd2p3VUlnNGRKTjVBWjJRZ3ZvU1dNUHQ4a2dkZDhfQVBSWkg2VmpHT1RCR2ZVeFFLNG9WN1BqeERFa3BGV3JZSlBsRExpeVJiSlBPWW9BRUVDcVljVXUyNm1fRWFaM3dqeXI3VlR3dG1qdEhTVDRmd0duU1N0QmlNdVc1bXhOZVNPX2ZtVzhKNDNEOWtSc3RLSUJGUEsxcmx3QVREU21INlRYTGpNS2J1T2RZcGoxSy0zSndzNDNDbDVjaGw4MldCREFsLXJtSDZ4NWlYMXhCSkczYUZtMjhzS0pNY3RiT0U3TjhBUGRtM3RxYkwzdXhfdnN6VFZoVkVyMlVvUFdBUG5QX0hZNkREclVHWTd2Wi1LeGIw?oc=5",
+      "source": "Représentation de la Commission Européenne au Luxembourg",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-31T12:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "eu"
+      ],
+      "translations": {
+        "en": {
+          "title": "The European Commission welcomes Luxembourg's solidarity with France in the fight against forest fires",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Europäische Kommission begrüßt die Solidarität Luxemburgs mit Frankreich im Kampf gegen Waldbrände",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Europäesch Kommissioun begréisst d'Solidaritéit vu Lëtzebuerg mat Frankräich am Kampf géint Bëschbränn",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7443812c5e133cc6f6c0a3d0053561e7bf97ff9e",
+      "title": "Le prix du diesel grimpe et frôle les 2 euros au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ3AzcFAzR3dyYk96R1NucHN1dDNtWGF4aUN1MEoxTWczUVpvYkk4anJLOVZuWl9yZnNOZDFlaVJfYW5yMGZsSXc5a2JYcExaajlFME9aNi1vd19zRWJoUXkwckNWczdFSkFWeUlack1DUWFlX0pseG9LemN3eE15OXJjM1RNVkRU?oc=5",
+      "source": "Lor'FM",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-31T11:16:13.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Den Dieselpräis klëmmt a läit bei 2 Euro zu Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Dieselpreis steigt und liegt in Luxemburg bei knapp 2 Euro",
+          "summary": ""
+        },
+        "en": {
+          "title": "The price of diesel climbs and is close to 2 euros in Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "b37dae5a3b995daf6b056e98eda46d9bba2cabfc",
       "title": "Drie kampen in Luxemburg vroegtijdig stopgezet vanwege schenden van regels brandpreventie",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTG5RQjhIeW41SG5fZUp2bEVZcjJZVDBNLXFZRklObTJPSkctMnZhRkFmeWEtUXJkUWdQNktpcGJtVXpPN0RnbjhfR2hiOWNtMHpvY3VOM3lfMU5iZTlveEVURV9BcXQ2NU0xZVkwakdCbDZzRS1VOHRIcmVBd1BJdGdPaXVqR2JFclhpSHhZV08xaWQ3VXhpNmw2aW1Td3g1U2Z5Z1JlS2hQVTN1M05lNUZ6WmQ1NkJhenNMZlAzOWxSYjFnT3g1eGxFTTFtNzVJVi1EcTVEVFY?oc=5",
@@ -275,6 +395,39 @@
       }
     },
     {
+      "id": "f8ba9e6dea30a3fdd6bc55bc6cbeb5204befdc74",
+      "title": "Galería de Casa Luxemburgo / Richard Meier & Partners - 1",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQNGM4MFBjaFF1Zi1jQm5JcEljcDZkaFFBOG44Q0I3dkNFRF8yUzNjeC0xWVpqOGhSdHhaXzJyLXlNeE9nTmFJWTE5WXRHSWk1NlpHVjFZVEhtajFnM0IyVjdtMmNEUEpvV3BjWE1Sc1lzU2l0c3JPRjN0OFhqS2dQR09ncklEc0hhT09iSVloSkZseUxhY2JYcmZPd21UZHFDVjd1MWRRME5Rb3dHOTlrWkE0MUlDdlVOVl8zSEhyYzdKaTk0eXdNRXI3TUJ2bTN2SmlXazNQNllsUm5pRlE2WTg0SXA1eXhNdjFPMWRrbEl5WEZ3V2xpLUUwWXAwMEJGd3Bkb0lQSmdxZkR6cHVDVC1lOXZWOHB6ckVfWTlTaw?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-31T09:41:21.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxembourg House Gallery / Richard Meier & Partners - 1",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de la Maison Luxembourg / Richard Meier & Partners - 1",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg House Gallery / Richard Meier & Partners - 1",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg House Gallery / Richard Meier & Partners - 1",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "600bfa3dd677fc594de4277344ded893b0c06659",
       "title": "Spritpreise Luxemburg heute: Diesel steigt um 7,7 Cent – Preise am 31. Juli 2026",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mWEZxbWVWdDBNTHdKbHJPQmU2RG00VnJybi03VHZRN1NZSkRVZVlrQ3BZdWRLUGZ4ZjhEWmlFa09FWjBlenZyRTJvdUZsMkVaOG9pSE1ibnlfdnJfckNyVEIybENjSFg1QVpNazJ6Zm1sX1dnbFVyc1hOMWxsRFU?oc=5",
@@ -361,6 +514,151 @@
         },
         "de": {
           "title": "Luxemburg hat den höchsten Mindestlohn in der EU. Bulgarien hat den niedrigsten Wert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "07c90f77140f2ee7e6e2040f226264eb8f25ccde",
+      "title": "Mike Gohlhausen (Luxembourg) - Stats de Basketball, Taille, Age",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RWRvRjhhSFpmSjlzQUdGSlByM3ZOdEtDYzFEc29PQkg0Qkh4UE0zb2dGZmJIald1VU5WY013M2g3bzRUcTI4RkhReHpjQzJWOEFkUVJTMjFFc1N1MjBZOUNubFFsRV91RWFzRHNn?oc=5",
+      "source": "FIBA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-31T08:41:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Mike Gohlhausen (Luxembourg) - Stats de Basketball, Taille, Age",
+          "summary": ""
+        },
+        "de": {
+          "title": "Mike Gohlhausen (Luxemburg) – Basketball-Statistiken, Taille, Alter",
+          "summary": ""
+        },
+        "en": {
+          "title": "Mike Gohlhausen (Luxembourg) - Basketball Stats, Waist, Age",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f051b5f0bf3a7057e75756458c3ace2aab2770db",
+      "title": "Nick Wallers (Luxembourg) - Stats de Basketball, Taille, Age",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZQkNFX1FZbUptd0FGN1J0RDhwRlJXZXhoaEgzazdjMjM5M3RJdEhYbW56MXptQU84SW5ya0JkdU9BZDNQODZNOHhWdFA5dlBiVTRhUjJkU1pnZWJSMjFIRkxDeEhDQ2UydEE?oc=5",
+      "source": "FIBA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-31T08:41:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Nick Wallers (Luxembourg) - Stats de Basketball, Taille, Age",
+          "summary": ""
+        },
+        "en": {
+          "title": "Nick Wallers (Luxembourg) - Basketball Stats, Height, Age",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nick Wallers (Luxemburg) – Basketball-Statistiken, Größe, Alter",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4ff7c5b32b873f0222ba730ad56f61adbe86068a",
+      "title": "Pol Elcheroth (Luxembourg) - Stats de Basketball, Taille, Age",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4eWJsZFlDZTFoSUlmYUxoZEswN1lNR3hRUnRuWHh1VEVwS18xNWRzai1DVU1CTFc0YnVNcmlhWkc5cFBTRUdRRWlrdGhHVGJqem4tazBSRFpialI2UG5DT2R5anpIQkFTTi1J?oc=5",
+      "source": "FIBA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-31T08:41:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Pol Elcheroth (Luxembourg) - Stats de Basketball, Taille, Age",
+          "summary": ""
+        },
+        "en": {
+          "title": "Pol Elcheroth (Luxembourg) - Basketball Stats, Waist, Age",
+          "summary": ""
+        },
+        "de": {
+          "title": "Pol Elcheroth (Luxemburg) – Basketball-Statistiken, Taille, Alter",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9f7890edf6f1d8ad5a4909347fa8ab5cdfef36bc",
+      "title": "Nik Lahure (Luxembourg) - Stats de Basketball, Taille, Age",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fTHdCbmVzYW41YWVERzJYZFZRbHdwVi12RF9jWkMtSHY3UVRuWVN1QTlyT1oza1NOT3ZjU3NTLWt5S3QxUVZrV2FWMzQxeUZkdXY0Qlp2bU1id0RpYTF3ZDRqRF85Z00?oc=5",
+      "source": "FIBA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-31T08:41:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Nik Lahure (Luxembourg) - Stats de Basketball, Taille, Age",
+          "summary": ""
+        },
+        "en": {
+          "title": "Nik Lahure (Luxembourg) - Basketball stats, height, age",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nik Lahure (Luxemburg) – Basketball-Statistiken, Größe, Alter",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "aff3f26f8241e00e6b7a48d96e5a44f9d57e54c7",
+      "title": "Finn Dondelinger (Luxembourg) - Stats de Basketball, Taille, Age",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52MVY2dV9sTEpJRWpoNndaQURnMW5QWjV1bGtSLVhONnZTMmVub2Y1Z3hZMUhRRGxDR0FQSXEtQzBfQklpVkM5UjY3MFI4T2pUdHBLN0YtNHBnMC14VEhUQkVHRDdvenZCbDZEVUFaVQ?oc=5",
+      "source": "FIBA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-31T08:41:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Finn Dondelinger (Luxembourg) - Stats de Basketball, Taille, Age",
+          "summary": ""
+        },
+        "en": {
+          "title": "Finn Dondelinger (Luxembourg) - Basketball Stats, Height, Age",
+          "summary": ""
+        },
+        "de": {
+          "title": "Finn Dondelinger (Luxemburg) – Basketball-Statistiken, Größe, Alter",
           "summary": ""
         }
       }
@@ -515,6 +813,39 @@
       }
     },
     {
+      "id": "705bfe515d9101652973eaaf09c149979cf97502",
+      "title": "Galería de Edificio de oficinas Luxemburgo-Kirchberg / Paul Bretz Architectes - 19",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOck9nbHpJMXZHSHdTdWF6UGZyUzNQUGVjbUF6M3BJVXlwdzlsOTk2UzdEVE5YamtneXQtM25QLW9HUGctUVlfaUhwbFRiSXpNTXZFX2xFLVY2bzF0b2R1em9YN2hiVWpJQklFUlowWmNrLWMzWS1Nczg4Yk1oSzhaQW41SU5WckFZMDFIYXdrdVBINU9Vb21aYXJEemVNSjc4UjU1MDBHUGZkLVNrLVhTb0RHQ2hubFNrWXBQNTh1Y1MxTndHYW9wd3k4azJPU2VBb094ejFDcC1sVTJpbUg1QmdRRDFjRDVHMENVVG02UExxWE1leWxDSUhfRVRZT2tOcDZXQXZQV1NOU2tVaFZhM2dSYk5LYlVTbmRFYVRUdmxSQQ?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-31T07:25:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie des Bâtiments d'Atelier Luxembourg-Kirchberg / Paul Bretz Architectes - 19",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Workshop Buildings Luxembourg-Kirchberg / Paul Bretz Architectes - 19",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie d'atelier Gebaier Luxembourg-Kirchberg / Paul Bretz Architectes - 19",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie der Werkstattgebäude Luxemburg-Kirchberg / Paul Bretz Architectes - 19",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "faa0e1331c8ca52a725b0a37d71d7465e0791c1c",
       "title": "Тьєррі Штайнметц — статистика 2008/2009 вища ліга Люксембург",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONGlQLWlEbVZxRUdGbi1PNUlFN255a2lkZG9RUk1rMDkxek5EWnYzRDNRbVZmdTByT3lvSGNfWjNmNk9mOG96Q1I5WFpDc185UnI1bk14cV9Bb3hFQUhqb2xBTks3eWF4VF95T3VvNEpKamoyblJMUzdJd043LXJud0JVSVVjcHlKTkFYWDNRY0pHVlE4TEZvMU1IVUVqc3RlbTRMZ0tkUQ?oc=5",
@@ -609,6 +940,39 @@
         },
         "fr": {
           "title": "La contribution de la Galerie du Luxembourg à la Biennale d'architecture de Venise 2025 explore les territoires à travers le son - 4",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fed8da0c8b91d983890c59c9606acc8dea921f97",
+      "title": "瑞銀(盧森堡)股票基金公司年度股東常會會議通知",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDY0Z3B1bGtxUHhZRFNYRjNqN0FOM2xMeS1URzAtUXVId24yWm95MThaQzBsVk4xMC1KeUZfLVgtTVU0RktrdnNiR0p5cnJPU1phdzdRbGNDdkkybVNzREVQUVF5UzNDdHlxU2VQODlWekwyZlMxTjdETW1mQzJZREJyWTcxZnpVNGR2S0dyZnYtUUs5VThFUjBVVlJnVG4yLXl3QlR3eThkY1E?oc=5",
+      "source": "ezfunds.com.tw",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-31T05:53:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Einladung zur Jahreshauptversammlung der Aktionäre der UBS (Luxembourg) Equity Fund Company",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Avis de convocation à l'Assemblée générale annuelle des actionnaires d'UBS (Luxembourg) Equity Fund Company",
+          "summary": ""
+        },
+        "en": {
+          "title": "Notice of Annual General Meeting of Shareholders of UBS (Luxembourg) Equity Fund Company",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Avis vun der Generalversammlung vun den Aktionäre vun der UBS (Luxembourg) Equity Fund Company",
           "summary": ""
         }
       }
@@ -729,6 +1093,39 @@
         },
         "lb": {
           "title": "Janis Leri - Statistiken zu Lëtzebuerg: Nationaldivisioun 2023/2024: wéivill Goler an Assists",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "408da1caeab584da425c8c958469bd122a3a7070",
+      "title": "João Carlos Ferreira Capela — статистика 2008/2009 вища ліга Люксембург",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbF9tVTQ1ZDVjQlJvTGtkdnJvaDRLQnVLdDNreVFxQzF5WDE0MDl1bzVPVHdSaDMyT3o0X2JBdThxaE4yMVVfLVRmQjJwTGJYenA2QWNBMEx2d1VOcHFIZGI1cVpfVWZuenBsMmUzYXd5WWtMdjhrVlJxSDJhRmRqRzlrZ1pkdmFHMGtBSEJwcldUazhTeU00ZXR4T2lPVnNnX3JGelgtSjE0WVh1R2dTS2pWZUY?oc=5",
+      "source": "ua.tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-07-31T03:06:40.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "João Carlos Ferreira Capela - statistiques 2008/2009 top league Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "João Carlos Ferreira Capela - Statistik 2008/2009 Topliga Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "João Carlos Ferreira Capela - statistics 2008/2009 top league Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "João Carlos Ferreira Capela - Statistiken 2008/2009 Top league Lëtzebuerg",
           "summary": ""
         }
       }
@@ -1689,6 +2086,39 @@
       }
     },
     {
+      "id": "457a402e28f0a12e85a89cce8cdf491dd516bd7a",
+      "title": "Galería de Centro de Aprendizaje de Luxemburgo / Valentiny Hvp Architects - 16",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPb1NHTmJGTjV2aFI5djdLR2RuLUltQUZPSFRTNzNOeFpQMmE3ZTRwSDJlWnNYN01ROU5oTFhZOVo3QTBLdkNNNlhtOUE5U2hzLUpLNUJMTkx6MVdGOEV5cFI5ZVh1Rk45NmhrYjFmY2NNVzlSUGpKZHh1NGlfZXdVVUNUbmpoUDV4c3hBS2U3YjZMWUYxbFJDVHdMVFp3NUFPR05jdmd5Tmd1Q0JHTllYYXBqckRxV2psSjFORkJiVTRkamMyS2lzUjNwNTBOUUpMNzJBNHJJMEdJX01tQ2U3NnE0VFRYX21nYTJub0t5cm0wd0txVkhXelRZbkpHa3IwdWNlT25R?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-30T12:48:20.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie des Luxembourg Learning Centre / Valentiny Hvp Architects - 16",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie du Luxembourg Learning Center / Valentiny Hvp Architects - 16",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Luxembourg Learning Center / Valentiny Hvp Architects - 16",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of Luxembourg Learning Centre / Valentiny Hvp Architects - 16",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "7b87741e1cbff70dd279f941f5536cdde9292704",
       "title": "Interreg: Volontariato IVY in Lussemburgo a tema collaborazione digitale per la sostenibilità",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZS0tYWVFVzVob3NyNjVyR2dJV2dpalpjbHV6THpMbU5hazFfSkpZUnFWSTFlT1pLNXVJR0MwX2JVQ253WEEwaFRfeFRUTW5abHNUTXFGTG1NaWFWbzhoSXVweDRxZXVybW0xQktQajNrRkRJTmxwN2ZEVmQyTzM3MlctNVRPcEY2ZWNhX2NZb0RreXNKVGVXeDdSSjU5X1BSX1NOMDQxNjV5WjBqVlZuSkFJSE03Q3BGMk1NdzZIbm45dw?oc=5",
@@ -1908,6 +2338,39 @@
         },
         "fr": {
           "title": "Criteo finalise son déménagement au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c6e9a04de055dce96e150b9174f77017d2de3d93",
+      "title": "Філіп Лебрен — статистика у Люксембург: Національний дивізіон 2008/2009: скільки голів та передач",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTNwLVZWajNSUFp6TE5zTGFJNnptZTl2MnJBWGRnUGlTWjByMlJ5UUN6V1FfZWtwSklMMlBTWkhCVC00eF9DUWg0UHR3aS1LRnZIODkwSnNLNWdjMVlrN1BSdEVsR3dQaFdjeWhPWTBpXy03TjJqWmFwdFQ5cDVwX1FPaW5VWV9UdWdfM2tpNER2cHFjTkJLS0g5MGo2VVZnMVVMMnFNcw?oc=5",
+      "source": "ua.tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-07-30T10:11:37.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Philippe Lebrun - Stats au Luxembourg : Division Nationale 2008/2009 : Combien de buts et de passes décisives",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Philippe Lebrun - Statistiken zu Lëtzebuerg: Nationaldivisioun 2008/2009: Wéivill Goler an Assists",
+          "summary": ""
+        },
+        "en": {
+          "title": "Philippe Lebrun - Stats in Luxembourg: National Division 2008/2009: How many goals and assists",
+          "summary": ""
+        },
+        "de": {
+          "title": "Philippe Lebrun - Statistiken in Luxemburg: Nationale Division 2008/2009: Wie viele Tore und Assists",
           "summary": ""
         }
       }
@@ -46866,467 +47329,6 @@
         },
         "lb": {
           "title": "#laurathorn|Ech hunn et gär. Ech mengen ...",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "49fee5698780739daa4618cb009de9a8073fba1d",
-      "title": "El Luxembourg Song Contest abre sus inscripciones para la edición de 2027",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xalpLN204VUIyY00wQmtpd1o3eW1YTnFZN0lKZW1NbFZxb3Voa3ZWYkJUeE52Qkc0MnJnQTN3REVrSFdVSGJoTHhIM0FJOVVVSEozRDE3eHZkZlFLekc5UHVWRFloTXZNek4xaU5UODhCRlRQZWZ0bGo3Vy0?oc=5",
-      "source": "Eurovision-Spain",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-09T16:23:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Der Luxembourg Song Contest öffnet seine Anmeldung für die Ausgabe 2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Luxembourg Song Contest mécht seng Umeldung fir d'Editioun 2027 op",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Luxembourg Song Contest opens its registration for the 2027 edition",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg Song Contest ouvre ses inscriptions pour l’édition 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e2f41d40141446e142f651e597bed54c2681a010",
-      "title": "++ TANKEN IN LUXEMBURG AKTUELL: Spritpreise für Benzinsorten steigen ++",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNOQ0NSaFZ2UnNDTGdZdXZ1Z2c1YTNYRTZqMFRYMFFjWGtzZFd4SWtaQ1NXekRnS2Z2eHdVS2RuMG5XNi1vQTRvSjdFVDdieWdiZWhBYTVCTWZQUXhNY3JNTEI2WjU2U3cwU2FfVTNUV0oxcmxUeXpvNkpvWkMtaUpxeTZKWF9RQ2JkdVRibW1sN0wtdllaMjRsS0hnamtsMENR?oc=5",
-      "source": "lokalo.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-09T16:05:16.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "++ REFUELING IN LUXEMBOURG CURRENTLY: Fuel prices for types of gasoline are rising ++",
-          "summary": ""
-        },
-        "lb": {
-          "title": "++ BEZUELT A LËTZEBUERG AKTUELL: D'Präisser fir Benzinarten klammen ++",
-          "summary": ""
-        },
-        "fr": {
-          "title": "++ RAVITAILLEMENT AU LUXEMBOURG ACTUELLEMENT : Les prix des carburants pour les types d'essence sont en hausse ++",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a4f652a2af92d480b81b933bd11a339b574075a0",
-      "title": "Aktueller Überblick: Spritpreise in Luxemburg steigen am Freitag an",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3I2bEk5dkIxTWdOOVMtN2hFb29OVHVwMG56SDhBNWhTTnhrOGZTd1lVb1VmUmZPbVV2a3RqUFZhY3RoRVktX2FjN2Z6WUxrZlF3MGZTTVhSOWRfb2pXR0NsU3p6aE9fazltUTQwM1ZBUVhFTEVTRXdkNVNRXzJBcTdoUUt1VXIwWE9nNldHWmVrZWxyUXotMG5sUXh6c1dDMVVOV0dB?oc=5",
-      "source": "Volksfreund",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-09T16:04:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Current overview: Fuel prices in Luxembourg will rise on Friday",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Aktuellen Iwwerbléck: De Bensinpräisser zu Lëtzebuerg klammen um Freideg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Aperçu actuel : les prix des carburants au Luxembourg augmenteront vendredi",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "76fb98616a4a0612e236092b4de5939f47b10445",
-      "title": "لوكسمبورغ: تعليق مهام موظفين في إدارة الهجرة على خلفية شبكة احتيال في ملفات الإقامة",
-      "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxQRWZ2ZFRkVU13ZHNaLUI0TWFrQ1FkU3NPanZOdlJFcGRrVzNpZzJLRmFVUHFlSjhqVURwcVNtemtPX1c4OG53Q1AwTDktbjBVT1VMQ1dTdDBEa2IyeGVoM1ZKbXdtQ2tKT1ZtdUtnUll0YVQ1OHM1UThGUGFhakhDOV9sajM1Q2F2YVNnUU5LNWF2TWtXdGdhV3NwbzBhY2MwMTlIM2ZpYS1DWUQ3YTJFMkxCMG1PUnRodVU2Z3JlbTMzVHB1ZUwzSXRCWXBHbktFMi15djVMdTVER29ieFFINkg3Y25NRnZuOUtYQzM3U2xncmQzeFlnZ1M4bDBaY2Yyb0Z0ZklWOTVlTzAwMXJuVWhYUXRYbldreEU0bERCZzEwR3I2RlN6dFo0OTl3YzUzYmJiVzBNRnctcGc0WTgxdzd0cldjWmtjZV9NWGNHcWVkZkhIczRyNjFIMDZ3a1Z2N21BQVJMTENYS0FpVjd4eG5KaF9jczVpUzk3LU5YdUVyNGJnM3E5VnZ6N1gyZ2V1MVpnSWp0a1d6RmN6ZHVFbGVsWlpRZzZ4aEpvRmFhTVBiNTdZNko1em5qaWdXNXhnM1VkVDVrUGlfNWxBblg3UHN4VXF5TTFXYjk3eU9hY0hLRndaUWJMZzZJNUZaQXpxemZ6U3o2TnA0SWRUOWlRQ2FkbHowUmdZRzVSc2wwRy1QX1NVZllOcDhGRHJ1Q1V4bEI4MWVkZ251Y0dZRmVTOVhWUE01TmVlUVA0TkJHdXNTcmgwS24yeEgzMUc1UkpkLWY0MUVENFlnUWN3U3pNa1VNVlhVckRpNWJzZU9JU0R3bmVkT0IxdFJ6cnhmWTRDcDlWMTZrSnRCN1VoVXNJ?oc=5",
-      "source": "InfoMigrants",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-07-09T15:59:28.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg: Aussetzung der Aufgaben von Mitarbeitern der Einwanderungsbehörde aufgrund eines betrügerischen Netzwerks in Aufenthaltsakten",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg: Ophiewe vun de Flichte vun de Salariéen am Immigratiounsministère wéinst betrügeresche Reseau a Residenzdateien",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg: Suspending the duties of employees in the Immigration Department due to a fraudulent network in residency files",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg : suspension des fonctions d'employés du ministère de l'Immigration en raison d'un réseau frauduleux dans les dossiers de résidence",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f1f79a8c21367c941b50af10dad5b48356fcfe34",
-      "title": "Luxemburgo apoya a la OIM para impulsar el uso responsable de la inteligencia artificial en la acción humanitaria",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTW5aR0V0dy1nXzlSYk5faUxEQzRHNkRQM2lXS01vRHYxZUFSOGNySDBEdEkzR2FiMnZUbHl5SEx5WVRjUU1OR2NqNFdXSDdKMTJTaFhyMVBYMDg3dExwYmZNUXl6N2xueTJxaEd0MnBWcmhHcGc5LWhpOVB0eUJVTm9JVC02UmtMM2IwWGRqejl3RjYzMERSMkUybnhQQTFsRmtUOGJMUzhTdVhWUFBXOEFyUzMwVGUwT3dZaUZaS0FOLTVlcG1vWUhsNGF1VzR0ZERyaDN3?oc=5",
-      "source": "International Organization for Migration",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-09T15:39:16.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture",
-        "tech"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Luxembourg soutient l’OIM pour promouvoir l’utilisation responsable de l’intelligence artificielle dans l’action humanitaire",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg unterstützt IOM dabei, den verantwortungsvollen Einsatz künstlicher Intelligenz bei humanitären Einsätzen zu fördern",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg supports IOM to promote the responsible use of artificial intelligence in humanitarian action",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg ënnerstëtzt IOM fir de verantwortleche Gebrauch vu kënschtlecher Intelligenz an der humanitärer Aktioun ze förderen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "de58d066086e073d4bfc16e07eb2d1cbd19ad233",
-      "title": "Lenny Kravitz a Lussemburgo: due ore di rock, soul e funk con il carisma di un artista senza tempo",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV2ZHaDhUOXVOZ1VDYVNtTWU5RjZ2VXlaanU3UTFKbEpVMnZJczRielQxXy05UGtJTHFQdUZORkxJWjc0NEQ2cnpURFAtQl9LZGlQMEpKTkpQTTJNTEtRVDg3SnMzMk90LTJmbmFXQnlfV2UzS0FaLTIwRnlqM1VpZ3dKTQ?oc=5",
-      "source": "fattitaliani.it",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-09T15:30:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lenny Kravitz zu Lëtzebuerg: zwou Stonne Rock, Soul a Funk mam Charisma vun engem zäitlosen Artist",
-          "summary": ""
-        },
-        "en": {
-          "title": "Lenny Kravitz in Luxembourg: two hours of rock, soul and funk with the charisma of a timeless artist",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Lenny Kravitz au Luxembourg : deux heures de rock, soul et funk avec le charisme d'un artiste intemporel",
-          "summary": ""
-        },
-        "de": {
-          "title": "Lenny Kravitz in Luxemburg: zwei Stunden Rock, Soul und Funk mit dem Charisma eines zeitlosen Künstlers",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5bee49ed73c23fe5851a2ac35fc2504922acfeac",
-      "title": "Au Luxembourg, un réseau de titres de séjours frauduleux à la Direction générale de l'immigration",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOME9PS0phZXdKbTA3dFA2OGxrU2R1VDB1YkZPWndSaEdGRWFEUDNWOHNnU3VaRzVkZUVwOHJ3d3B6MmI3SlBYQmhPeXJYZWgtdml2YUx1NW4xbWgySVVkWWdEQ3ZaZmJkSGUxdFItZlcwOVl1ZUZwX1gxcXRtTHlTLXZWOXFWUDdMbXNrY3RjeWplQVpKVDVYMWdiWC01V3haVFZGRFVKTjBTOE5ydGRPcGFHMVk5c1VxNXdvVlFORU5seVdCQ29DMVJQcE5qQjdWSzdjag?oc=5",
-      "source": "InfoMigrants",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-09T15:25:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Zu Lëtzebuerg, en Netz vu betrügereschen Openthaltserlaabnes bei der Generaldirektioun vun der Immigratioun",
-          "summary": ""
-        },
-        "de": {
-          "title": "In Luxemburg gibt es ein Netzwerk betrügerischer Aufenthaltsgenehmigungen bei der Generaldirektion Einwanderung",
-          "summary": ""
-        },
-        "en": {
-          "title": "In Luxembourg, a network of fraudulent residence permits at the General Directorate of Immigration",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2a27551715caa0f27978f5d6fff6f7527f27bdba",
-      "title": "🇱🇺 Luxembourg: Luxembourg Song Contest 2027 Application Windows Open",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUlQ1M1AydzVFOFRPZXlaR3JrRDJmcjAzUkxtV2kzLVU5aUd5X3F2U0t3VjIteTJBMlZrMUpKd1pBREkzWTJtZEl2Y210TUhYT1pOMzc0TllETElTb0FsZDd4XzY0OV9JdDJZVTc4LU5PVkJZaGdyR2dIMUlMVFFGWmJqTWIxYXRKRDVHMG1VRkdyVDNOclQtOWtIeHZMUQ?oc=5",
-      "source": "Eurovoix",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-09T15:12:39.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "🇱🇺 Luxembourg: Luxembourg Song Contest 2027 Application Windows Open",
-          "summary": ""
-        },
-        "de": {
-          "title": "🇱🇺 Luxemburg: Bewerbungsfenster für den Luxembourg Song Contest 2027 geöffnet",
-          "summary": ""
-        },
-        "fr": {
-          "title": "🇱🇺 Luxembourg : Application Luxembourg Song Contest 2027 Windows Ouvert",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5156d097fb385c5d39a170d44047f8b48d06aa79",
-      "title": "Pourquoi certains Lorrains jettent-ils l’éponge avec le Luxembourg ?",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTnR4SklhZnBYZFBnMlIyQkJodXVtZ1lFNS13ajlEQ3NfalpjMk9zbXBOakN6TmtrV3poZkhmTy1UMmdxTlVTaXhleDJmQVowc1psM2J2LW9yaHkxa2xFc0F3TUMteFEyTThqYVd2eGpsNWhnMWg5UEVfcjNhSGtJd3lLc1lfaldacE1PcUdmWkVfTjlIdzVsckhMWDJ6Y09iTmxleUZ3?oc=5",
-      "source": "La Semaine",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-09T15:12:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Why are some people from Lorraine throwing in the towel with Luxembourg?",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Firwat geheien e puer Leit aus der Lorraine mat Lëtzebuerg d'Handduch?",
-          "summary": ""
-        },
-        "de": {
-          "title": "Warum werfen einige Lothringer mit Luxemburg das Handtuch?",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d829f29ec5d3b3dff02cf195afedc05f9f3e5b23",
-      "title": "Le Luxembourg soutient l’OIM pour faire progresser l’utilisation responsable de l’intelligence artificielle au service de l’action humanitaire",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYzdZbkV1WVBJRnFXdUdXejBaelBtaXJlNkFpb2o0c0lHSkNvdHItMEp6UHFJRXQ4TzRGYzBFbGdJc3dNOFpucmNnQlVKSkw0MHJ3cFk1cTJGa3hZdFJzc0tfaFI0ajdpSUc5OXZqV3l4SDQ0Wlg5U1hjNWozUGxyd1I1V19YLWlfclA0dFg5RVRvQkhMQjF5Wk9SYUJqc0kyeW5xNmM1Q1dja294bVBJdmV5c0VCLXNHQ3R1eEIzcEJiRV9Ga01XeDBkY0dwM1YtdDlTaWtPTnRNVlhWQlNUelM2SnVIYjdVSUIzc0pVMVBuMkFFMDUzOXd3?oc=5",
-      "source": "International Organization for Migration",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-09T15:09:24.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture",
-        "tech"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg ënnerstëtzt den IOM fir de verantwortleche Gebrauch vu kënschtlecher Intelligenz fir humanitär Aktioun ze förderen",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg unterstützt die IOM dabei, den verantwortungsvollen Einsatz künstlicher Intelligenz für humanitäre Maßnahmen voranzutreiben",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg supports the IOM to advance the responsible use of artificial intelligence for humanitarian action",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "44496d57504941657944fc184be72e2caff4b637",
-      "title": "15-05-20 Πίνακες μοριοδότησης εκπαιδευτικών για απόσπαση στα Ευρωπαϊκά σχολεία Λουξεμβούργο Ι και Βρυξέλλες ΙΙΙ",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeDJWN01KQUdYaGlVeldqSENua3I1OXNvaGx4US1keHBrZ2ViaVhJWnV2SnVTWjRTc1hZNEQ4ekdTNVZtTHhrcm1TRDVXek1jRm1XNzliamZpQVpDOUt2S2JTOFRJUi1tUVk2aHFQWnYycXNzM05qcm5WMGIxeERQcGViOHBJeHBObWFyWmtFTmxnVUhLdTQ4YVI5MWNRZm5kbi1YY1M3SFl5S2N5WHRjMm05c1BwanBQbEhXdkRMM21NU2hGd0NQNTZfelRnZ21ZeVd5bW5ZVnhsU2JKSGxtUk1ES0tuM01IYklubThQWWlaV2V3NV9XRUVPNFl6RTFLd2ZDVDZiYk4?oc=5",
-      "source": "υπουργειο παιδειας",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-07-09T15:08:25.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "15.05.20 Notentabellen für Lehrkräfte für die Entsendung an die Europaschulen Luxemburg I und Brüssel III",
-          "summary": ""
-        },
-        "en": {
-          "title": "05-15-20 Teacher grading tables for secondment to European schools Luxembourg I and Brussels III",
-          "summary": ""
-        },
-        "lb": {
-          "title": "05-15-20 Enseignant-Bewäertungstabelle fir den Detachement an Europaschoulen Lëtzebuerg I a Bréissel III",
-          "summary": ""
-        },
-        "fr": {
-          "title": "15-05-20 Tableaux de notation des enseignants détachés dans les écoles européennes Luxembourg I et Bruxelles III",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ec09360bb7137215c37c1f4469dd9af680179ca6",
-      "title": "طرد معلمة عربية في لوكسمبورغ بسبب موقفها من غـ .ـزة.. وهذا ما فعله طلابها!",
-      "url": "https://www.youtube.com/watch?v=cl9Mqdacnr4",
-      "source": "دينيز تركيا / Turkey Deniz",
-      "sourceCountry": "",
-      "type": "video",
-      "lang": "ar",
-      "publishedAt": "2026-07-09T15:02:29.351Z",
-      "summary": "",
-      "imageUrl": "https://i.ytimg.com/vi/cl9Mqdacnr4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaZF-3QvhE7TlJbqWIdARJZb3riw",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Eine arabische Lehrerin wurde in Luxemburg wegen ihrer Haltung gegenüber Gaza ausgewiesen ... und genau das taten ihre Schüler!",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Une enseignante arabe a été expulsée du Luxembourg à cause de ses positions sur Gaza... et c'est ce qu'ont fait ses élèves !",
-          "summary": ""
-        },
-        "en": {
-          "title": "An Arab teacher was expelled in Luxembourg because of her stance on Gaza...and this is what her students did!",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Eng arabesch Schoulmeeschterin gouf zu Lëtzebuerg wéinst hirer Haltung zu Gaza ausgewisen...an dat hunn hir Schüler gemaach!",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fc29182c44c585b145645b2301bb0271ac274b41",
-      "title": "Luxembourg Backs IOM to Advance Responsible AI for Humanitarian Response",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSENCa2lRWDhjemlYS1MwaTlEbnBza1hGWTd4YXlaekx3R3ZYQTJNLURHT2NrRlllQUpla0dXOXdTcGgycXl2UXpuazFGRHNSYjJSVjJFWS1XNUk0aF80cjJWbFpIWGF3TjBYejRFME5Cd3E0SHZBdGZQTXNGYmwxUm9peVhJa254MUxpWENQMzJKNmhL?oc=5",
-      "source": "International Organization for Migration",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-09T14:53:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "tech"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg ënnerstëtzt IOM fir Responsabel AI fir humanitär Äntwert ze förderen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg soutient l’OIM pour promouvoir une IA responsable pour la réponse humanitaire",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg unterstützt IOM bei der Förderung verantwortungsvoller KI für humanitäre Hilfe",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a4d813f4d3d92b77ec2902ed9d4e5dbf6b7f2397",
-      "title": "Luxembourg Supports IOM in Advancing AI for Aid",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ1p1MnVDQzF6YXFKMEJyNmttNFFPX0ZqZXRjYUlmRGxWYUNNclB1M01nUzFES2lKZG5Cb0tIeEY4a3VTU3QyZ1JFSlVycUNwbm5zcVBYS2g0VExrSERiUHVtZ0phTHNPX3ZiQ3hsRlZMeV9xajhZR2V0ZjJDTzBfNV84dDVzLWFmeGRr?oc=5",
-      "source": "Mirage News",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-09T14:48:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "tech"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg ënnerstëtzt IOM beim Fortschrëtt AI fir Hëllef",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg soutient l’OIM dans la promotion de l’IA au service de l’aide",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg unterstützt IOM bei der Weiterentwicklung von KI für Entwicklungshilfe",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "920ac2bab895d246584670246571db7c8471f21c",
-      "title": "Ces lorrains ont choisis le luxembourg... pour le meilleur et pour le pire",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWR4dWhOLUZJMlZoWFZJeUJ3dlktNDZFWWxLRWRRVUhaVWxuSXNPYjd3X29UaWQ4ZGtEZFNUVWh0N0o0c3JnODUxbEpmd0x6cWNzVHdkRndLZWJxZEplNnBGTm1lZmFxR00ydi1GVVRBdkhCRG9YaDdfalRoWEw0eUM5Q25mSTc2VzVrMEJtVkNfT1FaUVVWZk84NklfUmhHLXdUTWtEQndwYUlUM0E?oc=5",
-      "source": "La Semaine",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-09T14:42:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Dës Leit aus der Loutrengen hunn Lëtzebuerg gewielt... fir besser a schlecht",
-          "summary": ""
-        },
-        "en": {
-          "title": "These people from Lorraine have chosen Luxembourg... for better and for worse",
-          "summary": ""
-        },
-        "de": {
-          "title": "Diese Lothringer haben sich für Luxemburg entschieden... im Guten wie im Schlechten",
           "summary": ""
         }
       }
