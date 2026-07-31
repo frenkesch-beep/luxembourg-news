@@ -1,6 +1,93 @@
 {
-  "generatedAt": "2026-07-31T03:54:51.271Z",
+  "generatedAt": "2026-07-31T07:14:41.204Z",
   "items": [
+    {
+      "id": "a9483466e3ec277c8af10dfdd507ead0dc56f89d",
+      "title": "Macédoine du Nord-Luxembourg | Moins de 17 ans féminines 2027",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHJHaHhXT3dUaHRZR3Bqbkl6bENBM19rdnFfaXhlalFfLVVJYm93cEducXhWaGZKS3BNX203dHFJclFtdkthUjJyRkhqMGo5U2RXMHZqeXJuV0dnazFFRlRnZGNnNGtrNjdxdkRKMEJULXdZbExadVptRU1ZUTJOeTNSdmxTQQ?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-31T04:34:35.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "North Macedonia-Luxembourg | Women's under-17s 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nordmazedonien-Luxemburg | Frauen unter 17 Jahren 2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nord Mazedonien-Lëtzebuerg | Fraen ënner 17 Joer 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "09374b0322c0b8491b563dcebe7d03f3d5695973",
+      "title": "Luxembourg-Géorgie | Moins de 17 ans féminines 2027",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MVWE4MHBOWmxJRjl4ZDYwcldRazZmQV9EVk9sVDVkVmYzRERiQ3lKb2VmWGxhMDhQTjJhV2R0Tm1MMzROY1FvNndKRmJ6UmZ3UFFhRW5jeS1FSnZHN2R2RlRBSW9iamxMb3prbEthTDhqMWFGRUJrNmZUUQ?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-31T04:34:35.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg-Georgien | Fraen ënner 17 Joer 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg-Georgia | Women's under-17s 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg-Georgien | Frauen unter 17 Jahren 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c41534690ace1db42fa570803c073b7cae7912e4",
+      "title": "Enquête. Allemagne, Belgique, Luxembourg, Lorraine... Malgré le contexte, le prix du panier de courses en baisse",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHc5TndITmxmTmdMejhrZl9fOUdqc293ZkZ1U3ZpbWFKdnZZdkh5TE0zMlJCVjEyVnp5UnJ0MWhTdHc3NHFxcm85cHNsTW5EMkNTcVdzYm5oNWw5YU9mNUtDSVlDRnRlY0VUVUNhSzl1ZGlIeUlJS2JjcGFMd1lCTGNYRlpnU1RsVUcyWF9SWGlQM0VJRm80VzRxbk8tMlJ0ajl0S0w2ay1RUmNDOHZXNFRvSEcxMC1Scjh1dENVYnh4R2NNY1NyWWg1d2JUSlU?oc=5",
+      "source": "Le Republicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-31T04:30:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Investigation. Germany, Belgium, Luxembourg, Lorraine... Despite the context, the price of the shopping basket is falling",
+          "summary": ""
+        },
+        "de": {
+          "title": "Untersuchung. Deutschland, Belgien, Luxemburg, Lothringen... Ungeachtet des Kontexts sinkt der Preis des Warenkorbs",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Enquête. Däitschland, Belsch, Lëtzebuerg, Lorraine... Trotz dem Kontext fällt de Präis vum Akafskuerf",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "404c1bf5ea6bea2c47d477fe10435e509a63dc5b",
       "title": "Ποδόσφαιρο: Λουξεμβούργο - Λευκορωσία",
@@ -47214,98 +47301,6 @@
         },
         "en": {
           "title": "Luxembourg | Long legal dispute over player agent: What the ECJ says",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "dafd191512ef301abb948d8cffa4df6c9012cc26",
-      "title": "Luxembourg and IUCN launch third phase of pioneering Blue Natural Capital Financing Facility, putting coastal communities at its heart",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0ZfbWtCT2hBR251dFdlaEZ1eE9EaGdVblhfRkhpX0JaMUhOZWZfb3lZWG5zX25PVjJ2OWRaUVIzX19fcTh4NTZ6WmU0SHlqNkVkT1RaVWFrcXlDenFqbFVkVVYxMU5VQU43Tl9abUdIOW5abXhhZkpmRU00Nk5fR2tzNW1xZE1laENEN19uRmdUR3pUY3VjRVRtTUxiSVkxcXp0cmJWQlRld1J3?oc=5",
-      "source": "International Union for Conservation of Nature",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-09T09:11:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg an IUCN lancéiere drëtt Phas vun der Pionéierer Blue Natural Capital Financing Facility, déi Küstgemeinschaften am Häerz setzen",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg und IUCN starten die dritte Phase der bahnbrechenden Blue Natural Capital Financing Facility, bei der die Küstengemeinden im Mittelpunkt stehen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg et l’UICN lancent la troisième phase du Mécanisme pionnier de financement du capital naturel bleu, plaçant les communautés côtières au cœur",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "18d96349567678005154cb7d685c75b6d23883c4",
-      "title": "Luxembourg Introduces New Stock Option Tax Rules And An Innovative Start-up Incentive Regime",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV3FYeWdQMVBpMGhQVlp2Nl9BNmVXS3FLOHpvcVA3NU13MTlFX1RvV3NiVTJPVk5wMXpmeEYwVVRLWjVPZVBRSVY3YlZONWx2akktcy01ZUw3OWhDRXEyN1FOSGdnREVQOGljXzdSaUJHSDRsRzVOS2NHNldFaGppWXh3NjMxcHA4UW82cGpfSWZhdXFwc0FvVjRPcnBSMi16Y21lS0FMdEZ4b0c4UEZtN3VmSWMwWkRGTDhNcEpMNjFYYUhBWktVblRuVmxSQkk?oc=5",
-      "source": "Mondaq",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-09T09:11:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance",
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg stellt nei Stock Option Tax Regelen an en innovativen Start-up Incentive Regime vir",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg führt neue Steuervorschriften für Aktienoptionen und ein innovatives Startup-Anreizsystem ein",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg introduit de nouvelles règles fiscales sur les options d’achat d’actions et un régime innovant d’incitation aux start-up",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fefbb7bd1cce40244d675e042a1a6b47f2a3d042",
-      "title": "Sparì nel nulla dopo una rapina in tabaccheria: rintracciato e arrestato in Lussemburgo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3c3a3NoVXJic01VN0MybVBLVFVLMXUzTWp5UUpxQ1N6SFkxOG82ZElBX25zT0cwamJnTWQ4M2F4NzBBa0xtVElRU3RjRFpyaDdnTDc2NlpmRHlLWmMtUTQ3OVVIRDVFU1VRdm91UzNZVkM0cVpUcmk1MmtFQjNldzc5cE1YT3VRZzJoWnFEanFFRlBreVlGQjNZRDV1OXg0MURXMVNzMNIBrAFBVV95cUxNRV9uMzBYRzcxODJHOG9LMU8yM01Lc0c5ZHZyOWV0QVV2UFE1VVZaR2g3VmZ3SkJ4c1ROSGU1YWM3R3dlb2VubFoyc2U4bFBMd21LT2lScjBNMHNGSlVrT1M1dTlZTGpyRjI4V0pESGJ0ZnNONXpYd193SHVjdmlOU3VWLWM3OHNja2c1S01mOFZPeXRSVjI2X2xYZUFmWEhaQzFadEFJdEdoMG1U?oc=5",
-      "source": "Quotidiano Di Puglia",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-09T09:05:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Hie verschwonnen no engem Tubaksgeschäft iwwerfall an d'Loft verschwonnen: zu Lëtzebuerg verhaft a verhaft",
-          "summary": ""
-        },
-        "de": {
-          "title": "Nach einem Raubüberfall auf einen Tabakladen löste er sich in Luft auf: Er wurde in Luxemburg aufgespürt und festgenommen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Il a disparu dans les airs après un braquage dans un bureau de tabac : retrouvé et arrêté au Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "He disappeared into thin air after a tobacco shop robbery: tracked down and arrested in Luxembourg",
           "summary": ""
         }
       }
