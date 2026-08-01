@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-01T06:41:18.079Z",
+  "generatedAt": "2026-08-01T09:21:46.422Z",
   "items": [
+    {
+      "id": "6b01eb3dda69e7c5dc92d3d8b2c3025e4522b7c7",
+      "title": "Als Grenzgänger in Luxemburg arbeiten: Lohnt es sich wirklich?",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm9XallZWTFYR3NyOFpGbm1pWkZHaVhGelJxOTk3MnlYUW9zcmJINUdkUUtHbXRIMlpfT3ZJTDFmTG1VOG1ySFZyVGhSN2g5RjlhWW4yWS15Z0ZndUdHb1p2MGpUWHY1VU03R05acFZoT2lGal9XQUdyVnk4TzBlUWNMeXphY25LY3Ayd1FKcWRTWlFKVDFYdWZ0VjZJSHN4VFlwLW5YdW5IZXdSVHc?oc=5",
+      "source": "SOL.DE",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-01T06:43:12.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Working as a cross-border commuter in Luxembourg: is it really worth it?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Travailler comme frontalier au Luxembourg : est-ce que ça vaut vraiment le coup ?",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Als Grenzpendler zu Lëtzebuerg schaffen: lount et sech wierklech?",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "91847e95fa5bf4a60d875e4e4adee1bf54409eb3",
       "title": "Patrimoine. Luxembourg : ce village classé parmi les 20 plus beaux d'Europe par le magazine Géo",
@@ -3623,6 +3652,39 @@
         },
         "fr": {
           "title": "Joao Thiago Teixeira - statistiques au Luxembourg: Division Nationale 2021/2022 : combien de buts et de passes décisives",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ca6eecb2d72dfdd2c964e354369d8b4fd138fde7",
+      "title": "Väderprognos 10 dygn Differdange, Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHZxQUhFcFFzdjZibmxNd0VydjRYTUNudU9yOEh2ZERWMjNfaC1heUZtTmtYREgzR2hjR0tYS3VMYmhGS1pMQXlWOEIxTkRtQ3VHc1hpZks1cmVGOFZaMWtNbGFhTEJlMm9sM1RFbnJtaVo3MGc1VFppVmxEb1JIdEI2Sk95UW9FUHVrVg?oc=5",
+      "source": "SMHI",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-07-30T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Wiederprevisioune fir 10 Deeg Déifferdeng, Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Wettervorhersage für 10 Tage Differdingen, Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Weather forecast 10 days Differdange, Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prévision météo 10 jours Differdange, Luxembourg",
           "summary": ""
         }
       }
@@ -24881,6 +24943,35 @@
         },
         "de": {
           "title": "So kaufen Sie Kyo Finance (KYO) online mit einer Kreditkarte in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f60cde845404e4a2abf6ee8668c07f47718f4209",
+      "title": "Leonora Carrington : l'exposition au Musée du Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDhxUDk2aFF1YW1DdGlLaEI3cUhyaWdNZE9BcVk0NU5Kb0tvWVAzaDdJdVBsM3FvNXJOcmNOMU00bVE2R1Bpb2NWcC1mUDV4V2xLZXFvYmhTSjVLME5qWUhwZGFON0xnOE5xM19hYVF4V2o1ZTEwNmJVNHdsV3U1eWlISWRsN0t6RDl1QmR0Qm5uUUdzdHd4VjV3?oc=5",
+      "source": "Sénat",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-19T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Leonora Carrington : l'exposition au Musée du Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Leonora Carrington: the exhibition at the Musée du Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Leonora Carrington: die Ausstellung im Musée du Luxembourg",
           "summary": ""
         }
       }
@@ -47282,101 +47373,6 @@
         "fr": {
           "title": "27 pronostics pour le match Suisse - Luxembourg U20 10 juillet 2026",
           "summary": ""
-        }
-      }
-    },
-    {
-      "id": "789b1a24464488231c87ac7e7d00bb3464d7c4c3",
-      "title": "画廊 卢森堡国家图书馆 / Bolles + Wilson + WW+ architektur + management - 15",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNc0doT2NUa0YzRUhnLXYwdU41VkpoQl9OLS1nTTdreU5sYnVxMi10aW5CUDQ3RC1od3ZfQlpRMGJsbEQ1TS1UVEtkQlRnekNYU1VtLXRLVDVBa1ZvM181X0htWk1IaEVtSThmWnBnanBoSDdBeXRRODd1RkRXQXdXbTNxVWZlU0xDd1BjeTZ5dXNxSE5YTGZ5YkhwQ05zWmE3TGdqWm9ESHFXNVJwSnFDY1dtemRKdHdBNGlWX1ZqRTZLWU5JYmh4U1BKdE5fb0U2dkNPSjhCRGR0M0hlY3RXVnZhdnZ1M0FkLWxEbUtuRzZGV0o2WS1nTmlUYmhYTFFfWVJqZGhVc1RVV293UlNhMmlxWWhqclVUV2E5TjhiNll6Tjg3VE9RRXBBLURqdEg3Tm5uTDJraFd2SEJNV0Exd3I1WmtmNnlKY1J6LXRoQktBWUNNSV9jRHFYNkg1bUEydnRn?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-10T06:54:44.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 15",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 15",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie de la Bibliothèque Nationale du Luxembourg / Bolles + Wilson + WW+ architektur + management - 15",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie der Nationalbibliothek Luxemburg / Bolles + Wilson + WW+ Architektur + Management - 15",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5a08854e94855d79e1d5067165621b612a875ab8",
-      "title": "Galería de Puerto Libre de Luxemburgo / Atelier d'Architecture 3BM3 - 2",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTkR0LUZGazFzcEhEUDRXTmZsdWE2ektEdkZncDJKMVZNTWhZdzRjbEllclRjM3dxZ2U4Skk1ajRfamVUdlhwZUFhVGRsUVdQY3ZrWnkwZjBqOFBteGRXNE0yNGwyMTVSbXMxTG9fb0ZCTFZsNl9fcnhCYmNyXzFXTTRKZ3lEYlFYcXNseW1YNVFMa08wdDloa1pURzZHUmdQSjlFeVhpNGQzNVhZUWxGZFRZaHpJS2ZzUGVuUnpOeUUwbjlRSUpEaERaNzg3cTlnYWZwTjJBOVQtZmU5M1dr?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-10T06:46:20.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 2",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie du Port Franc de Luxembourg / Atelier d'Architecture 3BM3 - 2",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 2",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie des Freihafens Luxemburg / Atelier d'Architecture 3BM3 - 2",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7cf3e884674f3ce9b3d64222720a7dc6970937cb",
-      "title": "🌍 Au muncit în Luxemburg și Germania câte trei și șase luni, dar au revenit acasă fără niciun ban. Vorbim despre câțiva locuitori ai raionului Căușeni care, ac",
-      "url": "https://www.tiktok.com/@tvcauseni.studio_l/video/7660778416077163798",
-      "source": "@tvcauseni.studio_l",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-07-10T06:13:09.000Z",
-      "summary": "🌍 Au muncit în Luxemburg și Germania câte trei și șase luni, dar au revenit acasă fără niciun ban. Vorbim despre câțiva locuitori ai raionului Căușeni care, acum un an, ar fi plecat la muncă peste hotare în domeniul construcțiilor, însă persoana care trebuia să le achite salariile i-ar fi hrănit doar cu promisiuni.",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oMvQkMaPzLB5lYpAICBNsZjA6iAAlBCiIEXAs~tplv-tiktokx-origin.image?dr=9636&x-expires=1783868400&x-signature=Loo4P9aRQpFK7QgvvGnMw0olTGU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "tech"
-      ],
-      "translations": {
-        "en": {
-          "title": "🌍 They worked in Luxembourg and Germany for three and six months each, but returned home without any money. We are talking about some residents of Căușeni district who, ac",
-          "summary": "🌍 They worked in Luxembourg and Germany for three and six months each, but returned home without any money. We are talking about several residents of Căușeni district who, a year ago, would have gone to work abroad in the field of"
-        },
-        "fr": {
-          "title": "🌍 Ils ont travaillé au Luxembourg et en Allemagne pendant trois et six mois chacun, mais sont rentrés chez eux sans argent. Nous parlons de certains habitants du district de Căușeni qui, ac",
-          "summary": "🌍 Ils ont travaillé au Luxembourg et en Allemagne pendant trois et six mois chacun, mais sont rentrés chez eux sans argent. Il s'agit de plusieurs habitants du district de Căușeni qui, il y a un an, seraient partis travailler à l'étranger dans le domaine de"
-        },
-        "lb": {
-          "title": "🌍 Si hunn all dräi a sechs Méint zu Lëtzebuerg an Däitschland geschafft, si sinn awer ouni Suen heem komm. Mir schwätzen iwwer e puer Awunner vum Căușeni Distrikt, déi, ac",
-          "summary": "🌍 Si hunn all dräi a sechs Méint zu Lëtzebuerg an Däitschland geschafft, si sinn awer ouni Suen heem komm. Mir schwätzen iwwer e puer Awunner vum Căușeni Distrikt, déi virun engem Joer am Ausland am Beräich vun der Aarbecht gaang wieren."
         }
       }
     },
