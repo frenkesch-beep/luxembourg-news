@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-01T00:13:52.178Z",
+  "generatedAt": "2026-08-01T03:52:54.038Z",
   "items": [
+    {
+      "id": "cb32a5fa42b4e083bd38d26f64f64ba95a4f3e7e",
+      "title": "Alt eSIM 盧森堡 3 日 無限數據 售 US$2.3",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aaFJoS3k3MjdHX3YxU01mX0EyMHhlcUNzUGVjOU5uRjl2Nk95VDNRa1dCR3dMMTRZX25aMjB3SVE5cGF6TXFoQ2wtUGhSRTJzVGdmVEJoMVU?oc=5",
+      "source": "Techritual",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-01T00:26:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Alt eSIM Luxembourg 3 jours de données illimitées pour 2,3 $ US",
+          "summary": ""
+        },
+        "en": {
+          "title": "Alt eSIM Luxembourg 3 days unlimited data for US$2.3",
+          "summary": ""
+        },
+        "de": {
+          "title": "Alt eSIM Luxembourg 3 Tage unbegrenztes Datenvolumen für 2,3 US-Dollar",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Alt eSIM Luxembourg 3 Deeg onlimitéiert Daten fir US $ 2,3",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "6c4c827c00d262059baf3e76a95559dd954bb2e9",
       "title": "穆迪確認盧森堡AAA評級，引用財政實力為依據 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
@@ -418,6 +451,39 @@
         },
         "lb": {
           "title": "Mortsel Scoutsgrupp muss de Camp zu Lëtzebuerg verloossen, nodeems d'Feierregele verstouss hunn: \"Feierwierk a Wee vun den Téiliichter\"",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "24ea5172fe0f3881bbd2e74692f609b831beca61",
+      "title": "André Oliveira Barros da Silva — статистика 2023/2024 вища ліга Люксембург",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3hjYmNreXRzaTdyNjFpanJVSWoyek5mMWNiT2lvRFc0VkM2YnJlN3ZiSDlYLXFrdkJ0a0RjRDNzV012N3owUGs0bmVlZkVHLU9URHhSU0VaNlVIOGZ1dU8xeG9Fdm1lNEZxcmJPcVhVcC1ZU091dlZEbFlQMXhRQ25PRG5jMmhXTDBSbnZuWmNnNkZVRjUzRnl5b0U0bXlVQnI4Y2VOOGpha1VLRGU2dW95dFlWNWx3?oc=5",
+      "source": "ua.tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-07-31T15:47:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "André Oliveira Barros da Silva - Statistiken 2023/2024 Top league Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "André Oliveira Barros da Silva - statistics 2023/2024 top league Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "André Oliveira Barros da Silva - Statistik 2023/2024 Topliga Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "André Oliveira Barros da Silva - statistiques 2023/2024 top league Luxembourg",
           "summary": ""
         }
       }
@@ -2481,6 +2547,39 @@
       }
     },
     {
+      "id": "5c77e137461745ba3196224a6a65fb3548d0cff1",
+      "title": "Чемпионат Люксембурга по футболу — 10 Тур 2026/2027",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjZ3bUlOMFVuVDlTUmNMbG9TSHJ3VmM4U2Y1M0s4WFZzWmtkSzJBc0p2SERJX1lqUU1GV2dSWm4ySjZwd1hKUFdKbTcxNFdSZ3Nnd2p6NTJFY0gtMXJlSktEX0NfYWtnU1lpc3JzZ2xWUUtiQVI1anpzRFdDV1dCZk5nR3AxVndQaGJPdF9UdW5KNWZvNjVKMkJn?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-30T16:35:29.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerger Fussball Championnat - 10. Ronn 2026/2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Football Championship - 10th Round 2026/2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburgische Fußballmeisterschaft – 10. Runde 2026/2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Championnat du Luxembourg de Football - 10ème Tour 2026/2027",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "fca7bcb8ff3b556f2c8639d9a00d6df20e29dea8",
       "title": "Sonata One announces Luxembourg office",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yN3V1MUlMSWFZSkZ3R2FGVHJtTUFlbEhTM1hTbF9TeHFyZmZ3ZjhtQjFWeFJ5SlVKQU9SUW9sUjQtZ0UwbEl4Z3p5S1RncS1QVzYxVHJHRzc1LWlTeUozSjhEVHphRFFTcHYyVkVVWmJOZw?oc=5",
@@ -3064,6 +3163,39 @@
         },
         "lb": {
           "title": "Clayton de Souza - Statistiken zu Lëtzebuerg: Nationaldivisioun 2008/2009: wéivill Goler an Assists",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ce53e5ae1615b6f1c529dd647994091ac241a206",
+      "title": "Wiltz, Diekirch, Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3YTNOZmk5NE1IS1BiNlpUV0puOTFpLU5BVGoycjBBaWVWV28zdjB5SGxHcGpkdVppTzUtQURtSTB6V3BRcmRLVzlZem1zVmlRMjlHV0U3ak5sRzhPenpRRFczaUR3Yk9xd3c?oc=5",
+      "source": "MSN",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-07-30T11:09:57.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Wiltz, Diekirch, Luxemburg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Wiltz, Diekirch, Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Wiltz, Diekirch, Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Wiltz, Diekirch, Luxembourg",
           "summary": ""
         }
       }
@@ -6222,6 +6354,39 @@
         },
         "lb": {
           "title": "D'Lëtzebuerger Bibliothéik ass op Héichwarnung fir éierlech Insekt déi seng Bicher menacéiert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "089a590208769993310f1c61ebbba080de066824",
+      "title": "廣達(2382)擬發行全球存託股票籌資最高22億美元 將於盧森堡掛牌",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QY2dFWXZEeEdRQ3Bld2FQVHJsVmhTQ1lDSlFNN2s2LXVLMnlLUVU2cHRIblFBOGpqMDB6RkNnV1JvQk1TNnR2ZFUxRHpoQkE?oc=5",
+      "source": "news.cnyes.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-29T07:00:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Quanta (2382) plant die Ausgabe von Global Depositary Shares zur Beschaffung von bis zu 2,2 Milliarden US-Dollar und wird in Luxemburg notiert",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Quanta (2382) prévoit d'émettre des actions de dépositaire mondial pour lever jusqu'à 2,2 milliards de dollars américains et sera cotée au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Quanta (2382) plans to issue global depositary shares to raise up to US$2.2 billion and will list in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Quanta (2382) plangt global Depotaktien auszeginn fir bis zu 2,2 Milliarden US Dollar ze sammelen a wäert zu Lëtzebuerg oplëschten",
           "summary": ""
         }
       }
@@ -47211,161 +47376,6 @@
         },
         "fr": {
           "title": "[Dongducheon 24 Hours] Le Musée de la liberté, de la défense et de la paix de la ville de Dongducheon inaugure une exposition spéciale marquant le 75e anniversaire de la participation du Luxembourg à la guerre de Corée",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f9def6e050f743587ca0b450e0bf14b1d890187b",
-      "title": "Saarland bringt Luxemburger Spritpreismodell in Bundesrat ein",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWtWUlFualplMVY5dUllYlFhZDBDUjR3N1BCSXQxcEVfY0VwdU4wUlJ3SU9oTEZIUDVGSWlwZEN0Mm0wUDBScl9aWXBxa2xac2pEYUVETWVwV3Z5cnFLQUdQak1UbkJobVQ4LVpmNExDSzBSdTUxWW9OcFFCc1d6aEhzMEpGVi1GcXczMkVrVjFuOTFyLW9SYmVQZWZDZw?oc=5",
-      "source": "Presse Augsburg",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-10T05:44:01.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Saarland introduces Luxembourg fuel price model to Federal Council",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Saarland stellt de Lëtzebuerger Brennstoffpräismodell dem Bundesrot vir",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La Sarre présente le modèle luxembourgeois des prix des carburants au Conseil fédéral",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3667d19952b9bf9624dff85375ae63944ec33be1",
-      "title": "画廊 2020世博会卢森堡馆竞赛由 Metaform + The Space Factory 胜出 - 2",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQWjlOZmJqZjhheklHbVRUZDM0eElockYybEJrc0JKUmZCemdiSXB3a2g4Rm9BMHJ4OGxqZHdjcjA4NlNsb1N3OGxoTVVtY3BoM3U5UV9Pa3FzY2piZU9NTE1pVkxrbThNMjRKdE1jWTVZNHR1V194UU1QQWdMdXNkR2t4N2tES0pyMUtVQTJreUVDeDh6bk1PTWVyeC1FcElVVVhvVkFkSWxFcmx4STVTcDl5NmRuZkNNRVpGcDZvRGMxcjJ3dFFEWTVzQ0RhRkhoNFJMLTIwaU1lWjNITzRPN1l3Q1ljS193Y3BNamhXWUVIZE1neG5qVXhUYmhZZ1AyemliTzI4QjFIQkRjOVMybUxEaDZnVGlsV0VzTFZrUENCS2FpMExlRHNqbHJmbDhUdEFCVkVJdlFhdGNBSkhWeHRKSHRCa1QzWTJYMEtmZE13OHQxWEc3QnE0a0hRZ01nUFh6TzJ2REp2REpuc2dz?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-10T05:42:13.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "tech"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Gallery of Metaform + The Space Factory Win Concours fir de Lëtzebuerger Pavillon op der Expo 2020 - 2",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of Metaform + The Space Factory Win Competition for Luxembourg Pavilion at Expo 2020 - 2",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie von Metaform + The Space Factory gewinnen Wettbewerb für Luxemburg-Pavillon auf der Expo 2020 – 2",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie de Metaform + The Space Factory remportent le concours pour le pavillon luxembourgeois à l'Expo 2020 - 2",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b5b5efd87f8558aaad7b450f69600cc1789c6e5e",
-      "title": "Productividad en Ecuador: ¿Por qué trabajamos más horas pero producimos menos? El caso Ecuador vs. Luxemburgo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRDUyeW82c0VsdEFlUW4wMkJuTlAyMV93bFN2SkMwWXA1VllQeTlObDU3WVp4Yk41eGU3c3Z5YjVGSExFcHp4YVVONEZiN0pOUkVJV0twbTdtWnR2RGpRWmwxYlJ6Z05Qblg5Y3ROSnFsNGw0WURhMkdoVmNuWHhmMnkxZ3c4SkFrT3VIRnFUazBGbGtqajZrdDhrTVh3TUl2aTd3RjkwWl9TUE1FclZBZUJBZV9abGV1Rnc2TzJSbHAyeTdPWWZDT0ZCX1oyQ0U2ejNXV1VPUFBNSUQtQ1hqN1RlRW02Z2M?oc=5",
-      "source": "Diario La Hora",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-10T05:40:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Produktivitéit am Ecuador: Firwat schaffe mir méi Stonnen awer produzéiere manner? De Fall Ecuador vs Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Productivity in Ecuador: Why do we work more hours but produce less? The case of Ecuador vs. Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Produktivität in Ecuador: Warum arbeiten wir mehr Stunden, produzieren aber weniger? Der Fall Ecuador vs. Luxemburg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Productivité en Équateur : Pourquoi travaillons-nous plus d'heures mais produisons-nous moins ? Le cas de l’Équateur contre le Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0e1e10b8ffdf9668b406f1f84051e1452e6c2a5e",
-      "title": "Modern Pearls in Paris for the Grand Duchess of Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2xiV0pELW12TmhyelVFWHpYbHI1aXZsVzduN2FZMkkybERWc2VYNVdYQ0Fual9TMDBfYXlMTDJjU3JQR3lXRWs1MUw0NXFUb0N2Wkx1UkFuckl6LWw3QmdLTEZDdExXdkdNcklfTkpERF9obzB5dGV0MnRueGVTVlFkbk1kLVRUNUdqOFFzbEQ4UFRkd0x4UVcxQ0JNaDZXV0xmNWlHaw?oc=5",
-      "source": "The Court Jeweller",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-10T05:00:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Modern Pärel zu Paräis fir d'Groussherzogin vu Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Perles modernes à Paris pour la Grande-Duchesse de Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Moderne Perlen in Paris für die Großherzogin von Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c0740c550683b4f76c7c04391153c2e2591414f4",
-      "title": "Belgium Aligns with Netherlands, Luxembourg, Germany and More Western European Countries Promoting Travel with Cultural Folk Festivities Appealing to International Tourists to Explore Ghent, Bruges, Antwerp, Brussels and Others As Ten-Day City Celebr",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlWldMX3BJOW00Qmd0bVNIRzZPTndjRFIyNjF5dDlfRkZlUENER3YxblU4NlJ2ZTNyWG1tVFdHdGRCR2NwTl9YeWljVFl1eXRQV2xCTnUzWlpTQnhHTm9CVVNuVFYwYW92VGNhSFB3?oc=5",
-      "source": "Travel And Tour World",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-10T04:33:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "eu",
-        "culture",
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Belsch alignéiert sech mat Holland, Lëtzebuerg, Däitschland a méi westeuropäesch Länner Promotioun Reesen mat kulturellen Volleksfestlechkeeten Appel un international Touristen fir Gent, Bruges, Antwerpen, Bréissel an Aner ze entdecken als Zéng Deeg Stadsfeier",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La Belgique s'aligne sur les Pays-Bas, le Luxembourg, l'Allemagne et d'autres pays d'Europe occidentale pour promouvoir les voyages avec des festivités culturelles folkloriques invitant les touristes internationaux à explorer Gand, Bruges, Anvers, Bruxelles et d'autres à l'occasion des dix jours de célébration de la ville.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Belgien schließt sich den Niederlanden, Luxemburg, Deutschland und weiteren westeuropäischen Ländern an und fördert das Reisen mit kulturellen Volksfesten, die internationale Touristen dazu anregen, Gent, Brügge, Antwerpen, Brüssel und andere als zehntägige Stadtfeierlichkeiten zu erkunden",
           "summary": ""
         }
       }
