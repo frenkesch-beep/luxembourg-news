@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-01T15:20:52.879Z",
+  "generatedAt": "2026-08-01T17:16:36.256Z",
   "items": [
+    {
+      "id": "e14073c790f088beadcab56d250de8e99381c405",
+      "title": "Cidadania: Advogado alerta para a possível “trappola” em Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTRlUXN6QzJpQ2RSNWJTQWdvQ1FrcVZZaUtTNGYzeXlLalFMeGNFV0RZZ0JYbFptSTItR0ZNR2R4S3hyOXAxeHE3NU5pRHJoTjJweU5maUdYNjc1VkFneHdZaW93OFdULVZLSWJjSEtNU2wxSUVmeHZaRlFQRThSM2FSZ1FOdk12TmI3djZEM0xESUluSHNZ?oc=5",
+      "source": "Revista Insieme",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-08-01T15:21:38.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Staatsbiergerschaft: Affekot warnt viru méiglecher Trappola zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Citizenship: Lawyer warns of possible “trappola” in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Citoyenneté : un avocat met en garde contre une possible « trappola » au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Staatsbürgerschaft: Anwalt warnt vor möglicher „Trappola“ in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "e9999ac9339bb5e22bf47da760220e76b4fc99a8",
       "title": "Luxemburgo terá de responder à pergunta que a Corte italiana evitou",
@@ -637,6 +670,39 @@
         },
         "fr": {
           "title": "Moody's maintient la note AAA du Luxembourg en raison de sa santé financière",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f53caef6f63dbddb88019304b52195ad227deecd",
+      "title": "穆迪确认卢森堡AAA主权信用评级，财政实力获肯定 提供者 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54SmpSWEc1cm1mbnBjalFGMUVlVzhwdEloLWdlOVVXakVEUTNVd0dlemRSU1o4NDE0RHFfQ2Z6TXlrbEplczVmT09iLWZmZndjS1hUWkVjeG1SbEs3Q1FrNVAwNE8tRGg0ZVZGc2VB?oc=5",
+      "source": "英为财情 Investing.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-31T20:53:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Moody's confirme la notation de crédit souverain du Luxembourg AAA, confirmant ainsi sa solidité financière Fourni par Investing.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Moody's confirms Luxembourg's AAA sovereign credit rating, confirming financial strength Provided by Investing.com",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Moody's bestätegt d'Lëtzebuerger AAA souverän Kredittbewäertung, bestätegt finanziell Stäerkt Provided by Investing.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Moody's bestätigt das AAA-Rating für die Staatsanleihe Luxemburgs und bestätigt damit seine Finanzstärke. Zur Verfügung gestellt von Investing.com",
           "summary": ""
         }
       }
@@ -47320,64 +47386,6 @@
         },
         "fr": {
           "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + direction - 12",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3f1571f8a3b87e270315bedd75b09ed597714a73",
-      "title": "Luxembourg Backs IOM to Advance Responsible AI for Humanitarian",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQckd2cmZlaURES040QXI4amRFS0ZjYkJvUEdSOTZUNk9pMzBZSF9UcFE3U2lUSGU4NU9uRXh2NW00MG8wTzNOLWVIREY1VGJBb005T3k4elBmSzhNeFVwdmlDQlE4X3c0Z2gzNG55cFVKYTZYdnhmOEdZdzlYX3JrQmZjeFU0U1U4OWdxckVvU2RnT1Jj?oc=5",
-      "source": "International Organization for Migration",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-10T08:50:46.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "tech"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg unterstützt IOM bei der Förderung verantwortungsvoller KI für humanitäre Hilfe",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg soutient l’OIM pour promouvoir une IA responsable au service de l’humanitaire",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg ënnerstëtzt IOM fir Verantwortlech AI fir Humanitär ze förderen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "39189786d4e883427cb426de2aa746caa5a51364",
-      "title": "Spritpreise Luxemburg heute: Benzinpreise steigen kräftig – Das kosten Diesel und Super am Freitag, 10. Juli 2026",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeVhYY3drcUN6Nm81MG5LdWJTTjNCNzFtN0dFaUN2WVhuWjZpblk0NE1ra0QxMFVKMGRWTXRoT0Q2WTdEOEczaGNEbmFvSG1SR1FVOHNzT3dsQXdXNVdCZ1dxQTlPWm8yUmw1blN5eU5Mc2ppblJ2WWwzRkdZY2RzR283Tk9EUlE0MElqRm9JdVdVQjFXMDZZZUNGOF9wVV9DZDZCRE4yMXVGTGhKQkFNS0E5ekV4VjFYMGN5VG5PZzlrYmxoVTBXNVNXX3NUMERtOXFFLWlHWTFiNXM?oc=5",
-      "source": "lokalo.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-10T08:12:07.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Brennstoffpräisser haut zu Lëtzebuerg: De Bensinpräis geet staark an d’Luucht – dat kascht den Diesel a Super Freides, den 10. Juli 2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Prix ​​des carburants aujourd’hui au Luxembourg : les prix de l’essence augmentent fortement – ​​voici ce que coûteront le diesel et le super le vendredi 10 juillet 2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "Fuel prices in Luxembourg today: Petrol prices are rising sharply – this is what diesel and super will cost on Friday, July 10, 2026",
           "summary": ""
         }
       }
