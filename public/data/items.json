@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T00:13:37.368Z",
+  "generatedAt": "2026-08-02T03:56:07.312Z",
   "items": [
     {
       "id": "06e15b44f6b7d55bbe4a7726e2f36eff52d242a4",
@@ -349,6 +349,39 @@
       }
     },
     {
+      "id": "c5e0bb0641be11efd1e05f5110da3a9a01afb9af",
+      "title": "Omar Muhovic — статистика у Люксембург: Національний дивізіон 2016/2017: скільки голів та передач",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTy1tYk5CQnRxMUV3b0VuYmhqenBvYUl5NkM0SnVBZjFFOUJGWnBXaHMwMjl1Q3F3VERYWTBBa0tBRk1wU3JtRVQxUFVMUTlqUUdLaGh2anJRT3VWX3N4Zi1Wdm11UklRaG1RRWFBdVZEOVNqcEdldkZHa2FvbEJIX0xWeDhkYkU3Zl9fRVNPWTVNRVJJVWlZd29oaERLTmo1?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-01T11:54:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Omar Muhovic – Statistik in Luxemburg: National Division 2016/2017: wie viele Tore und Assists",
+          "summary": ""
+        },
+        "en": {
+          "title": "Omar Muhovic - statistics in Luxembourg: National Division 2016/2017: how many goals and assists",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Omar Muhovic - statistiques au Luxembourg : Division Nationale 2016/2017 : combien de buts et de passes décisives",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Omar Muhovic - Statistiken zu Lëtzebuerg: Nationaldivisioun 2016/2017: wéivill Goler an Assists",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "df342d03d3af68fe74e0db219c7c964b80c78ee8",
       "title": "Patrice Kabuya — статистика у Люксембург: Національний дивізіон 2024/2025: скільки голів та передач",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRU9mb2FuRjlGX3BfNnlHNUxyejFHck5jUEdvZnJGSHZaeVY2OWZTM1pTZ0gwYUU0NzBWSWNBVlNWa1F1b25hc1NKaFdtMXljWkh2ZDJvWk5lcVJVMlJoNE1iRGgzeDZfOXFRVXhhdVVfNnQ4X0JxYXpnLXVueHA4RHowUnlVbDVJcHItc0dqUklyX0ZfWUh0ekFRZnFvVkF1alRnZnJTdTBfTkdKWEZpVWhMYVB0V28?oc=5",
@@ -406,6 +439,39 @@
         },
         "lb": {
           "title": "Den Ënnerscheed ass méi wéi 30 Cent: Dat kaschten elo Bensin an Diesel zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6be656977124a3aca545f25460bd897ab54b9add",
+      "title": "Portugal slår Luxemburg i den historiska 9-0-vinsten i Algarve",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX0tvNTdhTW5yOWdLMlUtMHBXdzZEY1NkSS1kUEVnYW1SS3RnbXV0aGpsZzF3Rzl5bUlBU1NWaUVEWmZqLUVuMGE1Q0J5eGZzMUNQdW1WYldKeVIxdWJDVGtfTEpRSUtYS1RybVVxa19wYmdtX19FWHlhVHhMYlFZN0E4ajlzREdOTEh2VFJUQWxqM0REUlB5YlZDTGQ?oc=5",
+      "source": "Portugal Resident",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-08-01T08:59:35.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Portugal a battu le Luxembourg lors d'une victoire historique 9-0 en Algarve",
+          "summary": ""
+        },
+        "en": {
+          "title": "Portugal beat Luxembourg in historic 9-0 win in Algarve",
+          "summary": ""
+        },
+        "de": {
+          "title": "Portugal besiegte Luxemburg beim historischen 9:0-Sieg an der Algarve",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Portugal klappt Lëtzebuerg an der historescher 9-0 Victoire zu Algarve",
           "summary": ""
         }
       }
@@ -47336,68 +47402,6 @@
         },
         "lb": {
           "title": "La Voie Bleue iwwerhëlt déi europäesch Kroun: siwenhonnert Kilometer frësch Waasser tëscht Lëtzebuerg a Lyon",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "52f4c8a570281e8d2fa28e53ecb1cf0a4b6543f5",
-      "title": "Stadler EURO6000 primește autorizare de operare în Belgia și Luxemburg, consolidând coridorul feroviar North Sea–Mediterranean",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50cWZDMkg5dVplY1BNdHpPQmZHd09hdW5xaDNGQjRXREkyTHRlTmJOUF84Vmc1ZG5INl9YSlhEaXFtSDdkUVV0b2taWWd0OXJOcDEzMTZMaXhxVi1aLTdtSGVoVjBRamFuVE1n?oc=5",
-      "source": "Mobilitate.eu",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-10T11:43:12.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Stadler EURO6000 erhält die Genehmigung für den Betrieb in Belgien und Luxemburg und stärkt damit den Nordsee-Mittelmeer-Eisenbahnkorridor",
-          "summary": ""
-        },
-        "en": {
-          "title": "Stadler EURO6000 receives authorization to operate in Belgium and Luxembourg, strengthening the North Sea–Mediterranean rail corridor",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Stadler EURO6000 kritt Autorisatioun fir an der Belsch a Lëtzebuerg ze bedreiwen, fir den Nordsee-Mëttelmier Eisebunnskorridor ze stäerken",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Stadler EURO6000 reçoit l'autorisation d'opérer en Belgique et au Luxembourg, renforçant ainsi le corridor ferroviaire Mer du Nord-Méditerranée",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6c6fe8a0bc1c014c2796e7f3a6d305e17f9f8253",
-      "title": "Luxemburg/Brüssel: Ungarn tritt EU-Staatsanwaltschaft bei - Fördergelder frei",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdU1NMnFZOXRJMVFoVW1CUFZGLVNZa05MeUIwX2dOSXI3N3QwV0Q1V2VvUFBhRjFDQ0RLRGFRVi1uTFNrUEZySG1PWGUtQjd3c2RCNGZmVWQtMlQyX000OC1qQ2JHVVBYVTdFSkZMQnlBYXVXZ0dMajJHTk9XcE9WQnFic1JwajNTUmFqUzRhTWVTV1lrODB2bFFwdlFIOEdqcWUxVi1R?oc=5",
-      "source": "Kleine Zeitung",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-10T11:22:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "eu"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg/Brussels: Hungary joins EU public prosecutor's office - funding released",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg/Bréissel: Ungarn trëtt bei de Parquet vun der EU - Finanzéierung fräi",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg/Bruxelles : la Hongrie rejoint le parquet européen - financement débloqué",
           "summary": ""
         }
       }
