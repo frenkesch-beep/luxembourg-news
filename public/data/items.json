@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-08-02T03:56:07.312Z",
+  "generatedAt": "2026-08-02T06:45:58.335Z",
   "items": [
+    {
+      "id": "15e80474bb09c73160c7d5098f64a24bf1b8d619",
+      "title": "« Limiter la mendicité » : à Luxembourg-ville, 20 personnes invitées à quitter les lieux dans plusieurs rues",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb1BzN3VmSU5NbnlMcnA0QlM4NTNXaUZIempRaUVtUWdvekRzQy1GV1FNUHVveXNGa0N5MzhUbWxtM0ltN0pMLTcwQkZFc29RTFh5WWViUUpBUUVnNE9IVEp4SG1OWF9VOEQyY2tOZDNVYXgtLXcwYjkxWW5wQW94NHBNLVVfZVJUalVQYklLbVZ1TDUyUEE3clhuQzZzQWszNzVGeF83QTdCWmM0Si1wSUNGNzRCdmIwZFNtSlc4MHZBYVpsM1hkMVRsOEhHc3djLWQ2NGRiRTVOdWRUZTdWNnRuQzNIaG9oWEcw?oc=5",
+      "source": "Le Republicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-02T05:15:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "“Limit begging”: in Luxembourg city, 20 people asked to leave the premises in several streets",
+          "summary": ""
+        },
+        "de": {
+          "title": "„Beschränken Sie das Betteln“: In der Stadt Luxemburg wurden in mehreren Straßen 20 Personen aufgefordert, das Gelände zu verlassen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "\"Bettelen limitéieren\": An der Stad hunn 20 Leit gefrot d'Raimlechkeeten a verschiddene Stroossen ze verloossen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d374462be813a3e1a90f9425850fe86646988c50",
+      "title": "La Schueberfouer, immense fête foraine, revient bientôt au Luxembourg : voici les dates de l'édition 2026",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZE1TeVdfOFpIcTVCdmdBNFJmQ2N6QTRaaU16YzZrNWRxMkV0SzZoZG9Fbkl0d1dRdnJKaWtlZ211akYtV0gwMVJ4d2NDcVBQbDBnS1d1cG1iQnN2MnpoZnFpRHQwMDE5ZEthMHlhSnlsWFpuTVp3LV80ZFlPWDc1bGJYREY5bGJad2hWU01oQ2tIOUhGSXdqbUNPX1V4ZWh4R0ZQV0lMWTZQek9weWx4V3RTeENxX294LVFyWVpKVmplYTJZMjl1eDl1cmF2NUVBNlVncGdR?oc=5",
+      "source": "Actu.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-02T05:02:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Schueberfouer, eng riseg Kiermes, kënnt geschwënn zréck op Lëtzebuerg: hei sinn d'Datumer fir d'Editioun 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Schueberfouer, ein riesiger Jahrmarkt, kehrt bald nach Luxemburg zurück: Hier sind die Termine für die Ausgabe 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Schueberfouer, a huge funfair, is coming back soon to Luxembourg: here are the dates for the 2026 edition",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "06e15b44f6b7d55bbe4a7726e2f36eff52d242a4",
       "title": "Lara Hass é campeã no Paraguai, Duda é vice em Luxemburgo",
@@ -245,6 +303,39 @@
         },
         "de": {
           "title": "Staatsbürgerschaft: Anwalt warnt vor möglicher „Falle“ in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fd524ad0de111b65bf793079a170a86e5e6b6a53",
+      "title": "Ciudadanía: abogado alerta sobre la posible “trampa” en Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObXZWc1RmYjc2R0NvOXg1aTQ2S1dWckZQbHBrNW90VWZvZVczcmpxXzVPbTZrYVk5YzRSYkk1WjFuMHZlWEltVkxjOXNsTUs0MW9xak10alJrSUhKdUp5ZHFsVmxrdzA5TldOTk8xNGwzRDJSM2hkZkVUNGpNNHpna0RJNVIxRDNteWwwZ3Z2VFB6SzJNUDJRV1NZcw?oc=5",
+      "source": "Insieme",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-01T15:21:38.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Staatsbürgerschaft: Anwalt warnt vor möglicher „Falle“ in Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Citizenship: lawyer warns about the possible “trap” in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Citoyenneté : un avocat met en garde contre un possible « piège » au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Staatsbiergerschaft: Affekot warnt virun der méiglecher \"Fal\" zu Lëtzebuerg",
           "summary": ""
         }
       }
@@ -922,6 +1013,39 @@
         },
         "fr": {
           "title": "Moody's confirme la note AAA du Luxembourg en invoquant sa solidité budgétaire",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4813564a702941bd840aa01617a4a5c9fb21a738",
+      "title": "موديز تؤكد تصنيف لوكسمبورغ AAA مستندةً إلى متانة ماليتها العامة",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hNzJLbHhIakVqY1FDa2QyNHRvaFp0SnlpcHRKUzVRa3NxT3VXQkRFOEJwSXNRdWtYaDlCU043MU9vZ2NFTUpldVhrTjJqZlJFdjdmMEJpdUJXc0R6QzFTNmktOEc5WlJtMzlqLVlR?oc=5",
+      "source": "Investing.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-07-31T20:54:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Moody's bestätegt de Lëtzebuerger AAA-Rating op Basis vun der Stäerkt vun de Staatsfinanzen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Moody's confirme la notation AAA du Luxembourg sur la base de la solidité de ses finances publiques",
+          "summary": ""
+        },
+        "en": {
+          "title": "Moody's confirms Luxembourg's AAA rating based on the strength of its public finances",
+          "summary": ""
+        },
+        "de": {
+          "title": "Moody's bestätigt das AAA-Rating Luxemburgs aufgrund der Stärke seiner öffentlichen Finanzen",
           "summary": ""
         }
       }
@@ -28073,6 +28197,39 @@
       }
     },
     {
+      "id": "170779b7e497bf5673b14c4629d0dc11776e1b37",
+      "title": "Ukraina (k) - luksemburg (k)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlNyV2VPejNnV2ZwVnVsM0FFOU9ObTc5VDFFVWExZ0NBNHdsakxYajNfUGMtdTI3YXBFVlJtLTB3R3hUcGM3NmVzN0h2UmZ4X1NrZDZ0eUhEYWE1ejQyeWJNM0JpOFNCb2lJNE9CWnpGdFl3RTl1QlZWT2hSNFozdnlWbldyUVltMFhlbTNNbktrdEU1Ul9uMWYyS1VVQU1X?oc=5",
+      "source": "Interia Sport",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-07-17T16:44:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Ukraine (k) - Lukasburg (k)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ukraine (k) - Luksemburg (k)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ukraine (k) - Luxemburg (k)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ukraine (k) - Louksembourg (k)",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "54f77beb60724c81e73c51a1bcc3c6a5ca0b42c7",
       "title": "Elvin Sabanovic — статистика у Люксембург: Національний дивізіон 2025/2026: скільки голів та передач",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRU1tRU5Xd0lXWkRnbnFCRGVTWHJQcGtGTGR2OXNYdy1sTi1udmJEaFo3RW03dnQwQ1ZBMDBPZ1J3ZDFRemE5cVZHRXJvcklWamV3X0kyYlM3MWd2RjNCWWZoeG9leGJESlpsXzUxTTYtNi16clJmTmFHTnk3YkhjeDVSUWtTOVp4MnBmMXI4LUh5WjFVQUUxb1BmbFpqMHN2c3BZRQ?oc=5",
@@ -47241,167 +47398,6 @@
         },
         "lb": {
           "title": "Den Olivier Till huet als Deel vun der Lëtzebuerger Nationalequipe d'Aserbaidschan geschloen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0c575153a3ce569fb2f533f1c946edbc43fe0ea2",
-      "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 19",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQSXBOV1JrREJjNmowLXRCTWJ5dGQ1dXNvTUVOUFRKeG1RMnIwcHhlLV9JVHY1dU8wSGJUYnRSQTAxUjJBSlNPa0tIYzNjU2Y3U05WNnByZzhRNE43R1M3aWJiSkRmcXFiaElPdUFaVnQ3WU5tSm12dGpaQWtaRnR4cDhpc3Z4Z3FHd0lTSm5lSEo4TUVFZHNHYnNvVnUtNVVGSW5wNDhEVjlwR2VoZnJyTjhIM0tuVnp4dC1HLWgyRzliV1Y5akYtN1Q0R096Sk5OS3JzOUlLQXRIdVN4NnlrVXBIWlJ4aGhOMUxOV0szX0xuWDV0U1ZHLWN1RXZRZ2NxYWM1YXMzdnhDTjJlUE5ablhKUFBTX3dubFltdURpMXV1V1YycVIxcmZsYlhLYjE0VHRERjAyVmFXTnhGcWhQeElyeWpFeUxyVTREVHpRMzhCdHZEWGxOMUhNM0M0NnpwNmh2Q19FNDFvb0oxT2h0dXVBRHZodw?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-10T12:50:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ Architektur + Management - 19",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + direction - 19",
-          "summary": ""
-        },
-        "en": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 19",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 19",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f9bbd81c406b2d10f2d1408823c8df1a269e443a",
-      "title": "Часть дома на улице Розы Люксембург оставили без света",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3lyX1JNMUdfRkg5MElDa1AtM3o2bnZEajdjLXZwSmt0OUp5WmZDaTF5aVBOTkpXX0d5S3VleER3Sk1ZNXkxVzBaZVJXMDFlSzJjYV96TjF5S3M3WVotWUNDZFZMRHJqbkt4NE15SjFUYURfZEVJZmZNOXpacTFrX2dpcjVWUzdPQmZ4dmRSRUVjVHhYbVFoVA?oc=5",
-      "source": "Блокнот Запорожье",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-10T12:48:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "En Deel vum Haus an der Rosa Luxemburgstrooss war ouni Stroum gelooss",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Une partie de la maison de la rue Rosa Luxemburg est restée sans électricité",
-          "summary": ""
-        },
-        "en": {
-          "title": "Part of the house on Rosa Luxemburg Street was left without electricity",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ein Teil des Hauses in der Rosa-Luxemburg-Straße blieb ohne Strom",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4592804ef88d841e7089622c8ac636bfd412791b",
-      "title": "Pourquoi un hélicoptère de la police survole-t-il Luxembourg-Ville depuis cette nuit ?",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTUJWZF9VT2tSQ0hQcU1VWWJQbnJFS3NrTnZkcG5ETWtyd2pxQ3FfOE02RHZJU2RVbXB0eF9GU0EyeXItUjd2M1l5UzlKSmJKS0tmRGJGdHJaQlc3a284NkJDOTVsUk9IVlRCblg0Y2Z1RXpUVVdfbU82S1d0NjV1WW1YaUtCakNkdnR0VHplUlE0eDNudnF1ZUxGdmtmQU5jU3VvNEpyZm95b3BXdExUYUNNLUdkZnpId0NrdzdDUQ?oc=5",
-      "source": "Actu.fr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-10T12:33:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Why has a police helicopter been flying over Luxembourg City since last night?",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Firwat flitt zënter gëschter Nuecht e Policehelikopter iwwer d'Stad?",
-          "summary": ""
-        },
-        "de": {
-          "title": "Warum fliegt seit gestern Abend ein Polizeihubschrauber über Luxemburg-Stadt?",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c78e964c54f6de530c53eec61f1dc4c6fcd16bf4",
-      "title": "Rapina a Grottaglie, 58enne ricercato catturato in Lussemburgo dopo mesi di indagini: i dettagli del blitz",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUEszOWk2VDl2Y0pFZGVUTlpBNTROU1NmSHRUYTlBekdhWWFpcW9uVHpZU05wWFBIZEd5TXlRYk42T1FfRTZHTkR3SlRJd2FWV2htRzNKQ0ZZSXNsclpXTlFzRUI3cXhfOGtPUTlRZW10WS1mWjZhVUwyMGlBR0tjbUhJMVY0d0FmY2dobzFrOVJIR1JvaV9fRUlfTnVxWkNKN0hHMGRxMWhvYk5jUkYtOF9vWGpHeFZ2bVhmdk5lZExtYUVhMWRNVHdxekxfdW5yVVRsemgyamZtcEdy0gHiAUFVX3lxTFBzM3NIckY2bWRleEVLR3R5czdhRmZlZFVzSkNUUHY0NUh2RDQycUVzNjNqak9pZm1zYTZfUE92SmFxMW1iMFFKMDlyZnFnVXVuaVctanhTdEUxVnZ1b293NVpaMERLTTRJVTlvelN0MXVPdG00RlFjQVRZaXZGdFpqZkJzbzM5NGpSVmo1bnp0V3dyMVR3WGtiXzE3R0o5MDRKQ3B3aGJ4MS11M2NNS0tia1EtTkUwd192LXZoX1pud2lwbTJUOWx3UFYxcFdRZUgzRjJOWTh4ZlI5RlliTzh3ZGc?oc=5",
-      "source": "Virgilio",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-10T12:09:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Iwwerfall zu Grottaglie, 58 Joer ale gesichte Mann no Méint no Enquête festgeholl: Detailer vum Blitz",
-          "summary": ""
-        },
-        "en": {
-          "title": "Robbery in Grottaglie, 58-year-old wanted man captured in Luxembourg after months of investigations: details of the blitz",
-          "summary": ""
-        },
-        "de": {
-          "title": "Raubüberfall in Grottaglie, 58-jähriger gesuchter Mann nach monatelangen Ermittlungen in Luxemburg gefasst: Einzelheiten des Überfalls",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Vol à Grottaglie, homme recherché de 58 ans capturé au Luxembourg après des mois d'enquête: détails du blitz",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "36bf8ce3cc01e3afaa3b59083d8f96e1eea351f4",
-      "title": "La Voie Bleue conquista la corona europea: settecento chilometri d'acqua dolce tra Lussemburgo e Lione",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNW5ISHlDeG00Z0sta3Jmd29ld3V2aVdnc0FzbERPV1lYWnh4cUNveEpXbjZHMFpfeDBxNHJEUksxQUN5S0ozN2xCSGJCWHpzeU9XclJib3JNLWZEcjYwTERTa3RhMHY5RHEyRHdwVU1BSkZ5TU9GZ3FzX3VKS3k3cThuVk1Qcm5heXg0Z3I1dTd4UkQ4d2J4QnJTS0U2TWVTdGhGZTVubUhLVFVVSmxfZkxlVGVkYk9DSVJGemhTNDF3cG9nOHdKWQ?oc=5",
-      "source": "cicloturismo.it",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-10T11:44:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La Voie Bleue remporte la couronne européenne : sept cents kilomètres d'eau douce entre Luxembourg et Lyon",
-          "summary": ""
-        },
-        "en": {
-          "title": "La Voie Bleue takes the European crown: seven hundred kilometers of fresh water between Luxembourg and Lyon",
-          "summary": ""
-        },
-        "de": {
-          "title": "La Voie Bleue übernimmt die europäische Krone: siebenhundert Kilometer Süßwasser zwischen Luxemburg und Lyon",
-          "summary": ""
-        },
-        "lb": {
-          "title": "La Voie Bleue iwwerhëlt déi europäesch Kroun: siwenhonnert Kilometer frësch Waasser tëscht Lëtzebuerg a Lyon",
           "summary": ""
         }
       }
