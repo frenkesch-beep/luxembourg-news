@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-02T18:14:22.586Z",
+  "generatedAt": "2026-08-02T19:37:22.514Z",
   "items": [
+    {
+      "id": "ad9e3a249a75343a40cfed0711516fb00649e91b",
+      "title": "Luxemburg: 9-Jähriger Duncan vermisst – zuletzt am Echternacher See gesehen",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEpBdExZejc5R3Y5a0l5N3VibTRFWlNNS2NMQlNRajlFWXJLUGUyY2IySjhOS05tQXIySzZvNDRQdlZobmhmaDAwS3VoQmhEMHdvZUlMSnpPNDJ4Y0JBV3pFNmdpVWVvbTdPOF9ISEl5cFpRcTJEcTdGUVhnR2JzN1BMRGRPd3lxbF9vRUNWeFdiTXVoMlNEdlVqSi1USHZMLVNZaVVoWmtZQjg?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-02T17:40:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg: 9-year-old Duncan missing – last seen at Lake Echternach",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : Duncan, 9 ans, porté disparu – vu pour la dernière fois au lac d'Echternach",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg: Den 9 Joer ale Duncan vermësst - fir d'lescht um Iechternacher See gesinn",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "d8e41b7934a28cc1b77ef421558f6f9d8c5cef61",
       "title": "Après des études à Limoges et au Luxembourg, une jeune kinésithérapeute du terroir rejoint cet espace santé lot-et-garonnais",
@@ -55,6 +84,39 @@
         },
         "fr": {
           "title": "Clos Jangli Ghana sera lancé officiellement le 22 août et apportera les meilleurs vins luxembourgeois en Afrique",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2baabfbb71b002fd838b2393328ea01bb508391f",
+      "title": "Reportáž ze zápasu Racing FC Luxembourg - UN Käerjéng 97: statistiky, reportáž",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDBBZHctQXotdEhJTmVyVmRCRVZRWGdhY3R0Q0h6VnIyYjJ5elAzN2ZnV2lGYWJscDZXMEZRQTJsSnlETW9hb1N0X3I5WVlfc0tKcGhidHo1QkREb285elNBMU5qMUJJd0ZBd1BqLXh0UkNwQVJ4RnE5YnNqRG9sWXNsNUU5SHA2ZC0wMzlqQWRIY2hSNC1IeEFCVDdIbG92UWZMMmdFQ255d3FXM0VPMF80LVBfRzJOOWRjUDBjc3ZBeEZXMWQw?oc=5",
+      "source": "Eurofotbal",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "cs",
+      "publishedAt": "2026-08-02T15:58:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Bericht vom Spiel Racing FC Luxembourg – UN Käerjéng ​​​​97: Statistik, Bericht",
+          "summary": ""
+        },
+        "en": {
+          "title": "Report from the match Racing FC Luxembourg - UN Käerjéng ​​97: statistics, report",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Compte rendu du match Racing FC Luxembourg - UN Käerjéng ​​​​97: statistiques, rapport",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Bericht vum Match Racing FC Luxembourg - UN Käerjéng ​​97: Statistiken, Bericht",
           "summary": ""
         }
       }
@@ -204,6 +266,39 @@
         },
         "lb": {
           "title": "Solo Rees op Lëtzebuerg: praktesche Guide fir onofhängeg Reesender",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "aa75c4a6aa09ca3d7b91291799d5a39c7716a6f7",
+      "title": "Vinh Long Willemin — статистика у Люксембург: Національний дивізіон 2008/2009: скільки голів та передач",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUduMGUtWndwcWhsRFVPeXNYRFpRbG1XemszWV96UkJGV1lEczdTSVJ5WkpQRmcxbVBmMEVCbjUwdkxTVEprOUtLX1VFUHNwM0Q5eENGTUVXdXJZMDdkOGdKXzF6VDFoVUVqVzg3M1RrZHdYYnRiWHZBSkx4QmJhMVNVdk1JNWlmTVlmekE2QW8yNFhUMDJWbndvNTRQVmE3RnE0MjJOMEc?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-02T11:05:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Vinh Long Willemin - Statistiken zu Lëtzebuerg: Nationaldivisioun 2008/2009: wéivill Goler an Assists",
+          "summary": ""
+        },
+        "en": {
+          "title": "Vinh Long Willemin - statistics in Luxembourg: National Division 2008/2009: how many goals and assists",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Vinh Long Willemin - statistiques au Luxembourg: Division Nationale 2008/2009 : combien de buts et de passes décisives",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vinh Long Willemin - Statistik in Luxemburg: Nationale Division 2008/2009: wie viele Tore und Assists",
           "summary": ""
         }
       }
@@ -369,6 +464,39 @@
         },
         "fr": {
           "title": "Galerie Bâtiment Atelier Luxembourg-Kirchberg / Paul Bretz Architectes - 7",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "84654afa197de05a9655f00fe9e3f72e4e6951a4",
+      "title": "盧森堡天氣預測| MSN 天氣",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LQUVLY1FYa0RTLVlxSmYzZS16T1NfdFREaFZmQ0xoMkIxOG00bUdFUkxEVHJwNWN2QUR0N1A2d3FzUC10THZraGJRVTRuTlFlX3E5QlVGd2hqMmlhSm11R3dLS3cyLW41N1N0XzQzMXNyZUFIeW10VGE4VE9hQQ?oc=5",
+      "source": "MSN",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-02T07:55:58.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg Wettervorhersage | MSN-Wetter",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg weather forecast | MSN Weather",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Wiederprevisioun zu Lëtzebuerg | MSN Wieder",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prévisions météo Luxembourg | Météo MSN",
           "summary": ""
         }
       }
@@ -3199,6 +3327,39 @@
         },
         "lb": {
           "title": "GoVolta annoncéiert Zuchservicer vun Den Haag op Köln, Stroossbuerg a Lëtzebuerg - plangt och fir ...",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d6927c4b0a0d4349534a1d4bf4b135d20c892d1a",
+      "title": "GoVolta meldt treindiensten aan van Den Haag naar Keulen, Straatsburg en Luxemburg - ook plan voor hogesnelheidstrein naar Parijs",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNFI1bE81SHoxb0c1SkM3bUlTZmRZMmZRdm42c19oTXJnNDl3M05RVXRYODNwdERhZVRBaVZfM0hXemZjUFVMU0RBcnJpSU1qZGh6Y2F4bXhmaENtVHdkc1JUWjIxaE5wNHFQU0Y4MTN6MTNIc0F5QUNPZVBxM01OZkM0TXg4SlRQa1o3NG9SZ3YtcGp0RHlYNFZpaXV5Zjl5TmI2VWZCaXh5Q0trQjFHSFhZS01GQ01sQ2xGZHdZa0ZHVUxyNlJnUklXTXctSkpRaURGSW52eGpLMjY1SXdzdHRTb3VMMGVNb3Vuag?oc=5",
+      "source": "Treinreiziger",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-31T07:34:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "de": {
+          "title": "GoVolta kündigt Zugverbindungen von Den Haag nach Köln, Straßburg und Luxemburg an – plant außerdem einen Hochgeschwindigkeitszug nach Paris",
+          "summary": ""
+        },
+        "en": {
+          "title": "GoVolta announces train services from The Hague to Cologne, Strasbourg and Luxembourg - also plan for high-speed train to Paris",
+          "summary": ""
+        },
+        "lb": {
+          "title": "GoVolta annoncéiert Zuchservicer vun Den Haag op Köln, Stroossbuerg a Lëtzebuerg - plangt och fir Héich-Vitesse Zuch op Paräis",
+          "summary": ""
+        },
+        "fr": {
+          "title": "GoVolta annonce des services ferroviaires de La Haye à Cologne, Strasbourg et Luxembourg - prévoit également un train à grande vitesse vers Paris",
           "summary": ""
         }
       }
@@ -47267,171 +47428,6 @@
         },
         "de": {
           "title": "Kinder in Kyoto und Luxemburg verbinden sich durch Kunst! „Kunstworkshop für Taubenflöte und Paravent“ zum Gebet für den Frieden",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bb47f8f91427613acc1449c4ead1aa9650da1289",
-      "title": "Galeria de Vincent Callebaut Architectures propõe metamorfose futurista para antigo hotel em Luxemburgo - 17",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNdUlfVUlpaFJBSEJKd0dqSkEzSkMyWHpzSnpOX2NlU2E3YWRubzF0TXFhcHM1VVlBdWVrSnZuNjBYVy1KSkxCVFF1Sll6WXRoVkhKY19EQnYwLTl2OWhnbEtLc2Z4SEcxNDYyYzFWdllYMlhETUpJb0dQcW1qMjV4ZmNqRVJ3SC1fVDZZOTNHZ1JzRWNnUTVMMUk2ckNCYkRoZGlHbTB2cDVKTE1MWU9sSk5TUVMweXJhRHlKMzNQRGxlRmcwY1FPQjlBbDZ6QkUxNjVqQUxWUnhuZ1F6cEdLRFVNa0FnVTBldWRPVzVJZ3JsQWJBYUc0cE9EVEUtTWZ4TWpXWk9mb3FFREZlc1h2WjR2ZTc4dEVlRGhMcDBtRjVuWmJsLWZYQnhKVldTMkpsX3NOWEhVVDZhZ0JNeVZVUDBfMGM1a0FCdFduM0ppOV9jMkN5bFNHMEx2LXFQTTNTblVyLWdVSzZqVjJBN1FyYTRn?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-11T00:56:01.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Galerie vum Vincent Callebaut Architectures proposéiert futuristesch Metamorphose fir fréieren Hotel zu Lëtzebuerg - 17",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La galerie de Vincent Callebaut Architectures propose une métamorphose futuriste pour un ancien hôtel à Luxembourg - 17",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery by Vincent Callebaut Architectures proposes futuristic metamorphosis for former hotel in Luxembourg - 17",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie von Vincent Callebaut Architectures schlägt futuristische Metamorphose für ehemaliges Hotel in Luxemburg vor – 17",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "334344bcd72881b920d6431650128b8ffc28456a",
-      "title": "画廊 卢森堡大学学习中心，工业遗迹的复兴 / Valentiny Hvp Architects - 20",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNMTJRbDNsTkVFdFZOaWlsV2lETUFMcXB1aHROWHVIMlJQQ19Ud294Nno3Q2VzaDFqcWdIZ1EwT2JpVVhZVUFWbVdHSGZuSVVRNi1ielBweWU4bTNQV3Y0NzljUk5mTVktWnp1QVVpY1lKS1hfMFMybkNDbDRtN1g3VUcxX2p2eC1uRmpUd01PSEJLXy02Q1U2TkRKeERsTmpwLWZBSXhIcWhobE0wQVpnU1RQYkNtT0hveTZKOVVuUVRBN01rWnVFakRCWXRCU09iSUFHa1RPMU8yb01yU2lvTHJRV0x3aXZWcXlPOUJvdG01U1FTcUIzMmt6YzVDRTNMYW9NVE0yTUJCS004WUN5OXotQkdacXRGTzJOTzZ1MDg5SDRoeDYxQ25kOXlpUGdGWnc?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-11T00:02:52.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Galerie des Lernzentrums der Universität Luxemburg revitalisiert ein industrielles Erbe / Valentiny Hvp Architects - 20",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La galerie du centre de formation de l'Université du Luxembourg revitalise un patrimoine industriel / Valentiny Hvp Architects - 20",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of University of Luxembourg Learning Center Revitalizes an Industrial Heritage / Valentiny Hvp Architects - 20",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gallery of University of Luxembourg Learning Centre revitalizes an Industrial Heritage / Valentiny Hvp Architects - 20",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e6a12257e9ba4eed100c6421863620aba9a43748",
-      "title": "京都からルクセンブルクへ。子どもたちの平和への想いを両国の伝統工芸で一つの文化作品へつなぐアートワークショップを開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53X1F1YlRxakFxeFMzR0NvaWhkZXA0Qk1na1BpWGZXOXBfTzlIOGFBbTk5NXBkVE5Nc3FxT25OdnhKQTd2UG84UWNVUUFqTDV3YnYzeUw1NlVFN29iM21ZOGtjZXVxOWE0ZVE?oc=5",
-      "source": "PR TIMES",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-11T00:00:01.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "De Kyoto au Luxembourg. Un atelier d'art sera organisé pour relier les sentiments de paix des enfants en une œuvre culturelle unique utilisant l'artisanat traditionnel des deux pays.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Vu Kyoto op Lëtzebuerg. E Konschtatelier gëtt ofgehale fir d’Gefiller vun de Kanner fir Fridden an een eenzegt kulturellt Wierk mat traditionellem Handwierk aus béide Länner ze verbannen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "From Kyoto to Luxembourg. An art workshop will be held to connect children's feelings for peace into a single cultural work using traditional crafts from both countries.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Von Kyoto nach Luxemburg. Es wird ein Kunstworkshop abgehalten, um die Friedensgefühle der Kinder in einem einzigen kulturellen Werk zu verbinden, bei dem traditionelles Kunsthandwerk aus beiden Ländern zum Einsatz kommt.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4405be7a090a134014f6630bc1494115b4dd10b6",
-      "title": "Galeria de Vincent Callebaut Architectures propõe metamorfose futurista para antigo hotel em Luxemburgo - 5",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOUjM1QXBwT2ZHMHNMSko3SGVWeTZNOW50aFRpbGtaU0d3TWE2QWUySGNVaFlLQTdNZWI0T0dGR1pzRDFaeFowSkdXSTZVN0xzbzUxc0E4d0JkMkpVOTZDLS0xckE0dVhqM2lZRWhYcFpiUGNtNDFuVGxXX2Y2cmgwOEZmV1E2bzI2TngzWjAyZTFHN09PNkk2MkpDSldGTlZ6dW80Rk8zV1Jyalp5Y2FrdDJvdUZycGJIRnNpT3p3RlBjMFdnUjZjXzRwWXRkaWtUVGlHNmM0WnJiQ3hvdl9LNllGOXVLS0dxNGphRnRpbWVrYlFLSWFkcUw5eTFxTlowbnIybnFCMVdoMkU4d3kyOHc2NXpULU11UFlIQnFYbG14ZjBDN25xZWZBRDR4Um0xQWNTQUpvWnk1eHVfX1R0bEJabVg5OXM3RlJyU0pBTzliaGFRb0lBUXJaTlhhY2R2ZEMxcGk4bDY5N25xWXJEVUFB?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-10T23:43:36.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "de": {
-          "title": "Galerie von Vincent Callebaut Architectures schlägt futuristische Metamorphose für ehemaliges Hotel in Luxemburg vor – 5",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery by Vincent Callebaut Architectures proposes futuristic metamorphosis for former hotel in Luxembourg - 5",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La galerie de Vincent Callebaut Architectures propose une métamorphose futuriste pour un ancien hôtel à Luxembourg - 5",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Galerie vum Vincent Callebaut Architectures proposéiert futuristesch Metamorphose fir fréieren Hotel zu Lëtzebuerg - 5",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "153cb8a606db9ea3cc23ca1b00f34a1f2915fd5a",
-      "title": "Galería de Puerto Libre de Luxemburgo / Atelier d'Architecture 3BM3 - 3",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWjluOXpkZUxKQWJ4R2wtWWhYUlF0VkZuckpxSWE0V3ByNEZjTDZuX2hGZjB5dnk0S1kxcncwVXVtVEg4MnFtYzFEb21tempmYW9oeWxISG9tVGhhM2FTWmlOMjhpWHIxMGpSeHlodjY4Mk9FWFJfUEdGcnVxNUdVTkJrWmczZ3ZYRW9vN1FnTDliRFAwOEhhVnZwbHE0NzR5ZURnUDFVXy1RVmFybHdPNEt1T1NjaXZDekxuRk40Q3dWd0pYQlRnY0s3ZElscjZIM3c3eWdyU191MGpvZWRZ?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-10T23:34:10.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Galerie des Freihafens Luxemburg / Atelier d'Architecture 3BM3 - 3",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 3",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 3",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie du Port Franc de Luxembourg / Atelier d'Architecture 3BM3 - 3",
           "summary": ""
         }
       }
