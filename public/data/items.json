@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-08-02T11:34:49.672Z",
+  "generatedAt": "2026-08-02T13:56:21.014Z",
   "items": [
+    {
+      "id": "36ec4692d6653a333d756eb1b16fb81feab9c782",
+      "title": "Tickets für \"Volksbad\" am Rosa-Luxemburg-Platz ab Dienstag erhältlich",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGdFVDgyczhxZzUzZUZGcmI0UEwxWmlQS0VuRVVFRWxmRHcxb2g3Y2FYdVI4ZFVMLWpWWjFHVmp6c3RkRUhzdjRxc1ZXWThJTEU4MDJ2YmNkV2NZTC1jTTlCLWdobjAtd2FpQWMzdTdsT2k3VXd6UHRfOG56bXRudHJHdFNtQWdmYW5RYlUwVVc4WVB4TXh3VHF4aWhQdw?oc=5",
+      "source": "rbb24.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-02T12:42:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Tickets for “Volksbad” at Rosa-Luxemburg-Platz available from Tuesday",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ticketen fir \"Volksbad\" op der Rosa-Luxemburg-Platz sinn ab Dënschdeg disponibel",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Billets pour « Volksbad » à la Rosa-Luxemburg-Platz disponibles à partir de mardi",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8af04396e17520c771da80f68f1a607a47baa97e",
+      "title": "Schlechte Nachricht für Pendler: Grenzkontrollen zu Luxemburg: Dobrindt will über September hinaus verlängern",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0t5cHZWWWhCcTRvdTNwUGxwaU42UVlhZ1l5b0lJTjc0a3lZUEJhNTVzX1Z4NjU5SGV4SEdFY0swYVRNWl92Y3o4eUtoQ19PVzN4ckJRMkdjWjg3MUU1LUYySHoxUFAxV25qUDBvNWVfdWtxSlNKVXJrdHhHRmM2YWhhUi0zMENLbWZNcm5uMFhXQ3pQME5JcV9vSDdraFhmZTkxQlZJMXhmbTZqUl81RFFoSjVISVFyR2dBWHlsSQ?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-02T12:40:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Bad news for commuters: Border controls with Luxembourg: Dobrindt wants to extend them beyond September",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Mauvaise nouvelle pour les navetteurs : Contrôles aux frontières avec le Luxembourg : Dobrindt veut les prolonger au-delà de septembre",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Schlecht Nouvelle fir Pendler: Grenzkontrolle mat Lëtzebuerg: Dobrindt wëll se iwwer September verlängeren",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "8cd1a893bc29d853fc1363fcf59aea7e0a4c17d3",
       "title": "Статистика клубів вища ліга Люксембург сезону 2026/2027",
@@ -183,6 +241,39 @@
         },
         "fr": {
           "title": "Opérette \"Comte Luxembourg\" 2021, Voronej - date et lieu, programme de l'événement.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8ae7012e20e47ad1bd81a7d779a4bface35aab9b",
+      "title": "Охота за сигарами в Люксембурге: редкие кубинские сигары, рост цен и обзор Bolívar Belux",
+      "url": "https://www.youtube.com/watch?v=ckGQTS0ayfE",
+      "source": "KD Leaf Diaries",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "ru",
+      "publishedAt": "2026-08-01T19:56:12.902Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/ckGQTS0ayfE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb07cPXrAw6qOUiKUrLIdnW7npOg",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Zigaren Juegd zu Lëtzebuerg: rar kubanesch Zigaren, Präiserhéijungen an Bolívar Belux review",
+          "summary": ""
+        },
+        "de": {
+          "title": "Zigarrenjagd in Luxemburg: seltene kubanische Zigarren, Preiserhöhungen und Bolívar Belux-Rezension",
+          "summary": ""
+        },
+        "en": {
+          "title": "Cigar hunting in Luxembourg: rare Cuban cigars, price increases and Bolívar Belux review",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Chasse aux cigares au Luxembourg : cigares cubains rares, hausses de prix et revue Bolívar Belux",
           "summary": ""
         }
       }
@@ -658,6 +749,39 @@
         },
         "lb": {
           "title": "Portugal klappt Lëtzebuerg an der historescher 9-0 Victoire zu Algarve",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0d014c3a97243d98d064768ca05eee5749b1f4fc",
+      "title": "卢森堡的历史性时刻：亨利大公的旗帜降下，纪尧姆大公的新旗帜升起",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZdW56TFlJVXRDNXNCY0xodEFGM1pGVmRBVnRUN1ZoYUhMeThldENGLUMzaWdmTk8wTmhJcHFKNUhJNWMxZXJjWlJyenZ2RVpHQ0tuMWdn?oc=5",
+      "source": "QQ News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-01T06:52:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Moment historique au Luxembourg : le drapeau de l’archiduc Henri est abaissé, le nouveau drapeau de l’archiduc Guillaume est hissé",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Historesche Moment zu Lëtzebuerg: Dem Äerzherzog Henri säi Fändel gëtt erofgesat, dem Äerzherzog Guillaume säin neie Fändel gehäit",
+          "summary": ""
+        },
+        "en": {
+          "title": "Historic moment in Luxembourg: Archduke Henri’s flag is lowered, Archduke Guillaume’s new flag is raised",
+          "summary": ""
+        },
+        "de": {
+          "title": "Historischer Moment in Luxemburg: Die Flagge von Erzherzog Henri wird gesenkt, die neue Flagge von Erzherzog Guillaume wird gehisst",
           "summary": ""
         }
       }
@@ -36243,6 +36367,39 @@
       }
     },
     {
+      "id": "963f262acf896e435ac63c96aabd9cb684a2e840",
+      "title": "盧森堡首相呼籲歐洲軍隊進行專業化分工。這可行嗎？有用嗎？",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2Y1eVFSNWV2NWoyVlF5UjdMTFB6amN3ZDdsU2RLZEppcy1aWktFS0ZKclZzaTM3TEMtTXRES1FEWmRfenhnYUptRmdKUnVDOXB3VUczLV9GVzktZXlmVldHM3FocmZfUktTUVpwcDZYWDFFc25fWFNsOVJja3lZUUcwaXhIT2Zu?oc=5",
+      "source": "Meta-Defense",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-15T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Lëtzebuerger Premier fuerdert eng professionell Aarbechtsdeelung an den europäeschen Arméien. Ass dëst méiglech? Ass et nëtzlech?",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg's Prime Minister calls for professional division of labor in European armies. Is this possible? Is it useful?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der luxemburgische Ministerpräsident fordert eine professionelle Arbeitsteilung in den europäischen Armeen. Ist das möglich? Ist es nützlich?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Premier ministre luxembourgeois appelle à une division professionnelle du travail dans les armées européennes. Est-ce possible ? Est-ce utile ?",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "de0ceb38620db71f07854838dd6adc9719e8b233",
       "title": "Spritpreise Luxemburg heute (15. Juli): Diesel deutlich teurer – Benzin wird günstiger",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wSGZOdV9wQUlpa0EtdlBjek9sbHRja3FMLXhreDRIQS0yeTZoalVxb243QXNGeGZXdUQ1cGV2b1l6TmdhN0FhZXhrQmZfT0syZ0p4cGxob2xKWVlITno4elNsSWs5RDZuZnE2b1dWWUxpNVI1ZWw3QXdueTJ4YU0?oc=5",
@@ -47257,151 +47414,6 @@
         },
         "de": {
           "title": "#dualtron #luxembourg🇱🇺 #escooter #comeback",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "10a3f53c03efdd2420bc3611d35004650900f173",
-      "title": "Mondorf-les-Bains. Una Roberta débarque au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3l4LVVxVlBZcUZiSEo4Qm1BMVZ5S2VwLVVlSVJsaDhkSHhPdGZFMnRTU2tEZFZoZGhkcmY0MVBULWhGc29RZXV3TG5TN3dKS0pKSEhzY2RUd01vRlJmQTM4aXc3TEZmUUxxSy03X0o1bXZTSUJna0FfNFRNdUFwLVB0blp5Q0tld25XdG1WNlVObVZ3eVZBMmRjelI?oc=5",
-      "source": "Le Républicain Lorrain",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-10T16:14:31.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Mondorf-les-Bains. Una Roberta débarque au Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Mondorf-les-Bains. Una Roberta disembarks in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Mondorf-les-Bains. Una Roberta geht in Luxemburg von Bord",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d24a5e478f8ad5f478d62e171df611c2b503c4f6",
-      "title": "Luxembourg privacy watchdog highlights AI, data sharing in 2025 annual report",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX19FNWF5aU4wTHJPanlDWllIQWtCS1UxenNuVTBGOGFhRWx5amdRRy1lbENhMC0zbDlFNWhKRDFwVXdLMk4zMzEwSlBiRVFjRVdMekx6aEI2TjRnX0pFTGpneURsc29XYWc4S0d5NjA4d0lCQ2xfM3U3MkNRdnViNmViSmpodGx4ajIyM28yZXZKQm9Ld0xIRTRmbFczREVHalZKYlIwaVVUZWR0SFEwdzJHMW5kNUpyS1Y00gFaQVVfeXFMUEpxenp4SUx0MFE3T3pKSlFjb3R5RUZFQ0ptMWlqOGlqTnhzZzFGbU55cE1qNUJLUEhoVmc2cjM3OGp4TXU1aG04UzZQcFVNT1Z2NGI1ZDJaYzl3?oc=5",
-      "source": "MLex",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-10T16:13:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Privatsphär Iwwerwaachungshond beliicht AI, Datendeelung am Joer 2025",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der luxemburgische Datenschutzbeauftragte hebt KI und Datenaustausch im Jahresbericht 2025 hervor",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L’organisme luxembourgeois de surveillance de la vie privée met en avant l’IA et le partage de données dans son rapport annuel 2025",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "80f46734b4d6e6dde6bc38295aaccf4d3fb4a0e7",
-      "title": "Aktueller Überblick: Spritpreise in Luxemburg: Diese wird teurer",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjRCWng4S0w5YkEtQzRmM0lUNmdJVVRqX19icGU0YTl3NGx6WlRua0lYRDZKT2FNMmFUM3lCTXRqRlBzd0JieTRqTjdlb3l2NUVreFphTXVjczVtTDd6aHdYTzZObnVRY3ZZZTYxQW1DYjZZYTdxN2pLWnhrbzRPZXp6R05CWS1wZTlrWHo4cWN5d2RhbjBLVGIwdFo5MDFo?oc=5",
-      "source": "Volksfreund",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-10T16:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Current overview: Fuel prices in Luxembourg: They are getting more expensive",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Aktuellen Iwwerbléck: Brennstoffpräisser zu Lëtzebuerg: Si ginn ëmmer méi deier",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Aperçu actuel : Prix des carburants au Luxembourg : ils sont de plus en plus chers",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9a07b3ad1644b910a92b116293e727c1c499ce48",
-      "title": "Luxembourg awards Uplift360 multi-year contract for advanced materials",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSmZZM1pvQmk0UWdZLXFpLUlfUjRPajEzcDBWZktGZVFPX3g4NGNsVzRDb0Y4UkNUdDh1V2RYMDIzaXZlTUZwVzlzVFo1Vi1KVkRDcXdoSWxfU0FORmVxWF9yMGxQUTl3YnEzdjQ2c1ZmMkNRaTg0RVN2dHBHNjkxQQ?oc=5",
-      "source": "Army Technology",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-10T15:34:37.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg verdeelt Uplift360 Multi-Joer Kontrakt fir fortgeschratt Materialien",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg vergibt Uplift360-Mehrjahresvertrag für fortschrittliche Materialien",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg remporte le contrat pluriannuel Uplift360 pour les matériaux avancés",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "89496e0b4e20e81239cb26f08bb30550a1659e8c",
-      "title": "#luxembourg #luxurylifestyle #mood #virals #smallcreatorsontiktok \n@🌿BRAHIM🫆 @Sylvain six  🇫🇷 🇬🇦 @Ivan Tokoos @🇨🇲🇫🇷✨just OB✨🇵🇹🇨🇭 @@rno T@mb@ ",
-      "url": "https://www.tiktok.com/@laluxembougeoiseivo4/video/7660914281277394198",
-      "source": "@laluxembougeoiseivo4",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-07-10T15:00:11.000Z",
-      "summary": "",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oMrRfMAofAIt09pPCDjURPDOCELIFIN3NgeQ49~tplv-tiktokx-origin.image?dr=9636&x-expires=1783875600&x-signature=2dir238DI60KkbBz7Npi8CI7ptc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "#luxembourg #luxurylifestyle #mood #virals #smallcreatorsontiktok",
-          "summary": ""
-        },
-        "en": {
-          "title": "#luxembourg #luxurylifestyle #mood #virals #smallcreatorsontiktok",
-          "summary": ""
-        },
-        "de": {
-          "title": "#luxembourg #luxurylifestyle #mood #virals #smallcreatorsontiktok",
           "summary": ""
         }
       }
