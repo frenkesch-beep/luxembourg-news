@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-02T09:22:37.607Z",
+  "generatedAt": "2026-08-02T11:34:49.672Z",
   "items": [
+    {
+      "id": "8cd1a893bc29d853fc1363fcf59aea7e0a4c17d3",
+      "title": "Статистика клубів вища ліга Люксембург сезону 2026/2027",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQnljZGFJUG0tNDdzUnlTa0xXSTlIblJFRjZjdVhILU5Sa2QyazVxandDblBCSkx0LW1jdGVFcTFsSndzZ09OM29TNm14LWtJUXdSWnFybXQ2ZTJUczdxc0VieDRMNGQyVUdUbDhTOHJ2d1p5Rm11dE0tRDhFaUxsNjNjODQ1MTRnVVItZU5PRERmRHgxUWtSVnFLQzZoZw?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-02T05:25:51.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Statistiken der Vereine der höchsten Liga Luxemburgs für die Saison 2026/2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Statistics of clubs of the top league of Luxembourg for the 2026/2027 season",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Statistike vun de Veräiner aus der Spëtzt vun der Lëtzebuerger Liga fir d'Saison 2026/2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Statistiques des clubs de la ligue supérieure du Luxembourg pour la saison 2026/2027",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "15e80474bb09c73160c7d5098f64a24bf1b8d619",
       "title": "« Limiter la mendicité » : à Luxembourg-ville, 20 personnes invitées à quitter les lieux dans plusieurs rues",
@@ -55,6 +88,35 @@
         },
         "en": {
           "title": "The Schueberfouer, a huge funfair, is coming back soon to Luxembourg: here are the dates for the 2026 edition",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4db2381137bdd7fafd0fa4a3b0c24f1f9c51fb65",
+      "title": "Belgium Women tour of Luxembourg, 2026 schedule, live scores and results",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmhzaVR3U2RFQ1MzYTVPOXI4OTBzT1V4dktKQjFVN0NtdnBLaTdPYllSUjA0QjdTcnJfLW5VNGxRQ2F5bkJhQWY5UHdqT2F2enhQSTFZck41OWhnS240azRZMUFDOExSa19sYnpGcE5QT1plMzZKT2c2b3oxYk1aZGE3MUxOSDQ4bGQ4d3F4b01LWjNMTGc?oc=5",
+      "source": "Cricbuzz",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-02T01:26:33.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Belsch Fraen Tour vu Lëtzebuerg, 2026 Zäitplang, Live Resultater a Resultater",
+          "summary": ""
+        },
+        "de": {
+          "title": "Belgien-Frauen-Tour durch Luxemburg, Zeitplan 2026, Live-Ergebnisse und Ergebnisse",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tournée belge féminine du Luxembourg, calendrier 2026, scores en direct et résultats",
           "summary": ""
         }
       }
@@ -336,6 +398,39 @@
         },
         "lb": {
           "title": "Staatsbiergerschaft: Affekot warnt virun der méiglecher \"Fal\" zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8eca357abdde57e3db25f2bb80df124e8642e9b5",
+      "title": "FC Résidence Walferdange مقابل رأسنغ أونيون لوكسمبورغ - نتيجة مباشرة، تشكيلة الفريقين المتوقعة وإحصائيات سابقة",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0lteEtqSmwxdUlMenBWVDh5bmZwRGlqQzNwanE5dHJpX3JTNmNjRFBlWE5hbk5fZGtJN3U4cGkzWnBSZDlxVTZVVVRtQ2pHRkFrejM4b1cwMm5PbFR1dnlFaGloR1B3RHpkN05reF8tdkF5cDdmdG5VOEdEVHhiUk5YQ0NLSFRBOXljZw?oc=5",
+      "source": "FotMob",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-08-01T14:44:46.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "FC Résidence Walferdange gegen Rasing Union Luxembourg – Livescore, erwartete Aufstellungen und historische Statistiken",
+          "summary": ""
+        },
+        "en": {
+          "title": "FC Résidence Walferdange vs Rasing Union Luxembourg - live score, expected lineups and historical statistics",
+          "summary": ""
+        },
+        "fr": {
+          "title": "FC Résidence Walferdange vs Rasing Union Luxembourg - score en direct, compositions attendues et statistiques historiques",
+          "summary": ""
+        },
+        "lb": {
+          "title": "FC Résidence Walferdange vs Rasing Union Luxembourg - Live Score, erwaart Opstellung an historesch Statistiken",
           "summary": ""
         }
       }
@@ -47307,97 +47402,6 @@
         },
         "de": {
           "title": "#luxembourg #luxurylifestyle #mood #virals #smallcreatorsontiktok",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e777ff3cb1b063f8b548234403eb764700d6c97c",
-      "title": "#summervibes #sandzak #luxemburg #trend ",
-      "url": "https://www.tiktok.com/@kc.adaleta/video/7660910278334237974",
-      "source": "@kc.adaleta",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-07-10T14:44:40.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/oUIaRlBbivniErBIAxvEBEBhCYzhB4hEuVkYZ~tplv-tiktokx-origin.image?dr=14575&x-expires=1783875600&x-signature=1WEQ%2FY96uds4AkaKZGnDSY%2B8RhE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "#summervibes #sandzak #luxembourg #trend",
-          "summary": ""
-        },
-        "lb": {
-          "title": "#summervibes #sandzak #luxembourg #trend",
-          "summary": ""
-        },
-        "fr": {
-          "title": "#summervibes #sandzak #luxembourg #tendance",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0cddc036d6044629aa4af8903cbfeb44eccc311f",
-      "title": "Les meilleurs hôtels du Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiZkNVN2dRdEk4WkZiaUFtdUpzTkdqdXhEeFVCdXo5eTJubUJjZkRKTjZ3YTdXX2dHcHJlSFZHWENySHZrQVlkM2s5VlVObl9FRnNPNVIwN05lc0w5WUE?oc=5",
-      "source": "vsd.fr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-10T14:35:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Déi bescht Hoteler zu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "The best hotels in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die besten Hotels in Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "29d6bcdd5f9a7c0e0bbecafb4924bdf2ffad1557",
-      "title": "イベントを起爆剤 国境越えのビジネス創出目指す ルクセンブルク最大級のビジネスイベント「NEXUS」共催者・Mike Koedinger氏に聞く",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhTld1QlZxdWplOXdzZ1VwazJiZm5QVVJTZUpSV2Jub21oTkZLazM4XzMxUEEzQVU1SWVYTmViMldnd2tKRnRYLUQ0bmE2NUZsTlRtSVJGaw?oc=5",
-      "source": "event-marketing.co.jp",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-10T14:04:56.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Utiliser les événements comme catalyseur pour créer des affaires au-delà des frontières Entretien avec Mike Koedinger, co-organisateur du plus grand événement d'affaires du Luxembourg \"NEXUS\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "Using events as a catalyst to create business across borders Interview with Mike Koedinger, co-organizer of Luxembourg's largest business event \"NEXUS\"",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Mat Eventer als Katalysator fir Geschäfter iwwer d'Grenzen ze kreéieren Interview mam Mike Koedinger, Co-Organisateur vum gréisste Geschäftsevenement \"NEXUS\" zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Veranstaltungen als Katalysator nutzen, um grenzüberschreitende Geschäfte zu machen Interview mit Mike Koedinger, Mitorganisator von Luxemburgs größtem Business-Event „NEXUS“",
           "summary": ""
         }
       }
