@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-03T19:59:23.074Z",
+  "generatedAt": "2026-08-03T21:30:47.190Z",
   "items": [
+    {
+      "id": "d98473dff02afaac061eb50630949d65c865436d",
+      "title": "Foto Meteo: lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BanRpYUgxY0hIUFNGYmplLXZ2UkpVM1c4QVlsYndhMmtxR2llek85emYtbGE5dGk4Z3hCckJJY3dkOXJoRjFCSjhYRFNKc3djNFU5QVMyWlY2bll2N2Jla3o3X2taNjRGNFZHVkE0Tnhvdw?oc=5",
+      "source": "3BMeteo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-08-03T20:38:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Photo Météo: Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Foto Wieder: Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Foto Wetter: Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Photo Weather: Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "4c775e8a4b6736bec5426914a96a4935c23936ee",
       "title": "Près de 50 interventions ce lundi soir pour les pompiers de la zone Luxembourg",
@@ -817,6 +850,39 @@
         },
         "lb": {
           "title": "Lëtzebuerg strengt Liewensmëttel Kontakt Keramik Reglementer: New Lead a Cadmium Migratioun Limite",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4f47caba14d569fcaa80bf741eae74b00b96a8f9",
+      "title": "画廊 卢森堡基希贝格办公楼 / Paul Bretz Architectes - 15",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOWW1aam9VeE1pVlYwVlN5Q2ZHM1JOZjd1cVBZS21iM21IRWZJQ1E2a3ZOdmltQ0k3cmxLU09wNDZiZkxDT0pDcVVlS29VaUhPdGRoWmpqR0loLUhYelhnVkZwaGk5WW0zZTBMcXhVUGt3dm1EdVlLT1JPVDlhdzUwck9wSVNtMkktQ2poLWpHX0lnNlA2cU1wMXEtRlpPN29VZVo5ZHZfY2c4TFVHbFkxOGFOeGpsVUNyUS1SdUpfMi1wc09UclhQUy1JbGNxSDZqcEtXQ3FlaENwT0JyMWlUSVA2V0FTcFBEWHpjRzMwN1FnMGFzUHhkVGFwWnRjcFprWDZGWVA3V0Zua2pUcjFRMjdXU0JUb2VyWEJmdC1ELW5OVnFWcnc?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-03T06:47:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie d'un immeuble de bureaux à Kirchberg, Luxembourg / Paul Bretz Architectes - 15",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Office Building in Kirchberg, Luxembourg / Paul Bretz Architectes - 15",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie des Offices de Kirchberg, Luxembourg / Paul Bretz Architectes - 15",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Bürogebäudes in Kirchberg, Luxemburg / Paul Bretz Architectes - 15",
           "summary": ""
         }
       }
@@ -2155,6 +2221,39 @@
         },
         "fr": {
           "title": "Chasse aux cigares au Luxembourg : cigares cubains rares, hausses de prix et revue Bolívar Belux",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "590da785d43b7f6a1490201023eb460c91ec8628",
+      "title": "Almanya - Lüksemburg Kadrolar: Dünya Kupası Avrupa ElemeleriFutbol",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS2tzWmZ1Wnd0OVQ3bFlVdVdVdHI4Y0FSeTZnTmllQ0lsd0ZjSXlaNzFfLXhXcXhyZW9JbXNZSDFvYW5wTTJkbmdCRHhMcmJhc19PQkRzT1BSQ2gwRGhmeUphUTUzaEMxTllZUi1uMm81RDQ3bW40NjZ3UDJ0RElrd2JkY0VMaEhQWDZKMk42c3ZDRDlITnp5cHlEMElpa0VQbHJTTnhGcXR2TkJaUGpKUWNmOHpiNjAtVmdwMjJoZW9uZw?oc=5",
+      "source": "eurosport.com.tr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-08-01T19:31:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Kader Deutschland - Luxemburg: WM-EuropaqualifikationFußball",
+          "summary": ""
+        },
+        "en": {
+          "title": "Germany - Luxembourg Squads: World Cup European QualificationsFootball",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Allemagne - Luxembourg Équipes : Qualifications Européennes pour la Coupe du MondeFootball",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Däitschland - Kader Lëtzebuerg: Weltmeeschterschaft Europa Qualifikatiounen Fussball",
           "summary": ""
         }
       }
@@ -5509,6 +5608,39 @@
         },
         "lb": {
           "title": "Fussball: Lëtzebuerg - Wäissrussland",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f5be9895767ceab01648eddae471153b505aaf8e",
+      "title": "BERITA (26 Jul) | SG-Luxembourg iktiraf pentingnya untuk terus bersikap terbuka, inovatif",
+      "url": "https://www.youtube.com/watch?v=9qEZaU9S57s",
+      "source": "BERITA Mediacorp",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "it",
+      "publishedAt": "2026-07-30T21:30:40.762Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/9qEZaU9S57s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkpZ5E-bqAhC3rI7ZHgVOVTL-hZg",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "NACHRICHTEN (26. Juli) | SG-Luxembourg ist sich bewusst, wie wichtig es ist, weiterhin offen und innovativ zu sein",
+          "summary": ""
+        },
+        "en": {
+          "title": "NEWS (July 26) | SG-Luxembourg recognizes the importance of continuing to be open, innovative",
+          "summary": ""
+        },
+        "lb": {
+          "title": "NEWS (26. Juli) | Den SG-Lëtzebuerg erkennt d’Wichtegkeet weider oppen, innovativ ze sinn",
+          "summary": ""
+        },
+        "fr": {
+          "title": "NOUVELLES (26 juillet) | SG-Luxembourg reconnaît l'importance de continuer à être ouvert et innovant",
           "summary": ""
         }
       }
@@ -40779,6 +40911,39 @@
       }
     },
     {
+      "id": "47b5186133f1bdfcf1ad7653e47e21e64587e6f6",
+      "title": "Galería de Casa Luxemburgo / Richard Meier & Partners - 13",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQW5ScE1OaUJZbzVtSEdfcDJmRzVuWnBObmk1VzFQc1pOdkJBMDFjc3p1U3hGZHpsdEJMdDZUT2g2SjZfWXdsT0hDR2Q2bDZwdGZxX1EzN2NZY3J4RVlTdkFkcW41SHJxYXdnNEtiUWc5Wk1iaTk5TmNzd0RCbm1OcFFEMDkxX2F2MkJDS25WSFNxUVJaYUttWTUtWE50aWNRb1N0N3VldEFBeDMzUkNfVUh6REI2TXVRckJjcTdVNHBRbXRMY0dRN2Nub2tFVUdmaU9OY203Q2phUV93dlF5WTZoZ29OaEc1dGUxZHo0SGZnWUlkTHc?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-14T14:45:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxembourg House Gallery / Richard Meier & Partners - 13",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg House Gallery / Richard Meier & Partners - 13",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie Maison Luxembourg / Richard Meier & Partners - 13",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg House Gallery / Richard Meier & Partners - 13",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "31ea5b32d7befa787eefdfe33b14feb1e6266e51",
       "title": "Galería de Guía de arquitectura de la ciudad de Luxemburgo: 23 proyectos para explorar en el Gran Ducado - 1",
       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxON09IbFhyS0R3QXh5QVFfb3poRVlITWtIX0JxZGdWbE1vWnhZZUt1b05uMVl6SzNrSTVBd202dXlnanoyR01RN2dGb2VIRDd5cV8xQkd6ekpGaEM2NmpOTzBvWkdoN05EMFpGcG1NdkhIZXZldk90VVVPRjEzSDdReXpGUmNFMll0ZXlHSkFlM1VFN1duUDAyeTFWZHZIZW9MMHJrWC0xOW83ZjlKR2I3My11bGhNUFdwc3NHU2M0bVh1cHRndF9hbHlBTzhJRzRJVjA5OEY4c21uaWJhWE9HV09acUtJMlQyQUNQYXF6OUNHSDJ2c21CSmptYjl5bHhVdllzbFJ3Z2VNZGxPbmM2Y0tmcDY5MFJnWmRyMW9hWTBDd054ajNaOEU1cmFFM1FXSDVmOERQOHNNb2pRQm01T2RCX0FLaHQ3LUxjbTIweVczc2dDYWxxOA?oc=5",
@@ -47236,171 +47401,6 @@
         },
         "de": {
           "title": "Luxemburg: die letzte Chance, Junts zu erholen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "55aa3a4a5d7abc0345a34c179bf3075e5b9cead1",
-      "title": "Luxemburgo: la última oportunidad para recuperar Junts",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1kyYWZyN2hnRTU5eHJkTEkxQk1PaGpGQW12M3dpVHdJUFE5bHZLNmRZaVl1blZkOUJzemZ3dWFma0JXak1idmN1bGJmU0duOUk2bmhuOWRXYUMtY094VmhiMGdMSzBxYTlFRHlPWjU5c3kxbTU0TmVBbGJCdXlRbVkwRzhiNGs?oc=5",
-      "source": "notasdeprensa.org",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-12T03:30:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg: die letzte Chance, Junts zu erholen",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg: déi lescht Chance Junts ze recuperéieren",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg: the last chance to recover Junts",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg : la dernière chance de récupérer Junts",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "18ccf7f37bb8495119921e93bcf7c1a753aa0dc9",
-      "title": "Galeria de La Maison du Savoir - Universidade de Luxemburgo / be baumschlager eberle - 6",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxObTFTZXZqdDdQYWo5aFNkTFUwSC0yNDJ3XzQyQzdPOTYtNFc4bDdWUVBUQUFDS1A2Q3hENnRtTXpqcE1IZHdneFVCdFEtTFg2SDk1OWZlaFBNenZielFGNWRheUVkanZjampfajhQbVdMRmlQY2pvRDMzVE1uSFRVSTRvWGNybG5yeGsxemx6dHVUbHdXWFppc2x6VXJMa1A2V1padGJWRGJrbFY3V1dSNXdBOWpSYy1HRG9mellobENOR0x0aTdxSzRNUF8xYTFjdTdJMEI3dWxwVjJlVkRHU0thRFhadlZkU1oxTm4xTmV0MTdEVTR6c0VHTzNWMTdkRWpSbWZ1ZndDcW55bXRuc0RLT2p1RFMzeDRBRDVSbVpMczZicTY0NGFsa2E?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-12T03:29:20.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Galeria de La Maison du Savoir – Universität Luxemburg / be baumschlager eberle – 6",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galeria de La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 6",
-          "summary": ""
-        },
-        "en": {
-          "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 6",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 6",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6e0587746dff220158091665709f15107b913797",
-      "title": "罗体：前国米主席张康阳在卢森堡起诉橡树，最高赔偿4.5亿欧",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55STVKWW5lc3R1c2tXVXRrdElSWmJYdzlTZmtob2w5SEE3VU9tbnlOQ0xtdHc5eWUzTVF3VFBkTFdUNEtOby12MWlhcWhGV0xuck9jbmZnUWdJTEJGSHVJWi1B?oc=5",
-      "source": "网易",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-12T02:36:43.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luo Ti: Der frühere Vorsitzende von Inter Mailand, Zhang Kangyang, verklagte Oak Tree in Luxemburg mit einer maximalen Entschädigung von 450 Millionen Euro",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luo Ti: Former Inter Milan chairman Zhang Kangyang sued Oak Tree in Luxembourg, with a maximum compensation of 450 million euros",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luo Ti : l'ancien président de l'Inter Milan, Zhang Kangyang, a poursuivi Oak Tree au Luxembourg, avec une indemnisation maximale de 450 millions d'euros",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Luo Ti: Fréiere Inter Mailand President Zhang Kangyang verklot Oak Tree zu Lëtzebuerg, mat enger maximaler Entschiedegung vu 450 Milliounen Euro",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "da12378886f631463d41df5063b46de7c7737cfc",
-      "title": "Galeria de Casa Luxemburgo / Richard Meier & Partners - 10",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUm81LUk0clhGYXZVbmVfYUhlTGJiRF9oM1FvcFZYZ3Z0QldjM19wYjRBWUpJcm81bm1lMk1iRThnMTJsRVdGT2lYM3hSTk55OHRJWE1idFktY1ZlYWdGRVhsUjc0ZVI1U3YwTW40TmdaWEs0LWgxSFlkMFdCTUx2UXMwSURSell5cnh5c2s4di1DdGFhUGRlQTVsaDNaaHdPWXg5S2c3RDk0WUpDMXlodGVwY2p4c0Yza0lFTWpBTFdrNDJRWnU2eU16Y0cxZ0NoM1VlVnVPRnI4cDQzbmNaSnpLcnVWZDl2eVdN?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-12T01:11:38.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg House Gallery / Richard Meier & Partners - 10",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg House Gallery / Richard Meier & Partners - 10",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxembourg House Gallery / Richard Meier & Partners - 10",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie de la Maison Luxembourg / Richard Meier & Partners - 10",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4fdd1e987fc0e78197f3caea350c28b6dccc8ad3",
-      "title": "Προώθηση του εμπορίου και των επενδύσεων μεταξύ της πόλης Χο Τσι Μινχ και του Λουξεμβούργου.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFpDdUZWaDYxQnBVQlVTRThJcnpHX3dkdUUzTnNMUUJCODh4cEtoOHFya09oM2sydWJ2Sy05cHR0NVlmSkE1YXhWTlRfLW96bWZFZUgwMGZXeVNVZUluWlh4X3lvQ1VILUtZekVlS2tKdmdYcl9xeHV1dENnaEtwdGlSaXA?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-07-12T00:27:35.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Promotioun vum Handel an Investitioun tëscht Ho Chi Minh City a Lëtzebuerg.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Promotion of trade and investment between Ho Chi Minh City and Luxembourg.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Promotion du commerce et des investissements entre Ho Chi Minh Ville et le Luxembourg.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Förderung des Handels und der Investitionen zwischen Ho-Chi-Minh-Stadt und Luxemburg.",
           "summary": ""
         }
       }
