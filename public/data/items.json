@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T18:03:57.118Z",
+  "generatedAt": "2026-08-04T19:57:33.798Z",
   "items": [
     {
       "id": "967431c82893dacc927f94c4a664b91cc9a7a552",
@@ -113,6 +113,35 @@
         },
         "lb": {
           "title": "Aktuellen Iwwerbléck: Brennstoffpräisser zu Lëtzebuerg: Super 98 an Diesel ginn däitlech méi bëlleg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8aaa4a293c8c7327d17e3cfcf310a41c43f7c12b",
+      "title": "Aktueller Überblick: Spritpreise in Luxemburg: So teuer sind Benzin und Diesel",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTNXcW9zMEt3a0J3SkZVeUFvbG9iRVRaclFjUERvdlJiYTVFMVpTYTZhU0NJV29NUVZKR1dVMlEyM3B2bXUzVElaR0g2cnFhbUd2a3JBd3F2WFlOeUJ0MUVqVHR5SllGUkZLYS1Ba2pZTkJaYzVvMjBJb0Zna1lhbVhFQUZ6b3lDT192cURGMEV1V2hGaXM1bF9seDA4b29yVXl5NW1PZ3NnLTNSWVBQelZ5OUY2WkVVekFNWXFB?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-04T16:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Current overview: Fuel prices in Luxembourg: This is how expensive petrol and diesel are",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu actuel : Prix des carburants au Luxembourg : voici le prix de l'essence et du diesel",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Aktuellen Iwwerbléck: Brennstoffpräisser zu Lëtzebuerg: Esou deier sinn Bensin an Diesel",
           "summary": ""
         }
       }
@@ -527,6 +556,39 @@
       }
     },
     {
+      "id": "59cdadca940ebc07ce5b796fb899fd3f6d20c679",
+      "title": "画廊 卢森堡基希贝格办公楼 / Paul Bretz Architectes - 18",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNQWx4LVA2YUJmQkMxbHl1cUYyUEpWMGt4bmpQcXNoR1ZtanlUcVNDa19LSjdjR0xGdmNNZUY2UXJqUUNmYTlmQVN2VWRxVTNkN0piYzBsdTR2MTBKSnRZbFRiLWpmMHZxNE5wcTZaLTdhaGMwYTdibmkzZTFxcXk3eXJSZ3ItX1VkTWtIcFh3RGI5VmxLNGtnbFE3MjI5YS1wcFVjOFRhMXdNem9JaEdqRENKc0ZrRHEtY2dJSXZOX09PZ3hrdWtZVnpzTXRsc2ZXX1pzM1BFYUVqalh3Y3dPcjczbjRQTFRhZUhxMl8zaEpfQmN0bjJHeDBVU0RFVHFfSGhFUzdldnpsWUl2M3VrWVE2SzE2ZVBoTTJkcm4yTGNSMUlrOHc?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-04T10:04:55.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Galerie des Offices de Kirchberg, Luxembourg / Paul Bretz Architectes - 18",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Office Building in Kirchberg, Luxembourg / Paul Bretz Architectes - 18",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de l'Immeuble de Bureaux au Kirchberg, Luxembourg / Paul Bretz Architectes - 18",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Bürogebäudes in Kirchberg, Luxemburg / Paul Bretz Architectes - 18",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "fac3a5359c7dd7e8ec88f5038b3d298f0c9be5d9",
       "title": "Spritpreise Luxemburg: Dienstag, 4. August 2026",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTTlwSV9MQS1scWJpaVMxVVlNRThsbnl2Zi04UE1uLTBkclctVEZUQ1pWNlpzdy1HT0h4dE1HNUxtTGU4SEFhNUFvM2pGWEFZdm4xQU1yb1hMU0VWQzZneVUzT1lHOW5FN2hHQVFvQ2hNa0pacmxIV2ZVZ3U1ZHlpSA?oc=5",
@@ -675,6 +737,39 @@
         },
         "lb": {
           "title": "\"Dräi grouss Bränn\" op e puer Plazen zu Lëtzebuerg deklaréiert, 150 Pompjeeën mobiliséiert: wat mir wëssen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3c83afd055dcdcfd3985955d1e777bc3e12a6cd0",
+      "title": "画廊 卢森堡成为第一个公共交通全免费的国家 - 1",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPRl84NnphdnZQc3R4QUhTSUhTVXJjdGZkUHNtU0N6WlZKbWdhS1VRdFRwMXZ6QWlLak10akJsM1NTWnZEdVFWTnJvZFROTjRZYzRhOGZGRjRJY0dZdnNvdV9GUDhxd1hUN0h6ZVludEVDSjR2d19YcEROR21uWkxYUjlxLXc1MnhZVmlsaks5V2NEUXZCT1g0RHVYVm1WNUJpX3NOamY2Z2pCNC1yRFN6RXZ6cWttZ0xDU01VcHVrd2V2YjF3Wks4M01GV3Z4X1ZpaVl1N3N1OEtGZFNDZU1WeUlNV2g5STlWcmRDSlZGdENTUHJuU2hGQWtLNTFsbVctRmNIX2ZLM2l1eWVzTUpoMTBSWE5kenZqWkVGaDFGMXJ3dnI1ckVnTmZ0bHlHT2RPUWxFMmpwNlBaU25IRFpub3lhSFdGX0hkQ2pZMWNyTUVrM2ZjNUhieXk2Rk40bktBbWc?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-04T07:34:14.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Galerie Lëtzebuerg gëtt dat éischt Land dat den ëffentlechen Transport komplett gratis mécht - 1",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery Luxembourg becomes first country to make public transport completely free - 1",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Gallery Luxembourg devient le premier pays à rendre les transports publics totalement gratuits - 1",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie Luxemburg ist das erste Land, das öffentliche Verkehrsmittel komplett kostenlos macht - 1",
           "summary": ""
         }
       }
@@ -894,6 +989,39 @@
         },
         "lb": {
           "title": "Seoul Startup Hub Gongdeok a SkyinQ halen zesummen \"European Advancement Seminar\" mat der Lëtzebuerger nationaler Innovatiounsagence",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "002a4c638d8084891697b7d591e8d632f746a091",
+      "title": "На улице Розы Люксембург укладывают асфальт",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUEs4T2dtVjd5S0w1WXpNR3JFZHRmamJYallWWW8xTi1LTmdsUXRkdW0yX3FGT2NleFh6cnF4cXhCX29vY0lNYnpiSFgybTg4dmlsTVczZkgzWmN3c3NHWkt1UnhSLW9oYy1mRHN2Mk8zTWFXczA5TjFXZm1ObXBmS1hZWktRVS0taTRPSFhGcUg0OXc0?oc=5",
+      "source": "ИркСиб",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "An der Rosa Luxemburg Strooss gëtt Asphalt geluecht",
+          "summary": ""
+        },
+        "en": {
+          "title": "Asphalt is being laid on Rosa Luxemburg Street",
+          "summary": ""
+        },
+        "de": {
+          "title": "Auf der Rosa-Luxemburg-Straße wird Asphalt verlegt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'asphalte est posé dans la rue Rosa Luxemburg",
           "summary": ""
         }
       }
@@ -5240,6 +5368,35 @@
         },
         "fr": {
           "title": "Le Luxembourg propose des billets en euros avec un canon et un tank",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "26861d5d4f899dbd4580dc5ec774f5814a324a7c",
+      "title": "Neue Euroscheine: Dieser Motiv-Vorschlag aus Luxemburg sorgt für viel Kritik",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVDJfYjR3ZDRmZzZyUl9ZZHVCS1FTTDRoTjBLa0hiLVJDUTYzTWZFMXhvUjg2SkN1SkFpWGh0UWlja2FuMEU4V256VmZRdzJLOWUxOTZNTWl6VnhVVFFvNmZPOWkyaDU4bkJPSFRRWmVWWmY4Smdud25mWTFCeGp6OVdJTFdMcDNScGI3MUk1bGd5ZmxnMUwzWjQ4RDNnSzdOMEtkUXlIQ0x4SGRJRXh3bGZMSHNZbFFMUHBRUlozVjBwVENteWtxelNXS2dBYnJrYl9oNW10ZGt1Rnd4WmZ5ZDQ1ejlFOGp5eDR0SmttaDN1dw?oc=5",
+      "source": "FAZ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-31T15:02:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Nouveaux billets en euros : cette proposition de motif du Luxembourg suscite de nombreuses critiques",
+          "summary": ""
+        },
+        "en": {
+          "title": "New euro notes: This motif proposal from Luxembourg is causing a lot of criticism",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nei Euroschäiner: Dës Motivpropositioun vu Lëtzebuerg suergt fir vill Kritik",
           "summary": ""
         }
       }
@@ -30653,6 +30810,35 @@
       }
     },
     {
+      "id": "33d763d5fa66fcbd2d3c2de89c1b0e26bb8528f4",
+      "title": "Luxembourg v Moldova - Ranking SF",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSVY0cmRtSkFtT0M3cGRnU3VVOWRQWTdlUlNsWWVZM0pfczVsOHpxWUgwcndHc1ZrdUVLSGd3WFRBWG1oWmZFSGNfQzVpVDFQN3l0OUtROTJ1VUdIdmh5TUE2SWlPd2RmTWtNek1acTJYYkUxTkt2bDNOR1BHLXRfUEMxOEd3YXgzVzVvUW9BNUtSQ3NXUERFLVFRZVVSYmtTbHdTMExuQnl4b09oQ0FZLXJDYmJMY0RORENNYkg2NVBRWk93U3VmbUF3?oc=5",
+      "source": "Rugby Europe",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-18T18:16:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg v Moldawien - Ranking SF",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg gegen Moldawien – Rangliste SF",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg v Moldavie - Classement SF",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "88a818b5817a402c39fc0218161a9a64e68dbfa2",
       "title": "Статистика 1 дивізіон Люксембургу 2024/2025",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRldyNGlPTFNfN1gtbzN1bmV2WkIzU2hqTHdEeGtLbGtMTHYtbW1yTUxSc0Jvdno3OGlEeXF4OEJLSVhiMmtLSldLd0s1YkMyYk1ad3g5NlRIbnBaTTJsMmN2eTZlUzBKNXk5WnV5TGVsT2FMXzhGdzJVb3JUNHJWYTVFcG5ORmlxVXRSa0ZLQTZVMV9Cemcw?oc=5",
@@ -47218,196 +47404,6 @@
         },
         "fr": {
           "title": "Luxembourg, \"La Commission est réticente à l'égard d'Israël, nous ne pouvons pas attendre les élections\"",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2a7b66e66fd2383044ddf513c6241268f71c445c",
-      "title": "Luxemburg van de troon gestoten: dit is het goedkoopste tankland op vakantie!",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNay1GRkE2NzNBVkVfM3RNOG91UFVUY2IxVVdud3AwZWF0WkVTNTBjSXVpYlpCTUpHbTJHLTNLU0Q2Q1JURk90UjVCODBaelJwcVVxVk9YYVZ0YlliR21rNU1uZ0t1MVRaX2l1WEVZeXJqMzJGME9xZmdkaFRkN0t6ZFJTME92UmVscXBUbkxWX0F4ZVV0?oc=5",
-      "source": "Autoblog",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-13T07:50:03.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg denthronéiert: dat ass dat bëllegst Brennstoffland an der Vakanz!",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg entthront: Das ist das günstigste Treibstoffland im Urlaub!",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg dethroned: this is the cheapest fuel country on holiday!",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg détrôné : c'est le pays du carburant le moins cher en vacances !",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6ccca34353fa6766b4541c4cc71242cdaa3025c9",
-      "title": "Fc Luxembourg City ضد هوستيرت: نتائج مباشرة، تشكيلات ومواجهات سابقة",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXFzY1JZdmsxVmZuYnd2eVRzOFR6OGxMZDR2YllReEp1S2xvTXc1X0pMSDNNRlJnTHZjeW05N3JNUDVHV1RJMmRGS0JTaXA3aHR3dkVxbFpKODJsRVhMY0tzSVoxVHZHRFlHSXFUZ3JwT1FfdlZiVnZtc2VDVk9HY3d2U0RRU0VoNDUxNUN1SU5IS0RWVEs4MXUybjBkcUxVUVRCTFRYUGptUQ?oc=5",
-      "source": "365Scores",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-07-13T07:42:18.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Fc Luxembourg City vs Hueschtert: Livescores, Opstellungen a fréiere Matcher",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Fc Luxembourg Ville vs Hostert : scores en direct, compositions et matchs précédents",
-          "summary": ""
-        },
-        "en": {
-          "title": "Fc Luxembourg City vs Hostert: Live scores, lineups and previous fixtures",
-          "summary": ""
-        },
-        "de": {
-          "title": "Fc Luxembourg City gegen Hostert: Live-Ergebnisse, Aufstellungen und frühere Spiele",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0635dd4cb0f32264f50f24b863abe09cdaa7fa00",
-      "title": "Niet Luxemburg: dit is deze zomer verrassend het goedkoopste tankland van Europa",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mNERucnIzNzFaalhIMTIyenFONXp5Q2Y4UjNNUVd2a1JTbzZFMk5xaEtIcE9meVBwQlBLNzk1b2dfUk9pZHl5ZUN5eUtKTzItdE5JZ1pJeUlxNnMxLTY1azYzLVAwdk1JN1NOdTg4dTVQVzBxVGdXaw?oc=5",
-      "source": "autobahn.eu",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-13T07:30:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Pas le Luxembourg : c'est étonnamment le pays de ravitaillement le moins cher d'Europe cet été",
-          "summary": ""
-        },
-        "en": {
-          "title": "Not Luxembourg: this is surprisingly the cheapest refueling country in Europe this summer",
-          "summary": ""
-        },
-        "de": {
-          "title": "Nicht Luxemburg: Dies ist überraschenderweise das günstigste Tankland in Europa in diesem Sommer",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Net Lëtzebuerg: dëst ass iwwerraschend dat bëllegst Tankland an Europa dëse Summer",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6e0f821ee38bd4b0918f5bd3a2a3b165312ae972",
-      "title": "Spanje haalt Luxemburg in als goedkoopste tankland, meldt ANWB",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXZWbDJkUktvMENWcXlKRjNIVUw3SXVXaWdmcVRISmZOU0d4QTVUYVdSU2pmOTFFLUgtUlBrTFA3RlU2QUNtbXJHWUttWG5XNnhFU2FJYkdRVGFJaXN5T2k5d3B4WFZLd3A5aGxJTkQzN2stTzR4alFfZEYxWXViMENiR2V1UzRMYmJsazRMbDRjZC1paE1nUktlMktiVVlFNjVRd3N4dG5pUQ?oc=5",
-      "source": "Welingelichte Kringen",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-13T07:29:17.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Spuenien iwwerhëlt Lëtzebuerg als bëllegst Tankland, mellt d'ANWB",
-          "summary": ""
-        },
-        "de": {
-          "title": "Spanien überholt Luxemburg als günstigstes Tankland, berichtet ANWB",
-          "summary": ""
-        },
-        "en": {
-          "title": "Spain overtakes Luxembourg as the cheapest tank country, reports ANWB",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'Espagne dépasse le Luxembourg en tant que pays de chars le moins cher, rapporte l'ANWB",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "17b5d46d814cfbecf91948289279e65f7f453e13",
-      "title": "Une exposition Leonora Carrington à ne pas manquer au Musée du Luxembourg !",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYm5hdVlUUU9XZWFBU25EdDc0bi1haE5vV1luLTJHWjk5UDhneGF2aE02emhRRHE3VnUzQUNKcURPa2s1Tm9HV2lyODNCUjJiczdUM19HajFQT0xXcE5nUmZRemtCYUZIWXZoTXlyWXB1WjkyUllDMXhUYnhvYkFtMzJxNThVR3RLNjFJUUEtY3lKRWpvQjBlN0NTT09ka2J4UXNKTWp0VU9ZVEJhOUs3cmFld2tvWFYwblFFaWZDWmk3OW1lYXBrcURfbzhCRDhkTUlRZVJFMHB6ZlNCMlNwMm1n?oc=5",
-      "source": "Le blog de Michel-Edouard Leclerc",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-13T07:20:10.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "en": {
-          "title": "A Leonora Carrington exhibition not to be missed at the Luxembourg Museum!",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Eng Leonora Carrington Ausstellung déi Dir net verpassen dierf am Lëtzebuerger Musée!",
-          "summary": ""
-        },
-        "de": {
-          "title": "Eine Ausstellung von Leonora Carrington, die Sie im Luxembourg Museum nicht verpassen sollten!",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "dddd5e10c3907b936c70a1b100f0f9ef7aa07d7b",
-      "title": "Teacher fired in Luxembourg over Instagram posts in support of Palestine",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pSFZjanc5TS0tbm9GNFg4RC14eGJseEJxYkxiVE9aWkNvelVSYjJOZk5MVXpVWUEwZXRvQ2E2b2o0Zw?oc=5",
-      "source": "خبرگزاری بین المللی قدس",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-13T07:10:38.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Enseignant entlooss zu Lëtzebuerg iwwer Instagram Posts zur Ënnerstëtzung vu Palestina",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Un enseignant licencié au Luxembourg pour des publications Instagram en faveur de la Palestine",
-          "summary": ""
-        },
-        "de": {
-          "title": "Lehrer in Luxemburg wegen Instagram-Posts zur Unterstützung Palästinas entlassen",
           "summary": ""
         }
       }
