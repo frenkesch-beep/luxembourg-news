@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-04T19:57:33.798Z",
+  "generatedAt": "2026-08-04T21:36:54.097Z",
   "items": [
+    {
+      "id": "ac68e3bf0870f46156d994a16172b41b2fa384c7",
+      "title": "На улице Розы Люксембург укладывают нижний слой асфальта",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FaFZNbnZhd21yOXNpOVBuU050MVNtRWxEam5DbTY3S2pGMG1tTDRab0FDdkJWVktiRWllcEl6VE1BTVQ5NTZNcjdaWnNlZ1F3dkE?oc=5",
+      "source": "Байкал24",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-04T20:53:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "In der Rosa-Luxemburg-Straße wird die unterste Asphaltschicht verlegt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La couche inférieure d'asphalte est posée rue Rosa Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "The bottom layer of asphalt is being laid on Rosa Luxemburg Street",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Déi ënnescht Schicht Asphalt gëtt an der Rosa Luxemburg Strooss geluecht",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "967431c82893dacc927f94c4a664b91cc9a7a552",
       "title": "++ TANKEN IN LUXEMBURG AKTUELL: Spritpreise für Diesel und Super Plus fallen deutlich ++",
@@ -956,6 +989,39 @@
         },
         "lb": {
           "title": "D'Enn vum populäre Lingeriegeschäft no 116 Joer: \"Ech hu regelméisseg Clienten déi zu Lëtzebuerg an Neuseeland wunnen\"",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b39a1726df8dd27df7ae93c41452f0439a708364",
+      "title": "Galería de Centro de Aprendizaje de Luxemburgo / Valentiny Hvp Architects - 14",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPY0Fob1dWSkJtdFppZlJwLURPLURJZ1VCOVo2QktyZ081bWl4QjVtRFNTNXl5SGdkTHJBVi1TSkw0OTh6WDFRVGkwQmw1LVI3MVNBb1BFNFdVMWxhMDdULXhvNFFfdnYzb3lJVDhxcS1EMjZOekh6MXJQTm95bFNrWmR2Nl9IQm0xSzNCQXpPaDhIaTJOX0dtS3dyUFdVNUh1UHh3QzRXVHRaRmFSbEVZWWtneEotaTAwUl9qdW5VbWp5R0pMRlRIcENXQXh1ZWdCaTlJVGVoVmJTUU1wQ05BLVNvTXVod3hrM2F1TDJpRGxkNUJkUTRONTZEWk1Ybk5QdzFUZVZlYzl4Rnhv?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-04T02:04:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie des Luxembourg Learning Centre / Valentiny Hvp Architects - 14",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of Luxembourg Learning Centre / Valentiny Hvp Architects - 14",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Luxembourg Learning Center / Valentiny Hvp Architects - 14",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie du Luxembourg Learning Center / Valentiny Hvp Architects - 14",
           "summary": ""
         }
       }
@@ -47029,6 +47095,39 @@
       }
     },
     {
+      "id": "e2b7cc21e64a98b1ce18c3d4faed61b04c53c722",
+      "title": "Spanje haalt Luxemburg in als goedkoopste tankland, meldt ANWB",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLThxakNTdnhqbGUxc3VDMGNtcWxST0tRUmVYcU5OTHJoYnQxWl94MjZ2d2EwTzZ5Ry1vU1ZaTzdOaHN0RVNEdDRpa1RMYVFtZktJVFd5WVhSNHY0cWduelJrVk1IM3VacjB4VHZhV1ZLb0FvY0NtbmFMMkcxUzRsQ003UEJYMVBmQjBFWjZ6QW5jZmZ3aFRMZUlsRzhsZnBvYmhJ?oc=5",
+      "source": "Transport Online",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-13T09:24:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Spanien überholt Luxemburg als günstigstes Tankland, berichtet ANWB",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'Espagne dépasse le Luxembourg en tant que pays de chars le moins cher, rapporte l'ANWB",
+          "summary": ""
+        },
+        "en": {
+          "title": "Spain overtakes Luxembourg as the cheapest tank country, reports ANWB",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Spuenien iwwerhëlt Lëtzebuerg als bëllegst Tankland, mellt d'ANWB",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "1e7ba8293b6233289dbf0fd1f93f78e9fe1da4c8",
       "title": "Niet Luxemburg, maar Spanje is nu het goedkoopste land om te tanken",
       "url": "https://nos.nl/l/2622832",
@@ -47305,105 +47404,6 @@
         },
         "de": {
           "title": "Luxair bedient Helsinki und Edinburgh: zwei Hauptstädte direkt von Luxemburg aus",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "536e942b1acd909d0692236cc8fa503580c22d0a",
-      "title": "Luxemburg niet langer het goedkoopste vakantieland om te tanken",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmJnY25rQ0ZrLU9fZm1qOG5CRVJJUllZazlqRTl1M3B4MDFQeGVzRVhkaXBON3c4TVMtcEh2VVpTSmpDclByMTVzSnNrWHVLZDR2NDg1cE5FbTB6c0FlSXhqdTQ0QTI4RktDR0c3TlVua3pPYmZmZmNKbTRJQ1FQbVJXRVBaNDc0N1NVT1RuM3dXcFl3X3RjWmozRVhBaXdOc0dmRFFmNVphUFk?oc=5",
-      "source": "AutoWeek",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-13T07:59:18.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg ass net méi déi bëllegst Vakanzendestinatioun fir ze tanken",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg is no longer the cheapest holiday destination to refuel",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg ist nicht mehr das günstigste Urlaubsziel zum Tanken",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg n’est plus la destination de vacances la moins chère pour faire le plein",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0323b925b27043df6f89ab51d0e999316958a1fa",
-      "title": "Με \"άρωμα Κρήτης\" η ελληνική εκπροσώπηση στο Παγκόσμιο Κύπελλο Μαγειρικής του Λουξεμβούργου",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmdTbGhuWVRyUkhhNzNaZE9NdGFJRFZaei10UUp1UEo2NktXZ3h1b09IaDgxYS1nUVJac2Z2cUdYRmdPY2JJYVdWUS1ZRjBVc0swb1FieWx4NHhHa1RHVklRQ1FnUFVsM1k4RWlaZEVDUjgwMGJGUmJUQ1hqWUloNlJfdHVJQ2hYRUhmQ2dxQ3JMMkZxbExhNVFqcUp5YzYxWFBTazh6TE5iZmxQaTlKck1SakNuTk1aYkFFTg?oc=5",
-      "source": "Cretalive",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-07-13T07:52:07.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Mam \"Aroma vu Kreta\" déi griichesch Delegatioun op der Lëtzebuerger Kulinarescher Weltcup",
-          "summary": ""
-        },
-        "en": {
-          "title": "With the \"flavor of Crete\" the Greek delegation at the Luxembourg World Culinary Cup",
-          "summary": ""
-        },
-        "de": {
-          "title": "Mit dem „Geschmack Kretas“ die griechische Delegation beim Luxembourg World Culinary Cup",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Avec la \"saveur de Crète\" la délégation grecque à la Coupe du Monde Culinaire du Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "59dcca54c7202c25198f04e09462f53c85383cc0",
-      "title": "Lussemburgo, 'su Israele Commissione restia, non possiamo aspettare elezioni'",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZEE3LU5TVU05Zl94WlZaNUZyZzd2Q0hXV2tSZlpOYVRrRmI4c3ZKTHZoR1ZaTjR1Ym5FS3pwOWFmUzktdHBrRUU5dXFLLXNXdTU2NkNyVzBVcmhXa25VUlBFUk5SdHVCTkJLMnRuQzhXcklTeWJxOU5qbmV4T2ctNWc3bFlOTmJHclRfT1BPckhzaG00YUhnTXBidXR4bWp4RlJQeDF2TURrczdnZjdpODVld1Zia0hkaTZESlVTbFY2TWYtemRib1k2b1pCUEczaXlWSmRGd0xTb3A0RTZ2ek5qX3JNR0FGUHBDV2JfRk5tUkV4UUNIYVRWOXljUXN4cGxfbHNCZFhDNTRU0gGSAkFVX3lxTFBBMmxfS05OYXFKVEh0d0puaUJlUXpMZ0pRT1ZwcnpiWjdPa0tMalM0Z2ZFU2szbGg3cjliM1JBY0Zaamg1MnVkcG1SYzJqNWtXSU5mTlBwR24zMDhCbzJURzBlZDFnaWROV3hYdVpUTVo2dUk4Q2hwMFRDVFkyMm8waEJCU0xqTXJoMG1rS0MwRkhMLWVhQ2NKVlJQcnJGSE9lZlBZNHVmWjdUekpYX2J5XzRXdF9RZ1NmNXRhZWh3OFZfckE2U0NQMm9EeDh1M0Z3M2hvdUlFcVJFeExGTUNRSGpGVGV1Z0x4cDNqWHpLam9JYjVWN0FzQzV5WkE1R0ZzbmpFY0g4SmNmN1ZNVVlTa3c?oc=5",
-      "source": "ANSA",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-13T07:52:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg: „Kommission zögert gegenüber Israel, wir können nicht auf Wahlen warten“",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg, 'Commission reluctant about Israel, we cannot wait for elections'",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg, 'Kommissioun zréckbehalen iwwer Israel, mir kënnen net op Wahlen waarden'",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg, \"La Commission est réticente à l'égard d'Israël, nous ne pouvons pas attendre les élections\"",
           "summary": ""
         }
       }
