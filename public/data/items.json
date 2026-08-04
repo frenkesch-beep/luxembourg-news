@@ -1,6 +1,101 @@
 {
-  "generatedAt": "2026-08-04T09:58:50.490Z",
+  "generatedAt": "2026-08-04T12:19:51.083Z",
   "items": [
+    {
+      "id": "d1a43ebf8f51470626d3c45772e8bedf0b0c74c7",
+      "title": "Luxemburgo se suma a las Colectividades Extranjeras de Tres Arroyos",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSkJrOE8yV0dxajJlMzdoTFZUYVBQVTdfVkNDanlFaU1tSXBLUFhfY3lRWnUzaGJYbldhVE1tLTdkeEwyRzNjcWxVZVNKdWZ4eGtSdHA2X1VzN0o2UHJvUS1pMGZQTF9KdWpiWGt0bXBHb0dqT2JTcEJkZnlDN0hNWWdpVEh6b3ZTMW9sYlAxMHJwZ3dScFNSeWZ4eXVNUVlqbklBcy1rcTBWRDVLZ1lKYnNNV2ZydnNaM01PVm5rclh5ZWFoZmRndHJ6dVB1elRiRVJaUkRoODZDbzRJQk9uNjNUSHZFWWJwU0V2UHVVWmI1dUR4eWppSk5lSjlDSEE1WFdLZ2JRRlVIdm5IOGtEUkI3MUN3QQ?oc=5",
+      "source": "Vía País",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-04T12:04:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg schléisst sech an d'Auslännergemeinschaften Tres Arroyos",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg joins the Foreign Communities of Tres Arroyos",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg schließt sich den Auswärtigen Gemeinschaften der Tres Arroyos an",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg rejoint les Communautés étrangères de Tres Arroyos",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d61c95f968b1fab0d74a442cd671f6bb177c9f6b",
+      "title": "Мастера томской парковки: классика на Герцена или авангард на Люксембург",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS01ma3dEa0Jaa2JYM0VpZUJKeTZfRGY0cDVsRWtrbFhJOGNvMWtqNmhmaXFfRUZ3ZlZXN29SbmhvLW8td2J1dmNfQlNqel96RWUySXZNVkRzNUtRZmZ4U25YSkU2RmxVSU9CYU1qZ2lIUTZsUGlYNmZ4Y005MlVQRThsazBPekowajBYM3RoRnFuNVNEc0RJMTNZRHZhRXFLNjhzcFlsTEU?oc=5",
+      "source": "Tomsk.ru",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-04T11:01:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Masters vun Tomsk Parking: Klassiker op Herzen oder Avantgarde op Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Masters of Tomsk parking: classics on Herzen or avant-garde on Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les maîtres du stationnement de Tomsk : classiques sur Herzen ou avant-gardistes sur Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Meister des Tomsker Parkplatzes: Klassiker auf Herzen oder Avantgarde auf Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "413552e28fdcfdc0d3152ecd2b1a765e03b13b4c",
+      "title": "SUPERFLEX and mudam visitors build a bank for ideas in luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SZGo3Z2x5Y01tczlqV2JYTEFMNWxxajlOZGJPUHM3VWRGZ1ppWmlPUXphNm1jTU5GdXhWTXFUdWgtTnoxeFNlNGhvWUpreVg1cnhpeTVhcmdOcEZWbkRsRlRzbmtMQWQwUGZMclZvWlVEUXhJbDRuZEpRZDVCdw?oc=5",
+      "source": "Designboom",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-04T10:17:40.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Les visiteurs de SUPERFLEX et du Mudam créent une banque d'idées au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "SUPERFLEX a Mudam Visiteuren bauen eng Iddiebank zu Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "SUPERFLEX- und Mudam-Besucher bauen in Luxemburg eine Ideenbank auf",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "8b48839e9cbc19bdb317edb71219b6d073484374",
       "title": "'유럽의 싱가포르' 룩셈부르크로…SBA, K스타트업 유럽진출 세미나 개최",
@@ -382,6 +477,39 @@
       }
     },
     {
+      "id": "2102296f85e3eedcdb350797de0437ea772b868d",
+      "title": "서울창업허브 공덕, 룩셈부르크 혁신기관과 유럽 진출 세미나 열어",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85emEzMjdXTWtmZVVZMnp1MXl2VkM0SXZhWnNyN0VGTHRkTGFzdkhoaUtpeGtwTDdfbGlGMTI1UGxUbEM4ZTgwYw?oc=5",
+      "source": "플래텀(Platum)",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-08-03T22:46:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Seoul Startup Hub Gongdeok organise un séminaire sur l'expansion européenne avec le Luxembourg Innovation Institute",
+          "summary": ""
+        },
+        "en": {
+          "title": "Seoul Startup Hub Gongdeok holds European expansion seminar with Luxembourg Innovation Institute",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Seoul Startup Hub Gongdeok hält europäesch Expansiounsseminar mam Luxembourg Innovation Institute",
+          "summary": ""
+        },
+        "de": {
+          "title": "Seoul Startup Hub Gongdeok veranstaltet europäisches Expansionsseminar mit dem Luxembourg Innovation Institute",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "f37e668aeb39dfe2dfca36fc535b8038e1971149",
       "title": "서울창업허브 공덕·스카이인큐, 룩셈부르크 국가 혁신기관과 ‘유럽 진출 세미나’ 개최",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QU1lGVGptWV9tbDEtNml2RGJsZksweHI3VHpDR19oWXpVTjlYSDBacU9BMDk0ZkxTUGJBM3RJQ0pXVFZaTEVrYXp4SWR1SjQ?oc=5",
@@ -410,6 +538,39 @@
         },
         "lb": {
           "title": "Seoul Startup Hub Gongdeok a SkyinQ hunn \"European Expansion Seminar\" mat der Lëtzebuerger nationaler Innovatiounsagence ofgehalen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9b3daa73c9968205361432b92e13c2b285cd2036",
+      "title": "Galería de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 12",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPVXNuMmxqN3pfclVMbUhleGdlWi11MEFfUnZQNlVzR0RTY2RfdE1wRjRoSXU3Q2hJNHhkTUtpRm5iVzlTdmw4TUpVT0tBTTV2YXhPV0xqQW12S3BmUGxFOGJOZllLbThNekVQZ1VNV0dJY1E0SmdJQ3I5OGozbUlJR3VCZ2dKTHZkUENlc25hR0VBUGNJNm5yUktjbmhTU0hjckZ2bU51N2RqWVNjOUlod21pNG9xb1JBb1c1aGRTV1E4YXFEdklxQzFCYXUxbEFNb1FGTU11RTIzYWlNZXBoTGNKNGV2N3hZZl8zbndST1NIb2xWcjF5ZnJEUU5zUjk4UXRSMktRRDVzRXR6aDRmb0lSVXpkUDl5WnpEN1NVV0tvTktldlVxWUIwMTFvQllZa21rZWlDdFEzQjQtV2JGdy1WSnZuVzM1RTdYMEVNOXQzVGhuTDhSbWNkT3BTLXpqbmdURjllZw?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-03T21:30:21.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie der Nationalbibliothek Luxemburg / Bolles + Wilson + WW+ architektur + management - 12",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of the National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 12",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of the National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 12",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de la Bibliothèque Nationale du Luxembourg / Bolles + Wilson + WW+ architektur + management - 12",
           "summary": ""
         }
       }
@@ -538,6 +699,39 @@
         },
         "lb": {
           "title": "De Gabriel an den Noah vu Lëtzebuerg kommen erëm op de 40. Gebuertsdag vum Prënz Louis, dem Kinnek, deen den Troun aus der Léift verzicht huet",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3b2a41899b8f24211f980908860cb32d58a6a4a9",
+      "title": "Galería de Casa en Luxemburgo / Eric Pigat Architectural Design - 1",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPejNoY0RvNzI0TFp3aHU0aHZzRXNkVE5JTS1rWkowNnNOQzlhUlNWWk52S0IwQ0NndHJuYjNGUERXZndVZ3B6bTFnVGZxbFpGSi1MQU8wQjdsZ1N5VERHREZRUmF3a0R1dGRKNUdjTDh1aU1ZUjJsX3dleXJwZlQyMnAtTEQ5bjhJODNUczd2ZTNydUh0UmhEQjhxZkFqX2IzVWlEeDQ0SDMzdWVSbjVxTlFhSjFqM3g3d3JOa1hpaGd0Wkt3bkVINWdTUjhrRmpYNDhFeWJLLWJnR2FZUUt4M1hpSWNvb2pZM3NoOXc4ZTgyNFU4ampFLTNVcWxueEtUdllFRTlxSFpIZkxlNlFfa09sUklBdVVKRDdidlFNcnQyMDRaUXdrMGhmSU15NVNXOUFhYQ?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-03T18:36:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie des Hauses in Luxemburg / Eric Pigat Architectural Design - 1",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de Maison au Luxembourg / Eric Pigat Architectural Design - 1",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of House in Luxembourg / Eric Pigat Architectural Design - 1",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of House in Luxembourg / Eric Pigat Architectural Design - 1",
           "summary": ""
         }
       }
@@ -2544,6 +2738,39 @@
       }
     },
     {
+      "id": "8a3b0a99f41be82f1473c49c48fdd47c05e6062d",
+      "title": "Väderprognos 10 dygn Luxembourg, Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTG9RTGRTQTdvOU9LZ0d4Z3R5bzZiSmtiRmRKaTZKbDdlYlJxNXdLRW9IV1dTSnRqUlBpcVVfYUxpY3pHd245eFdocF9UWWRPeVhxQXZFdmZfb1Bld2dxTXZNRGVwMjBMeHltZ09iV0d4WjNFZmY2a0VLa2FST3AtNkl1ejVPX0haNk1r?oc=5",
+      "source": "SMHI",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-08-02T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Prévision météo 10 jours Luxembourg, Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Wettervorhersage 10 Tage Luxemburg, Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Weather forecast 10 days Luxembourg, Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Wiederprevisioun 10 Deeg Lëtzebuerg, Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "1bfae88980cfb202f7604bbadbab4b3a53f9c398",
       "title": "Статистика вища ліга Люксембург 2026/2027",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlFKX0ZNTFhEckNFU0RpSDFBRW1zajVzclNoQ1pFVVl2bXV2ZUEtb2JRZUtqNDN5aFp5RVRid1Y0TUNha0w5VEhNeUFlU0RsYWhQTHJnWVc0Yzk4Y2x4eGNGRkRGZkVZem81cWE5VFB5cjV4LTFRVGt0T1l0X3ppclJBdEFzeTV2dnY5ellpcXZGVk1fazRuc3JEQmdHOTF2?oc=5",
@@ -3431,6 +3658,39 @@
         },
         "lb": {
           "title": "Den Ënnerscheed ass méi wéi 30 Cent: Dat kaschten elo Bensin an Diesel zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "670158867830da4ee82a07749cec70a72d0ea7b2",
+      "title": "Люксембург - Италия (0:1) 3 июня. Товарищеские матчи. 2026-28. Протокол матча",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzVfdG5oN0RRN3BXRG5HMmR1R0poM1BNem9DOGtKemUwMnBUMkw5TWdoU09pb1ZaZTdWT3AzXzhzNDhGeHN0SmlySGxNOUJWdmZZaVBQLXJoa1VzbENsMkZfcHl3YVZJb3BuTENOWHJ1WWpXMElNaFF0STNtVFRKTDhYX2I?oc=5",
+      "source": "Sportbox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-01T09:05:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg – Italien (0:1) 3. Juni. Freundschaftsspiele. 2026-28. Spielbericht",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Italy (0:1) June 3. Friendly matches. 2026-28. Match report",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Italien (0:1) 3. Juni Frëndschaftsmätscher. 2026-28. Match Bericht",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Italie (0:1) le 3 juin. Matches amicaux. 2026-28. Rapport de match",
           "summary": ""
         }
       }
@@ -12074,6 +12334,39 @@
       }
     },
     {
+      "id": "6993fb4454601e114e8a135c88d0d31ec44cb5c6",
+      "title": "神奈川県と同じ広さの小国「ルクセンブルク」で見た、ちょっと意外なスタートアップ環境（画像）（10/46枚目）",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxekpGQlpLeTFtMWZrVi1FOFl0WEUxdmZXNi1vYUFEdG5nMjFnR1prclp3Y3gxeEp3d2JUTlMtV0tjdUUtV1pkNk9aNVNyLWZMc2VfODBxU2huQzh1a3ZXVzFKaThVVHNuLXlaX0FTRlN4WndSR3V3LWxkUQ?oc=5",
+      "source": "ITmedia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-28T13:23:37.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Eine etwas unerwartete Startup-Umgebung (Bild) in Luxemburg, einem kleinen Land von der Größe der Präfektur Kanagawa (10./46. Foto)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "E bëssen onerwaart Startup-Ëmfeld (Bild) zu Lëtzebuerg, e klengt Land mat der selwechter Gréisst wéi Kanagawa Prefecture (10/46. Foto)",
+          "summary": ""
+        },
+        "en": {
+          "title": "A somewhat unexpected startup environment (image) in Luxembourg, a small country the same size as Kanagawa Prefecture (10/46th photo)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Un environnement de startup quelque peu inattendu (image) au Luxembourg, un petit pays de la même taille que la préfecture de Kanagawa (10/46ème photo)",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "c6157ce437292a749855423f3c70d3b8448a89f7",
       "title": "神奈川県と同じ広さの小国「ルクセンブルク」で見た、ちょっと意外なスタートアップ環境（画像）（43/46枚目）",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04SU1LNnZ0UzRUdmNlelZ3V3l5VlotRHlDSzRLb1otanJkcmdTRTMwcEUzYlRvWFh3bTBYZDEtelViQ3MtTWtVNzBnZWdvVFZyYlJzUmxVTDhfSk1TcmZJREhZWEZtMXI5aUVGSlNzODZFY2hjVzZ6VnhCQQ?oc=5",
@@ -12305,6 +12598,39 @@
       }
     },
     {
+      "id": "87dad8ee58d9087026ed103bc0631ae97a28c039",
+      "title": "神奈川県と同じ広さの小国「ルクセンブルク」で見た、ちょっと意外なスタートアップ環境（画像）（1/46枚目）",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6MV9YQmx4RmhQT2taV1FiSVZ4M29sTG1iQ2tYd1l5cXVWUDc5czdMNHZsbWx1a180ZUpXRjFZWUJTYzZDdkFRMzNkd3phc3AxR1UxQ2xsdnViUTNaZ3RuNFdxbVBmWXNlbm5kOTFzU3RpeXZ1Umo4NkVuQQ?oc=5",
+      "source": "ITmedia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-28T12:18:37.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Un environnement de startup quelque peu inattendu (image) au Luxembourg, un petit pays de la même taille que la préfecture de Kanagawa (photo 1/46ème)",
+          "summary": ""
+        },
+        "en": {
+          "title": "A somewhat unexpected startup environment (image) in Luxembourg, a small country the same size as Kanagawa Prefecture (1/46th photo)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "E bëssen onerwaart Startup-Ëmfeld (Bild) zu Lëtzebuerg, e klengt Land mat der selwechter Gréisst wéi Kanagawa Prefecture (1/46. Foto)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Eine etwas unerwartete Startup-Umgebung (Bild) in Luxemburg, einem kleinen Land von der Größe der Präfektur Kanagawa (1/46. Foto)",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "84079357ec67296b640f7a0b33745af767a31782",
       "title": "Nedim Cirikovic — статистика у Люксембург: Національний дивізіон 2014/2015: скільки голів та передач",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMmFOR05KMm81OWtmc2ZSOU5LR2wtUFJSVjlOWngtZFB4cXdhU0lpdmZGNVZvNXFLb21QcVY2cDd0SktxUmRrcllxVWJEN05XU2FNeE8tamZYWTQxaWU0c2JFLU5kYmVwdGliSnpyVlFuZkpXQnU4dVZYVUN2enk5RFI2QmE4RUhMS0FiZDNscXk4MmJHVTdOV0l3c2daTjVIWGRzZQ?oc=5",
@@ -12428,6 +12754,72 @@
         },
         "fr": {
           "title": "Un environnement startup quelque peu inattendu au Luxembourg, un petit pays de la même taille que la préfecture de Kanagawa (image) (41/46ème photo)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "30e8ca1de96edcce55d976195c332d3b5deebd7d",
+      "title": "神奈川県と同じ広さの小国「ルクセンブルク」で見た、ちょっと意外なスタートアップ環境（画像）（18/46枚目）",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jZ2NBY0FLZm1tQUptUFg4YkM1eTZ1aVY5Z2wtUFFnbVdTUzYzSkUtQmo4UkI1Q2d1LVI3dzh4M0hNRm1LR2hQazNzS2N0a0llR0UxbWVkNDFhUC1OZUtJdnVpVmJubmpvenczejFmLTQxS2Z3eHlqNjFtdw?oc=5",
+      "source": "ITmedia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-28T11:32:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "E bëssen iwwerraschend Startup-Ëmfeld zu Lëtzebuerg, e klengt Land mat der selwechter Gréisst wéi Kanagawa Prefecture (Bild) (18/46. Foto)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Un environnement startup quelque peu surprenant au Luxembourg, un petit pays de la même taille que la préfecture de Kanagawa (image) (18/46ème photo)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein etwas überraschendes Startup-Umfeld in Luxemburg, einem kleinen Land von der Größe der Präfektur Kanagawa (Bild) (18./46. Foto)",
+          "summary": ""
+        },
+        "en": {
+          "title": "A somewhat surprising startup environment in Luxembourg, a small country the same size as Kanagawa Prefecture (image) (18/46th photo)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "256fd2c9ea3f7684e9ee4264247b3d8dca315953",
+      "title": "神奈川県と同じ広さの小国「ルクセンブルク」で見た、ちょっと意外なスタートアップ環境（画像）（33/46枚目）",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uaTdvV1VsUl82bmpweG15Q3ZLRE9ENHJmOFYzUEZJOFRGWHAxZ2k2MDg0VGJFUGx5QzNvbnk3VXp6Q3hxeWpDZUNQcnpGYkpQVDlpS09pMDR2dWNid3RaSEtMZlJXZE1DdWZjSU5MTzNWc2lvTW5aalg3Zw?oc=5",
+      "source": "ITmedia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-28T11:29:41.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Un environnement de startup quelque peu surprenant (image) au Luxembourg, un petit pays de la même taille que la préfecture de Kanagawa (33ème/46ème photo)",
+          "summary": ""
+        },
+        "en": {
+          "title": "A somewhat surprising startup environment (image) in Luxembourg, a small country the same size as Kanagawa Prefecture (33rd/46th photo)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Eine etwas überraschende Startup-Umgebung (Bild) in Luxemburg, einem kleinen Land von der Größe der Präfektur Kanagawa (33./46. Foto)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "E bëssen iwwerraschend Startup-Ëmfeld (Bild) zu Lëtzebuerg, e klengt Land mat der selwechter Gréisst wéi Kanagawa Prefecture (33./46. Foto)",
           "summary": ""
         }
       }
@@ -47036,378 +47428,6 @@
         },
         "en": {
           "title": "Gallery of La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 7",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9ec47488472940664ef34bcdbaa70e8cc7eceb98",
-      "title": "Luxembourg win first ever EuroHockey competition with Helsinki gold",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN0FlSm9jV1ctcmZZRmRPSUotYzFoS3J6Z3g0R1gxZnVJNDlhcGtTdjBaSFpCRW5meGFmbjk3LTdaekdZb0haX2lTOElHVXB1dWE0RXlJT2VpYTNYc1BMc29TSnpHVEl4RTBjQkFNZmo3OTBPNVBMZnZjR2VWVmhkYjd4cUhqOE5zUUlENkpEdFgzSW1M?oc=5",
-      "source": "EuroHockey",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-12T22:25:28.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Luxembourg remporte la toute première compétition EuroHockey avec l’or à Helsinki",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg gewinnt mit Helsinki-Gold den ersten EuroHockey-Wettbewerb überhaupt",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg gewënnt déi éischt EuroHockey Concours mat Helsinki Gold",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f5751b9b793d677758c4bd0471b616b59127f4b6",
-      "title": "Herbert Visser: Van Laser via Luxemburg naar 100%NL (slot)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNENadlpUM21ZbzJYLXV1R25MR2tZd05sOGVtRzhHcjkzcmZnTDZyb3gyRURULXR2V2ZHRUplM0hIU1UxeHViNjBVN0dlQkJnX2pIazA3alNLcUtENmt6S1Q1anBma2VUcTFEQ1JTaHYyWFNHVmxvRHdpM3JLUUptRzhlYw?oc=5",
-      "source": "RadioVisie",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-12T22:21:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Herbert Visser : Du Laser via le Luxembourg au 100%NL (finale)",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Herbert Visser: Vum Laser iwwer Lëtzebuerg op 100% NL (final)",
-          "summary": ""
-        },
-        "de": {
-          "title": "Herbert Visser: Vom Laser über Luxemburg zu 100%NL (final)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Herbert Visser: From Laser via Luxembourg to 100%NL (final)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0d01a8d437eb0a950012d840f00fd6da03b325dc",
-      "title": "EURO6000 cleared for Belgium and Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUhtanVFX0Z6bE9xVmZ1V1VPOEtFM2hHaXkzTTJiLWVDd1BJUFpLalJmenN0bjEwRDY1LTBDTlRzTmVtcVBJVTlOWTI0b2dYSWlzYjJWcG9rN01pd2djSWo4S3ZjMU9fdk41NnpRSE9PazR2RjgtVmI4X3VPMmhjRlNOSTFSQ1lmUlFrX05yMVBpeEVwbWc?oc=5",
-      "source": "RAILMARKET.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-12T22:01:08.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "6000 EURO fir d'Belsch a Lëtzebuerg geklaut",
-          "summary": ""
-        },
-        "fr": {
-          "title": "EURO6000 autorisé pour la Belgique et le Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "EURO6000 freigegeben für Belgien und Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "83735e2c9ac24691a59cbabeaab729dfd3e4f07c",
-      "title": "Galeria de Foster + Partners projeta novo complexo corporativo em Luxemburgo - 4",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOVEpabEhFYnBzdDh3X3k1eHYtZHlzbUNCSFVhdkEtdUtJM1VIdnNCY1ZHb3JDTldTMm5KNmFtRUtFSFNqTUlQcWZhNVBDeHIxWWpZRFp4aWZHX3BtQW9uODFnallIV0hCbGZHVjBfa1JYbmgxaW5oQ3hfNUxUTURjbTlLeU9mRE1OS1hja1lxMDZOSnpWek1CZFJ1OTZTRUJyTnBYbVl1TFFQaG5hQ1gyR2pOWDBEN0Q0aVBIV3VPT2JyUVdGb2k5Y2ltOXRrREd6WTZ5OHRaWEozWUZHYmFoMlctYlFtVTR6Z1laeFZBTVhuRFFLZ2piMEhkdld0N19Nazd4QmQxNmt4VC1OS19FTjQ0ZXZmbjZ0UU5COTRnTHFENENEVjZId1p0YU4wNlNGYjk4Vm5wbw?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-12T17:36:54.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "de": {
-          "title": "Foster + Partners Gallery entwirft neuen Unternehmenskomplex in Luxemburg - 4",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Foster + Partners Gallery conçoit un nouveau complexe d'entreprise au Luxembourg - 4",
-          "summary": ""
-        },
-        "en": {
-          "title": "Foster + Partners Gallery designs new corporate complex in Luxembourg - 4",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Foster + Partners Gallery designt neie Firmenkomplex zu Lëtzebuerg - 4",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a684952eb8789a99a33a87a8d1ae28ce641ef6cd",
-      "title": "ルクセンブルク, Luxembourg, Mersch の天気予報 | MSN 天気",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOenFESktzZmtWWkNEWUtqdG9GamQxekk1end1UkZER0FBc1Eya2pRUWltNmJ0MVl2QmJJaGFwb2Jvb25jZEY0QWFoVEJxc2xxR3FLRG1XS2VqNW1hR2ZfRXQ4V3doSDZuZkpHcmpXR1Q4V2Y2LW1RajAtS0lMSFdnWllSU1pDT1RfN2pSblozWXlOUWRsT1pnOEpvcTNUSWRhOWR5R1NfbzlETVRJRUdOdnZhUU5wNmRQdjNCanZxMjN4d01kdGM0SDFZYzlZWHBKcU5FNkhsSU1hVTBPSGJNZW9KRQ?oc=5",
-      "source": "MSN",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-12T17:22:33.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Luxembourg, Luxembourg, Mersch Prévisions météo | Météo MSN",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg, Luxembourg, Mersch Weather Forecast | MSN Weather",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg, Lëtzebuerg, Miersch Wiederprevisioun | MSN Wieder",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg, Luxemburg, Mersch Wettervorhersage | MSN-Wetter",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "946bcb083018b65239c4043c4015660673bc875c",
-      "title": "Esch-sur-Alzette. Flow Festival 2026 : trois jours de musique au cœur du Parc Belval au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTZ0SkRCMzhET2dCcjdjUjd4YnFza0dzc0tPMWhJZ1pXNndEMjc0STFwWFRwcDRuU2hVSHhPQ3JDQ21OaHFQaUpkTW9SS1pCOXJtN01NM3hzdXlJZzZVSC1LSXJEOWxjMTZEVTVMSjBSS3lPcmUzS1FrYjZ5R0JZcFZkeklLejVOcmZ5d2REN1liMUJHT1U4Y1JjazgzQm1Lc1l5bkUzRnp2cmd6aGdiY1FlcFVqYlBDZWJVaWpRQ1o1eTUta0p1a3duV1BTd1FBSnJlX2xJN2w?oc=5",
-      "source": "Le Républicain Lorrain",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-12T17:19:19.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "en": {
-          "title": "Esch-sur-Alzette. Flow Festival 2026: three days of music in the heart of Parc Belval in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Esch-sur-Alzette. Flow Festival 2026: dräi Deeg Musek am Häerz vum Parc Belval zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Esch-sur-Alzette. Flow Festival 2026: drei Tage Musik im Herzen des Parc Belval in Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8b78051e949e5eb06cc382fb8ee0ac39797db44c",
-      "title": "Galeria de Foster + Partners projeta novo complexo corporativo em Luxemburgo - 3",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQdUp5dzlNeF9Rc0doMUdQSzFOUVRLOE1Jb2tmVzJvSmhTUTFvVVNCYnZqeVNFQTFnOHpQOS1vT1RWVEM0cmVWdmRMZTRXLVBPZy1qc0ZSYUtvMW9RenRqZTFlLUNSTjlnZUVRYlg1NnV3THRDcTRTNjdpb084UFNYV3dEYlRVN0JET25JZkJfQ19hdW5YdHpwNWJmRG9icWRiZllBb1doMGRDNnFuUm1VUEpGSVBDZkVWU2ljLXZxR1ptay1XVGw3QVNFelhtLUJZWDh2SVM0aWlESm94SE9feUM3YU5jS1dzaDFabnYyMWZETGlYTXV5bmxLNlpxR0RWWW9BdV9xeGVqRFJ0NkdrVFhfZ2dnamJqWGVqcmZEOWh3Yi1fNkljdlkzVEp0UWlVejBqSjRScw?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-12T16:54:41.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Foster + Partners Gallery designt neie Firmenkomplex zu Lëtzebuerg - 3",
-          "summary": ""
-        },
-        "en": {
-          "title": "Foster + Partners Gallery designs new corporate complex in Luxembourg - 3",
-          "summary": ""
-        },
-        "de": {
-          "title": "Foster + Partners Gallery entwirft neuen Unternehmenskomplex in Luxemburg - 3",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Foster + Partners Gallery conçoit un nouveau complexe d'entreprise au Luxembourg - 3",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0b808dd94cf3ab0548a0bd8f5e65b00768349acc",
-      "title": "Télétravail des frontaliers : le Grand-Duché de Luxembourg précise la règle des 34 jours",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYkZzSC16OWpzZHE1Unl3ZUJJb3IyekZ6bEc0Yjd2M0ZjSmwzOW5iZnBGc01JakRpZGZ0RU5SNDRKdXd3dFc4OFY5TVhSWVBMSV9CYzJ1U1FnNU1CYXloVEU0Ykd4RlZmZGZPSXhYaElPdlkzN1RfbXdZeUJ4blU3cmxSbFdMX2lJVHYzbTExMEtxYkpRNTBlWVpFWmk5VUhSd1lFeEE1dHJ6TFJKYlNCWm1kZHZoVTJXdVl3ZzNhcGVuUXlNUHZpRnBGREtxYURnZGI2WDhacC1SVGtjdnpHd2FOaXhKWi1IbzJjWi1wVGVQNXNzWXZJamJUOUU?oc=5",
-      "source": "L'Avenir",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-12T16:02:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Telearbeit für Grenzgänger: Das Großherzogtum Luxemburg legt die 34-Tage-Regel fest",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Télétravail fir Grenzaarbechter: De Grand-Duché de Luxembourg präziséiert d'34-Deeg-Regel",
-          "summary": ""
-        },
-        "en": {
-          "title": "Teleworking for cross-border workers: the Grand Duchy of Luxembourg specifies the 34-day rule",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ca158ab5fa718dee824ba1925ae4960e62278b75",
-      "title": "Max Jungers - Luxembourg - Player Profile - FIBA U20 EuroBasket 2026, Division B",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVZ6aGM0NENiclJMSWx2REJNSVlpcEFlVXRJeDJKdm1NZ1J2MkNpR014SF9JSUthSGxMMW9LSHVrWnZPRVplampJTWctejFQYmhsYXFxZkJGYjRxNlhGZEd3Z3dBbUZjYk5RdURRN01KZmNPalp1ZHM2MDlYQU9HczRLV1JWTTg0bWNyTjBNTGUwYVV1NEhEX2hRNVd1a3R2X2JBYkNkaHBjN0txMWc?oc=5",
-      "source": "FIBA Basketball",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-12T15:55:33.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Max Jungers - Luxembourg - Player Profile - FIBA U20 EuroBasket 2026, Division B",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Max Jungers - Luxembourg - Profil joueur - FIBA ​​​​U20 EuroBasket 2026, Division B",
-          "summary": ""
-        },
-        "de": {
-          "title": "Max Jungers – Luxemburg – Spielerprofil – FIBA ​​​​U20 EuroBasket 2026, Division B",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8432cda0868b11cd969c9e574021cb3778ef516e",
-      "title": "Galería de La Maison du Savoir - Universidad de Luxemburgo / be baumschlager eberle - 5",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQQVFYdV83eUFNNXFoUTRzdV9IdVpyT0VFaFRfbklKcWQta1VPS0JDc1JkZHVrSjZjMlE2SHdhNzVSN1F0LUpsaGJpVGRkZVJla2NUY05OVklUQmlHZnNLV0RPMFlxMFR0V3lWMF9LSUx4bjcwUC1oZFNBRkxKakM1Q2RGdEFEOUFNdm5RR010ZFczOWlxcktvT1dmR3U0andQQXVPcU9NSzdxQVZLY0xiLUhmOUVJcjMtN3lfNTNGX3NaMzg0eERxZDJ1Y1g0UFZZbVRJY2JnNnIxUUw2MmRmeUpzQnFKQzQ2dE1Yb2RFS0Z0d3hNWDJIVU50MWhBUGFxSWVYNzVRQ0dsaE5QUXRpUTR5OVVFcDdPd1pnRldGMVgzaEc1WmZtUUln?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-12T15:52:03.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Galerie La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 5",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie von La Maison du Savoir – Universität Luxemburg / be baumschlager eberle – 5",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie de La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 5",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 5",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fe2f3fd4dda7669cdd94582215817bb97a8b3f62",
-      "title": "Galeria de Casa Luxemburgo / Richard Meier & Partners - 5",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS0M4eWR1aHBjQ2tqTGdvXzl2TzJZSV9kWkQ4Z0N1TGxzb2FHT3J4aWJSNU5UcG9HMGo1S3lza0o2dzZmT0Z4dXJLeVByb2xlenpWWjlQV2tyLUVxUXpHbnBNVnVNbU11NHZMOHpHZjVyR1ZkY01yT3g0Vlc5QWstVmFBbzlZZWFPS1pJMUJBR3cwX2x1THlicS1rOC1XaEI2U0dhUmFvRHNyNDk1cnBJMGU4QmhNRGdoSi0temdtT0psWGRVUHZKbWEwVGw5SU1GTi1aMHZBRzZMQTJCS0lnS0VoalBGRWZ5?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-12T15:33:58.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxembourg House Gallery / Richard Meier & Partners - 5",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Luxembourg House Gallery / Richard Meier & Partners - 5",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie de la Maison Luxembourg / Richard Meier & Partners - 5",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg House Gallery / Richard Meier & Partners - 5",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4a095ad577c1d222a29246748736aafb687d4412",
-      "title": "Ripple is regulated in Europe before it is classified in America: inside the Luxembourg license",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWYTBmRDJOODB0T1VkcWROTURJRF9mZUdsX1hORmRSMXdQbm1NSHVrdDJyczcwSTFiTGFsSVdxeXlnUDZHSzZEU0J4NmVDRy05Vy1tbWF3?oc=5",
-      "source": "Cryptonews.net",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-12T14:07:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Ripple est réglementé en Europe avant d'être classé en Amérique : à l'intérieur de la licence luxembourgeoise",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ripple wird in Europa reguliert, bevor es in Amerika klassifiziert wird: innerhalb der Luxemburger Lizenz",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Ripple gëtt an Europa reglementéiert ier et an Amerika klasséiert gëtt: an der Lëtzebuerger Lizenz",
           "summary": ""
         }
       }
