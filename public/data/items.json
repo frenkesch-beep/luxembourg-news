@@ -1,6 +1,93 @@
 {
-  "generatedAt": "2026-08-06T09:59:37.823Z",
+  "generatedAt": "2026-08-06T12:19:50.778Z",
   "items": [
+    {
+      "id": "e0bbafede111728dfd80e211ba499dc8f6b4cf67",
+      "title": "Petition: Europe Has Burned an Area the Size of Luxembourg. Nobody Is Counting the Animals.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1R0eUZweV9WUWgybm81cXpHV0VpTW5aalRacGpfck96djk0dHcxTUlQVGNwbUYzeW42ZWswOGU2UWdRV0trbXJxa0hfaXpia2ZSZm13cnpaTzNvZEQ2MFpYdENfTkpSb0RKV3N0ZzA3ZXU1ZmpXNm5Rb2xGTFVXNFVVcWtPdU5tS1R2QW1pUjNVNUJJ?oc=5",
+      "source": "One Green Planet",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-06T12:06:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Pétition : L’Europe a incendié une superficie de la taille du Luxembourg. Personne ne compte les animaux.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Petitioun: Europa huet e Gebitt vun der Gréisst vu Lëtzebuerg verbrannt. Keen zielt d'Déieren.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Petition: Europa hat eine Fläche von der Größe Luxemburgs niedergebrannt. Niemand zählt die Tiere.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fddf306cfe920543e5d9a7da148a421fec7722c8",
+      "title": "Moments tendres avec Henri, câlin aux petits-enfants… Maria Teresa de Luxembourg ouvre l’album des souvenirs d’été",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORUd3Z2hhcUdZUUlMYy1YaVhFUUIxelk3NnJScU9iYTUxVkdIRG9GMXJBSy1yaktMRlljbkQzZEhXYnRuSm9iSUNYcHcyV3JxSkZpdUVpOVFFMXRHZHl1Z0Z4c2RwVllLMllFcG9MaXEyWnZmUXphMTlIWURxYWlCNk95UmZnc0FmeWJjOGdmMHAxMXFYZnhvN0dxbWRuT0Fqc1VpRUloSzhfejJ6V1ZRa004V25nZnNaVDZ3MU1lbzFKUlE0S01IcnpkV2pqUzBQWGgxX1pLSVlpSlktRTlqUjNOMTNoZFJxWVdZ?oc=5",
+      "source": "parismatch.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-06T10:12:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Tender moments with Henri, cuddles with the grandchildren… Maria Teresa of Luxembourg opens the album of summer memories",
+          "summary": ""
+        },
+        "de": {
+          "title": "Zärtliche Momente mit Henri, Kuscheln mit den Enkelkindern … Maria Teresa aus Luxemburg eröffnet das Album der Sommererinnerungen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Schéin Momenter mam Henri, Kuschelcher mat Enkelkanner... D'Maria Teresa vu Lëtzebuerg mécht den Album vun de Summer Erënnerungen op",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "64cd5f3680083f1498938f7bfe98c42f8c5ffaa1",
+      "title": "Augmentation des salaires au Luxembourg : une nouvelle hausse est envisagée, voici quand",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZERVV1lyODRxblQyYTYtcHRZX3VldnRKUzFvRW1kdGJVa3Fnck5hVTNQMnFtVUFEeU5ORkxiSUF0c0UyY19yQjN1Yndtb3BVSTZvNVVGU0YwRG9ab0drc1h0Q1BPQkRTX3NSb2tJUG1NcjFYc2JqWkxOdnUtMmh1bzJIRENTWU5CSUNvWjJ3M0tIbmZVbmxNMUxYUFNXdWtxT1lHa3dnWHhFOGNMcXBxZVdjajZoMVo1NjEwekxGSWE0UQ?oc=5",
+      "source": "Actu.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-06T10:02:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "economy"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Erhéijung vun de Gehälter zu Lëtzebuerg: eng nei Erhéijung ass geplangt, hei ass wéini",
+          "summary": ""
+        },
+        "en": {
+          "title": "Increase in salaries in Luxembourg: a new increase is planned, here is when",
+          "summary": ""
+        },
+        "de": {
+          "title": "Gehaltserhöhung in Luxemburg: Eine neue Gehaltserhöhung ist geplant, hier erfahren Sie, wann",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "4b9d362a49f6d9747fc601c84ba698521025430a",
       "title": "Spanien und Luxemburg verzeichnen den stärksten Rückgang beim täglichen Tabakkonsum in der EU",
@@ -92,6 +179,39 @@
         },
         "lb": {
           "title": "De Lëtzebuerger Inneminister huet d'EU virun de Risike vu Restriktiounen zu Schengen gewarnt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fd9ee21b9b0a866058dd9127508047e330ec5f98",
+      "title": "Люксембург обвинил Евросоюз во взятии «в заложники» Шенгена - Версия",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMXhMWENSWXhGaDZpbl9VTUtVWTRmWVNoZkFpWTdHZHlvSEdFXzBhYlJ1TUF1aW43YzBYdkRTWTFkZmNXUUgtay0tdldPeWVYRkNXT19pMWFxYmc4cjJVcWpFSGpSZXlsUkZ0MjlSUFBWcVVObVdRdEstX0MxLVZ5NzZfSWtqWXJIMUNLS9IBjAFBVV95cUxOMXhMWENSWXhGaDZpbl9VTUtVWTRmWVNoZkFpWTdHZHlvSEdFXzBhYlJ1TUF1aW43YzBYdkRTWTFkZmNXUUgtay0tdldPeWVYRkNXT19pMWFxYmc4cjJVcWpFSGpSZXlsUkZ0MjlSUFBWcVVObVdRdEstX0MxLVZ5NzZfSWtqWXJIMUNLSw?oc=5",
+      "source": "versia.ru",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-06T08:14:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg beschuldigte die Europäische Union, Schengen als „Geisel“ zu nehmen - Version",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg accused the European Union of taking Schengen “hostage” - Version",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg accuse l’Union européenne de prendre Schengen « en otage » - Version",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg huet d'Europäesch Unioun beschëllegt Schengen als Geisel ze huelen - Versioun",
           "summary": ""
         }
       }
@@ -330,6 +450,35 @@
         },
         "lb": {
           "title": "Héich Brennstoffpräisser: De Sächsesche Wirtschaftsminister Panter fuerdert Präiskappen nom Lëtzebuerger Modell",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b729e7c3e7bd9d8eb386cb980e2bda9bdbdf07b3",
+      "title": "Luxemburg-New-York-Nonstop-Pläne, Swiss-Wetlease-Rückbau bis 2027, bilaterale Luftverkehrsabkommen",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWXBjZXJRcHpZR3dHZy1WOWl4THZvRkhnelR2M2NPaW05b2Q2andwZUNTUjkwZVg3VWt2Q19NWkM0NTRwUnZyVVdvc0l0T0cyU2R5T2RzZDA1ajRwdGg2czNZaklsUE9wU2VtNmJPcGYtU01fbENHZlUxVTZyM2VCbHVSZjRHcXIyd0V3NUdYcS0xQkdjUjBwNDJBMEp2U05ic25WOWVlUVdRbDJYZDJqYjlkRXZWYXdzcHlKSi12aEloQ0dHa185M0lkdUF0dERONzV6aUhn?oc=5",
+      "source": "airliners.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-06T05:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg-New York non-stop Pläng, Schwäizer Wetlease Ofbau bis 2027, bilateral Lofttransportverträg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg-New York non-stop plans, Swiss Wetlease dismantling by 2027, bilateral air transport agreements",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Plans sans escale Luxembourg-New York, démantèlement de Swiss Wetlease d'ici 2027, accords bilatéraux de transport aérien",
           "summary": ""
         }
       }
@@ -47228,159 +47377,6 @@
         },
         "en": {
           "title": "EQS News: ORTEC acquires TOBA HR Solutions to strengthen human resources management in the healthcare sector in Belgium and Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bbf522d8421d9e08de808c5a66200b275a36effb",
-      "title": "EQS-News: ORTEC übernimmt TOBA HR Solutions, um das Personalmanagement im Gesundheitswesen in Belgien und Luxemburg zu stärken - boerse.de",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVWtxWFkya0ZOeGlMVGF2MkRUa2hRU3lfejEtU1JoOXFxLWcteVNyT2FWUlFPR1BHOWN5eEV2NWppMHNBWUNmLXF4eklTMUxWZzdXZDdCVUVaSVhWaU5ZZ2RzY2M4RDlLTVFiVmlRQjBRcmp3NThVbEp5MUM2d3BaNG8yT2Vfd3dqbUMzNF83Y292U0UyUDk4dkVnU3QtNlVrNXgxd04tcmU3Yk13bkNvS3gxM0VGbW40aDFwVEdUSGJVZXFXOTJfOVByZ2ZpMVJob01XY20tdXdIR2E0MExOcjBVcnZ0bWlaY1o4YTBmTjVyaDhsZzlnZ3FEVzhDZ9IBgwJBVV95cUxNektqWGJLZDJSWlVMQm1ZZHJZUmhiZ3VMZjJab2diQkhwOXVUWTRxQXByaXdpSFhjeVNVOE1ZZ3VJRG9qMldlSHVueVR3c3EzekwtbHZXMFhMdzhySzFNTlBOWkhBRldfcldGZkVOdzFHY3M2dE5TQm1jazdyTnlpZU9XZjF2alNiN0ZfZFgtaWpkZUFaZlBJaWY5c1NyQVF5LXpfOWEtNW1HU0RXWTNwaVlaUjhWSUlpX2ZmZkczbndJNjg4SUp0ZGpKdDduNXRVQlpwbGJkU0RTdGVCV3FDbEZmbzZOS1YxSXdTSEdkQkxJbDRySGVJY3BhYktSbmdVaDBj?oc=5",
-      "source": "boerse.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-14T07:05:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "EQS News: ORTEC acquires TOBA HR Solutions to strengthen human resources management in the healthcare sector in Belgium and Luxembourg - boerse.de",
-          "summary": ""
-        },
-        "lb": {
-          "title": "EQS News: ORTEC iwwerhëlt TOBA HR Solutions fir d'Personalmanagement am Gesondheetssecteur an der Belsch a Lëtzebuerg ze stäerken - boerse.de",
-          "summary": ""
-        },
-        "fr": {
-          "title": "EQS News : ORTEC acquiert TOBA HR Solutions pour renforcer la gestion des ressources humaines dans le secteur de la santé en Belgique et au Luxembourg - boerse.de",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b29045d910b46e2caec733495d379829dfd18b80",
-      "title": "Yaşam kalitesinde Lüksemburg, iPhone pahalılığında Türkiye zirvede",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjRJVUdaSFo2VVZoZnh2bTM3LVRBM1Z3WmtkOE9sdUQzc3phQkFFYS1KSXdmLTdITXNFS1JYS2NzR2t2MTdnN2U3UWhhZ1VNbUFfRm11em9RVm90X3Bxc29LX2pQQ3lOTDJhQXhoSndsY2xPcGtIVEhYd1Iyd0J0SFhWTVhPX3BmcV91ZzlfNVlTOWtpMmc?oc=5",
-      "source": "Ekonomi Manşet",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-07-14T07:02:12.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg liegt bei der Lebensqualität an der Spitze, Türkiye liegt bei den iPhone-Preisen an der Spitze",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg est au top en termes de qualité de vie, la Turquie est au top en termes de prix des iPhone",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg läit un der Spëtzt vun der Liewensqualitéit, Türkiye läit un der Spëtzt vun den iPhone Präisser",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg is at the top in quality of life, Türkiye is at the top in iPhone prices",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "33c4327fa8dac69f537134a1ea09f5d97fafba31",
-      "title": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdWNVb21xVEF2TjNMVS1QYWNSMFF5bzhmT0dFeDdvbUdxdnB3aWlCdWVFdG95YTRiNGIzb2ZjNF91MzRCclZDajNLdzg0ak8ta05JcjRycEdpbDAyQURfSk1ENW9pYWxnMmpQMXNyOFpRcTFkQjQ4YWkwWExGbkd4Y195bWJwNHpCWjNhVHA1bzV4S2FUOUV5SDIxSnE2dGV5T194aUJPYzlabWtyWkNNemw0alFIYTl3RkxNNGQ1bnZ4b1RvZDg2SHlmZUtYTEtNVVdQMHM0YTBwWEZaWGxvVnRxVGNMMFQ2SkNGRTk5RVBRRzBE?oc=5",
-      "source": "PR Newswire UK",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "ORTEC erwirbt TOBA HR Solutions, um das Personalmanagement im Gesundheitswesen in Belgien und Luxemburg zu stärken",
-          "summary": ""
-        },
-        "lb": {
-          "title": "ORTEC iwwerhëlt TOBA HR Solutions fir d'Gestioun vun de Gesondheetspersonal an der Belsch a Lëtzebuerg ze stäerken",
-          "summary": ""
-        },
-        "fr": {
-          "title": "ORTEC acquiert TOBA HR Solutions pour renforcer la gestion des personnels de santé en Belgique et au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6d499c7c4c63fdfb46451ca8ca62b230a576ed40",
-      "title": "A fugitive from Luxembourg robbed a jewelry store in Gràcia for 8,530 euros",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcWFJNy04b0RlTkF1Z2FzeV9FMmVLaHluWnZhcW1sUVVETHM4OTczMmRkcmhBZUVZLU9wb1FMWElsaXZaY255dWZjaDJqQTRyRjMtajNEZzZKUXhCWG9Pd3BONmtnbnZsczgxM096dDB5SWlpMlVmYndvWWNPcnV1WUVOdlBqaXV3S1FRNUYxNDdZdU9ZMXVsaFg5cDlMYVU2RzMzYk9DY3pBYmZPX3dBU0FZTWJXTUluNWxBalczNnJWaFNmbWJsa3lEM0F2eUtOOEE?oc=5",
-      "source": "APD Noticies",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Un fugitif luxembourgeois a cambriolé une bijouterie à Gràcia pour 8.530 euros",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Eng Lëtzebuerger flüchteg huet e Bijouterie zu Gràcia fir 8.530 Euro iwwerfall",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ein Flüchtling aus Luxemburg hat ein Juweliergeschäft in Gràcia für 8.530 Euro ausgeraubt",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8da679436cb5a2c8b1bd48cc9ee53aa099d5f663",
-      "title": "月薪7万的卢森堡公务员，外国人能考不？",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FZkNvY3BuQjNidlAtUnR6dDFYN2tocTdyNW52cDBNQm0zaGlvTkRrZnBqVzhJRWNuQXFic2E0WEVBVXliN3hRbGZBUVVWRWxmMmpvVGlmcXNuNktUNnA5dmNR?oc=5",
-      "source": "手机网易网",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Können Ausländer die Prüfung für einen luxemburgischen Beamten mit einem Monatsgehalt von 70.000 ablegen?",
-          "summary": ""
-        },
-        "en": {
-          "title": "Can foreigners take the exam for a Luxembourg civil servant with a monthly salary of 70,000?",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Kënnen Auslänner den Examen fir e lëtzebuerger Fonctionnaire mat engem Mountpai vu 70.000 maachen?",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les étrangers peuvent-ils passer l'examen de fonctionnaire luxembourgeois avec un salaire mensuel de 70.000 ?",
           "summary": ""
         }
       }
