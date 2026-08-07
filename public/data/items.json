@@ -1,6 +1,105 @@
 {
-  "generatedAt": "2026-08-07T00:16:46.520Z",
+  "generatedAt": "2026-08-07T03:19:51.561Z",
   "items": [
+    {
+      "id": "a2ce5395ee0a2741346db00741ae7bbe16299853",
+      "title": "تعزيز التجارة والاستثمار بين مدينة هو تشي منه ولوكسمبورغ.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDc0cDlLQW4tdTZZRFJJMlBCcWh4bHpFTDNpQkd6QThra2VTRDBpTDFDZ2R0anN2bmtIbXdnemR4YlVQZjBsOFB1NHJTUjF5eTZ5V2EyV1lsUDFVTUQzcFlRNXZOM2RDWWRjTC1rVE9OdU9rQloyaEZjQTROQWd6ZFR3QkY?oc=5",
+      "source": "Vietnam.vn",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-08-07T02:38:08.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Promotioun vum Handel an Investitioun tëscht Ho Chi Minh City a Lëtzebuerg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Förderung des Handels und der Investitionen zwischen Ho-Chi-Minh-Stadt und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Promouvoir le commerce et les investissements entre Ho Chi Minh Ville et le Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Promoting trade and investment between Ho Chi Minh City and Luxembourg.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c34e820fe88464d79b2654b49f7d8576055e9994",
+      "title": "Príncipe Luis de Luxemburgo recorre murales de Diego Rivera en la SEP",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGZnaTlxN3p1UmdhUnJoR2FuN3ItUk5uQklwR2duM1Q2Ti16V1I3czhLQnFvc2xtbjZySWs4UTRFUXl0bmtOcjFsVjc3S1JjR0ZTdTYzN3ZfWmVwNXJjWlNnZGJHd0l6MzV0T1pZSGhiSDVHclJxM1NObWJEeFpkV3lld3N0VVJZZE5xd3NRV0VDbHJBcUUxV0lqT1ZZSEdSUkg5TmNsbGtrbjFoUzd3d1JPZkVDSE04dm1JT3VNVU1Wbm1aX0VLQXp3?oc=5",
+      "source": "El Heraldo de México",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-07T01:23:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Prënz Luis vu Lëtzebuerg besicht Wandmalereien vum Diego Rivera am SEP",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le prince Luis de Luxembourg visite les peintures murales de Diego Rivera au SEP",
+          "summary": ""
+        },
+        "en": {
+          "title": "Prince Luis of Luxembourg tours murals by Diego Rivera at the SEP",
+          "summary": ""
+        },
+        "de": {
+          "title": "Prinz Luis von Luxemburg besichtigt Wandgemälde von Diego Rivera im SEP",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e2b5465e02ccd2ed0ba39ba3a4b9b93711e3e7d0",
+      "title": "Pronostico della partita di calcio Lussemburgo-Germania, ore 02:45 del 15 novembre: una cavalletta può sfidare un carro armato?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2xrUV96WnBfOGlsaTNLa3Z0bVJaU3BCMmJZNDVoa0tIbUJnRnNvX09KTUVtaXZpY3Jxa3RybE4wemt0TzVHZ1JaN2luWnZtQVRTY2NzRFBmTzNMV2ZXRmE5V2g4Y0gtYjVEdEFMWDBiRG9jWTE1RGM0a1ZFOHBTdWxYUnRtNmZNQ29maDVwdThOSWFCcWVMTDFBZTduVWtsQWxjYUR3?oc=5",
+      "source": "Vietnam.vn",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-08-07T00:29:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Pronostic pour le match de football Luxembourg-Allemagne, le 15 novembre à 02h45 : une sauterelle peut-elle défier un tank ?",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Prognose fir de Fussballsmatch Lëtzebuerg-Däitschland, de 15. November um 02:45: Kann eng Sprangel en Tank erausfuerderen?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vorhersage für das Fußballspiel Luxemburg-Deutschland, 02:45 Uhr am 15. November: Kann ein Grashüpfer einen Panzer herausfordern?",
+          "summary": ""
+        },
+        "en": {
+          "title": "Prediction for the Luxembourg-Germany football match, 02:45 on November 15: can a grasshopper challenge a tank?",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "26f1181bf1f5929fcb60b02c10ddc2a6e03d1a04",
       "title": "Luxembourg deepens tourism vocational support in Cambodia",
@@ -26,6 +125,39 @@
         },
         "lb": {
           "title": "Lëtzebuerg verdéift Tourismus berufflech Ënnerstëtzung a Kambodscha",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "bc52f4008a563ebf020b0ad769e923c0809bbec2",
+      "title": "لوكسمبورغ ترفض استخدام شنغن كأداة للضغط السياسي في مواجهة أزمة المهاجرين",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfQTJ4UUJrWldXRW5Id1QwWVQzelNvbHNaeXhiUFdpZjNQZTJOamZjSXotLVJ4WXVSclhOZHBmZWNIUkXSAUJBVV95cUxNc0ZUb3daeDB2X09GckNpWno0WXg3Ukwza3ljeEg3Rm1UeUpIX2c3SUdDbzBIYjBiV25Lb2N6bFgtNEE?oc=5",
+      "source": "VOI.ID",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-08-06T23:07:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg rejette l'utilisation de Schengen comme outil de pression politique face à la crise des migrants",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg refuséiert de Gebrauch vu Schengen als Mëttel fir politeschen Drock am Gesiicht vun der Migrantenkris",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg rejects the use of Schengen as a tool for political pressure in the face of the migrant crisis",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg lehnt den Einsatz von Schengen als politisches Druckmittel angesichts der Flüchtlingskrise ab",
           "summary": ""
         }
       }
@@ -291,6 +423,39 @@
       }
     },
     {
+      "id": "bcf5f2443829c6887b3ef3dcdd0367e187a1dca6",
+      "title": "リップル、ルクセンブルクでEU暗号資産ライセンス取得も、XRPはETF流出で1.05ドル割れ",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iNk02dTR3NTJJcjdQY0d3MDFFTXRxTmE5ZkxwOXpPdUcxazVwT0RraHRnUGhGd2NucVM0VTFGdmd1Rzd1Tmw3UDFlQVhRbWs3V0g3TzVweGliaGY3RUNWZjNfQVRMUUY1UzVjbFA3U0NQX2It?oc=5",
+      "source": "BigGo ファイナンス",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-08-06T18:15:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Ripple reçoit une licence d'actifs cryptographiques de l'UE au Luxembourg, mais le XRP tombe en dessous de 1,05 $ en raison de la sortie de l'ETF",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ripple receives EU crypto asset license in Luxembourg, but XRP drops below $1.05 due to ETF outflow",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ripple erhält EU-Krypto-Asset-Lizenz in Luxemburg, aber XRP fällt aufgrund des ETF-Abflusses unter 1,05 $",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ripple kritt eng EU-Krypto Asset Lizenz zu Lëtzebuerg, awer XRP fällt ënner $ 1,05 wéinst ETF-Ausfluss",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "fd2c316866cabd7e3e727f96c2620b471d712748",
       "title": "63 People To Face Trial Over Illegal 2025 Luxembourg Rave",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oUUFONl9XczVLbVRnRTRQN3FkREYyb1BLMEJOVFdCVjF4dHFSQ2hBN3RJRVU4Z3BSZC1aaEREUXM0U1NOT1BqeG5yTk8tcE1Dd1hSVVN0djd1R1JvT3ZMODRMOXl3bWRERXB5TmZpRlZVVVk?oc=5",
@@ -315,6 +480,35 @@
         },
         "fr": {
           "title": "63 personnes seront jugées pour la Rave illégale de Luxembourg 2025",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c545fe3483eced226fe2a8012fe3a07a47afc7ba",
+      "title": "++ TANKEN IN LUXEMBURG AKTUELL: Spritpreis für Diesel fällt ++",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQkpGVEp0UEVWOFA1ZWp3TUtONDFtclRRMzRGMWszUzlwaXl4cVNaVTJsanhYOENESWlvaXowcWg0UWtMY0pVa1lUNW1fUWZPbEdSaXlNZWpuV2lLNTV6NUdaTWhuakRjcF9yWm1GbjlXUldJMWNreDByeVo1UmxXWU1KdjZ3NHQwM0dHZk5QRC1ORmp2NkZzTw?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-06T16:00:57.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "++ REFUELING IN LUXEMBOURG CURRENTLY: The price of diesel fuel is falling ++",
+          "summary": ""
+        },
+        "lb": {
+          "title": "++ BEZUELT A LËTZEBUERG AKTUELL: Den Dieselpräis geet erof ++",
+          "summary": ""
+        },
+        "fr": {
+          "title": "++ RAVITAILLEMENT AU LUXEMBOURG ACTUELLEMENT : Le prix du gasoil baisse ++",
           "summary": ""
         }
       }
@@ -468,6 +662,39 @@
         },
         "fr": {
           "title": "Yanina Yitani a confirmé l'incorporation du Luxembourg et a fourni des détails sur le 45ème Festival des Communautés",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "150188f58ab0cf89f66ada396e1f73a564afbb0d",
+      "title": "Жоау Машаду — статистика у Люксембург: Національний дивізіон 2026/2027: скільки голів та передач",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMElJOWtwdEthTzlEdXp5YV9SeUhvZjRnZERkSGZPZngyT1d0djRiMlZKOG5DUGpDZk4ySm9YaXpuaG1hTTFkS2hnQ3VOeHpSQy1rQlZHWUF3cEY0eXVHVi1pRThLODNpelRIVTg0NWNpOVh4aTBpcDE2dUh4MVBCOXllb0YxLTBqb3FrNzNGVlVXTTluMXJCWFI4NmxlYWRi?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-06T14:51:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Joao Machado – Statistik in Luxemburg: Nationale Division 2026/2027: wie viele Tore und Assists",
+          "summary": ""
+        },
+        "en": {
+          "title": "Joao Machado - statistics in Luxembourg: National Division 2026/2027: how many goals and assists",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Joao Machado - Statistiken zu Lëtzebuerg: Nationaldivisioun 2026/2027: wéivill Goler an Assists",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Joao Machado - statistiques au Luxembourg: Division Nationale 2026/2027 : combien de buts et de passes décisives",
           "summary": ""
         }
       }
@@ -5040,6 +5267,39 @@
         },
         "de": {
           "title": "Das junge Luxemburg glänzt in Berlin",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a8c55f178d5994393d005312b7e8d7d26e293377",
+      "title": "Alexandru Munteanu, după întrevederea cu Luc Frieden: Luxemburg susține ferm parcursul european al Moldovei",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNEFDeE04bnR4ckgzaUx4QjJzLWpGX2FGLTVZRldJNjl0X1BlT3JKaC1EenNhRkhodGpPWUZkMWtYWlB1U1VEYnQ5WGIyTXVlZTVmcXhwR1ZqaW0zVEMzcE83cGdDdEwxZG4zY2xzU2NaaFY4VmdmaHZxbzFud2g3aWNLQmEzMlFrNkpSb0JVMkNpVGhDcUZNYnpDMURidG5FTXo4TEFRSFZLTnJ1eUlFSEhNMXdvYjRRdjQ0dVd3?oc=5",
+      "source": "ipn.md",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-08-03T15:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Alexandru Munteanu, nach dem Treffen mit Luc Frieden: Luxemburg unterstützt entschieden den europäischen Weg Moldawiens",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Alexandru Munteanu, no der Reunioun mam Luc Frieden: Lëtzebuerg ënnerstëtzt de Moldawiens europäesche Wee fest",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Alexandru Munteanu, après la rencontre avec Luc Frieden : le Luxembourg soutient fermement la voie européenne de la Moldavie",
+          "summary": ""
+        },
+        "en": {
+          "title": "Alexandru Munteanu, after the meeting with Luc Frieden: Luxembourg firmly supports Moldova's European path",
           "summary": ""
         }
       }
@@ -17207,6 +17467,39 @@
       }
     },
     {
+      "id": "b690448ddcf9e4ef2a3275fea2ff8f6690b66dc9",
+      "title": "神奈川県と同じ広さの小国「ルクセンブルク」で見た、ちょっと意外なスタートアップ環境（画像）（3/46枚目）",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PRzFpOGc3SExKZWdXdHkzTEplRmlVblRxSHRwUWtDdE9BR2VLVDVINk5GZTdwbUZRQmFKRUpFNlJrWlc0YWZoWTNqWXE5Zzh0TW1MRFBpUVIzbUJpYlVZSE0tWTNJYS01MWo1d0ZEWm9KZjRsRVdjRWNxUQ?oc=5",
+      "source": "ITmedia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-07-28T11:58:49.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "E bëssen iwwerraschend Startup-Ëmfeld (Bild) zu Lëtzebuerg, e klengt Land mat der selwechter Gréisst wéi Kanagawa Prefecture (3/46. Foto)",
+          "summary": ""
+        },
+        "en": {
+          "title": "A somewhat surprising startup environment (image) in Luxembourg, a small country the same size as Kanagawa Prefecture (3/46th photo)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein etwas überraschendes Startup-Umfeld (Bild) in Luxemburg, einem kleinen Land von der Größe der Präfektur Kanagawa (3/46. Foto)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Un environnement startup un peu surprenant (image) au Luxembourg, un petit pays de la même taille que la préfecture de Kanagawa (photo 3/46ème)",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "16ed810041cbfa71b2e3d6b9d7879f2a0647274e",
       "title": "神奈川県と同じ広さの小国「ルクセンブルク」で見た、ちょっと意外なスタートアップ環境（画像）（5/46枚目）",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Dd0Q0b3YycmNfdF9jeFg2QU9scFR2NEtSQk9GWXdlVUF2SDZjWFhCRXdOYVJyd0pMODJteHZfTVEtLWVQaGk5Ym9fbENnTk1VVXVfNzFBSGd5Y21NTmRmM0tXMFpsQVozSDd4RmJsY2ZpN0RmYzZsN3NYaw?oc=5",
@@ -28912,6 +29205,39 @@
       }
     },
     {
+      "id": "94093194128ca8186b1e734a97fffcf0e3a52522",
+      "title": "Luxemburgo-Itália | Estatísticas | UEFA Sub-17 2027",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzZEIzWGJScjB0TlNsOVRISF9TazZ4RUxvaEEtQmdQSVA4ZUNKSk9jMlV6UUhGYVJMX1hzTEYtVHBLUEpoNGFPclFVMHdvMElIU3ZCX2YxV201RW9YNTVxRVdCeGplTE9ORHg5TDNCaGVydmw5eTVJdTNXcmp6WXM?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-22T06:44:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg-Italien | Statistik | UEFA U17 2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg-Italien | Statistiken | UEFA U17 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg-Italy | Statistics | UEFA U17 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg-Italie | Statistiques | UEFA U17 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "8de7040feed32f4f7737f32554dec6eb7fa54974",
       "title": "Frankreich-Luxemburg | UEFA U17-EM 2027",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16cXdCLVdWMktEcTZkdzBCcS1EeXEzb283NnBiOGdIVDY1VUJ6VDJFZ0xvWnFGTzh3YXZRMFRxMEc5eGxxV21ya2YzWDlMSk5ZVVo3a1BCNUNZMTZ6bEM0TFFWNEN5ZnpYWjJwWVhFdXJpZw?oc=5",
@@ -38103,6 +38429,39 @@
       }
     },
     {
+      "id": "affcfb76548f628adaaf275544d20e6b8c5d9e2c",
+      "title": "画廊 由 STDM 与 Mikan 设计的2025年大阪世博会卢森堡馆，探索韵律与模块化 - 12",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOWGN1OF83T2p4LVVfYURNNFItR19KdERraHBZUFowcjNudUgxeEliTjl4YlpXckZ1LW9rVmJGa0o0MXBJZnBpaXdDcGJrclBGaXRiYllJYk53am9NX1RYUFhKbXFYa1h5alQzc0l1NTdsTXo4dDBneWFoSmcwcjZOd3BwRVZmQUlEaFpSTEVqbERPdk1oQ0xPdEpFbGxaS0RhRDJzakVubFBqdmFSN2xOTDk1VVRNRE5zZU5FX1lxV2t1NC0wNVlBRDg2WGd5UDFXMDBiUWpTWWUtdlNGNjhQcUhtSWt0MzQwQy1DeXpfdl9PWEEyZ2NXYU9hQ3hyMWdycUE0Z0MtQ0tyLWR4MTdIYzB5RElJcDE5YmlZWDVEY1k4bU1yQ3A5NVJ3czBlWnVCZVdranBHNDBVcWcxVXhWVnVVSldXNGJ0SjlQT0NzMnJrY1hNTFBwbTBranFmNzVlSDNuYWFnQkpIdS1YNXR1UlVXbWljaWI3cWdKVGhLUXFtckpF?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-17T00:33:35.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Gallery Luxembourg Pavilion auf der Expo 2025 Osaka, entworfen von STDM und Mikan, erforscht Rhythmus und Modularität – 12",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie Luxembourg Pavillon op Expo 2025 Osaka, entworf vum STDM a Mikan, entdeckt Rhythmus a Modularitéit - 12",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Pavillon du Luxembourg à l'Expo 2025 Osaka, conçu par STDM et Mikan, explore le rythme et la modularité - 12",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery Luxembourg Pavilion at Expo 2025 Osaka, designed by STDM and Mikan, explores rhythm and modularity - 12",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "7d018c2148e30cc6deb9545f6b488a804a40dcda",
       "title": "Islandia (k) - luksemburg (k)",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVFGOTROSmJIUFNsc3NGWGN1RHRIYk1Jd2pqTHlYM0tNTlh1ekp5SkQ1WjV4MmxUZFJvdldIVC1qMmVDM0xTYVFOYVV1bTVxZ3NmZ2RnU3JZaldkWkJENDNRZ2pHenJxRzlick5BMG9RV1lUNEN2M3NrZmhlZlRXem00dHY4RFplZlZ1NDByUV84eVJGSm9wRElJRkNWanRFTWdtMnptRTVWZWF2czlJ?oc=5",
@@ -41055,6 +41414,39 @@
         },
         "fr": {
           "title": "Aperçu des fonds de la série Proximity (Luxembourg) - Proximity Global Focus Growth Equity Fund I Level (USD) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "59838d7ba0f4a8c6a115428ee09a0abb9f131c66",
+      "title": "Galeria de Guia de arquitetura de Luxemburgo: 23 projetos para explorar no Grão-Ducado - 21",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPejdWbU1PaER1V3BVa3hOcW10ajBNMU5xWWVhWU9GVHJYU296Z19jWi03ZXJWYVlIQUQwSGNrS2E1ZVJlNEhLcGZrU3hReWdrNkpDWkc2cWVvOEJQekxxU2RybjVBdE5TeTlQQ24wQ3Bhd2lPTTd5RUdSZENlRWxrYWE4OF9TNjNzaERZc0xkdE1jRkU5dWh3UThnbXNJWmVvbzBLTWdsVTJiRTFvX013Sy1GSVQ0ZXZTc0FoYm5NTjcxb2YxTi0tX3JlSmVheFl2OUJMNGxMRGZPbnVNNXpaSmFhSHgyX19LaVE5VHgxbkt0VUc4aW5lSFJsWEl3QjFOWlU5QmgxRExGM3gydm9MYjdUSHpkVWp5N191cDBKWXpaejBNMUl0X0hFZ3dwNkdVWGlpUXRiMjRxQzJ1cXRvZA?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-07-16T06:46:29.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg Architecture Guide Gallery: 23 Projete fir ze entdecken am Grand-Duché - 21",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Luxembourg Architecture Guide: 23 Projekte im Großherzogtum zum Entdecken - 21",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Architecture Guide Gallery: 23 Projects to Explore in the Grand Duchy - 21",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie du Guide d'architecture luxembourgeois : 23 projets à découvrir au Grand-Duché - 21",
           "summary": ""
         }
       }
@@ -47001,390 +47393,6 @@
         },
         "en": {
           "title": "Luxembourg House Gallery / Richard Meier & Partners - 13",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "31ea5b32d7befa787eefdfe33b14feb1e6266e51",
-      "title": "Galería de Guía de arquitectura de la ciudad de Luxemburgo: 23 proyectos para explorar en el Gran Ducado - 1",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxON09IbFhyS0R3QXh5QVFfb3poRVlITWtIX0JxZGdWbE1vWnhZZUt1b05uMVl6SzNrSTVBd202dXlnanoyR01RN2dGb2VIRDd5cV8xQkd6ekpGaEM2NmpOTzBvWkdoN05EMFpGcG1NdkhIZXZldk90VVVPRjEzSDdReXpGUmNFMll0ZXlHSkFlM1VFN1duUDAyeTFWZHZIZW9MMHJrWC0xOW83ZjlKR2I3My11bGhNUFdwc3NHU2M0bVh1cHRndF9hbHlBTzhJRzRJVjA5OEY4c21uaWJhWE9HV09acUtJMlQyQUNQYXF6OUNHSDJ2c21CSmptYjl5bHhVdllzbFJ3Z2VNZGxPbmM2Y0tmcDY5MFJnWmRyMW9hWTBDd054ajNaOEU1cmFFM1FXSDVmOERQOHNNb2pRQm01T2RCX0FLaHQ3LUxjbTIweVczc2dDYWxxOA?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-14T14:33:19.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Galerie du Guide d'architecture de la Ville de Luxembourg : 23 projets à découvrir au Grand-Duché - 1",
-          "summary": ""
-        },
-        "de": {
-          "title": "Architekturführer der Galerie der Stadt Luxemburg: 23 zu entdeckende Projekte im Großherzogtum - 1",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of Luxembourg City Architecture Guide: 23 Projects to Explore in the Grand Duchy - 1",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gallery of Luxembourg City Architecture Guide: 23 Projects to Explore in the Grand-Duché - 1",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "caa41d2e1d816f0b5efbeddaafc21177e37ffa99",
-      "title": "画廊 卢森堡国家图书馆 / Bolles + Wilson + WW+ architektur + management - 7",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNa3k4WmNFNUUxeTktaUhuMXFjZGlzSzNlVjlDMnB6bUdnb2Y2ZFJZYXdfZWFybTE4X24xaHVJSDQxZE12X2FvbGhLZkRNOURUU3VtRElIcW85YjNkRGtVd0o1cFI0YTRJeHliMVlvQzRveGJiT1BfaVBpbmJZOUlNdGpJQkNiaTJkWWdyb3ItemJYQ3k0TnlyOTlrYUU5TzA2YzIwMVJNQnI2YXFGc21VblVNR1ZXM1ZNa0Z5akpOR1hheXo4ekpDd0NWb1hYaEFwWVFpQTJBLU1LOTNuUzFvSXIzQndUQm5iU1FXV25PN1h2OUlWSEJmMzNKX1VQOHlDUE04ZHhIbGtBQ1RWSV9rLXFIYTVfWDljWmE4aVNpRDhXbEpWZGoxSHhIcWpFcVZwbkdEYVdWeERIUDN2V3RQbkJ2U25KaUFpMVhLZklqR3BFTlVySmh0WkNnUzF4bEtuOVY0?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-14T14:32:04.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 7",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 7",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie de la Bibliothèque Nationale du Luxembourg / Bolles + Wilson + WW+ architektur + management - 7",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie der Nationalbibliothek Luxemburg / Bolles + Wilson + WW+ Architektur + Management - 7",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b6a862a87bdf02abd913c5a0f31a62620b7ba6b3",
-      "title": "Galeria de Vincent Callebaut Architectures propõe metamorfose futurista para antigo hotel em Luxemburgo - 6",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOM2hYTlVDaFI2LW82bUNIRS0taTBoaVlEWFVYaW1iVXI0YlpKbXlBVURjcE1jR3gtOXVFNklqTlpmaVFMb252cWphZm1hYU1WZkhGWV9mNUZ3VzVMRDNJYXFMUkpORmNfMUc0Y3NWbVNUOUVnU003WFZLaXhhMWlYN0lPZk14SU5SWlBOQU5BVmg2NUE4VUljRmJBTXBPNU1vNmpBUHhNcDdtQVZTUmdZWGswRHN0TzN3MXktWlNXeUxlcGZvbEdSYXN6dGlXdk0zSDJ2c3NzVERqQVpLSGktQlFMUXNSTDVYTTlybkxMQkZRSktBZWNtLTM1NVI5aHBWZFFoWXg3RGgwRnZ0RTI1czVOT3paX0xEenUwMFRsZXdWYlF6MW4yYVFyUTBxMll3elZLdkN1M0l4UndiUXFrZHI2MlFZa0RSUkUyVUhnZkVCakNaR0Exbk5SaDRkQlRmYWZvVnNRNzdlUTdLUUJnbGp3?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-14T14:26:40.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Galerie vum Vincent Callebaut Architectures proposéiert futuristesch Metamorphose fir fréieren Hotel zu Lëtzebuerg - 6",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery by Vincent Callebaut Architectures proposes futuristic metamorphosis for former hotel in Luxembourg - 6",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie von Vincent Callebaut Architectures schlägt futuristische Metamorphose für ehemaliges Hotel in Luxemburg vor – 6",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La galerie de Vincent Callebaut Architectures propose une métamorphose futuriste pour un ancien hôtel à Luxembourg - 6",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5368046a5139312382bd2d6bdc665ee8a4a1af06",
-      "title": "Des Frelons aux Abeilles : un deuxième Montlouisien rejoint le championnat du Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNVI4c1lrTUhFRFFJdXpxaVBqWjVtZVZ2SS04U2hsOERWQzhJRVJMRUZGZGtYS29PRnZ0WmJqVmxlNXVtaWF3bFdyczdtdTNKb0szb0tubWpVVTJhSnllNTR5a1RPbVRUbHc5YXFIT2xUbEliaVRLTVZEZUxnQXZTWVJ2OWc4NnE1aGowTVkzcFRDbUkxSzlOSTg5dWpZMFJtZGJ4UE5MbTN0RS1MOFdJZk85NmtzS1ptZE1JNlc1amVQUl9PUzI3ZDVNNG5pRUFhY251Ym1JSEhOYXB2Z0I1aGVQbTNHNkNnMEM3Wk9Ndm5KeE9LRzgyNWlhVFNqZGNrQmU2cEZVTQ?oc=5",
-      "source": "lanouvellerepublique.fr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-14T14:22:31.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vu Frelons bis Abeilles: en zweete Montlouisier kënnt an d'Lëtzebuerger Championnat",
-          "summary": ""
-        },
-        "en": {
-          "title": "From Frelons to Abeilles: a second Montlouisian joins the Luxembourg championship",
-          "summary": ""
-        },
-        "de": {
-          "title": "Von Frelons nach Abeilles: Ein zweiter Montlouisianer steigt in die luxemburgische Meisterschaft ein",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0d6b3287e1149f80ab676bb5cd2109bd4d037c0a",
-      "title": "画廊 卢森堡自由港/ Atelier d’Architecture 3BM3 - 3",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa2I0Q2d2ZkxQOFhfV1BwUVhFaDI0M2RpeE1KeW5Wb2RWbnFQS3RJOFNNYkEyZE5iWkFHVFIyQS02MnhBYVJJcEtCb1lhSjg2M1ZVbkJmS21FTTM0Yks5a1Nid0o2RWNpU3drQmZLcklLZjNrTDV6dzBkTXNzVndpSDlTVzhoZW9Ec3VPR2xPbU5MUjNsMWprMGF0eFVDelRHbDFTQktlQjdpRTlKMncxeFNZTUMtVUFLM1o2SEVCMnUydF9FamVGQTk3TFp5am5rVHZrazE0bm9Bdw?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-14T14:00:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Galerie des Freihafens Luxemburg/Atelier d’Architecture 3BM3 – 3",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gallery of Freeport of Luxembourg/Atelier d’Architecture 3BM3 - 3",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of Freeport of Luxembourg/Atelier d’Architecture 3BM3 - 3",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie du Port Franc de Luxembourg/Atelier d’Architecture 3BM3 - 3",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e50dc4bf38c475c9d91132f18eb970df966e639f",
-      "title": "Luxembourg law opens door to more managed securitizations",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNWgzR0NpWnFtNE1rbjdSbXNsVGFRNTYxWnA4SGdiN0g1ZFpPTUU0YjBIaWFaWFJlTEs1dFFvVGxsM0lpMDJSajFPRVVSRXAyek0zVWVVb1BIRXg4M3JYUFdrV3NqeW1sLUhOandmYUtRYVByRlZESnZ2QS1rUVR4SU5JdkllOVdDZ2NZWUdaZnU0M2ZLcDd4MkxGbjl0Vk4tTEN5LVlULVNySUd4aFIxTEZLek03RXBvVzVaai1jdHQxc3BMNGtFYVREc2FYZTl3OUxnUlR1RUpQTVM4M29mdkNSVnFuSEhoSnJRdGtCN0N5Q0h0enNXLUtrWQ?oc=5",
-      "source": "Global Capital",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-14T13:19:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Gesetz mécht d'Dier op fir méi verwaltete Securitisatiounen",
-          "summary": ""
-        },
-        "de": {
-          "title": "Das luxemburgische Recht öffnet die Tür zu besser verwalteten Verbriefungen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La loi luxembourgeoise ouvre la porte à des titrisations davantage gérées",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "463f4c829817971bb2ed86bd37f24a1b6762b6bb",
-      "title": "画廊 卢森堡城市建筑指南：探索大公国的 23 个建筑项目 - 23",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQWWpQbG52akt5NDBuay1VTkdKNDVUSEFNTmI1X0toOEg2azZsa2tSelBZemhaT2pUREpRQ3ZmYjRlTTh5NVNOVEdPZHRGdU1OSW02MW0zTnJNcGstLTFSSFhnR19zN3J4ekNoYjUtTlhULVhUbnk2RnJBbkVOSTVnSER6VWdxc1otYnQ0ekFRcUl5aTFmUmtSTERwcktqRlpSSGFLZXBIZnZrX1l1b280WWtpeUlzSzBMZl9yQy1oQkEtbHVMOU9IYlJMZ0tIUGxWczZfejdNZmVQRjVlWVlZSWJVZFZJMlRxeWs5QWtwa3h1SjcybVgtem9WdlhGN2pwcDV0emJMTnZQVUZab0hrVkNITnd0cEhUaDNRVVJLa1hrSGhtaFBoVDhQR05ucnZIekJraFRjM3BaZEVYTThuU3ViWk91V01wUE5WM3pB?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-14T13:18:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Galerie Luxembourg City Architecture Guide: Entdeckt 23 Architekturprojeten am Grand-Duché - 23",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery Luxembourg City Architecture Guide: Discover 23 architectural projects in the Grand Duchy - 23",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie Architekturführer der Stadt Luxemburg: Entdecken Sie 23 Architekturprojekte im Großherzogtum - 23",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie Guide d'architecture de la Ville de Luxembourg : Découvrez 23 projets architecturaux au Grand-Duché - 23",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "509f74287cf2b67f4b650f50e573913b1edc0c50",
-      "title": "Wyprowadzili 60 mln zł przez Luksemburg, by nie zapłacić podatku. Skarbówka ich dorwała, odzyskując 20 mln zł",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRGFmbm12emk0Rm5GQ2puX2VwU1VpVjFIQnZzOG5tUXNScFdfdGJlQTdqeEV0U1JCTGYxMFR0VzZpVU0tMDI2THhkbVo2dHFsX0RMS096cUF2NC1jNmxpZ1dxdUpQeVh5SVJONDhLS2JkTFZrOGxiU3gxZ1pMeXEwZVU5Z2lIdVRIbE52cVVOekxWOXpORGRoZTl2RGRMMTlucVl5czgtTHFmZHNHbm9wdzFtN2NsaGM4LVFORHNMNmhDNE5COS1BZDZwYVl0RlVCTF9jXw?oc=5",
-      "source": "FXMAG",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-07-14T13:12:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Si hunn 60 Milliounen PLN iwwer Lëtzebuerg iwwerwisen, fir Steieren net ze bezuelen. De Steierbüro huet se gefaangen an 20 Milliounen PLN zréckgezunn",
-          "summary": ""
-        },
-        "en": {
-          "title": "They transferred PLN 60 million through Luxembourg to avoid paying tax. The tax office caught them and recovered PLN 20 million",
-          "summary": ""
-        },
-        "de": {
-          "title": "Sie überwiesen 60 Mio. PLN über Luxemburg, um Steuern zu vermeiden. Das Finanzamt hat sie erwischt und 20 Mio. PLN zurückgefordert",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ils ont transféré 60 millions de PLN via le Luxembourg pour éviter de payer des impôts. Le bureau des impôts les a arrêtés et a récupéré 20 millions de PLN",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7568bc65d65370338c0072b6745a3872c5b44088",
-      "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 3",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOWW41WFY0MzhxU1NJaFBUbjhUYWkwdF9rdlFfLXFyZDNpR1Rqay03NU0tNkRtUVptaVFuRlhhbk1memg1OUZiS3VVUWZTbDlYb3J4aGFERG8tZDBiQm1INEw1UWNhWi1ZYmV4OUVWek5wdk1QWEg1bnk5ejBNU1FndG4xM0JRNEo1cElZbHY0QlZuTVlLUmdvTzNlVnRkaU5sVGkzQ0g5cUptTmpMM3NLUUdReThPR1FxVW9Sck5rOVppYmVZaVFhVEU5UFVDRFJTSENKNC1ZS0taa1J6WWlNTFZRdWZVc1JhZXZPd3hCa3A1YVIxWVRka2ZmN19ZNTBEYVdIYU5pWW16QWJuaDNhY3cyZUloN2JORGllTnA0M0dIM29QcEZsZlc1bXhSdEZGVC1XaDZnOUd1VlBOZV91ZnZGZmpaSkJBWl9OSjFFVnljOEU2U24tQVJZcjhIX29CZ3VPX2c0OEZUMy1YM0tieDhhZDl3OHFyeHNBOGVrbi1KN0RiQXc?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-14T13:08:43.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + direction - 3",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 3",
-          "summary": ""
-        },
-        "en": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 3",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ Architektur + Management - 3",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "429d4cb6af550aa66273373b41a7925980b45782",
-      "title": "卢森堡最近的打折村，悄悄升级鸟枪换炮，值得一去",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtdF9OUHFJall3dW8zc19BSHQ0eUx3ZjE5UzEyWmhELUxmUzBYSjFGQ0MyZlRYajlVc1locGJudFp6dGhTZUxyR0JnNnZsdjQtMEFlRXBOX3hGcHNPUnpLSGh3?oc=5",
-      "source": "手机网易网",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-14T13:01:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Dat nootste Discountduerf zu Lëtzebuerg huet roueg seng Gewierer opgewäert an duerch Kanounen ersat. Et ass derwäert e Besuch.",
-          "summary": ""
-        },
-        "en": {
-          "title": "The nearest discount village in Luxembourg has quietly upgraded its shotguns and replaced them with cannons. It’s worth a visit.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le village discount le plus proche au Luxembourg a discrètement modernisé ses fusils de chasse et les a remplacés par des canons. Cela vaut le détour.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Das nächstgelegene Discountdorf in Luxemburg hat in aller Stille seine Schrotflinten aufgerüstet und durch Kanonen ersetzt. Es ist einen Besuch wert.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5134c638fc757ae982649b99cfcca81817016617",
-      "title": "Luxembourg Selects Uplift360 for 8-Year Defense Materials Program",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSE9tMlNzZ1RZM3BaQnRmbTZlbVFEZFFrc2dFTWtaR2ZUd3NyX2ZjWnJEYm9ISF85NklNVU5XZnZrbW9Oc1ZjdF96QnBYLV9fQ0tfWElUcVBhZFludlpaN1E1QUtSZlhGUFNfZFpnU05qLUpnOWVETUViV0pIa0NIVk43NNIBiAFBVV95cUxNQkg3Q3hMODdTV01VN0EyVkNPc2lYTTBpb0NjamtSeENpOXpKcTdRenVKQUo5V3RlR3RnOUVvZWFDcXpuN3hWOWJyaXVWSGEzcmR5X251V3FEMENjTzhOWjF0N3M1eUg0TkNjbzFjV2JqbVUwLTNKVWJ4OTNGMmlTOUFXcnJvTWND?oc=5",
-      "source": "The Defense Post",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-14T12:56:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg wielt Uplift360 fir 8-Joer Verteidegungsmaterial Programm",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg choisit Uplift360 pour son programme de matériaux de défense de 8 ans",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg wählt Uplift360 für das 8-jährige Verteidigungsmaterialprogramm",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e03e004d42a5922a62186f207074b4c48bd32e35",
-      "title": "Galería de Guía de arquitectura de la ciudad de Luxemburgo: 23 proyectos para explorar en el Gran Ducado - 4",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPS0dmRWVNc1hpOFo0d2g4WU8wQ0NZOEJTWWd4M0hqUnlkdFRkeklQQWlsUVFCYmRNVmNtY1MzTV82UVdueE9rUEJKMDJyUXpfN0xMNjRQalFwZUZ6T2d2UFI4Y2FwWjBQeUNHTFpHcGE1WmNiZHdIY3hERU1TUnFFaUVwaWhrdlpqWUhINEtfUVRSLVhpZ1ZiRTAtZS1fd0EtZEhaUURNTXVWWEROcW1qM3lpamRTTFVsQmNUZU1wdklfbzM5VTRUYlRrQzl3cTlfM2tJUlAySE9kSzdlMXFfSDJ6a19aUmxOZl8zdEJONWU1cDNkZkg0NFlIRlVKSEZLb081amRIdWNieWpINm1SbGNESGNHbnNfeFAwZnA4MldRY0RKak1lUU5TRDR2bG9adEo0X24yWFN5Y01GVGZxeEtLa2R5Y0J3WmxMbkdpcUxLYWhtOVFpWQ?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-14T12:45:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Galerie vun der Stad Architektur Guide: 23 Projete fir ze entdecken am Grand-Duché - 4",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of Luxembourg City Architecture Guide: 23 Projects to Explore in the Grand Duchy - 4",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie du Guide d'architecture de la Ville de Luxembourg : 23 projets à découvrir au Grand-Duché - 4",
-          "summary": ""
-        },
-        "de": {
-          "title": "Architekturführer der Galerie der Stadt Luxemburg: 23 Projekte zum Entdecken im Großherzogtum - 4",
           "summary": ""
         }
       }
