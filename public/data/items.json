@@ -1,6 +1,93 @@
 {
-  "generatedAt": "2026-08-07T03:19:51.561Z",
+  "generatedAt": "2026-08-07T05:51:03.783Z",
   "items": [
+    {
+      "id": "63d2f12c3ee8c08ca3ba3fc3da4eb5d3f1c038fb",
+      "title": "Flughafen „Findel“: Comeback der USA-Direktflüge in Luxemburg? Das ist bisher bekannt",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY0wxZTVMbXNIcmswb1VsMS1NR0hjY01OQnl5UzgyNXltNmVKTkcwYVRZV0N5N0p0UEp5NVR5NE5RRm91NkR4bDU3LTRGMUg1NGVMTXFlbTU3QnQ1RmZMOHd6bkFRdW5vWExkWHFIN2ozWWl5QzRDNnlTSDhqd2ZUb0YyUTVsTk5XMXVReVNPTlNtZElOdDMxbnFvVjNCdlZUQTV6MFdzQ3ZISmhwbUJXcE54cWNyZHI3SmVQSXNoeXFoS3hpSnlZbkpoQU16LVpZSUpRNVFfaGJucEhrZmxVcGZKWDNvZG03?oc=5",
+      "source": "Saarbrücker Zeitung",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-07T05:13:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "“Findel” airport: Comeback of direct flights to the USA in Luxembourg? This is what is known so far",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aéroport « Findel » : Retour des vols directs vers les USA au Luxembourg ? C'est ce que l'on sait jusqu'à présent",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fluchhafen \"Findel\": Comeback vun Direktflich an d'USA zu Lëtzebuerg? Dëst ass wat bis elo bekannt ass",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "50d456c50b155fc36e1d6f1e06c067cdce37cd4b",
+      "title": "Zug wealth group expands into Luxembourg with double acquisition",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWdXY1FRWVVicW91emtjcHRPNllPTGRsR0RqQzdTT29hc1FPRHBYUlBGVC10dXB5bXVES1lyODdtSEZ3U0gxREZsSU5hRnc4TzhiS0ZWRkhEVmNYVUtGN3hWemFER0t2UUx4MjZHUTBlSGQ2eWFTc3d0UGx1SkFCOTdmdTgwWFc3d0s1b0xOR2ZvMjlEc0RIMEhDMFVQRTYyQUpLQQ?oc=5",
+      "source": "Citywire",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-07T05:10:08.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Zug Räichtum Group expandéiert zu Lëtzebuerg mat duebel Acquisitioun",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le groupe patrimonial Zug s'étend au Luxembourg avec une double acquisition",
+          "summary": ""
+        },
+        "de": {
+          "title": "Zuger Vermögensgruppe expandiert mit Doppelakquisition nach Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "64e8e5257c103f3b42ac0e3b74760beb39faf0d5",
+      "title": "Carburants. Le prix du diesel continue de chuter au Luxembourg : voici les nouveaux tarifs ce vendredi",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMnI1dS1PTWZ6T3NBdFM2ZnJQeUtXeXJ3TWw0dlBlMnRDbU95YmtDX3pOWTc1dHNRXzNPaGNrT1J4YUFUei02a2prMFdWUml0UmNxck5OV0hHUHNlcjVxZ1p6T3plRW5lQTdoVy01QXo5ZzcyNDVUTDIzS0pIWXFLSW0zNVMyQ1JtaXNPLVNEVTR6b0hBMVdCX0tQTW83SWM1cGhaOTdnSEowNjAzck13QnBEam5tTjJvYk5LVGd6WktQTV8wS19pcGRhRS1TV1NXNzVr?oc=5",
+      "source": "Actu.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-07T05:02:01.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Fuels. The price of diesel continues to fall in Luxembourg: here are the new prices this Friday",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffer. Den Dieselpräis geet weider zu Lëtzebuerg erof: hei sinn déi nei Präisser dëse Freideg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kraftstoffe. Der Dieselpreis sinkt in Luxemburg weiter: Hier sind die neuen Preise für diesen Freitag",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "a2ce5395ee0a2741346db00741ae7bbe16299853",
       "title": "تعزيز التجارة والاستثمار بين مدينة هو تشي منه ولوكسمبورغ.",
@@ -1195,6 +1282,35 @@
         },
         "lb": {
           "title": "De Lëtzebuerger Inneminister huet d'EU virun de Risike vu Restriktiounen zu Schengen gewarnt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "1b201f26e8cbe5bafe2d2fcc1cb56180dc1fb120",
+      "title": "INTERVIEW : Prendre Schengen « en otage » n'enrayera pas le populisme, selon le Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLURuWHFNSnBkYjZDVjBhT2ZtdloxeTNYR2dINl9OTWxYRkVoakJyVkxiZUVsRTd5TVE0alo1THBGVm0tbzdzMVdaTEEyaVF1UTFZYmVyY2dpU3cwN3loZDROWnJHVVdDQkV4d3ZEc28wUVNlMTZkc0JhT3FBRDB6SFFkcjBsb1lzcTRsX0pWdHc4MWpXbUhnQlZKM3hyMXBnTXRwRzN6ZXRvWkh1anBqZEtB?oc=5",
+      "source": "euractiv.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-06T08:14:28.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "eu"
+      ],
+      "translations": {
+        "en": {
+          "title": "INTERVIEW: Taking Schengen “hostage” will not stop populism, according to Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "INTERVIEW: Laut Luxemburg wird die „Geiselnahme“ von Schengen den Populismus nicht stoppen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "INTERVIEW: Schengen „Geisel“ hëlt de Populismus net op, esou Lëtzebuerg",
           "summary": ""
         }
       }
@@ -8110,6 +8226,39 @@
         },
         "lb": {
           "title": "Patrice Kabuya - Statistiken zu Lëtzebuerg: Nationaldivisioun 2024/2025: wéivill Goler an Assists",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f42fca9ef57507ab3505d69322a729508bdebc7e",
+      "title": "Galería de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 3",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOdDFnVGhXakIza2I1V1I3NTNkU2JFRThyNTNiYl9BaTRCbVRRRjFhZTNlR2V1aGNIVS1TYXZGTjhPdW1oVDE3cnFlRE5rY3FUbW5QWGNrSVBGSWR4QnVvQWtQNWhqblhXcjdnYWZsQk5uaHhJcllNXzhkckhmOTU0Y3NvWGNHSmtFdUEwZ2RCT0RXV1RkY29iS0MxdFB6bzBTMXRHREpObzd0dXBEZDhiOV9pS2hEUFZwalNfUllVOHZJWjlpbWs0LWtOeEczdjhCSEwweEVDRzBPMTlFdmxWcjlZcjdoVWlpdGlFbFNPSW5aVDZlYmszYmtaU0xaRVd3ZUpZU2wyZ3N4Q3ZCOGZndlR6d1VHN0M3R1ZIdzFKRi1fNkVQNFJtdFNxcmt6bllESlFsZG5vUzZKOE5hWUtiOFRDZGpXbmtyU09YR0Z6YzJtWTAzeVdJbE1fcFVvUlpBSVpLSWxCYw?oc=5",
+      "source": "archdaily.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-01T09:57:58.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 3",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 3",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie der Nationalbibliothek Luxemburg / Bolles + Wilson + WW+ Architektur + Management - 3",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de la Bibliothèque Nationale du Luxembourg / Bolles + Wilson + WW+ architektur + management - 3",
           "summary": ""
         }
       }
@@ -47236,163 +47385,6 @@
         },
         "lb": {
           "title": "++ DREIFUNG A LËTZEBUERG AKTUELL: Den Dieselpräis klëmmt – super méi bëlleg ++",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "77c0639946f6eff5f15c4fa5c4ab642fc1bbd7ec",
-      "title": "Aktueller Überblick: Spritpreise in Luxemburg: Super wird günstiger, Diesel teurer",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnRlX1BMZ3ZwbUgwMW9taloyT1VyUUN5b0JTSS1DanVuN2FQVmdyRURYRTgycTZaSEdqRzhsZ2JiM1JodnRxZTlRMkNJQWNaT3ZXTGxuUW1JeW5TYy05LWtUck05SmlzZnRVWFlDQkd2ejZuX0poTE91aThfenB3ZmN0VkcyYkFuU01MTVg4T05aNTJMOGJzU3NNOFAtRFEyWHEzc1hvSTdIdllfcE16UG1obnl4MDR0?oc=5",
-      "source": "Volksfreund",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-14T16:01:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Aktuellen Iwwerbléck: Brennstoffpräisser zu Lëtzebuerg: Super gëtt méi bëlleg, Diesel méi deier",
-          "summary": ""
-        },
-        "en": {
-          "title": "Current overview: Fuel prices in Luxembourg: Super is becoming cheaper, diesel more expensive",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Aperçu actuel : Prix des carburants au Luxembourg : le super devient moins cher, le diesel plus cher",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f76d5a2b2397d0300dbad5abb3a02552d15d2bc4",
-      "title": "Le prix de l'essence diminue, celui du diesel augmente : voici les nouveaux tarifs du carburant au Luxembourg dès demain",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQXzZSZVJCWDZDcllTSW5fZEZKNHJFTkJ2ejFBYzBQdWRQbjc3QUI4SFVNbHZpY2dJMm1oQnhKVERMUkw3VUFlR0N6ZVpEY2hGbVIxNkRpUldzb1QwSE9lVUZzZGMyc3NOSTR5YVNreDY3U3pVbEZQR0VXaWY1WHYzUDU1WlZyU1BZNFVPeTl6TDNWVmVPNWpER1djZ0pTMGtmd0h2MXMtUTE0SlhiXzdrSlkxc3VnM25wMHZLQ1FvWEMzSFVfRXZNMlB0alBnRmMtMW1hdzBMVXp5NWhDODByakdkWEhKcVhBRFE4?oc=5",
-      "source": "Actu.fr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-14T15:54:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "The price of gasoline decreases, that of diesel increases: here are the new fuel prices in Luxembourg from tomorrow",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Benzinpräis geet erof, dee vum Diesel klëmmt: hei sinn déi nei Brennstoffpräisser zu Lëtzebuerg ab muer",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der Preis für Benzin sinkt, der für Diesel steigt: Hier sind die neuen Kraftstoffpreise in Luxemburg ab morgen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f025aa1778b7b9acf31dae6a5e31011394d71c9b",
-      "title": "Lüksemburg Başbakanı Frieden'den Fransa Ulusal Günü mesajı",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTF2aXE3TUhkZ0ZKdmZFbmVLZ0Rhdm5UNDJvNlVtZ3lkcmQ2NGhtZU5EaXFobHdNN0NxR0hPMVpTS3B2MktlMDI4ZGhxek9idWtFQkI0dGpBSnhiVXY5eHhQakpBRVVPNFJfbHdNRHhZdTJZRmNQQzFCZVJWQ1lrZTFtV2d5U1hseHc?oc=5",
-      "source": "hibya.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-07-14T15:29:46.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Message du Premier ministre luxembourgeois Frieden pour la fête nationale française",
-          "summary": ""
-        },
-        "en": {
-          "title": "French National Day message from Luxembourg Prime Minister Frieden",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Message vum franséischen Nationalfeierdag vum Lëtzebuerger Premier Frieden",
-          "summary": ""
-        },
-        "de": {
-          "title": "Botschaft des luxemburgischen Premierministers Frieden zum französischen Nationalfeiertag",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1c4acf787486ee77a06aea7c8d864297bbd8c306",
-      "title": "In Lussemburgo i sorteggi di Coppa Cev. Giovedì il calendario di SuperLega",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRzdkVS1PVXdtS3BLdklRcWs1cTFLSVBMNHprVkM3S2s2eGtYZnVRaUhxQmMzUTB6T3hYSS1NQnpJQzB0YUhJelFubklzUDFxVEtwYTcxd0Z4S0FqMUZodi1naDNiZmtOQzZxc0UzUk9vVUFiLWg4RENudEp1elNKbDkzandKWjBua3lZLWIwUlpGdXVxcm80b2kzN2ZuQzY0LVJzLWhxX2pRMEpZUGF5UGlONjdmOGpH?oc=5",
-      "source": "piacenzasera.it",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-14T14:46:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'CEV Coupe gëtt zu Lëtzebuerg gezunn. SuperLega Stonneplang um Donneschdeg",
-          "summary": ""
-        },
-        "en": {
-          "title": "The CEV Cup draws in Luxembourg. SuperLega schedule on Thursday",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Auslosung des CEV-Pokals findet in Luxemburg statt. SuperLega-Spielplan am Donnerstag",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La Coupe CEV tire au sort au Luxembourg. Programme de la SuperLega jeudi",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "47b5186133f1bdfcf1ad7653e47e21e64587e6f6",
-      "title": "Galería de Casa Luxemburgo / Richard Meier & Partners - 13",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQW5ScE1OaUJZbzVtSEdfcDJmRzVuWnBObmk1VzFQc1pOdkJBMDFjc3p1U3hGZHpsdEJMdDZUT2g2SjZfWXdsT0hDR2Q2bDZwdGZxX1EzN2NZY3J4RVlTdkFkcW41SHJxYXdnNEtiUWc5Wk1iaTk5TmNzd0RCbm1OcFFEMDkxX2F2MkJDS25WSFNxUVJaYUttWTUtWE50aWNRb1N0N3VldEFBeDMzUkNfVUh6REI2TXVRckJjcTdVNHBRbXRMY0dRN2Nub2tFVUdmaU9OY203Q2phUV93dlF5WTZoZ29OaEc1dGUxZHo0SGZnWUlkTHc?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-14T14:45:32.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxembourg House Gallery / Richard Meier & Partners - 13",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Luxembourg House Gallery / Richard Meier & Partners - 13",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie Maison Luxembourg / Richard Meier & Partners - 13",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg House Gallery / Richard Meier & Partners - 13",
           "summary": ""
         }
       }
