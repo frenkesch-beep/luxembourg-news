@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-07T17:08:37.756Z",
+  "generatedAt": "2026-08-07T18:02:35.280Z",
   "items": [
+    {
+      "id": "a9a834f1da6375beeaf42410a6cfc99d898a4902",
+      "title": "Люксембург надав ще 8 млн.євро на підтримку енергетики України",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwTTNTTTdnUF9qVlk3bWJ2X1NJU2Fub1Zkd3lwWV9ZN3dSTEtVVkpyUks1b3FNUWFiRzAya1FtZ3dWY3hlcUFNRjdnbExFRldRZkhvOXRfSG56dw?oc=5",
+      "source": "inshe tv",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-07T17:36:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg a fourni 8 millions d'euros supplémentaires pour soutenir le secteur énergétique ukrainien",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg stellte weitere 8 Millionen Euro zur Unterstützung der ukrainischen Energiewirtschaft bereit",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg provided another 8 million euros to support Ukraine's energy industry",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg huet nach 8 Milliounen Euro zur Verfügung gestallt fir d'Energieindustrie vun der Ukrain z'ënnerstëtzen",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "bc24174145cc45466a4154d62825839f136b1f61",
       "title": "Premier été loin du trône : Maria Teresa de Luxembourg partage des souvenirs de famille jamais vus",
@@ -47303,39 +47336,6 @@
         },
         "fr": {
           "title": "L'équipe nationale ukrainienne U-20 a battu le Luxembourg avec confiance et a atteint les 1/4 de finale de l'EuroBasket-2026 : c'était la quatrième victoire consécutive",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "963f262acf896e435ac63c96aabd9cb684a2e840",
-      "title": "盧森堡首相呼籲歐洲軍隊進行專業化分工。這可行嗎？有用嗎？",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2Y1eVFSNWV2NWoyVlF5UjdMTFB6amN3ZDdsU2RLZEppcy1aWktFS0ZKclZzaTM3TEMtTXRES1FEWmRfenhnYUptRmdKUnVDOXB3VUczLV9GVzktZXlmVldHM3FocmZfUktTUVpwcDZYWDFFc25fWFNsOVJja3lZUUcwaXhIT2Zu?oc=5",
-      "source": "Meta-Defense",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-15T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Lëtzebuerger Premier fuerdert eng professionell Aarbechtsdeelung an den europäeschen Arméien. Ass dëst méiglech? Ass et nëtzlech?",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg's Prime Minister calls for professional division of labor in European armies. Is this possible? Is it useful?",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der luxemburgische Ministerpräsident fordert eine professionelle Arbeitsteilung in den europäischen Armeen. Ist das möglich? Ist es nützlich?",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Premier ministre luxembourgeois appelle à une division professionnelle du travail dans les armées européennes. Est-ce possible ? Est-ce utile ?",
           "summary": ""
         }
       }
