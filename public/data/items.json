@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-07T20:02:21.745Z",
+  "generatedAt": "2026-08-07T20:59:41.413Z",
   "items": [
+    {
+      "id": "1d6362674c2fb95c235fd7d533eb949ab4414a0a",
+      "title": "Cabanelas recebe XXII Festival de Folclore do Vale do Cávado com grupos de Portugal e do Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHpWYWdNQ3hpTjAzVzlzYWhFcXhqRkhwS3NLRVhVTmgzUnZlS3lzRC1DblhfUGY1V3c2cGREMzlvTWhUOEZ0Zm93OUVZbUpqZHhJMl9hcEhILTJqTlB6OE5zS0NGNl80aXBCbWFMeEZDR0lQWVNXandZOUs4WUNFaVVBMGktcjJyTTAxN19ZS2wweDEydXJLdVY0UUREVzMwR3BZbUduQjJvTEI0cklFejR2S1Y4clZTNGwzV2UwOVNkOXc?oc=5",
+      "source": "O Vilaverdense",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-08-07T19:41:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Cabanelas accueille le XXIIe Festival Folklorique de la Vallée du Cávado avec des groupes du Portugal et du Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Cabanelas hosts the XXII Cávado Valley Folklore Festival with groups from Portugal and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Cabanelas organiséiert den XXII Cávado Valley Folklore Festival mat Gruppen aus Portugal a Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Cabanelas ist Gastgeber des XXII. Folklorefestivals im Cávado-Tal mit Gruppen aus Portugal und Luxemburg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "a9a834f1da6375beeaf42410a6cfc99d898a4902",
       "title": "Люксембург надав ще 8 млн.євро на підтримку енергетики України",
@@ -30,6 +63,64 @@
         },
         "lb": {
           "title": "Lëtzebuerg huet nach 8 Milliounen Euro zur Verfügung gestallt fir d'Energieindustrie vun der Ukrain z'ënnerstëtzen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3354cf6b1425283a9c0747355fa2714725067f6b",
+      "title": "VOLKSBAD am Rosa-Luxemburg-Platz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOclcxOThFUjluamdhdFp2R2dZSnVWajQ3Rm1TMV8xcXpFQnFEejNYbVRfZkxzT1lGQ1VfQ2lldXhHQTRXd1dDQU5PWjhpQlRlUFRId1Rmcms5bEpFZUlOaFZ3V0NBWmJBbkdJVW5yYVVYQmN4enlpcHp5VjlLV3Z6Zm9wenVMckZGcU8xQVBFTkI1OVUtMlVoWEJBYw?oc=5",
+      "source": "rbb24.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-07T17:30:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "PEOPLE'S BATH at Rosa-Luxemburg-Platz",
+          "summary": ""
+        },
+        "fr": {
+          "title": "BAIN POPULAIRE sur la Rosa-Luxemburg-Platz",
+          "summary": ""
+        },
+        "lb": {
+          "title": "PEOPLE'S BAD op der Rosa-Luxemburg-Platz",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c13c6e4d4872d2ad318a3e7ed36985efdb707568",
+      "title": "++ TANKEN IN LUXEMBURG AKTUELL: Spritpreis für Super Plus fällt ein wenig ++",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMF90Y1dmcDlxZ2NNT1hwVGpBUVlobHFjdVMwNVZJTjl5NDZKaExmc2hweHZxejJmNkY0SEZZd0tyeXh5NTBiVUVCQ3pwR0xCU0locGVCaFV0akQ3Z2ZSaUdLNVJsM1BNckhEdk9hY0JqaFV4UktHaGMtVDZteUUzUEF4bzROaXFfcDM1c1NZS0pvWkZ4MkJCMWlzQ1JQZ3lVbkhBUXg4cjU?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-07T16:07:10.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "++ FUELING IN LUXEMBOURG CURRENTLY: Fuel prices for Super Plus are falling a little ++",
+          "summary": ""
+        },
+        "fr": {
+          "title": "++ RAVITAILLEMENT AU LUXEMBOURG ACTUELLEMENT : Les prix des carburants pour Super Plus baissent un peu ++",
+          "summary": ""
+        },
+        "lb": {
+          "title": "++ FUELING A LËTZEBUERG AKTUELL: D'Brennstoffpräisser fir Super Plus falen e bëssen ++",
           "summary": ""
         }
       }
@@ -4044,6 +4135,39 @@
         },
         "de": {
           "title": "Nachrichten über das Freundschaftsspiel der Nationalmannschaft zwischen Belgien und Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c0bb56411cf02a9fdb883fe14f99df3316acba83",
+      "title": "ルクセンブルク、FIUの警告対象を暗号資産取引所に拡大",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVJHTlh3QTg4LW1saUg0RWNvdXBzTmtDeDVXM1ZaSWNkem84VkpnaU9vczQ0TzRHem1rUzJNV0VRal9LTVU5c0t4c2FkcGdVOUZvLW1HYW0tTW5ZdlRFcWlGOWcwMzdMYWJtX1MzLWFhUm9ob0Y2dU5LakxlVkNzNURlT1diOEszeHUxRW1lRWIzU2xmSWVBdnY0RTJNbWRESkduc2VVNUJhQmRVaG9PZFlMel84OUNfT09Rdzhn?oc=5",
+      "source": "Bitcoin News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-08-05T17:00:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg weitet FIU-Warnung auf Krypto-Asset-Börsen aus",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg extends FIU warning to crypto asset exchanges",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg étend l’avertissement de la CRF aux échanges d’actifs cryptographiques",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg erweidert FIU Warnung op Krypto-Verméigenaustausch",
           "summary": ""
         }
       }
@@ -47200,134 +47324,6 @@
         },
         "de": {
           "title": "„Ein außergewöhnliches Wochenende“: Sieg für Grégoire Munster in Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "510585fe639a1f26b71836f67adb64783f4918e7",
-      "title": "Galería de La Maison du Savoir - Universidad de Luxemburgo / be baumschlager eberle - 13",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPazRpVlU1ZW8yc3NJNXNUbURVTUE2Q2tQbzVLMFVxT0JyUjM2VGF2cWV3Y25VTk9xX0hoYVBzMm9GY1gyeTZwVUp3SmRNemVTWW0yYkhKaTEtd1ZycjJNS3VrS1RzQnkxWEVTd3E2OXJYanhJcDQyTGd2ZTRCX2dtck1nazFkWlFVTzYtaDhDdFZqTDF1eGZaZndEZlBVTGt4amVIV0p0WlNoT0pUckIyRW1NZXVsQ2g0Vjc2eTNjenB4MVNKTzdWTzEyRkF3MHhmZ0h4bUVUVWtXQ0VRZDhhenFyMGdEemJsUnZkel9oWXpyemd0T3MwYWNsYzhodGllbnEtREFhS1VnMW9rSGgtNnVOTWRxdWFlVWJtc09LeFhneWJrMzliLUdaRTBfSl96YkxnZ2tDWWxqMnFfR25qd1FnVkpWenJC?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-15T09:12:05.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Galerie La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 13",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie von La Maison du Savoir – Universität Luxemburg / be baumschlager eberle – 13",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 13",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie de La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 13",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d2e5fd54e876e3a82f8f906b0269ef97d0ac758c",
-      "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 9",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOWnJCNDJvWE9sSUh4UUctYkE4RmxDOG1kenFacU5HaG1LMmVCRXdBS1Q3OGx1aENyRkhMMXduRkNyMzc4UEZRQzJ2RlJiYTFGbXo3RHc2ZFl5Vm0xSjFiQkdLZ1BBbTcybXVub1RjTlpBZkg1cDh5cDBGb2ctRTdzaklsWmxGLTkzVG5rQTlsQnBaSEs3U0dvTUVrZWkzT1NNbHBybnhVZGJ5YWFLc21ucm1OX0RFU0JKU0g1Y3dFd3hTMlF3UmZQUmNzN3ZDWl9yRW13QnNBTkhHdnZmcHhEMVVfNVpULUs2YUVMaGZma3ZWNVRxbERxZXREeWJHU2Q5dEFKQ2RBY084NjkwN085cEhBLWRzd2hfUGZrMVB0OXVKOTJBN2NOcVpyb3RIY3Ywem5hbWVxU3VXRjhvb1FRRjlNeDdjRU5xN2tEcG5iT2lKVkN3aEtCY0J5MVhtMlY4TldvNGtDMXV1LXNldE9SVmpuc0dJdC1wSXhwZHRBQTE5R0VvcXc?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-15T09:07:16.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ Architektur + Management - 9",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 9",
-          "summary": ""
-        },
-        "en": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 9",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + direction - 9",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "95a1a976def5f439e2196823dbec5d14ed25c262",
-      "title": "Foodjournalistin Anne Faber: Von der Reporterin bei der Royal Wedding zur Kult-Köchin Luxemburgs",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOUVjM2UyR0VDMDRTRE13MEk4YUtlQlIyakpnQlhWSERFSXFHd0ZabzBHT1Q4M1BUV3B1MWU5cGhSMDZCcVpwLWVySVQ5QnVVZmxNa0lmemdwWTJ2cUQyRTBfRkFXRldSSEtfV01LMWJkaTJrYzVKa2V6ZXRXa3lYVWtCblBSYXItenVPMmtfNkl2QjRiYlU0V2tZcll6bVVFRXRRUTRCamxqTUtiVXp4cS1EdDFxZnYxWTZFM1V1Y2F0TkdOOE90Q19DdE1lX2twMTlaYWJSaDk?oc=5",
-      "source": "Saarbrücker Zeitung",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-15T08:51:05.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Food journalist Anne Faber: From reporter at the Royal Wedding to Luxembourg's cult chef",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Anne Faber, journaliste gastronomique : de reporter du Mariage Royal à chef culte luxembourgeois",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Liewensmëtteljournalistin Anne Faber: Vum Reporterin op der kinneklecher Hochzäit bis zum Lëtzebuerger Kultchef",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "603a1008ab8f0ad8de41ffbeb573c81fcbd7d0aa",
-      "title": "Люксембург — Україна: відеотрансляція чоловічого чемпіонату Європи U-20",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV3pVTFR5RHpHWXNDQkRzWmFHV2FhR0o3YnRRUkZ4cm9nc3dPNjBqUnh0RU5TbDV3MGJzbWRVOFFxUjBnTWRhSURWdzI2YmVEV3QtcWlVNm1DenZRN3hwOVZyaHctdjU5SzBia0JodFBaTWpCX3pna01jbnB2Q1lXc1p0bzNIYU9FSlVDRWMwWVlNSDg?oc=5",
-      "source": "ФБУ",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-15T08:03:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg - Ukraine: Videoiwwerdroung vun der U20-Europameeschterschaft fir Männer",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg — Ukraine: video broadcast of the U-20 European Men's Championship",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg – Ukraine: Videoübertragung der U-20-Europameisterschaft der Männer",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg — Ukraine : diffusion vidéo du Championnat d'Europe masculin U-20",
           "summary": ""
         }
       }
