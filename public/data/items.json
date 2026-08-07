@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-08-07T10:14:05.679Z",
+  "generatedAt": "2026-08-07T11:09:03.005Z",
   "items": [
+    {
+      "id": "fc6109a0c31cc8fdab2c1c3f8845e4e053579735",
+      "title": "Codere Online Luxembourg, S.A. $CDRO is FNY Investment Advisers LLC's 3rd Largest Position",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPakpiTXFXWVV0TXA0emI3dE9jSkV6S2h5V0QyczJNVEZaOE9wcFRsUUNPcWg1OUVha2xNUTdHUUVDYzVMZVEzT2FnbUxkR2pIYnRreTQyWmotcXZfbjEtdXFFd0VfaXU3R1AtVEt6Ym5yOTFvYVhIRDBFeFh0bzBKQUVaUFhJX0RXdEIzR2NlQXBlV2QxMkhhclNRbHJoZnQwQ1JRRkdqUUZQMGRsYTJQRFZxWHl3enFIdzNMdHN4NFMwNGx3QjRnWl9GYThZNU1Fdjg4d0RkLUdxdE5nRmJB?oc=5",
+      "source": "MarketBeat",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-07T11:01:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Codere Online Luxembourg, S.A. $CDRO est la 3e position la plus importante de FNY Investment Advisers LLC",
+          "summary": ""
+        },
+        "de": {
+          "title": "Codere Online Luxembourg, S.A. $CDRO ist die drittgrößte Position von FNY Investment Advisers LLC",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Codere Online Luxembourg, S.A. $CDRO ass FNY Investment Advisers LLC's 3rd Largest Position",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d74fc55726e25fba080c560180ec3a1a1330433a",
+      "title": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wOHppb1BoZ20zUU9HMVZ3MDlQNUhBTTQ2ZWg2RmpCb0RrMVBaYmNQTTdfejc0SnNUMlFKc0FaQ2FMemxoZ1p6cjUxOGt3ZmxCZm5RcHJuMA?oc=5",
+      "source": "Cryptonews.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-07T10:52:14.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Stripe-Besëtzer Bridge trëtt no der Lëtzebuerger Genehmegung un den EU MiCA Register",
+          "summary": ""
+        },
+        "de": {
+          "title": "Bridge, ein Unternehmen im Besitz von Stripe, tritt nach Genehmigung durch Luxemburg dem EU-MiCA-Register bei",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Bridge, propriété de Stripe, rejoint le registre EU MiCA après l'approbation du Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d164cec91b8042322b6630f1dc50038ad68c1398",
+      "title": "Люксембург перерахував до Фонду підтримки енергетики €8 мільйонів",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTXhQSkpvdmttV3hNQ25yTW41Q0JCQVVTSFBnSmJQZjVxOG5zMkE5SnV3TlA5ZmpxY2RpaWZxaWlfdkczLWlmSmpEWXZQRmdwRGd6bTVKTllVM29qakY5OWNlM1p2bkV1UlExeFJhZXdITU9paGNHck1yQk5qRmx5bkRhUGllOVNUaHRCejJxTzN3NHdXcEZZeDZiaWplckpiQW5id2IxS3lZMk1IcHdud01kcFBqTlhNaVHSAb8BQVVfeXFMTTUtVU9yekNmOExNaHFHTExJTHVGc1lHa2R0ZVNuSC16RElKWkY3STFjZVFyWVhJM1NCbVFfRGVUYVN3RzBiT2Y0WXFrT0J6NWEyMDVpZmt2a09QRERKazZRYUlIVWdZMW4xbkZQcjZvLXV0OE5XSFFreXFlbzAzbHhLZldmM3FhTzM5MFcydmJEQ2kwUHlUSGg4MVZnZzJpSjdkMmV3Vlp1S05oM1RrU2hMZDQzUUZwM3d4cEItbTA?oc=5",
+      "source": "Укрінформ - актуальні новини України та світу",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-07T10:37:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg a transféré 8 millions d’euros au Fonds de soutien à l’énergie",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg transferred €8 million to the Energy Support Fund",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg huet 8 Milliounen Euro un de Fonds de l’Energie ënnerstëtzt",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg überwies 8 Millionen Euro an den Energieunterstützungsfonds",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "060c856cb14141419a2e0ca95cce7e01aac313b6",
       "title": "卢森堡重申支持柬埔寨旅游业发展",
@@ -59,6 +150,39 @@
         },
         "fr": {
           "title": "Wero repousse le lancement au Luxembourg à septembre",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "574a3e4f3a4b135779fc0e4aaf73aef7c0ca5645",
+      "title": "Έρευνα και Ανάπτυξη: €917,2 ανά κάτοικο στο Λουξεμβούργο, €18,8 στη Ρουμανία - Πόσο είναι στην Ελλάδα -",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkNlVlFULTVTWnR6bDlEbjhFZkktR3pXQnd6aGpWb243bmQxd0ZoVEJPTHJCaFc5eFBaQ0V1VXEta0dPS2xudG1ZTnlab2hYOFRSSjZ0cE10UkJHbm1NbHB5bFpOVjlkQmZVdzFGS0JNbDgyWExCNXNyTmN2UlBROTlTeWc2S0FGQWNuRVFVdG45WVZWSFc0ZlJCb1IzRTFpemdfeVIzQWN1ekVLZ09mOGhVVTFYSWxhbkZwNlV3ajdsdmdOTkHSAcsBQVVfeXFMTnJyNV9fYjVPTXFYMVN4VC1UeTBlNzNMaWVjX3NiUk5MX0ZUSUU4SXBKZ0h1aW9kZDdISXF6YklrR1FxdGViZzRFcndjMWQtdWVJWm40a1hFaDlPVHRZYWVRblh1ZXBmMHJfRGJYejZuZkNhOVhSUGtVZHFPd2JoaFZPTWZYbFR1NTZONFBGZFBCQlFuSUZPaTJWWFh3bnZPbUpHbDcxaU9fT2J4SzQyelMzTFFnNFFNYzZta2tVamhlZE5Fd1FNazBFUGc?oc=5",
+      "source": "Documento",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-08-07T09:31:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Recherche et Développement : 917,2 € par habitant au Luxembourg, 18,8 € en Roumanie - Combien ça coûte en Grèce -",
+          "summary": ""
+        },
+        "en": {
+          "title": "Research and Development: €917.2 per inhabitant in Luxembourg, €18.8 in Romania - How much is it in Greece -",
+          "summary": ""
+        },
+        "de": {
+          "title": "Forschung und Entwicklung: 917,2 € pro Einwohner in Luxemburg, 18,8 € in Rumänien – Wie viel kostet es in Griechenland –",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fuerschung an Entwécklung: 917,2 € pro Awunner zu Lëtzebuerg, 18,8 € a Rumänien - Wéi vill ass et a Griicheland -",
           "summary": ""
         }
       }
@@ -36893,6 +37017,35 @@
       }
     },
     {
+      "id": "39194265d8d85bc022961b79239bb39bc846e789",
+      "title": "Luxembourg v Monaco",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHY3cmtyVlBNcTVzUTZGQjVwM3d3ODU1ajVkbDd0VF9WSExnY25OSlJ6QVd6SmozQ1YzX1RGZEdyaHhBMDVaMzUtTUwxaUtGcjVPRFZyTFpiQXdyQ0dEN3k1dFpmZ0RPRGNHR2YteTlJRUxtekJCRmZBQnVpWXc1Rkx4M0dneFNGeVlQMTBpN1VMN0J2ODdfTnhHX1pLaERkZ1hscVVuS1dOOUM5Y25KQTR6ZW5XejBMNUE?oc=5",
+      "source": "Rugby Europe",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-18T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg v Monaco",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg contre Monaco",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg gegen Monaco",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "f53d9d299ab6584f9eb38de818a9be352f1580a8",
       "title": "ルクセンブルク 4 - 1 ボスニア・ヘルツェゴビナ：マッチレポート、統計、ラインナップ、H2H",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWtqMTlNVExSUUxYOHFlY0trVnF1WHVFbFFaY3ZZaGN6U0x0bjVhWWdJbHZFZkNsM2tuR21jMkNQTExqdjc4T2dUXzNERUEzdjhwWndjYTU2QWhlcXNrSWM1ZzdSczJOYkRGVm5Ib2UwUjJyT1dCVWg0cDNuZ2NfZ21HOXczVHU3VmFjLUJYMUY3alhwRERWOA?oc=5",
@@ -47199,168 +47352,6 @@
         },
         "fr": {
           "title": "Visite à vélo de l'UNESCO - Luxembourg, vieille ville et forteresse • ​​Vélo",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b376a2bb6c38046c1ba75646dc367f3bfd412035",
-      "title": "Galería de Guía de arquitectura de la ciudad de Luxemburgo: 23 proyectos para explorar en el Gran Ducado - 14",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOWFI5S3FfczVnREFRcjdSRjNEbnRJWnl2RjZudDBLTHMtZEZabUVvNHkzN3VHMEUzT29ycWc5VkxZTVYyb2VJMG44bGFvdy1CN1kwUm9QaW9nUFRsbmxvUjRiOE9nM2lzaVlmaHk1Nl9WdDlnbmxQZzFVR1A2Uk1KLW9FRnhWaU1qbWxPemdFa05ET2FfbFR6ZnBoRmRTYnBRcGhIYWFHQ3dPS192YTRJN3lTMnY4N1A5TGxtSENKdVhwOXJBUy1KQS1IQnFzUV85amtLNXplZWRBTFRJNXhJTTFOX19aSkl5VGpDVUd2SmtyeWozQ2VWb0ZEaW9kVFdXT2RGdUl1V2lVT3FtUU5HNkhkRlk2R3hDTFZNZ1RMQXozbDhkeHR5QXhFZ29lWXZRTHcyRXdNdnY4MjNLRU1TUzBtRGVSUDlFLTBQNlNpSGh2ZEZaYldqVg?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-14T20:06:25.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Galerie du Guide d'architecture de la Ville de Luxembourg : 23 projets à découvrir au Grand-Duché - 14",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of Luxembourg City Architecture Guide: 23 Projects to Explore in the Grand Duchy - 14",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gallery of Luxembourg City Architecture Guide: 23 Projects to Explore in the Grand-Duché - 14",
-          "summary": ""
-        },
-        "de": {
-          "title": "Architekturführer der Galerie der Stadt Luxemburg: 23 zu entdeckende Projekte im Großherzogtum - 14",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b7e58e177ac5ea260b0eb549f26ea23100d7e7f6",
-      "title": "Alianza estratégica: Costa Rica y Luxemburgo transforman las reglas del desarrollo global",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV01ZNTZqU0JYTnJXZGgxdjJjUTI0R3BnTmlPU3kwN09CZzh0QUl4WVRUR3BpdF9SaDhOZUdYbWNZeHE4UDh2RTRwNEE4TXY5alA1R245WFhIRE5nMDMtR1FoQlpNY2d6NS1hVHMzUDRaVmo5Tlppa2lmX2FQd0lnbHpqYXoxckpPY0dJU2dIWHpMNGw0Ty1NdU9xb0xvbUV4WnRFakxBT1VhYnpMTVhXbnlmNnFxMnpremVsZ0JpRkd6OW1SakgxRGJ2ZEw?oc=5",
-      "source": "Puntarenas Se Oye",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-14T20:04:37.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Strategische Allianz: Costa Rica und Luxemburg verändern die Regeln der globalen Entwicklung",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Alliance stratégique : le Costa Rica et le Luxembourg transforment les règles du développement mondial",
-          "summary": ""
-        },
-        "en": {
-          "title": "Strategic alliance: Costa Rica and Luxembourg transform the rules of global development",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Strategesch Allianz: Costa Rica a Lëtzebuerg transforméieren d'Regele vun der globaler Entwécklung",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f1f79a8c21367c941b50af10dad5b48356fcfe34",
-      "title": "Luxemburgo apoya a la OIM para impulsar el uso responsable de la inteligencia artificial en la acción humanitaria",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTW5aR0V0dy1nXzlSYk5faUxEQzRHNkRQM2lXS01vRHYxZUFSOGNySDBEdEkzR2FiMnZUbHl5SEx5WVRjUU1OR2NqNFdXSDdKMTJTaFhyMVBYMDg3dExwYmZNUXl6N2xueTJxaEd0MnBWcmhHcGc5LWhpOVB0eUJVTm9JVC02UmtMM2IwWGRqejl3RjYzMERSMkUybnhQQTFsRmtUOGJMUzhTdVhWUFBXOEFyUzMwVGUwT3dZaUZaS0FOLTVlcG1vWUhsNGF1VzR0ZERyaDN3?oc=5",
-      "source": "International Organization for Migration",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-14T19:55:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture",
-        "tech"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg unterstützt IOM dabei, den verantwortungsvollen Einsatz künstlicher Intelligenz bei humanitären Einsätzen zu fördern",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg soutient l’OIM pour promouvoir l’utilisation responsable de l’intelligence artificielle dans l’action humanitaire",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg ënnerstëtzt den IOM fir de verantwortleche Gebrauch vu kënschtlecher Intelligenz an der humanitärer Aktioun ze förderen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg supports IOM to promote the responsible use of artificial intelligence in humanitarian action",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2186eb52f200dc5c0dc72770ca8a700f782b54a1",
-      "title": "Luxembourg takes another important step toward strengthening its start-up ecosystem - White & Case LLP",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObG5GM0g2QnhiT3FxV3hMcVV0ZTduQmpjWXc5VGhMS2V2b1Z4ajhkRE5YdGNLZGdabDBsUUNsYjMxcUo4VV9peEpWMHItQ3JQZU5qRjlMaWxfWElqTElrQV9MVHo4aWh3WnBoS1VIbXVkNWhVVVQxaGJmWmNIamlMLU9fUlRsU3owUEZzbFZmdjBKbi03RkxBaEJFbVdPWlZJVXRYbEw1UnYxdkdoamdYV293c3RzcFgwVGpmOA?oc=5",
-      "source": "White &amp; Case LLP",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-14T19:29:59.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg mécht e weidere wichtege Schrëtt fir säi Start-up-Ökosystem ze stäerken - White & Case LLP",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg franchit une nouvelle étape importante vers le renforcement de son écosystème de start-up - White & Case LLP",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg unternimmt einen weiteren wichtigen Schritt zur Stärkung seines Start-up-Ökosystems – White & Case LLP",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f0e18c03acaa1b6eda993742cbaa129e53d05951",
-      "title": "Galeria de La Maison du Savoir - Universidade de Luxemburgo / be baumschlager eberle - 14",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOS1B0NUViT1ZfdkJCcmNVNmFpSkkwZVl3aldmZ2MtVXRlZEFhOEh0VzZmWS1HakVEbmpBanpnb19mZVFEQnZ3ZjJNR2h1T0U5dk5MNFdJSnU5eUVWbmpGU2pHTmQ3TTdyVFBfaXVSN1lSLV9Zc0Ffd3gwQUExZmJzQU4xUkhaVmo1a3hxdlhtdU9teG0xWXRua0h2Z3RvWGR4NE5obmJsd19rWVBIa1FWbk9tVF9MVGFVY1Zzb1EzYmxtWjBYbDhkVS1DeWxSRUFpTmdhVkdDYlViaGY1Z2JYYVFBYllBR1NwTjRvU2pTbzdaTVJWeGxFbnB6d1h3bUpGUXVPUk55S2Z3c0ZEU0EwLW55cTB3V3NWTHdiY05Xa055azJMeUNEQmp6bmdvQk9VTTFsX25oWkhNS0RDay1vd2Fud1FPYkFwcDdN?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-14T19:29:24.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 14",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galeria de La Maison du Savoir – Universität Luxemburg / be baumschlager eberle – 14",
-          "summary": ""
-        },
-        "en": {
-          "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 14",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galeria de La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 14",
           "summary": ""
         }
       }
