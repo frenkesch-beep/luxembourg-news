@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T20:59:41.413Z",
+  "generatedAt": "2026-08-07T21:56:34.723Z",
   "items": [
     {
       "id": "1d6362674c2fb95c235fd7d533eb949ab4414a0a",
@@ -6036,6 +6036,39 @@
         },
         "lb": {
           "title": "ESC zu Lëtzebuerg mat CARE: Jugendprojeten an humanitär Kommunikatioun",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3f7c0338a44dd5d67f2454ea85ca78a05fb16933",
+      "title": "Galería de La Maison du Savoir - Universidad de Luxemburgo / be baumschlager eberle - 13",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQ3k4QndoU3lvWU5YRU5FbjNVQnl0VmlhYk81cHNheC1VUXVXVHM2VUxSVE9SZ0F4dzdFOHVjcTVEUHlzMlJ2LTJfU1ZybDNSakk2bzhyWGNlbUsyWGQ5VWxFR05odWl4VHl4ZHVQWXRIR2FWX0N5WXZJRGZxNTRXZGRWb3BSZFFtMHp1SkxQY281TkE0Qkx5VFY5NURLNEUwaENfUGl1TVZRMW9fWm5URXl4NG1QbXRvUmJVeTUzT0lWRG1kMUtPTlhFaUx3VVZ4dVMyTDJIZVVOaDZ6ejU0STVKcWEzWHRkVkxnb0IweFM1bXpvQXE4b0h0S3A3cXlHTHJuVVpWZG1vUlZfYWItLW9qRW5oYWJsdlFhVmdMODlpVzk0LThPS0dR?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-04T13:45:33.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie von La Maison du Savoir – Universität Luxemburg / be baumschlager eberle – 13",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 13",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 13",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 13",
           "summary": ""
         }
       }
@@ -47295,35 +47328,6 @@
         },
         "de": {
           "title": "Galeria de La Maison du Savoir – Universität Luxemburg / be baumschlager eberle – 3",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "536a40b8d8acb97fd2b97673c835971fcd718220",
-      "title": "\"Un week-end exceptionnel\": victoire de Grégoire Munster au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaVRWVlRjZUJJaHdnNUo0bkRzOVJzX0ltLThvZDBNMGFCUFFSRGU1TDluVUtuY3A2N1ozM2l2NTE2TXMweVhWVHZOaFV5S054c2RReEpINzI0U2U1WFZQWk5wZ1lkLXc1Z2YzMHl3bGJRS0dJdHFta2NEQl9iNExfd3VVY1VsM1ItZDJDb18tcGhhSWlGa1dyNTNJcER4OVBlbEFHRzAyd2ZmOWJGc2NTRjV6TlU2Mm9pV3JsMjhuTHhSSzd6VFlBOGoxMWVUcTItZVF3S0VXN3VrLUk3Rmo1T2xJM0luNFVSVWc?oc=5",
-      "source": "L'Avenir",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-15T09:28:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "“An exceptional weekend”: victory for Grégoire Munster in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "\"En aussergewéinleche Weekend\": Victoire fir de Grégoire Munster zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "„Ein außergewöhnliches Wochenende“: Sieg für Grégoire Munster in Luxemburg",
           "summary": ""
         }
       }
