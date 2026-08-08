@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-08T13:13:00.037Z",
+  "generatedAt": "2026-08-08T13:57:53.667Z",
   "items": [
+    {
+      "id": "aecf09c47bb5b250d9aba8e458602afeade6f628",
+      "title": "Люксембург збільшив внесок до енергетичного фонду України",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jR0ZFdWFiaVJuRUlHeWZxQmNwRE40dlUzX2s3bEEtU25iOWUzYmR2T2ViZHJDZXBvakpjaUZQMjdBQzRXUEU1dlhmOFh5SVRxV0ZBWVoxMk44elNraWJTdHE1YVBDbXR1Y2c?oc=5",
+      "source": "io.ua",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-08T13:23:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg huet säi Bäitrag un den Energiefong vun der Ukraine erhéicht",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg hat seinen Beitrag zum Energiefonds der Ukraine erhöht",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg a augmenté sa contribution au fonds énergétique de l'Ukraine",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg increased its contribution to the energy fund of Ukraine",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "27546acf5a5fe27d178c62ce050016612786aa4e",
       "title": "Жіноча збірна U-18 розгромила Люксембург на чемпіонаті Європи",
@@ -47331,39 +47364,6 @@
         },
         "lb": {
           "title": "De Lëtzebuerger Premier fuerdert eng Spezialisatioun vun den europäeschen Arméien. Ass dëst méiglech? Ass dëst nëtzlech?",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "62760ebb95bdb337490f5f699b9e626c84864416",
-      "title": "Il primo ministro del Lussemburgo invita alla specializzazione delle forze armate europee. È possibile? È utile?",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLNzFHLUtpM3R6WVFybXlLOFJEXzV2LWR3UGFaaEdNUlNoa05rS3hwOERsUnRqS1NaeGhUajV2UU5PenVnYmJVZGwzWnhCMmk2alZQUnQ4cURnY3d3M3NmRGR6Tjc0VEt3aDRMWkcyNG5tV1Znb1dTa2xR?oc=5",
-      "source": "Meta-Defense",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-15T15:16:19.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics"
-      ],
-      "translations": {
-        "de": {
-          "title": "Der luxemburgische Premierminister fordert eine Spezialisierung der europäischen Streitkräfte. Ist es möglich? Ist es nützlich?",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Lëtzebuerger Premier fuerdert d'Spezialisatioun vun den europäeschen Arméi. Ass et méiglech? Ass et nëtzlech?",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Prime Minister of Luxembourg calls for the specialization of the European armed forces. Is it possible? Is it useful?",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Premier ministre luxembourgeois appelle à la spécialisation des forces armées européennes. Est-il possible? Est-ce utile ?",
           "summary": ""
         }
       }
