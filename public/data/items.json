@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-08T09:01:40.923Z",
+  "generatedAt": "2026-08-08T09:55:06.431Z",
   "items": [
+    {
+      "id": "d698f143d5f85f28d624c42f259068972c10b059",
+      "title": "En daarom hou ik zo van ... Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0FRZzVGdFVEMlFsOG1DWTVmeTNCRmpabEhsbUVucWIwb2VwTDVKalV0RURWeHRPekM5VmI0ejlHeXYxcWNCUVZlRjdBNEFDa3FoRm8wTWtTTERteUlJaGJRdWFQcEh4UlhMTU1COEpScThXb3lkLVhJZGVOcUhQWmU3LW5WdVBRV3I5N0lBMDZseFNF?oc=5",
+      "source": "DVHN",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-08-08T09:46:55.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Und deshalb liebe ich ... Luxemburg so sehr",
+          "summary": ""
+        },
+        "lb": {
+          "title": "An dofir hunn ech...Lëtzebuerg esou gär",
+          "summary": ""
+        },
+        "en": {
+          "title": "And that's why I love...Luxembourg so much",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Et c'est pour ça que j'aime tellement...le Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "41a911928cb4474bb9940b8b2f002e80be69080b",
       "title": "Україна — Люксембург: відеотрансляція жіночого чемпіонату Європи U-18",
@@ -47307,35 +47340,6 @@
         },
         "de": {
           "title": "Racing FC Union Luxembourg - Transfers 26/27",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e7fe29f5d2886545039de53840b1550504a6696b",
-      "title": "Québec défend ses ententes avec le paradis fiscal du Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQV9COGttMk9qekJrcXZEZDFRTktqUmdEaGRDUjhOb0hPSEdZMnB4RmM3bVUwMXB5bWVFSktDeDVDX29mWkhSWmIxMENqbWJPa254QWZjZnUySE1hMk44SFRaOHlvbWstY0NCZWpEeDAwY3gzaTJWUVM1MEh5XzZhLUVZSEQxMTJBSGRXZkJNRkY2LVVWSi1UMTlvbjR0YThnVDd0VVcxNUg4QTI4?oc=5",
-      "source": "Le Journal de Montréal",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-15T13:52:30.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "en": {
-          "title": "Quebec defends its agreements with the tax haven of Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Quebec verteidigt seine Vereinbarungen mit der Steueroase Luxemburg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Québec verdeedegt seng Accorde mam Steierparadäis vu Lëtzebuerg",
           "summary": ""
         }
       }
