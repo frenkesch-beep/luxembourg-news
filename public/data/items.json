@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T21:46:52.125Z",
+  "generatedAt": "2026-08-08T22:47:54.153Z",
   "items": [
     {
       "id": "edb857650f362c71ee1aede1802744ab5d009aab",
@@ -352,6 +352,39 @@
         },
         "en": {
           "title": "Luxembourg increased its contribution to the energy fund of Ukraine",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "cd183524da217685c2e537b26d90f95a5ea4bcc1",
+      "title": "Galería de Puerto Libre de Luxemburgo / Atelier d'Architecture 3BM3 - 28",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRU5LOVA2bVBmcHFuaWNyNl9SRU5WalJEOGlxV21RYmRCWkVMbGFpamlXa3BKbzZXTVJFUVdJMmI1T0Q3aTB6Zkh1eGF4Z0hnRHNSbER0bUF3VjhNME53djYzWklvLU9HaGdlYy1oR0pnX2prSldKVjJDN21MLWhBU3B0WXNWdnQzcnVaS29QOXBlN0F4Z1FxWkU5THMtTGlnVUdlbS14YUV1QUlfRGV6VlV3N1pvalp6bnJ3V0s2b29odHM?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-08T13:22:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie des Freihafens Luxemburg / Atelier d'Architecture 3BM3 - 28",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie du Port Franc de Luxembourg / Atelier d'Architecture 3BM3 - 28",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 28",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 28",
           "summary": ""
         }
       }
@@ -910,6 +943,39 @@
       }
     },
     {
+      "id": "f54fb04dd71c13a05d57d78327113cfaea698b18",
+      "title": "اخبار مباراه لوكسمبورغ و ألمانيا فى تصفيات أوروبا لكأس العالم",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93Y2EyZ1V2ei1FZWd2RDFRRDlDYWJrNndKZEFsWUlVeG13VUZIU2tTb3FXcFBtT0U0bUdpNTV5ckhMcjZ2X29KWUEzRW5mMFdrQ2QxYw?oc=5",
+      "source": "بطولات",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-08-08T08:57:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Actualités du match entre le Luxembourg et l'Allemagne dans le cadre des éliminatoires européennes de la Coupe du monde",
+          "summary": ""
+        },
+        "de": {
+          "title": "Neuigkeiten zum Spiel zwischen Luxemburg und Deutschland in der EM-Qualifikation",
+          "summary": ""
+        },
+        "en": {
+          "title": "News of the match between Luxembourg and Germany in the European World Cup qualifiers",
+          "summary": ""
+        },
+        "lb": {
+          "title": "News vum Match tëscht Lëtzebuerg an Däitschland an der Qualifikatioun fir d'EM-WM",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "6d9db09fb404d6a330f20656675f126c98a594bb",
       "title": "Nuevas actualizaciones de la visa de trabajo en Luxemburgo 🇱🇺 | Nuevas reglas salariales, horario...",
       "url": "https://www.youtube.com/watch?v=husj7csaz5I",
@@ -1359,6 +1425,39 @@
         },
         "fr": {
           "title": "Bridge, filiale de Stripe, obtient l'approbation du Luxembourg et entre dans le registre EU MiCA",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3cb8b9b2ac770da69ef346f363226e44bbb793dd",
+      "title": "Stripe旗下Bridge获卢森堡批准并列入欧盟MiCA注册名录",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXdaM2hvWWVCRjA3X2hUMU9FMHdWNk5PUmJ5cXdPVlZFTl9iVWNZVnZHZm84bGxFSHdVZGgwNUljM2l4a0o2bjlVd3ZDTWpOZkFONl9TV2RtUFZFMVNBVkhMTTBUNHpWSG8xRi0temRqMzUwc05oSk1oQmtnSXZvYmNYcENOemhsbkhaRkdaUHVlN3JoTDVMNnhtaUVhWmJnNjNncTB5b09wYjB3OXBIWFlNdTQzRXpaTTB6aUVn?oc=5",
+      "source": "디지털투데이",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-07T23:14:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le pont appartenant à Stripe a été approuvé par le Luxembourg et inclus dans la liste d'enregistrement EU MiCA",
+          "summary": ""
+        },
+        "de": {
+          "title": "Bridge im Besitz von Stripe wurde von Luxemburg genehmigt und in die EU-MiCA-Registrierungsliste aufgenommen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Bridge owned by Stripe was approved by Luxembourg and included in the EU MiCA registration list",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Bréck am Besëtz vu Stripe gouf vu Lëtzebuerg guttgeheescht an an der EU MiCA Aschreiwungslëscht opgeholl",
           "summary": ""
         }
       }
@@ -6303,6 +6402,39 @@
         },
         "lb": {
           "title": "Groussregioun. Lëtzebuerg: 3 grouss Bränn mobiliséiert 150 Pompjeeën",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5633b05e1b203be1341b2f293828e70634d2a37b",
+      "title": "Galeria de UNStudio projeta edifício híbrido em Luxemburgo com pegada de carbono reduzida - 3",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQYm5HR0g3T2tYOTZ0dElrOTZFVHlFTmVnekt5bGhYSnBaV3B4ZjBFMFhsSG5sTUwxY0p1blo3VXBMZUZOenRHdmxDY29OdUJnRUV3RTM2T05qM3pBS0I0WmNuWmxtZWdNUGhoSW5US3UwT1BOV1VXcUt4cGVfLTNJY3ZnQlFrZGRTVk9LaVFQT3NvY0lFZkVGaWZ4WG1zV25XYzVFOWxRTDFpbGZ2QU84ZTJ6X05GRm9zdTNWaVgxNUUxbUdSOFJoRXFkR2tnZjlJcVg5RUxaSUlZREs1RnFYSXFnUWQxRHNZeFUxTDhuaW04N1pqY3ZIbFZvd1puaDFiVmlXOWE2WmxjejFjVktiUjhsUzJvSzIzeGNKaV9JNUFMMHdsaFBwOG9OMEtCTFZmVDJ3ZFQzTWNqZTFvQ0U5MGwxOU9sU3c?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-08-05T14:04:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "UNStudio Gallery entwirft Hybridgebäude in Luxemburg mit reduziertem CO2-Fußabdruck – 3",
+          "summary": ""
+        },
+        "lb": {
+          "title": "UNStudio Gallery designt Hybridgebai zu Lëtzebuerg mat reduzéierte Kuelestoffofdrock - 3",
+          "summary": ""
+        },
+        "fr": {
+          "title": "UNStudio Gallery conçoit un bâtiment hybride au Luxembourg avec une empreinte carbone réduite - 3",
+          "summary": ""
+        },
+        "en": {
+          "title": "UNStudio Gallery designs hybrid building in Luxembourg with reduced carbon footprint - 3",
           "summary": ""
         }
       }
@@ -39626,6 +39758,39 @@
       }
     },
     {
+      "id": "50b9088f6cc33464c534f00602b42433517f8606",
+      "title": "16/07/2026 — IA, mobilidade no Luxemburgo e Estado da Nação",
+      "url": "https://www.youtube.com/watch?v=lvGggxAaSus",
+      "source": "LuxNeva Music",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "pt",
+      "publishedAt": "2026-07-18T22:47:48.412Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/lvGggxAaSus/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAArgIigIMCAAQARgTIE0ofzAP&rs=AOn4CLAex50K95W5dkVESGwzevs7AQmtOQ",
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "16.07.2026 — AI, Mobilitéit zu Lëtzebuerg a Staat vun der Natioun",
+          "summary": ""
+        },
+        "de": {
+          "title": "16.07.2026 — KI, Mobilität in Luxemburg und Lage der Nation",
+          "summary": ""
+        },
+        "en": {
+          "title": "07/16/2026 — AI, mobility in Luxembourg and State of the Nation",
+          "summary": ""
+        },
+        "fr": {
+          "title": "16/07/2026 — IA, mobilité au Luxembourg et état de la Nation",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "8de4904e19022b3d5dffb2ee801ecb3b5e0e8e36",
       "title": "LBBL 2020/2021 Tabele - Koszykówka/Luksemburg",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNck1PYmVyUmdFbEQxYW0xV08xdEZrYnRwWllSYXBCMHNIT3BDNUVBMkxkeVZuT1FFZE9iTjFoSjFqNkptZWdUbVJMaGRzTlJzaEs1Rjc3QzR2NXFDX044NnFVVk1KWHh3TU82NTRJMmpLZWd6ZGFaSkVDTS1vWGo1RWt4ZkhXRGUtUTZNcUZ3OVg3NUpmQmFBTnoxRHltNmM?oc=5",
@@ -47199,167 +47364,6 @@
         },
         "lb": {
           "title": "Gallery of Urban Agency and COBE Design Masterplan for Esch-sur-Alzette, Luxembourg - 2",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "339c04bd351b70dd68fd284d4108a2c8d5f84d81",
-      "title": "Galeria de Guia de arquitetura de Luxemburgo: 23 projetos para explorar no Grão-Ducado - 16",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxON01DNUwySU9ON05NTFhKVktwdU9PUzQyX2UxMDRHMDF3eVVZNVh4d21wV19XNVV3dUhKYi1VdjE4U1ViUTIyMnlPMXVCdlVqcWJCanNuUHJxYnE3S19PanFHX3V6R0JEWUlONmlyTXBHa1YwMHpTc0IxV1cxX0ZKOHdZTFZHdUhtU0ZaR2ZNdDRCSnNkcDdybDJIWUhlZTM1Ym1XUWdwSzBpVnl3RzFzOFdPZ2FIaUVhSVhWUXFKYVVOLVh4QTZTSFh6VXJ4Z2hVbXlVekEtMjNiVjRabWd5XzlWTjlCWF91RnJGLUpjeXA1MUt0NmR0RnNlUXRvVHdXd2g3anBhNVZTMTlUa3dyRVJjYnJBTHdOSUlIZ1hXUnhPWGtDZlYydHdxWEViSzJmNmtsWDFfR3hRd0lQMGFucg?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-15T21:26:43.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Galerie du Guide d'architecture luxembourgeois : 23 projets à découvrir au Grand-Duché - 16",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie des Architekturführers Luxemburg: 23 Projekte im Großherzogtum zum Entdecken - 16",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Architecture Guide Gallery: 23 Projects to Explore in the Grand Duchy - 16",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Luxembourg Architecture Guide Gallery: 23 Projete fir ze entdecken am Grand-Duché - 16",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d8641bedae234c1555736937ec80c0b6fbf10b10",
-      "title": "SPORTING Taekwondo Athleten erfolgreich bei internationalem Weltranglistenturnier in Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTlZBRF9qN3FkdUhKV0NSNnpWQXBoXzMyMFQtUzZkS0dmODdhU0ptRDE2aktwdkl3SFNVcW1WM0ZwUUh2MVE2UDlsS1hoZVR3SUJ1eUZsQTBjS3VOdkhqMk5RbU9uNkU1U2pWcFlJcTMyc3VJbTkzQTBvUGI3dVZGTG51T3dSQnJyOGRyY2VwQWtBdG5IUkVSZy1ac2hJTmtxcDJJOTZEYS0wZ3M4b0sxTXk2VmlJdlN2UlZuSDNGQ1BBLTdJSVdaTEZhOWFZcmU5Vi14elkybWtPYXpxekhnNg?oc=5",
-      "source": "blick-aktuell.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-15T21:16:46.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "SPORTING Taekwondo athletes successful at international world ranking tournament in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "SPORTING Taekwondo-Athleten erfollegräich um internationale Weltranglëschttournoi zu Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "SPORTING Des athlètes de taekwondo couronnés de succès lors d'un tournoi international de classement mondial au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c9f819e8c799cd77f87b25c3399491f6890ca044",
-      "title": "एचएच द अमीर ने लक्ज़मबर्ग के ड्यूक से फोन कॉल प्राप्त किया",
-      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQaWhiUzhXMXUzYkVEQy1VMmlXVmd5U2UxV0pBUklDampsWU9OOGN0NE1SSDhaWTlFak40WG9qZk16RUttdjJCTWJVWW9pSnBaMU9GMzlJVXJyYzZDdXpHOU1EWEtPNzUtV2ltYi10WWdkbUxCOXlad2N2QkY0VTFxZ1VsS2dGcnZaMm5XSXppUmstSjZaQkUwdXlBOHpmTGR6NGNwR2FyZlRPNl8yVmFENGVLOVY2ZmNsYXVrSFJhZnlDQ19lWTEtaDVFVzRfZ2JlblJuNlBkc0lHazZhZFQ1ZG1MaEttbS1MOFVJNWl1OV9EbWNYZTlQaEpNR3RpSVhUOTFDRGhMTlZRdTY1dVRFRlJBdEdhSUxDRDVfM0dCemlyTUNyTFlwMVplYVdtWDZNa3c1TV94aHp6ellJeUtQbHZmb29wZGRXbTRsbUhOeTR1dFZ1cnkzMVBWYzJibHA2bW5zd3lQY25relFCMEFKbTFwd1JpVm4xNzMyMUtEZ0NZMVUwcE1XYk1obUZjbGxqM3R0Rl9jYWVSWEw2OEtRTzF0VzRUR3ZRTllHaG9YWkhTQzNpeFVNcFRnSzNyeFRYd2JEMDQ1dGhkWnVsQmgtR1RLU25uaF9ROUdyVnIxSE9Sck83SmRRbA?oc=5",
-      "source": "Qatar news agency",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "hi",
-      "publishedAt": "2026-07-15T20:41:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "SS l'Emir reçoit un appel téléphonique du Duc de Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "SH der Emir erhält einen Anruf vom Herzog von Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "HH the Emir receives phone call from the Duke of Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "HH den Emir kritt den Telefon vum Herzog vu Lëtzebuerg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c481a11243feee651a58c38d288484bf1cdace63",
-      "title": "ウクライナU20代表がルクセンブルクを80対65で破りB組首位でプレーオフ進出",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40aFliVFNseUVXZXl5c004a1hyVHFpcjBiaWhiaHk4M1hmOFQ0SmV2V29aSDM5NXN4OTRJMHV6d0VUTnlXbGNzY2FUX2tORC1SaWVzeEd1SjdJSExDaHUyaF9NRDYzN09mbklZMQ?oc=5",
-      "source": "Межа. Новини України.",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-15T20:30:07.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die U20-Nationalmannschaft der Ukraine besiegt Luxemburg mit 80:65 und zieht als Erster der Gruppe B in die Playoffs ein",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Ukrain U20 Nationalequipe klappt Lëtzebuerg 80-65 a geet an de Playoff als Spëtzt vum Grupp B",
-          "summary": ""
-        },
-        "en": {
-          "title": "Ukraine U20 national team defeats Luxembourg 80-65 and advances to the playoffs as top of Group B",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'équipe nationale U20 d'Ukraine bat le Luxembourg 80-65 et se qualifie pour les séries éliminatoires en tête du groupe B",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c21112c2ae205d8faccfd75266a8c7f7f31735e0",
-      "title": "Збірна України перемогла Люксембург і вийшла до плей‑оф Євробаскету U20",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtd0UyRkU5NW5ONHZmY2JIZldKNWZHNjkzdTItVnd4WUJ6WjAzeXBxdHZOX0tQQU5nTkVISVY4bjA2UXhQUjVyZWpmLVJISWw2QlZjeXpFQlFoTldQLVVDNll4clNzNmJkOE13MA?oc=5",
-      "source": "Межа. Новини України.",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-15T20:24:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die Nationalmannschaft der Ukraine besiegte Luxemburg und zog in die U20-EuroBasket-Playoffs ein",
-          "summary": ""
-        },
-        "en": {
-          "title": "The national team of Ukraine defeated Luxembourg and entered the U20 EuroBasket playoffs",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Nationalequipe vun der Ukraine huet d'Lëtzebuerger besiegt an ass an d'U20 EuroBasket Playoffs komm",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'équipe nationale d'Ukraine a battu le Luxembourg et a participé aux éliminatoires de l'EuroBasket U20",
           "summary": ""
         }
       }
