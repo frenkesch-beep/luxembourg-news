@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T18:59:46.933Z",
+  "generatedAt": "2026-08-08T19:45:27.462Z",
   "items": [
     {
       "id": "edb857650f362c71ee1aede1802744ab5d009aab",
@@ -130,6 +130,39 @@
       }
     },
     {
+      "id": "5c069fd0f70c1e3af890d9e423496fcf5585b99d",
+      "title": "История: Румыния 4-0 Люксембург | UEFA EURO 2004",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XVGlNbXg0MUNYYXBraWJXQ0d1b1NfdjJSMEFTdUpWbndDRWVsYmRGcml6c1hsaEFPTU52QXNWX0J6NWRheHR5NW5FdDlFOTlzd3ZvNzNZYWJudDBDVXZ4cFltOUYzaWhDRmtXaHdaTVdrbzVGNVQ5ZkFkOA?oc=5",
+      "source": "ru.uefa.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-08T16:47:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Geschichte: Rumänien – Luxemburg 4:0 | UEFA EURO 2004",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Geschicht: Rumänien 4-0 Lëtzebuerg | UEFA EURO 2004",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Histoire : Roumanie 4-0 Luxembourg | UEFA EURO 2004",
+          "summary": ""
+        },
+        "en": {
+          "title": "History: Romania 4-0 Luxembourg | UEFA EURO 2004",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "9698f7af98d81c7875f7dd4a94632f5fcc531020",
       "title": "Volksbad am Rosa-Luxemburg-Platz: Besucher begeistert – „Ein Geniestreich“",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWFrc1VJZHlHZWxlVjR2YmtQTndoeEluUXNLSFhxVmZON0hYRUxDMVhJTThfdjhuNzkxcGNzWTVVckoyd2RvVEhjMEZPWG1hUXNnaGZROEp3VVhEcDhkVjJBU0RwenVNQUNUbnVRRldwdXBNVTlLTDBNcEpsVi1tSTNGNTJ2aEV0LVR0bmhKeTEzUjFwZ2N1VGFUSmZQaDhkWXdCcWFoamIxNEFOWVRFbTZ5ckZDamk5Z1BweXJfZ0h0WXg0NXgtSVhWQQ?oc=5",
@@ -253,6 +286,39 @@
         },
         "fr": {
           "title": "L'Ukraine U-18 a battu le Luxembourg au Championnat d'Europe en Division B",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "08a6c001a9d4a51805633fa10d5f732e504a5016",
+      "title": "Жіноча збірна України U-18 розгромила Люксембург на Євробаскеті-2026 у Дивізіоні В",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2lqOWRjbV9WTjM1TFdXanhjQmRWYXZOWmdUVlZscVJIUmlZNk1JX1pySHZKbEYwQ1REZTh1T0Roa2NNcTJpN2MtZnlZYk1yZEJGVC1OaFlrSnRiOHAwb3N1dUlRUE1Bd0Fjd2RwT0VQMVN4OTRnaS1ZUGRKbF8wUU1wNWdONThTOGZ1X0Q4aVVmY3l5NF9zMzA5T2VfaWRTWmNERGMwOG1BZ9IBrwFBVV95cUxPTkNNNGNpanpJY2dXbmlmcE80bjhSZW1VX1VMWWRZZG42dHNXTFNCc0RmT2xLWjNRT1VyM3pYWEZ3S0FnUkRGTlAyNmdaQ2Nub18zcXgwSmZXTnNNT0VFYlJOY3FGSF9WMU5YMmtQWUlEUzBCdEZaQTVqSlh4cEhwRzM2RlZCWGZYWFlqRjFPSkp2WkpoZ2IySlljZmZVUXY1eTg3YkdTMkdZYU1zcnpR?oc=5",
+      "source": "Sportarena.ua",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-08T13:26:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Die Frauen-Nationalmannschaft der Ukraine U-18 besiegte Luxemburg bei der EuroBasket-2026 in der Division B",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'équipe nationale féminine d'Ukraine U-18 a battu le Luxembourg à l'EuroBasket-2026 en Division B",
+          "summary": ""
+        },
+        "en": {
+          "title": "Women's national team of Ukraine U-18 defeated Luxembourg at EuroBasket-2026 in Division B",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Dammennationalequipe vun der Ukraine U-18 huet Lëtzebuerg um EuroBasket-2026 an der Divisioun B besiegt",
           "summary": ""
         }
       }
@@ -1042,6 +1108,39 @@
       }
     },
     {
+      "id": "d39cc23c4ed7ad6d0ec32ce2a214f7e9f521181c",
+      "title": "Alexandre Marta Lopes — статистика у Люксембург: Національний дивізіон 2026/2027: скільки голів та передач",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSENmdmFfUlp5dEhVOWlYX3hQNmw1b1dRZ2k3SEdFTTBfWlMtaTI0c05ZcjNLVHozTFZUR2tUVTNEcDFtZzZfNnhxdWNHQzd2Tkg0VW9yaDQ4TTREUnZ4ZVlvSjh1bTJTQjZELWxKUVN0RWtYTDd4WmFQejdYYTZNWEhqUmFKTEZ0clFETThPeFdXS05hakc1Wnc0NnFndw?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-08T03:43:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Alexandre Marta Lopes - statistiques au Luxembourg: Division Nationale 2026/2027 : combien de buts et de passes décisives",
+          "summary": ""
+        },
+        "en": {
+          "title": "Alexandre Marta Lopes - statistics in Luxembourg: National Division 2026/2027: how many goals and assists",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Alexandre Marta Lopes - Statistiken zu Lëtzebuerg: Nationaldivisioun 2026/2027: wéivill Goler an Assists",
+          "summary": ""
+        },
+        "de": {
+          "title": "Alexandre Marta Lopes – Statistik in Luxemburg: Nationale Division 2026/2027: wie viele Tore und Assists",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "97f53e352437799a0e77c3ae76ca2c76fef7ffcd",
       "title": "格羅塔列：逃犯劫匪在盧森堡被逮捕並引渡回義大利",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0pfdkFTNUt4aWZBNlMwU0pBV1YyY1VjOWFySkpIbWl0bC1teUpVM0w0N1Eyc3ZaOWVLQ0Y2c0RxdHJySndXTW5kS3ZHN2J1Z19fOUdmWk11VzZUemxjcklZRlB6aDJuQWJNajVjZGo2OG1Lem5GcFVCT3paakJvUVdxRjE0Yk5HbHVnTVh5bkdrYnpUaU1QVzRVMmhPektmemRlc1FNa0J2NjVLOTA4RnBYZWRyRFhRYThla3FKWFR1cTYxREFJV2VR?oc=5",
@@ -1231,6 +1330,35 @@
         },
         "fr": {
           "title": "Stripe's Bridge rejoint le registre MiCA avec l'approbation du Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ebf80f78d05a65d3b12b822dc385fbbd095ddd9f",
+      "title": "Stripe affiliate Bridge wins Luxembourg approval, enters EU MiCA register",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeE1BcUdDUFRjaFF4ZmxaQVBISUdrWU1MdUZUUjRfMmpIQ0FGRG93MTNwLXd1Zi1PQlhRNmcwOFROVzNYeUEyRDNhU1EwS1JyLTkxZTVUV09QV20ySFJXTmstSHlDc1VJSzBsOVdjTm5tMkhrM3lmMXJFdWVsLW95eDNTMEV6WnNGVDV3MXlFVGlvcjRDNHdmYjhoNU0wUDZFVUhPbnRYc2ZaUnI3MXBTZFA5ZkQzRTZlNldqRC1n?oc=5",
+      "source": "디지털투데이",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-07T23:14:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Stripe-Tochterunternehmen Bridge erhält die Zulassung in Luxemburg und wird in das EU-MiCA-Register eingetragen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Stripe Affiliate Bridge gewënnt Lëtzebuerger Zoustëmmung, geet an den EU MiCA Register",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Bridge, filiale de Stripe, obtient l'approbation du Luxembourg et entre dans le registre EU MiCA",
           "summary": ""
         }
       }
@@ -2912,6 +3040,35 @@
         },
         "fr": {
           "title": "Wero repousse le lancement au Luxembourg à septembre",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9a1b05eca35dd7819768b1e2664ccb3f7d7959fe",
+      "title": "Spritpreise Luxemburg heute: Das kosten Diesel und Benzin am 7. August",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0RzZG9ldkhwaEpic1M1SllRTGY2RjR5UzhsbUZ4ZlJQNFdpTGFDXzRaSVdTSEVnRjN5UmY4d0x5b1NQVm55NFA1ZU9mbWtPdWNiR2h6dlhuQVJIRjh6Y2d6QlUtM1hCZ2FubDIwYzlSbEJtX1dJdFpkbk1RZWZ5UQ?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-07T09:36:40.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Fuel prices in Luxembourg today: This is what diesel and gasoline cost on August 7th",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffpräisser haut zu Lëtzebuerg: Dat kaschten den Diesel an de Bensin de 7. August",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​des carburants au Luxembourg aujourd'hui : voici ce que coûtent le diesel et l'essence le 7 août",
           "summary": ""
         }
       }
@@ -47203,171 +47360,6 @@
         },
         "lb": {
           "title": "D'Strofgemeinschaft vun der Belsch an dem Groussherzogtum Lëtzebuerg fuert de Wahlprozess weider",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "68fd49fcdad183d2ade50b4920fee97156d6f39c",
-      "title": "KIクラクスヴィクはアテルト・ビッセンを破り、ルクセンブルクチームは敗北を喫した。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmlmQTZRX0ZaeXMzdzVkdWxfanFVVTctb3RhNU9iOTA0N21WRkNMMng1V1h0YUoxUFNXMjk5NkpIdncyX0F4QXN0UDRSOVhJRUxqdXZoTHRNYWhZR0hZTDhlQXBURDRIbW5CNDZvNXMyNFFheUxxQnBDOVF2cGMwRjdOVldJOXRKdWlqeUxscUFlTFh0Y0E?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-15T20:11:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den KI Klaksvik klappt den Atert Bissen, wouduerch d'Lëtzebuerger Ekipp eng Néierlag huet.",
-          "summary": ""
-        },
-        "de": {
-          "title": "KI Klaksvik besiegte Atert Bissen, was zu einer Niederlage für das luxemburgische Team führte.",
-          "summary": ""
-        },
-        "en": {
-          "title": "KI Klaksvik defeated Atert Bissen, resulting in a defeat for the Luxembourg team.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "KI Klaksvik a battu Atert Bissen, entraînant une défaite de l'équipe luxembourgeoise.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1fcb61fad2fac0710cc8270402b92f29f9b8c1d4",
-      "title": "Баскетболісти української \"молодіжки\" перемогли Люксембург на Євробаскеті U20",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakVkQzdTS3VFSEZRTlJGVHFScENXdHJORk9DbjFsQ0pMS0pHblRxcUtTUERYd2VKSE44MDJ1NFFYektNY1JlTFpyY1lfQWFaU1d0YnpuSDZ3cFFmalYxN2lMYWYyalV3TkJ0bXI5c1N3LS14aVBmdl9QcjMwMldsLUVxTmtfX0Rab2FtWTBMdFdjTGM4RG1QYURtSXRlVHpfU01WeGV5OHpZcmhfNnFFOTNrNy0ySlBRcllSM2xaYl9DS0U?oc=5",
-      "source": "Ukrinform.ua",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-15T19:58:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Basketballspieler der ukrainischen Jugendmannschaft besiegten Luxemburg bei der U20-Eurobasket",
-          "summary": ""
-        },
-        "en": {
-          "title": "Basketball players of the Ukrainian youth team defeated Luxembourg at the U20 Eurobasket",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Basketballspiller vun der ukrainescher Jugendequipe hunn Lëtzebuerg beim U20 Eurobasket geschloen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les basketteurs de l'équipe de jeunes ukrainienne ont battu le Luxembourg à l'Eurobasket U20",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9b38d08d3d3158cac2bb55ba61d4f503bcbaba1f",
-      "title": "Збірна України перемогла Люксембург та вийшла до плей-оф Євробаскету U-20",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxSDVfMWFDTWU0M1FybWlmVEpqa3BPX1BqZ2xnNG9KdG1vQnBvbDJDLXV5aFpaNUc0OTV2Zy16ZlhGY1hmWF83bGZFc1BESWNOSjV5Ui1LdkVhVDB3RExfbldZNA?oc=5",
-      "source": "UKR.NET",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-15T19:50:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Nationalequipe vun der Ukraine huet Lëtzebuerg geklappt a koum an den U-20 EuroBasket Playoffs",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Nationalmannschaft der Ukraine besiegte Luxemburg und zog in die U-20-EuroBasket-Playoffs ein",
-          "summary": ""
-        },
-        "en": {
-          "title": "The national team of Ukraine defeated Luxembourg and entered the U-20 EuroBasket playoffs",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'équipe nationale d'Ukraine a battu le Luxembourg et a participé aux éliminatoires de l'EuroBasket U-20",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7cef413d2b8c300f741df1ba1a0d7d8c2cd88caf",
-      "title": "فاز كي كلاكسفيك على أتيرت بيسن، بينما تعرض فريق لوكسمبورغ للهزيمة.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUF9lNVVHVzVCRnE2V2dGS1RPRVRoenR4YW0tMFdCYlc1bmtHSE5sb1diREtBeUY5TXM3dFBUOTVlRDE1QnI4YUJXVGpoTl83QXVSV0EtQm9GMW9BVGUyZ1hpR2FRd21fU1FhYkNIbXhsdUR3TEZ5MFlsWTdRUUxNOVQwdkJpczBRYU5jc1J1dmEyZU1UbUE?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-07-15T19:45:45.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le KI Klaksvik a battu Atert Pisen, tandis que le FC Luxembourg a été battu.",
-          "summary": ""
-        },
-        "en": {
-          "title": "KI Klaksvik beat Atert Pisen, while FC Luxembourg were beaten.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den KI Klaksvik klappt Atert Pisen, iwwerdeems den FC Lëtzebuerg geschloe gouf.",
-          "summary": ""
-        },
-        "de": {
-          "title": "KI Klaksvik besiegte Atert Pisen, während der FC Luxembourg geschlagen wurde.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bd5e402caffa779eb37bce4db70e47c0777f2a8a",
-      "title": "Молодіжна збірна України з баскетболу обіграла Люксембург у заключному турі Євробаскету U-20 у Дивізіоні B",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYkZ1TjhRRkFzWWdjRHNCaEE1WXBkbk1LdXYybEZWN2s5VXJOWnVUbG1kMHBWMFNqN040czZmekFPNFpkbllNRVd4TXliWjVhbVVzZ2UtVVdtQ3BsTEVaZGNGY0NLSl9lREkxamV6dURPc3lJcE9DbHdMa2laX0ZjVktIWGNtMnY1aEk3TmNnTVNnUXdCUTA2Nkl3eVlfd2FxbElV0gGoAUFVX3lxTE51b1AwRjVJTDBnVV9YWUJMMFZtX0tBSDZsNjhxZ3U0UkpIM25mdUlpTS1sQjVSN0Q0WXE4SWUtYURZZ05YNVN2ekdraTVsSlpxSFpYOW10ekI5aGhOcDJocy1LaExrazh5MTFsa09OdGRaa2MzUF80alQ5c1JMRXJSR2ZuSXBTN21VOXZ2S2xYRTUxYTkyNmJ2alNoQ2Z1ay1ydTF6cWFBbg?oc=5",
-      "source": "Sportarena.ua",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-15T19:39:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Jugendbasketequipe vun der Ukraine klappt Lëtzebuerg an der leschter Ronn vum U-20 EuroBasket an der Divisioun B",
-          "summary": ""
-        },
-        "en": {
-          "title": "The youth basketball team of Ukraine beat Luxembourg in the final round of U-20 EuroBasket in Division B",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'équipe de basket-ball des jeunes d'Ukraine a battu le Luxembourg au tour final de l'EuroBasket U-20 en division B",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Jugendbasketballmannschaft der Ukraine besiegte Luxemburg in der Endrunde der U-20-Basketball-Europameisterschaft in der Division B",
           "summary": ""
         }
       }
