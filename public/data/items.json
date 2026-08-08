@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T19:45:27.462Z",
+  "generatedAt": "2026-08-08T20:48:57.963Z",
   "items": [
     {
       "id": "edb857650f362c71ee1aede1802744ab5d009aab",
@@ -1483,6 +1483,39 @@
         },
         "fr": {
           "title": "Galerie du Pavillon du Luxembourg à l'Expo 2025 Osaka / STDM architectes - 31",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "737451fb817a690afdfa783038fed83b0601bff9",
+      "title": "Украина обыграла Люксембург и сыграет в матче за 13-е место на женском ЧЕ U-18 в дивизионе B",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDdORUdOM0VySWYyd2NHLUhEY041TUNOVE52WEswazVIVjhRSmJGS2JlZVlOUWFqUS10N09mbjh3ZWIzdVJHV0JtX1pKMHVPeFNwTmljZHVyT3g5YXhjVFFjNENRUFpaYlpBYlBLdU45MlEzZ1pzRGpWQ1M5NGZZdS1RajZmVkRXa205QTNmSU1mci13M1FIcEJrbG1Ndmk0MC03bnhUeHfSAa4BQVVfeXFMUDBHdTFhTWJac1poT3k4Z29lZFowVzgwVmdlLW1kbXpRTnM5UUM4OTBkYmhzTi12ZUE3eE1zaUszWnZWNnNHeEdfTkZqUXBiZ1IxbUJaOUlzWkMtUnR3SGlnZGxNS2U0Z3cta1R3OWd5dU9oelM0VHZDZjQ3T3BlTGp6aG43X0p2bUI0QnJ3T3NqSjc1LWktSUxEdkhGUE1RS2pjRUNReHNCeFBLX09n?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-07T19:51:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "L'Ukraine a battu le Luxembourg et disputera le match pour la 13e place du Championnat d'Europe féminin U-18 en Division B.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ukraine beat Luxembourg and will play in the match for 13th place at the U-18 Women's European Championship in Division B",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Ukraine besiegte Luxemburg und bestreitet das Spiel um den 13. Platz bei der U-18-Frauen-Europameisterschaft in der Division B",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Ukraine klappt Lëtzebuerg a spillt am Match ëm déi 13. Plaz bei der U18-Dammen-Europameeschterschaft an der Divisioun B",
           "summary": ""
         }
       }
@@ -47327,39 +47360,6 @@
         },
         "fr": {
           "title": "L'équipe nationale d'Ukraine a battu le Luxembourg et a participé aux éliminatoires de l'EuroBasket U20",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "212ac1d491d072f425c5bce9c05a9d0e9718f7d7",
-      "title": "الجالية الجزائية ببلجيكا ودوقية لوكسمبورغ الكبرى تواصل عملية التصويت",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPMnFnVDBpWWJYbnRibGJ0dUtRMWdyOXhZc2prdE1BazBVYURyRFBzdVlpSlQ3eGEtMkpSY2tOaDl3NkVKOXl4VVgyZ1RaYWdqQUREWFRRdnFDOHVCY2huX3VDb1NrOGhyVlBybmF0Q2hrdS1tSm9yNUlHVktkWDFucGYybTdnMUZVam5SV1NOcWJSeTdlQWg1WDJ6U2N1ZmNwM0Q1VFZKZnNMbFRaLWtjNFFQOElBV0U5ZTVjWk1RSUNXaHFERmQ0dWtzdjR2ZzFmS1hKUWtBTEhMcG5yUkFYZXVzVnZjMDc0dHc4cTljaVJGRGhTWklMb2JKaExlZ0QydzJpZGlBT1BzbUN6dmxBMVJHODFLTVoxaTdTQUdDTk8wVVoyaW1zUGJsZldFUnhVaTdINzRvT3BRanRiMUE?oc=5",
-      "source": "AL24 News",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-07-15T20:18:26.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La communauté pénale de Belgique et du Grand-Duché de Luxembourg poursuivent le processus de vote",
-          "summary": ""
-        },
-        "en": {
-          "title": "The penal community of Belgium and the Grand Duchy of Luxembourg continue the voting process",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Strafvollzugsgemeinschaft Belgiens und des Großherzogtums Luxemburg setzen den Abstimmungsprozess fort",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Strofgemeinschaft vun der Belsch an dem Groussherzogtum Lëtzebuerg fuert de Wahlprozess weider",
           "summary": ""
         }
       }
