@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-08T15:46:51.189Z",
+  "generatedAt": "2026-08-08T16:52:57.389Z",
   "items": [
+    {
+      "id": "9698f7af98d81c7875f7dd4a94632f5fcc531020",
+      "title": "Volksbad am Rosa-Luxemburg-Platz: Besucher begeistert – „Ein Geniestreich“",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWFrc1VJZHlHZWxlVjR2YmtQTndoeEluUXNLSFhxVmZON0hYRUxDMVhJTThfdjhuNzkxcGNzWTVVckoyd2RvVEhjMEZPWG1hUXNnaGZROEp3VVhEcDhkVjJBU0RwenVNQUNUbnVRRldwdXBNVTlLTDBNcEpsVi1tSTNGNTJ2aEV0LVR0bmhKeTEzUjFwZ2N1VGFUSmZQaDhkWXdCcWFoamIxNEFOWVRFbTZ5ckZDamk5Z1BweXJfZ0h0WXg0NXgtSVhWQQ?oc=5",
+      "source": "Berliner Morgenpost",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-08T16:15:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Volksbad at Rosa-Luxemburg-Platz: Visitors thrilled – “A stroke of genius”",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Volksbad sur la Rosa-Luxemburg-Platz : des visiteurs ravis – « Un coup de génie »",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Volksbad op der Rosa-Luxemburg-Platz: Besucher begeeschtert - \"A stroke of genius\"",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "6f9d848ed7e7e3d8bb0db8208b41d41392808fa9",
       "title": "Збірна України U-18 розгромила Люксембург на жіночому Євробаскеті-2026",
@@ -45838,6 +45867,39 @@
       }
     },
     {
+      "id": "b9d5608aaec5d271befdff06bbdd39231609e962",
+      "title": "El Pabellón de Luxemburgo, diseñado por STDM y Mikan, explora el ritmo y la modularidad en la Expo Osaka 2025",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNWjNxaDVESTRoT3NjZ0VGYWdlV1ZSb0hnMzhrQWU3NGM0T3pfUnBJeDFIYmJMU1lwNExvbm8wZVEtSlVkaE5xUjByZjlWSWNvT1dVS1RTNmZyR2hUczNRSGJRWlVJX3VHNXI5eG5jaWU4SDJTdmNlVVp2UEkteDZPcUwyYjd6NzhpTnRtcGluN0lGYUhWWE9ScEFfN3l5b2lZanRvT0RpQW04RTdpQWx5LV9ZOGE1VTlSVTNfUE9YTGRPVFpTQ1l6UlRtOU8yckZUenZ6NEp6a2lnT0NlZUhpdnFZdDdRVXJFTzBCZ3ZPZ2JhMUtkeHZtbU8xd2hXdERwLWRfQUxuWXlNdGFGbDNlT05pSkhGa3ZWR18wSzJqTTRZSWt2aUxtTmJtYkNNam9VTTdkbGdsZC1nR3AtcmVjWE8wcWVNTzVZLVNPaWRUa09JWXZBZEQxMGE2OXVNVGVDeHlOeDMzUktIMGg3RTVWRTlIb0hNOUVPQjRuSm5ZWGpOM213OW9WX0EtSDBVZw?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-16T04:43:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Lëtzebuerger Pavillon, entworf vum STDM a Mikan, entdeckt Rhythmus a Modularitéit op der Expo Osaka 2025",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Pavilion, designed by STDM and Mikan, explores rhythm and modularity at Expo Osaka 2025",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der von STDM und Mikan entworfene Luxemburger Pavillon erforscht Rhythmus und Modularität auf der Expo Osaka 2025",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Pavillon du Luxembourg, conçu par STDM et Mikan, explore le rythme et la modularité à l'Expo Osaka 2025",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "de0fe59d3c4dda6a2645b29ef68ca0c1d8a1db69",
       "title": "Gobierno e independentistas confían en el aval de la Justicia europea a la amnistía tras dos años de bloqueo",
       "url": "https://elpais.com/espana/catalunya/2026-07-16/gobierno-e-independentistas-confian-en-el-aval-de-la-justicia-europea-a-la-amnistia-tras-dos-anos-de-bloqueo.html",
@@ -47310,68 +47372,6 @@
         },
         "de": {
           "title": "Ukraine U-20 gegen Luxemburg: das entscheidende Spiel der EuroBasket-2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d9e5f235677d75c157faf518919ad92dda5753ae",
-      "title": "Luxembourg activates Ripple's European plan and RLUSD takes center stage!",
-      "url": "https://www.youtube.com/watch?v=DeI2I-Kfugk",
-      "source": "XRP-news",
-      "sourceCountry": "",
-      "type": "video",
-      "lang": "es",
-      "publishedAt": "2026-07-15T18:16:20.445Z",
-      "summary": "",
-      "imageUrl": "https://i.ytimg.com/vi/DeI2I-Kfugk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-WUAi5Z_Hqy-B-6nRS7dGJ6ah1Q",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg aktiviert den europäischen Plan von Ripple und RLUSD steht im Mittelpunkt!",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg activates Ripple's European plan and RLUSD takes center stage!",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg aktivéiert dem Ripple säin europäesche Plang an d'RLUSD steet am Mëttelpunkt!",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg active le plan européen de Ripple et le RLUSD occupe le devant de la scène !",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9ea226b6038b027b7ac71aaf42284580833236d5",
-      "title": "New MUDEC executive director has strong ties to Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3VTSDdONXpWak5IaUw1V0RRYWlfcHZtNllxLUtaY1liYmVGSDZleGdiQ0NycFhqTzRZZDBjVkprVEdsMXZza3RSNExVLU1DSGJWT2hNRllVZlZFNjBGX1FORHZ0MzhYOWtObUZoamR4VHJobG81NElsSXBUNGZXS25TUndQRnhHeExJNVlyMnBFeVVkLWY3eV9uQzI?oc=5",
-      "source": "Miami University",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-15T18:13:01.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Neien MUDEC-Exekutivdirekter huet staark Verbindunge mat Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der neue MUDEC-Geschäftsführer ist eng mit Luxemburg verbunden",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le nouveau directeur exécutif du MUDEC entretient des liens étroits avec le Luxembourg",
           "summary": ""
         }
       }
