@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T10:51:56.828Z",
+  "generatedAt": "2026-08-08T11:44:49.047Z",
   "items": [
     {
       "id": "d698f143d5f85f28d624c42f259068972c10b059",
@@ -30,6 +30,39 @@
         },
         "fr": {
           "title": "Et c'est pour ça que j'aime tellement...le Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6d9db09fb404d6a330f20656675f126c98a594bb",
+      "title": "Nuevas actualizaciones de la visa de trabajo en Luxemburgo 🇱🇺 | Nuevas reglas salariales, horario...",
+      "url": "https://www.youtube.com/watch?v=husj7csaz5I",
+      "source": "Baideshik Rojgar",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "es",
+      "publishedAt": "2026-08-08T08:44:43.500Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/husj7csaz5I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4BgbgOdZR2_JnhlXp1g5ZWwp4yg",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Nouvelles mises à jour sur le visa de travail au Luxembourg 🇱🇺 | Nouvelles règles salariales, horaires...",
+          "summary": ""
+        },
+        "en": {
+          "title": "New updates on the work visa in Luxembourg 🇱🇺 | New salary rules, hours...",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nei Aktualiséierunge vum Aarbechtsvisum zu Lëtzebuerg 🇱🇺 | Nei Gehälterregelen, Stonnen ...",
+          "summary": ""
+        },
+        "de": {
+          "title": "Neue Updates zum Arbeitsvisum in Luxemburg 🇱🇺 | Neue Gehaltsregeln, Stunden...",
           "summary": ""
         }
       }
@@ -47319,35 +47352,6 @@
         },
         "de": {
           "title": "2027 CEV Champions League, Michieletto-Sondergast der Auslosung in Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "726b5b3d731f79b3a172736bdcd4a7c5792afa2f",
-      "title": "El Houayek chosen as country managing director of CACEIS in Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlpubl9UTUNaelhSQjdfZ2ZIMzlkbV9YUVlQUzNaZ2dSVGtLc3p4alFQV3JrdTF0YXRxdFFjOVVXQVZqb1lVc0V0UTVNcjg2TzJ5S2liMURUcEJCYkh0aXdGeVc4R3gxSk1Ob2JpaUpqNGtLdjFXcGEzVkxOeVY0Mkk1ak1zbGpkYVROMnllQkNLYzBldUJUTw?oc=5",
-      "source": "Asset Servicing Times",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-15T14:40:59.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den El Houayek gouf als Landemanager vum CACEIS zu Lëtzebuerg gewielt",
-          "summary": ""
-        },
-        "de": {
-          "title": "El Houayek wird zum Landesgeschäftsführer von CACEIS in Luxemburg ernannt",
-          "summary": ""
-        },
-        "fr": {
-          "title": "El Houayek choisi comme directeur général pays de CACEIS au Luxembourg",
           "summary": ""
         }
       }
