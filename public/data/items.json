@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-08T08:03:30.013Z",
+  "generatedAt": "2026-08-08T09:01:40.923Z",
   "items": [
+    {
+      "id": "41a911928cb4474bb9940b8b2f002e80be69080b",
+      "title": "Україна — Люксембург: відеотрансляція жіночого чемпіонату Європи U-18",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlBQV2RmTDduT2xMYVllYjFuZWNJZWVqTWg5MDRZcnZ2S0I2MjN6cTRrNFVWMVAtTHdBUmV2cjFoZzUwNkRzMnNiRmxZYl84Z1hJRnpxcXUyY19zRzZieVhqWjI5cU9QSHJwWkRFaFpvNC1ZSkIwX3FfaFNNMGozNkhYUW43NVdMVm04bzl0Tk0?oc=5",
+      "source": "ФБУ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-08T08:07:19.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Ukraine — Luxembourg : diffusion vidéo du Championnat d'Europe féminin U-18",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ukraine – Luxemburg: Videoübertragung der U-18-Frauen-Europameisterschaft",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ukraine — Luxembourg: video broadcast of the U-18 European Women's Championship",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ukraine - Lëtzebuerg: Videoiwwerdroung vun der U18-Europameeschterschaft fir Fraen",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "55090b9e64827364b874c9f37666a1f79566ee8a",
       "title": "Украина U-18 – Люксембург U-18. Женский ЧЕ-2026. Смотреть онлайн LIVE",
@@ -509,6 +542,35 @@
         },
         "lb": {
           "title": "++ FUELING A LËTZEBUERG AKTUELL: D'Brennstoffpräisser fir Super Plus falen e bëssen ++",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0bf6c064e0e0d844d47cc4fa9b0a2b14793da22a",
+      "title": "Matteo Nottolini (Luxembourg) - Stats de Basketball, Taille, Age",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RSWJNTXgzSkkzdUJET1RKMXQ1ck1NeFE2eGFwRENyc3lCc1JwbXZpcFZnUUR1U3BOTWM2LWJ3QVYzME1HOXZZREFsbmxIUllxdUctdTNkUnRSbFRBZHJXNHhNNWlpd25xMDRfUUpnTQ?oc=5",
+      "source": "FIBA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-07T15:54:40.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Matteo Nottolini (Luxembourg) - Stats de Basketball, Taille, Age",
+          "summary": ""
+        },
+        "en": {
+          "title": "Matteo Nottolini (Luxembourg) - Basketball Stats, Height, Age",
+          "summary": ""
+        },
+        "de": {
+          "title": "Matteo Nottolini (Luxemburg) – Basketball-Statistiken, Größe, Alter",
           "summary": ""
         }
       }
@@ -30698,6 +30760,72 @@
       }
     },
     {
+      "id": "0e837e4e7dc4d02a0dd40a5857816dd6a1aa6b95",
+      "title": "Франция-Люксембург | Статистика | ЧЕ - юноши до 17 2027",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYXNZWVlFTWV0cFllR1NZVFBfcmU3cks1QjI5M1BybnEzLUdCaFE0UHN5MVNlUndQdU1QZWtoQXlqQktGOENHVUtUMzdvRXRFNE00d2ltbDU4eUE0MEFqaFBFRzg4QjctWjg5aG5DUmU2Ync2Y1dMOGlBb2xQOHdnLQ?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-23T00:14:03.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Frankreich-Luxemburg | Statistik | CHE - Junioren bis 17.2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Frankräich-Lëtzebuerg | Statistiken | CHE - Junioren bis 17 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "France-Luxembourg | Statistics | CHE - juniors until 17 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "France-Luxembourg | Statistiques | CHE - juniors jusqu'au 17 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ac2da92df39a5ff5e94ee211ed9cf8458e30c2dd",
+      "title": "Франция-Люксембург | Составы | ЧЕ - юноши до 17 2027",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10ZWN6ZmhkTm1UcXFUeGpiZXpCQVREc3hVRHBmV0RMQWg3eVNobEFlZ2szNXp1WVdpVGxYV1F5QkxnOXNzazMwT3h1ZUY0UjF0RGtVNHc0MlYyQzQ2RUlYZVF6OVZyeTJJeE0tVzYzdjVFNEtWR0hmblhwUFk?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-07-23T00:08:33.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Frankreich-Luxemburg | Kompositionen | CHE - Junioren bis 17.2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "France-Luxembourg | Compositions | CHE - juniors until 17 2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Frankräich-Lëtzebuerg | Kompositioune | CHE - Junioren bis 17 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "France-Luxembourg | Compositions | CHE - juniors jusqu'au 17 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "07036e70de4eb0dbefbce4abad8a2d10b8a8beca",
       "title": "Der Schnittchenkauf - Volksbühne am Rosa-Luxemburg-Platz in Berlin am 25.10.2026",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSlNPdEwyTC1kYVZnbURhWUp5S1FINDR4a0o0NXlqdHlMZzY2UldKQ0tNTThET1dBS2Raa1ZjR3NDY25rc0lPQ0xpNkVBMWpFSFh3aEFacUFSTk1fc1UzWExkYmhsdU9JZ2RfenNqTWlMRjlhUzdpeUdZNXE0OE13NklzQ1FkemZjS3p0VGZQNG1RRlFMX2lmTnZjY0kwdi02?oc=5",
@@ -47208,130 +47336,6 @@
         },
         "lb": {
           "title": "Québec verdeedegt seng Accorde mam Steierparadäis vu Lëtzebuerg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4d60ee79095dda14ea6a1cf0ee8dc4bf21f2bc83",
-      "title": "Costa Rica y Luxemburgo promueven fondo para desarrollo sostenible",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXZpeUpvZFgxc3phQ2JfeFJqZURlZm1IamJXOThWYmpsajhUSDdvdTdLNjRKeERtcWh6ZTV6Mlltd2tvYkx2a2Y0eUxnMEE0bTItZW83RkRoSGhBUVRoTzBUR0NwRHVuOGlTMG5aNGpmalFuaUg5RVZhYURtTk9NWGRUMS1rUS0tQ19EZER1aEN1MnpqTE9lTDBKd3BpR3hwT3BhX09rREJxVTBVRkJz?oc=5",
-      "source": "Forbes Centroamérica",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-15T13:25:56.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Costa Rica a Lëtzebuerg förderen Fonds fir nohalteg Entwécklung",
-          "summary": ""
-        },
-        "en": {
-          "title": "Costa Rica and Luxembourg promote fund for sustainable development",
-          "summary": ""
-        },
-        "de": {
-          "title": "Costa Rica und Luxemburg fördern Fonds für nachhaltige Entwicklung",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Costa Rica et le Luxembourg promeuvent un fonds pour le développement durable",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "75791e2a7ccdc155b7e319a619b0425a5f1ddd70",
-      "title": "Trains Metz – Luxembourg : la circulation suspendue pendant plusieurs semaines",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ1R6cnV5NUpaYng5YnR3X285RDFRRW1zM3FlQWlCZUNfM1dCTTJ0bGlSeEFWcG1FZmc5QVRIUzJ4T1FpbTlid3RLX0NBZk52QnBYOTJzNFJSd2NYakRzM1RYc0ltMlVGejM2TXIyUmNrNk5UajdKY0NvLVVHUVhIczNRYm1yWmFHWlhZNmlMUkpDVDhqUHM4eS1B?oc=5",
-      "source": "Moselle TV",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-15T13:20:10.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Trains Metz – Luxembourg: traffic suspended for several weeks",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Zich Metz - Lëtzebuerg: Verkéier suspendéiert fir e puer Wochen",
-          "summary": ""
-        },
-        "de": {
-          "title": "Züge Metz – Luxemburg: Der Verkehr wurde für mehrere Wochen eingestellt",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "280a271267eed4000d13e50cc38bc57f8e530d10",
-      "title": "Luxemburg-Urteil – OpenAI verliert Markenstreit vor EU-Gericht",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXNmTWpCNkc2UFcxVzVrWkIwcGViV2tCZ1ZKS20taWdKc3V5SDJqUFpjVmlhRk0tS2EtZDJzaWJHVndlYWgtb3k5a0VnRE5hMWxmSEtSem9wOU4xUEZrZWtkUWdycEU4b3RBU1RfUkdESHA2VW4zQUY4ckRnNTAxbHhB?oc=5",
-      "source": "Heute",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-15T13:02:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg ruling – OpenAI loses trademark dispute in EU court",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Décision luxembourgeoise – OpenAI perd son litige de marque devant un tribunal de l’UE",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Uerteel - OpenAI verléiert Markestreit um EU-Geriicht",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7b1e84e7f3264f183253e4777aa5813c245782cb",
-      "title": "画廊 由 STDM 与 Mikan 设计的2025年大阪世博会卢森堡馆，探索韵律与模块化 - 16",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQdEpnQ2tIOGF4emQxdk1adXZWamtRVzk2eHRUa3AwQU5PaFlXNUprTExlNW9IcXZMSUtiVzc2bXdydUthWHFLampLREltZWNiT2UxcEQ3Wm1PWU9WNDItaXFMQUdSbDl1dUxuVEdaWkt0b3M5NkcwVVJYWHROdlBOZFVod3JGTEgwRzE3dWxJVXJSMGM2ZUJaRmo0bm8wdWItLWtvVWJsMTJKZ21aQktwRmN6UFA2SVN0WmZHNFV6MkZGTS1oUEx6Wm9SWXZPNWp4eXlnNnRHSjVrSzQwNHlDemVDVDFWbDZuUXg4MERBUkN3ZlRLMmN4dnNaUS1iVkRrYXhQR014NUtkQnQ2QV9VcWQ1OFFaX2pyT0ZsYkVDQ3JkZkxGZ1pnWjVfTGdObmdEbzI4eFNfMkc5RlJsY19STTJmYmE3Rm5WN1lxT3FROFRGRnhXUlRncDBXVXZUa05qQkdyNGwwVWFydUFSMUdKM01VOFBTbkpKR3pPMUh1akR5R2hF?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-15T13:00:30.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Pavillon du Luxembourg à l'Expo 2025 Osaka, conçu par STDM et Mikan, explore le rythme et la modularité - 16",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery Luxembourg Pavilion at Expo 2025 Osaka, designed by STDM and Mikan, explores rhythm and modularity - 16",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gallery Luxembourg Pavillon op Expo 2025 Osaka, entworf vum STDM a Mikan, entdeckt Rhythmus a Modularitéit - 16",
-          "summary": ""
-        },
-        "de": {
-          "title": "Gallery Luxembourg Pavilion auf der Expo 2025 Osaka, entworfen von STDM und Mikan, erforscht Rhythmus und Modularität – 16",
           "summary": ""
         }
       }
