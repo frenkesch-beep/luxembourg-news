@@ -1,6 +1,127 @@
 {
-  "generatedAt": "2026-08-10T06:43:10.085Z",
+  "generatedAt": "2026-08-10T08:52:24.684Z",
   "items": [
+    {
+      "id": "09fbd507b6af228bb3ca5d1c6b10398d4f0ca962",
+      "title": "Metz et le Luxembourg s’unissent autour des arts numériques",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEhmQnVpRktoSTM2VGhPQTlGcmtuaWZXeVVyQjhQYi1fTjUzVG9kbldOMi1aNFVJRmR3NE1KeHJ6dEN1UUNieG9oUHJQNXJrclJpYjd3TUozSzdWcVN1ZjZQb3J5alJSNkNLRzdRbHdHR0VZVGQ0Ny1xMWhlODZrajVtS3JpbUVfd3QwNlA0UnhXM25DcVJYajczZEhLQVk?oc=5",
+      "source": "La Gazette France",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-10T08:20:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture",
+        "tech"
+      ],
+      "translations": {
+        "en": {
+          "title": "Metz and Luxembourg unite around digital arts",
+          "summary": ""
+        },
+        "de": {
+          "title": "Metz und Luxemburg vereinen sich rund um die digitale Kunst",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Metz a Lëtzebuerg vereenegen sech ëm digital Konscht",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "01dd2df236ca7aeea263b8ff6967b1bec6b2d8b3",
+      "title": "Évadé d'un hôpital psychiatrique de Metz, un homme s'introduit dans une maison au Luxembourg et menace une famille",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLWh4LV93QzZRWFlRemZKSnA4d2FzTXZ5NWhtcnVEYTIxdWtzcEx1T1ZoLTZYSTk0ZmVTVWZyY0RWWmNjanRSeVVfeTNDajMxLUNadHRQbHN6N0pIc3JXNGdkYVUySldVUmt3U3NVdm5nbkxoclNib3pjT280VFNYY3ZDQ1h1cG1jR3dPa0g3V2ZNNENiUHc5ZHZqUWZDUnJjTlhnVzgtdk9hOVpKNjNUZENEMnk5RG9wUXRVSlpMMDdpM2QyU1M4UDlRRmE1eHpWYzBxWVdIZjNoWDRpQ2RiUkh1eG9taWVYYk1oZw?oc=5",
+      "source": "Actu.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-10T07:51:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Escaped from a psychiatric hospital in Metz, a man breaks into a house in Luxembourg and threatens a family",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein aus einer psychiatrischen Klinik in Metz geflohener Mann bricht in ein Haus in Luxemburg ein und bedroht eine Familie",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Aus engem psychiatresche Spidol zu Metz geflücht, brëcht e Mann zu Lëtzebuerg an en Haus an a menacéiert eng Famill",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b84fbc56af3edd608b5a733345f055d42719a1aa",
+      "title": "Регистрация на Nexus Luxembourg 2027 уже открыта: пошаговый гайд для стартапов от заявки к участию",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOTNSSTZ5YldYNDdQU2dHVU5BUDVnbTVLdUlWb2Y3OHo1NmJudkNVcDNmZ0N3RnVlUldtTENoZzVrNEczOUNZT0dwZW1hTV8wWDNKZEN3NFNVV3MxWDl0MGFrTlY4MmtPS08xeFlQMDM0TmFrdWg1Uk5hSHRSQlhNSFZ3aXI1UVhHblg5a0t5WndUcm41TUpVdVFISnpSc3h6YW5YOXNZY1c1N0hNR3VXS1NCMlFicV93R2o5OTNFNW1UR3BGVkRvQXhaal8tMkFLclpZ?oc=5",
+      "source": "Delo.ua",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-10T06:53:19.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Umeldung fir Nexus Luxembourg 2027 ass elo op: e Schrëtt-fir-Schrëtt Guide fir Startups vun Uwendung bis Participatioun",
+          "summary": ""
+        },
+        "en": {
+          "title": "Registration for Nexus Luxembourg 2027 is now open: a step-by-step guide for startups from application to participation",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Registrierung für Nexus Luxembourg 2027 ist jetzt geöffnet: eine Schritt-für-Schritt-Anleitung für Startups von der Bewerbung bis zur Teilnahme",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les inscriptions à Nexus Luxembourg 2027 sont désormais ouvertes : un guide étape par étape pour les startups, de la candidature à la participation",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "bc4947ca189c69e1a61351f5d49a4c650921112f",
+      "title": "Les gens de Nancy ??? #luxembourg #metz #frontalier ",
+      "url": "https://www.tiktok.com/@lorenzo.finance/video/7672286695747898656",
+      "source": "@lorenzo.finance",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-08-10T06:31:04.000Z",
+      "summary": "",
+      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/oUM0lEZBPhcgWsz4AapPlEuZ7B5viiniIKBCm~tplv-tiktokx-origin.image?dr=9636&x-expires=1786521600&x-signature=8K7nNAKAELmuvqdscHb1fWg600s%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Nancy’s people??? #luxembourg #metz #border",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dem Nancy seng Leit??? #luxembourg #metz #grenz",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nancys Leute??? #Luxemburg #Metz #Grenze",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "c736b924b2fd540a2e916f96e04ae41fc04b8f1f",
       "title": "Immobilier : 10 % d'augmentation dans l'arrondissement de Marche-en-Famenne... Pas de doute, le boom wallon touche aussi la province du Luxembourg",
@@ -1599,6 +1720,39 @@
         },
         "de": {
           "title": "#RareCoins #Numismatik #Luxemburg #fyyy #Fy",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "faf7f4d03dbb559a9c3a6676524fee748d3a5a3c",
+      "title": "LBBL Kobiety 2023/2024 Tabele - Koszykówka/Luksemburg",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXVDMlFuX0Mwb2pEWnJDc2NiNk81S1BmLWxXS05jWWpfSThnME1jeXdaR1NQVTNCbDBqb2VtclVMWFU0a1FjTDAzMWFUcVFSb1B0WVFjdVpmN0h5VU5GU2wtYWVKaUtPeDRQSHhaX0RveU1GcHRfdG56SmVkcVh5U1g4LTkxSXpIS0tSWkVMcno?oc=5",
+      "source": "Wyniki na żywo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-08-09T06:48:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "LBBL Frauen 2023/2024 Tabellen – Basketball/Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "LBBL Women 2023/2024 Tables - Basketball/Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "LBBL Fraen 2023/2024 Dëscher - Basketball / Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Classements LBBL Femmes 2023/2024 - Basket/Luxembourg",
           "summary": ""
         }
       }
@@ -6710,6 +6864,35 @@
       }
     },
     {
+      "id": "05b0f18491dc55571158da5a2fc05142ac1b6560",
+      "title": "Photos : Just Mustard - Luxembourg, Rotondes - 07.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVBCSlB0LVVwZWZEYWNnM1daS2JuMGZFTkExbzhPeEFzbnB3cXJ0SzlfaUF5d0E4SGlTd2sxWHotNGtVbC1zOHF3c19NdE5OcVBQRWRNTHE3S0kyY2VfNHBBNUt3ODRUOTF2ZTdKak8xYlVxczBZVkNLaGxTR1FReUE1UkpVMnZ5MU9tNURIN3dxMWptcG5LdEd0NmZCak8wZXlIMHc4ME1paE11OXc?oc=5",
+      "source": "soundofviolence.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-07T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Photos : Just Mustard - Luxembourg, Rotondes - 07.08.2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fotos: Just Mustard - Luxemburg, Rotondes - 07.08.2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Photos: Just Mustard - Luxembourg, Rotondes - 07.08.2026",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "8c553cfaad4051b3328ee3a204d1a46de1d1bd94",
       "title": "Luxemburgo echa un cable a España sobre Schengen y Ceuta y pone el foco en un problema clave",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT1QwNlF0ZFp3YUc1ejVMYW5kelYtc2FjX2FNTW1yLWJZV1k0dmY4bzM3VUs5dzZHbjRCX21lYTJiQWNjSWplR3V5RGl1UVZPbkthLXJzc2k2UWdqY1JjODFxcDdINExCTUlTSmxzTlBqaXh5N09YMEh1bDFUeEtfak11OXlMa0F4VW1YaHpLd1Jyd1JSMHZzOVBTVElNVjA4bXpwNG1kczZxa3pYUmd0NWxDSzFMMzhYakRFRlJDRW5WQQ?oc=5",
@@ -8734,6 +8917,35 @@
         },
         "lb": {
           "title": "Erëmaféierung vum Schinneverkéier tëscht de Gare Nivelles, Bréissel-Lëtzebuerg an Halle",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "22c5849197c38b47bf169674f72aaad7e91c608c",
+      "title": "Photos : DEADLETTER - Luxembourg, Rotondes - 06.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUtFQW9JVGJCRlJZaTRKTW93UkpGUW1YOHppejFHaTdLXzdnTVZobV93TEJMOTZUeXljaUU4aFg5dW1IOHc1RjlnZFFsU3VTODNqMzR6UGk5TkFpODVWZjVBM0lLZWZRbTFoTkhjNkF5OHd5cUJuZXlma0VMNHl6Zm94NzJYZERORmd0a0dWc1lqMDJXN0dTWERURE94b3A4cWFSOFd3Q1lXTG8?oc=5",
+      "source": "soundofviolence.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Photos : DEADLETTER - Luxembourg, Rotondes - 06.08.2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Photos: DEADLETTER - Luxembourg, Rotondes - 06.08.2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fotos: DEADLETTER - Luxemburg, Rotondes - 06.08.2026",
           "summary": ""
         }
       }
@@ -45981,6 +46193,35 @@
       }
     },
     {
+      "id": "a76c71792795271f79a0426d8e4d112bb5547f1e",
+      "title": "Luxembourg v Sweden",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1ZUQ2h3ck9Oc1NweUItVFdZeDU3M2FlcUFjSUxrMEkxYmE2bHRNSGdSeURURnFBTUR0SldRMFlsaHNpeFNuSm5yaFE5SDdxRWNTQTVfdGxwX2xvS1pLQm5zYWVZSUxVZWZHbm1wRTllOFdRUktrZmdQc21Kbktpdm8zTWtCbkZxa1FYM0JGeW9LNkVnXzFUblB6cVdoc0g5ZjN1bUVuVk1KZ0dkVXJoY2pwY21tTUlPRHc?oc=5",
+      "source": "Rugby Europe",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-07-18T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg v Sweden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg contre Suède",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg gegen Schweden",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "f53d9d299ab6584f9eb38de818a9be352f1580a8",
       "title": "ルクセンブルク 4 - 1 ボスニア・ヘルツェゴビナ：マッチレポート、統計、ラインナップ、H2H",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWtqMTlNVExSUUxYOHFlY0trVnF1WHVFbFFaY3ZZaGN6U0x0bjVhWWdJbHZFZkNsM2tuR21jMkNQTExqdjc4T2dUXzNERUEzdjhwWndjYTU2QWhlcXNrSWM1ZzdSczJOYkRGVm5Ib2UwUjJyT1dCVWg0cDNuZ2NfZ21HOXczVHU3VmFjLUJYMUY3alhwRERWOA?oc=5",
@@ -46863,254 +47104,6 @@
         },
         "fr": {
           "title": "Ukraine (k) - Louksembourg (k)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "54f77beb60724c81e73c51a1bcc3c6a5ca0b42c7",
-      "title": "Elvin Sabanovic — статистика у Люксембург: Національний дивізіон 2025/2026: скільки голів та передач",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRU1tRU5Xd0lXWkRnbnFCRGVTWHJQcGtGTGR2OXNYdy1sTi1udmJEaFo3RW03dnQwQ1ZBMDBPZ1J3ZDFRemE5cVZHRXJvcklWamV3X0kyYlM3MWd2RjNCWWZoeG9leGJESlpsXzUxTTYtNi16clJmTmFHTnk3YkhjeDVSUWtTOVp4MnBmMXI4LUh5WjFVQUUxb1BmbFpqMHN2c3BZRQ?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-17T15:53:08.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Elvin Sabanovic - statistiques au Luxembourg: Division Nationale 2025/2026 : combien de buts et de passes décisives",
-          "summary": ""
-        },
-        "en": {
-          "title": "Elvin Sabanovic - statistics in Luxembourg: National Division 2025/2026: how many goals and assists",
-          "summary": ""
-        },
-        "de": {
-          "title": "Elvin Sabanovic – Statistik in Luxemburg: Nationale Division 2025/2026: wie viele Tore und Assists",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Elvin Sabanovic - Statistiken zu Lëtzebuerg: Nationaldivisioun 2025/2026: wéivill Goler an Assists",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "55890481b2b1cc60264827f4d082de330e362291",
-      "title": "Mette-Marit: Das schrieb sie Jeffrey Epsein über Luxemburgs Großherzog",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDBScU9PNWF2OC15S1l6VDVHVFpkeXhSU0pMaHlXaUdhOHpGT3hWNjBMNHAzRFRwZkQzRDBDZnFOTkYzcTZndnpDdGh1VDZQclNIY3ZBWlVQcjNZdlhFemstMmt2anhxTHZ0REZvbnV1SWtlamw4T0Q2REt1aXFENHhsWmtBQXNnOHBlSXd6UzlZOTFxZ2tSb29wY0U3T3hBSEFmWjNDOXN3Z0ZBZ0RYbDBMcXZON25jVWdyRQ?oc=5",
-      "source": "SOL.DE",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-17T15:50:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Mette-Marit: That's what she wrote to Jeffrey Epsein about Luxembourg's Grand Duke",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Mette-Marit: Dat huet si dem Jeffrey Epsein iwwer de Lëtzebuerger Groussherzog geschriwwen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Mette-Marit : C'est ce qu'elle a écrit à Jeffrey Epsein à propos du Grand-Duc de Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8b5c98e5342c9e099ae8faee88de2adb2ae4eb42",
-      "title": "画廊 卢森堡国家图书馆 / Bolles + Wilson + WW+ architektur + management - 1",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQczlNVkVuQWFYdUpKUkpqTXhfMXhCdV9idHdNTmtFOFI1bndZWkFvWTZMVHFnOFJXRl83TzBVSE5CNkxibGUzeGFrcjdDOFFCNXRaaWdiQ1dJVU1oU3ZBamJNOXRza1pUQURJUTByMFcxRmZaX0txdVhjRkwycEhjUzBNVGRDOW51T1A5SWVueFg2QS01RXR0V2NVT2M3MWlHLTRYS1c0Q1dMOUNJYXFOQnFheldBcnA3ZW4zNkYzaGRxbk5MRERJR2FnaU90M21IUDZmOEtjaWY1Rm1aUEV5WUpkOUNzR18yS1RMRzFWNWlwMXdSV1Z2MmNyMHp0d0QtRlU1eUJfbVFvQy1nbEJkdlM4TE5Cbjc2TVR2UllNY1FNRlp6UnBmZXFES3hHRjdqNndMYU1RaVpPU2lwdFRvSjhJMXV1TzBUcjg0a3k0TWRoOS1aaTNDRUUzSFh5UFFBSWtV?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-17T15:46:24.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Galerie de la Bibliothèque Nationale du Luxembourg / Bolles + Wilson + WW+ architektur + management - 1",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 1",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie der Nationalbibliothek Luxemburg / Bolles + Wilson + WW+ Architektur + Management - 1",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 1",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "88dce6abb12009f640bb08e57e285bf8751223e9",
-      "title": "Eiffage se développe au Luxembourg avec le rachat des activités travaux de Baatz",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnlMV3g4UGx1Z2lYc0JXN3BYWTU2VEl5dTZZaGhiRG5CMFNjZHJ1MnQtbGx6ZWR0aGNPZ210VjJnRGhFTC1MRFpOVUt0Q1drTjYyM1g1SzZyaDV6TExiX0c2bW5FanR3d2xiSTBQeGFDYnc4V1I0QjRpYmNaMHVNUDVWZkthUVcwalBldlJ6cmxTeHIzTkJTQTZyOXJvUQ?oc=5",
-      "source": "Batiactu",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-17T14:55:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Eiffage expands in Luxembourg with the acquisition of the construction activities of Baatz",
-          "summary": ""
-        },
-        "de": {
-          "title": "Eiffage expandiert in Luxemburg mit der Übernahme der Bauaktivitäten von Baatz",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Eiffage erweidert zu Lëtzebuerg mat der Acquisitioun vun de Bauaktivitéite vu Baatz",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b231c82cca5818148710a2112eee748d35819b3e",
-      "title": "Luxembourg Ambassador to U.S., Highlights Indian Community’s Growth",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1dPaUxzNmNGTHVYODFleW1TUmM1Y0Z3ZXk0Q2thamxHeGlfb2tvM25jVF9hSkhnMHlwUTZ1YXhyY3VEaDFhR1RzUHhVUVZqbUdlWGljcDlxUVdXRjI5VGt1bFVfOHdXbm5YRDZOcUdmZ1NkNnQzTkFsNlhKbUlBa0xmd0VERVdkYW9JbE10RTItQlJiS2Y3ZmVn?oc=5",
-      "source": "South Asian Herald",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-17T14:48:36.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "economy"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Ambassadeur an den USA, Highlights Indian Community's Growth",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der luxemburgische Botschafter in den USA hebt das Wachstum der indischen Gemeinschaft hervor",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L’ambassadeur du Luxembourg aux États-Unis souligne la croissance de la communauté indienne",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e7f3130c598790801b898710c466f85c735bc0bb",
-      "title": "Ils ont commis plus de trente vols en Sud-Luxembourg: \"Les victimes sont traumatisées\"",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTktoVmtvVzhfZkNjRzdKMVZ5LXRldEdBNFNKY21sSzZDOUpuNEY5QWhoQ0NpOG9MVlA5NjNXVzBtUEY3NmJrQ1VWWmdMYXBWaWdmMmxRQTF0ZS1lYmxLc20tdVlzU3cxUFhEUWtyTExGNVBsYW41Y1VpMTM4UC1DMVBqeEJ4bDhBUTNDbzhwVmJ0X0lTaHlDT1NTVDRPd1JhdktvSm1mV0tYTFB4Q1VEcHQ2LXd0eU9hZm9JdHc4ai1ZY3UyTHFyR29qRVpOYW1qNjVBeHRXaUxTODNZaFA1T3NfNG1tV0RFd3NRZ3dUVnphcUIy?oc=5",
-      "source": "DHnet",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-17T14:15:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Si hunn am Süde méi wéi drësseg Déifstall gemaach: \"D'Affer sinn traumatiséiert\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "They committed more than thirty thefts in South Luxembourg: “The victims are traumatized”",
-          "summary": ""
-        },
-        "de": {
-          "title": "Sie verübten mehr als dreißig Diebstähle im Süden Luxemburgs: „Die Opfer sind traumatisiert“",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e1897b6cd05474d0e71be4ce26a857b2226dfed9",
-      "title": "画廊 卢森堡城市建筑指南：探索大公国的 23 个建筑项目 - 2",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNVUxfWGdKWER6QTAyQUFqbk4zTHNyVTFvR09DMjhGZmxhcmJFTm9ZNkhsbml3Y1NKX1d3RnlndlgyVUNyeUNLdjhDRzlKeHN1SVp1cUh1aEFjZXJEc0RDMjdHdW1yQVE4RVFRbWhsVjJLTDhiS0RPRTNIY1VBcFRybkI3dGpzNmc3TFF3S2x4VjlKQzBQcE9wUUk2MldkbnhIajdjR3o4TmRQbTk5OFlXNnlISTBaSTd2ZmZxazE5SkRENzNNRG9HQkpRc2JvZXgyTDBKSUFOcmNDRndqT1JQeXBiM241RGNERkx1Uk9WeHlaRk5jdkVDckhxQzRUb01ET1NVc25iXzJqenhtczhQakhNN1Q2UkpoZlJGeC1JQmxqQUxRZVUxdzVQS3cxLXpQQzJGTlVFVmFrWWtiQ0ZNbG9TbHVHVVlCQk4tV1Nn?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-17T13:49:13.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Galerie Architekturführer der Stadt Luxemburg: Entdecken Sie 23 Architekturprojekte im Großherzogtum - 2",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie Guide d'architecture de la Ville de Luxembourg : Découvrez 23 projets architecturaux au Grand-Duché - 2",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery Luxembourg City Architecture Guide: Discover 23 architectural projects in the Grand Duchy - 2",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Galerie Luxembourg City Architecture Guide: Entdeckt 23 Architekturprojeten am Grand-Duché - 2",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "594f2553818f11bd77ad03bd6ad9dd9b1aecbb3c",
-      "title": "Direttamente dal Lussemburgo: l'Arce piazza un colpo internazionale",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWRMUkJKWERLcWxDMXJTSnFjdkJzcU1aX3duTmRpbVB1MU95eWxGUm4xZkNBWDZvNU5rLUIxX05QMFgxUS1NYjZWR2Q0NVdPZVlTczU0UDAyWGZuajFkeTVXbUd6ME50Wkw3RDBfWDh1SURKSEdSQzAtSTl6SFZGZUZIN2M3WWxnYWI5ck5qNHNfejBJdzN4blU0d1gwVTlXbGRhQndMYzllMF9VOG13TkJlc1gxWVdzZ2ctd0RET3FmWUtCem9PQ3haeGN4RUU?oc=5",
-      "source": "Gazzetta Regionale",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-17T13:38:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Direkt aus Luxemburg: Arce gelingt ein internationaler Coup",
-          "summary": ""
-        },
-        "en": {
-          "title": "Directly from Luxembourg: Arce lands an international coup",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Direkt vu Lëtzebuerg: Arce mécht en internationale Putsch",
-          "summary": ""
-        },
-        "fr": {
-          "title": "En direct du Luxembourg : Arce réussit un coup d’État international",
           "summary": ""
         }
       }
