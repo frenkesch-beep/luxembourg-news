@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-10T21:58:55.529Z",
+  "generatedAt": "2026-08-10T22:57:08.706Z",
   "items": [
+    {
+      "id": "2ece6994a1cc5ab710d3b7d99a2409cbb3945e8f",
+      "title": "Ποδόσφαιρο: Λιθουανία - Λουξεμβούργο",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kLWpyN1QzTGxJaXRZSEozY08wb1huLWhXNzR5WjlMU0lxcnNSZXV4eElId3BNS2JGZVNZaHdKcFZ6dGszN3h3X3JnR2d4VE9VVDAtdk9QdVVyWGJJSUFfaGE4RFZwdkFiXzVYRXNRVHF1Q01RNEtPNUVyQzRsTnM?oc=5",
+      "source": "cosmotetv.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-08-10T21:37:26.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Fußball: Litauen - Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Football: Lithuania - Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Football : Lituanie - Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fussball: Litauen - Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "e87db73fcda46e8e977ee00133874465da0a9a07",
       "title": "Prova de vida em 2026 para pensionistas residentes na Bélgica, Canadá, Cabo Verde, Luxemburgo, Países Baixos, Reino Unido e Suíça",
@@ -6202,6 +6235,39 @@
       }
     },
     {
+      "id": "21099b6eef0b99344067f718878c4801c76e55da",
+      "title": "Luxemburg – ett framstående finanscentrum – Portugals bosatta",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSmpFdlVmSjE1QURmdVp2WmRiaDdlWnpCMmIzT1ZORDFqQ2lrYXNJZ2NncVpzYVVjSV9fdlNBSGluUlc4d0Q1YW5qU01Cc2ZXd0ItanZ1elNxMUc2OHpEMEw3dk9Nd1ZMTXdlV0tFOXpvTWdYZ3hFWEVNTDVxRUdhckNoT2NUM0VN?oc=5",
+      "source": "Portugal Resident",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-08-07T13:44:41.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Luxembourg - une place financière de premier plan - résident du Portugal",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - a prominent financial center - resident of Portugal",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - eng prominent Finanzplaz - Awunner vu Portugal",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – ein bedeutendes Finanzzentrum – ansässig in Portugal",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "7012622cdcd5f4806dfec110a2e206c5aeebae2e",
       "title": "Люксембург виділив €8 млн на українську енергетику",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFI4Vi1jYWxYazFvd1dTcGZobUFXVjJrWlZkUEx6M3ZwcllwbU55bHZIekV1Y3RlenlRTk04dTlVTjJCU1FPWTA2WjliOURTczhJSGY3QUZFREMxUGhZemRZeHJUNGtJNU5SMnpQWTRVMEdpY00wdzF1bjNuTmV3Wk4yTWJid9IBiwFBVV95cUxObXZHRURaaXM1ZDZQaXR1djFudjd0X2hhTFdmbUdWMFJyRUZWeVdEZW45V3RuSW1sWks2S2pDMUkwSmZJb0EzUVh4alQ3WWpDUk9UTGVnenAxWWhFOFlWNThNRXhtbk5JNkZERUlZcnRIRHlwcWJiTWd6SVpVVFBmblFVMm01Z1U4WFBR?oc=5",
@@ -11750,6 +11816,39 @@
         },
         "de": {
           "title": "Racing Luxembourg - HJK",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2354c563d2062e2eb408690fa0522e6e73495e12",
+      "title": "資本集團新視野基金(盧森堡) A4 (美元) 的總覽 | 鉅亨網 - 基金老司機",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQR3lzWUxJQllNUTI3eXY5TVJnUGRpTUpHejJSQUYzbmJVTUY2REl1UDlLVkJzbWE3N1ZrYmRvSjlsNUkzY1g4M3luazE2U2hfS2xOaXJUZkN6eGxkV3NVWllmQS0xU0dYTGk0eFVMbXdvWXRCLTZBNlg5MFVlN0twNzhxdzhMU0dHeVBQMWFEMTV1eGZrTFR0UnVwWUg3RngwSW9VdXpnWDBaQkhqX1NaWHVoZG5FSFEwQVp3ektyejlZTk5mU0gyLVRCaWY3b1JOeUV4ZWlqZlFMUGJhYjl2Wm1Idy1GaTZHc184X1lCZUc5dzlPU0duT3hESXBkOEk2VV9aWC0yQnhzOGdVaVdLMUZxWlAwWjBlWGZOcGJiWXRKMFR2THhpbWl1ODQ2Q24wUGRaZldrMkFXdmdZdEIxeU5mSQ?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Aperçu du Fonds Capital Group New Horizons (Luxembourg) A4 (USD) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group New Horizons Fund (Luxembourg) A4 (USD) | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group New Horizons Fund (Lëtzebuerg) A4 (USD) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den Capital Group New Horizons Fund (Luxembourg) A4 (USD) | Juheng.com – Fondsveteran",
           "summary": ""
         }
       }
@@ -47022,105 +47121,6 @@
         },
         "de": {
           "title": "Ein Schiedsrichterteam aus Luxemburg wird das erste Spiel zwischen ML Vitebsk und Sutyeskaya in LK leiten",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8572a00a0c65e3305426880ebdc6b02aa2053fa8",
-      "title": "IA de Biliões, Notas Suspensas e Notícias que Afetam Luxemburgo e Portugal",
-      "url": "https://www.youtube.com/watch?v=1bLrrvu7t-Q",
-      "source": "LuxNeva Music",
-      "sourceCountry": "",
-      "type": "video",
-      "lang": "pt",
-      "publishedAt": "2026-07-18T08:47:21.349Z",
-      "summary": "",
-      "imageUrl": "https://i.ytimg.com/vi/1bLrrvu7t-Q/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAArgIigIMCAAQARgTIE0ofzAP&rs=AOn4CLBC4lRl8JG0eOM55NSrjNJlEHphdQ",
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "AI vu Milliarden, Suspendéiert Notizen an Neiegkeeten déi Lëtzebuerg a Portugal beaflossen",
-          "summary": ""
-        },
-        "en": {
-          "title": "AI of Billions, Suspended Notes and News Affecting Luxembourg and Portugal",
-          "summary": ""
-        },
-        "de": {
-          "title": "AI von Milliarden, suspendierten Banknoten und Nachrichten, die Luxemburg und Portugal betreffen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "IA en milliards, notes suspendues et actualités affectant le Luxembourg et le Portugal",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3224460ca71fcf81b294a96e52a04d9287970dfd",
-      "title": "Olympia Christnach/Waldbillig – ігри 2026/2027 (Люксембург: 1 дивізіон)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0NnV3lSZDBHUEVoN3R5ZjIwZjFwaVY3aFdFcXN4Z2pETWZUMzI3QW5DNlFZd3RNaFpacEhyaFhDZ0VUcFBGRDk1dy0td2lJN1VCTzRPR2J1eU8xT3BMNk9QQlE3emRtbTV6dExLLUFaWkMtS0xqNm9ib2xaLTE0SzFGVnVKVDBqSldvVUY5TkJsMkl6SnVLajg4QTFnNkFfLXphdU1vb053SS1lckNlcA?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-18T08:24:38.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "de": {
-          "title": "Olympia Christnach/Waldbillig - Spiele 2026/2027 (Luxemburg: Division 1)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Olympia Christnach/Waldbillig - Games 2026/2027 (Luxembourg: Division 1)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Olympia Christnach/Waldbillig - Jeux 2026/2027 (Luxembourg: Division 1)",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Olympia Christnach/Waldbillig - Games 2026/2027 (Luxembourg: Division 1)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ae91fdcc45809cf2c517651a0da585485810a5bf",
-      "title": "ИИ-прогноз на матч Люксембург до 20 - Болгария 18 июля 2026",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUlvMDQyOV9SODd2WTRydGlmRy11alJTMWxtTEtfNEpadUhTdkxrU0Z2LVFUb0lVcEtLX00yWWdSdFhwTjh5ZFB4eVJuLXhPN0IzOFBxdE9SYjRHeGJGZWp0ZkhJM3BucTZ3UlI3WFU2TkpBLWNFRUtLWHd1dHAzNw?oc=5",
-      "source": "Ставка ТВ",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-18T07:04:43.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "AI Prognosen fir de Match Lëtzebuerg U20 - Bulgarien 18. Juli 2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "KI-Vorhersage für das Spiel Luxemburg U20 - Bulgarien am 18. Juli 2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "AI forecast for the match Luxembourg U20 - Bulgaria July 18, 2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Prévisions AI pour le match Luxembourg U20 - Bulgarie 18 juillet 2026",
           "summary": ""
         }
       }
