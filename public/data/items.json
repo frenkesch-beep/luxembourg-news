@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-08-10T10:37:01.601Z",
+  "generatedAt": "2026-08-10T11:59:37.315Z",
   "items": [
+    {
+      "id": "2a1334310877d386e8240c1979e55a413c00cf10",
+      "title": "Luxembourg July 2026: BMW #1 again, Peugeot, Renault, Kia stand out",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmwwS3hqRDJwY3BEZnRnRWJtLVJWNjVRbmw1Wmc0cnFKZUxoT1UxYmstNlhOT1hDNTVNanZxR0kyajlIWjlXWnQxY1BHR2dxVmVZS2UydzdsY01JX1NVOVVPSEx5MEVCTzRvc3hvV0tLWlVrNEZXNnVfbHNaeC1HbmE5WHFGa05XcS1sY2ZCV3ZfRkU1VFlmQVNQdHNKemd3LVdhOVF3?oc=5",
+      "source": "Best Selling Cars Blog",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-10T11:43:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg July 2026: BMW #1 again, Peugeot, Renault, Kia stand out",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg juillet 2026 : BMW #1 à nouveau, Peugeot, Renault, Kia se démarquent",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg Juli 2026: BMW wieder die Nummer 1, Peugeot, Renault, Kia ragen heraus",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "dbe7587e089cd5a6986201f9728e03d1c7510628",
+      "title": "Quand le Villersois Thibault Maquart et le Revinois Toufik Zeghdane s’affrontent au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRUlVbXlMZFJ6d3RvWGd0YzhYVzREOEhZZVJhdGY1S2hHa2ZWRkExa0Nfd1VYVDhJemZBX1pTcVJkbVk0Sk91Smc1N3hJNUZQMHdIT21pMDB5VEhzUmk1N1BJekpnOHAwdGxvM3dRcEg1bXBqYzhsNkNaMjhvTHhEczdqYmpmaDhEbEN1b2pBNHBEbnNOdXdQV0Nhc3hYaGhWaklqX2xaWkRDX0NjaGJicHhGeElhbmJNdkFlYmRMNFM4N2hzLXFyTi1XdEl5UQ?oc=5",
+      "source": "L'Ardennais",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-10T11:30:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Wann de Villersois Thibault Maquart an de Revinois Toufik Zeghdane sech zu Lëtzebuerg géintenee stellen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Wenn sich Villersois Thibault Maquart und Revinois Toufik Zeghdane in Luxemburg gegenüberstehen",
+          "summary": ""
+        },
+        "en": {
+          "title": "When Villersois Thibault Maquart and Revinois Toufik Zeghdane face each other in Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "84ffaa3d9c46f1978c2af85eff022409f01b0a5e",
       "title": "베트남 축구 국가대표팀이 FIFA 랭킹에서 룩셈부르크를 바짝 추격하고 있다.",
@@ -92,6 +150,35 @@
         },
         "de": {
           "title": "Die vietnamesische Nationalmannschaft rückt in der FIFA-Rangliste näher an Luxemburg heran.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d03c9f12b1b49e7166f0126382af8498f1cc4bf2",
+      "title": "Spritpreise Luxemburg heute: Das kosten Diesel und Benzin am 10. August",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMm1zN1JISUNyeXdGNnhwMGhrQXB2MG9idG1qZmJWUVVKd3FrVW5kbkVjSU5rTFh2eWc3UXNtenBkTVoweDJoSFI2RzJZUmJOSmVYeG9tcGlJR0xWU2RrNEl0MkRBX0lRQWZxWUV1MlRfbEhqZFFoMGNNQkZMNnEzQjAtX2s4WDUwd0cwQnBWZjE3cV9wb1pzTjZWZ1BtdWFCbmFyY2dR?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-10T09:14:58.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Prix ​​des carburants au Luxembourg aujourd'hui : voici ce que coûtent le diesel et l'essence le 10 août",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fuel prices in Luxembourg today: This is what diesel and gasoline cost on August 10th",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffpräisser haut zu Lëtzebuerg: Dat kaschten den Diesel an de Bensin den 10. August",
           "summary": ""
         }
       }
@@ -15839,6 +15926,39 @@
         },
         "fr": {
           "title": "Jeff Feller - Stats au Luxembourg : Division Nationale 2008/2009 : Combien de buts et de passes décisives",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ed1be244f1e87fe96be64e99356713bbb79d1e80",
+      "title": "Galería de Edificio de oficinas Luxemburgo-Kirchberg / Paul Bretz Architectes - 6",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQN0I5NVlYRnh4NFMyNnR2bHR6b0JyQ2xkM1ZQbXlLU1BBaVRUNWVsM3UzQ1pnbC1tVUxfYXR2WmF1Wmp1NzdkOWZNNVFQODFYR0VCS2d0OEc5RERBajJ4Vnl5SGs5MEtvZ3UxVjBtVDVZazRfT3d1RUxUaE8tdUoxajhDX1l0LXFqZVhkeVFTdnhpYWNqMGZiNEZnN2x3dFU4ZEV4OUNJa25OazZ5dU5OcmhrYlpGYXQ1TXNZVjFpRmgxNTQzeTFLQ2lyNm9hSm5uczVwS0tnSjdIeUpqMXVXOEdOeDl5NVg1Nm9VakxXVXljRUozYUtKVFJyMHBCemlkUTRZQW1GQm95YUtpSHB0QWpraDhOaE9XR2dmbw?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-02T07:58:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Workshop Building Gallery Luxembourg-Kirchberg / Paul Bretz Architectes - 6",
+          "summary": ""
+        },
+        "en": {
+          "title": "Workshop Building Gallery Luxembourg-Kirchberg / Paul Bretz Architectes - 6",
+          "summary": ""
+        },
+        "de": {
+          "title": "Werkstattbaugalerie Luxemburg-Kirchberg / Paul Bretz Architectes - 6",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie Bâtiment Atelier Luxembourg-Kirchberg / Paul Bretz Architectes - 6",
           "summary": ""
         }
       }
@@ -46975,134 +47095,6 @@
         },
         "lb": {
           "title": "De Lëtzebuerger Fluchhafen gëtt ëmmer méi en Hub fir Drogen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1b70e1e57928ab059d01446c43838870b4710d24",
-      "title": "Internationaler Drogenhandel: Luxemburger Flughafen wird zunehmend Drehscheibe für Drogen",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWHRuY1VYVkZEaFVBM000QmNuXzEtcnVRVWxVZ09oUFptSXRBRldSRUJRT0JaUWZHSzNCZFlhSVlva3ZGdW5Wck84ajhPWDVQeWV1MlA3ZGl1eVMxbmFyenRYQUZleTJpd3NTeVBjUlhOY0RBajAxeDZsZER1bDFGcWlFeWZuNHJYVGZQUWczWE9XUjZRcHBwaHdoLTNDNzhiOS1oMV9QNDBfdE9lS2tZV21iMnNIZDZxYzZaMUZpZ1V4WlpCTUJadmkwY2daLUlibmx5cU5NU1VPbkVZVXdyZmNfc1BLMFRLUWVydkd1a0lETXV0ME5HNXp5ejk4eVBJRmc?oc=5",
-      "source": "STERN.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-18T02:00:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Internationalen Drogehandel: De Lëtzebuerger Fluchhafen gëtt ëmmer méi en Hub fir Drogen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Trafic international de drogue : l’aéroport de Luxembourg devient de plus en plus une plaque tournante du trafic de drogue",
-          "summary": ""
-        },
-        "en": {
-          "title": "International drug trafficking: Luxembourg airport is increasingly becoming a hub for drugs",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e7be70dd160d04a5be105bff30d256313b6f7f38",
-      "title": "Berbourg fikstürü - Futbol, Lüksemburg",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16MnJlYzVTVTI5QzJRa2xESDlPSU52WlZHRGFzSi1GaW4yNXNlUVNLbUtsVjBRM3o0Z0lmSEhRTWFfajI3LW1BZUcyNDVoNjlSdFo2OTVLNThLTUJ5Q0UtajFjVTZabE5vci0yNGhyU2s3TmVPUm93SEFnUQ?oc=5",
-      "source": "Flashscore.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-07-18T01:29:30.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Berbourg Match - Football, Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Berbourg prochain match - Football, Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Berbourg Spielplan - Fußball, Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Berbourg fixture - Football, Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "54f0b25401f846177223d802197e9ebbbfca38a7",
-      "title": "\"Lüksemburg Kraliyet Ailesi\" için arama sonucu yok. Farklı bir kelime deneyin.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazR0eF9BVGtnQVRjRXJ6cFdNN0xXb0U0angwSF9RUmVuMXlaa3BTTDBqRGNuY2dFakhVT2F5djlCUERQbjNxOENCc2N4SzFkRmhTUm5NUGRHTzZjUk1ZYkNIV2MzYTBoM1RGYzhJRG1qYWs1VnFFb0tUR3FrTjdlU19Yb0huQzRtck8tWllhZ09lLU1QVlE?oc=5",
-      "source": "HT Kulüp",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-07-18T01:22:41.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Et si keng Effnungszäite verfügbar fir \"Royal Family of Luxembourg\". Probéiert en anert Wuert.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Keine Suchergebnisse für „Königliche Familie von Luxemburg“. Versuchen Sie es mit einem anderen Wort.",
-          "summary": ""
-        },
-        "en": {
-          "title": "No search results for \"Royal Family of Luxembourg\". Try a different word.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Aucun résultat de recherche pour “Famille royale du Luxembourg”. Essayez un autre mot.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "14b00a38a2d882cdec12f3a7c1ac83a277e6343d",
-      "title": "盧森堡市的空氣品質",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2dXS3ZoVzNaMmNYM19mWWVCMHVFalZtOXc2dHR1b0VjNGc1YnBWN1Fjd3dwN3pLM2tvQmRnLU1IcFJ3bldITk5PUDl3SlAyZnBHZmxjTS1TcC1wazJzYWpkcnBEMHFzNGlldXA2bHZUZGhCSGJla2lXUUNXTkpiN3VrZnE0cjNz?oc=5",
-      "source": "IQAir",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-18T01:06:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Loftqualitéit vun der Stad Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg City air quality",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luftqualität in Luxemburg-Stadt",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Qualité de l'air de Luxembourg-Ville",
           "summary": ""
         }
       }
