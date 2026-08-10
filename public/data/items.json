@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-10T15:17:18.661Z",
+  "generatedAt": "2026-08-10T16:12:24.517Z",
   "items": [
+    {
+      "id": "bfc22fe1f931081a3a14dc436cc39d7e6e485f96",
+      "title": "At AIS, Luxembourg’s envoy talks diplomacy, finance and diversity",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZnl3X2piUnlqSnU2RmFjdFpnd2g1YzgxdUN2LWJ6b3prSEpSR3d0QlBXUXFtUlhyaElocC1ST04zaGtrSnpaZDZMVHVGeVhrdlJzOUJBN1NaRWwxdEhxcklBVk5HX1pDM2JSeHA4V0M2aXlvX01XckxxT2V2b3QyZXVzZDNCV3I4bXlQTVdNa1ltZw?oc=5",
+      "source": "Washington Diplomat",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-10T15:46:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Bei AIS schwätzt de Lëtzebuerger Envoy iwwer Diplomatie, Finanzen an Diversitéit",
+          "summary": ""
+        },
+        "fr": {
+          "title": "A l’AIS, l’envoyé du Luxembourg parle de diplomatie, de finance et de diversité",
+          "summary": ""
+        },
+        "de": {
+          "title": "Bei AIS spricht der luxemburgische Gesandte über Diplomatie, Finanzen und Vielfalt",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "a13eb4f13a27bbb1f792184dbf7d9d4151c28983",
       "title": "Die vietnamesische Nationalmannschaft rückt in der FIFA-Weltrangliste immer näher an Luxemburg heran.",
@@ -179,6 +208,39 @@
         },
         "en": {
           "title": "When Villersois Thibault Maquart and Revinois Toufik Zeghdane face each other in Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "11b700b642bd8089d6ad3d978cba73d0c86de8b2",
+      "title": "Vietnam milli takımı FIFA sıralamasında Lüksemburg'a yaklaşıyor.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2FydnhyakJMZTQ3dmIyVl9UVmtQRHowWlNZMXUxMEZDS3Z4NTBIRXVUcVRyanhaSDNsaGNpcmJBUWQ1SzkyOUFEbHBvSDFnVEwzeUtGZ3c4Y2Y4SWFfcmdBMHI5YnpPeVdfLW4tMDVvNFhlcFQ2bXc5bjd2UGZyNk5IQ2liUDZkZ3lqQ0ZfUQ?oc=5",
+      "source": "Vietnam.vn",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T11:00:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Déi vietnamesesch Nationalequipe kënnt op Lëtzebuerg am FIFA-Ranking.",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Vietnamese national team is approaching Luxembourg in the FIFA rankings.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die vietnamesische Nationalmannschaft nähert sich in der FIFA-Rangliste Luxemburg an.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'équipe nationale vietnamienne se rapproche du Luxembourg au classement FIFA.",
           "summary": ""
         }
       }
@@ -47044,65 +47106,6 @@
         },
         "fr": {
           "title": "Davantage de découvertes de drogue au Luxembourg : l'aéroport comme point de transit",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ffb7fd6964bc0f4348e48be176402b6d62d204b3",
-      "title": "Hong Kong Overtakes Singapore, Switzerland, Luxembourg, and Dubai, Reinforcing Its Position as the Top Destination for Family Offices, International Investors, Executive Travel, and Long-Term Wealth Planning",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sanpwZEJDXzVJc2NJZ0JFSWNCMU54YVpHeTZMSHFoU2pLdmdfME5uYm9fRzlfUm5EMGVQbG1oWjZHMUhxRXpVdG1uYnA3M1RpOEVuX3hWaG41UjNQUFRUN0k4VnhkUENOb1h6RW1n?oc=5",
-      "source": "Travel And Tour World",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-18T06:29:44.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance",
-        "travel"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Hong Kong dépasse Singapour, la Suisse, le Luxembourg et Dubaï, renforçant ainsi sa position de première destination pour les family offices, les investisseurs internationaux, les voyages de dirigeants et la planification de patrimoine à long terme",
-          "summary": ""
-        },
-        "de": {
-          "title": "Hongkong überholt Singapur, die Schweiz, Luxemburg und Dubai und festigt seine Position als Top-Reiseziel für Family Offices, internationale Investoren, Geschäftsreisen und langfristige Vermögensplanung",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Hong Kong iwwerhëlt Singapur, Schwäiz, Lëtzebuerg an Dubai, verstäerkt seng Positioun als Top Destinatioun fir Familljebüroen, International Investisseuren, Exekutiv Reesen, a laangfristeg Verméigensplanung",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "66a64bc3dac2513e3c66b422fe96d16f769b14a5",
-      "title": "Tanken in Luxemburg heute: So viel kosten Diesel und Benzin am Samstag",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWl9zbFFlam9LcU9tZnp2OHpsbzJubFo2VVY0Z2pyZFlDejdsal82bmtkVlphTzB0NGVNSTlYNG5peFBncEx3eE1BR1dVS2cxSDVTaVRRV1doeVRDVTRDUE1pRXhYejR5UUl2Wlo5OXVCN3BBS0JlZkY3dDJjVktadkdEbjVUSmpLU2diNklsZkV2ZGt6UzJVeHdjUU1pRktvTjV4aktLaFQtSnV3bXBVN3l3?oc=5",
-      "source": "SOL.DE",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-18T06:26:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Refueling in Luxembourg today: This is how much diesel and petrol cost on Saturday",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Faire le plein au Luxembourg aujourd'hui : voici le prix du diesel et de l'essence samedi",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Hei zu Lëtzebuerg haut tanken: Esou kaschten den Diesel an de Bensin e Samschdeg",
           "summary": ""
         }
       }
