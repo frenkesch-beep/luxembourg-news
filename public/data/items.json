@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T16:12:24.517Z",
+  "generatedAt": "2026-08-10T17:09:49.966Z",
   "items": [
     {
       "id": "bfc22fe1f931081a3a14dc436cc39d7e6e485f96",
@@ -7065,6 +7065,39 @@
       }
     },
     {
+      "id": "43067ecfb23e25fb6f69a6ee20ae9d005c4d2cff",
+      "title": "Люксембург спрямував додаткові €8 млн до Фонду підтримки енергетики України",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3pqZlhOS3FQUVpJRWNwZ2xxRzBhMG5kbFRiVl9ubW8xbFhYU0l2endYU0J3SHJtUVVoZ09UVl9OMkNVdmhxdm9IZTlaUlhzVlpLNkxCc29iX0hQTmVEeTBBVk90ci1Vcl9Oa3ZGbEJ1ZDlpa1owUXpic2xTMW5pRjJTLXY0c3hqdkd1NlVsajc3YXczZ19ra2NUNTRsc2ljSXk4Y2ZPQWlZU3ljYnfSAbMBQVVfeXFMTnVuaUZKYk1tTHR2QUI4WmFCVWt5MkhfTzlvVHJOOWRtcnpJXzNCMEpNYk5wWTlFazVydkY0aEtMYlc1YmE2QmxYX0tfQUdMbWpFbGRuU0s1VzE5dmhCcDNGcUtjVlJOTDc2NEtnLUIwWjFnQmhmWVZVZ2RGSjc2dm5CNE1WbVZ0azloX2llWC1XeGZ6LUlxUFg1T3ZHVXRFQ3l0a0t1cFNVdkhGWG5OYndBbnM?oc=5",
+      "source": "Realist.online",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-07T10:23:53.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg a alloué 8 millions d’euros supplémentaires au Fonds de soutien énergétique de l’Ukraine",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg directed an additional €8 million to the Energy Support Fund of Ukraine",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg stellte dem Energieunterstützungsfonds der Ukraine weitere 8 Millionen Euro zur Verfügung",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg huet eng zousätzlech 8 Milliounen Euro un den Energy Support Fund vun der Ukraine geleet",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "e5cc690bd833647d372dd1e9a35de072c1dd2fd3",
       "title": "André Domingues Matias Da Silva — статистика 2026/2027 вища ліга Люксембург",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmRCeUgycV9ycUZtTUdJS3l2Zmx2V2Q0U3Q0OGNSdXRTbVJWYlgwOVNzV0JmVjJVYXJZRUZSOWc4SG91VVpTSlFBenNpRFowaUMxZTZQbjBlSk83c3IwTUU4Ul9pU3FZSDZRenJCXy01SEYtNEJYUG5rXzlkYnBhRzdRWk9uOFhvblZRdm5VQ0o5NmlGb2tBeUs5YS1mbUFwbExUa2hmb1hJd0ZrWG5wYTZjUmt5YTJoVGc?oc=5",
@@ -10440,6 +10473,39 @@
         },
         "fr": {
           "title": "Le Luxembourg étend les alertes de la CRF aux plateformes de trading de cryptomonnaies",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3c569510a8968db50219b74277ec2cf244a27d47",
+      "title": "Люксембург розширює дію попереджень ПФР на криптовалютні біржі",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbWZaYVVEcG5DN1dPWkZtMDZRY2hiVzg3WGE2ZW52VUdIUWY1OW1kUEFhZkRjYXdqY29vQ2pYVFVPVV83NkRpMW9WMlk3NDRZeER2RXRkc0dDQTY4dGlHalYxbDZYZjN2QmNXc2kzSEt2YmhCOXhZODROaGFNMHBibkpVUWZLdlpaTlFLbW1NTndLX1JtZFVVZFk2T2stSFdrV1NZUm9uM0t1Um1NMDN5RVR3RW42RFNVN1ow?oc=5",
+      "source": "Bitcoin News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-05T17:00:33.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg weitet FIU-Warnungen auf Kryptowährungsbörsen aus",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg extends FIU warnings to cryptocurrency exchanges",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg étend les avertissements de la CRF aux échanges de cryptomonnaies",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg verlängert FIU-Warnungen op Krypto-Währungenaustausch",
           "summary": ""
         }
       }
@@ -47043,69 +47109,6 @@
         },
         "de": {
           "title": "Luxemburg gegen Schweden",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f53d9d299ab6584f9eb38de818a9be352f1580a8",
-      "title": "ルクセンブルク 4 - 1 ボスニア・ヘルツェゴビナ：マッチレポート、統計、ラインナップ、H2H",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWtqMTlNVExSUUxYOHFlY0trVnF1WHVFbFFaY3ZZaGN6U0x0bjVhWWdJbHZFZkNsM2tuR21jMkNQTExqdjc4T2dUXzNERUEzdjhwWndjYTU2QWhlcXNrSWM1ZzdSczJOYkRGVm5Ib2UwUjJyT1dCVWg0cDNuZ2NfZ21HOXczVHU3VmFjLUJYMUY3alhwRERWOA?oc=5",
-      "source": "365Scores",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-18T06:38:20.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg 4 - 1 Bosnien an Herzegowina: Bericht vum Match, Statistiken, Opstellung, H2H",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg 4 - 1 Bosnia and Herzegovina: Match report, statistics, lineup, H2H",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg 4 - 1 Bosnien und Herzegowina: Spielbericht, Statistiken, Aufstellung, H2H",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg 4 - 1 Bosnie-Herzégovine : Rapport du match, statistiques, composition, H2H",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5d8e61fe04925b6c6ed67452171818905b9415de",
-      "title": "Mehr Drogenfunde in Luxemburg: Flughafen als Transitpunkt",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHlwUzF4NHpxS05LaXNvMXlLOGw0UlNJcjdLZVJyTmVJOUpBekxTd0JYeVhRNHFvT3FxV0MybkgwVDBjam5QU1YxZTkwNFdNbVZ6LTdnVlU0VFNIM19FZnQxeEczQWlFVDJqSGlQTEdNME53MmlpX05IYVYwV00wQlhyVll3b2RwNUxEMXBHMXBoX0I5LWg1eHVuUGo4Wl9zQmFYVzUyT3RIeF80R3ZONVlB?oc=5",
-      "source": "Wochenblatt Reporter",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-18T06:29:54.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance",
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Méi Drogenentdeckungen zu Lëtzebuerg: Fluchhafen als Transitpunkt",
-          "summary": ""
-        },
-        "en": {
-          "title": "More drug discoveries in Luxembourg: airport as a transit point",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Davantage de découvertes de drogue au Luxembourg : l'aéroport comme point de transit",
           "summary": ""
         }
       }
