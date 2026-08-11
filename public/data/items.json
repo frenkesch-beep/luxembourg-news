@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-08-11T10:13:11.293Z",
+  "generatedAt": "2026-08-11T11:06:28.429Z",
   "items": [
+    {
+      "id": "f67acf15d9279850fcdcd57ad23da7fffd5ef6cc",
+      "title": "Un patient s’échappe d’un hôpital psychiatrique de Metz et s’introduit chez une famille au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSjJ5ZFlPTW92Y1VrQllrUFJKYVNSc0hhbTZhbmpTd01zeUo3a1hmSUpZSHJTSWlMQ3VxWHV5aTk1aVhiZmRkUHdqbml3WGVfMU9NemlvT210dFFBM21kQndhOVZBNTFHSUJCMHBkczlPWmgxS1dhLWpCQWV4TWREbXFXdmNzd29sdFBLVzVJT3hzbmhVdTFwWXlDdnVmN1hRcHdxWmFqSXRsVnVWbDIyZ3BiSU0xRFNjVkNpMENmVDNrcTBFa2tpV3pUZ2VKcnhTSWZrNDl6bWlhTGNFdUN0MGdsaVJDM3BXWEdhMV91WlM4VWw3VWNZeTJvTVFnbC05YVVVRFBSaERYUQ?oc=5",
+      "source": "Ouest-France",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-11T10:51:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "A patient escapes from a psychiatric hospital in Metz and breaks into a family in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein Patient flieht aus einer psychiatrischen Klinik in Metz und bricht bei einer Familie in Luxemburg ein",
+          "summary": ""
+        },
+        "lb": {
+          "title": "E Patient flücht aus engem psychiatresche Spidol zu Metz an brécht an eng Famill zu Lëtzebuerg an",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f3953433f96c4f4cd57a4bab01de9952754e297c",
+      "title": "Falsche Luxemburger Polizisten in Schweich auf frischer Tat ertappt",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTmpHRmdxY0NXT1dEaUlrSVJMRFBUZHJTQXFWZzdhMUk4eVVZbGtSaURjSTlxNDVPOVlhQzgxUW94OF8yaExzQk5hZUhKcWVXSzA5Mlk5QVNaSUtkYU5SV1VLZmxFWk5wMWhQeUttZWZaTlhsN0p5dVR2dVdwLUZPWkJkOWoyWktMZnBKWGNITl9KcXNyUUV4VE1xcTBEbVVsbTZ1SkNKbGZkLW9qdExlbVMyTHhWYnExUzhuQkJqRFFQUQ?oc=5",
+      "source": "SWR",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-11T09:59:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Fake Lëtzebuerger Polizisten zu Schweich op d'Hänn gefaang",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fake Luxembourg police officers caught red-handed in Schweich",
+          "summary": ""
+        },
+        "fr": {
+          "title": "De faux policiers luxembourgeois pris en flagrant délit à Schweich",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "d851fc968c49719d1e2fe2d2f3008664471db3e3",
       "title": "Luxemburg: RTL steigert dank Sky-Übernahme Umsatz",
@@ -10977,6 +11035,39 @@
         },
         "de": {
           "title": "📍Vianden, Luxemburg 🇱🇺 #Reisen #Luxemburg #schöneReiseziele #Europa",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9b35aad30e415fc058cd2859c5e7a267a0ecdaab",
+      "title": "Lüksemburg, FIU Uyarılarını Kripto Borsalarına Genişletiyor",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeTdvMURVeF9EODg2a3l1ZzJxU1Q4ajdUNHlZT3FEZ0QxWjQybDU3dUdWY0djdUs0RTRETXRsdDQtTGhXa2QxR2NfQVJJOUwyT2VyMWxIZzhXeWIyU2dNR2w1amkxZHd0dUdLcmxzYy1ZdU10cDRxNWdKbFUxNmRVUFVmT3IyNDdybndKTWNJSUdHdFlQa2pKaVNsdGROX0l4emlBbS1fd2dncGY5?oc=5",
+      "source": "Bitcoin News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-08-05T17:00:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg étend les avertissements de la CRF aux échanges cryptographiques",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg erweidert FIU Warnungen op Krypto-Austausch",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Expands FIU Warnings to Crypto Exchanges",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg weitet FIU-Warnungen auf Krypto-Börsen aus",
           "summary": ""
         }
       }
@@ -26016,6 +26107,35 @@
         },
         "lb": {
           "title": "Freiburger Studenten zu Lëtzebuerg – Romance Seminar",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fcbfc269ca29c12dfb233537ec6f5da6ccbde816",
+      "title": "Brücke zwischen Ingenieurwesen und Recht – Studis zu Besuch bei Sachverständigem in Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNM0Rja3p4VmlaeVJiVVdUZGliOFJEOGEzNWN2SzN2dUU4bFY0ZmNQM2tnMUhZZzR4M1hLQnkxT0dOVkpnV2RNU0JnSW9aQ19QMXh6WDdwdUVxdHRyMnBpc0xiR0ZsN1lDeDVYaGlBWkVqNGRRejJJbFhFaE9abmZsRnhJTlRMcUdGQjZ1ZHBVXzlPN3IwYjJDNGVNaFVZdlI0bkU3M2g5al9ITy00TXNRNVdHTGdKRHVDZkNRNUpzME9WemJNVnZfbS1SWFR2YVhQa255QUFHYzZIUDdOcVZxTVRjZ1lUVDI2NlhPN1RHQkVJX1RfRjRHWGNUYnk1c0VRQUZOMFFGaHNiQkJ0LXJZNDRpcUdSSzNPOXM5aEduUmdGSmdVRHhN?oc=5",
+      "source": "Hochschule Trier",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-29T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Bridge between engineering and law – students visiting an expert in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Passerelle entre ingénierie et droit – étudiants en visite chez un expert au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Bréck tëscht Ingenieur a Recht - Studenten op Besuch bei engem Expert zu Lëtzebuerg",
           "summary": ""
         }
       }
@@ -46989,138 +47109,6 @@
         },
         "fr": {
           "title": "Statistiques de la 1ère division du Luxembourg 2011/2012",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c869d28b9e2558428d2acd9ca76ebac59ab1faf0",
-      "title": "Статистика 1 дивізіон Люксембургу 2018/2019",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUJGUTJvMjBzc2lhR1l6RHhuYUhickRoemh2ZUV0S3B6b0ppR3k5UHhyOVBJUGh5OHNfbU9YeUNHWml2eEV5M0cwbGZfRmxkX1AtTE9XVDVvMldlcUVIRHhkNWVnbnc5SlN1U2VJQXJWb0pvbmJsdmx3cEYxckYtQnhwYXFXRVg1NDlxWjluSEtvRTFPUV9z?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-18T17:03:04.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Divisioun 1 Statistiken 2018/2019",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Division 1 statistics 2018/2019",
-          "summary": ""
-        },
-        "de": {
-          "title": "Statistik der luxemburgischen Division 1 2018/2019",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Statistiques Division 1 luxembourgeoise 2018/2019",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d2f6080192da9f106caa7f7e9729cdbd8418e56f",
-      "title": "Статистика 1 дивізіон Люксембургу 2017/2018",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1RNTC0wWkZqWWdTRnF0RjhuMHZ1YnBJaGpkNGJWR3hPOWU3d1BKYk82TEpjTzNOX2VIbjYtM2FsNzRPLXJvY1Q4WlBZWEtHVEs1Z1lVWXFaZGlMYjRkQWRhbTd4VTVvUmF3cnBxb1ZKcVVBMTUyRnpoTE1aSjFrVy1mUEZsaTE1bzUzSnJNQmZnakRPNkVJ?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-18T16:58:40.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Statistik der Division 1 Luxemburg 2017/2018",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Division 1 Statistics 2017/2018",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Divisioun 1 Statistiken 2017/2018",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Division 1 luxembourgeoise Statistiques 2017/2018",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e516f1dd19f448118e09508cf9ea0ba22d2bd62c",
-      "title": "Статистика 1 дивізіон Люксембургу 2014/2015",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVm1rQ0ZOSDNRZGNfRHNRTmFQMlUzbV9ob3A5RUh1UEZFTDhVenZPLUVqMlNHWHFNYWhKOXVEeXl5WjAxaFA3X2lxV3pMWjhiTEdaM0dCNGt2Z2s5ckxlQjJsOVZ0d3J5QXlyQUpCR01VdjBDRnhQVnFSRWM4QXVsLU9IQVBaVF9vLU9wTlc2WVo4RHBGT1Ew?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-18T16:42:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Statistike vun der 1. Divisioun Lëtzebuerg 2014/2015",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Statistiques de la 1ère division du Luxembourg 2014/2015",
-          "summary": ""
-        },
-        "de": {
-          "title": "Statistik der 1. Liga von Luxemburg 2014/2015",
-          "summary": ""
-        },
-        "en": {
-          "title": "Statistics of the 1st division of Luxembourg 2014/2015",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f2fabf87305ffb36e8f54e4d1ddddaa5e4d2a0a7",
-      "title": "Статистика 1 дивізіон Люксембургу 2020/2021",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3lHdkVFdVdWaVZtRm5IcE5SeDR1elpPbUZIZ2NhV2d0eFhIRHI0bnhld1h3WkZ1ZXFTZW5abGJYT05vREdmczl5b0ltSXZsNU16aUtFZmQ4a2RNT3ZIekxHaDRfZ1Y4Sy00dGRlOG16ZjhoRmdybEJnMkRndUpFODAwY3ZVc1ZXREVmMlM4OHZkbU9vZ1ln?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-18T16:42:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Divisioun 1 Statistiken 2020/2021",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Division 1 Statistics 2020/2021",
-          "summary": ""
-        },
-        "de": {
-          "title": "Statistik der Division 1 Luxemburg 2020/2021",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg Division 1 Statistiques 2020/2021",
           "summary": ""
         }
       }
