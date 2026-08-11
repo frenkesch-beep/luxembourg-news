@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T09:14:16.308Z",
+  "generatedAt": "2026-08-11T10:13:11.293Z",
   "items": [
     {
       "id": "d851fc968c49719d1e2fe2d2f3008664471db3e3",
@@ -26,6 +26,39 @@
         },
         "fr": {
           "title": "Luxembourg : RTL augmente ses ventes grâce au rachat de Sky",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a568c18707f504f27524bdb4313fa4f4ed6af497",
+      "title": "Λουξεμβούργο: Ένα αντασφαλιστικό θαύμα",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1heHVkck81ZUJmLVdQakdCTmhUbEtsZ1NpdU40RHBRclRaYm9LMU42UmNmZWZsR290c3pfYjVuaWdnRzVBV2RYLU9IOXd6THU0Sm9CeU5wUjZBVkxrLVFBOG5JZXdYcXF3Z1k4THhoZEZONzQ?oc=5",
+      "source": "Insurance World",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-08-11T06:33:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg: Ein Rückversicherungswunder",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : Un miracle de la réassurance",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg: A reinsurance miracle",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg: E Wiederversécherungswonner",
           "summary": ""
         }
       }
@@ -47088,39 +47121,6 @@
         },
         "fr": {
           "title": "Luxembourg Division 1 Statistiques 2020/2021",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a680ca9c5c98d5952677b2a7f6730e6bafa3d2de",
-      "title": "Статистика 1 дивізіон Люксембургу 2013/2014",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmxCM25qRjZ2bVpZWVYtT2tzOVAwc3BnTVhHLXNzNW5DXzZrUXdpZDU1N0p4STlSX2ltVEhGbDdIQUZid2Q1VFRpUno1YVN0YWJHei11VVUzcnRITEg2eFZ6Nzl1UVhQQ25QNkhRY3Q4VUxZMXFvN0VQald1S0F4OUdoYnVfVE5zTHpKTlpHeFVQM2oxWjhF?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-18T16:41:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Statistike vun der 1. Divisioun Lëtzebuerg 2013/2014",
-          "summary": ""
-        },
-        "en": {
-          "title": "Statistics of the 1st division of Luxembourg 2013/2014",
-          "summary": ""
-        },
-        "de": {
-          "title": "Statistik der 1. Liga von Luxemburg 2013/2014",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Statistiques de la 1ère division du Luxembourg 2013/2014",
           "summary": ""
         }
       }
