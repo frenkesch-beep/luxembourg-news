@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-11T19:23:46.238Z",
+  "generatedAt": "2026-08-11T21:05:39.841Z",
   "items": [
+    {
+      "id": "cfd759ff03211bda95f4831693813b25cd63d791",
+      "title": "Omicidio Perrotta: fermati due fratelli residenti in Lussemburgo.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGRQYzdiQVUwTXp1MzRkalJtNVRDa2tsYXA5VFBKMWNQS2FSOEVManRqTEFCdEVsSmxLNy1uMlJkaFJ3ZEVTcS1teFFoYmNQRU9ZcnVsbTdzbi1YTE1lQ2hxamZYVm1vN3BJeEM4VGl3eTk4RFhEUHg4S1BVS1BYLVVMaEFTYWR3aGQzOUwyT3A?oc=5",
+      "source": "calnews.it",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-08-11T18:50:52.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Meurtre Perrotta : deux frères résidant au Luxembourg arrêtés.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Perrotta murder: two brothers resident in Luxembourg arrested.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Mord an Perrotta: Zwei in Luxemburg ansässige Brüder festgenommen.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Perrotta Mord: zwee Bridder, déi zu Lëtzebuerg wunnen, festgeholl.",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "40b608f57792e40c253963a512282c29b3fad919",
       "title": "Il rugbista della nazionale del Lussemburgo e il fisioterapista: chi sono i fratelli Orsino, fermati per l’omicidio di Antonio Perrotta · LaC News24",
@@ -8776,6 +8809,64 @@
         },
         "en": {
           "title": "A330 MRTT in Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "dab2ebcb167adb30e9e0cc9718334e231e84b702",
+      "title": "Rédange, village frontalier du Luxembourg : trajets, services et vie quotidienne",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN0w0UHR2N1oycDFaVzVtcUpJWW1aVWZuOVJ5bEdZb2NiTlJmYUNQTzBzLXJ2V1JtT2M2OV90bmRQbU1PZ2c4VE9UanRNTjF6NW5SMzdIczgxdnhWVmlVN2R1dEN6WVBQQTE2c2RjbXhZb0lMd1pVRHBCYkQ5UUZqd2tlbGVKMTktQWRudjNLVXBFdDFhTzZkYTk1dV9Yd1RPT2pjcUV1N1JnaU14Mnhnc1BWT3ZfZkN2SFd5c1hrM01ZWEhMX21j?oc=5",
+      "source": "Info-lux.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-07T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Rédange, border village of Luxembourg: routes, services and daily life",
+          "summary": ""
+        },
+        "de": {
+          "title": "Rédange, Grenzdorf Luxemburg: Routen, Dienstleistungen und Alltag",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Réiden, Grenzduerf Lëtzebuerg: Strecken, Servicer an Alldag",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e5d7ba1eaeb1e494a2f2f1c83482b8341fda1733",
+      "title": "Évrange, village frontalier du Luxembourg : trajets, services et vie quotidienne",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmFjT0ZlNTljdGEzZmVmOGpodWFuTl8wdExLeGZuT0JLck55MkR1eTZPS2g1MlM2NnV1T3B2VkpiV2hZcUVaTnlyUGdyVW0xSGhKZnZ4STBVcUVTelRBR1pkb2IzdDh1UkxlUjZDVHh6RkZSdUxKTDYyQ0xMeUsyand4V3ZILTVPaldjVFJ0MFhtMFZBOHBrM0UycHM4dGNkc3g1a1FLMVVpVDhWbjVudDdoVVFjVXh2OEZVVw?oc=5",
+      "source": "Info-lux.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-07T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Évrange, Grenzduerf Lëtzebuerg: Reesen, Servicer an Alldag",
+          "summary": ""
+        },
+        "en": {
+          "title": "Évrange, border village of Luxembourg: journeys, services and daily life",
+          "summary": ""
+        },
+        "de": {
+          "title": "Évrange, Grenzdorf Luxemburg: Reisen, Dienstleistungen und Alltag",
           "summary": ""
         }
       }
@@ -47005,105 +47096,6 @@
         },
         "fr": {
           "title": "Projet de loi luxembourgeois sur la facturation électronique B2B pour le déploiement en 2028",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6d43c7af2d5d5d620227bd49c3cfc2846980e743",
-      "title": "Гревенмахер – ігри 2026/2027 (Люксембург: 1 дивізіон)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObWpMZktESlJNT0QwXzhGa0k2OGtFX1FrUHE4X3VhUnJOUDhJZ1FjTnJDd1dsU0RzTTBMbGU0SWpubVI2d19Zc1hac1BDeklxMmROcU9TdEJOeVpVV1Nxd1lWOE12dTZXUDBQUC1OY3ZsWmwtNzJwcWdISWhpdWZUNE03c2IwdkpFREtGOFNzQlZqU0xPTk5USGpR?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-19T08:46:07.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Grevenmacher - Spiele 2026/2027 (Luxemburg: Division 1)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Grevenmacher - Jeux 2026/2027 (Luxembourg: Division 1)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Grevenmacher - Games 2026/2027 (Luxembourg: Division 1)",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gréiwemaacher - Spiller 2026/2027 (Lëtzebuerg: 1 Divisioun)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "95b010e2869e83cc733ae35872822add4875d22c",
-      "title": "Ramy El Houayek alla guida di CACEIS in Lussemburgo come Country Managing Director",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSVB4dlQ0bE5wQlFWVmN2THk1T3gxVUxkbmktLXhnSnRqNmFDOWR4Q2dUZUpLUzMyOWxWTTdETkxpWE5ta3phMkRuMHlsVnIwUnNfWnNIS1FCamNEdUtOMFB4VWtVc0dQeEdsTlZPS055U29TUHBmdVhTWGdGdlEtQ25heFBpUVN1bGNYUm1MUWJEOE96emVzbGFtY01ya1RpTG56UjJHUmh5N1ZteDMxWDZuNEF5NElf?oc=5",
-      "source": "imille.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-19T08:22:44.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Ramy El Houayek féiert CACEIS zu Lëtzebuerg als Country Managing Director",
-          "summary": ""
-        },
-        "en": {
-          "title": "Ramy El Houayek leading CACEIS in Luxembourg as Country Managing Director",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ramy El Houayek leitet CACEIS in Luxemburg als Country Managing Director",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ramy El Houayek dirige CACEIS au Luxembourg en tant que directeur général pays",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "88d486e29f987e7182d87eebad402f78926a36d1",
-      "title": "للحفاظ على الهوية الكوردية في المهجر.. اختتام دورة لتعليم اللغة الأم في لوكسمبورغ",
-      "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxQamFSYXNRQ3h0MlBEcG1rZGZ6NU5XODlJRVZIY0tWN0tsdjNLNF9teWFDNG1rQ1JYS3g2S0xmbS15d0JkUzhIY180Q0RYdWhaUVFNSjFPbEZOR2NnbUs2N1dTTmRPVjZjZ0RhRjUzVjBBX0pob0hndnAxOVowSGlmWmQ4UWVWQm4wZXNkbElmN3pTd3NDUWFFbldLNmNwSzd0REY5bGJGZ3VqNWtCYjFUc2RDZjNpbGpsQTV6di1SN1FMeEVnbWl0RjFTNnpzMERyNEQ2Z3ZVNW41aTFaRHhNQmtkOVRkSWF3NHZvQ3RQa1hBMm4xa2RobllPZHBQUk1lYjVLWUktVUJwSkJ6Ykt5U1lGNFpDN0phWWtaNHV3VlpVZHRsOVlHTlBwdUpCejF5bkEyZVJZQlIxZzNSQTZFRllpb0lpem94LTRrWmlPUWZxd05mdDBfTjZIYW9aZDJSOG9wNEx5YzVYVGxKcmxlQ2tYMzJHUGNjdURCVjZUSVA0eXMyc3d4OUZ1UWxnd21iV0FhcmttZ1FRM1d5aWlGT0J5NmZMY0Q1Z251VHZIMENMUzlLRlN2ZmlmSFRtQmhZNHJjQnJaMmhwdnlJVi1FTWluRmF0NThscjMzdnNsdzBCZHhKSXZKZ2Q0Z0wwVjgwZFJCbkhjLUZ1S1hqMEFYWTJDdldGOWN1R3hjUGV3a3FfWjJhWkhfT1dhTllhVlBzaXNrcm9GWTZoeThfYVIweV80bTZwNDBva2FqYUNEUXdIUVYzaVBVTHhwNE8xc2lKWG1mZ1pjWWUydVI2WmNtN0psdVd1LUlKS1A1MHBxU0lSMExKNmlaUGpIUGMyUDA?oc=5",
-      "source": "Kurdistan24",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-07-19T08:15:29.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Fir déi kurdesch Identitéit an der Diaspora ze erhalen.. Ofschloss vun engem Cours fir d'Mammesprooch zu Lëtzebuerg ze léieren",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Préserver l’identité kurde dans la diaspora. Clôture d’un cours d’enseignement de la langue maternelle au Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Um die kurdische Identität in der Diaspora zu bewahren. Abschluss eines Kurses zum Unterrichten der Muttersprache in Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "To preserve the Kurdish identity in the diaspora.. Concluding a course to teach the mother tongue in Luxembourg",
           "summary": ""
         }
       }
