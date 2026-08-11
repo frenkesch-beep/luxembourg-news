@@ -1,6 +1,93 @@
 {
-  "generatedAt": "2026-08-11T11:57:54.456Z",
+  "generatedAt": "2026-08-11T13:43:25.098Z",
   "items": [
+    {
+      "id": "64a5a2b73a20b1bacd2dc95e1af71950dc7b3953",
+      "title": "Luxembourg’s space BioTech Exobiosphere secures €1 million to find “cures from space”",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0FtY1hmZDc5VjkzN3BmOHdxWEwzMnAycU1waVVlWUpOdnp1WGZqY3l2SWFJUmlBQjQ2a1BFaExMNWFSMXdwbEttdGY0aDc1RTRpTnFfTFdYdUJGTkdTSzFnY1RsLURsaDhxMnJ5LUcwZXhXX1FocjlVbHFURF8taFJOdEJmc3JPQUJVVVRWbFRaYlMwNmNKb2d3M1VURmtLMEtwbHNwRmJWZ1ZpQmFMVll5WlNHTU9DMHJ3?oc=5",
+      "source": "EU-Startups",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-11T12:55:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "fr": {
+          "title": "La société spatiale luxembourgeoise BioTech Exobiosphere obtient 1 million d’euros pour trouver des « remèdes depuis l’espace »",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Lëtzebuerger Weltraum BioTech Exobiosphere séchert 1 Millioun Euro fir \"Kur aus dem Weltraum\" ze fannen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburgs Weltraum-BioTech Exobiosphere sichert sich 1 Million Euro für die Suche nach „Heilmitteln aus dem Weltraum“",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "92c30057cb59a429601119d65c960e27cda15907",
+      "title": "Schock-SMS-Betrug: 36-Jähriger aus Italien nach Luxemburg überstellt",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFVDUmF3YVdER1NSZ29TYlBIQTIwS0syWTEyWElBd0tYTnZOOU94U2hBVkFVVTd1dEY5YTV0ZGtmV0Y3TFNObXZRMlhMV3UzbDF0dF9Gem5KbjdIdW5JN2xLTEsyLUR3YnNEaTVCMEQyempIWkloYUtVNmpzU1MxNnJ4X2V2SHhDdzZrUVVxbEV5M05ZR0gxM1lIUEE?oc=5",
+      "source": "BornCity",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-11T12:31:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Shock SMS scam: 36-year-old from Italy transferred to Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Arnaque choc par SMS : un Italien de 36 ans transféré au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Schock-SMS-Scam: 36 Joer ale Mann aus Italien op Lëtzebuerg transferéiert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "dc457c9ecb456b1b6c7a7fd00217843d6f3113f9",
+      "title": "Weiterer Zukauf: Cinerius greift in Luxemburg zu | Unternehmen | 11.08.2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2EySUVud01wMHNEa3Y4Z0pyNklaM045anJiZlZVWU5tNndCMnhNdS05SnBVWnpGTl95MVNMeEQ4Nnh2bzBad0Zya2lTbFVvTjJTN2Y5dEZiRU5ydEl0U3k1QzBxYXk2RjRqbUZsTTJFazVpNDRGRFR0bV91dl9TLXYybmN3MkpyZlJSeXNvQVFnZXhYNllnaTdYWUF0U1BEbGU0MFRodll2NkQ2RlFCRTlQdkVGZw?oc=5",
+      "source": "FONDS professionell",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-11T11:58:06.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "Further acquisition: Cinerius takes over in Luxembourg | Company | 08/11/2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Weider Acquisitioun: Cinerius iwwerhëlt zu Lëtzebuerg | Firma | 08/11/2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Nouvelle acquisition : Cinerius reprend le Luxembourg | Entreprise | 08/11/2026",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "535223849a1c27afa88e91f11922ccf8c45f6481",
       "title": "health & harmony hub wächst: Pilotprojekt in Luxemburg und neue starke Vertriebspartner",
@@ -84,6 +171,35 @@
         },
         "fr": {
           "title": "De faux policiers luxembourgeois pris en flagrant délit à Schweich",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b46bd12c080dde17e03154acf94a62f27a73640b",
+      "title": "Spritpreise Luxemburg heute: Das kosten Diesel und Benzin am 11. August",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGs1bEphNDdoVlE4dXRGMzMzLUtsY0x0Mkl5bTNSakExcUVCMG95SHJJZ2hRZXFBdEl0N2M5M3dTSVdnN0ZnNU1UTHlIR05FeEswejBsN294SU5CbUZjeVdQRWpPYkdNWi1PMWRFUlI4RG5MRWRQU1lGLXZtV1p0T0ZR?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-11T09:30:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Brennstoffpräisser haut zu Lëtzebuerg: Dat kaschten den Diesel an de Bensin den 11. August",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fuel prices in Luxembourg today: This is what diesel and gasoline cost on August 11th",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​des carburants au Luxembourg aujourd'hui : voici ce que coûtent le diesel et l'essence le 11 août",
           "summary": ""
         }
       }
@@ -11035,6 +11151,39 @@
         },
         "de": {
           "title": "Nachrichten über das Freundschaftsspiel der Nationalmannschaft zwischen Belgien und Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "714ab2b44970662ffe16fbcbaf5a6ff22f8e0afb",
+      "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 26",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPdTBrU09ETkVMZW4tX0lEdUxMUzU5b1hmUVoyUzBLLTU3Y2xNQVU0dXJMd2JabWIwWjczZWJIZzd3RlJGdkdXUUI2VkhzSEVqYmpBdHVVLVY0dGo5NVhZc0NsWHBaOHFIWFE2NlJRNE8tdjVzZXV3SnRLMkdfcmxKTTNmeTZUaHktYkw0M29CS2xFMlV4ZHQycGhLY1Z1VlFwLWpTVFpGd0tZdDFfX3NzbWU2Wktadmphd2picndSdGM4VU1CZGd1ektoRU1Oa2syZzlsbXVueTUtTHJXRFZfdGMyaDRyR1JaSEZRblgxSDIzZXFkRmFVR0RfMlA0Wjd5MzQ2cVJPSV90OW9PeVAwYUh3SDRpZUpZYmExZXRaUWppZFcyUnZaVzRMSzBwQ0lEMmZUd2ZLZ3lmRTJ0RUpYVzBTejVULWwwWFEyRzJ4MkxUOXlDaU1TbVpLUl9PVnZuUUU0OUlCVQ?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-08-05T17:25:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + direction - 26",
+          "summary": ""
+        },
+        "en": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 26",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 26",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ Architektur + Management - 26",
           "summary": ""
         }
       }
@@ -46948,163 +47097,6 @@
         },
         "de": {
           "title": "Kein Sommer-Walkover: RFCU aus Luxemburg stellt MVV einem ernsthaften Praxistest",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b6735ee9c053c710e724470914c733f74e14fb91",
-      "title": "Galeria de La Maison du Savoir - Universidade de Luxemburgo / be baumschlager eberle - 19",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQZHlvcmU4X3R0R29rODN5YlhTYnZXajNoS3FHUThONldlbzV4UGNtWDNBSk12LXpCbFh1UWQtUGJiWWJ3WV9PaGRwUEpVY2ZXbzdOeE12ZTk0RVRoVWdfT3VGQjdmX05mOUVKdWZpc1RnRVRwcUFQem04by1ob0dFMXhJVVgzdjhjN1FneXhpTzk2dGVKSzItaEJWY19Sdk40OVlGRl9uemttaTRJWlcxS1A4X1ZWOEhsTkRFMFVnMVhXZ0pCS0ZDUjNISU9RR055al8tdFVMTlBXMElrUW9qMWstMWN2dF9FQkRfUmpBRFRVQjhIdkRra1lnZGV5RThPVTU2QjE4b0JyNV9nVEQ0RzBzdnJSMHFwV0lERzh4eFRRYTFHYjZVQzY4Wk9ScG9RdXkxNjdXNHV1SVRoNklnRFhPdUdNbUJSeE16ZU02aFFWdWxDSlhPS1Jn?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-18T20:09:58.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 19",
-          "summary": ""
-        },
-        "en": {
-          "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 19",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galeria de La Maison du Savoir – Universität Luxemburg / be baumschlager eberle – 19",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galeria de La Maison du Savoir - Université du Luxembourg / be baumschlager eberle - 19",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "21b0a305ad2b503124694e25cdeb58f0c1fcee90",
-      "title": "EURO6000 locomotive approvate per l’esercizio in Belgio e Lussemburgo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcnlyN3FiaHY0ZWlZMkEwSkVLRDlMVXFsZEVtWEVZZHd5cVBBS2x5U2V0WlFDWGZ4RE1MbGFsTkY3cWk5RnJ0WWZ3bzJrdWdObWhVZThmS1hndUZaX3R1X0pEcl9ERVJUWkUxM1BTNGdBNUxpOWxzVENkYTVSZ0tjVm1qbDFKZ1MxR2dOVkw1ZmJNZTZtNUgyTXVYd05CZDZ3?oc=5",
-      "source": "BestMotori.it",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-18T20:01:20.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "EURO6000 Lokomotive fir Operatioun an der Belsch a Lëtzebuerg guttgeheescht",
-          "summary": ""
-        },
-        "en": {
-          "title": "EURO6000 locomotives approved for operation in Belgium and Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "EURO6000-Lokomotiven, zugelassen für den Betrieb in Belgien und Luxemburg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Locomotives EURO6000 homologuées pour l'exploitation en Belgique et au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "33d763d5fa66fcbd2d3c2de89c1b0e26bb8528f4",
-      "title": "Luxembourg v Moldova - Ranking SF",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSVY0cmRtSkFtT0M3cGRnU3VVOWRQWTdlUlNsWWVZM0pfczVsOHpxWUgwcndHc1ZrdUVLSGd3WFRBWG1oWmZFSGNfQzVpVDFQN3l0OUtROTJ1VUdIdmh5TUE2SWlPd2RmTWtNek1acTJYYkUxTkt2bDNOR1BHLXRfUEMxOEd3YXgzVzVvUW9BNUtSQ3NXUERFLVFRZVVSYmtTbHdTMExuQnl4b09oQ0FZLXJDYmJMY0RORENNYkg2NVBRWk93U3VmbUF3?oc=5",
-      "source": "Rugby Europe",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-18T18:16:16.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg v Moldawien - Ranking SF",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg gegen Moldawien – Rangliste SF",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg v Moldavie - Classement SF",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "88a818b5817a402c39fc0218161a9a64e68dbfa2",
-      "title": "Статистика 1 дивізіон Люксембургу 2024/2025",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRldyNGlPTFNfN1gtbzN1bmV2WkIzU2hqTHdEeGtLbGtMTHYtbW1yTUxSc0Jvdno3OGlEeXF4OEJLSVhiMmtLSldLd0s1YkMyYk1ad3g5NlRIbnBaTTJsMmN2eTZlUzBKNXk5WnV5TGVsT2FMXzhGdzJVb3JUNHJWYTVFcG5ORmlxVXRSa0ZLQTZVMV9Cemcw?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-18T17:33:22.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Divisioun 1 Statistiken 2024/2025",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Division 1 Statistics 2024/2025",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg Division 1 Statistiques 2024/2025",
-          "summary": ""
-        },
-        "de": {
-          "title": "Statistik der Division 1 Luxemburg 2024/2025",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b486a40f56dfd14f1d5efa4d365257142c24fc70",
-      "title": "Luxembourg Quantum Computing Companies 2026: Complete Vendor Guide",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SLUx2Tnc1WmM4dU1xM2xrVE93NDBjUVhZMWVBS2VhTmh6NS1FRTlJT2Jtd3ZjT3B0eEdqQkQwcjYtd3Z6V1ZtQ2JaSTlsQkRpTlhuVXJtSHhLYkR3YjVQSV9lQU1TSlNJbzk2ZEpSUVNxR2lIOXZZ?oc=5",
-      "source": "Quantum Zeitgeist",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-18T17:15:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Entreprises luxembourgeoises d'informatique quantique 2026 : Guide complet des fournisseurs",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Luxembourg Quantum Computing Companies 2026: Komplett Vendor Guide",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburger Quantencomputing-Unternehmen 2026: Vollständiger Anbieterleitfaden",
           "summary": ""
         }
       }
