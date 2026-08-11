@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-11T11:06:28.429Z",
+  "generatedAt": "2026-08-11T11:57:54.456Z",
   "items": [
+    {
+      "id": "535223849a1c27afa88e91f11922ccf8c45f6481",
+      "title": "health & harmony hub wächst: Pilotprojekt in Luxemburg und neue starke Vertriebspartner",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMkVVWkdzeWJHR0tzVFBBLThyYXhWMGRwNjVCOEtHZENIaHZjVlgwQmpxbDUxSFBPTWhiY2Z4OVVISHM2SGItLXFGOEVPLUlmOFR5cE5hekNubHY2a21fbWM0YWppOWJPN0MyTFNmTUlVMlNzVllMT3Q4cXZESnV5ZHJ1cF9FRDVEZ2VhVXBUblRKWFpqSzMyNEVTWUliNUlpcFozZVdKcHZJelV1SkUzUjJoV2d3NTJMY0NWaFdCRGlvSVE?oc=5",
+      "source": "openPR.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-11T11:42:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "health & harmony hub is growing: pilot project in Luxembourg and new strong sales partners",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le hub santé & harmonie s'agrandit : projet pilote au Luxembourg et nouveaux partenaires commerciaux solides",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Health & Harmony Hub wiisst: Pilotprojet zu Lëtzebuerg an nei staark Verkafspartner",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "f67acf15d9279850fcdcd57ad23da7fffd5ef6cc",
       "title": "Un patient s’échappe d’un hôpital psychiatrique de Metz et s’introduit chez une famille au Luxembourg",
@@ -47076,39 +47105,6 @@
         },
         "de": {
           "title": "Luxemburger Quantencomputing-Unternehmen 2026: Vollständiger Anbieterleitfaden",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "12a9cb2e1ab146234048e6902c19bfbcc3077939",
-      "title": "Статистика 1 дивізіон Люксембургу 2011/2012",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQk9tUW1NdFlReWFsNTZrNUdtcHBwMFdWLXJyMEZ5elQ5VWw4bTVmS2cxRTQwVjZ4Qm9TTFN4UWV6SzJ5Ym9RbWk2WGp5ZEYyRjZoTVVSZHVQbjJFWUtNSk5ZVjJJdFR5QmVKZGpYeXh1Nnh6MENZQ0FVWGdBWllxRUlUcW9vYjJwZmlja1ZQMFpiOVJQUXU0?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-18T17:03:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Statistike vun der 1. Divisioun Lëtzebuerg 2011/2012",
-          "summary": ""
-        },
-        "de": {
-          "title": "Statistik der 1. Liga von Luxemburg 2011/2012",
-          "summary": ""
-        },
-        "en": {
-          "title": "Statistics of the 1st division of Luxembourg 2011/2012",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Statistiques de la 1ère division du Luxembourg 2011/2012",
           "summary": ""
         }
       }
