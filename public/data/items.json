@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T17:13:35.115Z",
+  "generatedAt": "2026-08-12T18:08:25.842Z",
   "items": [
     {
       "id": "2dca749f938785b732ce5f212830c13ecdfaa01c",
@@ -117,6 +117,35 @@
         },
         "lb": {
           "title": "En drëtte grousse Brand amgaangen un der Sortie vu Marche-en-Famenne: en däischteren Nomëtteg fir d'Pompjeeën aus der Lëtzebuerger Noutzone",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "68ddf88f1e0d1be155cae40e06fc7355a0070499",
+      "title": "Luxemburg: Zugriff mit Hubschrauberunterstützung – Polizei nimmt Einbrecher-Duo fest",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHZZRjlENm51R0MwQ1dpREdHNGlsN0YwR0hpUldmNWx6dWN0UV9RQjhMMExuTlhpRW5McFlzUFpiUXpiTGgwOWEzRzdxWUVmYmZvWko2VUpzUGZlMFNJdE9LWDE3X2lOZjVwMUYwNFZhVm9TQXYwaGZabE5QQm5Hc3lBSjlQRFg3SXpjb09nWDc3RmdJMW96UlJ3cUZiQVVsamZuRFgxQ19yZGNpQnpFQUNILWV0cDQ?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-12T14:40:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg: Access with helicopter support – police arrest duo of burglars",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg: Accès mat Helikopter-Ënnerstëtzung - Police verhaft Duo Abriecher",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : Accès avec appui héliporté – la police arrête deux cambrioleurs",
           "summary": ""
         }
       }
@@ -47075,35 +47104,6 @@
         },
         "de": {
           "title": "Galerie von UNStudio entwirft Hybridgebäude in Luxemburg aus 100 % recyceltem Stahl – 4",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1da35382424c8329a0370a39274fdf618af82fb8",
-      "title": "Renouvellement de voies, investissements : les annonces de la SNCF pour la ligne Nancy-Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZVJPcU1yNWhya1JHRHlTNi1tY0tBMG13ZE43Y1ZMdUxnVlBjLUhSZGJkbzI3b3VvZ2dHRWg1WkFDWXlNRG5jTl9oWmVWZ1FQRUwtTlhnLXdBY0Mwa0NPS0RBeXFWdDRBNDZScWJhUk12emg3ckM0eEU0Y3NSSUQ1alJ1V3pJaTdHbklvSDhLVjdnQmkxa29UNTRtekFNazAtWjFhajFyLUQzbE9LZmQtLXRCY20?oc=5",
-      "source": "Moselle TV",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-20T07:30:05.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "en": {
-          "title": "Track renewal, investments: SNCF announcements for the Nancy-Luxembourg line",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Streck Erneierung, Investitiounen: SNCF Ukënnegung fir d'Streck Nanzeg-Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Gleiserneuerung, Investitionen: SNCF-Ankündigungen für die Strecke Nancy-Luxemburg",
           "summary": ""
         }
       }
