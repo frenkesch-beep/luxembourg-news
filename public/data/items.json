@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T21:04:12.068Z",
+  "generatedAt": "2026-08-12T22:03:15.229Z",
   "items": [
     {
       "id": "a64d40c1c2863aa230113c97ccd504118d0c988d",
@@ -63,6 +63,39 @@
         },
         "lb": {
           "title": "Lëtzebuerg, Kandidat fir de Senat, deklaréiert „bescheiden“ Verméigen am Verglach zum fréiere Feind",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d3c817b7cc9c11ff4459d1cbeff1f5c883429277",
+      "title": "Com Dimas e Luxemburgo candidatos pelo Podemos, Carlos Amastha declara apoio a Gaguim para o Senado",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ0JxcDBmUWZTTzh3X21lWTMyYjVfaDFVemlqbXlhUkRFaEVuYUN5MGttOXRqSUdZUHFoX3h5LXQwSFF6ekIyOFI3SjROV0R3ZTNNRThydG1xRGdIU0JhOTdOZTVfbm15N00wdW5VejJQeEd4Y0VGbUtpX3NvWC1LOFlVYUZnUEREdUFFU2ZXWmhpNlM5akVEcXc1dVNvQ1lQV3NWcnh4d1djR2ZRUVh4RkFwQkJVdENOWDZvSUxVTld5eEFkdzdRcERnbjlYQTRmR3c?oc=5",
+      "source": "Cleber Toledo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-08-12T17:28:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Mat Dimas a Lëtzebuerger Kandidate fir Podemos erklärt de Carlos Amastha Ënnerstëtzung fir Gaguim fir de Senat",
+          "summary": ""
+        },
+        "en": {
+          "title": "With Dimas and Luxemburgo candidates for Podemos, Carlos Amastha declares support for Gaguim for the Senate",
+          "summary": ""
+        },
+        "de": {
+          "title": "Während Dimas und Luxemburgo für Podemos kandidieren, erklärt Carlos Amastha seine Unterstützung für Gaguim für den Senat",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Avec Dimas et Luxemburgo candidats à Podemos, Carlos Amastha déclare son soutien à Gaguim pour le Sénat",
           "summary": ""
         }
       }
@@ -47075,39 +47108,6 @@
         },
         "de": {
           "title": "Saint Levant bringt mit der AFANDI World Tour vier Shows in die Niederlande, nach Belgien und Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "89582086322701de37c806842a5eb9673a062780",
-      "title": "普徠仕(盧森堡)系列基金修訂基金公開說明書相關事宜",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWF3dTRUTXlLaUZoNHYwU3VQOTZiWWdxdnRqeE1jaGxNdjhyRGZmU1poYWRMSmhlZ2NDVkk0dG92LWI1VFJ2WS1iUFdqY2lLUlI3WXp1MW1oQXU3SGZVN3U3T0lSNlN4T0N1VGZ1SlBRclZDY3NDY1NhTktuTEtva3A3R3ZYTFVFZ3dSRmF0eVNfblc4U2hsNkp6aUxSWW1qbEE2RWhoUGVVQzQ?oc=5",
-      "source": "ezfunds.com.tw",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-20T08:05:16.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Angelegenheiten im Zusammenhang mit der Überarbeitung des Fondsoffenlegungsprospekts der Fonds der Prolux (Luxembourg)-Serie",
-          "summary": ""
-        },
-        "en": {
-          "title": "Matters related to the revision of the fund disclosure prospectus of the Prolux (Luxembourg) series funds",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Themen am Zesummenhang mat der Revisioun vum Fonds Disclosure Prospectus vun de Prolux (Luxembourg) Serie Fongen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Questions liées à la révision du prospectus d'information des fonds de la série Prolux (Luxembourg)",
           "summary": ""
         }
       }
