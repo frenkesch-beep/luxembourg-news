@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-08-12T16:11:56.365Z",
+  "generatedAt": "2026-08-12T17:13:35.115Z",
   "items": [
+    {
+      "id": "2dca749f938785b732ce5f212830c13ecdfaa01c",
+      "title": "Luxembourg Fest turns 40",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RRU1jM0hVcDRxOEllaVl5MXJpbnRzcXU0a0NYN0xVOGRCUUJ5SkEtVVRMdldMRXJpX244SU1oVWt4NzhaSXNfVGZ0R2N4M0NtMERWTHZqOHpHa2lZdk9oazhkZEdEZmhicWVQdw?oc=5",
+      "source": "Ozaukee Press",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-12T17:03:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg Fest turns 40",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das Luxembourg Fest wird 40",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg Fest fête ses 40 ans",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0a6f8f0d4bcdd944592083187d19d46380268a42",
+      "title": "Luxembourg Tenor Venant Arend has Died, Aged 91",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmpQVHJnbWdpRFZmTTVMNWdaaXJKTkpxa3NSaHZiaHkzMERsazZIc21QQlptemNYQ01pcnFMRll2aE50cWpLLUpmTkFHY3lGS3ZzQ0JFa1V3enpWV2ZIencxTzZwNnVfQ05SOGp5RHBXUkJyUG5taEQtTVNwdnZUeU9R?oc=5",
+      "source": "The Violin Channel",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-12T16:47:11.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Lëtzebuerger Tenor Venant Arend ass am Alter vun 91 Joer gestuerwen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le ténor luxembourgeois Venant Arend est décédé à l'âge de 91 ans",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der luxemburgische Tenor Venant Arend ist im Alter von 91 Jahren gestorben",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "584141d7e0f7602a11128212bb799691331278b0",
       "title": "Candidato ao Senado, Luxemburgo declara patrimônio de R$ 3,7 milhões",
@@ -7250,6 +7308,39 @@
         },
         "lb": {
           "title": "Ukraine vs Lëtzebuerg - Klass. Spiller 13-16 - FIBA ​​U18 Damen EuroBasket 2026, Divisioun B",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "77fb3d958b2d752e7a98a09f0a4cf2727af607d1",
+      "title": "卢森堡副首相访问新加坡 出席卢森堡驻新加坡大使馆揭幕仪式",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkRrM3JvMF82ZFNIWVJNRkU0VnFiaVBHUkVNcWRTR3NGR0NWM0xnVnlGdHktWFBiTWhnOGxDRlp4cWs0RjJHMklJYXdWcnNmMlludXdrYUFjaTlmdWFMUC1MalBHMndhV1Q5QVBSZ0VuNTlncHM5d0RERHNKRHJRMnhteEFJZlk?oc=5",
+      "source": "华人头条",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-07T20:24:20.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Vice-Premier Ministre luxembourgeois s'est rendu à Singapour et a assisté à la cérémonie d'ouverture de l'Ambassade du Luxembourg à Singapour",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg’s Deputy Prime Minister visited Singapore and attended the opening ceremony of the Luxembourg Embassy in Singapore",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der stellvertretende Premierminister Luxemburgs besuchte Singapur und nahm an der Eröffnungszeremonie der luxemburgischen Botschaft in Singapur teil",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Lëtzebuerger Vizepremier huet Singapur besicht an op der Ouvertureszeremonie vun der Lëtzebuerger Ambassade zu Singapur deelgeholl",
           "summary": ""
         }
       }
@@ -47013,101 +47104,6 @@
         },
         "de": {
           "title": "Gleiserneuerung, Investitionen: SNCF-Ankündigungen für die Strecke Nancy-Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4820c2ee630f45c798ebc28c8a793f98bbb08717",
-      "title": "Gemeindepartnerschaft seit 40 Jahren: Feuerwehrjugend aus Luxemburg zu Gast in Vöcklamarkt",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamNldXNhNmdjTVpBbXE5SzJmc09zeEF0QW4wc2NiRGFFcGZwT0RCWmtJRFBqeHhCYzBlbTV0cVlXSzR1WW82aE9pYTJ4bksySGREakhaT3BVeTlrek9QeDdfRHN0ZXZSdEIyMWk0RjFxRmVvX0ZTMF9rRWV4VVBSOGdwVk9SZ1BxYzhSQWhLRDgwelhzLXVDaWdCNF9IcW9HOFJZNVUyRmRkRjZlZ0Q3Ng?oc=5",
-      "source": "MeinBezirk.at",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-20T07:26:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Gemengepartnerschaft säit 40 Joer: Jugendpompjeeën aus Lëtzebuerg besichen de Vöcklamarkt",
-          "summary": ""
-        },
-        "en": {
-          "title": "Community partnership for 40 years: Youth firefighters from Luxembourg visit Vöcklamarkt",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Partenariat communautaire depuis 40 ans : de jeunes pompiers luxembourgeois visitent le Vöcklamarkt",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ec33ee34fd6ee474312a97d5d281efa83842fc5d",
-      "title": "Didi Dinart nuevo Seleccionador Masculino de Luxemburgo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmxWcDgtb21nSDc2b3VicXgtUEVscC1QOWtwUTd4MjUxUTljaTd1Y0tJbC0yQjJ6YUtpQ184MHBYdVJ5VmItR3lQTjBnMlk2dDZWOENPR3NLRjNwRDlwVFVDaUREYU4tZXJyOGdpMlMtT2h4ZXJkbDBCRG5tdDhfdzM1bUI2czdyWmI5VGUwVkZOdWd1VXBuTENVMUpkUTNnWUtJ?oc=5",
-      "source": "COPE",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-20T07:14:34.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "de": {
-          "title": "Didi Dinart neuer luxemburgischer Herrentrainer",
-          "summary": ""
-        },
-        "en": {
-          "title": "Didi Dinart new Luxembourg Men's Coach",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Didi Dinart neie Lëtzebuerger Hären Trainer",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Didi Dinart nouvel entraîneur luxembourgeois masculin",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7ef20c5f618b06d033a3f94f0785097983d2f462",
-      "title": "Galeria de UNStudio projeta edifício híbrido em Luxemburgo com pegada de carbono reduzida - 5",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNYzItdGFWSU5lLWF2TTJfN1U3NVdZQ3VOXzFWWWxLcnVWMWRHUGNSOHRDQlMxbWZYLTdDWFVKRHh6U3hIYUJoUjlXMlpJcURyX2xjQ0JpN2h2UlhYM1FDcE9oZHJKWjJiUEp1VFZkZW9lekNteWNDVW9zVDBhTDlzVjNJN25VMDFRUU9KODM5ZlM4WlNDVXNGWnpfckZ0bzJqdW5FS29iVlFKWFRKRWtzc2pIOGVYeHc2Y3FUSXc5dFJ2TDhpT2oxaXIwWnJ6Z25QNVJObzhiSDl3aFJuVDhPaGM5aVhmUlNEMzFyOEp5dTZKZnpFaktRa1oyUko5cnZReGd1MjBGdUVtdlFMZEk0QzlPaThFOWdjbEoxckZfbmpteDRtb1FRN0tSelgyUkRMbmdYXzRUMVU1cno1eFVDWld4dkc1Tmc?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-20T07:13:31.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "UNStudio Gallery designt Hybridgebai zu Lëtzebuerg mat reduzéierte Kuelestoffofdrock - 5",
-          "summary": ""
-        },
-        "en": {
-          "title": "UNStudio Gallery designs hybrid building in Luxembourg with reduced carbon footprint - 5",
-          "summary": ""
-        },
-        "de": {
-          "title": "UNStudio Gallery entwirft Hybridgebäude in Luxemburg mit reduziertem CO2-Fußabdruck – 5",
-          "summary": ""
-        },
-        "fr": {
-          "title": "UNStudio Gallery conçoit un bâtiment hybride au Luxembourg avec une empreinte carbone réduite - 5",
           "summary": ""
         }
       }
