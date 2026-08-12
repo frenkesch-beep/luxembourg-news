@@ -1,6 +1,93 @@
 {
-  "generatedAt": "2026-08-12T13:48:28.977Z",
+  "generatedAt": "2026-08-12T15:15:10.466Z",
   "items": [
+    {
+      "id": "22e93b34c1a3461b63e32eb9894db80fd741d39a",
+      "title": "Un troisième gros incendie en cours à la sortie de Marche-en-Famenne : un après-midi noir pour les pompiers de la zone de secours Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOZkR5eVNHZkpjT2JVcGx4SlZFSkVHWmhkejF1VkkzVGxrc3gzWTJBb0phR1JmRldOTndUZEtvWDJDNS1vZ1B5dGd0UFNvQzRRQ25EVjVMVTZvVHFCdFpaaTF6eFZ3Y3VyOEwyTjAxU3RFN3IwOFpCSk9yeGhSMXdic3phMzc4YmdHUGZqTURJa245QnJHTHJDRzRiVnNDTGxaaGx1cHl1UW53S3ViU2lwcmdGZXVxQjYtMTg0NWhfTV9MODBCQW9aZWoxYXpFU3cwQUF3bG1rZW5rUTgtZVhCa2xXZEtWTU9DWk4zQnluel95ZXdRQ0UzYTBORGpsNldxaFJvTlFMclpDYk1qa1ZDeXlYQkdKNEdpd0Q0ZjVucUtDaFQzM24wMjl1RnJ2c2lXMWlqVE5pWkN4c1g3dUpwYw?oc=5",
+      "source": "DHnet",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-12T14:43:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "A third big fire in progress at the exit of Marche-en-Famenne: a dark afternoon for the firefighters of the Luxembourg emergency zone",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein dritter Großbrand am Ortsausgang von Marche-en-Famenne: ein dunkler Nachmittag für die Feuerwehrleute der Notstandszone Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "En drëtte grousse Brand amgaangen un der Sortie vu Marche-en-Famenne: en däischteren Nomëtteg fir d'Pompjeeën aus der Lëtzebuerger Noutzone",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "63c9433963cc67f5ba55bfb2fa3414932c9ead3f",
+      "title": "Luxembourg. 213 000 €, un jackpot record pour un Français au Casino 2000 de Mondorf-les-Bains",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObjZQZWZpMXRiV1B5NHBsWnlUdlY3TUJ3aE1KOThvcDd1TE1EODZ2U1NOblBDMi1KNEpOWjQzQjhrRkFrTFBsaU5HcVVJeENKUmdac2hqQmdIT1hZazdqUmdWaHJ2RzVnUUtJWldidVFnRDliWU1iNURvcW5IMFlyOUhtLTg5TXlzQTBfNmQwdkJPQTBlT0FrbzhIODhDLWZ5ODEwTzNBNGJiWmZ6eXJYWnNETG9MdUs4Wi1KOUpHRDRWcUNnMXh2RmpUMGFYMjloQzBuWmo1TQ?oc=5",
+      "source": "Le Republicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-12T14:33:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg. 213 000 €, un jackpot record pour un Français au Casino 2000 de Mondorf-les-Bains",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg. €213,000, a jackpot record for a Frenchman at Casino 2000 in Mondorf-les-Bains",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg. 213.000 €, ein Jackpot-Rekord für einen Franzosen im Casino 2000 in Mondorf-les-Bains",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "1f93fc875caceef36d1b44ce7044db4c10379f17",
+      "title": "Luxemburg: Kostenloser Nahverkehr",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjllS280SXN3RTV1N1l4dVlRWUl1a0VCV2Z1VWtLZ1pqTE5WSWVuRzZXZHRSVlhNemNoVWN6dVFUN0lydTFNdWVQV0ItcG5FSHdNdkJWZnFRMlFWNHhIZWtyQzh2RkdycWV1U0ZSYkRVak4zQlQ1TFNZVXhObDFUbVRYTGRMdlRqaTB1VHV4MXo?oc=5",
+      "source": "ZDFheute",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg: Free public transport",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : Transports publics gratuits",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg: Gratis ëffentlechen Transport",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "06e3ae59f46239219e4742c2a0c93b6660e5b17a",
       "title": "Spotify verhoogt Premium-prijzen in Nederland, België en Luxemburg",
@@ -63,6 +150,35 @@
         },
         "lb": {
           "title": "BIS 2030 GËTT LËTZEBUERG EEN VUN DE SCHNËLLT wuesse Verteidegungstechnologiemäert an Europa",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "670b0020921b4e18139f27f42c3978116f096d81",
+      "title": "Luxemburg übergibt Betrüger und Fälscher (37) an Bundespolizei Trier",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGQtRzhDZjJxNUNkQjFqUEtsNEtFa21YSHhKdkRDRTIwbnlZa3JiTlZfaEJZTUlLNjNCSEMzQ1R3M0ZJbjZIREpIUXRiaWNGVFhhQVNWR1N1UkVGdm5VbHlXT3RQem55ZDN1eEJXSjZNc3pDYi1aSVB5ZFFHeno1OTVHOWV1d2VQY1ZaT3BxZWUzWW9jeWY3N054enNOZDVlMkMzRHhR?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-12T09:59:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg remet un fraudeur et un contrefacteur (37 ans) à la police fédérale de Trèves",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg hands over fraudster and counterfeiter (37) to Trier Federal Police",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg iwwerreecht Bedrucher a Fälscher (37) der Tréierer Bundespolizei",
           "summary": ""
         }
       }
@@ -988,6 +1104,39 @@
         },
         "lb": {
           "title": "Schock-SMS-Scam: 36 Joer ale Mann aus Italien op Lëtzebuerg transferéiert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b0e83127da79f5628a5a43765e6b1c0f5fc4542a",
+      "title": "Люксембург - Травмы игроков - Лига наций УЕФА 2026/2028 - Футбол",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNE9ERmpnSDNnN2pqU1lpc1BuSHcyZUFDd3BTYVBGa2ZfY2UzWl8tODZNbk9kaHdVYk1zY2ZKWlFYN0NseHF4ZVMtMENFTkt2bXBjZDVXZUhBaFdKUHk4bndOcU5GTVF0RzlPTG5QSl9USFJ5dWgyNDNrT0ZPeVdaVFhWelBEWUVTX3hJMlUxRQ?oc=5",
+      "source": "championat.ru",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-11T12:26:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Luxembourg - Blessures de joueurs - UEFA Nations League 2026/2028 - Football",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg - Spielerverletzungen - UEFA Nations League 2026/2028 - Fußball",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Player injuries - UEFA Nations League 2026/2028 - Football",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Spillerverletzungen - UEFA Nations League 2026/2028 - Fussball",
           "summary": ""
         }
       }
@@ -46951,159 +47100,6 @@
         },
         "fr": {
           "title": "Trieste, autorité portuaire luxembourgeoise pour renforcer l'axe ferroviaire",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7f78e07dcbe0dd92f5e6da18200c7d2549d7db19",
-      "title": "Guinguette, parade et bal rétro : la Fête de Paris revient gratuitement les 12 et 13 septembre au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMDkweVRZUWc2SkVDdGg3V192X1k1VS00NEV5QThDcVBvcUtibFU0Ujdjb2xUS3ZIQmxnUnNhd3JRQkZKLWZ6bWxUblNhcGc2SUtnZzJZaXpwaHFDcXZFUnhwbWhoc1hLWFk1QzE4N1N2RVlFREZZbUV0SjhONjJtNS1wZWtDcXZmQ2lwQkI5ZVlQcl94ZVpYR3hUeUJQZ0tvNVVvVEt0QXRZZDFNOGlMSzVpb09xTXdrZjlGdVlqQkIxSlo2NWJpUEZZMF9jNDZJQzItdHJ1YVA5UTdCeEphVzlQaw?oc=5",
-      "source": "Paris Select Book",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-20T06:08:25.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Guinguette, Parade a Retrobal: D'Fête de Paris kënnt den 12. an 13. September gratis zu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Guinguette, parade and retro ball: the Fête de Paris returns for free on September 12 and 13 in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Guinguette, Parade und Retro-Ball: Die Fête de Paris kehrt am 12. und 13. September in Luxemburg kostenlos zurück",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "884872b356cd6d105c5ad2990bf7a926732cb4f0",
-      "title": "Lüksemburg’da Kürtçe dil eğitimi alan çocuklar sertifikalarını aldı",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX29JX3lXY2Q0Um5lTXBJeW9sWnpqcHg0Ujk5cG1RVWF0S2lEcDh5NUdBV3RyUkt6Skh2VnBwdWo4bFUzM1IxdnMwSnNXRmJfUnB2a1lkZ3hiSkQtd3JwbU5icUpQUUlCaEF2Z2t1RnJFV3NPaEdLaF9xMi05cXJNTDJjdERidWh6WjFoeU8wbERuMldDeVlCdWdkY3RxVDhSWkczWnZQNy1YM0JrQXlxTkpJTlFmNUJueE8yNHg1X1NVMlU3SE5FWUM2NExTcHVkNUdYbVVsTUtDWWthdFluSTR1Q2s?oc=5",
-      "source": "Kurdistan24",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-07-20T05:20:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Kanner, déi kurdesch Sproochebildung zu Lëtzebuerg kréien, kruten hir Certificaten",
-          "summary": ""
-        },
-        "en": {
-          "title": "Children receiving Kurdish language education in Luxembourg received their certificates",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les enfants recevant un enseignement en langue kurde au Luxembourg ont reçu leurs certificats",
-          "summary": ""
-        },
-        "de": {
-          "title": "Kinder, die in Luxemburg Kurdischunterricht erhielten, erhielten ihre Zertifikate",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b49dfe180943cc2ba7ded1d537640fc5869aec94",
-      "title": "Tanken in Luxemburg heute: So viel kosten Diesel und Benzin am Montag",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlUwdHlRdkNyYkxGdXN0dzl4UWFqN3daMUJnM01LS0RTWFNvNHVmOE9GNjlGLXRoU1lxbnJsSVJpbFRiS3ZKUDVNeFVUQU9JRmVySGJwaU5VbHFRVER4OUdnUEZIb3MtcHEyS19UYUtfV1gwWm5hTHFzVVlMQnNaZ1RFQmt3VF9pZ1BnekVmM3dRUEZvNmhIWjBrTTF2eVpicm9oSE4xTlJsdFNKcmYyTA?oc=5",
-      "source": "SOL.DE",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-20T05:19:55.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Filling up in Luxembourg today: This is how much diesel and gasoline cost on Monday",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Faire le plein au Luxembourg aujourd'hui : voici le prix du diesel et de l'essence lundi",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Fëllt haut zu Lëtzebuerg: Esou vill kaschten Diesel a Benzin um Méindeg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "889b0019c1abfbeaa663745799f3be6ccc98b17c",
-      "title": "Nejzadluženější firmy Evropy? Lucembursko vede, skutečné riziko se skrývá ve Francii",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQci1SNDFjZXJHTmlGSWtscF9FeEQwbTQ4eThsQ0xtRUhpVkV0d0RrN2RPMzlZci1jVUNvaGt5TDJzQlJ3Vm9ZZEd5NVg1TU5CMUxSdHdubG5Eck5sZkdpa1FPQWVhbWkxcVF6b3ZWMUZVNnU4dkd2ZTlwamNpNmo1dVFZYXlHU01pckZrTmxJRFUzNVBmU25GXzQ0QjVZUQ?oc=5",
-      "source": "Hrot24.cz",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-07-20T04:59:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die am höchsten verschuldeten Unternehmen Europas? Luxemburg führt, das eigentliche Risiko liegt in Frankreich",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Déi schëllegste Firmen an Europa? Lëtzebuerg féiert, de reelle Risiko läit a Frankräich",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les entreprises les plus endettées d’Europe ? Le Luxembourg en tête, le vrai risque est en France",
-          "summary": ""
-        },
-        "en": {
-          "title": "The most indebted companies in Europe? Luxembourg leads, the real risk lies in France",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "baa43b0a7add7c372b6f34bb0f91aaca946be751",
-      "title": "Arbeitsmarkt im Großherzogtum: Top-Jobs in Luxemburg: Welche Arbeitgeber für Grenzgänger attraktiv sind",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iZ0pzSWNBSWh6dEdyVEhJWWlMR3I3UGNPSGJnaHV2SHpKZUxjQzlWOXRuaUFBcDNSdkZLOUpWTXZheExVd1hXN3kza3V0emljSmMzZnF2N2VieG00S2gzLUtkVGlBUjNwU0h0dVRxTGNQVjg5OVIxaDVsV0Q2ZzcxTnJ4V1lKNDFvRnhvUElVSEdpek9aX1NLd2NIYjVQWVE1ZU51eURzRWk1OEgwZXBEV2NMMnRuQmhWZ01sa1dkZw?oc=5",
-      "source": "Volksfreund",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-20T04:15:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "economy"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Aarbechtsmaart am Grand-Duché: Top Aarbechtsplazen zu Lëtzebuerg: Wéi eng Patronen sinn attraktiv fir Grenzpendler",
-          "summary": ""
-        },
-        "en": {
-          "title": "Labor market in the Grand Duchy: Top jobs in Luxembourg: Which employers are attractive for cross-border commuters",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Marché du travail au Grand-Duché : Les meilleurs emplois au Luxembourg : Quels employeurs sont attractifs pour les frontaliers",
           "summary": ""
         }
       }
