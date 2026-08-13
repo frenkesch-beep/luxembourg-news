@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-13T06:45:54.299Z",
+  "generatedAt": "2026-08-13T08:43:55.042Z",
   "items": [
+    {
+      "id": "a7a37798997dbdc426f5318e14ee8d7f5fc6bb39",
+      "title": "«Новый Лукаку» из Люксембурга. Кто такой Брайан Маджо?",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdG9XUjI3WTZ1UVYyaFZfY045VDlITmhPM193VFZBTV9lYUk4ZXRzS0hDYjc0eDZIV2s2YmhaVjRMY3k2Tm5aZ0VlVEVxVzBubzd3N09aT3pmTkNwYUR4LXZCNTJLbWYxUk9OcFVsckVab3NNd1ZLeG5ITHZ4UkRTZ1VYLVFFdE80QndEdTJEOA?oc=5",
+      "source": "prosports.kz",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-13T06:36:12.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "\"New Lukaku\" vu Lëtzebuerg. Wien ass de Brian Maggio?",
+          "summary": ""
+        },
+        "de": {
+          "title": "„Neues Lukaku“ aus Luxemburg. Wer ist Brian Maggio?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "\"Nouveau Lukaku\" du Luxembourg. Qui est Brian Maggio?",
+          "summary": ""
+        },
+        "en": {
+          "title": "\"New Lukaku\" from Luxembourg. Who is Brian Maggio?",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "9b0cf5f444b24d29124f799da8870e730bcb893c",
       "title": "EU says regulators may accept prospectus transfers in consecutive years, raising issue of Luxembourg’s stance on Israeli bonds",
@@ -47114,39 +47147,6 @@
         },
         "en": {
           "title": "Luxembourg topped the quality of life ranking for the second year in a row",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4fbe7d848879d12ed1021a5613c20271204ed0fa",
-      "title": "Люксембург второй год подряд возглавил рейтинг качества жизни",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOER5TEVNNjBkYmpHUVZreEZPYWMzeWpKYWNSdVBnN2pGbi1halNWcUNRSl9aemVLTXBSWDl5ZVVzYjRfaW5VNG4yNVdkWHVKTzRmRm1WUWYtVm1yMHFGX282b3N1dzlvYTdqMkJtNDZ4MUNkX1dqSVJGdVY3UzlfRlRUUTMyNVE0dWktb01YaGZXN2xoNDZKVWpLRm0tRlU?oc=5",
-      "source": "Open4business.com.ua.",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-20T14:44:45.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Luxembourg en tête du classement de la qualité de vie pour la deuxième année consécutive",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg steet fir d'zweet Joer hannereneen un der Spëtzt vun der Liewensqualitéit",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg steht zum zweiten Mal in Folge an der Spitze der Lebensqualitäts-Rangliste",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg tops the quality of life ranking for the second year in a row",
           "summary": ""
         }
       }
