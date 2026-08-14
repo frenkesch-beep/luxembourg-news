@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T21:41:55.190Z",
+  "generatedAt": "2026-08-14T22:41:48.761Z",
   "items": [
     {
       "id": "e470e9305772a31da557b5742969212369999539",
@@ -24799,6 +24799,39 @@
       }
     },
     {
+      "id": "b6b2512c318a9d5910b9b28360d3806492f4e734",
+      "title": "Galería de Edificio de oficinas Luxemburgo-Kirchberg / Paul Bretz Architectes - 5",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPSHNnVmpEU0tPaUhZZWZiNDJRdWxBdlFMYWFTWXFELXQxVzRwRW1lcDVhQjRQWmhObDhmclNrdl9Rb1J6c29lTHM4ajFRbmZnMDJlREpfRGozTmc4TUszVTZneDRFMzVZUENtanVLcVc0NWFwQ2dORlZ2Q19RZzBfdnZrOExkSWk2S2VBSW9mdWtsSEY1N2pMRHdfejFzeWJfbS1VS1J5dUU3bXVEOGYtTmN1VnA3ZXp4NVJ2NGtfYkNtTTVZYUZUVXpIWDRlZk9kU0VPX1d3MC1Ya2hCenIxVXhGS0g4bEN3Z0JaVFpCWDZqREhzQk1nR2l4c0NoY0k3dWhQUG1HVzRsaW51eWNoRnpBMFNYX2w1T0lFaQ?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-07-31T17:04:26.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie Bâtiment Atelier Luxembourg-Kirchberg / Paul Bretz Architectes - 5",
+          "summary": ""
+        },
+        "en": {
+          "title": "Workshop Building Gallery Luxembourg-Kirchberg / Paul Bretz Architectes - 5",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Workshop Building Gallery Luxembourg-Kirchberg / Paul Bretz Architectes - 5",
+          "summary": ""
+        },
+        "de": {
+          "title": "Werkstattbaugalerie Luxemburg-Kirchberg / Paul Bretz Architectes - 5",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "24ea5172fe0f3881bbd2e74692f609b831beca61",
       "title": "André Oliveira Barros da Silva — статистика 2023/2024 вища ліга Люксембург",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3hjYmNreXRzaTdyNjFpanJVSWoyek5mMWNiT2lvRFc0VkM2YnJlN3ZiSDlYLXFrdkJ0a0RjRDNzV012N3owUGs0bmVlZkVHLU9URHhSU0VaNlVIOGZ1dU8xeG9Fdm1lNEZxcmJPcVhVcC1ZU091dlZEbFlQMXhRQ25PRG5jMmhXTDBSbnZuWmNnNkZVRjUzRnl5b0U0bXlVQnI4Y2VOOGpha1VLRGU2dW95dFlWNWx3?oc=5",
@@ -47100,39 +47133,6 @@
         },
         "lb": {
           "title": "Liechtenstein 0 - 1 Lëtzebuerg: Matchbericht, Statistiken, Opstellung, H2H",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "881cf40addbc083549cf257db4b664f9e06c726d",
-      "title": "Nemulțumire în Luxemburg: noul TGV Bruxelles–Basel ocolește Marele Ducat",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JMEt3cVhHd2ZSbzllSFpvTWxTUWtHdlFrMVpEQ1JfNjkzVnl4RWtfbS10Q1Zibjl1aFkxYUhIdV9NODRpQWlENXVoM3lwNm9kYWlWZkYxS1lsVnFKM2hmUTBPODh2eFpHVm9QLVVR?oc=5",
-      "source": "Club Feroviar",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-22T04:49:54.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "eu"
-      ],
-      "translations": {
-        "de": {
-          "title": "Unzufriedenheit in Luxemburg: Der neue TGV Brüssel–Basel umgeht das Großherzogtum",
-          "summary": ""
-        },
-        "en": {
-          "title": "Discontent in Luxembourg: the new TGV Brussels–Basel bypasses the Grand Duchy",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Mécontentement au Luxembourg : le nouveau TGV Bruxelles-Bâle contourne le Grand-Duché",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Onzefriddenheet zu Lëtzebuerg: Den neien TGV Bréissel-Basel geet ëm de Grand-Duché",
           "summary": ""
         }
       }
