@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-14T16:06:54.247Z",
+  "generatedAt": "2026-08-14T17:12:33.315Z",
   "items": [
+    {
+      "id": "f69d4e8afc2245837574d67efe83b7d229b9db7d",
+      "title": "Luxair: Verschiedene Sonnenziele & London ab 89€ roundtrip von Luxemburg (109€ mit Gepäck)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mQTBFLWhNYVNsSGUzOXFQa2hfcFFrMURJZVlzSEZJd2Y3aENDZGFZNEhZQUVkdTJtN1ZYOHJzUHBmQmFNRlpBM1hEY3dvTFU0YWZrLU9mT19MbEJlRnJldzB3?oc=5",
+      "source": "Travel-Dealz",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-14T16:03:29.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxair: Various sun destinations & London from €89 roundtrip from Luxembourg (€109 with luggage)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxair: Verschidde Sonndestinatiounen & London ab 89 € Retour vu Lëtzebuerg (109 € mat Gepäck)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxair : Diverses destinations soleil & Londres à partir de 89€ aller-retour depuis le Luxembourg (109€ avec bagages)",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "5fa9db172ac39dc22a0a22e099563ead7a1f1317",
       "title": "MARÍA ADELAIDA DE LUXEMBURGO, DE GRAN DUQUESA A MONJA",
@@ -47118,39 +47147,6 @@
         },
         "lb": {
           "title": "Gyeryong City a Lëtzebuerg grënnen en digitalen Archiv vum Koreakrich",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ef78a644b277f5e6d983779b01f0c493d9c70427",
-      "title": "계룡시, 룩셈부르크와 6·25 디지털 아카이브 구축…참전기록물 공개",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zOWZqVzZ1QWQzVnFCSzNndEpWZmRyS3E5Uk5zTFJQYjlsenVPOUZOVzNfeDJ3cGU3SnIzUlZyZDE2c0ZYalJBMm1QaGxBcTMtYzFvUTJzdFNCZFR4QlpscnBfX0FrU0pqdVA5cndSMDAtbE9wTHVqVA?oc=5",
-      "source": "네이트",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-22T01:15:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die Stadt Gyeryong richtet am 25. Juni ein digitales Archiv mit Luxemburg ein... Offenlegung von Kriegsakten",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gyeryong City stellt de 25. Juni digitalen Archiv mat Lëtzebuerg op ... Verëffentlechung vu Krichsrecords",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gyeryong City establishes June 25 digital archive with Luxembourg... Disclosure of war records",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La ville de Gyeryong crée des archives numériques du 25 juin avec le Luxembourg... Divulgation des archives de guerre",
           "summary": ""
         }
       }
