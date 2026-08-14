@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-08-14T17:12:33.315Z",
+  "generatedAt": "2026-08-14T18:06:55.234Z",
   "items": [
+    {
+      "id": "3d90893814d389bd3a1f49c5a2434fc7256c0647",
+      "title": "Isle of Man v Luxembourg | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW1wRC1SdE92UzMzTWZFX3NjdkJlQ3F4WEdDdHZITG5JcHF0a3p1cmtuMHhJanZoUUU0VEtwYzZIeWxockdKeE41R0pLWmFKYUtXVVdMT3U5bDBnejZxaWlWN1pkNEp3V2NZb1ltdlJjckhvaWpaTFVxY3RQcmV3aUlEZXpETDdlUk1POHdMbXpLMGxKR2laOW9zUkg1RzVMRFZIRXFlc0tUeVQyVTJNSkE4bnVFY2hvSUo4ZGpZU1FER3c?oc=5",
+      "source": "ICC",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-14T17:58:38.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Île de Man contre Luxembourg | Faits saillants du match | ICC Hommes T20 WC Europe Qualification sous-régionale C",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Isle of Man v Luxembourg | Match Highlights | ICC Männer T20 WM Europa Sub-Regional Qualifikatioun C",
+          "summary": ""
+        },
+        "de": {
+          "title": "Isle of Man gegen Luxemburg | Match-Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "35038e709398183073e95347cb1545ba123b5a3a",
+      "title": "Sécheresse: les pompiers de la zone Luxembourg sont en vigilance maximale",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdkNPUG1SR1JqakFNVGRlU2hBQzlKek5PQkxJWVZnbG56VXl4ZC13LVpyRzlNeGdPUTd5eFhtYmNBcGJNR1p5LUFnUHRZS1lIZmdnS21Jc1BRU3lSVzFuVTFWN3dzN3lfRDh6WnpXeXVQVG9kSjZTc2QtQ2t0RWQ1dmluOUV0TWY1aWFYMHBxNHVISHIwTDlZU09NTGhxVjhYSnMtd2EteENBRnRSc2lDSHdzWk5NVEQ1WEk2QlJZXzdtYmNqNGc?oc=5",
+      "source": "RTL Info",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-14T17:17:29.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Drought: firefighters in the Luxembourg zone are on maximum vigilance",
+          "summary": ""
+        },
+        "de": {
+          "title": "Dürre: Feuerwehrleute in der Zone Luxemburg sind auf höchste Wachsamkeit",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dréchent: D'Pompjeeën an der Lëtzebuerger Zone sinn op maximal Waacht",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "f69d4e8afc2245837574d67efe83b7d229b9db7d",
       "title": "Luxair: Verschiedene Sonnenziele & London ab 89€ roundtrip von Luxemburg (109€ mit Gepäck)",
@@ -122,6 +180,35 @@
       }
     },
     {
+      "id": "bd4e5f4a459ee36ac79d8d01b8dd4f6977efe8f6",
+      "title": "Spritpreise Luxemburg heute: Super 98 wird deutlich teurer am 14. August",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0pHMy1rTHpIN1Z4SlI3QzdIU1M5VkRUQ3lIUnpOdlZ0cUw5SVVpRVdubS1tQ0lJanZxMlZHbHk0eUplNDBYdEh6c3ZHQzNtVE9Mb2xQQkRzMmdIUktma2hRa0NyVWwySnFUX3F6S29ocDB5WkhfMUg0dmdRNjF5b2xR?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-14T12:53:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Brennstoffpräisser Lëtzebuerg haut: De Super 98 gëtt de 14. August däitlech méi deier",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fuel prices Luxembourg today: Super 98 will be significantly more expensive on August 14th",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​des carburants au Luxembourg aujourd'hui : le Super 98 sera nettement plus cher le 14 août",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "334835ff9dfd962d5d16e11b926d981694134b9a",
       "title": "Luxembourg contributes extra €8 million to Ukraine’s winter preparedness",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ0dpNFJXMkU4U1NteTRVc2RscHZCQ2NidERRVE1RTno4UXBwRUdqSVZsakhNR1dRTFhEM1ZmRXJ3OUhUNTJDQWhaQVY4MzNWcjJlU3ZhVTEtUWpURmVUdjE5bkRRNnlCZ3FKb0F4M1o1LUFSRWdfUkdUUV9hNmd5SkY5NWltNnBDNER2VUJoZkg4WnF3NGJLY012YzkyN21tdHVNOEVEdHU2NGlqZ3o4Z2VoSF9qTEIw?oc=5",
@@ -179,6 +266,35 @@
         },
         "fr": {
           "title": "Valeur ajoutée par habitant, qui sont les plus riches d'Europe ? L'Irlande et le Luxembourg sont en tête de l'UE : l'Italie à 29 571 euros | La carte",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e544ca30487bf73dd42f5412442fb0912a5dd511",
+      "title": "Luxembourg: Bill introduces mandatory B2B e-invoicing under ViDA",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOVRFdEJvSWVGLWlTOE1rWkFrRlcyQmd0T1k0N2xjeUNMZ0d0UVdrenlHb0xQVDRycWlNT1JzRXQzUGh0azFSWEtGengxcTBROTVxbWtlMUUyLXJxdnBpX0ZuMUtqSzN5Q1dGUDBzdnlBd2JET2FsYWRZa09BVzVmS2g1bk1XczJ4VEhZOVhBbm4?oc=5",
+      "source": "Global VAT Compliance",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-14T12:25:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg: Gesetzentwurf führt im Rahmen von ViDA eine obligatorische elektronische B2B-Rechnung ein",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg: Gesetzesprojet féiert obligatoresch B2B E-Fakturatioun ënner ViDA an",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : le projet de loi introduit la facturation électronique B2B obligatoire sous ViDA",
           "summary": ""
         }
       }
@@ -46382,6 +46498,39 @@
       }
     },
     {
+      "id": "a39191b34b0f1b25551897ea4375caa91ab53a62",
+      "title": "계룡시, 룩셈부르크와 6·25 디지털 아카이브 구축…참전기록물 공개",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlWmRubTd1dDF0VGUyVkRheHVCTEpkcmI0cHNFb3AtRTVMb3FDTlBOTVhhOVVTeU9fQkw0OXdfam9ad0lBODBRVHdqc0luaVFkS1VwXzNDX2FBU3VKZ29MUA?oc=5",
+      "source": "뉴스1",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "La ville de Gyeryong crée des archives numériques du 25 juin avec le Luxembourg... Divulgation des archives de guerre",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gyeryong City establishes June 25 digital archive with Luxembourg... Disclosure of war records",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Stadt Gyeryong richtet am 25. Juni ein digitales Archiv mit Luxemburg ein... Offenlegung von Kriegsakten",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gyeryong City stellt de 25. Juni digitalen Archiv mat Lëtzebuerg op... Verëffentlechung vu Krichsrecords",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "7b6d800fb643949a54ebf97b22982b2d5e45f676",
       "title": "Discontent in Luxembourg: The new Brussels–Basel TGV bypasses the Grand Duchy",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VU3d1WG1mSDUyVEZsYVNrVF9mS0lqeTQtN3BxQmdIbGVtUTYtUnVGNGZISHlhMm14dFpSRXFrbF9KaXdCbm9RSllCOGh6Skw0bFN2ZjhDUERFOTVRVS1GUHc2MUUwZw?oc=5",
@@ -46985,168 +47134,6 @@
         },
         "fr": {
           "title": "Association SSA Sake Sommelier / Concours International des Alcools « Luxembourg Liquor Challenge 2026 » aura lieu !",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "eb4fcca2c7266787b1521da40ae8bd2dddd755e2",
-      "title": "Amancio Ortega supera los 9.000 millones en activos gestionados desde Luxemburgo tras crecer un 28%",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcUNUVzBFQUFBLTVaeW8yYWZvVHhJLS1CakJlVU9mOGRNdkRmSW1BQ0M0YWkxUUZoZDNZYjFwSFNfOU9sV3ZpOWFxckFrblpfcTE4ZkxuaFItV0hIcE16SzVRR1pORGpJbzFuSmNIM252cGdqWG55UkFxRmNfdlFEM0d6di02SU5PZEhWN0JjZTBOVlRqVVZMaXJITFJ2enBhM04xNVZMeXhjME1ITnc3MnRyM2lPcGgwMXF6QzBVX2ZxNFJmY1BnMk5sMHZjWFNwTVVpZThST0hZVXp2RlhwbFlBSGFmQmVzRXdrRmw4RQ?oc=5",
-      "source": "20Minutos",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-22T03:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Amancio Ortega iwwerschratt 9.000 Milliounen u Verméigen, déi vu Lëtzebuerg geréiert ginn, nodeems se 28% wuessen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Amancio Ortega dépasse les 9 milliards d'actifs gérés depuis le Luxembourg après une croissance de 28%",
-          "summary": ""
-        },
-        "en": {
-          "title": "Amancio Ortega exceeds 9,000 million in assets managed from Luxembourg after growing 28%",
-          "summary": ""
-        },
-        "de": {
-          "title": "Amancio Ortega verwaltet von Luxemburg aus mehr als 9.000 Millionen Vermögenswerte nach einem Wachstum von 28 %",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3704b7675419427bef6a2081caca39a400a55df3",
-      "title": "Karnataka explores Luxembourg ties, seeks Japanese semiconductor investments",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXpMWERXT0taVXdRVVZEVkhwaGVDSXJSMWdudXVFMUZfUVhqdG1EbURwajcwOWtGWXB2dHhBRThKTHg5WEg4MWxrSFBwLWN2SXNfSlVzcDd6Sy1aWUpTbmZ2ZVN2TnNBcjJSTXYtaHpOOExtTjZEeHgxV3F5bFhvaUdOMHI5Y19udm9MTWVybWpGbWtKWC12cmRIdkQ1QkloQkgza2REd05HRngwREZzUk9xYjM?oc=5",
-      "source": "Communications Today",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-22T02:34:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance",
-        "tech"
-      ],
-      "translations": {
-        "de": {
-          "title": "Karnataka erkundet die Beziehungen zu Luxemburg und sucht nach japanischen Halbleiterinvestitionen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Karnataka explore les liens avec le Luxembourg et recherche des investissements japonais dans les semi-conducteurs",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Karnataka entdeckt d'Lëtzebuerger Bezéiungen, sicht japanesch Hallefleitinvestitiounen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "484da42b380eea1563165a1763aa4781dff8d27b",
-      "title": "紀念韓戰盟友！韓國雞龍市公開數位檔案，致敬盧森堡參戰勇士",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXUThsLU9BV3drOUFkTlFGamtHZVpsWHZwSzJmcVdsZ0dJTXgwdHVTSmFUSHN3SExPSEVYa29wTWpGWGFnOEpTa2xPcFRFbTNqaEE?oc=5",
-      "source": "蕃新聞",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-22T02:24:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Commémoration des alliés de la guerre de Corée ! La ville sud-coréenne de Gyeryong publie des fichiers numériques pour rendre hommage aux guerriers luxembourgeois qui ont participé à la guerre",
-          "summary": ""
-        },
-        "en": {
-          "title": "Commemorating Korean War allies! South Korea's Gyeryong City releases digital files to pay tribute to Luxembourg warriors who participated in the war",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gedenkminutt Koreakrich Alliéierten! D'Südkoreanesch Gyeryong City verëffentlecht digital Dateien fir Hommage un d'Lëtzebuerger Krieger ze bezuelen déi um Krich deelgeholl hunn",
-          "summary": ""
-        },
-        "de": {
-          "title": "Gedenken an die Verbündeten im Koreakrieg! Die südkoreanische Stadt Gyeryong veröffentlicht digitale Dateien, um den luxemburgischen Kriegern zu gedenken, die am Krieg teilgenommen haben",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2a5cfd51cc82b81128789701638f7baa4c3ef649",
-      "title": "ルイ・ヴィトン LOUIS VUITTON ルクセンブルクライン スニーカー 靴 レザー レッド メンズ レッド系 / ホワイト系 【中古】",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtYmZYTkRxU2xaaXNkNUtPVlpqb3ZCZE9PNXp4dHNQVzJzbi1LM0szdEdVN0lEWEl5SUZYNlY2RDNXVFZVa0JjQUY3djVKbElnODJOUGI0M2p1dW54STJTLXA2TQ?oc=5",
-      "source": "SNKRDUNK",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-22T01:36:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "LOUIS VUITTON Luxembourg Klein baskets chaussures cuir rouge homme rouge/blanc [Occasion]",
-          "summary": ""
-        },
-        "en": {
-          "title": "LOUIS VUITTON Luxembourg Klein sneakers shoes leather red men's red/white [Used]",
-          "summary": ""
-        },
-        "de": {
-          "title": "LOUIS VUITTON Luxembourg Klein Sneakers Schuhe Leder Rot Herren Rot/Weiß [Gebraucht]",
-          "summary": ""
-        },
-        "lb": {
-          "title": "LOUIS VUITTON Luxembourg Klein Turnschuhe Lieder rout Männer rout/wäiss [Used]",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "53820ed8e796d983fc8e2c67e42bb6eee165c3cc",
-      "title": "계룡시, 룩셈부르크와 6·25전쟁 디지털 아카이브 구축",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWeEdVWE0yNTJuQ0otUWNWbVlaYWhlV1dkNHhBZlk1bUZoalNFRUtBcHkzMjlCVVhRMXJlcXphU2dVek5ScW5HcU1JNk5fSnBINzFoTTJXVGtBVnM4ZlUtbmNWMGMwS29z?oc=5",
-      "source": "2news.co.kr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-22T01:18:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La ville de Gyeryong et le Luxembourg créent des archives numériques de la guerre de Corée",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gyeryong City and Luxembourg establish a digital archive of the Korean War",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Stadt Gyeryong und Luxemburg richten ein digitales Archiv des Koreakrieges ein",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gyeryong City a Lëtzebuerg grënnen en digitalen Archiv vum Koreakrich",
           "summary": ""
         }
       }
