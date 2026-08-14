@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:41:48.761Z",
+  "generatedAt": "2026-08-14T23:37:02.035Z",
   "items": [
     {
       "id": "e470e9305772a31da557b5742969212369999539",
@@ -46791,6 +46791,39 @@
       }
     },
     {
+      "id": "881cf40addbc083549cf257db4b664f9e06c726d",
+      "title": "Nemulțumire în Luxemburg: noul TGV Bruxelles–Basel ocolește Marele Ducat",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JMEt3cVhHd2ZSbzllSFpvTWxTUWtHdlFrMVpEQ1JfNjkzVnl4RWtfbS10Q1Zibjl1aFkxYUhIdV9NODRpQWlENXVoM3lwNm9kYWlWZkYxS1lsVnFKM2hmUTBPODh2eFpHVm9QLVVR?oc=5",
+      "source": "Club Feroviar",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "eu"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Mécontentement au Luxembourg : le nouveau TGV Bruxelles-Bâle contourne le Grand-Duché",
+          "summary": ""
+        },
+        "de": {
+          "title": "Unzufriedenheit in Luxemburg: Der neue TGV Brüssel–Basel umgeht das Großherzogtum",
+          "summary": ""
+        },
+        "en": {
+          "title": "Discontent in Luxembourg: the new TGV Brussels–Basel bypasses the Grand Duchy",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Onzefriddenheet zu Lëtzebuerg: Den neien TGV Bréissel-Basel geet ëm de Grand-Duché",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "7b6d800fb643949a54ebf97b22982b2d5e45f676",
       "title": "Discontent in Luxembourg: The new Brussels–Basel TGV bypasses the Grand Duchy",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VU3d1WG1mSDUyVEZsYVNrVF9mS0lqeTQtN3BxQmdIbGVtUTYtUnVGNGZISHlhMm14dFpSRXFrbF9KaXdCbm9RSllCOGh6Skw0bFN2ZjhDUERFOTVRVS1GUHc2MUUwZw?oc=5",
@@ -47100,39 +47133,6 @@
         },
         "lb": {
           "title": "Armenien-Lëtzebuerg | UEFA U17 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6552c99caa7f6d3bd65c74a49664efc14ddb4aa5",
-      "title": "リヒテンシュタイン 0 - 1 ルクセンブルク：マッチレポート、統計、ラインナップ、H2H",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU1EzYkxpNk0wQzk1OTBQbU5xdUpwYUgtckxLZEVZU3Z1anBPR2g1VE9EX3NsbzROR2lQbjdsOEF0TE40V2Fya0ZhWUFiMmlaT2tBaXJVT1NRcEw2b3JFS25hNkduSUNjU1VacEZOWGlfOWEtMF81dnN4ZG9OZVdHVS1UemN3R29IZkdIQUVzUHB6VkpnblNEZQ?oc=5",
-      "source": "365Scores",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-22T04:59:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Liechtenstein 0 - 1 Luxemburg: Spielbericht, Statistiken, Aufstellung, H2H",
-          "summary": ""
-        },
-        "en": {
-          "title": "Liechtenstein 0 - 1 Luxembourg: match report, statistics, lineup, H2H",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Liechtenstein 0 - 1 Luxembourg : rapport de match, statistiques, composition, H2H",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Liechtenstein 0 - 1 Lëtzebuerg: Matchbericht, Statistiken, Opstellung, H2H",
           "summary": ""
         }
       }
