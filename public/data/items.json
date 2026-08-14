@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T19:58:04.985Z",
+  "generatedAt": "2026-08-14T20:46:29.035Z",
   "items": [
     {
       "id": "801c41dfc0dc77c4ba074789b5aaee250da1cbe5",
@@ -121,6 +121,35 @@
         },
         "lb": {
           "title": "Dréchent: D'Pompjeeën an der Lëtzebuerger Zone sinn op maximal Waacht",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "96351cf3d88e5ad608091e93447e3af9e718a455",
+      "title": "Spritpreise Luxemburg: Diesel und Benzin steigen ab Samstag",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdF85U091LXZwWVc1UnVsR0dYWk94Sm1pUGt2VTdjTk8tOWZiT1BkU05RdXhJX0pFOFVlVm0wWGhOa09FRW40XzZ1TWZ0MFMyRERlYllXbmpIV25fSHI2UDdwUnBGdy1vZmZUTHpSbTQwM0ZrcWwwaEVTT1Nrd05xYUZBT1Q?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-14T16:55:19.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Fuel prices Luxembourg: Diesel and gasoline will rise from Saturday",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​des carburants Luxembourg : le diesel et l'essence augmenteront à partir de samedi",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffpräisser Lëtzebuerg: Diesel a Benzin klammen ab e Samschdeg",
           "summary": ""
         }
       }
@@ -46663,6 +46692,39 @@
       }
     },
     {
+      "id": "2b3d0bb920413ca357a7d50be0d984ad0a6713dd",
+      "title": "România riscă sancțiuni de zeci de milioane de euro din partea Uniunii Europene dacă ignoră în continuare hotărârile Curții de Justiție de la Luxemburg pe tema „marii prescripții”",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDJDRl9BLVRCcFNiVE1XVzZrRDJ2cXkybHVQdWdFRW01R1k4YjJYQncxd0lOeXVrODdTQmZhNUVEVXBjNDhMNVMtcmhPNHBtOTJtaWsyWTJGQkRtaWNnbDZaMzl5ZUhjWVNWLWN3X3VnRkVpcGhCMEpRUktQUWJnOGFKOUpBYU84NTdYNXp4dllnem1RdVlGVklkTWUyRXZXTW9VNlVUX0VBaHA3VXFjVlFEbl9TV0I4SFZZMjRYZHJXYzFaSWRhUXFuQQ?oc=5",
+      "source": "Libertatea",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Rumänien riskéiert Sanktioune vun zéngdausende Milliounen Euro vun der Europäescher Unioun, wa se weiderhin d'Uerteeler vum Lëtzebuerger Geriichtshaff zum Thema \"grousse Verschränkungsgesetz\" ignoréiere wäerten.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Romania risks sanctions of tens of millions of euros from the European Union if it continues to ignore the judgments of the Luxembourg Court of Justice on the subject of the \"great statute of limitations\"",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Roumanie risque des sanctions de dizaines de millions d'euros de la part de l'Union européenne si elle continue à ignorer les arrêts de la Cour de justice de Luxembourg au sujet du \"grand délai de prescription\"",
+          "summary": ""
+        },
+        "de": {
+          "title": "Rumänien riskiert Sanktionen der Europäischen Union in zweistelliger Millionenhöhe, wenn es die Urteile des Luxemburger Gerichtshofs zum Thema „große Verjährungsfrist“ weiterhin ignoriert.",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "7b6d800fb643949a54ebf97b22982b2d5e45f676",
       "title": "Discontent in Luxembourg: The new Brussels–Basel TGV bypasses the Grand Duchy",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VU3d1WG1mSDUyVEZsYVNrVF9mS0lqeTQtN3BxQmdIbGVtUTYtUnVGNGZISHlhMm14dFpSRXFrbF9KaXdCbm9RSllCOGh6Skw0bFN2ZjhDUERFOTVRVS1GUHc2MUUwZw?oc=5",
@@ -47068,72 +47130,6 @@
         },
         "lb": {
           "title": "Den Didier Dinart huet d'Lëtzebuerger Selektioun iwwerholl",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "738cda1a4e4885c51d494867660de7ab3846a4f2",
-      "title": "계룡시, 룩셈부르크와 손잡고 '6·25 디지털 아카이브' 구축",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhQWlQcmxBWUxEZnppNi1IclU3T3YxTkNoUWh3MXE1LUxsSmhyQmNBWW95cENQYmFYRVRyNHBaRU9DZXdiaEk2RDFhbTdpVDRZejlyV0YwbW04RUQtRU1hMnZRREFvU2hTandV?oc=5",
-      "source": "충청시사신문",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-22T04:22:25.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Gyeryong City schafft mat Lëtzebuerg zesummen fir den \"25. Juni Digital Archive\" ze bauen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gyeryong City joins hands with Luxembourg to build the ‘June 25 Digital Archive’",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La ville de Gyeryong s’associe au Luxembourg pour construire les « Archives numériques du 25 juin »",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Stadt Gyeryong schließt sich mit Luxemburg zusammen, um das „Digitale Archiv vom 25. Juni“ aufzubauen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "635bfa99cfa2d930f3e7a958b51a5d470e844291",
-      "title": "ルクセンブルクのSESと仏エアバス子会社、衛星による「量子鍵配送システム」検証に向け、光地上局を建設へ",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJanN6Q1QxN3lvZXpjUm5mVDRTbjJEZ3h5TTdNdUdYVDdFTlRNMHdlTGw1bXRFeldxNTNBV2NuTWlrZE1VS2E4?oc=5",
-      "source": "spacemedia.jp",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-22T04:16:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die luxemburgische SES und die französische Airbus-Tochtergesellschaft bauen eine optische Bodenstation, um ein satellitengestütztes Quantenschlüsselverteilungssystem zu testen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La filiale luxembourgeoise SES et la filiale française Airbus vont construire une station optique au sol pour tester le système de distribution de clés quantiques par satellite",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg's SES and France's Airbus subsidiary to build optical ground station to test satellite-based quantum key distribution system",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Lëtzebuerger SES an d'Frankräich Airbus Duechtergesellschaft bauen optesch Buedemstatioun fir Satellit-baséiert Quanteschlësselverdeelungssystem ze testen",
           "summary": ""
         }
       }
