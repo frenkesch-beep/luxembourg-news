@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-14T20:46:29.035Z",
+  "generatedAt": "2026-08-14T21:41:55.190Z",
   "items": [
+    {
+      "id": "e470e9305772a31da557b5742969212369999539",
+      "title": "شرطة أبوظبي تشارك في دورة دولية بلوكسمبورغ",
+      "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOcUVGbFZuUktoTkdiV1BHZmdDUnE1WTd6OUljWXhwZ1I2UEtsRUdmTzFXVWxwSTA3ZGxpbzk4ZlNZc1BUMzh4N0VJamxJVWQ2OFJZaTdUa3BvRVFVVm1Zd2tCYnBVUkoyc09VVEE0bllPR1ljWkE1RUs3dDVqWklBZW5RRkRPOHVOMTZubDRwRDVUeDE3QjhWNmlZeFI4M1l3d1F2bWFDeG5od2FrMWVVbUFkZVFSSXZEd1hSUEE4dGV4RWh4OVVkamRZOE9YWG4wQVZpY3RCZ2pjb0M0RktRLTlpUVVkaWl0VzFOdnQyNnFnQlc4dUROZzBaZG1WT1BlaXQtTklqR1RyNEpKR2cxVElzNzRPTHFmU3J4MnBONFU2VVlKT0JFSnhncm1IX2xNc0xTNnl3eHVSOUI2ZWVtYnFjemoxWG5vLTh3NkEtYklEV00ydnBtUmdQdFd6aS1ISkZWSTNOamZZN2dPc1hjNkpKU3pkTFUyQy0tT1VBdmxVaGtMaEZ1SU5JbXVpNkpiX0czRFlRc0FHOGx2WllUYWU4N3pjVHpldWRsQ216UW5EcFAwbVl4LXVDTWI2Q0JpZTZQYVY5NGRuVHFCdkdNOWEyX2c4dW5zYXczc1BVQ1ZXYkI4bHVocy1yQTRDbmlERWpTTUgxUlJfYnV0RFB6eHlCS092bTJT?oc=5",
+      "source": "صحيفة الخليج",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-08-14T20:29:12.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "La police d'Abu Dhabi participe à un cours international au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Polizei von Abu Dhabi nimmt an einem internationalen Kurs in Luxemburg teil",
+          "summary": ""
+        },
+        "en": {
+          "title": "Abu Dhabi Police participates in an international course in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Abu Dhabi Police hëlt un engem internationale Cours zu Lëtzebuerg deel",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "801c41dfc0dc77c4ba074789b5aaee250da1cbe5",
       "title": "'4자녀 아버지 사망 사건' 연루…형과 함께 구금→룩셈부르크 럭비 대표에 무슨 일이",
@@ -47100,36 +47133,6 @@
         },
         "lb": {
           "title": "Onzefriddenheet zu Lëtzebuerg: Den neien TGV Bréissel-Basel geet ëm de Grand-Duché",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "18c3167e8381112759cd43625fa623653ef1004e",
-      "title": "Didier Dinart a pris les rênes de la sélection du Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcksydU5NUHdjSW1admVEbVp5akhScGRoV2pjRmNzTS1TcF9tUXhHRmJWUXA1UVo0M3d2clBnZ0oyZUlNXzlPaV9maVNJM1IxekJNSGdGd2ZYaXV5bDA1eDloMXlRNFRGbkNWUDNLOHZqZGlQWVltandSaGtSbU45R3lXZFJYYXBNc0hxdFdUV0hwcWRDLVlZYURTUE5vSDNOZkRtcEdWcVpER1AyU2x5ZWw1SjRXWmI4Q2gwNVZONzBPbDBSLU1hakV3?oc=5",
-      "source": "guadeloupe.franceantilles.fr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-22T04:41:35.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics",
-        "culture"
-      ],
-      "translations": {
-        "en": {
-          "title": "Didier Dinart took the reins of the Luxembourg selection",
-          "summary": ""
-        },
-        "de": {
-          "title": "Didier Dinart übernahm die Leitung der luxemburgischen Auswahl",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den Didier Dinart huet d'Lëtzebuerger Selektioun iwwerholl",
           "summary": ""
         }
       }
