@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T07:44:35.940Z",
+  "generatedAt": "2026-08-15T08:46:05.341Z",
   "items": [
     {
       "id": "aa541845787f75fe7a3df9a2d251610e931ba93e",
@@ -2531,6 +2531,35 @@
         },
         "lb": {
           "title": "Brennstoffpräisser haut zu Lëtzebuerg: Dat kaschten den Diesel an de Bensin den 13. August",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "48f28913828cd61cca891c6a776d8bc307911769",
+      "title": "2026 Senate Elections: An election without the suspense or nervous breakdowns at the Luxembourg P...",
+      "url": "https://www.youtube.com/watch?v=4gsZad_SKHk",
+      "source": "Radio Classique",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "fr",
+      "publishedAt": "2026-08-13T08:46:02.751Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/4gsZad_SKHk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ8BIim7nx6lY1YfelhQ7ZJRAefA",
+      "topics": [
+        "politics"
+      ],
+      "translations": {
+        "en": {
+          "title": "2026 Senate Elections: An election without the suspense or nervous breakdowns at the Luxembourg P...",
+          "summary": ""
+        },
+        "de": {
+          "title": "Senatswahlen 2026: Eine Wahl ohne Spannung und Nervenzusammenbrüche wie beim Luxemburger Parlament.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Senatswahlen 2026: Eng Wahl ouni Spannung oder Nervös Zesummebroch um Lëtzebuerger P...",
           "summary": ""
         }
       }
@@ -47116,35 +47145,6 @@
         },
         "de": {
           "title": "Vor dem Spiel Résidence Walferdange gegen FC Luxembourg City, Freundschaftsspielrunde 52",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "41129dba942bdc3a59e674537c3b0b137ce065bb",
-      "title": "Luxembourg : un aéroport toujours plus inclusif",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXV1NTBhekF0NVZkSVRKVzNGOGFJcHA1QTZDRENERVVXOEN0dlNSakFiZjhRV2hQTWxwZjM0VUtwMFJsMERaSERBaDNJR2F5ZnI1aGE5VDdUTjd1em9IdnZwSHktenNEQngyVVdkNTlOWlp4aWZiUGVpbWM3a3diV2lzNFU0clB2MmlodGE2T2ZvZTlf?oc=5",
-      "source": "La Semaine",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-22T07:10:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg: en ëmmer méi inklusive Fluchhafen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg: an ever more inclusive airport",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg: ein immer inklusiverer Flughafen",
           "summary": ""
         }
       }
