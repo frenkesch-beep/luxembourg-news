@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:35:24.800Z",
+  "generatedAt": "2026-08-15T16:42:25.554Z",
   "items": [
     {
       "id": "17e81c112eca10c51a0795854281881b1599eb2e",
@@ -26,6 +26,35 @@
         },
         "de": {
           "title": "Luxemburg > Luxair > Embraer 195-E2",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "33e6fb2539a0cbf893298d207793e0a3d6fead9b",
+      "title": "Luxembourg > Anime Focal > Photos",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNy11cGd2bmpkSVFSQ0ZCMExnVmxrMGhhVUdTN0lkNmVDN2syYnZXNV9BekhhU1oxdkU0QVBJUlZOY0RYZDlPQzR3TVVYTHJDMU1DRF9aY0dVN0JkLVk2Z0gyelJGcEV5MjMxdkxJREZ4TUx6MS1PRHcwbzBJMlB2dGh4Y09YdXdtWlhQaG5sOWlVMEFRVWpzcVlzVEE4SW5iLUNuTnVDc0RGeC00MElxeVg5SQ?oc=5",
+      "source": "Info-lux.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-15T14:36:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg > Anime Focal > Photos",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg > Anime Focal > Fotos",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg > Anime Focal > Fotoen",
           "summary": ""
         }
       }
@@ -1751,6 +1780,35 @@
         },
         "fr": {
           "title": "Analyse des risques : Plusieurs perturbations ferroviaires prévues à travers le Luxembourg jusqu'au 20 septembre",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "23e6c31242e9a9c6914484286b255129a2e4532c",
+      "title": "Luxembourg proposes to extend DAC7 reporting framework to non-EU jurisdictions",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3E5UWJsMzdpQlFEcVdtNncwdUFXeHJfYWdhdHF6U2hzZEJiTEk2NS1mVTh2WkZRY0ZySVJRa1NKallsT1NXUkRaY3JLM2oxalVrZHJnR04ydGhwdmRQYXBJa210WmN1WDVuN0w4Wi1VeUxiSnRmY0pyTmhNOWRuZHVKMlZyYnhTUWpDSUtNbTNhenRWZUNhZ2EtNFNmY09fSDFVTGpxX0xTdW1IRVRHa0xDSlVCSTg?oc=5",
+      "source": "taxnews.ey.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg proposéiert den DAC7 Berichterstattungskader op Net-EU Juridictioune ze verlängeren",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg schlägt vor, den DAC7-Melderahmen auf Nicht-EU-Gerichtsbarkeiten auszudehnen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg propose d’étendre le cadre de reporting DAC7 aux juridictions non-UE",
           "summary": ""
         }
       }
@@ -47079,68 +47137,6 @@
         },
         "lb": {
           "title": "Liewensqualitéit Ranking: Lëtzebuerg klappt d'Welt - München feiert, Berlin verléiert",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2f7768f365ed9eef8834cf9cb97bd3cdfe25738e",
-      "title": "История: Люксембург 2-3 Германия | UEFA EURO 1992",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4weE1jZE93YUU0THJ6d2JYcnNGLXFscG0yd0NpRzVfTFVQaUlXcUhISUhjbXF4Ukh5RVhiYk90Yk9CMDVuZFFrUFpnRGx0eTFwXy0zSk9QdVRScV9OU1d5X0FKTnVxQURoQ08xLVlWVkU?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-22T17:14:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Geschicht: Lëtzebuerg 2-3 Däitschland | UEFA EURO 1992",
-          "summary": ""
-        },
-        "de": {
-          "title": "Geschichte: Luxemburg 2-3 Deutschland | UEFA EURO 1992",
-          "summary": ""
-        },
-        "en": {
-          "title": "History: Luxembourg 2-3 Germany | UEFA EURO 1992",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Histoire : Luxembourg 2-3 Allemagne | UEFA EURO 1992",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4ccee564e59f4a6ea13286a9a84437eb065769ad",
-      "title": "EuroHPC Signs Contract for MeluXina-AI Supercomputer in Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZFFKQ0VmeloyYWxIY2FaekFsM1FBcXVzN3RaUnRLLTlHanRienV4ZkUxWFRoWEVlT3lldHhuMWVHUjJTZzBFNXFEWmk5V2U5OS1ZU3dtNTZwRUotc2xHQjhoUDdkU29uUVJtQWlJMGZWTlRHUVpBM0U1ZUU3REU1MEdZTWpNcXZHWEZ2Qm1Dc2I4MUxoLU43bG9lSllwcmc3eW5MV3hGRQ?oc=5",
-      "source": "HPCwire",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-22T16:56:17.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "EuroHPC ënnerschreift Kontrakt fir MeluXina-AI Supercomputer zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "EuroHPC unterzeichnet Vertrag für MeluXina-AI-Supercomputer in Luxemburg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "EuroHPC signe un contrat pour le supercalculateur MeluXina-AI au Luxembourg",
           "summary": ""
         }
       }
