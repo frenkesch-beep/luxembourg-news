@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:50:04.686Z",
+  "generatedAt": "2026-08-15T03:05:47.043Z",
   "items": [
     {
       "id": "cf1f72e297f56cc1e69f259de59ffbec733bd317",
@@ -96,6 +96,39 @@
         },
         "lb": {
           "title": "Abu Dhabi Police hëlt un engem internationale Cours zu Lëtzebuerg deel",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "1da81227785f9be85107b69c986cf3898c42ce4f",
+      "title": "شرطة أبوظبي تعزز قدراتها في تحديد هوية الضحايا بدورة متخصصة في لوكسمبورغ",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhOS1xUl9yc19EZDdIY2lmWHpMTUhtR3FlUVZYMFlDaGo0SGJFMllfNmtJVTdDTjNZejlFVmV0TV9mdkZGUWVR?oc=5",
+      "source": "alwatan.ae",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-08-14T20:00:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Police vun Abu Dhabi verbessert hir Fäegkeeten fir Affer z'identifizéieren mat engem spezialiséierte Cours zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Abu Dhabi Police enhances its capabilities in identifying victims with a specialized course in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Polizei von Abu Dhabi erweitert ihre Fähigkeiten bei der Identifizierung von Opfern mit einem Spezialkurs in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La police d'Abou Dhabi renforce ses capacités d'identification des victimes grâce à un cours spécialisé au Luxembourg",
           "summary": ""
         }
       }
@@ -47108,35 +47141,6 @@
         },
         "fr": {
           "title": "France-Luxembourg | Championnat d'Europe U17 de l'UEFA 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8c5e4bd6f1c0244dbb54b4bb9ce09c9186a99aff",
-      "title": "Spritpreise in Trier deutlich über 2-Euro-Marke: So viel günstiger ist es aktuell in Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQVVBYXBUeXhNT1o3V2JvSnZWdXpPT3NNaWVqU09hMkhTOXBVMHFEbTZDeHJtWVVIV0F6em9OQW5WRVA1OXY5Mk01VmliVGhzQVhZWGF1RmhHRVd6WmZmRW1Jd1o1cC00cWVGVDZKczhOb1lRSmlIeWE1cW5MQkd6Sk51dnJxdW1RRlFZX0ZVcnhhTkhzR19ZMWplRVJ5ZTM5d2ctWG56UU96a3ZiSG9WalA0YWV6RHIxRTBobXNkUXJ6eTJLVHBYMHpscnBfdmlzNGtYag?oc=5",
-      "source": "SOL.DE",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-22T06:26:20.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Fuel prices in Trier are well over the 2 euro mark: That's how much cheaper it is currently in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les prix du carburant à Trèves dépassent largement la barre des 2 euros : c'est à quel point il est actuellement moins cher au Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Brennstoffpräisser zu Tréier leien däitlech iwwer den 2 Euro: Sou vill méi bëlleg ass et de Moment zu Lëtzebuerg",
           "summary": ""
         }
       }
