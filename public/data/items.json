@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T09:42:16.466Z",
+  "generatedAt": "2026-08-15T10:40:06.684Z",
   "items": [
     {
       "id": "4e146737110c93a611a3fea6773954a5b706f783",
@@ -807,6 +807,39 @@
         },
         "lb": {
           "title": "Athert Bissen (Lëtzebuerg) - Fussballveräin: Equipe Zesummesetzung",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "81b0314f27bdcaa6be9502e015444f2d663ac2d1",
+      "title": "Small Towns: Creating art on a Luxemburg property",
+      "url": "https://www.youtube.com/watch?v=gQ6NK-2Xf8g",
+      "source": "WBAY TV-2 | Green Bay, WI",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "pt",
+      "publishedAt": "2026-08-14T10:40:02.753Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/gQ6NK-2Xf8g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ7JpWrEiVYId-iGlNISS6bAKKzw",
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Kleng Stied: Konscht op enger Lëtzebuerger Immobilie kreéieren",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Petites villes : créer de l'art dans une propriété luxembourgeoise",
+          "summary": ""
+        },
+        "en": {
+          "title": "Small Towns: Creating art on a Luxemburg property",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kleinstädte: Kunst schaffen auf einem Luxemburger Grundstück",
           "summary": ""
         }
       }
@@ -3196,6 +3229,39 @@
         },
         "de": {
           "title": "Luxemburgische U-17-Fußballnationalmannschaft – Spiele 2022/2023",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9e271f7cb90f316b9079d289d8e5e3684a87f0fa",
+      "title": "Сборная Люксембурга по футболу U-17 — матчи Квалификация Евро U-17 2022/2023",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFM0N1c5XzV3eWoyVF9hdFliMklHMnBveEt2bmRTbUQtenBxTEh0Y2FwZU13akdteWtPMkcwVE9YMHZLREFkMGFfRWxiWkowcTB5cjd4bFROaTF0UkZXclI4aDV6eU40MUVsQlJIclJVbG9LT0E5dDlYc1Zuc0FaMGM2T1NYZUU3ckRWWDF5M3pkLU9kRXF2RXBR?oc=5",
+      "source": "Tribuna UA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-12T16:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerger U-17-Nationalequipe - Mätcher Euro U-17 Qualifikatioun 2022/2023",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Equipe du Luxembourg U-17 de football - matchs Euro U-17 Qualification 2022/2023",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg U-17 national football team - matches Euro U-17 Qualification 2022/2023",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburgische U-17-Fußballnationalmannschaft – Spiele der U-17-Europameisterschaft 2022/2023",
           "summary": ""
         }
       }
@@ -47087,68 +47153,6 @@
         },
         "fr": {
           "title": "Employeurs luxembourgeois : Il n'y a pas que le salaire qui compte : il est vraiment attractif pour les frontaliers",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8c1fd8e48bdcfcc583fa8056664e4c004a532245",
-      "title": "ルクセンブルク, Luxembourg, Mersch",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVBwYUxjTElmUWliYUlhTGtmUHBic1dGSkdiRG9VTzBoblJiWXpEU2IyYW9qa2VxbXFSd1MtMm1LbktrWW9zLWpfa3RWZEZsSkgyWkdLZnBMYThRQzRwdkl1azV3MHlSZEFYVkdab2dKZjl0WFpGRHc0UkF4bkVRVFY1ejVsa3FJSUx0b0JVNzJKMEhQV0V5MjZRQ29NT0R6SUNMYUg1czIzcjBpNVl4bllpbmpIc015NmFkSEJvWDZRUjg?oc=5",
-      "source": "MSN",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-22T08:54:19.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg, Luxembourg, Mersch",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg, Luxemburg, Mersch",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg, Luxembourg, Mersch",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg, Luxembourg, Mersch",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "db0b540917c27f11ccfc2ab6011ae497d2b7389a",
-      "title": "Économie. ArcelorMittal visé par plusieurs redressements fiscaux pour des commissions payées au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeXBkQTlkSVpCN2VhY2xXQk9xVm5sYk5tZFV6Y2pubk9KYkI1YlpqUDFzMkZxUGV4dkR4bUJPQWhJWmVGdnVNNHhMZnJTQlN3b19HWHhoVmJxNVgtVmJ3Q3V6VzVMZ0x5QmpwYXRYcllfUFc1WXJNSVB2N0RtVjRyUmpLWWt0QlctdFhTYXNWdXRYQXZQTVJHU0drcGRrbnhFZUdNYXJJRVZoc2ltUWhxUkI3bHZwa0hVaXpWcEZheHFRT3hwRkphb1lNRUVwd2JEb2tORW5NNXVmaWs?oc=5",
-      "source": "Le Dauphiné Libéré",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-22T07:48:07.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "economy"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Wirtschaft. ArcelorMittal geziilt duerch verschidde Steierupassunge fir Kommissiounen déi zu Lëtzebuerg bezuelt ginn",
-          "summary": ""
-        },
-        "en": {
-          "title": "Economy. ArcelorMittal targeted by several tax adjustments for commissions paid in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Wirtschaft. ArcelorMittal wurde von mehreren Steueranpassungen für in Luxemburg gezahlte Provisionen betroffen",
           "summary": ""
         }
       }
