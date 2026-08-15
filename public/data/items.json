@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-15T21:35:39.597Z",
+  "generatedAt": "2026-08-15T22:38:42.685Z",
   "items": [
+    {
+      "id": "d3c68fb2e973d0fc7996c467156e64abfb82add2",
+      "title": "Ποδόσφαιρο: Λουξεμβούργο - Ιταλία",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FYVotZXFZaDdpelJkVlE1SnRuanByX2I4WDdiTjFpd01KMUhaTUF5NG0zb3dXbGxGVW16dmtiRUJYV2lMX0h6MkhfZ1Q4WFBkd3hJeklmclg4WVEyYjVyTUUtbHNwTnlhUE5fdlZla244SHlfbkRuc1lR?oc=5",
+      "source": "cosmotetv.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-08-15T21:49:35.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Fußball: Luxemburg - Italien",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fussball: Lëtzebuerg - Italien",
+          "summary": ""
+        },
+        "en": {
+          "title": "Football: Luxembourg - Italy",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Football : Luxembourg - Italie",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "a040110ef74e883df83be1ebbc0ad48e6fe4c682",
       "title": "Thierry Neuville à Luxembourg 2025 - Ims",
@@ -21574,6 +21607,39 @@
         },
         "fr": {
           "title": "Galerie du Luxembourg Learning Center / Valentiny Hvp Architects - 14",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3763696a1d5c28371fbdbc0e3afea0cbfd925fe0",
+      "title": "Galería de Pabellón de Luxemburgo en la Expo 2025 de Osaka / STDM architectes - 1",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQeG9FbUV6VHliYlluZDJIVUQ4Q0ZzczVVSE1Zd2pZb3FzcUlBc2JZd2ZXRjVxb0lQRUUtSGkxc3MyNW1Jd2ZIbWZIaHRoel9hRGFzRF9nUkVQOVJ1SW11SGdsQkwzMmh2NFU0aHB0ZU8xeVp2MlRjX29WQ0FHNF9lMHQwdC1MUlg2WXpab3ZjNzNvYUxBR2N4QTU4QUw4cFVQYWxNSG5pV3ZSZ2NaQ3JZVXJOcy1YZjdFbVBPT3BpR1pQdFlsQm9DN3hDOThlQzE3LWhPNkVPbE1xZHlIejlKdVB5UzdMSjhFSTlrbXdZNW5EVmVScXBhQVNlLWxHSXhxenVvSGw1VVNxQmxPaGZxZmN5cmUyOGJtdGxwdGw5YzU?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-04T02:02:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie des Luxemburg-Pavillons auf der Expo 2025 Osaka / STDM architectes - 1",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Luxembourg Pavilion at Expo 2025 Osaka / STDM architectes - 1",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie du Pavillon du Luxembourg à l'Expo 2025 Osaka / STDM architectes - 1",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gallery of Luxembourg Pavillion at Expo 2025 Osaka / STDM architectes - 1",
           "summary": ""
         }
       }
@@ -47059,72 +47125,6 @@
         },
         "en": {
           "title": "Armenia-Luxembourg | Squads | UEFA U17 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6c3639a53b5b5cef176ebda5441a4f2e4e68b30b",
-      "title": "Arménia-Luxemburgo | Grupos | UEFA Sub-17 2027",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjF1bVFfMlk4NFc5OHRJQ2RjbUlodlFMVzdYVkhuUFlTMjVfVnN1VmhfSEY3VlRJdFJfUXJrN2dsYjUwMTJRcUhjQ1YzMzFJaU91MzR6TG56Q19zWmlkbzhLa1JSd2ZkZVpVUDhCZ0FyNHMzRGR4OUJrakI3X2c5Uw?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-23T02:29:04.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Armenien-Lëtzebuerg | Gruppen | UEFA U17 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Arménie-Luxembourg | Groupes | UEFA U17 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Armenia-Luxembourg | Groups | UEFA U17 2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Armenien-Luxemburg | Gruppen | UEFA U17 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0e7102d439748168eab89147f1fec7a786fd4d95",
-      "title": "Luxemburgo-Italia | Europeo sub-17 de la UEFA 2027",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52WWktQVAyc3lqeDhoSGpsdVp5dm93XzVKcjdibi1QbFZrYnQtRTFDWWdVYjJtbjJSTEo2cnBSOGs0R0F4NFRJYmhmLVc2RWw5UnE2RUtRRVYzTVc5blpxQw?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-23T02:18:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg-Italien | UEFA Under-17 Europameeschterschaft 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg-Italy | UEFA Under-17 European Championship 2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg-Italien | UEFA-U17-Europameisterschaft 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg-Italie | Championnat d'Europe des moins de 17 ans de l'UEFA 2027",
           "summary": ""
         }
       }
