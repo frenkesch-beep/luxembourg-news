@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T03:55:12.330Z",
+  "generatedAt": "2026-08-15T04:47:59.150Z",
   "items": [
     {
       "id": "cf1f72e297f56cc1e69f259de59ffbec733bd317",
@@ -311,6 +311,39 @@
         },
         "fr": {
           "title": "Luxair : Diverses destinations soleil & Londres à partir de 89€ aller-retour depuis le Luxembourg (109€ avec bagages)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "77d1797f3b1906c93757da749816bc82c0b45c9a",
+      "title": "André Barrela — статистика у Люксембург: Національний дивізіон 2026/2027: скільки голів та передач",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcG4yanBoUWhyUU1la2g4VVA2aE9FbTI1aC1JWDlYd1Znb1NEZkRyekRMbnZsYmtLbjBvNkVLQ2l6Wk1IbWRySVJJdVZHQjQ1Uk1FUkF5ZUQ4OFRjaXJreVZrTG9qVGlvYnFfUUhtV0I2cEVRRUxJYmpPeTBxRHg1elhUS1N1N2FVLVhxMl9jaDZpblFCV1pxcU51M05fcGpocGtLUEtkRzJQUQ?oc=5",
+      "source": "Tribuna UA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-14T14:03:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "André Barrela - Statistik in Luxemburg: Nationale Division 2026/2027: wie viele Tore und Assists",
+          "summary": ""
+        },
+        "en": {
+          "title": "André Barrela - statistics in Luxembourg: National Division 2026/2027: how many goals and assists",
+          "summary": ""
+        },
+        "fr": {
+          "title": "André Barrela - statistiques au Luxembourg: Division Nationale 2026/2027 : combien de buts et de passes décisives",
+          "summary": ""
+        },
+        "lb": {
+          "title": "André Barrela - Statistiken zu Lëtzebuerg: Nationaldivisioun 2026/2027: wéivill Goler an Assists",
           "summary": ""
         }
       }
@@ -47112,39 +47145,6 @@
         },
         "de": {
           "title": "Unzufriedenheit in Luxemburg: Der neue TGV Brüssel–Basel umgeht das Großherzogtum",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3a73d5c89a5f41ca373097e1162bbbf266e149a5",
-      "title": "O'KEY может ликвидировать дочернюю компанию в Люксембурге",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd3hXZFc2V3h5WUZHRGlQejcxWWJvTzJuS09nYTZiOGJEVzFEN0Nad2U1Si1laE96UHJka3pHUWF3NXdpdjNISS1JTmlCOHBPa2NBMU1FNVlwOGdIcTV1dVdsNV9fa3RzTDZLV0I3OGJJLXVZblJ4SUZmOThLc0VIUXBObHZyQktkd245NXQ2Zko?oc=5",
-      "source": "AKM.RU",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-22T06:51:22.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "O'KEY kann seine Tochtergesellschaft in Luxemburg liquidieren",
-          "summary": ""
-        },
-        "en": {
-          "title": "O'KEY may liquidate its subsidiary in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "O'KEY pourrait liquider sa filiale au Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "O'KEY kann seng Duechtergesellschaft zu Lëtzebuerg liquidéieren",
           "summary": ""
         }
       }
