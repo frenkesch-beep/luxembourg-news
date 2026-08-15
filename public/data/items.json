@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-15T22:38:42.685Z",
+  "generatedAt": "2026-08-15T23:34:39.919Z",
   "items": [
+    {
+      "id": "0ceb729fdde5b8356451c28714ea8b5f5d96755f",
+      "title": "Rosalie Sanders klopt Camille Daix in Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHJVZFBfendXTnQ0ZHN5MXU1RUFjb0N1Ukl2UHVOMVdxNV9JTDN2STJ3d0dWd3RoNzJZSExLclZFZ3RIbW9QSF9TaGctX1FWRGpWMUxkRHlyU09jbXdGNG1HNmhnWG5oN2h4VzhRVEMyakVXMWZra2x3TXJPc2M5UHRRSWtUUWFXaGVoSHFkVGlIRXJfTjNpbU1XaGZVd2pQa21fSkRSZS0?oc=5",
+      "source": "Nieuwsblad",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-08-15T23:32:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Rosalie Sanders klappt de Camille Daix zu Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Rosalie Sanders bat Camille Daix au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Rosalie Sanders beats Camille Daix in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Rosalie Sanders schlägt Camille Daix in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "d3c68fb2e973d0fc7996c467156e64abfb82add2",
       "title": "Ποδόσφαιρο: Λουξεμβούργο - Ιταλία",
@@ -47092,39 +47125,6 @@
         },
         "de": {
           "title": "Berichte im Zusammenhang mit dem Wirtschaftskooperationsrat Taiwan-Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "af1ba443fcc99388ede2f46751944bd39b474569",
-      "title": "Arménia-Luxemburgo | Plantéis | UEFA Sub-17 2027",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DVWRubjNNc2pvcWZIZmdGeWM0MnNJbEpFT0RLSGJ2c0trVlA3b1FZRFgwNFhKQ2JtZEhhOHlKYXN4Vl9nRXlXLUp2WlVPZmJFMUxHRlJldjRVRkNyeHB3NFBscWt2UzM4azRNOXBsUEtaZjFhREFpWUZwc3dtdw?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-23T02:29:22.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Armenien-Lëtzebuerg | Kader | UEFA U17 2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Armenien-Luxemburg | Trupps | UEFA U17 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Arménie-Luxembourg | Escouades | UEFA U17 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Armenia-Luxembourg | Squads | UEFA U17 2027",
           "summary": ""
         }
       }
