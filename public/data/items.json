@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:40:06.684Z",
+  "generatedAt": "2026-08-15T11:34:23.616Z",
   "items": [
     {
       "id": "4e146737110c93a611a3fea6773954a5b706f783",
@@ -117,6 +117,35 @@
         },
         "de": {
           "title": "Ein Franzose gewinnt in einem Luxemburger Casino 213.000 Euro und bricht damit den bisherigen Jackpot-Rekord",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2295ebfbd9eda45cecb24b038bed13937ed3d99f",
+      "title": "Nord : 325 kilos de tabac venant du Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1Z3cEVpZGRBNy1vTFVvRmtwLVJaUTFpczNGV29Ka3V2cHRONEVVbzBvMWY3SFBTZWxSeGRlbDdieWJEYTlVemw4TUVXRnNxRF92Y3F5TzVwUzFzLU14MEJDLXI5bDJpOFJpaHYxb2hUdnVkX3AwRE00V3l2MmtsMnhR?oc=5",
+      "source": "Le Monde du Tabac",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-15T04:45:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "North: 325 kilos of tobacco coming from Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Norden: 325 Kilo Tabak aus Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Norden: 325 Kilo Tubak kommen aus Lëtzebuerg",
           "summary": ""
         }
       }
@@ -47124,35 +47153,6 @@
         },
         "lb": {
           "title": "Frankräich-Lëtzebuerg | Statistiken | UEFA U17 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "dbcabbe64ec8e35ca40bbf2e698de837c3b3e40b",
-      "title": "Luxemburgische Arbeitgeber: Nicht nur das Gehalt ist entscheidend: Das ist für Grenzgänger wirklich attraktiv",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPekhxUzhiUENYcFhySEhfVnM2eGZ1MDVlUE9QU05YNFBySjFmNGJaWXFoRGNlUDZHQkp5S0s5MXdGQUpCaldxNXdKUzhZNFdGNUdSMGdIaUV0WjJaZjNnTVhtZnBORkdBTmpMRTg0VUtXMGdnUXdnLWd6Nl9VSUNfYjdneVdRcW5YWEtLd0VjVzhFMzl2aVJ2MzhjM1pZdjRMb0pjX1YzNHpuMXhQYWlkc290WU5QYWlXWFN4QjNFSTlkelZRRUE?oc=5",
-      "source": "Volksfreund",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-22T09:22:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourgish employers: It's not just the salary that matters: it's really attractive for cross-border commuters",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Patronen: Et ass net nëmmen d'Pai wichteg: et ass wierklech attraktiv fir d'Grenzpendler",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Employeurs luxembourgeois : Il n'y a pas que le salaire qui compte : il est vraiment attractif pour les frontaliers",
           "summary": ""
         }
       }
