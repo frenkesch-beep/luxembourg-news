@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-08-15T04:47:59.150Z",
+  "generatedAt": "2026-08-15T05:42:18.816Z",
   "items": [
+    {
+      "id": "fbf814bfffd12fe4831f473e425d5da9627ca4b5",
+      "title": "Tanken in Luxemburg aktuell: So viel günstiger sind die Spritpreise heute",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0NpX29ZOTFTTWtndU5xUDUxRFkzdFFVV0F5OGczREEtZ2lPT2o3VkYxTHVGSTg3akVNRU5MRHlndXVlMTNWck5VMlpZdU1Ya1EyTTNMa1FpVWVLRm5MTDVBTlNvaVhXUXVleG83X1NtYkJZWmZNV0ZLRVpuUGFsUFRYWXQ0emE0VTVnejFGY2haZXJjYklkU2FDYl9EYUdUcXFZSGdXS1pnYllLemFDY0FkVmZfOWc?oc=5",
+      "source": "SOL.DE",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-15T05:03:57.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Refueling in Luxembourg currently: Fuel prices are so much cheaper today",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Faire le plein au Luxembourg actuellement : les prix du carburant sont beaucoup moins chers aujourd'hui",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Am Moment zu Lëtzebuerg tanken: D'Präisser sinn haut esou vill méi bëlleg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "582e480e3934fc3c67c3cff1c857850843d79c06",
+      "title": "Un Français remporte 213 000 euros dans un casino du Luxembourg, le record du précédent jackpot battu",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3NwNlFrXy14WDRoTFc0Z09RV3E2Q3NGZWcwLUo2TjJOXzc5MVcxWW94V2l6SHVmMUdsenFSd0ttMkNGX3RyUGdqZkRmZ2FvQmE1SmFNTHBrQlZQZ1poenZMQXBPWE9DSzlFN2d5SVpkYzYwbFJpTEstVy1UX3dPYVM2VFVvQnA2SnhWTHU2MUNjeFNNbXRGXy1LLW1ZcDF6U1E1NGNMOWtlaTdRUEVwSjY0b21pVUpUS1pWRDM3aV9SSFduTmtjZ1l0bUxJMzZrU0pnbDlB?oc=5",
+      "source": "Actu.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-15T05:02:01.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "E Fransous gewënnt 213.000 Euro an engem Lëtzebuerger Casino, de fréiere Jackpotrekord gebrach",
+          "summary": ""
+        },
+        "en": {
+          "title": "A Frenchman wins 213,000 euros in a Luxembourg casino, the previous jackpot record broken",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein Franzose gewinnt in einem Luxemburger Casino 213.000 Euro und bricht damit den bisherigen Jackpot-Rekord",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "cf1f72e297f56cc1e69f259de59ffbec733bd317",
       "title": "雨宮塔子＞「グッと持っていかれる」 900万人が見た伝説の写真展の秘密に迫る ルクセンブルクの古城に恒久展示 「新美の巨人たち」で（毎日キレイ）",
@@ -30,6 +88,39 @@
         },
         "de": {
           "title": "Toko Amemiya > „Es ist weggenommen“ Eintauchen in das Geheimnis der legendären Fotoausstellung, die 9 Millionen Menschen gesehen haben Dauerausstellung in einem alten Schloss in Luxemburg „Giants of New Beauty“ (Mainichi Beautiful)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "898735ecd3f44f0f358053eee5a391d16f75771d",
+      "title": "雨宮塔子：「グッと持っていかれる」 900万人が見た伝説の写真展の秘密に迫る ルクセンブルクの古城に恒久展示 「新美の巨人たち」で",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pazU5bl85d2pMajYzVWFpZE5Db0JpTUt5V0s4X3BPSnFQQTBSbm1hSnRqZkZKMlBIMm13UlR6S1g1dXMzbkJmdk1JU1U5MFNwNjd3aVFrMmtHVEZrMEYzT3oxMklEd3BpbFVoRFN0MA?oc=5",
+      "source": "毎日キレイ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-08-14T23:20:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Toko Amemiya: ``It's taken away'' Daucht an d'Geheimnis vun der legendärer Fotoausstellung vun 9 Millioune Leit Permanent Ausstellung am ale Lëtzebuerger Schlass ``Giants of New Beauty''",
+          "summary": ""
+        },
+        "de": {
+          "title": "Toko Amemiya: „Es ist weggenommen“ Eintauchen in das Geheimnis der legendären Fotoausstellung, die 9 Millionen Menschen gesehen haben Dauerausstellung im alten Luxemburger Schloss „Giganten neuer Schönheit“",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Toko Amemiya : ``C'est emporté'' Plongée dans le secret de la légendaire exposition de photos vue par 9 millions de personnes Exposition permanente au vieux château de Luxembourg ``Géants de la Nouvelle Beauté''",
+          "summary": ""
+        },
+        "en": {
+          "title": "Toko Amemiya: ``It's taken away'' Delving into the secret of the legendary photo exhibition seen by 9 million people Permanent exhibition at Luxembourg's old castle ``Giants of New Beauty''",
           "summary": ""
         }
       }
@@ -311,6 +402,39 @@
         },
         "fr": {
           "title": "Luxair : Diverses destinations soleil & Londres à partir de 89€ aller-retour depuis le Luxembourg (109€ avec bagages)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "bca5475cee5d81a2080a66e1207b2efa061c48ea",
+      "title": "景順盧森堡基金系列召開股東週年大會會議通知",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTNON19zTTFkX0FUZTdKRC1FY0s4TGRacXdEUmM5ZXRyaHFZY2pUUG5fTm1nVDVvclNsMFpFZUdtRGhNRU0xcC1aYnF2WUkzT3RZVnVWRXl6RHh0d1kzMUZWTmk5Zk9nb1piUW9keVBBc1poY1FITFNPbGVjMENiX3hsNnBVeC1NZ2QxdHkwUzlzTGU0SlNwS1ViNzNHSUQtbVNYUlVPTVlaQQ?oc=5",
+      "source": "ezfunds.com.tw",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-14T14:56:52.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Invesco Luxembourg Fund Series Annonce de l'Assemblée générale annuelle des actionnaires",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ankündigung der Jahreshauptversammlung der Aktionäre der Invesco Luxembourg Fund Series",
+          "summary": ""
+        },
+        "en": {
+          "title": "Invesco Luxembourg Fund Series Announcement of Annual General Meeting of Shareholders",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Invesco Luxembourg Fund Series Announcement of Annual General Meeting of Shareholders",
           "summary": ""
         }
       }
@@ -807,6 +931,39 @@
         },
         "de": {
           "title": "Fabiani aus Luxemburg nimmt an der Qualifikation zur 4x100-m-Staffel der Männer bei den Europameisterschaften 2026 teil",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e2031c6d577e6bca468861b92f3fef7262d0796f",
+      "title": "ポルトガル 9 - 0 ルクセンブルク：マッチレポート、統計、ラインナップ、H2H",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMkxWUG03Z0Q0WUFPbW9SeGZWeXd2UmdjYzllajYwcVN4Y2E2MFVtd2YxTFVVMDVxNVh0WUZEYUF0RWxGZFNQeVo3VERpM3NOMElfN2g5VUpNS3dFV2VsdWs2R01jSV94bFBZV1RiVUVmTUVaZGRhOHNXNURXY2JHMEVwTl9fVTBZdGJJ?oc=5",
+      "source": "365Scores",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-08-14T05:14:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Portugal 9 - 0 Luxembourg : rapport de match, statistiques, composition, H2H",
+          "summary": ""
+        },
+        "en": {
+          "title": "Portugal 9 - 0 Luxembourg: Match report, statistics, lineup, H2H",
+          "summary": ""
+        },
+        "de": {
+          "title": "Portugal 9 - 0 Luxemburg: Spielbericht, Statistiken, Aufstellung, H2H",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Portugal 9 - 0 Lëtzebuerg: Bericht vum Match, Statistiken, Opstellung, H2H",
           "summary": ""
         }
       }
@@ -9045,6 +9202,39 @@
         },
         "fr": {
           "title": "L'Ukraine a battu le Luxembourg au Championnat d'Europe U-18",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "138143fc6f6fa0628216eb5a36f9cc0cd57c4bc3",
+      "title": "Galería de Puerto Libre de Luxemburgo / Atelier d'Architecture 3BM3 - 41",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZkZQQkhrMV93RWQ0bEZIMU1fWnBkcGRtc2JsSWd2NHMzOExtcDhiamEwOUk5X244NjdsaVJ5ZDBrOVJGQTgzUWRlaFhadWxSWEZYMld4SG9KWlBfZjVBbEZnYVZvS21aQ2tqSDZmYXNYNWZhOHFVVGlmM25Ga25sX0liNERjb3JGbkdLcENiWlVHY0FVSGFGcFFpeDlYS01OVGNEb3JyNWpDQ1YwTUlOM25NVWV3bWxEaVVVMXptMA?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-08T13:26:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Galerie du Port Franc de Luxembourg / Atelier d'Architecture 3BM3 - 41",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Freihafens Luxemburg / Atelier d'Architecture 3BM3 - 41",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 41",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 41",
           "summary": ""
         }
       }
@@ -46951,200 +47141,6 @@
         },
         "fr": {
           "title": "Présentation des fonds de la série Proximity (Luxembourg) - Proximity Emerging Markets Equity Fund niveau I (USD) | Juheng.com - Vétéran du fonds",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b72624dcfbc93573cb22369a94568436b9d4c7e8",
-      "title": "卢森堡的蘑菇种植者使用不同的生产系统",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc2Zob1BWbnNpeEtCd2Y5WUlfNmZXem5EdU9Kc3Y3TUtIM1JjQ2RaTlRscFFLY2NjQmpNcmF4dlpRZUhqaHBLWWItcXJfa0dNNVByVmVxU2Z3dzU4ODlyUVNzMjl6a29lRkxJVnRxOWdrRVQ4U1RoQlRwZU9GUWJhbF9RWUhBMEh5VkFWQ3doT3FtSDFuaTVaM2V1c3JPcWhPNzBuOW5GN0xxcXY2dnl1NGQyOU1wQQ?oc=5",
-      "source": "全球果蔬网",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Les producteurs de champignons au Luxembourg utilisent différents systèmes de production",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Champignonsbaueren zu Lëtzebuerg benotzen verschidde Produktiounssystemer",
-          "summary": ""
-        },
-        "de": {
-          "title": "Pilzzüchter in Luxemburg verwenden unterschiedliche Produktionssysteme",
-          "summary": ""
-        },
-        "en": {
-          "title": "Mushroom growers in Luxembourg use different production systems",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a39191b34b0f1b25551897ea4375caa91ab53a62",
-      "title": "계룡시, 룩셈부르크와 6·25 디지털 아카이브 구축…참전기록물 공개",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlWmRubTd1dDF0VGUyVkRheHVCTEpkcmI0cHNFb3AtRTVMb3FDTlBOTVhhOVVTeU9fQkw0OXdfam9ad0lBODBRVHdqc0luaVFkS1VwXzNDX2FBU3VKZ29MUA?oc=5",
-      "source": "뉴스1",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La ville de Gyeryong crée des archives numériques du 25 juin avec le Luxembourg... Divulgation des archives de guerre",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gyeryong City establishes June 25 digital archive with Luxembourg... Disclosure of war records",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Stadt Gyeryong richtet am 25. Juni ein digitales Archiv mit Luxemburg ein... Offenlegung von Kriegsakten",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gyeryong City stellt de 25. Juni digitalen Archiv mat Lëtzebuerg op... Verëffentlechung vu Krichsrecords",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "53820ed8e796d983fc8e2c67e42bb6eee165c3cc",
-      "title": "계룡시, 룩셈부르크와 6·25전쟁 디지털 아카이브 구축",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWeEdVWE0yNTJuQ0otUWNWbVlaYWhlV1dkNHhBZlk1bUZoalNFRUtBcHkzMjlCVVhRMXJlcXphU2dVek5ScW5HcU1JNk5fSnBINzFoTTJXVGtBVnM4ZlUtbmNWMGMwS29z?oc=5",
-      "source": "2news.co.kr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La ville de Gyeryong et le Luxembourg créent des archives numériques de la guerre de Corée",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Stadt Gyeryong und Luxemburg richten ein digitales Archiv des Koreakrieges ein",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gyeryong City and Luxembourg establish a digital archive of the Korean War",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gyeryong City a Lëtzebuerg grënnen en digitalen Archiv vum Koreakrich",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2b3d0bb920413ca357a7d50be0d984ad0a6713dd",
-      "title": "România riscă sancțiuni de zeci de milioane de euro din partea Uniunii Europene dacă ignoră în continuare hotărârile Curții de Justiție de la Luxemburg pe tema „marii prescripții”",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDJDRl9BLVRCcFNiVE1XVzZrRDJ2cXkybHVQdWdFRW01R1k4YjJYQncxd0lOeXVrODdTQmZhNUVEVXBjNDhMNVMtcmhPNHBtOTJtaWsyWTJGQkRtaWNnbDZaMzl5ZUhjWVNWLWN3X3VnRkVpcGhCMEpRUktQUWJnOGFKOUpBYU84NTdYNXp4dllnem1RdVlGVklkTWUyRXZXTW9VNlVUX0VBaHA3VXFjVlFEbl9TV0I4SFZZMjRYZHJXYzFaSWRhUXFuQQ?oc=5",
-      "source": "Libertatea",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Rumänien riskéiert Sanktioune vun zéngdausende Milliounen Euro vun der Europäescher Unioun, wa se weiderhin d'Uerteeler vum Lëtzebuerger Geriichtshaff zum Thema \"grousse Verschränkungsgesetz\" ignoréiere wäerten.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Romania risks sanctions of tens of millions of euros from the European Union if it continues to ignore the judgments of the Luxembourg Court of Justice on the subject of the \"great statute of limitations\"",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La Roumanie risque des sanctions de dizaines de millions d'euros de la part de l'Union européenne si elle continue à ignorer les arrêts de la Cour de justice de Luxembourg au sujet du \"grand délai de prescription\"",
-          "summary": ""
-        },
-        "de": {
-          "title": "Rumänien riskiert Sanktionen der Europäischen Union in zweistelliger Millionenhöhe, wenn es die Urteile des Luxemburger Gerichtshofs zum Thema „große Verjährungsfrist“ weiterhin ignoriert.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "881cf40addbc083549cf257db4b664f9e06c726d",
-      "title": "Nemulțumire în Luxemburg: noul TGV Bruxelles–Basel ocolește Marele Ducat",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JMEt3cVhHd2ZSbzllSFpvTWxTUWtHdlFrMVpEQ1JfNjkzVnl4RWtfbS10Q1Zibjl1aFkxYUhIdV9NODRpQWlENXVoM3lwNm9kYWlWZkYxS1lsVnFKM2hmUTBPODh2eFpHVm9QLVVR?oc=5",
-      "source": "Club Feroviar",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "eu"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Mécontentement au Luxembourg : le nouveau TGV Bruxelles-Bâle contourne le Grand-Duché",
-          "summary": ""
-        },
-        "de": {
-          "title": "Unzufriedenheit in Luxemburg: Der neue TGV Brüssel–Basel umgeht das Großherzogtum",
-          "summary": ""
-        },
-        "en": {
-          "title": "Discontent in Luxembourg: the new TGV Brussels–Basel bypasses the Grand Duchy",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Onzefriddenheet zu Lëtzebuerg: Den neien TGV Bréissel-Basel geet ëm de Grand-Duché",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7b6d800fb643949a54ebf97b22982b2d5e45f676",
-      "title": "Discontent in Luxembourg: The new Brussels–Basel TGV bypasses the Grand Duchy",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VU3d1WG1mSDUyVEZsYVNrVF9mS0lqeTQtN3BxQmdIbGVtUTYtUnVGNGZISHlhMm14dFpSRXFrbF9KaXdCbm9RSllCOGh6Skw0bFN2ZjhDUERFOTVRVS1GUHc2MUUwZw?oc=5",
-      "source": "Railway PRO",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-22T06:56:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "eu"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Onzefriddenheet zu Lëtzebuerg: Den neien TGV Bréissel-Basel geet ëm de Grand-Duché",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Mécontentement au Luxembourg : le nouveau TGV Bruxelles-Bâle contourne le Grand-Duché",
-          "summary": ""
-        },
-        "de": {
-          "title": "Unzufriedenheit in Luxemburg: Der neue TGV Brüssel–Basel umgeht das Großherzogtum",
           "summary": ""
         }
       }
