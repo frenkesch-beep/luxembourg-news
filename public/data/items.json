@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:40:09.072Z",
+  "generatedAt": "2026-08-16T15:36:12.101Z",
   "items": [
     {
       "id": "31fc9f45db9f877f0adeeaf3cb49f424d5dd74bc",
@@ -31938,6 +31938,39 @@
       }
     },
     {
+      "id": "6fb5851cb8a7283e052e4ed0cf8080770d4442f7",
+      "title": "画廊 卢森堡基希贝格办公楼 / Paul Bretz Architectes - 1",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQN0MycjZ5bzNUSWJ0ejVFNkkzYzFPa2xMd1AtdGl2bU45X1FPV0pzVEEtSkM4WU92TWJmZUVFME1lUnoxMGYwWUo4dWFZNjlvVVdEMXYzci15TGhSWDFnZnhsVU14TnU3TDV2ZnJ6b1pOY1IwYTZ6YTktQlNnSTlPMDRNdi1RZE43NURjdWNxMXNVVEdQZ0dvcEVEVEZIUGVKX3FwbzIyaG42OEdBWF82VWVNVXBYSHFYTUpKMVdmQkNjSEhnMDk1MVRYbXQ0aUYtb3V6RVBVV0R4VmpOR2tlUlcwVGptWEhSVkJhUGJMQTR2ZlZqX2NnUkRBeC1EeHlCa1B4OEtIQXVrT016RUFPUC1XdkxEdw?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-07-29T19:29:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Galerie des Bürogebäudes in Kirchberg, Luxemburg / Paul Bretz Architectes - 1",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Galerie des Offices de Kirchberg, Luxembourg / Paul Bretz Architectes - 1",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Office Building in Kirchberg, Luxembourg / Paul Bretz Architectes - 1",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de Immeuble de bureaux à Kirchberg, Luxembourg / Paul Bretz Architectes - 1",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "321acdd74f565a52fe4bdaad9511a60c1fc5a977",
       "title": "画廊 卢森堡基希贝格办公楼 / Paul Bretz Architectes - 19",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNMDgxYjVuT051SmRsSFhJVDJhRjlNRzVVd3d0bnpXT2lzdWlsT3pBTDk1cUNtaEJrdW1FMThScHNCeWtHQ1pIeFROaTlQUnQ0SkdtX0lCNVloOVRoanh4dHc4bzNkVDRJM0wwN3dVNlBReXFWUWdjOXU3SlRGcVI0RUNDR2huZnF4S2JXQVBDWklnUUdvcUp5d0FvNnZISWgzZW9NQTg3bEFzRzVIMndHQ2xHdUFMb21JLXI2UE5kNnFjd1ZvUzdFUVlpLXpJaGc4SGRfRUZtRkdiUlh5YkFsdUxJS0F6bG82X21TUHRtR1h4VnR4d0t5bWE0OXBaOEpCMnI5c3VKdE5sZWs2UUdJUDFxaE9UcmRxR3ZR?oc=5",
@@ -47114,35 +47147,6 @@
         },
         "fr": {
           "title": "Incident sur la piste de l'Antonov An-2 à l'aéroport de Luxembourg | Que s’est-il réellement passé ?",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1fcce42d03bf413c77f4820c97625fd4d0a89743",
-      "title": "Thionville-Luxembourg : trains remplacés par cars jusqu’au 23 août 2026",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jM0ZZQW5TR0gtN0FsYVVtOTc3R0lhMjkzVVZ3amFGdlBsejNkbUEwYUhGSU0tWXZyX1VqMUFhck1GUy1TTFVKWmx5bUhIenpNTFdhNmk5X0xYSTZEV2FFUFhkWVNfZHdYQkJyNmVzWFQ?oc=5",
-      "source": "INFO.FR",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-23T09:52:04.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Thionville-Luxemburg: Züge bis 23. August 2026 durch Reisebusse ersetzt",
-          "summary": ""
-        },
-        "en": {
-          "title": "Thionville-Luxembourg: trains replaced by coaches until August 23, 2026",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Thionville-Lëtzebuerg: Zich ersat duerch Autobusser bis den 23. August 2026",
           "summary": ""
         }
       }
