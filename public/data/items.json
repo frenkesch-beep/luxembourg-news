@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T21:34:34.391Z",
+  "generatedAt": "2026-08-16T22:37:20.696Z",
   "items": [
     {
       "id": "912a0c63740af5f48e36dac6a2a5d631f1c58b91",
@@ -250,6 +250,39 @@
         },
         "de": {
           "title": "Die Brandbekämpfung im Hohen Venn geht weiter: Etwa 3.000 Hektar Natur gingen in Flammen auf, Brandgeruch war bis nach Luxemburg wahrnehmbar",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5d8792dd78c02dca4764651c592a215bd74c91aa",
+      "title": "Galeria de Biblioteca Nacional de Luxemburgo / Bolles + Wilson + WW+ architektur + management - 17",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOT2pvR1VzQkZQUXAyWXhpY1JReDdKM3RHVEM0ZGNGVlFzckxQNFBISkpoTzl3NDBkT2FPbWoyWlFEUll2djRVQ2RrNmxQMnU5YUUyeExwM21VR3hzVEgxRFM4YnF4VXFzd1JNX2t0TTgxeDdVR0V3a1JZbGYtNU5lbXdSY3lZUUNVNE1OU3JyUDlfS05mX1JqeThzRlc0WEl1bGNvNGxzVHRFRGNVUTFseURjcUwxQU83T2lLbVdkWW5ySXNuZmMyREdvSUE3YmZfUWtydmNnd0lpVFRwUGZXWlp2d3M0ek53ZzRaazc5Ti0xMDVIRFhXS2JtWWFBaDJlRE9sLTloSUdvMVlrbUw1RkxEQ0dIbGJvSWdyS1p2bW5UUHp3ZDBsa2pQUHljOG01VWNTQ0hhQjRFWU5uZ1p2WE5yanBTMWVtaDh3RnpTdE1PSFlyVHJ4SERJVE90NDhMMDFZNGtR?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-08-16T11:50:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 17",
+          "summary": ""
+        },
+        "en": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + management - 17",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ architektur + direction - 17",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galeria de Biblioteca Nacional de Luxembourg / Bolles + Wilson + WW+ Architektur + Management - 17",
           "summary": ""
         }
       }
@@ -47138,35 +47171,6 @@
         },
         "fr": {
           "title": "La holding de González Byass quitte le Luxembourg et s'installe à Jerez après avoir perdu 9,4 millions en 2025",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4807f21c75f2c4006cfb905dd5756282f8b40485",
-      "title": "Luxembourg ‘refused Central Bank request’ to extend role approving Israel bonds",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzdzX1Y2ZC1fWFZZUDNLNmJTV2owSmMyaEk1MHZNMGZxYzNxYmdKZ2toOW5qanRSMWF5SzVzQ09ZdDVGZjM3MUhtdDlGbGlZR3YydXEwcmtsZmVxUndRSW0wQnNJMUdGcXhDazM1Zk51TUJ0bjltTUM0R3Jha0xUem9EUUZuU3V2R1dvTzRGRWgyQkFqV2ppVU9NTkxxb2pXcmljZ3NTVXRJekFwOEZWdC1sRzM?oc=5",
-      "source": "Business Post",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-23T16:01:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Luxembourg « a refusé la demande de la Banque centrale » d’étendre son rôle d’approbation des obligations israéliennes",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg huet d'Zentralbank Ufro refuséiert fir d'Roll vun der Genehmegung vun Israel Obligatiounen ze verlängeren",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg „lehnte den Antrag der Zentralbank ab“, die Rolle bei der Genehmigung israelischer Anleihen auszuweiten",
           "summary": ""
         }
       }
