@@ -1,6 +1,98 @@
 {
-  "generatedAt": "2026-08-16T19:34:22.177Z",
+  "generatedAt": "2026-08-16T20:38:52.412Z",
   "items": [
+    {
+      "id": "d448382b702b8c7deca1c326b3c2b61f7c37f40a",
+      "title": "Euro d'athlétisme : le Malmédien Querinjean médaillé d'argent pour le Luxembourg, Schyns 7e du 3.000 m steeple",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNnJuXzRuNzl0VjVtbW9zQlQ1RTBUX2tLc1d3MzRJNE1xLXNLUnlXZV9SbGlUNU5FODRwTjNiS2xnaEFhTlNGTloyS3N6Z3lTZnEtWUs5ckJaNUM5NkpkNi1icDlwRXU2TnZmZEV0Z0gxV1BvX0VyTTRKT0w4MVBiZlEtS3JLTmluMnk5REh4YzdEU2x0VWJyZHZMTzNxRjVadjltYm5OZnpJa3lRbzl6R2FMTzJHTV9uNER6Smc2WFh2LWlHbWtVakJwTjNzNFJtaFZtaURlMU9Rd2U3?oc=5",
+      "source": "RTBF",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-16T20:06:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Euro athletics: Malmédien Querinjean silver medalist for Luxembourg, Schyns 7th in the 3,000 m steeplechase",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Euro-Athletik: Malmédien Querinjean Sëlwermedaile fir Lëtzebuerg, Schyns 7. op der 3.000m Steeplechase",
+          "summary": ""
+        },
+        "de": {
+          "title": "Leichtathletik-Europameisterschaft: Silbermedaillengewinner von Malmédien Querinjean für Luxemburg, Schyns 7. im 3.000-m-Hindernisrennen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a1bd7c252492ea0dad69f31be325f4ff53720da4",
+      "title": "Lucembursko sází na umělou inteligenci, digitální technologie, fintech, healthtech a startupy a veletrh Nexus Luxembourg jako vstupní brána pro české firmy a startupy",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tcE13MWJKUHZ3QmhCQmNjVkJLZG1wWHRJYUt4aUs2RnQ4SjNYZzduQ1hYcVZWeHZLWmJaYUVqT0lnOTZUOHFqRWpqMi1uNXVG?oc=5",
+      "source": "Kurzy.cz",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "cs",
+      "publishedAt": "2026-08-16T18:08:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture",
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg wetten op kënschtlech Intelligenz, digital Technologien, Fintech, Healthtech a Startups an d'Nexus Luxembourg Foire als Paart fir tschechesch Firmen a Startups",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg bets on artificial intelligence, digital technologies, fintech, healthtech and startups and the Nexus Luxembourg fair as a gateway for Czech companies and startups",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg setzt auf künstliche Intelligenz, digitale Technologien, Fintech, Healthtech und Startups und die Messe Nexus Luxembourg als Tor für tschechische Unternehmen und Startups",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg mise sur l'intelligence artificielle, les technologies numériques, les fintech, les technologies de santé et les startups et le salon Nexus Luxembourg comme porte d'entrée pour les entreprises et startups tchèques",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f98d5e598e647ce712105a6900da62b64f2da0e6",
+      "title": "Bulgarian Cinema and Culture to Take Centre Stage at CinEast Festival in Luxembourg in October",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQW14MElCOHJTWHZQZFQ0eTVCcXpjOWI2YXVCYTZ3REt2ZjJlY294OXRHMTJlQUpUdGQzekotR1VYVHJqSDFXeEtDdmk1Uy1yR0RySE9pVGxsdW1XaXNmbVd5OEJOMHlUblVvYlUwcm9zMzZzWU1TNTJlWW5neExJLW5oZno2Z1Jqc2k3LU9mZGpoZXRwNERNZ0U4SUt4bDdlQjRFcl9rcnhma2lGZ0hUNE5qbHRTZ1ZHN2lDLVl0Ukk?oc=5",
+      "source": "БТА",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-16T17:51:55.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Bulgaresch Kino a Kultur steet am Mëttelpunkt um CinEast Festival zu Lëtzebuerg am Oktober",
+          "summary": ""
+        },
+        "de": {
+          "title": "Bulgarisches Kino und Kultur stehen im Oktober beim CinEast Festival in Luxemburg im Mittelpunkt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le cinéma et la culture bulgares occuperont le devant de la scène au festival CinEast au Luxembourg en octobre",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "eb4941a08c2734f52541bcb49e7deace497a201a",
       "title": "Ronde van Luxemburg - Zeven WorldTeams kleuren deelnemersveld van 86e editie",
@@ -249,6 +341,39 @@
         },
         "lb": {
           "title": "Apach, e Muselduerf am Häerz vun der Trois-Frontières a grenzt u Lëtzebuerg an Däitschland",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fe4c31179b28721b3598fd21a85b0abcd0ee1dcb",
+      "title": "瑞銀盧森堡系列股票基金之名稱暨公開說明書變更事宜| 中租投顧",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzhvcTl4cVZnTm5KUzVudkdmWTBFd3JJcnBHX2pWV1c3cVZoU0xvOS1ETExBZ01EbHJ6X0lCZ1dBR01OM2t0bEVoMWMtQ1l0eVRFTXEtaDNrU1NaMXRhRjMxSVltVGZ5ekY0Q1FNbTFoZ2J4MXQzVkNqRWlXN21qa2lmMktrOVdkRkEzOGpVY3I2emdwYUVmVGRtblJBYlM0Sm94eE9fZmctdw?oc=5",
+      "source": "ezfunds.com.tw",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-16T08:58:52.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Änderungen im Namen und im Offenlegungsprospekt der UBS Luxembourg Series Equity Funds | Chailease Investmentberatung",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Modifications du nom et du prospectus des UBS Luxembourg Series Equity Funds | Conseil en investissement Chailease",
+          "summary": ""
+        },
+        "en": {
+          "title": "Changes in the name and disclosure prospectus of UBS Luxembourg Series Equity Funds | Chailease Investment Consulting",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ännerungen am Numm an Offenbarungsprospekt vun UBS Luxembourg Series Equity Funds | Chailease Investment Consulting",
           "summary": ""
         }
       }
@@ -8648,6 +8773,39 @@
         },
         "de": {
           "title": "Fußball: Luxemburg - Slowakei",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3c4310bb09009ab26da9f4a96667d8b157788f3a",
+      "title": "16/07/2026 — IA, mobilidade no Luxemburgo e Estado da Nação",
+      "url": "https://www.youtube.com/watch?v=MGG4tPq_9zA",
+      "source": "LuxNeva Talks Daily",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "pt",
+      "publishedAt": "2026-08-09T20:38:44.127Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/MGG4tPq_9zA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAArgIigIMCAAQARgTIE0ofzAP&rs=AOn4CLAIniMxWcPI5dr1_UNGWah0iwRPBQ",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "16.07.2026 — KI, Mobilität in Luxemburg und Lage der Nation",
+          "summary": ""
+        },
+        "en": {
+          "title": "07/16/2026 — AI, mobility in Luxembourg and State of the Nation",
+          "summary": ""
+        },
+        "fr": {
+          "title": "16/07/2026 — IA, mobilité au Luxembourg et état de la Nation",
+          "summary": ""
+        },
+        "lb": {
+          "title": "16.07.2026 — AI, Mobilitéit zu Lëtzebuerg a Staat vun der Natioun",
           "summary": ""
         }
       }
@@ -47007,159 +47165,6 @@
         "de": {
           "title": "Junqueras und acht weitere ehemalige hochrangige Regierungsbeamte legen Berufung gegen den Beschluss des Rechnungshofs zur Amnestie ein",
           "summary": "Die Beschwerdeführerin ist der Ansicht, dass die Entscheidung der Aufsichtsbehörde, die Parteien zu Vorwürfen aufzufordern, im Widerspruch zum Luxemburger Urteil steht"
-        }
-      }
-    },
-    {
-      "id": "096b687833d61ebc18553797929e9d16b86129f0",
-      "title": "Luxembourg growers praised for \"ingenious\" mushroom cultivation methods",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNODZfa21uOVR0ZHRJUkF0WDBjSmV5eXpBWnppbFlWc1JrZTZaVmlNVTRuYlliLUJFVF9xMWNEVFZkVlhtMndpUXh6aEtCczFvSjkyeFZnUTBwOXBhRkV2emRHTGRzQmxsUmhGTGV0aGEteGRuZ0lOS25nMml1RC1IQXZGVkJJUFhWdDJFaHprbUxBcnNrQ0REUTBMSDJZenIyVXUxdkN6RnM5THB5T1hicE1iSzhfMmk5VVpXZw?oc=5",
-      "source": "Vertical Farm Daily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-23T14:16:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Les producteurs luxembourgeois salués pour leurs méthodes de culture de champignons « ingénieuses »",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburger Züchter loben „geniale“ Pilzzuchtmethoden",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Lëtzebuerger Ziichter hu gelueft fir \"genial\" Pilzekultivatiounsmethoden",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ba7ac92f2b4ba1da1f1240a4c4513623c3f82163",
-      "title": "Spritpreise Luxemburg heute: Das kosten Benzin und Diesel am Donnerstag, 23. Juli",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOVpST2JSVGJVR1poV1dOUF93Rk5tLXVqUWNhVkN2dWVXZTlQeHhJVi1sSGctbGkzX2YzdDVzZ3kxZXpaZXdlY2tGVTBFSmt5eFNkZnRRUUNEY3Y4YVJ0Nmtha3c3c2I3bzRTYVBrMTZRcXV4VWctcTVHbjZxb00?oc=5",
-      "source": "lokalo.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-23T13:47:12.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Brennstoffpräisser Lëtzebuerg haut: Dat kaschten Bensin an Diesel en Donneschdeg, 23. Juli",
-          "summary": ""
-        },
-        "en": {
-          "title": "Fuel prices Luxembourg today: This is what petrol and diesel cost on Thursday, July 23rd",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Prix ​​des carburants au Luxembourg aujourd'hui : voici ce que coûteront l'essence et le diesel jeudi 23 juillet",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9ed1a7fba5ead49445f963cffa1aa11be0e43375",
-      "title": "Luxemburgo conquista cada vez mais brasileiros com cultura e modo de vida",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTJqd2FGV01CZUlaZ0tpWjRYV2VNT185UnE2c1FHdUZ5N0VsSUd6RTBodkRRYzJsNTJYa2tuaFhiNzhvOFFTbFhlMWJHX3haNmh5OGhjNFhtVzYzVlZFQWZ1Wm9TTnNWTDY4SkowT0VnRmhoTmk0U19LMmpJTlp2Zm1Td08?oc=5",
-      "source": "h2foz.com.br",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-23T13:28:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg wënnt ëmmer méi Brasilianer mat senger Kultur a Liewensstil",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wins over more and more Brazilians with its culture and way of life",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg überzeugt immer mehr Brasilianer mit seiner Kultur und Lebensart",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg séduit de plus en plus de Brésiliens par sa culture et son mode de vie",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "297a89dd6ea0358a4627e1ff341ee7c0192fa9f4",
-      "title": "Luxembourg's Altisource Q2 service revenue rises on customer wins",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY2N5TUd1b2VseTJia1JmNjRhUG5BSWJpYUVJVWxkem9MLW9kMGRUT3g1ZkRPX2xVWldTLUJ1djZFUGZWM2NmanBzMzlITzBnM0MyUy1KZ2lIRTh6YTZ3N2w3OUJLUmRIQ2xhX0NyUkR5VkFrckxMN1NNNERlR3ZoWmdSOF84YXBYeS1BSlh5c3lzMGxjUmNqLXpncHhKX0k2SkNITW1nM09ZSzdaX0FyRVhHdWRTLW54YlpGSGJQNkVPWVU2MHZpRzhtaUdMTWRh?oc=5",
-      "source": "TradingView",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-23T11:15:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Lëtzebuerger Altisource Q2 Service Recetten klëmmt op Client Gewënn",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le chiffre d'affaires du service Altisource au deuxième trimestre au Luxembourg augmente grâce aux gains de clients",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der Serviceumsatz von Altisource in Luxemburg steigt im zweiten Quartal aufgrund von Kundengewinnen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1e9159b16ad2e7ced9f23aacf587e8e070006ad5",
-      "title": "Fitfluencer Maud Borst (21) uit Heiloo finisht IRONMAN 70.3 in Luxemburg: ‘Ik heb niet echt een rem’",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMTBqSjhDYmNEejlueGswNENMX0RJWHk0enJKcnN4RHVkOG14cHE4TnFNSDAyelQ0SnBGcDRITnEtNlhha0VvXzh1ajJ6TDRoeWxYRFlIMnZaanozTkZfdjNMaFpBekR2OTN1OHNjU21vNXZJN2xCMk42THpmTGswZjVNb1F4cUJiMEo1X3c3amdubUhaV3pLakNxbU5Rd05OUHZicFFzb1lmQ0stU3pFSXozdWdKbW1QNEUtS3N6U1hTXzVONVFzRVA2TW1JS25q?oc=5",
-      "source": "rodi.nl",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-23T11:13:01.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La Fitfluencer Maud Borst (21 ans) de Heiloo termine l'IRONMAN 70.3 au Luxembourg : \"Je n'ai pas vraiment de frein\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "Fitfluencer Maud Borst (21) from Heiloo finishes IRONMAN 70.3 in Luxembourg: 'I don't really have a brake'",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Fitfluencer Maud Borst (21) vun Heiloo fäerdeg den IRONMAN 70.3 zu Lëtzebuerg: 'Ech hu wierklech keng Brems'",
-          "summary": ""
-        },
-        "de": {
-          "title": "Fitfluencerin Maud Borst (21) aus Heiloo beendet IRONMAN 70.3 in Luxemburg: „Ich habe nicht wirklich eine Bremse“",
-          "summary": ""
         }
       }
     },
