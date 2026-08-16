@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-16T15:36:12.101Z",
+  "generatedAt": "2026-08-16T16:42:59.391Z",
   "items": [
+    {
+      "id": "fd39d8835de95ead2fa97c146c36affbc70c32c6",
+      "title": "Homem procurado por Portugal é detido no Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUt4d1dMeExteDkwWG5ybVdaV0p4dTlaaXhWblBIZXZoekoyQl82RjdNRVZ5MExuOU5lUmlWdUJQMUljWGhpNjNVc1dSZkFja0RrblBJRmp1TkU0WGdHM3JTMFFPbV9UWDVRLWxkaVFGN09DREZUcUtwRzVtMTM2ZTJ3dHRuemlWQVFBNXlJdkdQR0tyV1l1TkkwemtOUQ?oc=5",
+      "source": "Notícias ao Minuto",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-08-16T16:37:38.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Von Portugal gesuchter Mann wird in Luxemburg festgenommen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "E vu Portugal gesichte Mann gëtt zu Lëtzebuerg festgeholl",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Un homme recherché par le Portugal est arrêté au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Man wanted by Portugal is arrested in Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "31fc9f45db9f877f0adeeaf3cb49f424d5dd74bc",
       "title": "Blussen in Hoge Venen gaat door: ongeveer 3000 hectare aan natuur in vlammen opgegaan, brandgeur tot in Luxemburg waarneembaar",
@@ -8173,6 +8206,39 @@
         },
         "lb": {
           "title": "Aus engem psychiatresche Spidol zu Metz geflücht, brëcht e Mann zu Lëtzebuerg an en Haus an a menacéiert eng Famill",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "38d8b3f539f7ca19973c74fada54823866ae4daf",
+      "title": "万顺新材：欧箔卢森堡目前主营双零铝箔、铝板带业务",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxVmc5d2NZb0czNFFYck1QV3pyemJINF9NR241ckw3V3g0TzM4Q1QzNDFJUGlEZzkySFV4UW9EeEpvbVo1ZnVKYXdLQlVDN3llTm1mWUhQaWlscUQwa2RFdDE1WjctQQ?oc=5",
+      "source": "东方财富",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Wanshun New Materials: Eurofoil Lëtzebuerg beschäftegt sech momentan haaptsächlech an Duebel-Null Aluminiumfolie an Aluminiumplack a Sträifengeschäft",
+          "summary": ""
+        },
+        "en": {
+          "title": "Wanshun New Materials: Eurofoil Luxembourg is currently mainly engaged in double-zero aluminum foil, aluminum plate and strip business",
+          "summary": ""
+        },
+        "de": {
+          "title": "Wanshun New Materials: Eurofoil Luxembourg ist derzeit hauptsächlich im Doppel-Null-Aluminiumfolien-, Aluminiumplatten- und Streifengeschäft tätig",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Wanshun New Materials : Eurofoil Luxembourg est actuellement principalement engagé dans le secteur des feuilles d'aluminium, des plaques et des bandes d'aluminium à double zéro",
           "summary": ""
         }
       }
@@ -47085,68 +47151,6 @@
         },
         "fr": {
           "title": "L'Egypte et le Luxembourg discutent de l'expansion de la coopération économique et des crises régionales",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a50928f3742629418e3323c08c70c6a3806e864b",
-      "title": "Bregal Sagemount to take majority stake in Luxembourg’s ATOZ Services",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQURaTnBSa1VNaEdpVE5XSU01SU9NMXk1eURvLVJDUVZOX05Kd0ZrN1h1RmszMDhSZTFGS0s1OW5Zdk5EbVVVZlg0clktcjF3NkVvakZHa0JZWnRfVFlscEptVGU4MnZlY2xWWjFuWjhxYTVuU3JuZUltVXRZSUJEZ0h2Yi02OHdjV3ZaM251a3BVcEQxcWc?oc=5",
-      "source": "pehub.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-23T10:25:41.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Bregal Sagemount iwwerhëlt d'Majoritéit vun de Lëtzebuerger ATOZ Services",
-          "summary": ""
-        },
-        "de": {
-          "title": "Bregal Sagemount übernimmt die Mehrheitsbeteiligung an der luxemburgischen ATOZ Services",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Bregal Sagemount prend une participation majoritaire dans la société luxembourgeoise ATOZ Services",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "cb32908bdfa6cf3175dbb0ee75b61e5aa5d6d281",
-      "title": "Antonov An-2 Runway Incident at Luxembourg Airport | What Really Happened? ",
-      "url": "https://www.youtube.com/watch?v=r_4sl6VpyWo",
-      "source": "Sky watch global ",
-      "sourceCountry": "",
-      "type": "video",
-      "lang": "pt",
-      "publishedAt": "2026-07-23T10:02:26.145Z",
-      "summary": "",
-      "imageUrl": "https://i.ytimg.com/vi/r_4sl6VpyWo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRw8nP_EnDd_oLvfYLU2whVznqkQ",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "de": {
-          "title": "Zwischenfall auf der Landebahn einer Antonov An-2 am Flughafen Luxemburg | Was ist wirklich passiert?",
-          "summary": ""
-        },
-        "en": {
-          "title": "Antonov An-2 Runway Incident at Luxembourg Airport | What Really Happened?",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Antonov An-2 Runway Incident um Luxembourg Airport | Wat ass wierklech geschitt?",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Incident sur la piste de l'Antonov An-2 à l'aéroport de Luxembourg | Que s’est-il réellement passé ?",
           "summary": ""
         }
       }
