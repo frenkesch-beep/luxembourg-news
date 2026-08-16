@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T17:33:59.100Z",
+  "generatedAt": "2026-08-16T18:47:36.775Z",
   "items": [
     {
       "id": "eb4941a08c2734f52541bcb49e7deace497a201a",
@@ -5747,6 +5747,39 @@
         },
         "fr": {
           "title": "Today For Tomorrow prend en charge la gestion de deux fonds domiciliés au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7cdf838cb8635344723d56d4c9915059622d3018",
+      "title": "総務省とルクセンブルクが「宇宙通信・AI」協力で合意！ 衛星光通信の共同開発からサイバー対策まで。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TS1J4VzFHQUsxdWJKcXVldjNleTRRMlBvTzNOSElocjFNdm4wVzRmT190cXVqcE41QzBZSHBEVzhUODllVWhYMUV5UXBWRkU?oc=5",
+      "source": "DXマガジン",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-08-12T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le ministère de l’Intérieur et de la Communication et le Luxembourg conviennent d’une coopération dans les domaines « communications spatiales et IA » ! Du développement conjoint des communications optiques par satellite aux cybercontre-mesures.",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Ministry of Internal Affairs and Communications and Luxembourg agree on cooperation in “space communications and AI”! From joint development of satellite optical communications to cyber countermeasures.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das Ministerium für Innere Angelegenheiten und Kommunikation und Luxemburg vereinbaren eine Zusammenarbeit im Bereich „Weltraumkommunikation und KI“! Von der gemeinsamen Entwicklung der optischen Satellitenkommunikation bis hin zu Cyber-Gegenmaßnahmen.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Inne- a Kommunikatiounsministère a Lëtzebuerg si sech iwwert d'Zesummenaarbecht an der \"Raumkommunikatioun an AI\" eens! Vun der gemeinsamer Entwécklung vun opteschen Satellittekommunikatioune bis Cyber-Géigemoossnamen.",
           "summary": ""
         }
       }
@@ -47126,35 +47159,6 @@
         },
         "de": {
           "title": "Fitfluencerin Maud Borst (21) aus Heiloo beendet IRONMAN 70.3 in Luxemburg: „Ich habe nicht wirklich eine Bremse“",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c36c06d680c01e5842bd859534ba640996f71c0f",
-      "title": "[1986] RTL Luxembourg - Generique du Le journal | French news intro",
-      "url": "https://www.youtube.com/watch?v=4OnzyWKVMNo",
-      "source": "⨁ stewssman",
-      "sourceCountry": "",
-      "type": "video",
-      "lang": "en",
-      "publishedAt": "2026-07-23T11:02:58.252Z",
-      "summary": "",
-      "imageUrl": "https://i.ytimg.com/vi/4OnzyWKVMNo/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhGIEQofzAP&rs=AOn4CLCPDka3bBsAexk1aTb2juk4bawclg",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "[1986] RTL Luxembourg - Generique du Le journal | French news intro",
-          "summary": ""
-        },
-        "fr": {
-          "title": "[1986] RTL Luxembourg - Générique du Le journal | Introduction à l'actualité française",
-          "summary": ""
-        },
-        "de": {
-          "title": "[1986] RTL Luxembourg – Generique du Le Journal | Einführung in die französischen Nachrichten",
           "summary": ""
         }
       }
