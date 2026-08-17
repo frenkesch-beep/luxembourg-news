@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-17T20:44:43.797Z",
+  "generatedAt": "2026-08-17T21:42:18.725Z",
   "items": [
+    {
+      "id": "aec9111ff2203d4384063a3fad48ba069d83fb64",
+      "title": "Véronique Alves Batista: Raízes portuguesas, o Luxemburgo e a força de contornar obstáculos",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkNQMFhXWnBhNzRySlRDVEVDNFFmcnZDeU4yMWcwNGh4S28xSU01VV9WRGgxSmZMTFcxeDJqUldvOUhSZlhYWGlCWV8xTmRmd3VobS1vQUJ5SUExX1kxR2FJRTZGQ1RMazktVDFLSHVNbDFwb1V3c25HNEF5T1pXczZpQ0tGNzdBNGxkbnh1cjA2QVlWdmV6TldYZUoya0V5Y01SSEZ3czdPM0o0?oc=5",
+      "source": "BOM DIA - Portugal no Mundo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-08-17T21:01:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Véronique Alves Batista: Portugisesch Wuerzelen, Lëtzebuerg an d'Kraaft fir Hindernisser ze vermeiden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Véronique Alves Batista : racines portugaises, Luxembourg et force d'éviter les obstacles",
+          "summary": ""
+        },
+        "en": {
+          "title": "Véronique Alves Batista: Portuguese roots, Luxembourg and the strength to dodge obstacles",
+          "summary": ""
+        },
+        "de": {
+          "title": "Véronique Alves Batista: Portugiesische Wurzeln, Luxemburg und die Kraft, Hindernissen auszuweichen",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "f66ec152708529af4423bbbf605c85575209a3c3",
       "title": "Luxembourg visitors tour Remsen and Le Mars",
@@ -47128,39 +47161,6 @@
         },
         "lb": {
           "title": "Lëtzebuerg wëll weider zur neier Phas vun der Entwécklung vu Vietnam bäidroen.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "34563b9f68596feeb23f1c4ec8a67b88484b7ce7",
-      "title": "लक्ज़मबर्ग वियतनाम के विकास के नए चरण में अपना योगदान जारी रखना चाहता है।",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0Fyd1R2cTM0YU9fRnJ4YmhiZFFLZHA5UkxMY0xCYmFMVUtMVGVpWjVOaFQtY1BiNzNDWldvdWtnZS1rMFUyRFJ6V21lTTdVeFBHVElGd0ctYnVyYTBKbUpJZk41cmc5VllidF80MkFxbjJfTEJyV0xoTkVWc0twR1ZKckFsZmI2RUJhQmQybUZBLTJ1YnRpZl9Vc0NkU3NiNy1acDE4dnhsaVJm?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "hi",
-      "publishedAt": "2026-07-24T09:20:16.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Luxembourg souhaite poursuivre sa contribution à la nouvelle phase du développement du Vietnam.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wishes to continue its contribution to the new phase of Vietnam's development.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg möchte seinen Beitrag zur neuen Phase der Entwicklung Vietnams fortsetzen.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg wëll säi Bäitrag zu der neier Phas vun der Entwécklung vu Vietnam weiderféieren.",
           "summary": ""
         }
       }
