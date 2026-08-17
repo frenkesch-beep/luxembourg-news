@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-08-17T09:01:37.299Z",
+  "generatedAt": "2026-08-17T09:58:06.216Z",
   "items": [
+    {
+      "id": "898bf49e79036e1659a909a9a2e0dfdaa489b6cb",
+      "title": "Bulgarian cinema and culture to be showcased at festival in Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemNXVS1aa3pJTHZ2RjZhb0ZsY3c0OWlub0dUX21DMkxnRmd5Z1JITElqaHRTWUJ2NkhxdVFpUDdma09MT0VCUjNFbHBHaDZnUFpaNjhKQXdMZ1NBS2U5aDZObEw1eGlVdjBvRkIwcFVSVWNoQ0YzT1ctNTNRZm9nOFVQQlpiSUFyS1VpS3JadHB2MXE1TmQ2MENra1lRSlBtQ253X1E5UQ?oc=5",
+      "source": "БНР Новини",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-17T09:37:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Bulgaresch Kino a Kultur gëtt um Festival zu Lëtzebuerg gewisen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le cinéma et la culture bulgares seront présentés lors d'un festival au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Bulgarisches Kino und Kultur werden auf Festival in Luxemburg präsentiert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f312f498a5a44cc257ba65e83f04ca7b4b990e07",
+      "title": "Moselle Nord et Luxembourg : c’est quoi ces arbres avec un ruban jaune ?",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmthb1dRSFNVSUtGVi1INTdiNXIyZl9MTk1ERXI2aU5NTHc0WUpnMXRuQVlVaHF0M3pjelhkSlV4T3VObHlvQms4VC01ME81Z3JoYjhoWnFkN0NScFpGbEJfUFg1c0ttN0Roa2VJR2MwTlhPd3FWVFdyTzRzUnFBNWlHRjFsMHpJQ3lZOGlBRk1kc3oybGJxT1RyOUFsLTRFU3VN?oc=5",
+      "source": "La Semaine",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-17T09:16:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Moselle Nord und Luxemburg: Was sind das für Bäume mit einem gelben Band?",
+          "summary": ""
+        },
+        "en": {
+          "title": "Moselle Nord and Luxembourg: what are these trees with a yellow ribbon?",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Musel Nord a Lëtzebuerg: wat sinn dës Beem mat engem giele Bändchen?",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "79118c538136131790f040378669b738a672c511",
       "title": "Бельгия, Швеция, Люксембург и Нидерланды закроют россиянам без биометрии въезд",
@@ -47119,72 +47177,6 @@
         },
         "fr": {
           "title": "Luxembourg-Italie | Compositions | CHE - juniors jusqu'au 17 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7e3b519b66f1ae345803b753d75aeaf65c0451a6",
-      "title": "Люксембург-Италия | Группы | ЧЕ - юноши до 17 2027",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96djZBdDBKNlJVV0NTVWFZblIwNXY2UkFQdEs5SlgtcENhSF84TC1WaFlEYlYzQnhzVWR6TUoxU1lLVUkxRTZ1eUNoZ1l4eXgtWnpidk5QMXFjT3JVa041M3lLS29tb1VIV0tubTc1eDRwM01pTVhzZEpobWpIUQ?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-23T20:19:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg-Italien | Gruppen | Europameeschterschaft U17 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg-Italy | Groups | European Championship U17 2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg-Italien | Gruppen | Europameisterschaft U17 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg-Italie | Groupes | Championnat d'Europe U17 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c45ea5c11014f94ab9dcfa90700099eab93e2513",
-      "title": "瑞銀 (盧森堡) 歐元非投資等級債券基金 (歐元) (月配息) 的總覽 | 鉅亨網 - 基金老司機",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQV1JnOHVHR0NJbUE5a01RTjNpRThIYmhPVGhEMFFfc2pCUElsVnNhVFJMclpwVE5LbkJFbnZ4NFl2ZmZXRmE3X3R0cVFSR1dtVXVFTVk1cURmZmh6OVhzRzBIRUQ4WFdaNzQxT2FzV05ORzl2ZW90S0RGZzF0bktiVGU1amNYeWpUNURmOGQ1QWs5ejV5V2FOSy1RNUlXUjdyWHpwSTdhY2R1NFY3U0Y4Sk8zN2FtcUV1U0JvUDdQTFM4WDhMVDNWeFpXV1pfcVJzV3NmUGpwekpBRWY3UC1CcjNoZldHNUUyN1d3NTdna01QZjJsVUdSdTJhdHZXNEdhdHJJbWNKbnctVC1xOHNPMUkwd1ZPd2FKejQzcHc3cUtTU0NGNXVMNk9MeHZBcnU1azBBZ3JaNlp3ZUtiNDlsTmp4S0J4c2ZTLTZMSFU0UlA?oc=5",
-      "source": "鉅亨網",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-23T20:06:30.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Vue d'ensemble du Fonds UBS (Luxembourg) Euro Non-Investment Grade Bond Fund (Euro) (Distribution mensuelle) | Juheng.com - Vétéran du fonds",
-          "summary": ""
-        },
-        "en": {
-          "title": "Overview of UBS (Luxembourg) Euro Non-Investment Grade Bond Fund (Euro) (Monthly Distribution) | Juheng.com - Fund veteran",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Iwwersiicht vun UBS (Lëtzebuerg) Euro Non-Investment Grade Bond Fund (Euro) (Monatlech Verdeelung) | Juheng.com - Fonds Veteran",
-          "summary": ""
-        },
-        "de": {
-          "title": "Übersicht über den UBS (Luxembourg) Euro Non-Investment Grade Bond Fund (Euro) (monatliche Ausschüttung) | Juheng.com – Fondsveteran",
           "summary": ""
         }
       }
