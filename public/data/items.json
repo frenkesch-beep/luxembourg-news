@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-08-17T18:58:25.238Z",
+  "generatedAt": "2026-08-17T19:43:17.190Z",
   "items": [
+    {
+      "id": "f66ec152708529af4423bbbf605c85575209a3c3",
+      "title": "Luxembourg visitors tour Remsen and Le Mars",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXNTeVRGME41Y0dqNEZFWWViZWhLNFM3SzBrU2lMVlRIamQwckhLcXZoWXBLX0E0a2ZOMmpuYnczbUFPazNMRkI2d181YXhFcWtjY01QYzV2aExlN2lNMlJzVGlXRlk1My1PcXlMTnF1cUpHMmpYblJGT3JBVVVOcUN3djJDN2NycUY0VVVuSkh4a0FaYTFwc0gyMDd2cUlmZFdRNlhQaTBCdWlGRl9SQ1NCUjBmUXNvZFlV?oc=5",
+      "source": "The N'West Iowa REVIEW",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-17T18:50:58.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg visitors tour Remsen and Le Mars",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les visiteurs luxembourgeois visitent Remsen et Le Mars",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburger Besucher besichtigen Remsen und Le Mars",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6406c95a0673219ffa47cf9e93bc1a96594c52fe",
+      "title": "Musson et le sud du Luxembourg en deuil : Jean-Paul Dauvent, 68 ans, s'en est allé après 40 ans au service de la presse locale",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTEgzcFVDajhjRUpUVEFITUIyMm5aYkdQN29PdkR0dU5LWjdzb3d2TVJqdV9hczdkR0x2aFh1SzAtbUZwczRNOGIyU1ZjQ1BkZDR2dDlSTTlwVkxRc255T3l2eS1sWTZRbWJiXzV4N0VEa1FmaXVkM1REbno1N01SSDlvZTc2MlVyemRYRDBWRzdtQVZWVWhRbUJkZ0s4NWVhRHBDSHlKYmVacEdnNVZuc0Z2RHBPRW5na0xYRjRhVWpieU9LUndTRWd4OWMwakx1MUJSaGdHcU52QmFQMDMybVN1dk80dnBlcU9yUzlhNUZDaERMS2c?oc=5",
+      "source": "L'Avenir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-17T18:39:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Musson an de Süde vu Lëtzebuerg am Trauer: De Jean-Paul Dauvent, 68, huet no 40 Joer an der lokaler Press déngt",
+          "summary": ""
+        },
+        "de": {
+          "title": "Musson und der Süden Luxemburgs trauern: Jean-Paul Dauvent, 68, verlässt das Land nach 40 Jahren im Dienste der Lokalpresse",
+          "summary": ""
+        },
+        "en": {
+          "title": "Musson and the south of Luxembourg in mourning: Jean-Paul Dauvent, 68, left after 40 years serving the local press",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "086990eed18bfa033664541d98c59e5d222e0751",
       "title": "Ruben Querinjean, belge au quotidien, luxembourgeois sur la piste",
@@ -1312,6 +1370,39 @@
         },
         "de": {
           "title": "Arbeiter haben einen Abschnitt der Rosa-Luxemburg-Straße in Tomsk gepflastert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "afa2214f464015b180fab1b54bcf1c8dd06d7c7a",
+      "title": "Lüksemburg'da Portekizce dil yasağı – Portekiz Sakini",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcmlieHJwSEVSRWlHN1MwREpsQ2ZNdUw1VzYtVW90dkZ1TGlqRFd4Z3d5T2cwc0VteGlEOUlrVER0S0o3bk9sVDVnekNrbHB3eHlPTE5SQlhiS3RFcjBSbXY0WmFZMVlaZGF5Zm94QlRYQnJYVXowaWZ2ZmJoWFdhX0h3ZzF0S3hpVC1OYkJLYVEyVkk?oc=5",
+      "source": "Portugal Resident",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-08-17T03:37:58.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Portugisesch Sproochverbuet zu Lëtzebuerg - Portugisesch Resident",
+          "summary": ""
+        },
+        "en": {
+          "title": "Portuguese language ban in Luxembourg – Portuguese Resident",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Interdiction de la langue portugaise au Luxembourg – Résident portugais",
+          "summary": ""
+        },
+        "de": {
+          "title": "Verbot der portugiesischen Sprache in Luxemburg – portugiesischer Einwohner",
           "summary": ""
         }
       }
@@ -7287,6 +7378,35 @@
         },
         "lb": {
           "title": "Lëtzebuerg: Gratis ëffentlechen Transport",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9524592828d9624f7a85ce24072ebb7f322565d8",
+      "title": "Luxembourg - Alternative Investment Funds Laws and Regulations 2026",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa05NaW1KcGFRUld4dFg5SEtGUlMtZ3JpeE04UWhhcnYtYXIxZFo0NFVpR1RPM0FJX1lIRGFlcWhFa3liMTNsbUt3cmYtVHdhdGhPcFozTDJDelR6TWUxZVlfU3c3NThhaVJEVWM5WWlxZGhVcUM4M1FMMjZFTjRoOEtRZV9zb0Q3TS1GNkd4Z0JrR3VEUnVoZw?oc=5",
+      "source": "ICLG",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-12T13:49:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg - Alternativ Investment Funds Gesetzer a Reglementer 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Gesetze und Vorschriften zu alternativen Investmentfonds 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Lois et réglementations sur les fonds d'investissement alternatifs 2026",
           "summary": ""
         }
       }
@@ -47037,138 +47157,6 @@
         },
         "de": {
           "title": "Zum zweiten Mal in dieser Woche landet ein Flugzeug notfalls auf dem Flughafen Luxemburg: Es handele sich offenbar um „ein Problem mit der Sicherheit der Passagiere“.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9710d6a5a320aca18348106ad394968a450fd450",
-      "title": "Bergerat Monnoyeur e Faresin Industries firmano un accordo strategico per far crescere il mercato dei sollevatori telescopici in Belgio e Lussemburgo",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMTVBUXdfRzc2WXkteFAyLXZoTjczZ3laWTVFYVZSZnk2RkF0SWVUSmRIZGFieGZ2amFWcUFYUDFwTW80dUJTeEstQXNjX2J0ajJiOWlMQ0psV0lFdTRnM2dLQXpteGRKR0doUWdyNDlDcldHWUZqUGoyMmRuN3p3TGVNeS0wTENiZkVyQ25aTkhaTUE1QjNtVnpyV1lnUVF2NVd5MnlFUHpWYXdVajZiNTFHdFVWb3ZkdERKQkpKSHo3Uk5NMURhbTFyeDFVSTlvQlgzQkVKZGhjWWFaYldBTFFJNUJ3SVNkbEtEcmg3Rk45dEhMSkJCb3FrWmhqejl1aWxhM2xBRVpQUlp3dk1j?oc=5",
-      "source": "Pneusnews.it",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-07-24T08:57:18.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Bergerat Monnoyeur und Faresin Industries unterzeichnen eine strategische Vereinbarung zum Wachstum des Marktes für Teleskoplader in Belgien und Luxemburg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Bergerat Monnoyeur et Faresin Industries signent un accord stratégique pour développer le marché des chariots télescopiques en Belgique et au Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Bergerat Monnoyeur and Faresin Industries sign a strategic agreement to grow the telescopic handler market in Belgium and Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Bergerat Monnoyeur a Faresin Industries ënnerschreiwen e strategesche Vertrag fir den Teleskophändlermaart an der Belsch a Lëtzebuerg ze wuessen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ffafb30849d5ba13a8d9c5d0ebc2fa3424affa97",
-      "title": "Le Hoai Trung 외무장관은 Xavier Bettel 룩셈부르크 부총리 겸 외무장관을 만났습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOallHT2J2N29UaUxoOXNLRGhIMVV4R1BGN2wxSXVXM2Z5cUMzbHFPT3ZYcmNuZWhCdm9TSFZpQm8tamc1WldqZ25mUHY4aHhnVUFMU3o4cUk2ZVA2N1ZoN2NUUnFyWnBDcDBsQ0dGcU84MTd4NTJ0N28xaVdyenZlRkN3SnFFU0Z3UmpxQVpiZlpBN1RpcGYxNU4wQzZaTUNqbkJHSVluRmhQakhEVC1wYk9YWDNYZjRoMzRaM1NsQnNJZw?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-24T08:52:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Außenminister Le Hoai Trung traf sich mit dem luxemburgischen Vizepremierminister und Außenminister Xavier Bettel.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Foreign Minister Le Hoai Trung met with Luxembourg Deputy Prime Minister and Foreign Minister Xavier Bettel.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den Ausseminister Le Hoai Trung huet sech mam Lëtzebuerger Vizepremier an Ausseminister Xavier Bettel getraff.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Ministre des Affaires étrangères Le Hoai Trung a rencontré le Vice-Premier ministre luxembourgeois et Ministre des Affaires étrangères Xavier Bettel.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5401310c605343fe3516203c21947c05e10ef511",
-      "title": "Ο υπουργός Εξωτερικών Le Hoai Trung συναντήθηκε με τον αντιπρόεδρο της κυβέρνησης και υπουργό Εξωτερικών του Λουξεμβούργου Xavier Bettel.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMUlheHB2V3RILUo4blhXSHhDNjRUYlNKVkxnY1B6aUMyZ2stYW5oSVlVQWIwS0dmU1BSYUluUTQwNVhoeTIyejIydWZBb1ZxSGdXYWlXZjUxTXplMEExN1FfQ3BVRFJSRTNKTTlVTy1hZHFfejZ3RlV0ZU5BUWdDaXlpUWgxU3RreUQ0XzFPeHF6dTcwajJ2b0kxdm5XMmZlRnZkWUtsSU9hNW9rbUNRVDR5MW4yXzBkSm9fNFdTb0Jpdw?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-07-24T08:48:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le ministre des Affaires étrangères Le Hoai Trung a rencontré le vice-Premier ministre luxembourgeois et ministre des Affaires étrangères Xavier Bettel.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Foreign Minister Le Hoai Trung met with Luxembourg's Deputy Prime Minister and Foreign Minister Xavier Bettel.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den Ausseminister Le Hoai Trung huet sech mam Lëtzebuerger Vizepremier an Ausseminister Xavier Bettel getraff.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Außenminister Le Hoai Trung traf sich mit dem stellvertretenden Premierminister und Außenminister Luxemburgs, Xavier Bettel.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f8fb6e1d417951ee1404a89ba476c26c0dd23f96",
-      "title": "Utrikesminister Le Hoai Trung träffade Luxemburgs vice premiärminister och utrikesminister Xavier Bettel.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjRMZ0ZsUkE2aUwxYlhROG0zeDdSMFRpMDhmX0l4SU1pR2tDaWlIamZDbzdnaFF5bTFDUTJ3My1vWlZJRlg0N3pCQXZWT3FHLV9EMGEyYTZTdm5sTENyMWhDRDFJMmhzR1NubWV1ZVBpT2lVV3VneXI2VHBpWUp2OXk0ME14V2dYNkl5SHZmRDhUQS1uQ2xBU0dGemhfcGFXYV9ySGJSMDJtZDB2OGM3T3A0azV5Q2pfa2VON1pxRjNRdw?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "sv",
-      "publishedAt": "2026-07-24T08:43:04.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le ministre des Affaires étrangères Le Hoai Trung a rencontré le vice-Premier ministre luxembourgeois et ministre des Affaires étrangères Xavier Bettel.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Foreign Minister Le Hoai Trung met Luxembourg's Deputy Prime Minister and Foreign Minister Xavier Bettel.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Außenminister Le Hoai Trung traf den stellvertretenden Premierminister und Außenminister Luxemburgs Xavier Bettel.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den Ausseminister Le Hoai Trung huet de Lëtzebuerger Vizepremier an Ausseminister Xavier Bettel getraff.",
           "summary": ""
         }
       }
