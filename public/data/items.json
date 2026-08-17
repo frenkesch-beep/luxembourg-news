@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-17T15:41:39.078Z",
+  "generatedAt": "2026-08-17T16:46:13.130Z",
   "items": [
+    {
+      "id": "7949e5c95238951004cb93dc8f20f105ef2b14bb",
+      "title": "Rom und Luxemburg im Blick",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ROUtQWjJXWmQyT2FhZDVWNWFWd2xxblAzUnRFcE1WeXpJX2ZhU3lKRUp5UWUyMWpVcU5sMkN2NEpRT0dXenpPUTRuUEx3c18tVk0yZjNoS1V1Y01xdDhxLUc3OFNBcnJpZnhjQ1Bn?oc=5",
+      "source": "SAZsport",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-17T16:16:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Roum a Lëtzebuerg am Hibléck",
+          "summary": ""
+        },
+        "en": {
+          "title": "Rome and Luxembourg in view",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Rome et Luxembourg en vue",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "7cac8dc548a49896dda44ce5ba43665cecc49e05",
       "title": "Luxembourg: Luxembourg Finance Forum 2026",
@@ -47148,39 +47177,6 @@
         },
         "lb": {
           "title": "Den Ausseminister Le Hoai Trung huet sech mam Vizepremier an Ausseminister Xavier Bettel getraff.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "660414138aa760062ee47935ea1bb402af03fc5b",
-      "title": "Minister spraw zagranicznych Le Hoai Trung spotkał się z wicepremierem i ministrem spraw zagranicznych Luksemburga Xavierem Bettelem.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdktPTUpVTGdCbXhlZW1md05FSVNkMWxCVmNYTnR6VTRzT2pHeC1BTUM2SmpvVzQzSEtaS1pLT3c3SmJmblR1Yl9aUVFwN0FVcy1aRHVBb3VxNGlUWV9UWlNCczNYY0ZOaXRHendaYVJqYXdIeGVjLXk4cDN0dnpoTldvTjlQOW1BYmNVOU8yT0tuVDdIdzNSR3ZMeU1pY2I4alZQYVdBckRNcXJ4TkZZVE5SYVRuS01ET3RMZ0s2WTd1dw?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-07-24T08:36:25.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den Ausseminister Le Hoai Trung huet sech mam Lëtzebuerger Vizepremier an dem Ausseminister Xavier Bettel getraff.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Foreign Minister Le Hoai Trung met with Luxembourg's Deputy Prime Minister and Minister of Foreign Affairs Xavier Bettel.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Außenminister Le Hoai Trung traf sich mit dem stellvertretenden Premierminister und Außenminister Luxemburgs, Xavier Bettel.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le ministre des Affaires étrangères Le Hoai Trung a rencontré le vice-Premier ministre et ministre des Affaires étrangères du Luxembourg Xavier Bettel.",
           "summary": ""
         }
       }
