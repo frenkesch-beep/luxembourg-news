@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-08-17T11:42:00.204Z",
+  "generatedAt": "2026-08-17T13:06:34.039Z",
   "items": [
+    {
+      "id": "1b9ced867238f943cd955aa053765c3d9a1f1b87",
+      "title": "Finland vs Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSFE0OE1jUEJwNHRRWWdXempzTXN2QzUtNVVmM0dVNjRwVlo0X0N5N0t1T1JzYzlQa2tyS2pIR2tpN1dtRldtaUxJb1UtQnpnRkR2b1JrUllJS0QxT1VMQnN5dXA5b3JfUjU5QnBCR0FUU1R0YlpOOFYtLS1yaEJOZXNGVGktZjl1ME9rVm12akJvbmNvWUNESWQtbUdJVHRqd1FJTjE0ampXbC1Vakx4WGdJNDBjZTJCckkyNzBXbi1SVnJDVnd5NU9iN0RiQXNHM2hGUXhDbDg?oc=5",
+      "source": "Jagran",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-17T13:03:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Finlande vs Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Finnland gegen Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Finnland vs Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "97dd4f11da83e8462718b6c3d75f78e4cd8ac57d",
+      "title": "Premierul Vasile Tofan Și Omologul Său Luxemburghez, Luc Frieden, Au Discutat Despre Parcursul European Al Republicii Moldova Și Extinderea Cooperării Bilaterale",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVZDOUtSQk1yR3hSbGNWSmVYTWdRN2xTWlBybEx5dmFHRHFKR1lPVkNlNUdFRXpWVmozU0VmZmNKSXJJMmRnanY5YmViQnNibnIwWXpvTnkyMkpqSUlKRUJrYkdNSjZxTVB1TmFqelU3WTJPTEhrelZTeHo3S05SOFdBclZya2tUN3ZYajV3MDZZN1c0SE5PTURUSTlIeGpjRmpFOG5ySF9jbWw4V09JZlhYNA?oc=5",
+      "source": "Guvernul Republicii Moldova",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-08-17T12:33:03.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Premier Vasile Tofan a säi Lëtzebuerger Kolleg, de Luc Frieden, hunn den europäesche Wee vun der Republik Moldawien an d'Ausbau vun der bilateraler Kooperatioun diskutéiert.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Prime Minister Vasile Tofan and his Luxembourg counterpart, Luc Frieden, discussed the European path of the Republic of Moldova and the expansion of bilateral cooperation",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Premier ministre Vasile Tofan et son homologue luxembourgeois Luc Frieden ont discuté de la voie européenne de la République de Moldavie et de l'élargissement de la coopération bilatérale.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Premierminister Vasile Tofan und sein luxemburgischer Amtskollege Luc Frieden diskutierten über den europäischen Weg der Republik Moldau und den Ausbau der bilateralen Zusammenarbeit",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "6e151b3c97ed3479c34f19897d863b7b7e643276",
       "title": "Incendie dans les Fagnes - La qualité de l'air s'améliore en Belgique, mais se dégrade au Luxembourg et en France",
@@ -97,6 +159,39 @@
       }
     },
     {
+      "id": "6a8132b249fa08c893b578bbe6ccad189c54199a",
+      "title": "Бельгия, Люксембург, Нидерланды и Швеция закрыли въезд по старым паспортам РФ",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YNUM4aGdhUlQ5OGg0M3FhWk91ak9peUFFOHBTTUVlSlJQM1BINEhoZGphaHhQU2pxbWl4RUREblhEelc0NU13NkV3?oc=5",
+      "source": "Readovka.news",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-17T10:20:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Belsch, Lëtzebuerg, Holland a Schweden hunn den Entrée fir al russesch Päss zougemaach",
+          "summary": ""
+        },
+        "de": {
+          "title": "Belgien, Luxemburg, die Niederlande und Schweden haben den Zugang zu alten russischen Pässen gesperrt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Belgique, le Luxembourg, les Pays-Bas et la Suède ont fermé l'entrée aux anciens passeports russes",
+          "summary": ""
+        },
+        "en": {
+          "title": "Belgium, Luxembourg, the Netherlands and Sweden have closed entry to old Russian passports",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "642792cd18479615787934bc57e3fad5c32647d1",
       "title": "Jetzt wird’s wild: Fahrgeschäfte und Rabatt-Tage für Schobermesse 2026 in Luxemburg",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUF9GQ1kweHBySm40QmZ2clVUTTE5WHdpamh6aFE4OW41LXgzLURoN0JiQTIwRHlVVHQ0UWRkNHF4OHdYQ1ptOTAzd05wUzNER1A0anNIN0JXRE4td1dGYTc2MF91VzlrLUFwa2Y5VXp2blhWOGdsR2tvMm13c2xpRDNrRUI2ZGpYbGlIZkxvUktrRE1HbFk3WE1CX1JobjhKdmdWWGtpb0d6WHkzaFBNb2s3Ri1TT1hmbVVSVjB0RVFrcDk1ak9r?oc=5",
@@ -183,6 +278,39 @@
         },
         "fr": {
           "title": "La Suède, la Belgique, les Pays-Bas et le Luxembourg cesseront de reconnaître les passeports russes non biométriques",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "564972c8953b0099007bfde0a879bb58a386cc38",
+      "title": "Бельгия, Нидерланды, Люксембург и Швеция с 1 октября перестанут признавать пятилетние российские загранпас...",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRzVidFNmNlR5X09DalMyWHVHc0JLQUJ4UUtMT1dZd19JQTZkd0d5WW5zVGs4OFNHYk95NDJFMXRDdUJMc0tPZHZKOFQ2Ny1qQWNTaWVjUlZQTU1ac0JNMy11OUVwQzc4TmV4N3NzdkJkMkwwUFBWV3ZkeWdzWE1tWUF4Nm5PWVJvSC1lTl9lUDZlQ0REUW56QkNGUHZqc1ZwazZuUHZ6dzE2MEtsRExFNnAzLU1PbTdWZ0dZRlJ1XzM2eWhpWXdQS2lQeTJQa3VvRFhWZC1hWl82ckVLbHRv0gFDQVVfeXFMTnNEcTUwVXZnMjN0VHpyQ0daYmRGT2pOSnF2TzdBMEhWTTBadGl5SkhDU1hUUkFVZDdTVXRGMGdfdHVzRQ?oc=5",
+      "source": "tvrain.tv",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-17T10:04:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Belsch, Holland, Lëtzebuerg a Schweden hale vum 1. Oktober un d'Unerkennung vu fënnef Joer russesch auslännesche Päss op ...",
+          "summary": ""
+        },
+        "de": {
+          "title": "Belgien, die Niederlande, Luxemburg und Schweden werden ab dem 1. Oktober die Anerkennung russischer ausländischer Pässe mit einer Laufzeit von fünf Jahren einstellen ...",
+          "summary": ""
+        },
+        "en": {
+          "title": "Belgium, the Netherlands, Luxembourg and Sweden will stop recognizing five-year Russian foreign passports from October 1...",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Belgique, les Pays-Bas, le Luxembourg et la Suède cesseront de reconnaître les passeports étrangers russes valables cinq ans à partir du 1er octobre...",
           "summary": ""
         }
       }
@@ -40357,6 +40485,39 @@
       }
     },
     {
+      "id": "1dcc000c98e4941ad46f9ed778e7131b25614283",
+      "title": "🚨 تحديث تأشيرة لوكسمبورغ يوليو 2026 | الوظائف، تأشيرة الطالب، الرسوم الدراسية وتكاليف المعيشة 🇱🇺",
+      "url": "https://www.youtube.com/watch?v=ax2-QDJooVs",
+      "source": "Visa Experts Aim",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "ar",
+      "publishedAt": "2026-07-27T13:06:25.786Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/ax2-QDJooVs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_SHLVEpIiHaBWOwgghm_RUGNzHA",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "🚨 Aktualisierung des Luxemburger Visums Juli 2026 | Jobs, Studentenvisum, Studiengebühren und Lebenshaltungskosten 🇱🇺",
+          "summary": ""
+        },
+        "fr": {
+          "title": "🚨 Mise à jour des visas luxembourgeois juillet 2026 | Emplois, visa étudiant, frais de scolarité et frais de subsistance 🇱🇺",
+          "summary": ""
+        },
+        "en": {
+          "title": "🚨 Luxembourg visa update July 2026 | Jobs, student visa, tuition fees and living costs 🇱🇺",
+          "summary": ""
+        },
+        "lb": {
+          "title": "🚨 Lëtzebuerg Visa Update Juli 2026 | Aarbechtsplazen, Studentevisum, Schoulgeld a Liewenskäschte 🇱🇺",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "a4a71d9e80502652c189ecc41a20ec57afabc193",
       "title": "Mauvaise nouvelle pour les frontaliers : les navettes entre Hettange-Grande et le Luxembourg s'arrêtent",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaFlOa1hnLW1ZbGRFdktjaGZyUzlQN015Q3pHSXdfYUhyUVkwUW1neFBKOHdhMXpBeElRX3I1elEwRkYwbmxNcWtqUEFsOGxtMEd0NEVmcnpnZGhpWlNYUHVKRWdWam1UQlpSVzhGcU93bjZldlRLVC1xT19ZSGFYN2M2a1RYdlRfdVp4YUZodGFQX0ZkaHdRN0J4T1NESkVWc2ZMTkIyT2JvMzFXMGE3WFAyQmkyZkpZdVZqYw?oc=5",
@@ -46773,6 +46934,64 @@
       }
     },
     {
+      "id": "44d08c37b9df58f0ff31f4d490913ea2c9f223cd",
+      "title": "OpenLux : comment le Luxembourg est devenu l’incontournable porte d’entrée financière de la Chine dans l’UE",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPSFJoVTdMVFZfUHA5UzZlNmFnNGxiNUlyNWJteTlEVWV5bUtBb00tam5YSGNXcXkzYjBPX3o5amQ0cTUzeThDUmdQVEtwUFRSdzJ2TnlLTnBVNzJnNnlZMGxlaDd0VzBhaTlMT3V5Zml5NVRqNFZScWpieldUTEtkTXM1YXpQYXNqYktTb1FnXzc2S2Vid09BRWhWczE3TlBOcHRHeWVuUFp5ODNnOU02V3RIeUhfVFR1eWgyemJyREtSQ1plSldXTGFxZ05GcXRKb3lTNi1WcE1OcWc4WXlTaWUydmQ0YWg3YXJ6dW5nRE5Rd1NxV3I4amdoR2s3VjZCY2VLRVUzSjBhMFZDa3M0?oc=5",
+      "source": "Le Monde.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "OpenLux: Wie Luxemburg zum wichtigsten Finanztor Chinas zur EU wurde",
+          "summary": ""
+        },
+        "en": {
+          "title": "OpenLux: how Luxembourg became China’s essential financial gateway to the EU",
+          "summary": ""
+        },
+        "lb": {
+          "title": "OpenLux: wéi Lëtzebuerg de wesentleche Finanzpaart vu China an d'EU gouf",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "baa7eb0342cc6f0e746fff2f2f5ab8723fe051c1",
+      "title": "Niedrigwasser im Rhein: Warum in Luxemburg der Sprit knapp wurde",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUVA0YmdfbkhwWnFRT055SmE0YTJ3cGR4bURXeEdFd2R5NnlEZWdxZWRqd2Z2aHAwbDJ2YjJ0cnhZQXhwZFlwdTBiQ192bERWRFBsWC0yV2UwZnhuVmJ2b0RDVERnTHNWdGthZm9nWTBpWkM5THFjOHVNenNJOFBYcWptc0lpUnBQa2ZwT0FKck5ZMVhReDE1MXJ2VXpSQUNjOTRmRXJvWGtORnJELTNJVnpnRWFhbVVXdjRfNmpOcnJmUlBJbUN3?oc=5",
+      "source": "SWR",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Low water in the Rhine: Why fuel became scarce in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etages du Rhin : pourquoi le carburant est devenu rare au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Niddereg Waasser am Rhäin: Firwat de Brennstoff zu Lëtzebuerg knapp ginn ass",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "f1924d8c116535de6705dac42773180b1532e6cf",
       "title": "Galeria de Porto Franco de Luxemburgo / Atelier d'Architecture 3BM3 - 36",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGFxbnBTNjVtWnNDbjN5Y0hFelg2M1hLZG1ROEhUNHdobDBEb3ZJeElJOXNac2pDR1M0aUl6T2pKWlhuTDlRVG5kOFA3VGd2OG50QmllQlRqeTFiVFNScFpJdUxFU2NQVEl1WWJ3b2JBdnNvTzl4OTJqWHpackE2UUVBZFgta0hvbnlpYXo1TFlHSjNPRUNMYklFWWhrYWVZdmRTWXQ3YTBicHN0ZzlTVlM2Y0NEbk1ISEhYTWR3?oc=5",
@@ -46962,225 +47181,6 @@
         },
         "lb": {
           "title": "De Goyang Buergermeeschter Min Kyung-seon besicht déi éischte Kéier de Luxembourg National Health Institute... AI/Bio International Joint Research 'Speed'",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ef9bd7406898874f26863be5a9f5600f5b512fef",
-      "title": "민경선 고양시장, 룩셈부르크 국립보건원 한국사무소 방문",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11ZWQ5UURValB2YnYtY1EwQWF1anRQZXo1dkhXUXRGQUlWOUJ3QzAyVUF3SVpRYjRWNVFpZjhIWDJYTGpvWk1mX0cxUGdsS0owWF9KSFZTVVBOblhscDJnM2kwcDdsZEhpdkswaS04cVV6QQ?oc=5",
-      "source": "디스커버리뉴스(DISCOVERYNEWS)",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-24T05:43:16.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Goyang Buergermeeschter Min Kyung-seon besicht de Büro vum Luxembourg National Institute of Health Korea",
-          "summary": ""
-        },
-        "en": {
-          "title": "Goyang Mayor Min Kyung-seon visits Luxembourg National Institute of Health Korea office",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der Bürgermeister von Goyang, Min Kyung-seon, besucht das Büro des Luxembourg National Institute of Health Korea",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le maire de Goyang, Min Kyung-seon, visite le bureau de l'Institut national luxembourgeois de Corée",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "151d79fb269aade5d48b493079a231a3a29b904f",
-      "title": "Tanken in Luxemburg heute: So viel kosten Diesel und Benzin am Freitag",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1VXcFg1c3JvdWZfYlloMERlN2JCWVF0SnBzSTdzT3g2MW1mREdPMFdZSDN1MmRUUXZ1S2hSeGlPTVJMemRDcHVnaGhYZFN5T3RCUHJELVljeThqQkQydlc2QnJCblF2RGxLd2RTd214WDZUOWZRUkZBem5ld01mU09YeGJVaXFHaF9Rc0RPYkJTb3RQbmJycUhHaHZlQV9RTG5JUDl4NFgyOWRyRWRpRGJB?oc=5",
-      "source": "SOL.DE",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-24T05:21:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Hei zu Lëtzebuerg haut tanken: Esou kaschten den Diesel an de Bensin e Freideg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Refueling in Luxembourg today: This is how much diesel and petrol cost on Friday",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Faire le plein au Luxembourg aujourd'hui : voici le prix du diesel et de l'essence vendredi",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4a4cd6dae6e3bcdbc42ce5c6164f067e7e442bc2",
-      "title": "E-Rechnung: Luxemburg und Belgien zwingen Unternehmen ab 2028",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM2RQV0R1SHhVMVpTWERJV01uMlY4eDFkeW9ZYThZWjYyS005eUl5MFc3b0RUWnFFRG4yMWxTREFXc09wOUVwUmwxZ2pqWjIwcDBYck5Kamt3Z0dNR3NsN1dieUc2SzJtMjBTQ3FkSUVzZk1abUpoUEdWTVZLQ0ZydTVvcDZIdm9wVE9WemFlamVCRzRZSF9hSklqU2RrS0FmbXd6T2JpbXMwSlk?oc=5",
-      "source": "Ad-hoc-news.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-24T05:19:13.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "E-invoicing: Luxembourg and Belgium will force companies to do so from 2028",
-          "summary": ""
-        },
-        "lb": {
-          "title": "E-Invoicing: Lëtzebuerg an d'Belsch zwéngen d'Betriber vun 2028 un",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Facturation électronique : le Luxembourg et la Belgique y obligeront les entreprises à partir de 2028",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "039d36300ab5ebacef6391ef9a482f4ca13fb1f2",
-      "title": "画廊 CMI 卢森堡 / Moreno Architecture - 10",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWXpNMmtCWE4zMkNiWHdTSTdFT3hkc1ZvN2FHczZacVI3U0UxWFdwUUdkTmZpVHFNcHBNa0tTUWdUUkwyWGMyUlJ2dk5qVUN6Z3JmTTNjc3RIWFhGMk1XSDRnaVdzdkNUbkc3dHNZR1lSMG1FbDEyYmlsU2tBLXpRYVNPNEJ4RVhLQkcwdzl5Y3NwQm9ETHRSOFdKenZNUE44Y3BpYlNGTTc2dFMxcnM4N3lrZnhrQ3hlVnJRajZuS1FFVXR6YklWSXNKaUxxR2U4WTUw?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-24T05:03:43.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Galerie von CMI Luxembourg / Moreno Architecture - 10",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of CMI Luxembourg / Moreno Architecture - 10",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie de CMI Luxembourg / Moreno Architecture - 10",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Galerie CMI Luxembourg / Moreno Architecture - 10",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "08951bfb71dcb08cd71bf378438d87b9ccab5524",
-      "title": "Photos. Dans le bus jusqu'au Luxembourg aux côtés des frontaliers",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclRUTHZ2MGpiZnZxdklzLVhUeUswVDhCb3J1ZldKRnBBV1RyTERUMzAtWmdhaTNubkV2VnFEWEtOTzIwel9ucEp3dFhReVJqNm5QazMyYUV4STB1UXl0SzZUUndaWWFVc1ZwUzVVLWc1QlNjYV9TdG4yVklhbHliNWFPYU1NTHJXcG03Yy1EVnVrM2k4UVhyMjAzS19BSkNDdUs4SmpTbWNQUFNvcnY0VFpjRQ?oc=5",
-      "source": "Le Republicain Lorrain",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-24T05:00:42.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Pictures. On the bus to Luxembourg alongside cross-border workers",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Biller. Am Bus op Lëtzebuerg nieft Grenzaarbechter",
-          "summary": ""
-        },
-        "de": {
-          "title": "Bilder. Im Bus nach Luxemburg neben Grenzgängern",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "26504f0cec74d2813fed1d729cb271f74250d1ef",
-      "title": "Fiat 500 ma 26% segmentu w Belgii i Luksemburgu. Ma silnik benzynowy, jest tani i dobrze wygląda",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrcHV5WEhiZkktLWFIbUxqbC03czItRlZvS0dMSlNDVmFXQWhfRHlOeHR6UGtVQTQ4WlJfdDBUQm9nWFdVTnR4RU40V0JKcEZfbDlaVGJZNDI2bGJjT2RhV2hEU3Y0NEs1c3NWRmV3dEZsdGI5ZzNIN3NKOA?oc=5",
-      "source": "Francuskie.pl",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-07-24T04:47:08.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Fiat 500 huet 26% vum Segment an der Belsch a Lëtzebuerg. Et huet e Bensinmotor, ass bëlleg a gesäit gutt aus",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Fiat 500 has 26% of the segment in Belgium and Luxembourg. It has a petrol engine, is cheap and looks good",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La Fiat 500 détient 26% du segment en Belgique et au Luxembourg. Il a un moteur à essence, est bon marché et a l'air bien",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der Fiat 500 hat in Belgien und Luxemburg einen Marktanteil von 26 %. Es hat einen Benzinmotor, ist günstig und sieht gut aus",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "05f21cf1a4c4d0b89b4817b8bea152104c00bd72",
-      "title": "كيفية الانتقال إلى لوكسمبورغ للعمل - 2026 (مسار تصريح العمل)",
-      "url": "https://www.youtube.com/watch?v=9N4t83zVMR4",
-      "source": "Tips and Gist",
-      "sourceCountry": "",
-      "type": "video",
-      "lang": "ar",
-      "publishedAt": "2026-07-24T04:34:51.372Z",
-      "summary": "",
-      "imageUrl": "https://i.ytimg.com/vi/9N4t83zVMR4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr8xEOI6EVPdwRU7TwwDYLPzq0Pw",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Wéi plënneren ech op Lëtzebuerg fir ze schaffen - 2026 (Aarbechtsgenehmegung Wee)",
-          "summary": ""
-        },
-        "en": {
-          "title": "How to move to Luxembourg to work - 2026 (work permit route)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Comment s'installer au Luxembourg pour travailler - 2026 (parcours permis de travail)",
-          "summary": ""
-        },
-        "de": {
-          "title": "So ziehen Sie nach Luxemburg, um dort zu arbeiten – 2026 (Weg zur Arbeitserlaubnis)",
           "summary": ""
         }
       }
