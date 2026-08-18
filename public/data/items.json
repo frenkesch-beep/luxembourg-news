@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-08-18T08:54:12.409Z",
+  "generatedAt": "2026-08-18T09:48:39.422Z",
   "items": [
+    {
+      "id": "6ea21ed3b860e6b40ab3f986f949987de669201f",
+      "title": "Integrasys logra dos contratos de defensa en Luxemburgo para proteger satélites y comunicaciones militares",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOEd3dHJUdGQ2OW43aWZzSjFEVVY2eWlXWHVWOVRVZEtBV0xBbDBLYVVZekFfOWpNajhPajlyRnl3YXN6YmtzR1IyeU9QU3RCZC1GeUpqNXQ0ejNQX3Vhczgyb0VwcEF4Ykh4akVpclY0OVc3WlZaUEp4YS1OTk5Pa3V6bE9aUkhxX0pvSEwxdmF3Unh5cnZZRUpUdWJwMjd3UFJaQ2xEV1BXNlNPUmZKSlkxblhQX2xJVGgxRnBnS0N1dkFRSE9FalM5dG95Q1BESDZWV2VMTXlRR3poY1JDeWdnNC0taVJrN19fZVFoZDBZR0ZCeTFJeGFn0gH_AUFVX3lxTFBhbUd5YWxESDBramxLTEVuUTB6S2pjRmtxR01LTHFKRW5hNTdPQ2haT3Y5cENpN25WLXRMUU0ya0UwOExSeXc4VDN3bXc5VTlvMXBWbHQ5U09YZzFaLXpNaXNEZ0RZa0xEbDhxMEZYR0R4NUJuT1JkbWtBWlU5bmU5aUk0UHdVU2tiOWhRYTkyc1lONnFaZEhJM1BPZkI0YnhobGl1U2RfeEV2UFA5QnN4VERTX0I2THJXengzbXozNFBlQXk2OGpscTFCUUM3ZlpiZHA3SEtxLWl2ZDczQnZTVDFFUUZiUTVTVzZOckVBQUUya084NzdaVE82b3V6dw?oc=5",
+      "source": "elespanol.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-08-18T09:16:14.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Integrasys remporte deux contrats de défense au Luxembourg pour protéger les satellites et les communications militaires",
+          "summary": ""
+        },
+        "de": {
+          "title": "Integrasys erhält in Luxemburg zwei Verteidigungsaufträge zum Schutz von Satelliten und militärischer Kommunikation",
+          "summary": ""
+        },
+        "en": {
+          "title": "Integrasys wins two defense contracts in Luxembourg to protect satellites and military communications",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Integrasys gewënnt zwee Verteidegungskontrakter zu Lëtzebuerg fir Satellitten a militäresch Kommunikatioun ze schützen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "92fe858b30878cb0bbc8dcd8f7e6411a7c4eae32",
+      "title": "На Розы Люксембург, 36А почти три недели не работает лифт",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1R3OFd5cG9OazI4NHBIMmNPY0lXR2dnRnhTUlZtTnhJcWIzU0EtOV82RjZaeFFGNGpXMFJCMV9OWEdieWVQeWdLM29UV1pIbV9PVXJZSVNBZGtvVmMxaFFFUVBUX2QwZG1DbGZxWjFESG5HNjlmaVJDS1lPS3d4STJIZ3doRjlSTVJMSmNEdy1xVFFs0gGcAUFVX3lxTE1XTllKTWZjY3cwTkQ0bGR3XzdZN2tMOGJaTVhBdzh4UmVkcnY1a3I4NDZPVF9KM1RJN1hoRDRPSWRhZlpxY0FKQjBFNm15a2J1a2JCbEN2TnNYRDNCMkozbkZiV01sSTlJM3I2TTd3ZTdNVVc1eVRyczRlYVd5TE8zQUQ3TjE5YjZ0MjAyVGhUMWtiMzZQTHkwR1luOA?oc=5",
+      "source": "ulpressa.ru",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-18T09:08:53.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Lift zu Rosa Luxemburg, 36A fonctionnéiert zënter bal dräi Wochen net.",
+          "summary": ""
+        },
+        "en": {
+          "title": "The elevator at Rosa Luxemburg, 36A has not been working for almost three weeks.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Aufzug in Rosa Luxemburg, 36A funktioniert seit fast drei Wochen nicht mehr.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'ascenseur de Rosa Luxemburg, 36A ne fonctionne plus depuis près de trois semaines.",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "6ac38f9fe6b5600a3594d52997c6f1898d48c563",
       "title": "Integrasys se adjudica en Luxemburgo dos proyectos de I+D en defensa por 2,89 millones y liderará uno de ellos",
@@ -47099,72 +47165,6 @@
         },
         "en": {
           "title": "Luxembourg wishes to continue contributing to Vietnam's new stage of development.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "59fa4e03f52323867bd46cc9033eadcbc5fbdaa3",
-      "title": "ルクセンブルクは、ベトナムの新たな発展段階への貢献を継続したいと考えている。",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjdxYzVXTlRIYnh4Y21tbVgyelg1UEpIbWNpcHBvYk5kNnU2SGFVU296YmllLThqMGdTVXQ1eWhES2JHOEYwWFRaSjd0RDNUdXMzZi1OT3Q2R2poODhBeUI4YWMyTFhwUlBpblctaVhpOHIxNnpRQkhZN0JMNXpyZTVpcWJhVDhNUmdYdm1NOEtTcUpoNWRfYWxOTEljVW5mS2ZEc1RRNmk0S3pr?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-24T09:54:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg möchte weiterhin zur neuen Entwicklungsstufe Vietnams beitragen.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg wëll weider zur neier Entwécklungsphase vu Vietnam bäidroen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wants to continue contributing to Vietnam's new stage of development.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg souhaite continuer à contribuer à la nouvelle étape de développement du Vietnam.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a2b131826a9a922da3306a430a0374d2035f1cb8",
-      "title": "Lucembursko si přeje i nadále přispívat k nové fázi rozvoje Vietnamu.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEZfTllsMVFCM2k0WW5TWVFXZE81VmFKTTltYXhUeDQxVkh1WDV5bU5iZWxhTEdDc0ZoUGFQRm96RlZtdmtUOEVmcXB1Rlg1dzBHZ2VxX2pQU0c2bnNOR0ViX3d6aUxSY2haSHNUVmppOW5hT0dXOFJ1d0plTlU5SUxyTVUtN3BNZTZIemNaSzNIUnlBQ3RJMXZ3d3JBbFRSeGFtdEt1TnVJWGNP?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-07-24T09:52:42.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg möchte weiterhin zur neuen Phase der Entwicklung Vietnams beitragen.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg souhaite continuer à contribuer à la nouvelle phase du développement du Vietnam.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wishes to continue contributing to the new phase of Vietnam's development.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg wëll weider un déi nei Phas vun der Entwécklung vu Vietnam bäidroen.",
           "summary": ""
         }
       }
