@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T07:05:29.143Z",
+  "generatedAt": "2026-08-18T07:54:56.134Z",
   "items": [
     {
       "id": "405e9c84ac3651ded709c4ffd5b1b75effbc6e58",
@@ -59,6 +59,35 @@
         },
         "de": {
           "title": "Tag des Kulturerbes 2026: Besuch des französischen Senats im Palais du Luxembourg in Paris",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e7059d706bb744b870c4e69a23dba27cc9c0ed4b",
+      "title": "Luxembourg 2026 Results",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lYk8xSnNvUUFzLWpic0RsZ3VUcUJlY2hrWWlLYl9henpRc0ltcjQ0MHgzYlA2dmhUSC1pQUJDZXRLUzR2d1dGR0w4X0t2YldhZXRrREpFRFFFVF9WTHEyQUtkRXplT3pzX3AwVFZtTjFmdlJv?oc=5",
+      "source": "ESPN",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-18T02:02:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg 2026 Results",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Résultats Luxembourg 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ergebnisse Luxemburg 2026",
           "summary": ""
         }
       }
@@ -47132,39 +47161,6 @@
         },
         "lb": {
           "title": "EU OKs € 54M Lëtzebuerg Hëllef fir Transport Brennstoff Käschten",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c10fd6e8207d0cf357ee4093a89af674045d8e3a",
-      "title": "Luksemburg chce nadal przyczyniać się do nowego etapu rozwoju Wietnamu.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjJ1Z3pVVl90UjlmaHppLUhzam51cllfLXo4ZXBScWp3eVRxTWtUT2V1dVA3R2pjU1k5bFdXUjJXMHZEUWVMU0dqSUt4bnJLMlRQZmRBY1lKcXVxeWhUaXh6MXJ4RmZXTURVdnJkYkNvZDZIZWJzczkyUzk2eThoNnpSOVcyUWdzQmFVWTNHUzg3MjhrWUdiUzJ4TndzYy1uZUJhbFdORnB5QUxS?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-07-24T09:47:35.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg wëll weiderhin zu enger neier Entwécklungsphase am Vietnam bäidroen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wants to continue to contribute to a new stage of development in Vietnam.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg möchte weiterhin zu einer neuen Entwicklungsstufe in Vietnam beitragen.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg veut continuer à contribuer à une nouvelle étape de développement au Vietnam.",
           "summary": ""
         }
       }
