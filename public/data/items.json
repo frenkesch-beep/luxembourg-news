@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-18T05:45:27.000Z",
+  "generatedAt": "2026-08-18T07:05:29.143Z",
   "items": [
+    {
+      "id": "405e9c84ac3651ded709c4ffd5b1b75effbc6e58",
+      "title": "Nord Lorraine : ces professions de santé doublent leur salaire au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVVZaNzNWbzBLZW80bDBJeG0tZm9JM2xmNU01QXpsUFlEV3pyOERmRU8wN0ZMVDE5R0VMSkU0Zlpud3dzdHZjNThZS1FXcW1la3Zhd2lpdVdjXzRzVDNja3ZIZTE0ek1KT3doQkJTWk1DVFJiQlZrXzJaWlg4Z1JKcGYwMm5xdGhqb2RVYy1KUUUxRi1XRUpKQ2REQzFYVW1ocWc?oc=5",
+      "source": "lasemaine.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-18T07:01:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "economy"
+      ],
+      "translations": {
+        "en": {
+          "title": "North Lorraine: these health professions double their salaries in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nordlothringen: Diese Gesundheitsberufe verdoppeln ihr Gehalt in Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nord-Lothringen: dës Gesondheetsberuffer verduebelen hir Paien zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "1e923579e54ddf3a762bcef03db721560beefccb",
       "title": "문화유산의 날 2026: 파리 룩셈부르크 궁전의 프랑스 상원 방문",
@@ -47136,39 +47165,6 @@
         },
         "fr": {
           "title": "Le Luxembourg veut continuer à contribuer à une nouvelle étape de développement au Vietnam.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "afe28251b2dbf139fcf4138bdaf3e9fa1b67ef33",
-      "title": "ترغب لوكسمبورغ في مواصلة المساهمة في المرحلة الجديدة من التنمية التي تشهدها فيتنام.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVRpdWR4SXZaZ21YWFlaMkJSZVZ2UVMzQktCTklXUlJzQndLQVcteFk4WGZUMmZYM3RLOVNTTlpCczRxSzlJUFpacjNpTjRtVl9QT283c1VaOHJpRC1rTG1RZXFHWktMYzdSaWlreUJTeFRoQmE5WUhfMUcxbnk5YTBKMGhLUThfb3JEVFlqV29zZVBCSE9OS2g4Y3ZKYU03RVhqeGJnVlYweWQ1?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-07-24T09:46:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg wëll weider bäidroe fir déi nei Entwécklungsphase am Vietnam.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wants to continue to contribute to the new phase of development taking place in Vietnam.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg souhaite continuer à contribuer à la nouvelle phase de développement en cours au Vietnam.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg möchte weiterhin zur neuen Entwicklungsphase in Vietnam beitragen.",
           "summary": ""
         }
       }
