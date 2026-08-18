@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:39:04.452Z",
+  "generatedAt": "2026-08-18T22:42:34.568Z",
   "items": [
     {
       "id": "f5ad50807c41a63d27aee8b7e1a389619e08afb2",
@@ -25899,6 +25899,35 @@
       }
     },
     {
+      "id": "e261d164449d99c3d73532156297852e4195b8a0",
+      "title": "Luxembourg vs Portugal - Group Phase T2 - FIBA U16 Women's EuroBasket 2026, Division B",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSEZXamhDWkpfbExybER2bWVkaFRFS05MVUc2TXhuT28xY2ZHOTlCMU9lcGQwd3Z2aDF1TDZLVE1ndU1ET1BaWFh4SXhuZUZVNS1FVHFqNzMzX0JXSUExa3V3cUg5UXNsdHZCQU1FcC14cFBkdk1Yd1B1UjFxV0ppckNxV2tKVE5nVWNfUV9JZjdTRVpMU3VhYnUyRzJSUHhXUzY0?oc=5",
+      "source": "FIBA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Luxembourg vs Portugal - Phase de Groupes T2 - FIBA ​​​​U16 Women's EuroBasketball 2026, Division B",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg vs Portugal - Group Phase T2 - FIBA ​​U16 Women's EuroBasketball 2026, Division B",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg vs. Portugal – Gruppenphase T2 – FIBA ​​​​U16 Women’s EuroBasketball 2026, Division B",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "98a2520f3e7df175a28901453f587907dd8133a8",
       "title": "Au Luxembourg, en 2026, l’IA écrit, teste, révise du code, les compétences qui protègent encore les développeurs, inattendu",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNanU1LS10Rzg0ald5YkozOG5IVW9EQ21Sa0h2TzJpRlVJV04xLTFJU01mS00ydnVrdGRaS2pMRDlpOXJVQ0tqV01DSDdCUEhwdk0wLUFSYnl2bjdVUmF1N0NKLUJ3OGtnTUptSFVlSGJFcTF1R2RKNnhicUl2VWNBcjJYWmNOa3MxSmQ4akp5bERlWGNJMXZvQzdKOGtIYWdHcUhQQkl0c3Nhc0NRdHNqdHdERjgxdTM5YklpMFhVX0lWZHJoc05TNVpFbUdxV0M5Q1FxZUlzWTNpNFltYm5ORWVMdmU3X3NJcXFJRTFFVmxycGZY?oc=5",
@@ -47113,39 +47142,6 @@
         },
         "lb": {
           "title": "AMM-59: Fördert Zesummenaarbecht mat Vietnam, Panama, Lëtzebuerg, Holland a Katar.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4000a75b67fa15c08e205b0eb609045a2a276fd8",
-      "title": "AMM-59-conferentie: Vietnam bevordert de samenwerking met Panama, Luxemburg, Nederland en Qatar.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdjF2MzZ2M2FxVGNQdjdwMXFNRmxDWERCQ0NDbWZXUGllWnZOQXhlUzJoQjU4TGtlNmduV3dNcGd6dlFidkhLVEQ5WE1jNEpKRUlmTllmb1c4WHlBZHI0QmN4bWFQaUxURmgzVEJMYW5VOU16U0VLeU1fc1VxX0tiZTJ6SjVXNWVpWWJwN0YzSGdyZ2dqTUVYXzBka0JYdXFuTk9hdmxZenE?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-24T11:01:28.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "AMM-59-Konferenz: Vietnam fördert die Zusammenarbeit mit Panama, Luxemburg, den Niederlanden und Katar.",
-          "summary": ""
-        },
-        "en": {
-          "title": "AMM-59 Conference: Vietnam promotes cooperation with Panama, Luxembourg, Netherlands and Qatar.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "AMM-59 Konferenz: Vietnam fördert Kooperatioun mat Panama, Lëtzebuerg, Holland a Katar.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Conférence AMM-59 : le Vietnam promeut la coopération avec le Panama, le Luxembourg, les Pays-Bas et le Qatar.",
           "summary": ""
         }
       }
