@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-18T01:51:22.572Z",
+  "generatedAt": "2026-08-18T03:09:00.087Z",
   "items": [
+    {
+      "id": "1e923579e54ddf3a762bcef03db721560beefccb",
+      "title": "문화유산의 날 2026: 파리 룩셈부르크 궁전의 프랑스 상원 방문",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcGV2TE5MdlpZMU9rYXhxWV90ZGdJNXB4ZXhjZEU0T1pkOHFjaGpaWFhMRkNZSUFUWWlDWkNNd2dwTUIxQ1ZRUVhOc1pKMUVkMU5PR1hvSGtKWl9zd2ZuWGM0RGZHUTRNQW9YQ2hxZTF6N3J3cmVSeWZLcl80RmtjNGpmNnVhRUxkTjdFTURZRXBTZ01XbERvd0NCZFdzM01sYjAtZXpZbTFBYWdGVkQ2dXNsU2N2cnRjeUNGRGV5UHRqQ2tteTB6cDVack81Wndfbm1vSXRiM2NxZ1RfeVhaYTZCcw?oc=5",
+      "source": "Sortir à Paris",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-08-18T02:25:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Dag vum Patrimoine 2026: Visite vum franséische Senat am Palais Lëtzebuerg zu Paräis",
+          "summary": ""
+        },
+        "en": {
+          "title": "Heritage Day 2026: Visit to the French Senate at the Luxembourg Palace in Paris",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Journée du Patrimoine 2026 : Visite du Sénat français au Palais du Luxembourg à Paris",
+          "summary": ""
+        },
+        "de": {
+          "title": "Tag des Kulturerbes 2026: Besuch des französischen Senats im Palais du Luxembourg in Paris",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "35e5c45558248a092a19361f808bcb2737e8dc22",
       "title": "Il mondo dell’arte in lutto, è morto il pittore Batocco. Da Cingoli alle opere esposte anche in Francia e Lussemburgo",
@@ -47132,39 +47165,6 @@
         },
         "lb": {
           "title": "Lëtzebuerg wëll weiderhin zu der neier Entwécklungsphase vu Vietnam bäidroen.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "995c0281d532c917623c981e46fb653e8c32f10c",
-      "title": "Люксембург желает и впредь вносить свой вклад в новый этап развития Вьетнама.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNckRaNWZEQ2ViQUZsMjk3VkdVVEpwTTNJNUI1ckNCZWR0MmpmY1h4dkdTUzZCZ1pkS2djb1p1ZXZ0VTl4NFF4VEJJdnJOWDNKSXdId2ZIM3dhTGd1YlV2Y0NSdjZOQ2ZMLUF1dmpNMmdGLWtzWVdGcGpDcHBsU1ZIV0tNbllqaklvT2kxTi14VUtqMllxQ29TR0FaZEM2cXJRbi1pakFOcGRjRm9q?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-24T09:41:26.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg wëll weider zur neier Etapp vun der Entwécklung vu Vietnam bäidroen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wishes to continue to contribute to the new stage of Vietnam's development.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg souhaite continuer à contribuer à la nouvelle étape du développement du Vietnam.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg möchte weiterhin zur neuen Phase der Entwicklung Vietnams beitragen.",
           "summary": ""
         }
       }
