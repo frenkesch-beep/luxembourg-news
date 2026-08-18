@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-18T20:41:27.428Z",
+  "generatedAt": "2026-08-18T21:39:04.452Z",
   "items": [
+    {
+      "id": "f5ad50807c41a63d27aee8b7e1a389619e08afb2",
+      "title": "Integrasys Awarded €2.89 Million in Luxembourg Defense R&D Projects",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVhTdGk4VWp5TVZYVkJFQng0T00weFktX2NhcUE5UUNhTTVwV3Q3Nng2RkZ5SEhJTTRtYURtdURDQnQ4Z19POTNTQ2pfYVRfUDNfSENRdk9seVdzRmZ0cUd0MEpOM3ZWN3NJT25ubm5pR3REU2NxNkp4bjRBQ3l4el9ZZTBIaWlfT0JtWG5MMmoxaDhtaG05YkJiNnlDWjg?oc=5",
+      "source": "satnews.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-18T21:17:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Integrasys remporte 2,89 millions d'euros dans des projets de R&D de défense au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Integrasys erhält 2,89 Millionen Euro für luxemburgische Forschungs- und Entwicklungsprojekte im Verteidigungsbereich",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Integrasys huet 2,89 Milliounen € u Lëtzebuerger Verdeedegung R&D Projeten ausgezeechent",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "a702947027db83cbb9e925adda4452319b8360d4",
       "title": "Feminino Sub-16 | Portugal atropela Luxemburgo no início do Europeu",
@@ -47117,39 +47146,6 @@
         },
         "fr": {
           "title": "Conférence AMM-59 : le Vietnam promeut la coopération avec le Panama, le Luxembourg, les Pays-Bas et le Qatar.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f3245ba75462d050db2458f405a2e9cd461d1461",
-      "title": "AMM-59 회의: 베트남, 파나마, 룩셈부르크, 네덜란드, 카타르와의 협력 증진.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmsxWFBGbTYzZmtkZmVXVWxCcmlKSnZqUW9KTjBhRURZN05YMFllWkl6VWZpYVQ3TU42Ym4xRURRbGZ5WlEySGo1X1I5Q1p2cDdOMEJWRHNSVEJSZlJpamlibFFNMUJQWHpHRVFvNEZCV0FzZmZvR2RoMTk3ekpTNlUzQy1OM3ZIZkNpNTRqS3VJSHpWT3pxdnJpVGRFLThLTElyS21BbjA?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-24T11:01:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "AMM-59-Treffen: Förderung der Zusammenarbeit mit Vietnam, Panama, Luxemburg, den Niederlanden und Katar.",
-          "summary": ""
-        },
-        "en": {
-          "title": "AMM-59 meeting: Promoting cooperation with Vietnam, Panama, Luxembourg, Netherlands and Qatar.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Réunion AMM-59 : Promouvoir la coopération avec le Vietnam, le Panama, le Luxembourg, les Pays-Bas et le Qatar.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "AMM-59 Reunioun: Promotioun vun Zesummenaarbecht mat Vietnam, Panama, Lëtzebuerg, Holland a Katar.",
           "summary": ""
         }
       }
