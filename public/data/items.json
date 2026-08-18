@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-17T23:38:04.681Z",
+  "generatedAt": "2026-08-18T01:51:22.572Z",
   "items": [
+    {
+      "id": "35e5c45558248a092a19361f808bcb2737e8dc22",
+      "title": "Il mondo dell’arte in lutto, è morto il pittore Batocco. Da Cingoli alle opere esposte anche in Francia e Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM2xuOTJfM29MY3UwMGVudU91X3B6ZnJKdWlhTDNjMlkzbGJkQ1VSUDNGYWQ0SkxvbjBNeFFHYVREQlFFRWFmWWhWR1l5b0haWXpTdm53ckhlZEVfWUUycFJaaUZjQU9rTmN6alNuaGoyRkZIUVpoUk9mZF9TOVZ5bVpwWXdQUER3LTh1ZzlkVm5NcUdtbGdSSzMtd9IBoAFBVV95cUxOdzVIVlRQX3lyaU84SEhXT21XWHpQaUcyTjJPQmozU29nVUpwdkxpMVV0dFhialZXcEw3RmtJWk15QjJNQzZDMU45bUpLODZWbWE0UXRpYkpLNlZIVEVKektZUktqRWFpVUJ6Y1ZjQVZER2xDckJwVEVnRHF2U1k0NDVtbm9IWTdGRlpteDVZQ1QxM2szVmthVWd6RS0tOERn?oc=5",
+      "source": "Corriere Adriatico",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-08-18T00:40:10.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le monde de l'art est en deuil suite au décès du peintre Batocco. De Cingoli aux œuvres également exposées en France et au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "The art world is in mourning as the painter Batocco has died. From Cingoli to the works also exhibited in France and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Konschtwelt ass am Trauer wéi de Moler Batocco gestuerwen ass. Vum Cingoli bis op d'Wierker och a Frankräich a Lëtzebuerg ausgestallt",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Kunstwelt trauert um den Tod des Malers Batocco. Von Cingoli bis zu den auch in Frankreich und Luxemburg ausgestellten Werken",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "aec9111ff2203d4384063a3fad48ba069d83fb64",
       "title": "Véronique Alves Batista: Raízes portuguesas, o Luxemburgo e a força de contornar obstáculos",
@@ -30,6 +63,39 @@
         },
         "de": {
           "title": "Véronique Alves Batista: Portugiesische Wurzeln, Luxemburg und die Kraft, Hindernissen auszuweichen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "34027e5ed7b649ce09c7c767d17cb5d0ddebc7f1",
+      "title": "President feliciteert verkozen parlementslid van Portugese afkomst in Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTc4S2JkSFN1dWtYVktVeXNOS1NWOWs2NTlqOVZhZWNrOGdFM1dxZXBOTDk2U0J2NmlRV2lRZTdNanpncDVkQy1ETS1YaXBGd09kZDR5cWx6TUlGQ1hfTlJBSDFnTHh1OUQ5WU9uVzdhX0dBUDlfV3VfQ05mRTVLQjNVYnNXeG5ZWl9SLW41cWJqbjJfUEdwTFo0R1Awd2ZCdHl0WTN6QS1tT2lhSktWSGM2ckJSRlZhOHdSYQ?oc=5",
+      "source": "Portugal Resident",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-08-17T20:58:59.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Président félicite le député élu d'origine portugaise au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "President congratulates elected Member of Parliament of Portuguese descent in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De President gratuléiert dem gewielten Deputéierte vu portugiseschen Ofstamung zu Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Präsident gratuliert dem gewählten Parlamentsabgeordneten portugiesischer Abstammung in Luxemburg",
           "summary": ""
         }
       }
@@ -47099,72 +47165,6 @@
         },
         "de": {
           "title": "Luxemburg möchte weiterhin zur neuen Phase der Entwicklung Vietnams beitragen.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9b51f1a4a6ea66573e6b2e8329edc3d604726568",
-      "title": "Luxemburg vill fortsätta att bidra till Vietnams nya utvecklingsfas.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUlyTkVYbVhvdXN1VUVEa2hIQjBRcGFoYlBuX2NSZld4SmlKTnFTYVM4MzkwTnZ4dWdyRUJ0bml5RFRBejJhb29vZXJEUy1yQlljZUhtMlFYcXF6eC05SC0xVE9uZ3NtVW9kRUhMcGVGcTRUR1VfeTdDZHdwTnBwbjRFa2JGU3lPdjl2cy1qUm1sS2RjeVAxY2RfMVFUOEFoVmJsdVJkZzAxdFM5?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "sv",
-      "publishedAt": "2026-07-24T09:41:26.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg wëll weider zu der neier Entwécklungsphase vu Vietnam bäidroen.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg möchte weiterhin zur neuen Entwicklungsphase Vietnams beitragen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wants to continue to contribute to Vietnam's new development phase.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg souhaite continuer à contribuer à la nouvelle phase de développement du Vietnam.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a21b7a6619042972102bd8114db39977052767de",
-      "title": "Luxemburgo desea seguir contribuyendo a la nueva etapa de desarrollo de Vietnam.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU9lUGhlM3doYml5UFNzNHZ3V1BJTkt1b2dtSmJiWFYxZG9nZU9BZnhjaldUY2s1Z0otVnhBR2RCVGc3MGhhQUU5bm1TaDNQYzZ6alppNzhWX3l6VTFTY19TZ1hJWmVBU09GcDR1YkdSbkFJbm4xU1oyZGVZcE5LQmtaS3QxNlFtQVFYaGJyWE9MQkc2MFlJMVlBT0J1RVNvNThHTDlkeUN3cWND?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-24T09:29:33.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Luxembourg souhaite continuer à contribuer à la nouvelle étape de développement du Vietnam.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wishes to continue contributing to Vietnam's new stage of development.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg möchte weiterhin zur neuen Entwicklungsphase Vietnams beitragen.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg wëll weiderhin zu der neier Entwécklungsphase vu Vietnam bäidroen.",
           "summary": ""
         }
       }
