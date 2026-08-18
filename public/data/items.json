@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T03:09:00.087Z",
+  "generatedAt": "2026-08-18T03:58:50.110Z",
   "items": [
     {
       "id": "1e923579e54ddf3a762bcef03db721560beefccb",
@@ -307,6 +307,39 @@
         },
         "fr": {
           "title": "Rome et Luxembourg en vue",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7ab28bd9457aa866fcf0eeaf797812daaa544e08",
+      "title": "Guillaume feliciteert Luxemburgse atleet met EK-zilver",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNODFUTUxXQ19BTnBzSmplaUk0T2JOVVdXQXB6UEdyTWh2VWRhbE1Sd1NmeHROb0Nvb3hjMG85SGpZV0RuamdibG9ZbnVkbkFOWDJlTnJfY29RSm9zRXRHbFJ6amJHQ3VMUHJxTnZZQUpCdmZvc2U1dmY2bld4dkJnZFdCZ2k1aEdENGY2WkwtaUNjbFJRT0hJ?oc=5",
+      "source": "plusonline.nl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-08-17T15:11:50.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Guillaume félicite l'athlète luxembourgeois avec l'argent aux Championnats d'Europe",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Guillaume gratuléiert dem Lëtzebuerger Athlet mat EM Sëlwer",
+          "summary": ""
+        },
+        "en": {
+          "title": "Guillaume congratulates Luxembourg athlete with European Championship silver",
+          "summary": ""
+        },
+        "de": {
+          "title": "Guillaume gratuliert dem luxemburgischen Sportler zu EM-Silber",
           "summary": ""
         }
       }
@@ -47132,39 +47165,6 @@
         },
         "fr": {
           "title": "Le Luxembourg souhaite continuer à contribuer à la nouvelle phase de développement du Vietnam.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f7db8bb07cbcd0ce514590aadb247ba7dfe74e7a",
-      "title": "Luxemburgul dorește să continue să contribuie la noua etapă de dezvoltare a Vietnamului.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNURKemFiZWdyeVJJclFtWW9ySnZOeXVZLVJiMW05dWhmS2lEYTExX2NLcDZpS1JsNXVqX3FZbzF1NEltQTVwU29hUHY2anhveEdzRHhoZ1V1VERTTGIzeVBpRjdjQXFvS2hOSFl6Mms3QVF0cjR0Q21LdlFLNTBFMWUtZjAzZC04T1JiWkNmcjc1YmlkT01ISzdvaGFqdmx6WVVLU2ZsQ0p2bzhN?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-24T09:43:56.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg möchte weiterhin zur neuen Entwicklungsstufe Vietnams beitragen.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg souhaite continuer à contribuer à la nouvelle étape de développement du Vietnam.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wants to continue to contribute to Vietnam's new stage of development.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg wëll weiderhin zu der neier Entwécklungsphase vu Vietnam bäidroen.",
           "summary": ""
         }
       }
