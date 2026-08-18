@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:49:15.234Z",
+  "generatedAt": "2026-08-18T17:44:30.235Z",
   "items": [
     {
       "id": "ed8f0bed7e7aba3240400cc45c32e72df81acfba",
@@ -2897,6 +2897,39 @@
         },
         "fr": {
           "title": "Le cinéma et la culture bulgares occuperont le devant de la scène au festival CinEast au Luxembourg en octobre",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5f6383a4801e4e0ad15233745a75da18ccd57570",
+      "title": "🎥 VÍDEO | Nvidia limita risco na IA e incêndios mobilizam Portugal e Luxemburgo | 16 Ago 2026",
+      "url": "https://www.youtube.com/watch?v=9GochBVTneA",
+      "source": "LuxNeva Talks Daily",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "es",
+      "publishedAt": "2026-08-16T17:44:25.358Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/9GochBVTneA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgjIGUoUjAP&rs=AOn4CLCdVJ5yTULvfiTzekAoTDkp_b28fA",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "🎥 VIDÉO | Nvidia limite les risques dans l'IA et les incendies mobilisent le Portugal et le Luxembourg | 16 août 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "🎥 VIDEO | Nvidia limits risk in AI and fires mobilize Portugal and Luxembourg | 16 Aug 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "🎥 VIDEO | Nvidia begrenzt das KI-Risiko und Brände mobilisieren Portugal und Luxemburg | 16. August 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "🎥 VIDEO | Nvidia limitéiert Risiko an AI a Bränn mobiliséieren Portugal a Lëtzebuerg | 16 Aug 2026",
           "summary": ""
         }
       }
@@ -47113,39 +47146,6 @@
         },
         "en": {
           "title": "AMM-59 Conference: Vietnam promotes cooperation with Panama, Luxembourg, Netherlands and Qatar.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ec6abf6094946dbddb5574b9351676722ae791de",
-      "title": "AMM-59: Вьетнам содействует сотрудничеству с Панамой, Люксембургом, Нидерландами и Катаром.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVE1Znp0WHJrUURCWEM2QWRubnE3RUZfWjcwS1RNSjVWSjFtVGxReWVTYTVRTHI1akxzQW1GUFZST1NkZlp0ZW5mdkJSejZVZ3FIaXFnQ3lQYWwtODM0b2NnS3lMNEtaUGlGYWpfN1J0RklwaGlVTDZ6bVRoRThxd1NWck5aMXc1cnZBSlJucVAxUW1vbGpKbFFZWFg?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-24T10:55:34.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "AMM-59: Vietnam fördert d'Zesummenaarbecht mat Panama, Lëtzebuerg, Holland a Katar.",
-          "summary": ""
-        },
-        "de": {
-          "title": "AMM-59: Vietnam fördert die Zusammenarbeit mit Panama, Luxemburg, den Niederlanden und Katar.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "AMM-59 : Le Vietnam promeut la coopération avec le Panama, le Luxembourg, les Pays-Bas et le Qatar.",
-          "summary": ""
-        },
-        "en": {
-          "title": "AMM-59: Vietnam promotes cooperation with Panama, Luxembourg, the Netherlands and Qatar.",
           "summary": ""
         }
       }
