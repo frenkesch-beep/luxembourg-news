@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-18T22:42:34.568Z",
+  "generatedAt": "2026-08-18T23:37:09.270Z",
   "items": [
+    {
+      "id": "7d075b22d1ac22d353be60080ed41d9881fd60a9",
+      "title": "Luxemburgo declara bens milionários: Land Rover, Jeep, imóveis e mais",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkRZVUU2bmNlS0xVcjkzYmZ0dmVDRU5fZ2syNmUtWHd0c3paWmxYZ0NTQWxNX0cwb05paFA5ZUN6SUdnZmxQSldtRmh3elhuT2t2TkduZHBCRDlFTkNkTE1FS2xiRy1tRS1WSXNMaDI4TnJCQzJ4YXJXQTVVVF9lQTlkUE9GZUUwVGgtR3c2QkduaU54VXZnZFNoLUJZWDU5UXc5MWJIeE5GV3RnVHNZMU1SYjdCMFowRWc?oc=5",
+      "source": "No Ataque",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-08-18T22:41:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg déclare des actifs millionnaires : Land Rover, Jeep, immobilier et plus",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg declares millionaire assets: Land Rover, Jeep, real estate and more",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg deklariert Millionärsvermögen: Land Rover, Jeep, Immobilien und mehr",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg deklaréiert Millionär Verméigen: Land Rover, Jeep, Immobilien a méi",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "f5ad50807c41a63d27aee8b7e1a389619e08afb2",
       "title": "Integrasys Awarded €2.89 Million in Luxembourg Defense R&D Projects",
@@ -47109,39 +47142,6 @@
         },
         "lb": {
           "title": "Finanziell Zesummenaarbecht ass e Schlësselpilier vun de Vietnam-Lëtzebuerger Bezéiungen.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "be793b40855e6be0e54aa63b4d27c17466e4be4e",
-      "title": "AMM-59: Vietnam, Panama, Lüksemburg, Hollanda ve Katar ile iş birliğini teşvik ediyor.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGhnZFU4bHFHTUMwTFVveWJfblYyRWhkR2Z2Mm1lQ0JnN1cxZE02UE1SenhlUVp6dzJEVWl6bmdFMU9HcDZuTVN6WlNDUTAxdVdISFhCbVZxU2F4enlrOWFJWUhOc3B1c0ZXeXRWaXpQdFo1R205UVJfTDFNN1lmYWItR2NtdDJUVklZS1l4T0hVWS11RWx1MmhheEk?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-07-24T11:01:31.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "AMM-59 : promeut la coopération avec le Vietnam, le Panama, le Luxembourg, les Pays-Bas et le Qatar.",
-          "summary": ""
-        },
-        "de": {
-          "title": "AMM-59: Fördert die Zusammenarbeit mit Vietnam, Panama, Luxemburg, den Niederlanden und Katar.",
-          "summary": ""
-        },
-        "en": {
-          "title": "AMM-59: Promotes cooperation with Vietnam, Panama, Luxembourg, the Netherlands and Qatar.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "AMM-59: Fördert Zesummenaarbecht mat Vietnam, Panama, Lëtzebuerg, Holland a Katar.",
           "summary": ""
         }
       }
