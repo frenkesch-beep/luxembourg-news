@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-19T13:09:31.239Z",
+  "generatedAt": "2026-08-19T13:58:14.240Z",
   "items": [
+    {
+      "id": "803f1d8d34933d3da6d077fc46fade9e0948240f",
+      "title": "Pourquoi le Grand-Duché de Luxembourg n'a-t-il pas envoyé de bombardier d'eau en Belgique pour combattre l'incendie des Fagnes",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQMGtLTDB5bnFKNFMycm5nWEdpRFBfV2lGWUpaXzJiZkY1cjdYUW1XVDU5eW1CZGd1ZlJIaDNoSENkOU9oQkNIS0JPSXJ6MUR3RUJ0ZVZrdFFhS0FpQ0FPeG9yZmZUVjdic3NmZldiczY5M2tuOWl0Q0xONjZoV21SMmVvTkJrZkdVVV9vZTRHVGVkc3Z2eDE0di14bDVIS2hyLUNhVGxpRmhJMG1kcy1VcmZWQWdBU1lxZE56UWFkaGZvNzZ1MlpRZUtzc29sMzY3Z1FNTHl2S2EwV3RzZDFWNUUxN3Q3cVdFdW5JZzlHTE5fa0l1WFhjYnhUM1F1M3FvNHdZeGN1ZEhTVFlibXBpdy1WVl9qSVRkRDk0NnJDcGpIUGtqMmhTM0ZFcW9FQQ?oc=5",
+      "source": "L'Avenir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-19T13:30:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Why didn't the Grand Duchy of Luxembourg send a water bomber to Belgium to fight the Fagnes fire",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Firwat huet de Grand-Duché de Lëtzebuerg net e Waasserbomber an d'Belsch geschéckt fir géint d'Fagnesbrand ze bekämpfen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Warum hat das Großherzogtum Luxemburg nicht einen Wasserbomber nach Belgien geschickt, um den Brand im Venn zu bekämpfen?",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "f01f4121c2f298f8a139916bc99d13bdf91f3270",
       "title": "Bahnstrecke Trier–Luxemburg gesperrt: Das müssen Pendler jetzt wissen",
@@ -47073,39 +47102,6 @@
         },
         "lb": {
           "title": "Den Donar bréngt d'Punktegewier Kevon Godwin vu Lëtzebuerg mat",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4235a8bf247e515fa0cd45b6bbc855fb1b946f12",
-      "title": "Люксембург бажає й надалі робити внесок у новий етап розвитку В'єтнаму.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMG44VmlrOUhoUThBNkJHS29kck5hbFNCLTlXTWVVUDZhRmplcVpIeF9ZYXBLX2JfN0ZZM0ZJeUNILWI5V3VaaXQ3RF9uTUk3cWtkRlJSaFJMWnVlbTNoXzZDR3p2bHdjLXFEUUdPWGNsbnpqQU9DcEo1Ql93VU1mNkhVUHlRT0xfQUVpNlJqYmYzWUwwSXNmUy1wQzk4NGJ0TGdJTFl5THJod1g3?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-24T13:33:42.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg wëll weider zur neier Etapp vun der Entwécklung vu Vietnam bäidroen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg wishes to continue contributing to the new stage of Vietnam's development.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg souhaite continuer à contribuer à la nouvelle étape du développement du Vietnam.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg möchte weiterhin zur neuen Phase der Entwicklung Vietnams beitragen.",
           "summary": ""
         }
       }
