@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-08-19T13:58:14.240Z",
+  "generatedAt": "2026-08-19T14:53:32.628Z",
   "items": [
+    {
+      "id": "19e369aed7dbf7072c74fb02141835a8fb332dfd",
+      "title": "Verlängerung bis März angekündigt: Kippen Luxemburg und die EU die deutschen Grenzkontrollen?",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcG50djVseFE0dFhmUUtMUGIzQ2VMX0pMUjREYjFTZndQVkhRbGg0OUJ6dDVtSnFBdHNENVZUS1h2QzlhcUZaZ2ViWVZldEJXYUxRcVJwbDcxZlFhXzNpUHZMeWZhak9uc1hiOXBPSERaNlE2dDFadWdxVEFTcDduN2tOR0VYM0Y1VjVKbk1zSVVtZXFDdm02a0hVaDFuTFNMS1czNTJNNkFENkhkcS10UndqMEhVMEE?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-19T14:27:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Extension announced until March: Will Luxembourg and the EU overturn German border controls?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prolongation annoncée jusqu'en mars : le Luxembourg et l'UE vont-ils annuler les contrôles aux frontières allemandes ?",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Verlängerung bis Mäerz ugekënnegt: Kréien Lëtzebuerg an d'EU déi däitsch Grenzkontrolle ëm?",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7f69716bd84c1dc844aff71d194564164f9f0eb2",
+      "title": "Dany Freire salta do Luxemburgo para o Barcelona",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SUGVKWGhtQmpGbXVTTUg5RUlvRHlnbWN5TDc4QmhpNUxlUG5BRXFpN0dNR1hyUF9Fd1BzN0JfSmZncnE1dHluaGZoUHdMOHlKRkYxOWp2SHQySEJNSzlQYUQ1ZktQZHFLbERLYVJIMko3NEhSd0E?oc=5",
+      "source": "BOM DIA - Portugal no Mundo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-08-19T14:07:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Dany Freire springt von Luxemburg nach Barcelona",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Dany Freire spréngt vu Lëtzebuerg op Barcelona",
+          "summary": ""
+        },
+        "en": {
+          "title": "Dany Freire jumps from Luxembourg to Barcelona",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Dany Freire passe du Luxembourg à Barcelone",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "803f1d8d34933d3da6d077fc46fade9e0948240f",
       "title": "Pourquoi le Grand-Duché de Luxembourg n'a-t-il pas envoyé de bombardier d'eau en Belgique pour combattre l'incendie des Fagnes",
@@ -229,6 +291,35 @@
         },
         "en": {
           "title": "Life insurance in Luxembourg: record of 35.1 billion euros carried by the French",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "147f48537cdeffa72773b797180f664b5d5ec053",
+      "title": "Spritpreise Luxemburg heute: Das kosten Diesel und Benzin am 19. August",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYTNtYWc1ZWxsUWlOY2s1RUJ1RHk5dktfdWpJY2JRMjZPcGRsMFZPSXA2MzFyWE91am9wcmE5emJ2S2F1OGpnM25Xc0VOWUNpSXlILUxpMTZ0b1FELTVDNHNlRGU0Ri00VG82MUtVSzdMdHhZMEtQTU1kTFRJRWo1Q0ZmOXZhWGR2LXlrckQ1ZFlNNEtpM3NlVkhFeXJVZURDSWIyY0hn?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-19T09:43:49.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Fuel prices in Luxembourg today: This is what diesel and gasoline cost on August 19th",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​des carburants au Luxembourg aujourd'hui : voici ce que coûtent le diesel et l'essence le 19 août",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffpräisser haut zu Lëtzebuerg: Dat kaschten den Diesel a Benzin den 19. August",
           "summary": ""
         }
       }
@@ -20388,6 +20479,35 @@
         },
         "fr": {
           "title": "Canicule au travail au Luxembourg : quels sont vos droits légaux et vos risques réels ?",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fc29182c44c585b145645b2301bb0271ac274b41",
+      "title": "Luxembourg Backs IOM to Advance Responsible AI for Humanitarian Response",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSENCa2lRWDhjemlYS1MwaTlEbnBza1hGWTd4YXlaekx3R3ZYQTJNLURHT2NrRlllQUpla0dXOXdTcGgycXl2UXpuazFGRHNSYjJSVjJFWS1XNUk0aF80cjJWbFpIWGF3TjBYejRFME5Cd3E0SHZBdGZQTXNGYmwxUm9peVhJa254MUxpWENQMzJKNmhL?oc=5",
+      "source": "International Organization for Migration",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-07T05:20:35.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg unterstützt IOM bei der Förderung verantwortungsvoller KI für humanitäre Hilfe",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg soutient l’OIM pour promouvoir une IA responsable pour la réponse humanitaire",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg ënnerstëtzt IOM fir verantwortlech AI fir humanitär Äntwert ze förderen",
           "summary": ""
         }
       }
@@ -46977,131 +47097,6 @@
         },
         "de": {
           "title": "AMM-59: Vietnam pflegt Beziehungen zu Panama, Luxemburg, den Niederlanden und Katar",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2032c2100d7ab620f191072066e0756798001b0c",
-      "title": "В'єтнам-Люксембург: Зміцнення зв'язків на шляху до сталого розвитку",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1ZPbV9RaGdRcDlJdmw0WDZINl9TUElwMnVwNVJ6YUt0R0RxdkdzcXoyV09CQk1ZU2VCUnJLRFBvMWNRMWVnZm9aTTFBZGt2TmY1azcya20wY0FGRDVJcnRBc2pKSmZCU3hUYXVRRGZlUkdJYXV1UDQ1RWhLVXpyaFBvRmM2Y2x1QXU4Wm5nSEtrdlY4VHpBaXN3?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-24T13:56:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Vietnam-Luxemburg: Stärkung der Beziehungen zur nachhaltigen Entwicklung",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam-Luxembourg: Strengthening ties towards sustainable development",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Vietnam-Luxembourg : Renforcer les liens vers le développement durable",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Vietnam-Lëtzebuerg: Stäerkung vun de Relatioune fir nohalteg Entwécklung",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "377c9634a122cf0254b74e86150bd2be441ec728",
-      "title": "Luxembourg et Lomé scellent un partenariat pour accélérer la transition numérique",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRnNKQktDSzVTdkx0QTNIQktydlRyMkt5N3o4M2pHeHN4ZU1GWkMwNk1fZFphQWExR0VCc0diX2NGa2VGVEpzN0VFX2RGdllDd0ZzOTdPVG1WeUZlOElnUlNrN0pSSmpYd2MwYVBWTFkybzMyU3Jjb19yTzBfdV9jNFIwNnZaTUxkU1YyWndYcFJZQjljSG9SenZCN3Q5cnVvdko3REZma2VRUXFKeWc5cnVrME5lRnM3djNSVGhoWHk0aU53WTJNWXJCMzhzek5UOU1pMENiTjR4OTQ?oc=5",
-      "source": "AGENCE ECOFIN",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-24T13:50:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture",
-        "tech"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg and Lomé seal a partnership to accelerate the digital transition",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg und Lomé besiegeln eine Partnerschaft zur Beschleunigung des digitalen Wandels",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg a Lomé versécheren eng Partnerschaft fir den digitale Transitioun ze beschleunegen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1ededcd237c0625241f7fdf82dfaeb08e5ff4bf1",
-      "title": "Luxemburg: Bis zu 20 Mann prügeln auf Einzelnen ein – Opfer schwebt in Lebensgefahr",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVjBGbWNvZk9JMVBwcUt4UXJMVVdEbm5vMVU2bkt6dnVZUllqbDFmdDlCam5ZYU5LRlpVdXBoRVZBeWxPLXF1SzB1ZHowX1FES3JDdHpoeFdCZWVNbGNHQzFtZVlFdUkyLUdNdnF5eWdnb0RnTUd4SDBHSlB4M1VYby1ib05vQXBPNklLc2lyNkFRbk1KNTRNVUx5Q0tVcWhIZmRnWm5fcGFTX0poVlNTdEN1WVJVZw?oc=5",
-      "source": "lokalo.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-24T13:41:43.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg: Up to 20 men beat individuals - the victim's life is in danger",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg : Jusqu'à 20 hommes ont frappé des individus - la vie de la victime est en danger",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg: Bis zu 20 Männer hunn Eenzelpersoune geschloen - dem Affer säi Liewen a Gefor",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5fde745220fb2f73f1ab63b4c63582aefa78a93d",
-      "title": "Donar haalt puntenkanon Kevon Godwin uit Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnllemJIX0I2WjF4TUZEZEMteEp5Q0JrLTRkMUdaNGNDNzVQLUVOTkJXbVBoN2xodldTWW5sT24xTFE0bDRjQ3pYVWtHREY5ZGI5ZWRReHVOV2pkODFweEk4eGZuaHFMVmpPV3VLT18wMnJ5ek1xV3dtV0FIZFJYMEFHTGMxbzNONEJrdEVzUzl6dw?oc=5",
-      "source": "RTV Noord",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-24T13:40:07.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Donar bringt den Punktjäger Kevon Godwin aus Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Donar brings in points gun Kevon Godwin from Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Donar fait venir le pistolet à points Kevon Godwin du Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den Donar bréngt d'Punktegewier Kevon Godwin vu Lëtzebuerg mat",
           "summary": ""
         }
       }
