@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:46:58.884Z",
+  "generatedAt": "2026-08-19T16:47:15.933Z",
   "items": [
     {
       "id": "a34c897cb9ce937729637fd3fa743119691b0403",
@@ -150,6 +150,35 @@
         },
         "fr": {
           "title": "Contrat professionnel : le BVB recrute un milieu de terrain luxembourgeois",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f36717fda5c229168a6cff2df8fb6e238e14a5e8",
+      "title": "Gewitter heute Abend: Trier und Luxemburg im Unwetter-Bereich",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNclBEODZOYlFSS2FYckladEhhWjNlOHVYSkhzN3J2eFFueU1rc0Z4cVdKRUN0d0MxdUdmZ2o3VkN5NGN5WWtBREhCQ2dodnV4anNSN1BxaFZZRUhOQkw1SHFRZ0hORXNTR0k0LThBeXdmTUxQX2FFSng2WFBmVTJIRWVEODg4THljVGtsR3RGNXk3cmhzVlVOOHVR?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-19T14:53:21.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Thunderstorms this evening: Trier and Luxembourg in the storm area",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Donnerwiederen den Owend: Tréier a Lëtzebuerg am Stuermgebitt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Orages ce soir : Trèves et Luxembourg dans la zone orageuse",
           "summary": ""
         }
       }
@@ -47060,39 +47089,6 @@
         },
         "fr": {
           "title": "Considérer la coopération financière comme un pilier important des relations bilatérales Vietnam-Luxembourg.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "de3a9197d1e324246fc71bc312bf8301960f4307",
-      "title": "金融協力は、ベトナムとルクセンブルクの二国間関係における重要な柱の一つであると考える。",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVll5NG5lekliN1hFdVQyV19UT3lFRllaSmNPUWhMS2ZfUWNlbEY5YlVlNmhfZE5jNWN2OEc2ZmhGMDBETjZMU0pEREVvTnNfTlFGbkNkYVFBYWZEXzl2WVlYQmdoX0I2OUNjOWpodTdpT1dYV05NOERIdi1fOXcwcVRSc3lnaDZ0UFZ5a0hYY18wNXp3Vk9lZTI5TnRDcDRvOFc0SFE5SjB6RW1sS1BobFc2am1XRzk2?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-24T14:50:42.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Nous pensons que la coopération financière constitue l'un des piliers importants des relations bilatérales entre le Vietnam et le Luxembourg.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Mir gleewen, datt d'finanziell Zesummenaarbecht ee vun de wichtege Piliere vun de bilaterale Relatiounen tëscht Vietnam a Lëtzebuerg ass.",
-          "summary": ""
-        },
-        "en": {
-          "title": "We believe that financial cooperation is one of the important pillars of bilateral relations between Vietnam and Luxembourg.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Wir glauben, dass die finanzielle Zusammenarbeit eine der wichtigen Säulen der bilateralen Beziehungen zwischen Vietnam und Luxemburg ist.",
           "summary": ""
         }
       }
