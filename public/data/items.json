@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T16:47:15.933Z",
+  "generatedAt": "2026-08-19T17:41:52.526Z",
   "items": [
     {
       "id": "a34c897cb9ce937729637fd3fa743119691b0403",
@@ -241,6 +241,35 @@
         },
         "fr": {
           "title": "Dany Freire passe du Luxembourg à Barcelone",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "afb6164c1a579215278cffc60b0c57506f412ea1",
+      "title": "Luxemburg: Zwei Festnahmen nach blutiger Messerattacke am Hauptbahnhof",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFYwNE84ZTZsN0Qwa3RqS05QbDBqNG1TZHFRQklINWs1SlNwell5ZEgyVHI2aUZQNTUwd0FqaUo5TFVwbVZKOXFGaGZqOWdVOUJQeExXVi1fZmhaTkZ0aVBtMmFzbjRMS3plSEgwZ09SbEdJVXE2RHpTMm5zTlA4VnBVRnhmdlZyemdINF90ZjVYemRvVmVLa04zVVFvakc1S0tuQ0pB?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-19T13:39:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg: Two arrests after a bloody knife attack at the main train station",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg: Zwee Verhaftungen no engem bluddege Messerattack op der Gare",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : Deux arrestations après une attaque sanglante au couteau à la gare principale",
           "summary": ""
         }
       }
@@ -47056,39 +47085,6 @@
         },
         "fr": {
           "title": "La coopération financière est considérée comme un pilier important des relations bilatérales entre le Vietnam et le Luxembourg.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9127cb6d33c4842e46149414228e0d7911ed961e",
-      "title": "Considerând cooperarea financiară ca un pilon important al relației bilaterale Vietnam-Luxemburg.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnFxWjJvZEdoMXZVTWhpYmhtUlR6TV84WnBrNlcxSUhSSElaVHBieWQ4R2xyZnp3R1RGRGpDYmYzdXFZS0x6YjB0M0lHNTJBdDh6SGF3dHJ1c3FWc191eTJfMkhlT0tvMWJjUDZtN29rSTdacUtQVUE0dW9pSHBMdFgxb3hOcm4tXzgyQ2lRLVl2a0JHWWVQM1kxR1Y4UjgzbTlITWZHWXRuUW4wemZaRE1wZDR1Y3FK?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-24T14:55:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Betruecht finanziell Zesummenaarbecht als e wichtege Pilier vun Vietnam-Lëtzebuerg bilateral Relatioun.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Considering financial cooperation as an important pillar of Vietnam-Luxembourg bilateral relationship.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Betrachtet die finanzielle Zusammenarbeit als eine wichtige Säule der bilateralen Beziehungen zwischen Vietnam und Luxemburg.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Considérer la coopération financière comme un pilier important des relations bilatérales Vietnam-Luxembourg.",
           "summary": ""
         }
       }
