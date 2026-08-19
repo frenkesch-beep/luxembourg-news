@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T22:42:56.457Z",
+  "generatedAt": "2026-08-19T23:37:44.485Z",
   "items": [
     {
       "id": "0683cfc0ce9fd6b9069e50699f7e0efadea1a251",
@@ -154,6 +154,35 @@
         },
         "de": {
           "title": "Der Beginn des Schuljahres wird für junge Lehrer in Luxemburg zur Sorge: „Ich habe immer noch keinen offiziellen Vertrag, da der Beginn des Schuljahres näher rückt“",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5ab78fe8f05a9540042b40482ca8261f132153a5",
+      "title": "Concours de pétanque, barbecue, jeux gonflables : quatre jours de fête dans ce village des Portes du Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTVzUTJtcGxVdTNPbENhWHM0MkpuY0xXUmNyTTk1MnVMblRqSkRUYk1BQzg2bk9ycUVCcHhYZldQS2xfLWRoQUNMM0dCbzUxeWVjdVMxa2dOUGVzM2lGYTdyUmZWdlRfRGpQc191NWhYWHZVNVF3SnZOcl9WSS1IdUlMM3UwNEdxdThSVjM3cjlLRkVwdDhGMThNbzY1dGNTNl9zb01lVTBGNHkxUHpld0RnUGQxR1l3NjZhUXNBeER3blFFMnk4?oc=5",
+      "source": "L'Ardennais",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-19T17:32:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Pétanque competitions, barbecues, inflatable games: four days of celebration in this village in the Portes du Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Pétanque-Wettbewerbe, Grillabende, aufblasbare Spiele: Vier Tage lang wird in diesem Dorf in den Portes du Luxembourg gefeiert",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Pétanque Concoursen, Grillen, Opbloosbar Spiller: véier Deeg Feier an dësem Duerf an de Portes du Luxembourg",
           "summary": ""
         }
       }
@@ -47056,39 +47085,6 @@
         },
         "fr": {
           "title": "L'île Maurice a ouvert ses portes au Royaume-Uni, aux Pays-Bas et au Luxembourg après de nombreux refus de visa...",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5bd52b65cce6ff58fef0be04d24ea4fb54ab0038",
-      "title": "AMM-59: 베트남은 파나마, 룩셈부르크, 네덜란드, 카타르와의 협력을 증진합니다.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWRCNGZGVGdLVTROQ3JGcHRsU0cxQUFXR0xJNG8yNlpKQTVHUUg1RXpaUmJZcEpBU3FGVzFfcDdCanNXTUhKZGFwMkdTN2xzUTVBaW9mZmJGYU5hVWhWd3lxMjRRemNEMS1pb3pBakY2ZXpZbmlIa0lVc09aTEllX2N1YS1GYS05d0cyd0Zicmp4dkljSmZMcnVIUGw?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-24T15:48:54.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "AMM-59: Vietnam fördert d'Zesummenaarbecht mat Panama, Lëtzebuerg, Holland a Katar.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "AMM-59 : Le Vietnam promeut la coopération avec le Panama, le Luxembourg, les Pays-Bas et le Qatar.",
-          "summary": ""
-        },
-        "en": {
-          "title": "AMM-59: Vietnam promotes cooperation with Panama, Luxembourg, Netherlands and Qatar.",
-          "summary": ""
-        },
-        "de": {
-          "title": "AMM-59: Vietnam fördert die Zusammenarbeit mit Panama, Luxemburg, den Niederlanden und Katar.",
           "summary": ""
         }
       }
