@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T20:46:18.090Z",
+  "generatedAt": "2026-08-19T21:42:06.881Z",
   "items": [
     {
       "id": "df2dc0db0ccae40a6c9e37fdf4d0109a0a2c7f99",
@@ -780,6 +780,39 @@
         },
         "en": {
           "title": "Galeria de La Maison du Savoir - University of Luxembourg / be baumschlager eberle - 18",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "39ebbbe75acba31f62c139fa1bcd4b53c43a9a37",
+      "title": "В Ульяновске в доме на улице Розы Люксембург 3 недели не работает лифт",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0tST21mTlNjUW1sMWlVTnBUN2otUTl2TUN5LTlkaUVYbEVEaFl4TDNYdlAtZF9kb2huMjlpUjVMc25mSUl1Rk5aN2F4dWhwZEVIazRqR2RKVXlNSUpuQzJoSUJGOWNnSTA1WllEQnZRU3JvbE1sLVpMRjFFeHBRVlF5LUlkM2FmbnowLTFDN3hQZFdFNVNGZHBkQlQ1cElfWVpHaVRkZEMwMjk0WXJjSmNn?oc=5",
+      "source": "ulianovsk.top24.news",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-19T08:46:06.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "In Uljanowsk, in einem Gebäude in der Rosa-Luxemburg-Straße, funktioniert der Aufzug seit drei Wochen nicht mehr.",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Ulyanovsk, in a building on Rosa Luxemburg Street, the elevator has not been working for 3 weeks.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Zu Ulyanovsk, an engem Gebai an der Rosa Luxemburg Strooss, funktionéiert de Lift zanter 3 Wochen net.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "A Oulianovsk, dans un immeuble de la rue Rosa Luxemburg, l'ascenseur ne fonctionne pas depuis 3 semaines.",
           "summary": ""
         }
       }
@@ -47056,35 +47089,6 @@
         },
         "fr": {
           "title": "À l'intersection de l'avenue Novgorodsky et de la rue. Roses du Luxembourg a installé de nouveaux panneaux prioritaires",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8df7715899b27c15b5dcf919be825f2319a6f748",
-      "title": "La coopération financière est considérée comme un pilier important des relations bilatérales entre le Vietnam et le Luxembourg.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUk5dXlRVk0tc1Nna0dIYlltcnkzR2pDQzVEbFBjYlQ2VTRLNUxXeDRqZC05U2Y0cllnbk1HWWNzVUFvaHVUNGdObTZoQW9zVHJFakFLZFlzamVyNjQ0eC1hbWZtM2lFaDNoaVZPN3NRaDFCajdnRHJzZTBNSGNFbmxQMGdGbHBBYk04V1c2VGszY25BZmlSOGo1X0p5dHRlMkszUTJzb3pWZk5OZG1ONE55VHZFNUlC?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-24T15:23:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Financial cooperation is considered an important pillar of bilateral relations between Vietnam and Luxembourg.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Finanziell Zesummenaarbecht gëtt als e wichtege Pilier vun de bilaterale Relatiounen tëscht Vietnam a Lëtzebuerg ugesinn.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die finanzielle Zusammenarbeit gilt als wichtiger Pfeiler der bilateralen Beziehungen zwischen Vietnam und Luxemburg.",
           "summary": ""
         }
       }
