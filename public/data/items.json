@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-19T05:47:10.151Z",
+  "generatedAt": "2026-08-19T07:06:19.167Z",
   "items": [
+    {
+      "id": "6afc9026dbe6e41138d9e4ec36c4f3d4d7c6e218",
+      "title": "\"Il y a une différence majeure avec le Luxembourg\", explique le directeur de l'hôpital Maillot de Briey, fermé faute de personnel",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNTk1VNkFJSjdwTHlIYVY3SEhlVm9CXy1PbnNRZ0pjRklmZ19LeW5MSl8ySXlleWt4NVp1MHJlVkZoZmhEQWhFblNRY3BoWGpFWGJrb01XSDJxWngtdzMwb3JmQUZqSDZUU1BUU0NGN0xpdGNCOHQ3bVpLbEIwS2RNM2x2V2liTFZUdTZpcjllc19acDF5NFhNUGpJZXotT1JBSGJUd3dYdEhnRTBrQi1tM2NlT0sySXRVYXhRZlFZd3oxS1FJeHRxNElROWdyT3RMM0VSWnQzaFFSYWV5UHlQc0VKVHZ1Q2Zua0MwSENDdzVBd29UR052d1NkYmFNUndtREQ5ZGVBYzJmamZJWURYUXp1RXRfVXFEYlNlbUsyMVdZc0JScjBsNW4wa2RPY1k?oc=5",
+      "source": "RMC",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-19T06:25:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "“There is a major difference with Luxembourg”, explains the director of the Maillot de Briey hospital, closed due to lack of staff",
+          "summary": ""
+        },
+        "lb": {
+          "title": "\"Et gëtt e groussen Ënnerscheed zu Lëtzebuerg\", erkläert den Direkter vum Spidol Maillot de Briey, zougemaach wéinst Personalmangel",
+          "summary": ""
+        },
+        "de": {
+          "title": "„Es gibt einen großen Unterschied zu Luxemburg“, erklärt der Direktor des Krankenhauses Maillot de Briey, das wegen Personalmangels geschlossen wurde",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "680085b95b68738888a691471236a9ce4e1001d3",
       "title": "Integrasys se adjudica en Luxemburgo dos proyectos de I+D en defensa por 2,89 millones de euros",
@@ -47108,39 +47137,6 @@
         },
         "de": {
           "title": "Vietnam-Luxemburg: Stärkung der Verbindungen für eine nachhaltige Entwicklung",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e618fe4e2938a8e98da0a48d81edba614d8bf097",
-      "title": "Vietnam-Luxemburg: Versterking van de connectiviteit, op weg naar duurzame ontwikkeling",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDBZV3NUX3pLWnlibGJ3eTFoRVNiUlhJY0FpOEFpekZuVlZEVDVYM2I1S2RMaGhFa1RSajlqY3hlaEM3dHNXZi1OY3hLZ0xCUy1xd1IxYzdBX3BoMEtFZXIwQVdLcDFTU1ROYW5rWWt3NERWSUZXdDduOF85S2JObkxjQ0Joa2cxaHQ4b2thb0taQl8xUGpJd1d3?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-07-24T12:00:43.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vietnam-Lëtzebuerg: Konnektivitéit stäerken, Richtung nohalteg Entwécklung",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Vietnam-Luxembourg : Renforcer la connectivité, vers un développement durable",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vietnam-Luxemburg: Stärkung der Konnektivität für eine nachhaltige Entwicklung",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam-Luxembourg: Strengthening connectivity, towards sustainable development",
           "summary": ""
         }
       }
