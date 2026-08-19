@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T01:53:38.600Z",
+  "generatedAt": "2026-08-19T03:11:38.457Z",
   "items": [
     {
       "id": "7c50b4c02f0eb6dbedb53ea1a4b9693361d9fd29",
@@ -286,6 +286,39 @@
         },
         "lb": {
           "title": "Am Bau schaffen zu Lëtzebuerg: Aarbechtsmesse fënnt am Land statt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d511b78dd79bdb29d11fe99e9c92e0d51acf2bdc",
+      "title": "L’addio a Ivo Batocco, il maestro d’arte che ha legato le Marche al Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNTJTQm02Yi1HcVRNUFJWeWx1SVZ1VU1uNGhsdVN0MEM4bHRVblJNZlFVSjNwZFZVaHZwb053RXdYQkxzUXVDT01vWVR4YWNYSVd6S0tuNUtkdGVKSU9YODZIQlRYT2s3UWlodk9pMUVVRzFyRW1xR2g5a0FCUTR6dFBXVFo2d1lOaE1j?oc=5",
+      "source": "CentroPagina",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-08-18T15:29:41.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Les adieux à Ivo Batocco, le maître d'art qui reliait les Marches au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "The farewell to Ivo Batocco, the art master who linked the Marche to Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Abschied von Ivo Batocco, dem Kunstmeister, der die Marken mit Luxemburg verband",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Äddi vum Ivo Batocco, dem Konschtmeeschter, deen d'Marche mat Lëtzebuerg verbonnen huet",
           "summary": ""
         }
       }
@@ -47101,39 +47134,6 @@
         },
         "de": {
           "title": "AMM-59: Vietnam fördert die Zusammenarbeit mit Panama, Luxemburg, den Niederlanden und Katar.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "17ca76afd3c4064ddaa4ab908a43d3ad09f0025b",
-      "title": "AMM-59: Vietnam promueve la cooperación con Panamá, Luxemburgo, los Países Bajos y Qatar.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkhYZkpkRmZEVi1WcDZQV2JzZ0x1Zzc5Q2pkTnZBZFBDdUd4V3otUkU0aFo2ZTJhREY0blFSQjRvRW5HV3dCU0ZSSzRRNml0QVhjTW56M05aMTNBaXo5TUVURDUtejdNUE43TTFsVXhCMWpFbnhFVHhfRkpUMzlxNzhVVDNOeExjZTgyTVFYWXdFQkxzSGNoYTBldFY?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-24T11:27:59.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "AMM-59 : Le Vietnam promeut la coopération avec le Panama, le Luxembourg, les Pays-Bas et le Qatar.",
-          "summary": ""
-        },
-        "de": {
-          "title": "AMM-59: Vietnam fördert die Zusammenarbeit mit Panama, Luxemburg, den Niederlanden und Katar.",
-          "summary": ""
-        },
-        "en": {
-          "title": "AMM-59: Vietnam promotes cooperation with Panama, Luxembourg, the Netherlands and Qatar.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "AMM-59: Vietnam fördert d'Zesummenaarbecht mat Panama, Lëtzebuerg, Holland a Katar.",
           "summary": ""
         }
       }
