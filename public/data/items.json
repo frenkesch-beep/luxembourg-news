@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T14:55:51.556Z",
+  "generatedAt": "2026-08-20T15:49:22.453Z",
   "items": [
     {
       "id": "fc5342bf4f8d7b8fe53deb4958861503274593e6",
@@ -146,6 +146,39 @@
         },
         "lb": {
           "title": "De 17 Joer ale Lëtzebuerger Nationalspiller Santos huet e Profikontrakt bei Borussia Dortmund ënnerschriwwen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4b66f6d0c6d67302bde2273be189c3a6ce1b22be",
+      "title": "Закарпатські рятувальники отримали пожежний Mercedes-Benz від Австрії та Люксембургу",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OY0t6c2ZHRUR4S3g0bHVzRk5KOWMyWVB2bzdxSlo2aEI3ZGpyZjczZWotc3N2aFJqakdFUjJzQWljREVxQTcwUTA5WTNJaHdFYUdZc3dhWGt6RU5OZHk2NmhseS1ZM2kzOGlR?oc=5",
+      "source": "UKR.NET",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-08-20T11:23:47.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Transcarpathian Rettungsdéngschter kruten e Mercedes-Benz Pompjee aus Éisträich a Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Transcarpathian rescuers received a Mercedes-Benz fire engine from Austria and Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les sauveteurs de Transcarpatie ont reçu un camion de pompiers Mercedes-Benz d'Autriche et du Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Transkarpatische Retter erhielten ein Mercedes-Benz-Feuerwehrauto aus Österreich und Luxemburg",
           "summary": ""
         }
       }
@@ -47021,35 +47054,6 @@
         },
         "fr": {
           "title": "Prix ​​des carburants Luxembourg aujourd'hui: dimanche 26 juillet",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4e971655daa2f411dbc1d901f04b8a405d68a830",
-      "title": "Luxembourg : Fin de l’autorisation permettant la commercialisation en Europe des obligations d’État israéliennes",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORk1ocUxCU1prdEJUb2xKemd6YzhmWTB0Qi1NUTNFQ1hMU1JSRGJYcllHN1dyYzZjY05vRVZCZWtwdHF4TXFnYW9ucVhnVUJjLXZ0ZFVET0tMLVJOSm5VMVZydDV1eXZTbWpFMnlYYThpZnRDMmI2OGZkMDI1LS1qSHBnbDY4UlZ1N3VpY1dMVW1mcXBwN3hrbXM1TklidmFqdGs4MmJxWXVPQ1JtUjFSVXZFMWw1M1NLalozbWZKd1EtN3FLYkNqQl9TOWU2MDJUZGV6M9IB2gFBVV95cUxQbzNWQVpwUTVCTDFPNE5Vb284bFR6OUxXNkZXV21IUWthczhVUXpxb2h0S3RxUUJwUWpkNVpFTGhtZmthZDBjeTluWVEyQ2gyUk1oSF9rSXg0WlN3UUlfX2haQlFyQUdLY3V4TkEzOWFiUHZidVdGQmt4MFo5bWppR1BkQ3pMZ2NDbEZ0OWg2ZWVMcmFSTlFhdENzSkVkbmYxZzFvNl9OU1YwYi1CZXhsbXdhMFRoYXcxdzcyWXA1ZUNRc3NTZXRVVlFtanpBUjhRRHlvZzFYVE5yZw?oc=5",
-      "source": "The Times of Israël",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-26T07:35:34.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg: Enn vun der Autorisatioun, déi de Marketing an Europa vun israelesche Staatsobligatiounen erlaabt",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg: End of authorization allowing the marketing in Europe of Israeli government bonds",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg: Ende der Genehmigung zur Vermarktung israelischer Staatsanleihen in Europa",
           "summary": ""
         }
       }
