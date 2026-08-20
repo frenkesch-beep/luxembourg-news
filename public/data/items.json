@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-08-20T03:59:27.315Z",
+  "generatedAt": "2026-08-20T04:54:11.711Z",
   "items": [
+    {
+      "id": "ec1215f86b73ac06a651a2835ebe229db982e0c0",
+      "title": "Vietnamese intellectuelen in België en Luxemburg geven invulling aan de geest van Resolutie 57.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnhRWTJmUnF0cURmalBWVV8zQks5anBYUXRrWDZEb3pkSEh1anB0TjF5ek9fbm1NdHhaSnh3aGdPNmxwcHphVl9kVU9neFhMQnE5WnhyREtSODVsRWNoOHJJZEVEdGh2VnlRV0dlT2cwbzAzRFdUOXRudW5qSm9GSGFrRnl5TVNNb0lOcG9ZZERXakVERDlWcFdVMHdkcEk?oc=5",
+      "source": "vietnam.vn",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-08-20T04:16:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Les intellectuels vietnamiens en Belgique et au Luxembourg respectent l’esprit de la résolution 57.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Vietnamese intellectuals in Belgium and Luxembourg are fulfilling the spirit of Resolution 57.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Vietnamesesch Intellektuellen an der Belsch a Lëtzebuerg erfëllen de Geescht vun der Resolutioun 57.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vietnamesische Intellektuelle in Belgien und Luxemburg erfüllen den Geist der Resolution 57.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8ba7243f656ae009a66679b3f16a54067af7c155",
+      "title": "Вьетнамская интеллигенция в Бельгии и Люксембурге воплощает в жизнь дух резолюции 57.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFZGQWpwcmpPd3VqRkRJTFQta3BZU2tnR0JEUEZlTDNHbTV0VFd4eXp5T1duRlVFTURPR2c3TFpEcXZob1g1WWNmZmxGT2VXRTloN2tiU1EyQnJVUHRNRUNmUm81cUtyMVdsLUlzVlpWbndtLU8zNGt5TGZQUDFZQ25ObTNieUFXWUdUcXlZR1dwQ3NiR1NGaThJZnVwbkU?oc=5",
+      "source": "Vietnam.vn",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-20T03:39:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Vietnamesesch Intellektuellen an der Belsch a Lëtzebuerg implementéieren de Geescht vun der Resolutioun 57.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vietnamesische Intellektuelle in Belgien und Luxemburg setzen den Geist der Resolution 57 um.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les intellectuels vietnamiens de Belgique et du Luxembourg mettent en œuvre l’esprit de la résolution 57.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Vietnamese intellectuals in Belgium and Luxembourg are implementing the spirit of Resolution 57.",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "d4343409f1c7180de3aef9e1917fbe6e080cd802",
       "title": "Gli intellettuali vietnamiti in Belgio e Lussemburgo stanno concretizzando lo spirito della Risoluzione 57.",
@@ -47023,68 +47089,6 @@
         },
         "fr": {
           "title": "OpenLux : Comment le Luxembourg est devenu la porte financière de la Chine vers l'Europe",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9ac3f34879687db946d45efb82ac41d44613e921",
-      "title": "EU clears €54m aid for Luxembourg's transport firms hit by fuel price surge",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmlzZEVaTUJLR2JtTXB3UjlSbmJFeENyUjdwX0dVLUdLMDkxb29nRVBTZ2REbHc5M2Z1Q2VQZ1FTQTl0Zld6UlBKSUtCSzJab3MycS1Pb01naEdMWUhXdHBIanN5bFV1Y2FCUTFpb3R4YTh0a1hvckhYbTVxLXd5emZfOEt6MFIyb3ktNkZpeDZVMmxCRG1BN1VXTXdBQUtFVUlIT05RdkZFY3o4VWd0dS1Xdk0zbzBvQ1FaZC1mcEVudw?oc=5",
-      "source": "The Brussels Times",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-24T18:28:43.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'EU läscht 54 Milliounen Euro Hëllef fir d'Lëtzebuerger Transportfirmen, déi vum Brennstoffpräis getraff sinn",
-          "summary": ""
-        },
-        "de": {
-          "title": "EU genehmigt 54-Millionen-Euro-Hilfe für luxemburgische Transportunternehmen, die vom Kraftstoffpreisanstieg betroffen sind",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'UE débloque une aide de 54 millions d'euros pour les entreprises de transport luxembourgeoises touchées par la hausse des prix du carburant",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2582e2d7a1ac3cb2ebbefb89cd32b767acb2e18c",
-      "title": "AMM-59: Вьетнам укрепляет сотрудничество с Панамой, Люксембургом, Нидерландами и Катаром",
-      "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxNZ3lkX3BhMnViNHVJSjJrSjNQMV96ZlZBcDhKcnJ4aC1WalI0bEJxVWNrQU9CMmswcFo3UW01VnJ5b2VPYldpWXJ0VDJ1MFVlSldSRVNBWE1oSE91dllrTXNld0xVeGlveHpQWFNhcmJvVTJmaFByVThpRGQ4RTdTbnlkblNBQ1BsV0o0Ny1kbndOby1xaGNwT3JaQVpvdHVxMmpqV0tOOW03NTRkV09RQTBKeHVHWjRLSTJBX2k0eFJ4TWFvWHJ3Z3hOanFuZEdlRjZ0Q0lKWlNmV21WWno4NFZOc3FHeXF6SHJDcm5ZVjVfZ3MxdkF2bE1JdmFzcTJNLXd3Y0VzVzh6ZHl3WVB2V29Gai1UeTEyQkVBUDJ4dS1vNWxiSVVWdng4VnZTQUV1MEFyWUh1TnNMdG5SckwwNGh5UU1mTnV2OF9ySEc3cWkxN3VGTXFJT1plT1JTWWduMFhmVXRmUGFWYl9SczJLRGpFLTdUU1FDc01iUFlSRVRqUUxxTk9KYktlUk1mYXk4RkxlTXo5T1pLZVFpQ0xmdVU0UEN3Qk05cm1ibHJ3U2g4UnJUUHY1SW96RmtnVC1IOEFhd3QtTGRfVTB4UG83M3NuZmlkS28tUy1UcHpPM0RkSFI3VUlLeFV5RjdLdGs2d3RCSnVWdDlrN1ROQTQxb21Ub0pPOHhvVWxKTGR3bkY0a201a0s3Mk1uUXhZakUtVFRJNUlicm9kcTRNNlQyaXJFV2kzcU5jbWtseXA2Tk1yR0tWS2NQVWdYVVo3MWtEcXRnNXoyTnFoNWlCajhSNW1CdkZGZDZGck80bEV6R2VSRzFDcXdsRDRPN0J0dXZHeS1pUnZGOHJPWmQ1bTdLZjZhUTRXVHJZUHBOY2JKMmlwMERPc2NTVg?oc=5",
-      "source": "Thông tấn xã Việt Nam (TTXVN)",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-07-24T18:23:47.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "AMM-59 : le Vietnam renforce sa coopération avec le Panama, le Luxembourg, les Pays-Bas et le Qatar",
-          "summary": ""
-        },
-        "en": {
-          "title": "AMM-59: Vietnam strengthens cooperation with Panama, Luxembourg, the Netherlands and Qatar",
-          "summary": ""
-        },
-        "lb": {
-          "title": "AMM-59: Vietnam stäerkt d'Zesummenaarbecht mat Panama, Lëtzebuerg, Holland a Katar",
-          "summary": ""
-        },
-        "de": {
-          "title": "AMM-59: Vietnam stärkt die Zusammenarbeit mit Panama, Luxemburg, den Niederlanden und Katar",
           "summary": ""
         }
       }
