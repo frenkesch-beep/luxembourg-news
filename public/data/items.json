@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-08-20T11:44:04.476Z",
+  "generatedAt": "2026-08-20T13:11:49.722Z",
   "items": [
+    {
+      "id": "d757d1c6fc78702d3c76cdc55647443e1e89e96d",
+      "title": "Islande, Luxembourg, Danemark : où l’automobile coûte le plus cher",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQURIOGtDWDdyMHpESHo3T2NuRUNlMGEwakVvaXZ1LTJMVHZYaDVueVIwdFk2RFU5d1NHbEsyNTE4Zmd2SENraEpXYzd1RmxoeEZuelpDVjE3M19PZHdpVzJ5bjh5Sk1td0pVWUhSeEsxYy14SkJWdXhxTnFlbWhzaGJLYzk0WG5Vd3JxaTM5bk94cTJEQXJkdG5JUldNa2dt?oc=5",
+      "source": "L'Automobiliste",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-20T12:50:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Iceland, Luxembourg, Denmark: where cars are most expensive",
+          "summary": ""
+        },
+        "de": {
+          "title": "Island, Luxemburg, Dänemark: Wo Autos am teuersten sind",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Island, Lëtzebuerg, Dänemark: wou Autoen am meeschte sinn",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f825b81b2db15509b8adaac07a087fb85875219a",
+      "title": "🔴 Bulgaria  VS Luxembourg Live | BUL vs LUX, 17th T20 Live 2026 | Live Score Fan Commentary",
+      "url": "https://www.youtube.com/watch?v=3ErUvHTt0mA",
+      "source": "Sportz Meter",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "en",
+      "publishedAt": "2026-08-20T12:11:42.789Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/3ErUvHTt0mA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBS4z23evNYwheeo1DSAmg6GqQg8g",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "🔴 Bulgarien VS Lëtzebuerg Live | BUL vs LUX, 17. T20 Live 2026 | Live Score Fan Commentaire",
+          "summary": ""
+        },
+        "de": {
+          "title": "🔴 Bulgarien vs. Luxemburg Live | BUL gegen LUX, 17. T20 Live 2026 | Live-Ergebnis-Fankommentar",
+          "summary": ""
+        },
+        "fr": {
+          "title": "🔴 Bulgarie VS Luxembourg en direct | BUL vs LUX, 17e T20 en direct 2026 | Commentaire des fans en direct",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f57abf25b3dd130a1dd2094e1b14529eb63e019d",
+      "title": "Luxembourg pledges additional 2.4 million euros to strengthen rule of law in Laos",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR21KVW5XcTYwSGZ4Rzd5VFdOTUM1RkFIWVlDRTlVZ196VVRjWHNJMVdTQ3pTUXhGOWdoWEpyMVVPM1VQSmt0ZkVVSWZiM2JEWHZXMHJwaTBwWDV1b0NpX25hbWhPV2JrRzk3M2hBNnltUW1jbUlVUGFKN1JUeWZKMFdkb0JTMnhRVjFaVUhEWVltSVpFVml4dktaNGlxcjFaLVMtdVZSVHdoRUlJOG45eTkyZUtpYVpUSlFjZnhBbmxpeWZ0UURpajBnUUh0OXRfZjdHR1hpUW5MWUk?oc=5",
+      "source": "The Star",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg sagt zusätzliche 2,4 Millionen Euro zur Stärkung der Rechtsstaatlichkeit in Laos zu",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg versprécht zousätzlech 2,4 Milliounen Euro fir de Rechtsstaat a Laos ze stäerken",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg promet 2,4 millions d’euros supplémentaires pour renforcer l’État de droit au Laos",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e851a898b9c85790d0924464613e150f0ed7605b",
+      "title": "17-летний хавбек сборной Люксембурга Сантос подписал профессиональный контракт с «Боруссией» Дортмунд",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRmNPQWJGOEFmT2hJVFUzZzVHYWNvZEV0NGNqWDVieDMyT0lLWXhoUU5nRmhQVTNjUzFqNHhIbXZ3TXRxQThLOW9qdFRlYXVHdGU4dGtZYWlDVUQ4VkNIcGxCN1loWU9fXzZnSWtxVWNuV2xqdnVUUWlNeWNvWnFRQVlwY2hqQ0M4LTAzbkl5VmpWUzFKZXZwNnJQSGJ4Q0l4bGRHNjR30gGrAUFVX3lxTE1sX0lLanhNa3JQNGhLT21ReEtXZmlvT2ZZajBjd1psb0VIc1JIRncwX1lpU0lmNEl2MHhyMFZSOVZMNVFzbXlhWXd4UlNkREZibmRZUEE5QnpYa3lSS3c4TjJETEVRbFN4RnBjMHR5RnU1N0thT3hUZm1QaTBURDZNS1FKcUkyWi13NkZFdXNXOVByOHg1TDdKM3FzMEswM2F6bVVZOS13dzhMaw?oc=5",
+      "source": "Tribuna.com Беларусь",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-20T11:56:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Santos, milieu de terrain de l'équipe nationale luxembourgeoise de 17 ans, a signé un contrat professionnel avec le Borussia Dortmund",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der 17-jährige Mittelfeldspieler der luxemburgischen Nationalmannschaft Santos hat einen Profivertrag bei Borussia Dortmund unterschrieben",
+          "summary": ""
+        },
+        "en": {
+          "title": "17-year-old Luxembourg national team midfielder Santos signed a professional contract with Borussia Dortmund",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De 17 Joer ale Lëtzebuerger Nationalspiller Santos huet e Profikontrakt bei Borussia Dortmund ënnerschriwwen",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "5392b4ff2ed60b2dca53ee50957ac1e9d1109020",
       "title": "Köln aposta em Gil Neves, campeão europeu português nascido no Luxemburgo",
@@ -1184,6 +1304,39 @@
         },
         "lb": {
           "title": "++ DREIFUNG A LËTZEBUERG AKTUELL: D'Brennstoffpräisser fir DIESEL klammen nees ++",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e38bed4e0267f286aac58a431efeff636373f543",
+      "title": "Bulgaristan - Lüksemburg Özet: Futbol Skorlar & Önemli Anlar",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDdxV0lWMUoycDF6eHpiR2d3Qmd3R0ZfQWhWTUdNSnpfMV9GNDFrZUlKSDB5dWVnNE5HSjNsdjhZeEZQQWJzSG5oRndrbkIzbW9MM1lQOTgtbXpmWWswNTFNWTlTMllWYjZ1S2lDN0FJNl9pYUh6QWlaTmtKMFZVU3czVWo2SkY1S096bWV0dmFtYnZsRGczUDNsTkc3dnJ6aWFZNVVVVmF0c3c3Qk11eTNGaXdOY0U?oc=5",
+      "source": "eurosport.com.tr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-08-19T15:53:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Bulgarien - Lëtzebuerg Recap: Football Scores & Highlights",
+          "summary": ""
+        },
+        "en": {
+          "title": "Bulgaria - Luxembourg Recap: Football Scores & Highlights",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Bulgarie - Luxembourg Récapitulatif : scores de football et temps forts",
+          "summary": ""
+        },
+        "de": {
+          "title": "Zusammenfassung Bulgarien – Luxemburg: Fußballergebnisse und Höhepunkte",
           "summary": ""
         }
       }
@@ -3802,6 +3955,39 @@
         },
         "en": {
           "title": "Luxembourg national team",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d6f84ac4d96fdccb06d3afa1d017d02a60f13cb3",
+      "title": "Giornate del Patrimonio 2026 : visitate il Senato - Palazzo del Lussemburgo a Parigi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeTAyMGRaMnRDQWR2Y2tpTUdJQWRON3FOYmM4MmUwUk5QZEdERVliUnhTU19NRXdMelRVNnVPZWFaVmZfVTRXRUdwOWFnaXJQYmRPRm1pMUNGajFJNldHVHhiSUZsS3RSYng0WW5vOXZxNkFVRWVTOFp5ZXctZWc5NmRxMEtFb1hIMGp5WWNVTWhuMWZIUERKZzlEemVDaWE1R2xrTDNrRWdUVXBZZWgtU01Oa0x3V3RLcUR5Z3ZBWjljU09SRWR0Z3UzNHh3MmY2V3dJUlhzTEZqQVlMSEZjYTJpMlhoQk1uaDZKR0tR?oc=5",
+      "source": "Sortir à Paris",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-08-17T17:26:52.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "eu"
+      ],
+      "translations": {
+        "de": {
+          "title": "Tage des Kulturerbes 2026: Besuchen Sie den Senat – Palais du Luxembourg in Paris",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Journées du Patrimoine 2026 : visitez le Sénat - Palais du Luxembourg à Paris",
+          "summary": ""
+        },
+        "en": {
+          "title": "Heritage Days 2026 : visit the Senate - Luxembourg Palace in Paris",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Heritage Days 2026 : Besicht de Senat - Palais de Luxembourg zu Paräis",
           "summary": ""
         }
       }
@@ -46872,200 +47058,6 @@
         },
         "de": {
           "title": "Die Anmeldungen für das Blue Book-Praktikumsprogramm haben begonnen. Junge Menschen können am Sitz der Europäischen Kommission in Brüssel oder Luxemburg arbeiten",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f58dd97c19f763bf8f5b6874ead88db1f3dfe102",
-      "title": "Recordamos el look de Beatrice Borromeo en la boda de Félix de Luxemburgo: \"Evoca a una mujer con carácter y seguridad en sí misma\"",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXB3VDdHNzRObUxOWEQ2VFFmZGdIWHU2Q1BETFZtSnlRaU1KcWJQVTJZYkZpdlduWGltMnd5UEdLTGxUOTZaUnBMZDFmQ0FpaVBxbWdKNUZKb2JCaTR1UDR0MGpDTHZkYXpFQ21Qa2NaOEVFV0t0TDVnWlFiNVVkRmtFZEJacUQ4OS1WYWVvcWppak9LdjZpOUdoUVpvQWNUWTlKZ3hzWVlQYUZQV0FNSQ?oc=5",
-      "source": "HOLA",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-26T05:04:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Mir erënneren eis un dem Beatrice Borromeo säi Bléck op d'Hochzäit vum Félix de Luxembourg: \"Et erënnert eng Fra mat Charakter a Selbstvertrauen\"",
-          "summary": ""
-        },
-        "fr": {
-          "title": "On se souvient du regard de Béatrice Borromée sur le mariage de Félix de Luxembourg : \"Il évoque une femme de caractère et de confiance en elle\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "We remember Beatrice Borromeo's look at Félix de Luxembourg's wedding: \"It evokes a woman with character and self-confidence\"",
-          "summary": ""
-        },
-        "de": {
-          "title": "Wir erinnern uns an Beatrice Borromeos Blick auf die Hochzeit von Félix de Luxembourg: „Es erinnert an eine Frau mit Charakter und Selbstbewusstsein“",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a2bc62b6ec87bd59ebe41b7edf1f941a5168e98b",
-      "title": "AMM－59: 越南推动与巴拿马、卢森堡、荷兰及卡塔尔的合作",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQaVlmc2NUX0U0MnNsVjlsNGZoSWdDU2dHb3BzaVotbmNBU2FOMkFSb0x5RkZRRFFiTC1tSEJHS0VjZ0R6YmlhVGJIcDZ6Z0JDZnEtdmRaTHphYk0tOHB6Z1BSTDI3anpmRGljeEc0LWhoVy1odjdwRWktR3QyQ2VtbFlGZVNSQWhwc0VKcWpZVnlrODlIblZ5bERILXRBSTJlQ3ZDc3pmakRrSUZYUEl0TDZZb1NDS3hLZk5Ec3kzc3JLZXFRaG5KMzEwN1dvWk0tVE1tQlRleENBTTBMX3U5UlpTZ2tyUFMtb1RXLUNhR0NhU2JHaTZKN1FlVDhUZFVwd293dWVnRGNUM0JMb19XNjVNb1N1b1RhLV9CbjNENkhrMUV2OGROWDN1Y19qWnF2Y3QtNk1fWVh5RnFWWWJxUDZxNGFOR1NHTzVtSHlrUWF4UFFP?oc=5",
-      "source": "cn.baochinhphu.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-26T04:50:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "AMM-59: Vietnam fördert d'Zesummenaarbecht mat Panama, Lëtzebuerg, Holland a Katar",
-          "summary": ""
-        },
-        "en": {
-          "title": "AMM-59: Vietnam promotes cooperation with Panama, Luxembourg, Netherlands and Qatar",
-          "summary": ""
-        },
-        "de": {
-          "title": "AMM-59: Vietnam fördert die Zusammenarbeit mit Panama, Luxemburg, den Niederlanden und Katar",
-          "summary": ""
-        },
-        "fr": {
-          "title": "AMM-59 : le Vietnam promeut la coopération avec le Panama, le Luxembourg, les Pays-Bas et le Qatar",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f6f98e9baad1e7e93bdf8f0cc7bc43b01c7d7aad",
-      "title": "欧洲车市 | 卢森堡2026年6月：宝马史上最高，中国品牌仍在个位数摸索",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KdTFFdmJPYjRFNmlUeUt2akF0Q0hTRmc5eUU5LTFMbHdMTXgxa0tCdE1CZVZYTmR4WXlReG1tWDhUakxQYldTSjhJTnhNQVlsZWdB?oc=5",
-      "source": "电子工程专辑",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-26T03:13:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Europäischer Automarkt | Luxemburg, Juni 2026: BMW verzeichnet den höchsten Wert in der Geschichte, chinesische Marken kämpfen immer noch um einstellige Zahlen",
-          "summary": ""
-        },
-        "en": {
-          "title": "European Auto Market | Luxembourg June 2026: BMW’s highest in history, Chinese brands are still groping for single digits",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Marché automobile européen | Luxembourg juin 2026 : le plus haut niveau de l’histoire de BMW, les marques chinoises continuent à tâtonner pour atteindre un chiffre à un chiffre",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Europäeschen Auto Maart | Lëtzebuerg Juni 2026: Dem BMW säin héchsten an der Geschicht, Chinesesch Marken sichen nach ëmmer no eenzel Zifferen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e1ff40f7bb7fc96df42953e251b3ff8679125373",
-      "title": "민경선 고양시장, 룩셈부르크 국립보건원 한국대표사무소 방문…AI·바이오 국제협력 확대",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NMXNtRHVJdG9CSzNpVnBfWEwtd0tfU0RZNURlMFoxcFNYRWhQdDhIaFRBaGpFa0JlS1JoX3FfenFFUXBkSzROX1Z3Q1Iybk9kV1ltcndOU2VaZ2s?oc=5",
-      "source": "경기일보",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-07-26T02:50:39.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le maire de Goyang, Min Kyung-seon, visite le bureau de représentation coréen de l'Institut national de la santé au Luxembourg... Élargir la coopération internationale en matière d'IA et de biotechnologie",
-          "summary": ""
-        },
-        "en": {
-          "title": "Goyang Mayor Min Kyung-seon visits the Korean representative office of the National Institute of Health in Luxembourg... Expanding international cooperation in AI and bio",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Goyang Buergermeeschter Min Kyung-seon besicht de koreanesche Vertriederbüro vum Nationalen Institut fir Gesondheet zu Lëtzebuerg ... International Zesummenaarbecht an AI a Bio ausbauen",
-          "summary": ""
-        },
-        "de": {
-          "title": "Goyangs Bürgermeister Min Kyung-seon besucht die koreanische Repräsentanz des National Institute of Health in Luxemburg... Ausbau der internationalen Zusammenarbeit in KI und Bio",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4dcd62b9e107153c90735b037249af76fe593404",
-      "title": "画廊 卢森堡国家图书馆 / Bolles + Wilson + WW+ architektur + management - 23",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOUXRKcE5fWkJuN1hpclZ1VUZhYjFiNFJBalE1ajliN3B0WDlKRTY5eDZEb1FLSXliX2stYm1tZ0JEbWNjdFBsbzRoeHVQY0NKTXhpaEpRdzFEVWtmZklFb0pmdF80N1I4bDRRbUYwbkViVVdodUlFbWlSWTRwSEswb3dXUlFFRDhJd2ctVm5kdGJSbkRwbGY5WkExX0dVY0M5dU5JQURxemszbS1JSXB4aTd0d1pZeGpuUDhfZXhCVGVEUl81UmZvYmlSMUlSNWZYdG8zVWhLX3pWNl90NkZoOUNFV2REZ2FPLUo5WHpZYjkzWlRsS0p4aUVNUmtfcnMzTkoydGxsUDQ2d01kamtPdmxNOHpZTVk0UHJicUY5ZlBOMi1XUTkwWk9hN1pRdmRlSDNFZ1I1b3VPOGhWZGY4NEFZWmRjT1phN1lhZkNYNHFWUGROYWI4bG4xWm0tMFBRLW5XX3pITjg?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-25T23:59:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 23",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 23",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie der Nationalbibliothek Luxemburg / Bolles + Wilson + WW+ Architektur + Management - 23",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie de la Bibliothèque Nationale du Luxembourg / Bolles + Wilson + WW+ architektur + management - 23",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1791ec68ef83ce8796198a4e8f50074c0ac8baa7",
-      "title": "VdK Ortsverband Mayen organisiert erfolgreichen Tagesausflug nach Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVZqeW9IM1ROODNmWHdqdk1jVVZJWFBNbEt6LTBWcmx6S3Z3eFJ5bkczRExWYTFsSDluREdfTExJYUhjZURLYWRjWHhYNGFtTW52YjRIaDMtRlJLeTJ1RndwemVkdVozLTlnMEFsa2FWbm5yOFQ1dThpSktxWXJ0VjQyWGtSRFVlQWlmQXNvbjF1ZzRDdFZad2IzeHZWVzAyWDVHbVdVZHpoMVNjaGU2NXliRUgwdnJjYUxWblZtcw?oc=5",
-      "source": "blick-aktuell.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-25T22:07:30.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "VdK Mayen local association organizes successful day trip to Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "VdK Mayen Local Association organiséiert erfollegräichen Dagesausfluch op Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'association locale VdK Mayen organise une excursion d'une journée réussie au Luxembourg",
           "summary": ""
         }
       }
