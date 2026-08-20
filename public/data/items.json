@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:46:24.602Z",
+  "generatedAt": "2026-08-20T20:47:41.321Z",
   "items": [
     {
       "id": "55137972d3a614ebc0f22eec2a5155165a0bd1d6",
@@ -117,6 +117,39 @@
         },
         "de": {
           "title": "Der Dieselpreis steigt in Luxemburg!",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e27e5c40076f27b8ad6b1c03c070c563fa9bec7c",
+      "title": "Этцелла - Кэрйенг 23 августа. Чемпионат Люксембурга 2026-27. Протокол матча",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGZLNDdXREtGWjUyODF5R2k2WG9sYThYa1oxN3hkcmJudlRiSnZQM0F5Y1IzdmRKdTRZOGI4cE1SOGtPTzVCLUt5VTd2OVR5NkZxZjJUekNDdW5vMEFwNjlyZmFXWG9lSUV1ZGlmNm0wYlVjYS15V21oR0NGc08yNmt2XzFPUFkwWnVfWU96eGVHMGd2YV92SmhPc3N0bE5OT3JseA?oc=5",
+      "source": "Sportbox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-20T15:31:55.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Etzella - Kerieng 23 août. Championnat du Luxembourg 2026-27. Rapport de match",
+          "summary": ""
+        },
+        "de": {
+          "title": "Etzella - Kerieng 23. August. Luxemburgische Meisterschaft 2026-27. Spielbericht",
+          "summary": ""
+        },
+        "en": {
+          "title": "Etzella - Kerieng 23 August. Luxembourg Championship 2026-27. Match report",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Etzella - Kerieng 23. August. Lëtzebuerger Championnat 2026-27. Match Bericht",
           "summary": ""
         }
       }
@@ -47021,35 +47054,6 @@
         },
         "de": {
           "title": "Galerie des Luxemburg-Pavillons auf der Expo 2025 Osaka / STDM architectes - 27",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "80e04df2e9caf5f538ce13c8cb95b39a6da7e067",
-      "title": "Luxembourg. Deux avions contraints à des atterrissages d’urgence en une semaine au Findel… pour la même raison",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUjk4NDlHdVBwRXFJWVlDeVJTdmRuU3hVeDdZOTR6OXhjNm5ZMFJIbmJkSnNiMU5OLXA4QzlGZDE1dzdFVllqdU0zclE0ZVQ5anR1Vi1xd0w1M1RwOUYwQ095MUgyWlh0LVFfcVdna21aRDZmTkVUbEhZcGI0NWxnWGlwbDBwRTdSUFc1WFRHVEJhLUVFUThZTUdCWVFiUEUyY2ZtQTJ2cXRaZzZ4YldVSFlOWXNfZVprRGJpNWFra2RqVFBGMFJ5Y1hJZjhRVndaMGpiQ1p4TXQtUkdWRU02dG5ndzFGSEFl?oc=5",
-      "source": "Le Republicain Lorrain",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-26T15:16:46.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg. Two planes forced to make emergency landings in one week at Findel… for the same reason",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg. Zwee Fligeren hu missen an enger Woch um Findel Noutlanden maachen... aus deemselwechte Grond",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg. Zwei Flugzeuge mussten innerhalb einer Woche in Findel notlanden – aus demselben Grund",
           "summary": ""
         }
       }
