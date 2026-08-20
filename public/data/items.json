@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T16:51:27.652Z",
+  "generatedAt": "2026-08-20T17:46:29.593Z",
   "items": [
     {
       "id": "9e5af76f853d36cd365f0b49f551fc6d9bfc32c5",
@@ -55,6 +55,35 @@
         },
         "de": {
           "title": "Interview mit S.E. Khandker Masudul Alam, Botschafter Bangladeschs in Belgien, Luxemburg und der Europäischen Union",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7b108b2a403bd8bc7c2f57209a07c4d0e85be9fb",
+      "title": "Le prix du diesel flambe au Luxembourg !",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QVjhEVHlwd2JpbmhHTEtfRUlIdFJLSFRONDhHLWdPOWVlSWpzS0RjZHFIcTBpTF9qNWhQX2liNTVtODVnUndPVzRLbmJpS0NkWjRBMVNlS3ZNZXQ4UUZjalZDS2R3bW9jLU92ZQ?oc=5",
+      "source": "Lor'FM",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-20T15:56:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "The price of diesel is soaring in Luxembourg!",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Dieselpräis klëmmt zu Lëtzebuerg!",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Dieselpreis steigt in Luxemburg!",
           "summary": ""
         }
       }
@@ -142,6 +171,35 @@
         },
         "lb": {
           "title": "Mëllen Start: Start vun der Schobermesse 2026: Wéi gëtt d'Wieder zu Lëtzebuerg?",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0d67e9ff584e66ca2d4f2d69dee6ad82d1b27b11",
+      "title": "Les cinq matchs de la 1re journée à ne pas rater en P2 et P3 luxembourgeoises",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd0plODhuWTNsSWxfTFhrZ1RuRTlXNEFJN0JLZVItOGYwb2w0d1FVQUFpakVPX2NldzYxUXVKNVJ0MjEyNmNrSlZTOU1tMWtKX005WUk4eUdSMFZVTVNiNnJ4V09xYVBIajhSbGtnZ1VscHJaenV0WFhnd3M4bDNMX2tzWjZWa1YtWTRtWUZUYVNhV0hGbFNFS3RacmlKSmEyY1RYc3ZrU0x6YTloMlRaVjduUDNnSjdCUHNnY0x4Yk4tUzhhM19kOGpEcnktOVdQNHJsY29yd2p0QlZRQ0JrRzhQMU1UQU5oLTljcGFBLXFONHd5LVBTZU9B?oc=5",
+      "source": "L'Avenir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-20T12:57:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Déi 5 Matcher vum 1. Dag sinn zu Lëtzebuerg P2 an P3 net ze verpassen",
+          "summary": ""
+        },
+        "en": {
+          "title": "The five matches of the 1st day not to be missed in Luxembourg P2 and P3",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die fünf Spiele des ersten Tages, die Sie in Luxemburg nicht verpassen sollten, P2 und P3",
           "summary": ""
         }
       }
@@ -46988,64 +47046,6 @@
         },
         "en": {
           "title": "The Deputy Prime Minister of Luxembourg visited my country and attended the opening ceremony of the embassy in my country",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a1cfc23590f5c8de9e1b7ced040539153a43aadb",
-      "title": "Une voiture disparaît sans effraction devant une maison au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkRFUlh1X2RpMHE1QTdTcHA4d2tpTGVCR1pFUWt4aUFpMTl1SlMtSVZZWk1ZdGd2UkR0Vkx1eUhtd0ZoV2pPQ3M1RXFLVldqd0w3bEZqUkR0MVI1a2d4U0tGRUp3Mk9uMWZCdEg0N2xQU09oTlNyemRiN3ZQaU1RLUx2QjFnR0RhOXVVQUlXYzR2eWFXdWpxdnZVQURSb1J6V21BVzItWmZ6RlU?oc=5",
-      "source": "Auto Plus",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-26T11:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "A car disappears without a break-in in front of a house in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "En Auto verschwënnt ouni Abroch virun engem Haus zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ein Auto verschwindet ohne Einbruch vor einem Haus in Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1c846596d3dc176d3b893f1fb58d9a44bbac2167",
-      "title": "CVJM Kamen dominiert Jugend-Worldcup: Dreimal Gold in Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYmdpS0lIczdTWi14U1V1akhhT1VLNUNCbnpDMEpoQ01ESkdPYjlmSDE2QTR6T2JKTUlqM0l2MHl4NXdjTWJ5Z196X192bkNXR21haTl3am5SOTNvMEI2d0tlMjIwQU1vZDFWd0dnc01mUTdvSGRmNjdObjVWUVJwRjY5cU85ZENjaV82Y1JIS3Fac0VBckhYSFlQV0FiaWl1VUREX1N6MlEyUk80MWlTbjJGVmVkT2U3Rm5hY2Y1Ti1DZUkwRXZvb0ZtOA?oc=5",
-      "source": "kamen-web.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-26T10:49:13.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "CVJM Kamen dominéiert d'Jugend-WM: dräi Goldmedailen zu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "CVJM Kamen dominates the Youth World Cup: three gold medals in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "CVJM Kamen domine la Coupe du Monde Jeunes : trois médailles d'or au Luxembourg",
           "summary": ""
         }
       }
