@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T13:11:49.722Z",
+  "generatedAt": "2026-08-20T14:00:06.959Z",
   "items": [
     {
       "id": "d757d1c6fc78702d3c76cdc55647443e1e89e96d",
@@ -3740,6 +3740,39 @@
         },
         "de": {
           "title": "Der Präsident gratuliert dem gewählten Parlamentsabgeordneten portugiesischer Abstammung in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "271a86c6a33ae8d59641e868bf53184611fa0501",
+      "title": "سفير الإمارات لدى بلجيكا ولوكسمبورغ والاتحاد الأوروبي يلتقي برئيس وزراء والونيا لبحث سبل تعزيز العلاقات الثنائية",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGE4NXFKbENBeUxNWUxHbHJjcjFSLXNoV0Q0dkFIYVZfMzRRV052VlVBSzZ1Qk5TOU5zZ29SallPMW5EQ1ByNThONWJ0LXdQUjhuRjJCV2tsRmJMc2U1c2trVTkzNUlpc0tMVUpTQXpkWU5yOUp2UW9PZG9qbGl3NA?oc=5",
+      "source": "وزارة الخارجية الإماراتية",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-08-17T20:26:41.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "L'ambassadeur des Émirats arabes unis en Belgique, au Luxembourg et auprès de l'Union européenne rencontre le Premier ministre de Wallonie pour discuter des moyens de renforcer les relations bilatérales",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Botschafter der VAE in Belgien, Luxemburg und der Europäischen Union trifft sich mit dem Premierminister von Wallonien, um Möglichkeiten zur Stärkung der bilateralen Beziehungen zu besprechen",
+          "summary": ""
+        },
+        "en": {
+          "title": "The UAE Ambassador to Belgium, Luxembourg and the European Union meets with the Prime Minister of Wallonia to discuss ways to strengthen bilateral relations",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den UAE Ambassadeur an der Belsch, Lëtzebuerg an der Europäescher Unioun trëfft mam Premier Minister vu Wallonie fir iwwer Weeër ze diskutéieren fir bilateral Relatiounen ze verstäerken",
           "summary": ""
         }
       }
@@ -47025,39 +47058,6 @@
         },
         "fr": {
           "title": "Le vice-Premier ministre luxembourgeois Bettel s'est rendu en Nouvelle-Zélande et a assisté à la cérémonie d'ouverture de l'ambassade du Luxembourg dans mon pays",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5b0c0bda3f5463a420ebbd158787b43898909eee",
-      "title": "Au început înscrierile la programul de stagii Blue Book. Tinerii pot lucra la sediul Comisiei Europene din Bruxelles sau Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTmF5b3JKUkpEU1VHbl9xVURMbGpCTEluNG1Hb2dIQ2lWMy1vQmxBb0FrNENVNE9BZk9oU1JJRXlLaVRaLWlURUxlSk9QV19aX2J3aVlfck9vWFMtUnlSSmFGQVpuamRIX3BKTXRWYllaV3pKREdxVWRpZWw1bU4yUUdZN2xiZExfVWlGYzltSUpjQkF6LU5DN245emlJb3dGMUhNZDZMb0wyS0dDQXdlM29kcUJsVm4zVDdpNzFYV3RrUEhiV05DajYtcnZGZ0E1b2xSVEh5WTVmWXBfUkdrVUlaVnhudVAxdHY4bzhB?oc=5",
-      "source": "diez.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-07-26T06:19:32.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "eu"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Umeldunge fir de Blue Book Stageprogramm hunn ugefaang. Jonk Leit kënnen am Sëtz vun der Europäescher Kommissioun zu Bréissel oder zu Lëtzebuerg schaffen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les inscriptions au programme de stages Blue Book ont ​​commencé. Les jeunes peuvent travailler au siège de la Commission européenne à Bruxelles ou à Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Registrations for the Blue Book internship program have begun. Young people can work at the headquarters of the European Commission in Brussels or Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Anmeldungen für das Blue Book-Praktikumsprogramm haben begonnen. Junge Menschen können am Sitz der Europäischen Kommission in Brüssel oder Luxemburg arbeiten",
           "summary": ""
         }
       }
