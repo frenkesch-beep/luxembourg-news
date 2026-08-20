@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T10:48:11.281Z",
+  "generatedAt": "2026-08-20T11:44:04.476Z",
   "items": [
     {
       "id": "5392b4ff2ed60b2dca53ee50957ac1e9d1109020",
@@ -30,6 +30,35 @@
         },
         "lb": {
           "title": "Köln wetten op de Gil Neves, portugiseschen Europameeschter, deen zu Lëtzebuerg gebuer ass",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f2f1fe539564bfdc13310d98b33d7ab5b140c892",
+      "title": "Luxembourg Unemployment Rate Unchanged at 6.3%",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkE3dW1WMWJDNkpNWGlWS19OellUaUs4LThoQWtENUxoRWVfMHp5NnVHcVcxa2dvcHlad3VTVkdGTTVVUEVFOV9ybjh1ZjZyS3FDQ2k3WVRUZHVreHhnMkVac3ZURjRZaFhKcU1jN25BdnhPeVBlaDB2UXpaNzdXMmRoUjdjUnNSS2o0ckNBbTBWQWtCRVVkN0p6YlU?oc=5",
+      "source": "TradingView",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-20T10:02:34.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "economy"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le taux de chômage au Luxembourg reste inchangé à 6,3%",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger Chômagetaux onverännert bei 6,3%",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburgische Arbeitslosenquote unverändert bei 6,3 %",
           "summary": ""
         }
       }
@@ -47037,39 +47066,6 @@
         },
         "fr": {
           "title": "L'association locale VdK Mayen organise une excursion d'une journée réussie au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "52e429c1f2a2b9dd471aa81fc11fd948cbf691a9",
-      "title": "Schifflange, Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzY0E5RWFjQWFoVDZpZ0xHd2ctZUJteFFXOHNvbzN0bXN5WHB3N2RNbHBUellGbmIzWHFWZ05TaGUweGlVTVZFUGgyUnNGWG5UbE1CNXF5OUEtRjJTdkRycUNfemlJejBVX2FCckZIUmV0Zw?oc=5",
-      "source": "MSN",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "sv",
-      "publishedAt": "2026-07-25T22:05:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Schifflange, Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Schifflange, Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Schifflange, Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Schifflange, Luxemburg",
           "summary": ""
         }
       }
