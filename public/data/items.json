@@ -1,6 +1,65 @@
 {
-  "generatedAt": "2026-08-20T07:57:50.109Z",
+  "generatedAt": "2026-08-20T08:56:51.883Z",
   "items": [
+    {
+      "id": "4c2fc2ff2229f7cccca67fc8a685e8d6af521a03",
+      "title": "DESILO establishes European entity in Luxembourg and launches search for a bank pilot partner ahead of AMLR Article 75 – BeBeez International",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObzM2cnRkSUZGNUNtRnlYZEZNalNfdXVaYWdUVk9SQm9saG04XzdrRm1lbjNsRWhfS2ViOWpVUzVRTjFxdXozdWFLUVJxSUpOSVY3WXA5aXFDZlFteEYwTkppeUZtWWxqekJfYkJacFVjM0hZa0FnckJRMll6R3pfNURPMlgyZDRrR1NWWS1ZZUY1OTluSmRzaVBfOUF4MThqTEVBU3hLNzR5Y2dEZVhyaVZ2OFd4VzlRSmREcW9QYk9vdVlMLVpnaDk2OXE4TTVqc2Y5NDlXUFI1Y2RJcUR3VE5B?oc=5",
+      "source": "BeBeez International",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-20T08:12:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance",
+        "culture"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DESILO crée une entité européenne au Luxembourg et lance la recherche d'un partenaire bancaire pilote avant l'article 75 de l'AMLR – BeBeez International",
+          "summary": ""
+        },
+        "de": {
+          "title": "DESILO gründet eine europäische Niederlassung in Luxemburg und startet die Suche nach einem Bank-Pilotpartner im Vorfeld von AMLR-Artikel 75 – BeBeez International",
+          "summary": ""
+        },
+        "lb": {
+          "title": "DESILO grënnt europäesch Entitéit zu Lëtzebuerg a lancéiert Sich no engem Bankpilotpartner virum AMLR Artikel 75 - BeBeez International",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7fdc25ad4ed086d8c05284866ba403bc1fb3957e",
+      "title": "Bulgaria vs Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ0I5OFc4UkNtdGVEV19PMWx5SjB1XzM1dlJPZXBvQXBFdjl1Nk50NkdRYUZWV25GYUUxblJ0OUZTM3ZocmVLcEFLS0dKc085Y25WZFI3WGt3Mzg2YlRhWmJ3WlNTaFpBZ2VTU3lBbEFaT2tUWUtGY1U4NlN1Z1BJMXBYQm5QTXp2R3FGU3ZOTmlINXJ3RkdGQkw0azJjdzRJUTk5cmdIMUZVQlpNYnhnZi0zYlB5bHBSWmRDQ0F5TkxEbUwtdzl0NjVJR1dNMXBOQ3VhRw?oc=5",
+      "source": "Jagran",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-20T08:04:34.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Bulgarien gegen Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Bulgarien vs Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Bulgarie vs Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "8f88894b0409581b98a460b8a37dbb835cada972",
       "title": "Beyond the silkscreen: Andy Warhol’s drawings take centre stage at the Musée du Luxembourg",
@@ -241,6 +300,35 @@
         },
         "de": {
           "title": "Vietnamesische Intellektuelle in Belgien und Luxemburg setzen den Geist der Resolution 57 in die Praxis um.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8f144a9eb19aa64ac8db9fe054c2a2fb54e723cf",
+      "title": "Une « mini-tornade » et des vents violents font des dégâts en province du Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb2VaWE1md3pFandVOVdITC1vZTd4eXJoaV9JMnlOSHJSUHVsZjZZUjJJOU1oYnVVNGkzVDB1NUNXVGo0eWRRY3FfNF85S1AtMk1wNGdQaWNPN09NTmRTd0t1QnEwR3FaOFdPS09IT0xTRDhlMDdnOW9QMVhfelRlQUpRcm1TOUFuLTBnQnBIOFVGRk00WGtCWF9BbmxSc3Z5WFlHbGhHXzVYSW1WS3FqMUZ5ek9NX21aUFN3WS15YmJTNmlKZzdB?oc=5",
+      "source": "Le Soir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-20T04:53:03.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "A “mini-tornado” and violent winds cause damage in the province of Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein „Mini-Tornado“ und heftige Winde verursachen Schäden in der Provinz Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "E \"Mini-Tornado\" a staarke Wand suerge fir Schued an der Provënz Lëtzebuerg",
           "summary": ""
         }
       }
@@ -695,6 +783,39 @@
         },
         "de": {
           "title": "Vietnamesische Intellektuelle in Belgien und Luxemburg erkennen den Geist der Resolution 57.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0704ba83d8b398229f436aa7154057d6da715182",
+      "title": "多特锁定恩佐·多斯桑托斯 卢森堡国脚签职业合同",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1WVF6UXFPTEJvNURpLUllLVBBa0RBd3N2d0wwYTVlQUVFTURIdmExaUR4XzZ0RmZkN2ItdWtnd2ZuQ0VUeTJTQTdCVWJLUlY5N1VBcjBaQkRURXdWTXc?oc=5",
+      "source": "7M足球新闻",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-08-20T02:35:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Dortmund Spär Enzo dos Santos, Lëtzebuerger International ënnerschreift Profikontrakt",
+          "summary": ""
+        },
+        "en": {
+          "title": "Dortmund lock Enzo dos Santos, Luxembourg international signs professional contract",
+          "summary": ""
+        },
+        "de": {
+          "title": "Dortmund holt Enzo dos Santos, Luxemburger Nationalspieler unterschreibt Profivertrag",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le verrou de Dortmund Enzo dos Santos et l'international luxembourgeois signent un contrat professionnel",
           "summary": ""
         }
       }
@@ -46953,130 +47074,6 @@
         },
         "fr": {
           "title": "Visa, permis de travail et salaire luxembourgeois — Guide de A à Z | Visa luxembourgeois 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9047a58c27b5ebffce522fcfcc53806423831604",
-      "title": "卢森堡副首相贝泰尔访新 出席卢驻我国大使馆开馆仪式",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15eXBPM3hzRENRWjItTGtLdEM3ZlhNcmZRR2ZlcThGR3E5anMzMVZlakt5cHFhMTF3YkF6YlZmcmRZMGFmTVZYNGtpWENYWm5aelFjT2JSSW5JbkRPZ1ZWMDJlWldFNFlnanRGUDIzWQ?oc=5",
-      "source": "联合早报",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-07-25T16:10:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Lëtzebuerger Vizepremier Bettel war an Neiséiland op Besuch an der Ouvertureszeremonie vun der Lëtzebuerger Ambassade a mengem Land.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le vice-Premier ministre luxembourgeois Bettel s'est rendu en Nouvelle-Zélande et a assisté à la cérémonie d'ouverture de l'ambassade du Luxembourg dans mon pays",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der stellvertretende luxemburgische Premierminister Bettel besuchte Neuseeland und nahm an der Eröffnungszeremonie der luxemburgischen Botschaft in meinem Land teil",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Deputy Prime Minister Bettel visited New Zealand and attended the opening ceremony of the Luxembourg Embassy in my country",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c6fdf939c47901cfb95ebb237415d2ef14385ad0",
-      "title": "Galería de Puerto Libre de Luxemburgo / Atelier d'Architecture 3BM3 - 21",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMGJ4WWtNUXRHNW5lV3IxS2xoZE1FcVF4TThIeXVhcnpjMVRDcU56V2dyUktaSVlqUzA1d2s2SDZuTjZoVGxDMXN1QUh1bXFFVHNHdGNRR1FWYTN4SjF2VDY3czNFNzh5Q1pPN2ZlMlR5RGltYkU3VjF1Z2ZKZUJOV1dBMnBHMGozLUVVT1Y3V05ycUpnY3JEWG5SY0hfSHptUEdpVzN5LUJzYUE2N3JGSDZnR3lTa3hsQUltLWhuT0RlVW04c251aVpTUWVULV85eGN1VHJRSEp2RFFodUVv?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-25T15:59:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Galerie du Port Franc de Luxembourg / Atelier d'Architecture 3BM3 - 21",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 21",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie des Freihafens Luxemburg / Atelier d'Architecture 3BM3 - 21",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Luxembourg Free Port Gallery / Atelier d'Architecture 3BM3 - 21",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8394d4244fcd2736ca4d69705eb5684783765f5c",
-      "title": "12 points go to… Le Luxembourg ! Luxembourg!",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sVVhBOUFRR3UyODk3Q3ZfaTBzcVRRNnVWUjNRU3hFeFZrSHRlSUFYbmUtOWJHblk2a0tqU3BLb1I3eWl3VjNJMm9vRlJjYUE3elJuRmFzZUlpeU5vQTJfbF93SjFtakRVajRBS3Jibml2azZMSW4tLUREemNwY3c?oc=5",
-      "source": "L'Eurovision au Quotidien",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-25T10:58:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "12 points go to… Le Luxembourg ! Luxembourg!",
-          "summary": ""
-        },
-        "en": {
-          "title": "12 points go to... Le Luxembourg! Luxembourg!",
-          "summary": ""
-        },
-        "de": {
-          "title": "12 Punkte gehen an... Le Luxembourg! Luxemburg!",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8319e46637115d0e0eb571c3da41bffc413f7418",
-      "title": "Spritpreise Luxemburg heute: Das kosten Benzin und Diesel am Samstag, 25. Juli",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONTAwLVhaTU96RHJtcTNoZ295Z1hfdEZuemt6eGdqN0lOZjRMaUd0TVJiV1NoemZCMGZwRTBaZ0pzSDg0M3JKVXoyS3pZX1h3U2RkVnVfcnRxVkVrMTFZVDFGRTkyRThCZFlpTGpmcHdVLVNzSndTNzJkQmtjVkZVc1ZsZ3pocXg5T1h2WnE3YmRyQjk4SUwzeUNHNmhlX3U5QU8tT0NyckpJcTRZN3c?oc=5",
-      "source": "lokalo.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-25T08:54:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Fuel prices Luxembourg today: This is what petrol and diesel cost on Saturday, July 25th",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Prix ​​des carburants au Luxembourg aujourd'hui : voici ce que coûtent l'essence et le diesel le samedi 25 juillet",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Brennstoffpräisser Lëtzebuerg haut: Dat kaschten de Bensin an den Diesel e Samschdeg, 25. Juli",
           "summary": ""
         }
       }
