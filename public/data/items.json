@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:51:53.566Z",
+  "generatedAt": "2026-08-21T17:46:25.543Z",
   "items": [
     {
       "id": "366074d81209c588642e9c8afdb031115bf08525",
@@ -47002,6 +47002,39 @@
       }
     },
     {
+      "id": "a2b3ba38d93d8e0a81c354ba9a2d0ab4859cb11f",
+      "title": "RAIF maakt Luxemburg centrum van Europese private markten",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1c5MzZ2b000eDllQzctZWFFZldLd1BVamM4N0hJNjh1dkdYZW10dkQwVVo0WW8zV0ZUYTBVeGhUZmo2a0R6TjcxWkJUQlhzTUZ5TFRyX1BRRzBVV0xIcC0tQTFGT0loMW9HRGF4VEM0ZV9KbnVBME5nWHBfZ2VweFEzbmtxNVU4bWxRUG9XazlfcjU4ZktRbFdNb1I4bmVuYlE?oc=5",
+      "source": "Investment Officer",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "La RAIF fait du Luxembourg le centre des marchés privés européens",
+          "summary": ""
+        },
+        "en": {
+          "title": "RAIF makes Luxembourg the center of European private markets",
+          "summary": ""
+        },
+        "lb": {
+          "title": "RAIF mécht Lëtzebuerg zum Zentrum vun den europäesche Privatmäert",
+          "summary": ""
+        },
+        "de": {
+          "title": "RAIF macht Luxemburg zum Zentrum der europäischen Privatmärkte",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "f519249fe03e111e8a634b7aa7668f0099b0e84e",
       "title": "La Europa de la guerra y el totalitarismo: Luxemburgo, de paraíso financiero a paraíso de la guerra",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR0NRNDVUemtkdTEzNV9rSVN0bHZ1UEpHUXFlWWJsRHlqM0FJTWpnQ2ZLNWszZEt4cHZmYjEwenBCaEVTenR2ZzRxM0FQMXVSdENVRG1kRHFOQTQ4RVdfcXppSjBXSkFzMlp0Y3djMUJnSzY1TzBvTzFfb2h4aU9haXZDSWl0c1lIYi1WcW95QkRXd2lSR1hUMDdoazNXZ0MtWjh4Zk8wM0RDbEg0MHhjN0lCWGtXYW5TSHRaZHdDVQ?oc=5",
@@ -47063,35 +47096,6 @@
         },
         "fr": {
           "title": "Galerie de CMI Luxembourg / Moreno Architecture - 8",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3dd7388c35716424a3a59419a19a92626d131e64",
-      "title": "Update: Geldautomat in Luxemburg gesprengt – Nach diesem PKW wird gefahndet",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkFLWEhxRk9lUHZQN3NGY2wzTVRtN3NFREhybm9iZy1WRW91WXZRazZSRmE5YTNiVXBwekNmRGtzbTlNVkJ5a1dQN3ctSUhyNHBYUmFiOXdRczdrZzV0RHg1b2xqX012NXJ4MlZFM0JxR3lRUm5tUWZuaEFoSW9hWEhLbEdkeXlfdFd5QldKNDFUT09Da1lIUlE3RTJnN0QwSTNGcWw0TkhZdw?oc=5",
-      "source": "lokalo.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-28T05:38:19.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Update: ATM blown up in Luxembourg - A search is underway for this car",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Mise à jour : ATM explosé au Luxembourg - Une recherche est en cours pour cette voiture",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Update: Geldautomaten zu Lëtzebuerg gesprengt - Et gëtt no dësem Auto gesicht",
           "summary": ""
         }
       }
