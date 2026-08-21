@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T20:42:10.807Z",
+  "generatedAt": "2026-08-21T21:39:45.197Z",
   "items": [
     {
       "id": "91d48f72e7892f6704b3834e4d615a71c9f9478e",
@@ -783,6 +783,35 @@
         },
         "lb": {
           "title": "Lëtzebuerg (W) Statistiken an der UEFA Women's Nations League C 2025: Opgepasst",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a6b635a5461ec56c51f2c857be6dbc2e6a062edb",
+      "title": "DFB-Pokal: Ankunft & Unterkunft von RB Leipzig in Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3RCMEQwMUZ2b28wWUhFRmtJcnhSRTdQTXR3Q2lQQ1FJNnYzUXhZMTUtbEsyd2VGYnRscDI3T3U3OHMyN29LYXF4ZUhXclp3SlgwdEtHZjJyek4tcGIwQ2V2ZTFEOUlXdWdUa0NMbWxQUzNENFhXNjBnQWVpRU5lTEdWdmJya204VXV3d29HdkoySGVYa1V5NlZfbDI0MmNXbFF6M0dSM01yYk91ZGx6bnBxZw?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-20T22:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "DFB Cup: Arrival & accommodation from RB Leipzig in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Coupe DFB : Arrivée et hébergement du RB Leipzig au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "DFB Coupe: Arrivée & Ënnerkunft vum RB Leipzig zu Lëtzebuerg",
           "summary": ""
         }
       }
@@ -47063,35 +47092,6 @@
         },
         "de": {
           "title": "Kommission genehmigt luxemburgische Staatsbeihilfen in Höhe von 54 Mio. EUR für Straßen- und Schienenverkehrsunternehmen, die mit steigenden Kraftstoffpreisen konfrontiert sind",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6c4d209a7155d15a5879be8e779e0906aebb9981",
-      "title": "Luxembourg reinsurance profits surge 41% as sector hits record €2.65 billion",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRkdxWE5QUENkSXJzV1pLbkR3ejhXRWhxSDVkZC00bjVIbktpdFo2R0NPSFRXVk1MNWNaYmM0cW5Wa2xGaXVnRlFodjg2QVl2QXVyT2o3MHNqQUZuQ3Q4YmJib19rX05nVVdWOUxRZGw2TUtnNENfQ25ZRjBpeGJJckdkcG1reXM0M1NCMUZYRFhlN09PTkU4cGt3RVdyZUJuRy16dVJfT2dxLVBtUEhHYmE4TVR1YWV4WFNOQzJIQWpiSzI5a0VGWkplQmd1a1VKYzlBUy1HbjdWalBVMUVtdUZRclFPLUNoVGc?oc=5",
-      "source": "Insurance Business",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-28T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Lëtzebuerger Reinassurance Gewënn klëmmt ëm 41% well de Secteur Rekord 2,65 Milliarden Euro erreecht",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Gewinne der luxemburgischen Rückversicherung steigen um 41 %, da der Sektor einen Rekordwert von 2,65 Milliarden Euro erreicht",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les bénéfices de la réassurance luxembourgeoise bondissent de 41% alors que le secteur atteint un record de 2,65 milliards d'euros",
           "summary": ""
         }
       }
