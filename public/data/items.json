@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T03:08:14.313Z",
+  "generatedAt": "2026-08-22T03:56:49.460Z",
   "items": [
     {
       "id": "91d48f72e7892f6704b3834e4d615a71c9f9478e",
@@ -1299,6 +1299,39 @@
         },
         "fr": {
           "title": "Résidence - Hostert (3:2) 2 août. Championnat du Luxembourg 2026-27. Rapport de match",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f24fc3f9ca86a39f4c238295ec52b9390e301944",
+      "title": "Виктория Роспорт - Ресиденс 25 октября. Чемпионат Люксембурга 2026-27. Протокол матча",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHU5Z3hpbUFXd0pDaGNRUS1aRUJiVVpuNDFvZFZPNVNVaGNvZV85Wjl5VXk4VjI2djRLLWVZcExWcE1uY1hnMHU5ZHBkNGs2anhSMnYzR2pTV2YyaWtXYUgxQkpsTkFUWjI1SFhWdVBnNjJpOEFrNkhQakZTLUlPQkRQQlRYdk9KLTZHRzh2LTdiVjJtMmFjQnhlendDWTUxeUhfcA?oc=5",
+      "source": "Sportbox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-20T16:06:26.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Victoria Rosport - Résidence le 25 octobre. Championnat du Luxembourg 2026-27. Rapport de match",
+          "summary": ""
+        },
+        "en": {
+          "title": "Victoria Rosport - Residence October 25. Luxembourg Championship 2026-27. Match report",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Victoria Rosport - Residenz 25. Oktober Lëtzebuerger Championnat 2026-27. Match Bericht",
+          "summary": ""
+        },
+        "de": {
+          "title": "Victoria Rosport – Residenz 25. Oktober. Luxemburgische Meisterschaft 2026–27. Spielbericht",
           "summary": ""
         }
       }
@@ -38581,6 +38614,35 @@
       }
     },
     {
+      "id": "d9a602209d8adf7feb67f15fd36c7276535836a4",
+      "title": "Deutliche Zahlen: Flugverkehr in Luxemburg: Luxair bekommt die meisten Beschwerden, aber...",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaWlwbkEtOGVraUY1YVZBdlpxclJBM2ZuSlJaRzlJODVjY21BTFZRY0tuYl9waDQwTV9lb1A0TmVmQXJWNDZXNTFDZ252cGg0MHBYcmVTT0VZS0tlVDhWRnNZaGtpZW9seXhKckYwSi1wZXFkMldJN3lzRlhaSkRsVW14dGFmX1RFczAzSjZNTkN2LTFlNUFDMUQyakRkemhLZjBsSVRPb3FqQVlxRmx2LXB2bWh0eURNcTNSNGR5bF9aRHZncm9yaFFLY2hNVnpsQkE?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Clear figures: Air traffic in Luxembourg: Luxair receives the most complaints, but...",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Des chiffres clairs : Trafic aérien au Luxembourg : Luxair reçoit le plus de plaintes, mais...",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Kloer Chifferen: Loftverkéier zu Lëtzebuerg: Luxair kritt déi meeschte Reklamatiounen, mä...",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "faa0e1331c8ca52a725b0a37d71d7465e0791c1c",
       "title": "Тьєррі Штайнметц — статистика 2008/2009 вища ліга Люксембург",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONGlQLWlEbVZxRUdGbi1PNUlFN255a2lkZG9RUk1rMDkxek5EWnYzRDNRbVZmdTByT3lvSGNfWjNmNk9mOG96Q1I5WFpDc185UnI1bk14cV9Bb3hFQUhqb2xBTks3eWF4VF95T3VvNEpKamoyblJMUzdJd043LXJud0JVSVVjcHlKTkFYWDNRY0pHVlE4TEZvMU1IVUVqc3RlbTRMZ0tkUQ?oc=5",
@@ -47042,72 +47104,6 @@
         },
         "fr": {
           "title": "Un environnement de startup quelque peu surprenant (image) au Luxembourg, un petit pays de la même taille que la préfecture de Kanagawa (40e/46e photo)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1858af8d1cd28e93a177792084e749594ed3211c",
-      "title": "IT先進国・ルクセンブルクのワイン農家が、ITに頼らない理由（画像）（2/6枚目）",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ISm50Nzc5Wnk1Mm4tNFFyX2lKYVBwWTVaQkM1M3hQaUQwanV1ZGxnOWF3Z3pvYkZId3ZneTdWZmlDSzJKX2FtTkpsRDNCRjE3UjR0dmpWREhodlRQcmRmNHkwTmpUdHFuanhpelZla0dnbDNKbWFqMnNvRQ?oc=5",
-      "source": "ITmedia",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-28T11:17:24.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Raisons pour lesquelles les viticulteurs du Luxembourg, un pays avancé en matière d'informatique, ne comptent pas sur l'informatique (image) (2/6ème photo)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Reasons why wine farmers in Luxembourg, an IT-advanced country, do not rely on IT (image) (2/6th photo)",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Grënn firwat Wäibaueren zu Lëtzebuerg, en IT-fortgeschratt Land, net op IT vertrauen (Bild) (2/6. Foto)",
-          "summary": ""
-        },
-        "de": {
-          "title": "Gründe, warum Weinbauern in Luxemburg, einem IT-innovativen Land, nicht auf IT vertrauen (Bild) (2./6. Foto)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "dff04247178e0dd5927d120ca9ee3253dea6fa51",
-      "title": "Lüksemburg İsrail tahvil onayını yenilemiyor",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2Jjdm4ybFhuWU04al9mdnhwMF9hTThNMmRSTkFCcE50aTczRjU0QVdMUmY1amN0OGMyb3dZNHhuejlMLWw1emVwOXUxNDNfdHdtX05Bc0EwWmNSWm9yRkd1TWdPNVVmWjVzZTdfVmU1dHdka0Zwdy1MOHQtWUo1dWxjczlTUTQ0MXfSAY8BQVVfeXFMT1RPVk5NWkNZa2xwTWJKMkRxUGhrV2lrWE5aYWNaQklRU0hjTG9Sbm1ocF9UZG54UGlPaEh4YkwzQldFaFowd0gta1dWcEtlRG9YNkpRcklKNG9aOWFjOXU4VDlLNWNwRmhETGV6alRtdFNDWDdhcWItYlRiamlKY1c0UmRFX3BsMjVyaFNRR2M?oc=5",
-      "source": "Yurtsever",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-07-28T11:12:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Luxembourg ne renouvelle pas son approbation des obligations israéliennes",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg verlängert die Genehmigung für Israel-Anleihen nicht",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg does not renew Israel bond approval",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg erneiert keng Israelesch Obligatiounsgenehmegung",
           "summary": ""
         }
       }
