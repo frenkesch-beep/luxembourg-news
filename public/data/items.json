@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-22T11:35:26.396Z",
+  "generatedAt": "2026-08-22T13:01:25.759Z",
   "items": [
+    {
+      "id": "b4689241501a0528d0942fe53233ffe63f3cfc9b",
+      "title": "Neue Spritpreise in Luxemburg: Das kosten Benzin und Diesel aktuell (22. August 2026)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXdfcGt4THFvYkhOc2w3ZFBEUHBab2EyZGtLZDByei1adUE4dzBvTFcwbWtrZVd4SENsLVh1dG82a0Y2N05zZ2EwMURQaDl5WmVscU1ySVRVTEs4TmxTNGRxSGRtcmkzM191dDNETGpuYTVRNl91aFlIWFN6VE5TcTY5Z0h0c2dmRFplRWxYS0VsaEkxVFdHdWJHSU8tYjkzd1RqSUd1MzV5dXY3b252eF80QTZVemRBTU9mTg?oc=5",
+      "source": "SOL.DE",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-22T12:39:51.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "New fuel prices in Luxembourg: This is what petrol and diesel currently cost (August 22, 2026)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nei Brennstoffpräisser zu Lëtzebuerg: Dat kascht de Moment Bensin an Diesel (22. August 2026)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Nouveaux prix des carburants au Luxembourg : Voici ce que coûtent actuellement l’essence et le diesel (22 août 2026)",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "ec7e34eef5a60ed457c1f4a87cc2da7466c3c4c1",
       "title": "Touraine, Luxembourg, Égypte… que sont devenus les joueurs qui ont quitté le FC Montlouis cet été",
@@ -47056,39 +47085,6 @@
         },
         "de": {
           "title": "Gründe, warum Weinbauern in Luxemburg, einem Land mit hohem IT-Anteil, nicht auf IT setzen (Bild) (5./6. Foto)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f06a2cdd4d04bc10d49173052494c56bdb9899c7",
-      "title": "神奈川県と同じ広さの小国「ルクセンブルク」で見た、ちょっと意外なスタートアップ環境（画像）（21/46枚目）",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50UFhFLURCWklZRXVhczZiWGJhWEZ3cGlaakdLQ3ZJb2dDeXNZVWRhUUI5Mzd0SXRzeU5tbW9WMWtJa01oczlNMTZKR1Fobm9seF9ZU2U3UTkxMEtmUkR2R3dUODc5V1ZNMTB4Q3I1VGhiRzRvMS1jYUZmMA?oc=5",
-      "source": "ITmedia",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-28T12:23:52.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Ein etwas überraschendes Startup-Umfeld in Luxemburg, einem kleinen Land von der Größe der Präfektur Kanagawa (Bild) (21./46. Foto)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Un environnement startup quelque peu surprenant au Luxembourg, un petit pays de la même taille que la préfecture de Kanagawa (image) (21/46ème photo)",
-          "summary": ""
-        },
-        "lb": {
-          "title": "E bëssen iwwerraschend Startup-Ëmfeld zu Lëtzebuerg, e klengt Land mat der selwechter Gréisst wéi Kanagawa Prefecture (Bild) (21/46. Foto)",
-          "summary": ""
-        },
-        "en": {
-          "title": "A somewhat surprising startup environment in Luxembourg, a small country the same size as Kanagawa Prefecture (image) (21/46th photo)",
           "summary": ""
         }
       }
