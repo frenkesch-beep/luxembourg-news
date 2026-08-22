@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-08-22T13:01:25.759Z",
+  "generatedAt": "2026-08-22T13:44:58.425Z",
   "items": [
+    {
+      "id": "6a34f2099705eed35b4266a7795442dcbe81473b",
+      "title": "Charlotte Schmitz - Luxembourg - Player Profile - FIBA U16 Women's EuroBasket 2026, Division B",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVljUkVFS0tIZzhibC1LYXd5ZWlUZTNzcklrb1dVOTI1b1pHNk8zdHFzZVhNRzBHbkxyMWxpakNudUo1VUtocEFRQTZjR0JZWDZhWmZueXBQZlh1bFNGWnU4TVFrcE5QLVNDdXl2NlFHSzVjcVFtN0hoOWkxcTVuWnpMS0FNQ2drbVFldmhoMW1pM1poU1VuTDJNcVU5NUlETnRYRjJiWWY1S1Ftd21Ha0tnVHlBOS1TaFRVaXZXOA?oc=5",
+      "source": "FIBA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-22T13:33:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Charlotte Schmitz - Luxembourg - Player Profile - FIBA ​​U16 Women's EuroBasket 2026, Division B",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Charlotte Schmitz - Luxembourg - Profil joueur - FIBA ​​U16 Women's EuroBasket 2026, Division B",
+          "summary": ""
+        },
+        "de": {
+          "title": "Charlotte Schmitz - Luxemburg - Spielerprofil - FIBA ​​U16 Women's EuroBasket 2026, Division B",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "b4689241501a0528d0942fe53233ffe63f3cfc9b",
       "title": "Neue Spritpreise in Luxemburg: Das kosten Benzin und Diesel aktuell (22. August 2026)",
@@ -47052,39 +47081,6 @@
         },
         "en": {
           "title": "A somewhat surprising startup environment in Luxembourg, a small country the same size as Kanagawa Prefecture (image) (30th/46th photo)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d60a956c35a968f7949cb5e6b8e2f94d85937d4e",
-      "title": "IT先進国・ルクセンブルクのワイン農家が、ITに頼らない理由（画像）（5/6枚目）",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVVVRdGF5OEFtMHM2Qi1oNE1XcmZfUEFHUUJNcldUMjI3Zkl2MkQ3T04yanpqOG5qZ0xIbUZSSnVFdmhDa0NOQ1ZNcGIydG83WGppV0NpNXlNanZLRFJxUlN3SkxQcy1ZVF9lZGZ2dHRuMEt1eFRkb1YwTQ?oc=5",
-      "source": "ITmedia",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-07-28T12:28:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Raisons pour lesquelles les viticulteurs du Luxembourg, un pays avancé en matière d'informatique, ne comptent pas sur l'informatique (image) (5e/6e photo)",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Grënn firwat Wäibaueren zu Lëtzebuerg, engem IT-fortgeschrattent Land, net op IT vertrauen (Bild) (5./6. Foto)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Reasons why wine farmers in Luxembourg, an IT-advanced country, do not rely on IT (image) (5th/6th photo)",
-          "summary": ""
-        },
-        "de": {
-          "title": "Gründe, warum Weinbauern in Luxemburg, einem Land mit hohem IT-Anteil, nicht auf IT setzen (Bild) (5./6. Foto)",
           "summary": ""
         }
       }
