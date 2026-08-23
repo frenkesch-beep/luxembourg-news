@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-23T11:42:37.127Z",
+  "generatedAt": "2026-08-23T13:10:30.812Z",
   "items": [
+    {
+      "id": "ce3380568a8ea7ab7866e5781f6fe7bec6167bea",
+      "title": "Футбол 6х6. Чемпионат мира Socca World Cup 2026. Бразилия - Люксембург. Прямая трансляция",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81cTc2U0MyUXE3cFlzWTRRVXVoSWRyQS1RNmIxc0xCRFl2bUo2cWxQYkY5MHVXOUJTbF9VNlpwMmk1U19xdWozQUZLaEpDZ0FuckE?oc=5",
+      "source": "ТВ Mail",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-23T12:32:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {}
+    },
     {
       "id": "725ea3389aebd739ce06d7fa978a673d8c2d767f",
       "title": "Dreifache Etihad Guest Meilen ab Berlin, Luxemburg & Calgary",
@@ -1909,6 +1925,22 @@
       }
     },
     {
+      "id": "5a02629b7f16c9eeac61bd1cd26fbdc2a228b3af",
+      "title": "Свифт - Мондорф-ле-Бен 6 декабря. Чемпионат Люксембурга 2026-27. Протокол матча",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3Fld1ktZkh2NGw0NDFna3RYVkRpNU1ybko1bS05blRpemZkRl9lUGdVNjVVblpVSkk1enpFNk1HcWFoTTMyS0JrQktoNjI1QVhpUi05alluZDhsaHo5VFE5aUwxUjZHZmkxRHZfOFBWZlQ5bEhsM3kwUkJwUHR2LU1QeXQtc1g5UUx0MWJSWllBUVQyMGgyeXUwLUo1LVk0dDkxcA?oc=5",
+      "source": "Sportbox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-20T16:08:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "662cf9ff6b3e931a8d39135670da24c2c1e84b1d",
       "title": "Дифферданж - Кэрйенг 6 сентября. Чемпионат Люксембурга 2026-27. Протокол матча",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0VLZXljNk9zWDlSRlNwbkp6ajg0Vjk4UmVIa3B0YWpGUzJBSmR5SWh2MUZXdWptMzlEN0pPSHZQcUY1ZERuUndUVmNlN1Q0STJ1V29sYUNZZ3RvMlhqaHVrNmVDT2VrZDVMelNwMGNTYXNKNGVBcTJ5OUJxNUdjY3pWV1RkU2gxWGVvV0ZHX3ZwNzFiYzhnUG13QlJjel8tYWduYg?oc=5",
@@ -2381,6 +2413,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "8705a1df76920caba202e2254b89897277fbd5d3",
+      "title": "Расинг Юнион - Дифферданж 21 февраля 2027. Чемпионат Люксембурга 2026-27. Протокол матча",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTRtV1QwcHhxeE9fZkRaYVAtMTI4NGdfdlU0bktmWUx3QXBfVUduRXpPLTBvdXFNVm01eVFmcmdUWEJnQ2J5LUdmdjNoSGFDQ0hvNlpudlBZQVhrT2NzeURmQk5RenFVb010WnZTbG5MOVNZSkxSUTJhbGVNLUNPUHBKeC1jNERmaTNULV9ISEM3QWdhSGVaZXc4TGg1WUUzT2tvMw?oc=5",
+      "source": "Sportbox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-20T16:02:47.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "3645d30d315de4b180faed4539c2c82f97c68617",
@@ -46474,97 +46522,6 @@
         },
         "fr": {
           "title": "Du Luxembourg : l'Ittihad trouve une nouvelle solution à sa crise du milieu de terrain",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "50475d23cdc1755302795d6e0ed8989e79ebf6a8",
-      "title": "Da Luxemburgo: Al Ittihad encontra nova solução para a crise no meio-campo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTGhRSVAxQldJLXJndUVIdkxpRW5iWnh4TjBZdk9CQ2FqS01SaHg0LUFES2VjM0x2X0Nwb09Lc2RDelRfRE9KMjFLVjZhZ21jc0N1TTE4WHlsRVpuOGlaMEJjb2ZsSzJBRVFla1IwSjJzSlRDdk53bzFQU2g5R1VxdzgzOThUdVNFZHF2d3Z4MC0xVjZENUthN014OHN5em5DQ2ZVdWNzTmVKVXZuSElkWV8zQnVEQkxnTUFLMUJwbExKQTBwUHhqN1Rfcw?oc=5",
-      "source": "Goal.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-07-28T20:50:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Aus Luxemburg: Al Ittihad findet eine neue Lösung für die Mittelfeldkrise",
-          "summary": ""
-        },
-        "en": {
-          "title": "From Luxembourg: Al Ittihad finds new solution to midfield crisis",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Du Luxembourg : Al Ittihad trouve une nouvelle solution à la crise du milieu de terrain",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Vu Lëtzebuerg: Den Al Ittihad fënnt nei Léisung fir Mëttelfeldkris",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9c5c868b684780602d28bc8dcc4ae78a17a8c2a0",
-      "title": "Luxembourg. Deux suspects arrêtés dans l'enquête sur le meurtre de trois Français en Afrique du Sud",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcXNQSngzdnljZU02ZU8zWkQyOWM4dFVkSUo2WklRVENBMnk3VEtuYXgxd2NGWWJNRXJYaDlxclkzRy1hYmxmcHhVU2M0Yk1VaVBKY0wtOFJHLVdDeG1Mal9ocjJCODZkSy0xdEpnYTRNTzBVSG9jcmxPam1oM3RMSnB1d1pSQTF3NG1YOFVOcWxlbzNya0ZKcTI4Q29ZN3lwTWx4b0I0UjZZUlgtbVpHaFMtYVhTd3hDaHZDdUhkUjdRSE1LWlk5ZG91V0pLNk0?oc=5",
-      "source": "Dna.fr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-28T20:07:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg. Im Rahmen der Ermittlungen zum Mord an drei Franzosen in Südafrika wurden zwei Verdächtige festgenommen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg. Two suspects arrested in the investigation into the murder of three French people in South Africa",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg. Zwee Verdächteger festgeholl an der Enquête vum Mord vun dräi Fransousen a Südafrika",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2af5065046e7720d7535d70dcc8b4e1fe1bb4167",
-      "title": "Afrique du Sud. Deux suspects arrêtés au Luxembourg dans l'enquête sur le meurtre de trois Français",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTHRYU2EteTFHYVYwdDZReEZnV0dXVGdTSlBUdVFGeTVpWmJLRlZvR0wxQWd6ZnlJZmloN3hDb3EzS1V0Vy1VT2Z3T0pOakpwTjBoSU5nOGhpUkJFS21HUThEa25pb002dXBSMmdPeV8wTVJ1T3pUamRjRURwdUJ4ZnFuWktFNDNOZEZUeTBUNG1CWjRWNVFsa3NTcjdJN3JuNEZmSlQ3cV9ZQWM2RVhPM3lLYlpwQm9STDVmTG51YXJmUDQ4dE9MdDJfVGtOTDVlWkhyRzdUZXl5dw?oc=5",
-      "source": "Le Dauphiné Libéré",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-28T20:05:32.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "South Africa. Two suspects arrested in Luxembourg in the investigation into the murder of three French people",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Südafrika. Zwee Verdächteger zu Lëtzebuerg festgeholl an der Enquête zum Mord op 3 Fransousen",
-          "summary": ""
-        },
-        "de": {
-          "title": "Südafrika. Im Rahmen der Ermittlungen zum Mord an drei Franzosen wurden in Luxemburg zwei Verdächtige festgenommen",
           "summary": ""
         }
       }
