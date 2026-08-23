@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-23T10:48:46.012Z",
+  "generatedAt": "2026-08-23T11:42:37.127Z",
   "items": [
+    {
+      "id": "725ea3389aebd739ce06d7fa978a673d8c2d767f",
+      "title": "Dreifache Etihad Guest Meilen ab Berlin, Luxemburg & Calgary",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GVTVtbFRKU0Rxa0Z4cXZmVENsd1lUSUdSTUdBODRzWmNMNzZ5d1lRVFhfQW1mOHo4Tmk3X3VuYmZHcUdDbXBLd1ZXTnI0STZUWUZTYlh3V1lJWnlzV2JLcWREdktBdw?oc=5",
+      "source": "reisetopia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-23T11:13:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
     {
       "id": "91500a6d70837f1dd118d3f0e4018fc5518d99f1",
       "title": "Luxemburg: Jugendlicher von PKW erfasst und lebensgefährlich verletzt – Fahrerflucht",
@@ -46549,35 +46565,6 @@
         },
         "de": {
           "title": "Südafrika. Im Rahmen der Ermittlungen zum Mord an drei Franzosen wurden in Luxemburg zwei Verdächtige festgenommen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "431e8a9d23ead8f1d8cfc6b6a0098f08e4c63c0c",
-      "title": "Trois Normands d'une même famille meurent en Afrique du Sud, deux personnes interpellées au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZm0wb0FmY3NIX1FjQzlUQUc3NDhEOUNHNkdIMVZYQ0s5MS1oeldEczJ2MmdTRlcyaWZTMEVQY25EVm90R05kZ3ZZdlpXWDNoQWtDQ2JZNU1EeE1qQVBJdENiQndjZnhiSXlUWThZRUp5UzRIdThEdzAwd2F5N2Z6d0QtbTdYQXJWaHBxenNUcWJfQzlxU0x1RndORFNTajhqY3hyYVRDUzJpREFGUDgyWGxjLVc2QWlKMG5Lb3N1Tkd1UEZQTmJnMVI4WmJHV2Q1VVk3M01fN2c2RlpTYy1WZ1FBN21iOXg4aUE?oc=5",
-      "source": "BFM",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-07-28T19:44:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Three Normans from the same family die in South Africa, two people arrested in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Drei Normannen derselben Familie sterben in Südafrika, zwei Personen werden in Luxemburg festgenommen",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Dräi Normannen aus der selwechter Famill stierwen a Südafrika, zwee Leit zu Lëtzebuerg festgeholl",
           "summary": ""
         }
       }
