@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:12:39.039Z",
+  "generatedAt": "2026-08-24T06:04:05.894Z",
   "items": [
     {
       "id": "7253b9e0f3a62aa6a6021e65b88df51971b0b2bf",
@@ -78,6 +78,22 @@
       "imageUrl": null,
       "topics": [
         "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "eda77b166d65fcd98251d75e35cfcd1dafe3308b",
+      "title": "Volksbad am Rosa-Luxemburg-Platz: Auf einen Blick",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVVOSUFkeEZFVmQ1V3VMZVk3dHNscnZxSExZeFE0Z0ZRSlZOdEszS1o2Z3dLOHhBOUFIcmVYc2dhYVc4QURGenp6elVlX2hMRFZkeDFrMHBwUVRONmRtOGJDbDFVeDZOSC1PQWlDZE83bXhfZVpjSnRYNndaeE5JU21KZUhHU0N1MHVwWU5pTjZGWEpxV3BhRA?oc=5",
+      "source": "junge Welt",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-23T17:30:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
       ],
       "translations": {}
     },
@@ -45992,39 +46008,6 @@
         },
         "fr": {
           "title": "Feux de forêt : l’Europe se dirige vers la pire année de son histoire, avec une superficie brûlée de la taille du Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8ac25f2ab74c4885627deaeb97654cb21f5c80d4",
-      "title": "Denis Dragolovcanin — статистика у Люксембург: Національний дивізіон 2020/2021: скільки голів та передач",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmNYcjFGSmljMGtnVG9xSEZQejNWcFd2TVBxTEktWTF3U0s0UkMyWHdnOGlFclJUS3lZYVk1LVM0Y2FiR0stRjFXZDZvZWNrVEpKTzNqWUpTV1MwN3hFRkFMNVFKZVFhdS1YQ0ZBeHlmRzlNQ0RjUTJ1R1NDSGpVNHhBekE1R0RCeDY3Ykhsd2d1cHpyU09UcF9yeDBwaW0wSXNFdlhCaVZjUQ?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-07-29T08:12:22.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Denis Dragolovcanin - Statistiken zu Lëtzebuerg: Nationaldivisioun 2020/2021: wéivill Goler an Assists",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Denis Dragolovcanin - statistiques au Luxembourg : Division Nationale 2020/2021 : combien de buts et de passes décisives",
-          "summary": ""
-        },
-        "en": {
-          "title": "Denis Dragolovcanin - statistics in Luxembourg: National Division 2020/2021: how many goals and assists",
-          "summary": ""
-        },
-        "de": {
-          "title": "Denis Dragolovcanin – Statistik in Luxemburg: Nationale Division 2020/2021: wie viele Tore und Assists",
           "summary": ""
         }
       }
