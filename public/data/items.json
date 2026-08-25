@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:56:27.580Z",
+  "generatedAt": "2026-08-25T20:56:57.840Z",
   "items": [
     {
       "id": "f98b6ba865452832441ddb2980dbdcca545b3ebe",
@@ -58,6 +58,22 @@
       "type": "article",
       "lang": "fr",
       "publishedAt": "2026-08-25T17:26:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "016c8181e2f260f613cea3ca86087f3dba7b17fc",
+      "title": "++ TANKEN IN LUXEMBURG AKTUELL: Spritpreis für Super 95 geht hoch ++",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3hHTDFnVjBlTDlSdWN5OHE0YkpyOWFqRDlvR1hvMkFqVnFFbGJSMTEyXzBPVG41MVJ3T0lPQ2JiZ0oxYkc3anlTOWNuU2pZb0pZVklENmwxX0gzSlJlM1R2MDhYTXc1TGtHZ0xPSzBtT1lnU2tnd0puMnBuU0ZSMVBBSUZrXzZlblNHQ0h1dzltX0RJNDk5SjRuMWxPd1k?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-08-25T16:07:03.000Z",
       "summary": "",
       "imageUrl": null,
       "topics": [
@@ -43636,39 +43652,6 @@
         },
         "lb": {
           "title": "João Carlos Ferreira Capela - Statistiken 2008/2009 Top league Lëtzebuerg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0dd21c523ebbc40ffed6a432624e15ce9f1e7150",
-      "title": "Galería de Centro de Aprendizaje de Luxemburgo / Valentiny Hvp Architects - 25",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVm41NWlMOHZZSjhIMXFqOEJkVEdLR0RKSXlhTDE2dnpzVTRnSHJuSUJ2eGRZaUVEcWNRQ1BQYWM1SEY2VFFsM01GYzlhVEZQNG5ZNGtwVzVfNFBMaEtXaXhjZFpIdnNJRE5tTUI1RDA5VXRuMXR0RS1QeERNdEdCenVHOFg1c0pCbk94ODJCZlVBaUNhSUhrbHZfc2lZTGEyOXlEaU1RUzFOMHpCNDJYX05ndGd0dG1XaTg3SkZQT2VXNmNfeDdoWlU2NnM4ekNxTXhZeFhweHdadXNtV3VLZHMxNHlXV0Y4N0NGRUZiOC01MUJpT0ZfV3czZU9sb3g0YUZmZFA1b3VqcC1xNjA0?oc=5",
-      "source": "archdaily.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-31T03:05:40.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Galerie des Luxembourg Learning Centre / Valentiny Hvp Architects - 25",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of Luxembourg Learning Center / Valentiny Hvp Architects - 25",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie du Luxembourg Learning Center / Valentiny Hvp Architects - 25",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gallery of Luxembourg Learning Centre / Valentiny Hvp Architects - 25",
           "summary": ""
         }
       }
