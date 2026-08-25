@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-24T23:46:36.473Z",
+  "generatedAt": "2026-08-25T02:03:01.777Z",
   "items": [
+    {
+      "id": "431011713288bb8e1e646e622485c34ac812cc6c",
+      "title": "Counting undocumented migrants impossible, Luxembourg government says",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHVISE9hYUtfNU82QnJvdDNuY2xnTWQ1OGtoQmdxcU41UENSSUcyRVNKXzI5UEg0a1YyUGJ4ZWRNbVpXNjhyNkEzTTU3RmxfS0FaNWpOcXNzTjdiSWxRT21VbUs1NVpKaC1oNXYyZC0wZjVmalc0Vm82V21JWmYxeERXeFV3bnZlbEN3ZlZrTnRmZFZINWdrSkdnSEg?oc=5",
+      "source": "ETIAS.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-25T00:06:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics"
+      ],
+      "translations": {}
+    },
     {
       "id": "c5d095d038a8b918a386d5772f8dad356486a431",
       "title": "Zelenskyy discussed budgetary and humanitarian support for Ukraine with the Prime Minister of Luxembourg",
@@ -643,6 +659,23 @@
       "imageUrl": null,
       "topics": [
         "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "08c01e7c6f9678e38d1a4c135185811642f01634",
+      "title": "Volodymyr Zelenskyy Presented State Awards to the Presidents of Estonia, Lithuania, Moldova, Finland, and the European Council, and to the Prime Ministers of the United Kingdom, Luxembourg, and Latvia for Supporting Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYS02WkVSNU1VRUFNdHBCNEVlU1Rud1Y0a3lvN1UzQzRTYzRoS3E1cW5MaFBhazdNdnN3SHFodzMxalBiZVZpT0Q4N01sel9NaUg0aG02Q2VYOVd3QkNLcU1xM3FTeEZzbGVuX25HZFljSjZnckgtcmRESEpZcEx1bHRaVmJUd09Bdy1iVDBBWUk4X2Ria0N1dWotdVRFWDdUZTZVRnRCZw?oc=5",
+      "source": "Офіційне інтернет-представництво Президента України",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-24T08:41:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics",
+        "travel"
       ],
       "translations": {}
     },
@@ -3747,6 +3780,22 @@
       }
     },
     {
+      "id": "ebf39eff98481adb5a6d8c0d5f1b46f70c81462b",
+      "title": "Мондорф-ле-Бен - Кэрйенг 2 мая 2027. Чемпионат Люксембурга 2026-27. Протокол матча",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1NDeXE1MTJpYUZaU3l3QjJjbG9hLWN0MklSLUNuT0Q4SzU1TDJmaVpodUNlTFNYNXBwVU04TDI2cHFacjB4S0FZZ3N2VkR0cFFWX2FnR09jZjlpQ05TMWxEOGdhODhjRlZFRWd6SlVuQmxlUW5HckNCelBqS2wybldzSnNEMWhEZk9tVUxxOUM0Ui1udEZCSmo2eFplU0RSWmJkUw?oc=5",
+      "source": "Sportbox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-20T16:06:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "bcbcf99b7493dcf2370136d78e07e0472dec31f7",
       "title": "Вильц-71 - Ресиденс 25 апреля 2027. Чемпионат Люксембурга 2026-27. Протокол матча",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORzlWNmxKSkNyaG11QXFnNVoxSGp4d3NqOEVkel9jcUxVREVQb0prU3pPb1hrYWdocnFVYWFQa1F2Zzh3UjhJcWdBNF9aVTRhdkc1QktOMGNUNVY1Y1NCWHI5OTNLdFBiZVJKdGlSakFjOXpfaFNtT2VJSWw2QS1mUFgxYlgwdlRzNmNDbnZMU1pwTHVFOC1BQVJ4TkZSUzlHRkUzbQ?oc=5",
@@ -3827,6 +3876,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "aadaba00b741e9e4320acd3ad2f70c8062e2b8af",
+      "title": "Кэрйенг - УНА Штрассен 25 апреля 2027. Чемпионат Люксембурга 2026-27. Протокол матча",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0Q1ckpsMWtnZ2pBRFFCcnhIQWxvV1R3enV6Yk1TTk4xRE03RXpaVEFDeUMyZjVVYWtMbTVvcmFDalc5VnRwaHEzMzFhemllWDJ0UUtrVzhOUWxJWXFXaWx4T2FzcElxalpvSEZNRTFHalVINnVrS29LdnBDZmYzRmx1ZGxTN052YVNNa1dGbWZMVjExVGJjVXZPWGpCaDFhR0lGdQ?oc=5",
+      "source": "Sportbox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-20T16:05:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "a37d2de3bffbc5b9284bd826070f846d10f118a2",
@@ -3921,6 +3986,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "d384c90f9f25450c08fcbb895c54dde443fa670a",
+      "title": "Расинг Юнион - Мондорф-ле-Бен 25 октября. Чемпионат Люксембурга 2026-27. Протокол матча",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGVSZHVxQTdBVjljeVFHdU5GSDJvRklZbG9abmFIMmZnT2MwZGs5UFN5eURSU3NHNmRMajFoaER2R0hpZGQwRXpKMWdwcXBTRUEzRFZYQk5VYlJ3U2dfV1pFb3FvQ2NvWVZJbTdaX0Q4aWdpUi11WUREQ1NtWDBIM1gtczk3bDRLWUVJb2Y0WWI2MEhfRURLdlBlS25ESVFrN0NPRQ?oc=5",
+      "source": "Sportbox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-20T16:05:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "faf84f16f4e362cf856f57aff44c521762ad199e",
@@ -4112,6 +4193,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "f4be484bc2bb7c23ae03a9a93a92f63a6a7c9c51",
+      "title": "УНА Штрассен - Расинг Юнион 18 октября. Чемпионат Люксембурга 2026-27. Протокол матча",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1p2YmpNeDNhZVgtc1J0b0Y3bWg2MlVYU19CY1VtMThKWW1faFpvbHN1WlJHQ0VJRzhXaGJ4bzRENTVURUVfRjFMM0UtaFpfMkdTNlUxOEdBUzl2b3VmaXlTZnJhWWV6SUlaVEVEUUlrb01EWGxGSXBEZkxZSURSMzdqRjlBdkVoaTdmMi1KWnpEVHZ3cmNybVM1NkNuSWFqUHVVbA?oc=5",
+      "source": "Sportbox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-20T15:58:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "073744603696bc2deafc26d8c43ab158eda708af",
@@ -8945,6 +9042,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "916d9174bc1fdf2b8bb7203842648bb5f33f574f",
+      "title": "🇱🇺 لوكسمبورغ – جولة أخيرة وتجربة السفر بالقطار إلى بلجيكا",
+      "url": "https://www.youtube.com/watch?v=PqgMDCxoVQ4",
+      "source": "Haroon Amayreh هارون",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "ar",
+      "publishedAt": "2026-08-18T01:52:56.510Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/PqgMDCxoVQ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKWLA0hSheuDsZVCAWfWi4l7V3UQ",
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "53bc001c918f56922dd25ba6819d845a76cc6df3",
@@ -44609,200 +44722,6 @@
         },
         "fr": {
           "title": "Prévision météo 10 jours Differdange, Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3e2df17c81d85e68b56c9f6120561bfe39de1bb8",
-      "title": "लक्ज़मबर्ग में अध्ययन: शीर्ष विश्वविद्यालय, वीज़ा प्रक्रिया, शुल्क और छात्रवृत्ति",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZZWNzYU9PX2VtMG82d19ad2ZKWXJ6NnpCOG9fWlRPTkxNVEFhMk8xbXg0WU9vR3NWQkQ3RGxqZmp0UENvQzI5NU4wN25aU1dJb0loTXFn?oc=5",
-      "source": "Y-Axis Overseas Careers",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "hi",
-      "publishedAt": "2026-07-30T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Étudier au Luxembourg : meilleures universités, processus de visa, frais et bourses",
-          "summary": ""
-        },
-        "en": {
-          "title": "Study in Luxembourg: Top Universities, Visa Process, Fees and Scholarships",
-          "summary": ""
-        },
-        "de": {
-          "title": "Studieren in Luxemburg: Top-Universitäten, Visumverfahren, Gebühren und Stipendien",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Etude zu Lëtzebuerg: Top Universitéiten, Visa Prozess, Käschten a Stipendien",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a7a21c213682de163bf0148b7f0910b8f9822d29",
-      "title": "Luxembourg, the Netherlands and Sweden lead the way on working from home in Europe | Eurofound",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXRubi11MkJJZ2xsR3h5bWhSeVo4V05acjZmaGVSbE5KeHpYMzlHTmVrWDFHOWJIX1hUQUk0c0prbnRMRV9BZEFybTFLcE5TU3lOY3Q0ekRDSzFpb2xRUVpadTRmcUhNZzdpcWNReXZUVVpxSTFXVmtmdjNScDVsMlExYUF6X1ctQzVFbVRGZUw2dFNucTY2MW1JQzJybjBESV9FX05LcFFicVVJUF9Kb3JFSGFsQVRWRHNIZ1ZFa1FCTzlodG1HWDA0X2Nsal9MSUFuR2tRcw?oc=5",
-      "source": "Mynewsdesk",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-30T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {}
-    },
-    {
-      "id": "2deb8567eb2a48b2c24629d1eddd7d936889b0fc",
-      "title": "Luxembourg FA using football to tackle discrimination among young people",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOXNnTlU2UjAzWlhrTktqOEYyX2NmeXVYRUpSZVBKV2RCVHBKUG5aMGQtTU52ZkdybW16QzFJZ0JGbHdrQ2FBeHlYM3MxSlYtU0drbUVFVjd2UWdvR242WlBWV0FkTk1rNWh6bzJwRzBYeVVDWktBUmtKelhNZlllcVQ2QjYxd2djMU1wQ2NHVnRzanNNZUs4YTh5VUdLVU1iZXlta2laSFczT2VCanRHRUhnY1pqNHlJSXJmUm9ybV9RNUZEV3pwcW1GVDQ?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-07-30T06:45:25.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Lëtzebuerger FA benotzt Fussball fir d'Diskriminéierung vu jonke Leit unzegoen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La Fédération luxembourgeoise utilise le football pour lutter contre la discrimination parmi les jeunes",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der luxemburgische Fußballverband nutzt den Fußball, um die Diskriminierung junger Menschen zu bekämpfen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "34f038e01891ccf59f8f691415537e51b7646cfa",
-      "title": "Fläche von Luxemburg verbrannt: So schlimm sind die Waldbrände 2026",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnBiR1ZWRzBaWFA2b0UtSExLV0lEUTFVdkNmd2JEMWpNSHVRenJvTU54R1JYb2dnc0ROV09XenB5T29kLWNRYjhteE1oc2FQOEN3QlFpLUxXd3FmYkVXSmRnRl91bVU2YXVUSXJEMDN6YzJYLTF4SkptT2R5aEpGMFlfY1VkRlFhbFltWDY3OHpsSXlSWm5QZ3FuOWs5VFB4VmVwX3lKNktBWHVVUnhsc3ZUTG1pUQ?oc=5",
-      "source": "Hit Radio FFH",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-30T05:38:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Area of ​​Luxembourg burnt: This is how bad the forest fires will be in 2026",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Gebiet zu Lëtzebuerg verbrannt: Esou schlëmm sinn d'Bëschbränn 2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Superficie du Luxembourg incendiée : voici l'ampleur des incendies de forêt en 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "740bcc369f6f0051a5167cae9cb2016ec5751cda",
-      "title": "So groß wie Luxemburg: So schlimm sind die Waldbrände 2026 in Europa",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLWpseVhkUjg2cEZzMS1qSWJzcGtJVTdncDNRR0lETndyWldTN3pFZ0dzS3VSRVlvZ1Rmc1pPZ19SMjlnYTBScF9xeG1kTXpnSl9pSEtfRXJGNDFuWndXWVRaNm1ZUWRjMktTaEgxQWQwTTFtQy1XeEhEcmFodElIYk1PWGQxTHF6UFBPWm1B?oc=5",
-      "source": "Euronews.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-30T05:30:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Esou grouss wéi Lëtzebuerg: Esou schlëmm wäerten d'Bëschbränn 2026 an Europa sinn",
-          "summary": ""
-        },
-        "en": {
-          "title": "As big as Luxembourg: That's how bad the forest fires will be in Europe in 2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Aussi gros que le Luxembourg : voilà à quel point les incendies de forêt seront graves en Europe en 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6bd5400d9a1bcfdc0b1d16ae9af8d09f67854884",
-      "title": "Video. So groß wie Luxemburg: So schlimm sind die Waldbrände 2026 in Europa",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVS1mVUt0RHlKOXc0dHRCTWdOTENnTUFxeDdULWZLWHpFNnEycnpMTWVwVURVSHB3OFZ1d0phaURVTFdIcWUzWXphYk9ldG00aWY5RHJaZ0FMRnpTak42YlB6dWhxZ3Y1dlpKZTN2VW1OUUN2X3hleUdhMkVEMkY4aVBWY3U2dml6?oc=5",
-      "source": "Euronews.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-30T05:30:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Video. Esou grouss wéi Lëtzebuerg: Esou schlëmm wäerten d'Bëschbränn 2026 an Europa sinn",
-          "summary": ""
-        },
-        "en": {
-          "title": "Video. As big as Luxembourg: That's how bad the forest fires will be in Europe in 2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Vidéo. Aussi gros que le Luxembourg : voilà à quel point les incendies de forêt seront graves en Europe en 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0c1090adf7b337af78482e6073ed649375d6a1f7",
-      "title": "European Peoples‘ Festival in Segeberg: Luxemburger knüpft Kontakte fürs Leben",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHlabDk4bjBPTnRsZk9XTjZDX05OcTVuTVhROXF2NjFvT3lRMXhQMU1fMUthamJxWkI3aHZCTEg4QVNydHp2RjN0SmFIc0lESDZXZTdHTVZCR2pTMDMxLVpYY1QtWk5hYUhzOTlkNm8yMWJ2WVBXWlRYaWxkVUJkY0dLOTY3Ylh0Smd4bEZ6OGQzZ2JJQnBTa3M2Q1pBVjBESUtKQ0dIZjc1ZW5ZclB4SzlhNkN3eHBtMnFnNWlBLV9URjhGNU1aQ0xTTnZZbU5HNTBpT0o1WlhWX1dTT1UwWG5QS0VSUFHSAYMCQVVfeXFMUE1pTGRpcEJkWDI4NFE2ZEpZb055VTFHcEVrSUNoTkJtWk1LaFRfaFBaTmlRd3pKTXRCek5XNHVuWnY3YTFkaFVFMlg3MU85VEhGQmotQ3pYaXNnT05YVWtsNWJIVlVVcUFkamlWOVoydFd0bU1HLVBibEZTcVVPMC1EN1pDd2Jpa3k4Sjc2MDFLdDZlbkx1WjAzX0g1WEFlVzVoVnBqSXRpTmNpQ1Q1bVdOR0JvdFYwdDhiUFJFNXJGc0kyZFd1YVFNQzl5YUhtdTB1cktoa3E0THppZmNTc2x3aUlWSWJsUGVuTkhIcTRNWExOOXRWS3d5MUMxRFNray1zdw?oc=5",
-      "source": "Lübecker Nachrichten",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-30T05:30:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "en": {
-          "title": "European Peoples’ Festival in Segeberg: Luxembourgers make contacts for life",
-          "summary": ""
-        },
-        "lb": {
-          "title": "European Peoples' Festival zu Segeberg: D'Lëtzebuerger maachen Kontakter fir d'Liewen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Fête des Peuples Européens à Segeberg : les Luxembourgeois établissent des contacts pour la vie",
           "summary": ""
         }
       }
