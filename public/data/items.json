@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:55:52.419Z",
+  "generatedAt": "2026-08-25T23:49:31.262Z",
   "items": [
     {
       "id": "7c8c71b092a6db991c967033e75fefce9e941204",
@@ -188,6 +188,22 @@
       "publishedAt": "2026-08-25T14:46:41.000Z",
       "summary": "",
       "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "5e0a1bd92f3c5a187cec3080e73483780e41da40",
+      "title": "ルクセンブルクとニューヨークを結ぶ初の直行便がついに就航",
+      "url": "https://www.youtube.com/watch?v=3Ed-C6BvBm4",
+      "source": "The Sky Digest",
+      "sourceCountry": "",
+      "type": "video",
+      "lang": "ja",
+      "publishedAt": "2026-08-25T14:39:21.116Z",
+      "summary": "",
+      "imageUrl": "https://i.ytimg.com/vi/3Ed-C6BvBm4/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIEsoRTAP&rs=AOn4CLC-kAiTKZyptVkpwd-T8noaygGFzA",
       "topics": [
         "other"
       ],
@@ -43529,39 +43545,6 @@
         },
         "en": {
           "title": "Luxembourg Pavilion, designed by STDM and Mikan, explores rhythm and modularity at Expo Osaka 2025",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d04e62a3caca6872c743609771b31f413faf25c1",
-      "title": "Galería de La contribución de Luxemburgo en la Bienal de Arquitectura de Venecia 2025 investiga los territorios a través del medio del sonido - 4",
-      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNWmF0OHd1Z3V3WmJPLTB1b1lCbVF6WEd2ajJQYjJmWkR5MFZfMjhUSUxXdG1QX2gyQzJsSXk3YmlOZWJoUlZlMHdDbnoxVV9CY1hQTVhnZjNVTEtDXzBrd3d6amRCNWd4RUo2S3dpQ0N0dnNVOVBGZHp2eXhsWG5uYmltdFlfWFJZdWNUSVQteTkyeDlCejhQTzFGcDV0c2JHZVJhUGFWY1hUZXJ5NEExckkzdzQ1aGctbThMRjdscjB6SU1SWUVySzlrTG81WHVycXRQbV8wcGlKajByOGhzbjZRbHQ0WnBkbWVQZVZoamRBMGJCSlRlam5ZS3ltYXVwbkRjUE5ma3k4YWt4dEYtcFU2eENPbS1QVWM2MjhVNnpKZF85dkpzVEdVMGUzWXlKcHQyQlluZUR5WkdjVWNjTXpJcXRWa3VfUDBPbmVGY1YwS0ZLejdIbjNXWlFGSkNYdUg0YzE3d2FBcnExUTJoUUFldEUzbGp2S19aMngxRGcyLUxzQlBNMlF0YV9rckJKeWUwaXZFWHZOc21VU3RsUnJhN3RTNWx1V2FGV2FSS1hqY3ZlMDVuVHhpT3g0OGhpRm5MQ1RJQQ?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-31T06:28:59.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Der Beitrag der Gallery of Luxembourg zur Architekturbiennale 2025 in Venedig untersucht Territorien mithilfe des Mediums Klang – 4",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Bäitrag vun der Galerie vu Lëtzebuerg zu der Architekturbiennale 2025 zu Venedeg ënnersicht Territoiren duerch Tounmëttel - 4",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of Luxembourg's contribution to the 2025 Venice Architecture Biennale investigates territories through the medium of sound - 4",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La contribution de la Galerie du Luxembourg à la Biennale d'architecture de Venise 2025 explore les territoires à travers le son - 4",
           "summary": ""
         }
       }
