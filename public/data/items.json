@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T03:29:05.399Z",
+  "generatedAt": "2026-08-26T05:06:52.213Z",
   "items": [
     {
       "id": "5273d47db4e492bbcfc234f7b6b68ac3626e910a",
@@ -5937,6 +5937,22 @@
       }
     },
     {
+      "id": "699993b2b80a94117e033dc9b77e21ee277e08de",
+      "title": "Taagholt Breaks The Tape In Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclViLVFHdlJLQURicm5JaVNPd2VUOWF0RHRSNFZ5SkF6cTVyWmg5akZURlpDenp6aER2UWNmZGxJUzc3YVJwRE4zUHV4V2RnS0FRWFZUWVNuWEszSVlpQ1dhOFY3TVduOVNyczE0Ul8zTXNGWkNlZFdsUFBRV3oxSS13?oc=5",
+      "source": "Ironman",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-08-20T10:48:41.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "5392b4ff2ed60b2dca53ee50957ac1e9d1109020",
       "title": "Köln aposta em Gil Neves, campeão europeu português nascido no Luxemburgo",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWZ5LWpuWkRkaGlpZjdpaHdXSTI4c0FQWGdDdW82Zm9qNlJRVVNMR2Z2Ni0xLXl0NEdWQUJNNWRUN2pCVlJHQXk5NGNvUGR0b2hhRW8xTDU3MTgzTXEyQXBRQnFyVkZGeWFraERaSk85Y2lrR3hRRjByOGc5SkszSWlVUVRyMndYSTBXajZCbkhVd1NNSDlVNmx1VlRKV1FuZmc?oc=5",
@@ -9314,6 +9330,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "2d2bbeed5824e30f0f1b95f89d944864e4079e14",
+      "title": "Грушко принял посла Люксембурга в РФ в связи с завершением его командировки",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPal9wTHJ1c0dvSVF4TFh4T3locGZSeERDR3A3VGFqRXRjMFg5NGRmUDJ2dFlGY1gzYzY3VGVLSkpEOEpwN0VYTUc5MWRZUm9nZ0J0QzIxMGZwOU4ydlZsMHZReEhfc3NhR2Nua2NBTzUxOVFSNnRrT0VQbXB2SVRZQTFmeHYwTDBIV3RVbGsyZU1pUlBabTROX0diMVZSS0VMdDdpM2JDVnRmelRVaWxZYmd2ZGFZXzN4Zmo2NFUwdkPSAcYBQVVfeXFMTkVoSTFiV3JVdFd6c0dwbGhvWEs3Y2tYbnFLTG1UX0xwM1JmdDlUbUFQUzJMNlAxNkUwU1dTSDV2MHhaQ3RJamp4WUZBMG9CMXNCYUdkR2RBbnRjMzkwX3MwVnFxYUxOT1pQaEh2WVpDbFNJdXBxWmxCNXRJdEdWTmc1U0plYlJqaWRSRVF1UGE3NnpReklOMWpILXlKOEx2V05RLWVpbFBvZXY0bWdZcXhRdmx6U1FldVc3aXZqQ2ZocGg5VHlB?oc=5",
+      "source": "Рамблер",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-08-18T15:41:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "66119d96e0a85aafe950babd0327e6d6ece197f4",
@@ -43351,68 +43383,6 @@
         },
         "en": {
           "title": "Event in Luxembourg: the Schueberfouer is back",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "998752864c21d0ba42b4db9c86722ec95435268f",
-      "title": "Luxemburg und USA sondieren Direktflug – US-Zollabfertigung im Gespräch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVpUUEdMNzA2N0VrOGwxeG91ZUp0MlU4cDFXRkppXzVSMWg2RjNRUHBzeUItWGh5NE1FMXB3NmZQck1ZVnhqYkNqMkVDeC1RXy1IRjJTd3ZuOVFLdUEzem9yVTRQeG0tUVdMZzhXbTZCWHB0OXUyMHV2WTdNMjFhZk5DNWgzRGFSY3BnS0JiR09uTjdUT1ExTDZn?oc=5",
-      "source": "airliners.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-07-31T08:22:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg and the USA are exploring direct flights – US customs clearance is being discussed",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg et les USA explorent les vols directs – le dédouanement américain est en discussion",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg an d'USA ënnersichen Direktflich - D'US Zolldeklaratioun gëtt diskutéiert",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4d5f43a31e4d0a9d35b3721dcd6707440334ab35",
-      "title": "Historia: Luxemburgo 0-2 República de Irlanda | UEFA EURO 1988",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTQ3UzB0MjBrMDdsUGxfQk9Bd1ZtU3E1SnE5aVVLRzRlMnZGTzVxZWRUTk41Tjh4eUJiWkR3a1FLTDJxVVVnc2hzaWwxN012XzVoSWhHUEloUjVmdXRZeVktd0Y5QTNJWWFtODhxMHZRYkdLcHFkUkplSmU1SFozZA?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-07-31T07:55:19.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Geschicht: Lëtzebuerg 0-2 Republik Irland | UEFA EURO 1988",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Histoire : Luxembourg 0-2 République d'Irlande | UEFA EURO 1988",
-          "summary": ""
-        },
-        "en": {
-          "title": "History: Luxembourg 0-2 Republic of Ireland | UEFA EURO 1988",
-          "summary": ""
-        },
-        "de": {
-          "title": "Geschichte: Luxemburg – Republik Irland 0:2 | UEFA EURO 1988",
           "summary": ""
         }
       }
