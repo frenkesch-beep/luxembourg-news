@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T18:41:57.513Z",
+  "generatedAt": "2026-08-29T21:54:56.035Z",
   "items": [
     {
       "id": "e1edf5fd6de8d5fa49cedd1c359430d4a14adda6",
@@ -154,6 +154,22 @@
       "type": "article",
       "lang": "ko",
       "publishedAt": "2026-08-29T04:40:35.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "4c645a6134e974e34cee73c41a6d7f9796e89a1f",
+      "title": "Luxembourg : Harisson Djonkep déjà d’attaque avec l’UNA Strassen",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLVNsR2s2MVRWMklhSnh6Yi1xR09TLVlmUGMyb2FySGRSQmhQWDR5NThHc2xJODM3dzNyeEY1OWdRZVJGM2xZazBVb1piTWdLaEYtaWFqUmtYN0JMNUJ2RVZicDlCdnJLVm0za2YzTkJuSmg1SmpZb2VyendBVXJxQ1BsaE16NkFFdzg2SWNSSnNFbVlCX3dONXgzN0tjNEloY0JiMU1uUXlrNUE?oc=5",
+      "source": "Camfoot.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-08-29T00:00:20.000Z",
       "summary": "",
       "imageUrl": null,
       "topics": [
@@ -40284,39 +40300,6 @@
         },
         "de": {
           "title": "Seoul Startup Hub Gongdeok veranstaltet europäisches Expansionsseminar mit dem Luxembourg Innovation Institute",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f37e668aeb39dfe2dfca36fc535b8038e1971149",
-      "title": "서울창업허브 공덕·스카이인큐, 룩셈부르크 국가 혁신기관과 ‘유럽 진출 세미나’ 개최",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QU1lGVGptWV9tbDEtNml2RGJsZksweHI3VHpDR19oWXpVTjlYSDBacU9BMDk0ZkxTUGJBM3RJQ0pXVFZaTEVrYXp4SWR1SjQ?oc=5",
-      "source": "와우테일",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-08-03T22:38:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Seoul Startup Hub Gongdeok et SkyinQ ont organisé un « séminaire d'expansion européenne » avec l'agence nationale de l'innovation du Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Seoul Startup Hub Gongdeok and SkyinQ held ‘European Expansion Seminar’ with Luxembourg’s national innovation agency",
-          "summary": ""
-        },
-        "de": {
-          "title": "Seoul Startup Hub Gongdeok und SkyinQ veranstalteten ein „Europäisches Expansionsseminar“ mit Luxemburgs nationaler Innovationsagentur",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Seoul Startup Hub Gongdeok a SkyinQ hunn \"European Expansion Seminar\" mat der Lëtzebuerger nationaler Innovatiounsagence ofgehalen",
           "summary": ""
         }
       }
