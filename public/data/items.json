@@ -1,6 +1,532 @@
 {
-  "generatedAt": "2026-10-09T02:18:33.430Z",
+  "generatedAt": "2026-10-09T09:11:19.256Z",
   "items": [
+    {
+      "id": "705a2926f14d791bec21236b5ab5ceff9489d331",
+      "title": "Création d'un gendarme boursier européen : un accord trouvé à Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDNXVRWmNkVUlJaEZTc0NrNWwzanNqRzVUcmx5S1B4OXUzS21fS1d5U3BKSVNIRTQxNG1USDhUZU1oYmhobF9qczl5R1FOcnh2TlgtZ2ZScU9VM3VBYmJLRVdB?oc=5",
+      "source": "TradingView",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-09T08:22:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Creation of a European stock market policeman: an agreement reached in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Kreatioun vun engem europäesche Bourse Polizist: en Accord zu Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Schaffung eines europäischen Börsenpolizisten: eine in Luxemburg erzielte Vereinbarung",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2e4def1072f7797cb89c0bae7ff729f5062fd6b2",
+      "title": "Подрядчик наращивает темп ремонта улицы Розы Люксембург в Иркутске",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TdENvWEx0eGVfamdtUExkejJPSDY0Q2JSTXl5S2VhZlktU3dKTjNXUVUyX3JzUEM2UDA4cGE4ZC04ZG5NTXNVZnFEOFh0UQ?oc=5",
+      "source": "IrkutskMedia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-09T07:50:55.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "L'entrepreneur accélère la rénovation de la rue Rosa Luxemburg à Irkoutsk",
+          "summary": ""
+        },
+        "en": {
+          "title": "The contractor is increasing the pace of renovation of Rosa Luxemburg Street in Irkutsk",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Entrepreneur erhéicht den Tempo vun der Renovatioun vun der Rosa Luxemburg Strooss zu Irkutsk",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Auftragnehmer beschleunigt die Renovierung der Rosa-Luxemburg-Straße in Irkutsk",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "42bc853d55221b02af9c939ffb819b1a817a8e31",
+      "title": "345 chambres rénovées et une nouvelle catégorie : cet hôtel de Luxembourg s’offre une cure de jouvence",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSXpBRkhWb3NReWlkUnN4ZE16NFFPRWdtTmlzMndYbHR0UzdkWUtGQUJRTmRDRUdYajlmaXJmNFhWcC1iRUt6V2syNmY0WFJGeG54b3Z6blI3TTM3dDROUHY1MVFaX01maGlXa1BDSzEza3lWRm5CUTB4emtSS2ZyRURqXzk0UTNyYnNyRFdSZHdJUEo1WUR5UmVqZkJuWFB5SGNzbG5pajhDaC1zUnRZTl9fMnRhYy12NW53MlRkNUVBd2M5ZXh5Rm5B?oc=5",
+      "source": "Sudinfo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-09T07:15:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "345 renovated rooms and a new category: this Luxembourg hotel is getting a makeover",
+          "summary": ""
+        },
+        "de": {
+          "title": "345 renovierte Zimmer und eine neue Kategorie: Dieses Luxemburger Hotel erhält ein neues Gesicht",
+          "summary": ""
+        },
+        "lb": {
+          "title": "345 renovéiert Zëmmeren an eng nei Kategorie: Dëse Lëtzebuerger Hotel mécht sech ëm",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "307734662ae3f3d541b1cb0d29971424719257e4",
+      "title": "Eurogruppo a Lussemburgo, strada in salita per flessibilità",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaE81djNhUDgtTld0TmlVUW0tVVRTVjZDQ1ZZX0VCTlBsdHVidGFmNmpHQzBXMjNnVGZMY1h0LXY3T2JsM24zQ0NmZGhsbHRXUENjdVhCakl2RUxEek5FQm1odUdVbWlrRVdqWncyVHVxQlRRSDRkNUtEdnBqT0dnVXlkUlVJV2JzMDVLUmd5OXoweUtnaHp6MTYtU1Y2OGhQNG4xSk9ySQ?oc=5",
+      "source": "Il Sole 24 ORE",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-09T07:03:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Eurogroup zu Lëtzebuerg, e biergof Kampf ëm Flexibilitéit",
+          "summary": ""
+        },
+        "en": {
+          "title": "Eurogroup in Luxembourg, an uphill battle for flexibility",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Eurogroupe au Luxembourg, une rude bataille pour la flexibilité",
+          "summary": ""
+        },
+        "de": {
+          "title": "Eurogruppe in Luxemburg, ein harter Kampf um Flexibilität",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "420c75669b25fc9b74a3603caa71376ff089f54c",
+      "title": "Malta women begin Nations League preparations with Luxembourg friendly",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjNxTlY5aE5kU2hIZlk2TkVGMkJiQ1hvWmdUQ3otVTRqREx5UVczdktGY1h4ZncxeW1FQ3JIaC1yWk5MbHFlcW50eFdjWjZTOGprbVU1eC1ia0xSdVBNSEVwZ01kbEtmWjRQNERjTDZvT2tMVzcwSDJxalBzVkVYclJOOG1JcHI2Y0RpTjVBMHdlXzUxa2t0OHQ3V0liTzNfcVpfN0llRU9SMHRpRTh2VG9YTQ?oc=5",
+      "source": "SportsDesk",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-09T06:02:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Malta Fraen fänken Nations League Virbereedunge mat Lëtzebuerg Frëndschaft",
+          "summary": ""
+        },
+        "de": {
+          "title": "Malta-Frauen beginnen die Vorbereitungen für die Nations League mit einem Freundschaftsspiel in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les Maltaises commencent les préparatifs de la Ligue des Nations avec un match amical contre le Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e0e4856270709fc930e0a5ff1c9b5bdb453569a5",
+      "title": "Tanken in Luxemburg heute: Was Benzin und Diesel am Freitag kosten",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbW41X0kxUC1EY0N3RC1MTHJBTlkzQnNrOG1qQ1hNMnVVNmRkbkZmVmxyMFkyeklqWVR1TkthYUstUzBxZ2xGOURLTkVUb2g0LXpRUk5aZ0hzel82RDBpaUp5LUhWWG1iR0cydGFiTVkyT0VPbGRIUFFMaVBkYVZHOWtzMko3cVY1MXFvbmI5eGltYTJabzlscUpadVhqU1ItQ2xrNjVmRldHQ3UyVDdMUk02ZmQyLVk?oc=5",
+      "source": "SOL.DE",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-09T05:53:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Filling up in Luxembourg today: What petrol and diesel cost on Friday",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fëllt haut zu Lëtzebuerg: Wat Bensin an Diesel e Freideg kaschten",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Faire le plein au Luxembourg aujourd'hui : combien coûtent l'essence et le diesel vendredi",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4bee2249f8a18d9e4316a10e419c454f5bab783e",
+      "title": "Russie : Jean-Noël Barrot veut un « 22e paquet ambitieux » de sanctions dès le Conseil de Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlQwTG5BNDdhWXkzdm9YdXA3T0ZreXpDZEN3VXVQRGo5cW9Gd1VCZHhfQU8tdHdRZzZRV1BURDUtUkRwc08zbkZ0czVVc3F1Z01KMEVxLW9VeEtfY0FKaXJlRThxYVJxSkM2NllncXVjOHZpT05QNEsxQzlFTTVDc2N3QXBSTDJldmFlZ3VHaU5id185cmpPbHBEVTRnQjFXeUNrX1IzU0lyWkljS1JSTFZzZXJ6dw?oc=5",
+      "source": "Revue économique de France",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-09T05:26:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Russia: Jean-Noël Barrot wants an “ambitious 22nd package” of sanctions from the Luxembourg Council",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Russland: De Jean-Noël Barrot wëll en \"ambitiéisen 22. Pak\" vu Sanktioune vum Conseil de Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Russland: Jean-Noël Barrot will vom Luxemburger Rat ein „ehrgeiziges 22. Sanktionspaket“.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "41f1bffaf250ff8054bd04b7a9b534e3604394c5",
+      "title": "Talange. Compensation financière Luxembourg-Lorraine : où en est le dossier ?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc19EVWt3eEp1SXM3X2lZYVRtd25XcUJIWHpZZ1NKdG5Kb0cyaDNtVWVYamJzWDlIYnNDTmJiR2VreDgtcmQ5QXJJLUFvZ2FrelVvR1BSYWV6V1lsTlhvRUxkczFZeExpUmNjSXBOcGVINXZ6a1ZLam5QUm8xM25xOFl2UTJjUGRSVzd4YThwSzd3MDlENktxVkpGeVJzeGtaTlZ2QTAtaXJ5bkto?oc=5",
+      "source": "Le Republicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-09T04:32:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Talange. Luxembourg-Lorraine financial compensation: where is the file?",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Talange. Finanzkompensatioun Lëtzebuerg-Loutrengen: Wou ass den Dossier?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Talange. Finanzielle Entschädigung Luxemburg-Lothringen: Wo ist die Akte?",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "31da6228a649620c27cbdf9adeeef7c151bb524b",
+      "title": "1 дивізіон Люксембургу - трансфери сезону літо 2009 на Tribuna.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWk2bjluR3lZUjJ1d1gyV3VyLTZmTFJETnR3RWpLdHNwVktCNFBNQW9vZEsycVhiTFVsUC1pQ1BJN3BTYkNxYnBrVHRmS01lVkdmcGdndW5maFVrZFVNVUR6WkxEeHlTaHlZY2pFaGx6NFhXeFo1UzBtNGZGNW1VQjlVbkhmZ3dqcWhYNmRFQWtaQmtw?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-10-09T04:19:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "1. Divisioun vu Lëtzebuerg - Transfere vun der Saison Summer 2009 op Tribuna.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "1. Liga von Luxemburg – Transfers der Saison Sommer 2009 auf Tribuna.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "1st division of Luxembourg - transfers of the season summer 2009 on Tribuna.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "1ère division du Luxembourg - transferts de la saison été 2009 sur Tribuna.com",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "eefd78c1b2c10e7b069614826b800f8324772bd6",
+      "title": "Еду в поезде Руан-Париж-Люксембург. \nЧерез 8 дней премьера. \nВ 2022 у меня был билет в один конец - Черногория.\nСегодня  Руан -  Люксембург, билет на премьеру.\n",
+      "url": "https://www.tiktok.com/@gubanovsergei/video/7694517473520962837",
+      "source": "@gubanovsergei",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-09T04:17:44.000Z",
+      "summary": "Еду в поезде Руан-Париж-Люксембург. \nЧерез 8 дней премьера. \nВ 2022 у меня был билет в один конец - Черногория.\nСегодня  Руан -  Люксембург, билет на премьеру.\n\"Осторожно - женщины!\" мы делали его год из трех стран.\n17 октября мы впервые выйдем к зрителю.\nЕсли ты в Люксембурге, нам очень нужно  твое присутствие в зале. Приходи.\n\nБилеты-в шапке профиля. \n\n#TheatreLife #ActorLife #LuxembourgTheatre #PremiereDiary #LifeOnTheRoad",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/osmIU1BjilkDAijzJCqIRwAahtgZAZB5CIvfIx~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=sNThO7gDpvS5yTEas3mRDpcGpt8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "I'm on the train Rouen-Paris-Luxembourg. \nThe premiere is in 8 days. \nIn 2022 I had a one-way ticket to Montenegro.\nToday Rouen - Luxembourg, ticket to the premiere.",
+          "summary": "I'm on the train Rouen-Paris-Luxembourg. \nThe premiere is in 8 days. \nIn 2022 I had a one-way ticket to Montenegro.\nToday Rouen - Luxembourg, ticket to the premiere.\n\"Caution - women!\" we did it for a year from three countries.\n17 o"
+        },
+        "lb": {
+          "title": "Ech sinn am Zuch Rouen-Paräis-Lëtzebuerg. \nD'Première ass an 8 Deeg. \nAm Joer 2022 hat ech en One-Way Ticket op Montenegro.\nHaut Rouen - Lëtzebuerg, Ticket fir d'Première.",
+          "summary": "Ech sinn am Zuch Rouen-Paräis-Lëtzebuerg. \nD'Première ass an 8 Deeg. \nAm Joer 2022 hat ech en One-Way Ticket op Montenegro.\nHaut Rouen - Lëtzebuerg, Ticket fir d'Première.\n\"Opgepasst - Fraen!\" mir hunn et fir e Joer aus dräi Länner.\n17 o"
+        },
+        "de": {
+          "title": "Ich sitze im Zug Rouen-Paris-Luxemburg. \nDie Premiere ist in 8 Tagen. \nIm Jahr 2022 hatte ich ein One-Way-Ticket nach Montenegro.\nHeute Rouen - Luxemburg, Eintrittskarte zur Premiere.",
+          "summary": "Ich sitze im Zug Rouen-Paris-Luxemburg. \nDie Premiere ist in 8 Tagen. \nIm Jahr 2022 hatte ich ein One-Way-Ticket nach Montenegro.\nHeute Rouen - Luxemburg, Eintrittskarte zur Premiere.\n„Vorsicht – Frauen!“ Wir haben es ein Jahr lang aus drei Ländern gemacht.\n17 Uhr"
+        }
+      }
+    },
+    {
+      "id": "73963772d18b9dd329b3eb9326e60a2eb2cb2cb3",
+      "title": "Höhere Inflation: Steigende Preise auch in Luxemburg: Grenzgänger hoffen auf neue Indextranche",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMG9ZR3ZqNVlENzNHemRLTHN3UU9NZ1o1Z0lsYlRmVldGR0NaUTBXMGVtdnJ2MS1EVlFhMDBYZ3NIQl83S2hIbl9WUVoxMDhKVGphLVlCTG9lcE0tTWNieGp6cW5vb0g3eHlNVjlZdlZVeWJvLWhkblJRbTBvaGVPdEJRLUJ6YXdKY2M3MGZwRnpzS0JmeHlXMnFIN0dYRzZKMGdtemhWVWN1VGFJT2JpcEg4NkVfZ29G?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-09T04:16:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "economy",
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Méi héich Inflatioun: Och zu Lëtzebuerg klammen Präisser: Grenzpendler hoffen op eng nei Indextranche",
+          "summary": ""
+        },
+        "en": {
+          "title": "Higher inflation: Rising prices also in Luxembourg: cross-border commuters hope for a new index tranche",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Inflation plus élevée : Hausse des prix également au Luxembourg : les frontaliers espèrent une nouvelle tranche indicielle",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "135e665f9352c0c6b6da19cf16289d33355511f4",
+      "title": "国际友谊比赛前瞻：马耳他女足vs卢森堡女足预测分析(2026年10月10日)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYd1NzV1ZpTUotMEZzWDlPSE4zN3RIUldoaHR2dHZ4WG53N2RraTNhY01heWJaVUF0eGs3c3Y0U1lHMExvQ3hlLWtOcWhUblJ1NFNGYQ?oc=5",
+      "source": "球迷屋",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-09T03:05:11.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Virschau vum internationale Frëndschaftsmatch: Malta Dammefuttballséquipe vs Lëtzebuerger Dammefussball Equipp Prognose an Analyse (10. Oktober 2026)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vorschau auf internationale Freundschaftsspiele: Vorhersage und Analyse der maltesischen Frauenfußballmannschaft gegen die luxemburgische Frauenfußballmannschaft (10. Oktober 2026)",
+          "summary": ""
+        },
+        "en": {
+          "title": "International friendly match preview: Malta women's football team vs Luxembourg women's football team prediction and analysis (October 10, 2026)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du match amical international : prédiction et analyse de l’équipe féminine de football de Malte contre l’équipe féminine de football du Luxembourg (10 octobre 2026)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0ac881b92435d26592d0c92b60e3516aafcaa0ca",
+      "title": "Lilleputtlandet Luxemburg och ungdomsdemonstrationer i Frankrike",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGx4VFlfT1ljVFpJSWFhdy1JY2xXZWxTSVg0RUd2RDRpRzlQLUw2VzE4My1vUkJRRnZvSmlFYjQtNERleml3bktvUnRnUWhNdmJ0RFEydEJUejZ1dmRPbHpXb2MtbHBrc2YyenZDMjR3YlRQdDhpR2RBTnFrcUNLYzJRNnp1cGhKaHdwVXpQU3BmX1pIak9paldKdG1PRm84eHpDUFl1MlRJd29WRnc?oc=5",
+      "source": "Fotosidan",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-10-09T01:11:26.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lilleputlandet Lëtzebuerg a Jugenddemonstratiounen a Frankräich",
+          "summary": ""
+        },
+        "en": {
+          "title": "Lilleputlandet Luxembourg and youth demonstrations in France",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Lilleputlandet Luxembourg et manifestations de jeunes en France",
+          "summary": ""
+        },
+        "de": {
+          "title": "Lilleputlandet Luxemburg und Jugenddemonstrationen in Frankreich",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9f646b1a4693b4ecb083981a7aea977d7fa3b74a",
+      "title": "Люксембург - Шотландия 06 июня 2021, итоговый результат и счет матча 0:1 по футболу",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDFGazR2WmhJa2cycTdTRXhuX3MzVjlESzdWLURqTVlKa3cza3pSb01Gbm92SnBSOFc3YlMzREhrMUxMWXJEczVTeXJyZVQyUHFrRFVKaVVheW90Um5PejFJNFptSXM2cUwydm5BTXMyNlZKQ1luQ1NGSXdtU1gxaHV0WXY0RHBQd0VraDNHY2ZoUzZjY0Vv?oc=5",
+      "source": "sport-express.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-09T00:47:46.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg - Schottland 06. Juni 2021, Schlussresultat a Matchresultat 0:1 am Fussball",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Scotland June 06, 2021, final result and match score 0:1 in football",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Schottland 06. Juni 2021, Endergebnis und Spielstand 0:1 im Fußball",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Ecosse 06 juin 2021, résultat final et score du match 0:1 en football",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5606afb313fba936dc0d77a41e78676f07aaaca4",
+      "title": "✨สาวผมทองปากแดง❤️👄 Luxembourg: Suzy Pemmers✨\n#เทรนด์วันนี้ #MissGlobalLuxembourg #missglobal2026 #tpnglobal  \n#เทรนด์วันนี้ ",
+      "url": "https://www.tiktok.com/@gds.anntopalluv/video/7694442376181370120",
+      "source": "@gds.anntopalluv",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "summary": "",
+      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/okKYZisIMEQ2CJOAi1BwBNB0iNfAABpADIPIAY~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=dwLQN0NgniLPW%2FWL0dHMEgB6vec%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "✨Blonde girl with red lips❤️👄 Luxembourg: Suzy Pemmers✨",
+          "summary": ""
+        },
+        "lb": {
+          "title": "✨Blond Meedchen mat roude Lippen❤️👄 Lëtzebuerg: Suzy Pemmers✨",
+          "summary": ""
+        },
+        "de": {
+          "title": "✨Blondes Mädchen mit roten Lippen❤️👄 Luxemburg: Suzy Pemmers✨",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6c808f71716996462fa2fa75ba89171165930e1c",
+      "title": "Se o Luxemburgo falhar, Portugal pode agir",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTVMtSG8xbWRZR3NyYmEwbTNETWZzelYxS2xwWWdXdlN6NmlRdW13YWFfN2ZCSWNuRjM1UXU0LVcxQXhIZ21FN0R3VGJWREZDXzE3TjVscnpmc0tSVFdEZUhxRHNjLWRpX0tzM0JSMXQxamcwUm41cXJYUkJsSVF2VktoR29JT2htZWtkdTAzMEc3Q2c?oc=5",
+      "source": "SAPO",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-08T23:23:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Scheitert Luxemburg, kann Portugal handeln",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Wa Lëtzebuerg klappt, kann Portugal handelen",
+          "summary": ""
+        },
+        "en": {
+          "title": "If Luxembourg fails, Portugal can act",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Si le Luxembourg échoue, le Portugal peut agir",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8d2f278c9eabb683bc1d2e0eef089337460de5ab",
+      "title": "Люксембург - Молдавия 08 сентября 2018, итоговый результат и счет матча 4:0 по футболу - Лига наций УЕФА. Лига D 2018/2019 сайт Спорт-Экспресс",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGJ2UmJrN2p4V1lQWE5Ec2NkLU9LVEF0NkFCUEUtMGNaZ2hPMVpvTmlnY0E5ZVpQallrNE50UEt3SXJyemhoU052QnE1d0V5VDN3SWtxZ1ZRZlAxOFRidEZoRUY0dnNpOE1GT3NObmwtVXBhbWZJMklZWTh1ODQ3QzlZUVdOR2lXQ19nUVBZSU9IUnJUXzRoaTVUdw?oc=5",
+      "source": "sport-express.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-08T22:43:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg - Moldawien 08. September 2018, Schlussresultat a Matchscore 4:0 am Fussball - UEFA Nations League. League D 2018/2019 Websäit Sport-Express",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Moldova September 08, 2018, final result and match score 4:0 in football - UEFA Nations League. League D 2018/2019 website Sport-Express",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Moldawien 08. September 2018, Endergebnis und Spielstand 4:0 im Fußball – UEFA Nations League. Liga D 2018/2019 Website Sport-Express",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Moldavie 08 septembre 2018, résultat final et score du match 4:0 en football - Ligue des Nations de l'UEFA. Site de la Ligue D 2018/2019 Sport-Express",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "3c1479315ffed2465b16247f1832b6c71b9186a9",
       "title": "Pronostic Malte - Luxembourg - Matchs Amicaux - 09/10/2026",
@@ -15,7 +541,20 @@
       "topics": [
         "sport"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Prediction Malta - Luxembourg - Friendly Matches - 09/10/2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Prognose Malta - Lëtzebuerg - Frëndschaftsmätscher - 09/10/2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vorhersage Malta - Luxemburg - Freundschaftsspiele - 09.10.2026",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9958b38837492412cd41aa5ae0f856bf32fd0874",
@@ -31,7 +570,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Nextblock Fund vu Lëtzebuerg investéiert 3 Milliounen Dollar an e Kryptofinanzprojet",
+          "summary": ""
+        },
+        "en": {
+          "title": "Nextblock Fund from Luxembourg invested $3 million in a cryptofinance project",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le fonds luxembourgeois Nextblock a investi 3 millions de dollars dans un projet de cryptofinance",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Nextblock Fund aus Luxemburg investierte 3 Millionen US-Dollar in ein Kryptofinanzierungsprojekt",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c8dcee70c2af88b20d82768c53105af276c98ced",
@@ -47,7 +603,20 @@
       "topics": [
         "finance"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Luxembourg VC Nextblock's $3M Wette zielt e fehlend Stéck Krypto Finanzen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die 3-Millionen-Dollar-Wette des luxemburgischen VC Nextblock zielt auf ein fehlendes Stück Krypto-Finanzierung ab",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le pari de 3 millions de dollars du Luxembourg VC Nextblock cible une pièce manquante du financement cryptographique",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d36f8af34536f1762171c983f897852f7d632171",
@@ -63,7 +632,53 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Luxembourg VC NextBlock's $3M Wette op den anonymen Deel vun der Kryptofinanzéierung",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg VC NextBlock's $3M bet on the anonymous part of crypto finance",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die 3-Millionen-Dollar-Wette des luxemburgischen VC NextBlock auf den anonymen Teil der Kryptofinanzierung",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le pari de 3 millions de dollars du Luxembourg VC NextBlock sur la partie anonyme de la crypto-finance",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b2722005524b076da90d67e2de53d43006b560f2",
+      "title": "Abram o olho👀\n#luxemburg #emigrar #realidade #mudardevida \n#creatorsearchinsights ",
+      "url": "https://www.tiktok.com/@eduardo_f0rtes/video/7694412594685152544",
+      "source": "@eduardo_f0rtes",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "de",
+      "publishedAt": "2026-10-08T21:30:42.000Z",
+      "summary": "",
+      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/oEcFwAAqqGDXovxQCvFEQuDAEyAReBAQIofamA~tplv-tiktokx-dmt-logom:tos-useast2a-i-0068-euttp/oUKIeQgkfAE7xbDFADjVB3FfCEGMFIAcJBAIcg.image?dr=9634&x-expires=1791709200&x-signature=YugyPxrNgcP6wrZNSg362Oo11mg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Open your eyes👀",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ouvre les yeux👀",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Maacht Är Aen op👀",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "15bba437293fac57d99118e0ffe8bad3e6fa197b",
@@ -79,7 +694,115 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Malta (W) vs Luxembourg (W): Live Kommentar, Kader a Statistiken",
+          "summary": ""
+        },
+        "en": {
+          "title": "Malta (W) vs Luxembourg (W): Live commentary, squad and statistics",
+          "summary": ""
+        },
+        "de": {
+          "title": "Malta (F) gegen Luxemburg (F): Live-Kommentar, Kader und Statistiken",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Malte (F) vs Luxembourg (F) : commentaires en direct, équipe et statistiques",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8cc31b494c22885e232fbde80865fd626f6e18f0",
+      "title": "LUXEMBOURG’S OSCAR 2027 SUBMISSION CHILD COMES TO UK CINEMAS!",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXJ3dlh0S0ZiZF9YbTQwdWZCX25iWldueDZwYXVsVFZoelFXbzBLUklmcEVUR1J5V2dpS1dVcDFDcy1QRk9lSFk1aXpFNVpPaTZwdFJTYm56M2J5MERyV1hGTG5naE1LbkpBZzliZTdtSmpYQWdqT2VURk5yal9nWTBRYkRQZmJmWHdlQmJLMzYydw?oc=5",
+      "source": "Verge Magazine",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-08T21:11:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "fr": {
+          "title": "L’ENFANT DE SOUMISSION AUX OSCAR 2027 DU LUXEMBOURG ARRIVE DANS LES CINÉMAS ROYAUME-UNIS !",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'LËTZEBUERGER OSCAR 2027 SUBMISSION CHILD KOMMT A UK KINÉIER!",
+          "summary": ""
+        },
+        "de": {
+          "title": "LUXEMBURGS OSCAR 2027-EINREICHUNGSKIND KOMMT IN DIE KINOS DES UK!",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9edcce6bef9fd040f67f3a66fc4ae2822652ffdc",
+      "title": "Люксембург - Черногория 08 сентября 2020, итоговый результат и счет матча 0:1 по футболу - Лига наций УЕФА. Лига C 2020/2021 сайт Спорт-Экспресс",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbU9pYUJ6d1RTN2dWNkRwV3RpUDNGbE1oUkZHRUY3VkFtWlBncXJpbWhfdXFjem02eTVkRWNRVmVXR0ZraUJEdlZvWXJ5eTFvV21iMzVUN1dVRGRveFhtdE1tRTI5WDlSNU1rTTk0MUFuMVNVOTBPOXBvX0lVblhPTF9BTjFDTnVPaWVfcHpOWWlOQlc3dU1LWTRVbmJJb0k?oc=5",
+      "source": "sport-express.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-08T18:48:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg - Montenegro 08. September 2020, Schlussresultat a Matchscore 0:1 am Fussball - UEFA Nations League. League C 2020/2021 Websäit Sport-Express",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Monténégro 08 septembre 2020, résultat final et score du match 0:1 en football - Ligue des Nations de l'UEFA. Site de la Ligue C 2020/2021 Sport-Express",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Montenegro September 08, 2020, final result and match score 0:1 in football - UEFA Nations League. League C 2020/2021 website Sport-Express",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Montenegro 08. September 2020, Endergebnis und Spielstand 0:1 im Fußball – UEFA Nations League. Liga C 2020/2021 Website Sport-Express",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "09bef19c0446b21938fd39755cc8c8d64aa5dc84",
+      "title": "#amiens #luxembourg🇱🇺 #fyp ",
+      "url": "https://www.tiktok.com/@catrinanell5/video/7694363698869046561",
+      "source": "@catrinanell5",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-08T18:20:57.000Z",
+      "summary": "",
+      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/ok3jGeFVIIeMQhv5eEVgLDHPQcj7AmOSuGmMZQ~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=ePE%2FUBYk6NWliBMCVmChpg67Xp0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "#amiens #luxembourg🇱🇺 #fyp",
+          "summary": ""
+        },
+        "en": {
+          "title": "#amiens #luxembourg🇱🇺 #fyp",
+          "summary": ""
+        },
+        "de": {
+          "title": "#amiens #luxemburg🇱🇺 #fyp",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "f2fb593320498057699cd34ce290335da76c452f",
@@ -95,7 +818,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Suessem. En duebelen Jazzowend mam Pit Dahm an dem Luxembourg Jazz Orchestra",
+          "summary": ""
+        },
+        "en": {
+          "title": "Sanem. A double jazz evening with Pit Dahm and the Luxembourg Jazz Orchestra",
+          "summary": ""
+        },
+        "de": {
+          "title": "Sanem. Ein doppelter Jazzabend mit Pit Dahm und dem Luxembourg Jazz Orchestra",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "062f53cd5a250bc3ff395c6a169ee7abaef7233e",
@@ -111,7 +847,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "++ REFUELING IN LUXEMBOURG CURRENTLY: The price of diesel fuel is going up again ++",
+          "summary": ""
+        },
+        "fr": {
+          "title": "++ RAVITAILLEMENT AU LUXEMBOURG ACTUELLEMENT : Le prix du gasoil augmente encore ++",
+          "summary": ""
+        },
+        "lb": {
+          "title": "++ BEZUELT A LËTZEBUERG AKTUELL: Den Dieselpräis geet nees an d'Luucht ++",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0e4e5604070b714addc026f454941fc41eaf0c55",
@@ -127,7 +876,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Eurogrupp zu Lëtzebuerg, en Opschwong fir Flexibilitéit - Videonews",
+          "summary": ""
+        },
+        "en": {
+          "title": "Eurogroup in Luxembourg, an uphill battle for flexibility - Videonews",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Eurogroupe au Luxembourg, une rude bataille pour la flexibilité - Videonews",
+          "summary": ""
+        },
+        "de": {
+          "title": "Eurogruppe in Luxemburg, ein harter Kampf um Flexibilität - Videonews",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "84c55ea0ae7a09b156d89cc0a0a989c749cdbb95",
@@ -192,6 +958,35 @@
       }
     },
     {
+      "id": "8622eb535df27fd1adcaa05648e1c5f0ee1eb38a",
+      "title": "being sad in Luxembourg is a little less sad I guess 🥲\n\n#sad #luxembourg #luxembourgtiktok #firdech #traurig ",
+      "url": "https://www.tiktok.com/@maxfelleronline/video/7694310762088516886",
+      "source": "@maxfelleronline",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-08T14:55:37.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocSFKEBxIfRkWzuX4f0FPQ68qdNXjDLUxCEgAF~tplv-tiktokx-origin.image?dr=10395&x-expires=1791709200&x-signature=Vldq2nNw0TmCxtngLDgRfrKyGZs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "being sad in Luxembourg is a little less sad I guess 🥲",
+          "summary": ""
+        },
+        "en": {
+          "title": "being sad in Luxembourg is a little less sad I guess 🥲",
+          "summary": ""
+        },
+        "de": {
+          "title": "Traurig zu sein ist in Luxemburg wohl etwas weniger traurig 🥲",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "f1d71500e2d36ace670781a449adcceeb0ccfe16",
       "title": "Nazare participă la reuniunea ECOFIN de la Luxemburg: „România trebuie să își susțină interesele la…",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTWdfMmxLaHMxLVNIckE1SW1XMGdCS3hwRmFQNzhYdkNjN1pnUi1iZUNtMDZySjkzQXRUUzF4UTFnbk9EanJGQ2VDUEpqTlV0MTd5b2h1YTdGdDE5MjRkcWE4bGx4RXdGZFI0M1pKMTZmNlFnWFZsUklnZTM0VlYyYUYwUjEyNXk0cnNDSWgwUVVPRmtvdko2cUpqOWh4YmxJMThUSDBKcjc4Z1ZzQ0dVRVU0YXh3bUtSTURvbV9mNjNiUnlkbWkzay1FZHkzMFZIWXhKa0F0Q0RucjEtdkttLXcyeGlqZjZKaU5PV3c1Sk5WcjRWbERR0gH8AUFVX3lxTE1XYWdyRTVTYUZSWWdwM2VsZ01SS1dibGxYMEowNjNGWUlYZEVaMDlhejdOMGdFZTkwUXJhTENlNmpYWW1ZRVNZNkZ3Y212a3d3TVlLR244Vl9NRm1SRU5oMXRjNWx5WTl1UnpjUnFISmVLVGk5UHNzQWsydHZGc3hIY3oya0czNlhpcl9FZElwWEZvR1RnY0NSQjRERUFKS3pSeHpUd0ZtbFNOMnJDU2ROeFNaRGEya1kyUFdGVGQ1aG9WWlVocGdEMU8wN3prSmExb2JEMXdNZE9UNHNabkRId1hud2QxeWs0cW9zNU8xREJ4YnJhWFUzYVk0Wg?oc=5",
@@ -220,6 +1015,35 @@
         },
         "fr": {
           "title": "Nazare participe à la réunion ECOFIN à Luxembourg : \"La Roumanie doit soutenir ses intérêts à...",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c2dfffcc75bd75bc39ed556352ed4556969c7a5b",
+      "title": "#fyp #foryou #viral #dance #luxembourg @𝒈𝒊𝒖𝒍𝒊𝒂❦ ",
+      "url": "https://www.tiktok.com/@dl.iaa13/video/7694299657891056918",
+      "source": "@dl.iaa13",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-08T14:12:31.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/owQePVoIuD000Aj2mrgAGLILlSGbljEe1ewHZI~tplv-tiktokx-origin.image?dr=10395&x-expires=1791709200&x-signature=tCjQO%2FXKU5S1Wo73g1SxYVnn7QM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "#fyp #foryou #viral #dance #luxembourg @𝒈𝒊𝒖𝒍𝒊𝒂❦",
+          "summary": ""
+        },
+        "en": {
+          "title": "#fyp #foryou #viral #dance #luxembourg @𝒈𝒊𝒖𝒍𝒊𝒂❦",
+          "summary": ""
+        },
+        "de": {
+          "title": "#fyp #foryou #viral #dance #luxembourg @𝒈𝒊𝒖𝒍𝒊𝒂❦",
           "summary": ""
         }
       }
@@ -287,6 +1111,66 @@
       }
     },
     {
+      "id": "066faa998322688d7791a7649f0304e06582ecc0",
+      "title": "#lml #luxembourg #studentcommunities #fyp ",
+      "url": "https://www.tiktok.com/@vote4allenandmayssa/video/7694294056146423062",
+      "source": "@vote4allenandmayssa",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-08T13:50:47.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o4Wi0nEIILAVscjfhnFIHlbTP7emPIA8DDzjDf~tplv-tiktokx-origin.image?dr=10395&x-expires=1791709200&x-signature=5foYZ64HjM%2F29z5MOw88sX5I5G4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "#lml #luxembourg #studentcommunities #fyp",
+          "summary": ""
+        },
+        "en": {
+          "title": "#lml #luxembourg #studentcommunities #fyp",
+          "summary": ""
+        },
+        "de": {
+          "title": "#lml #luxemburg #studentcommunities #fyp",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "426f9012a02bac6bee95cd5750b9f020e8d38acf",
+      "title": "The European Stability Mechanism (ESM) in Luxembourg 🇱🇺 is hiring foreigners of any nationality with visa sponsorship — 3 roles open right now, all based in o",
+      "url": "https://www.tiktok.com/@nidhinagori/video/7694283351980576018",
+      "source": "@nidhinagori",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-08T13:09:11.000Z",
+      "summary": "The European Stability Mechanism (ESM) in Luxembourg 🇱🇺 is hiring foreigners of any nationality with visa sponsorship — 3 roles open right now, all based in one of Europe’s richest countries. 💼✨\n\n📌 Loan Officer (Interim) — join the ESM Lending team to help structure, process and monitor financial assistance loans to euro area countries. You’ll manage loan transactions, lending operations and reporting. 1-year contract. Great for finance, banking or treasury backgrounds. Deadline: 26 Oct 2026.\n\n📌 Traineeship – Policy Strategy & Institutional Relations — for recent grads, Master’s/PhD students or postdocs in economics, finance, international relations or EU studies. You’ll help prepare policy notes, briefings and research for IMF/World Bank meetings and ESM’s institutional partners. 6 months, renewable. Competitive allowance. Deadline: 26 Oct 2026. Starts 1 Jan 2027.\n\n📌 Interim Economist – Chief Economist Department — Master’s or PhD in economics/finance/econometrics + 1 year experience. Monitor macroeconomic and financial developments in the euro area, build analytical tools, write reports. Hybrid work from Luxembourg. 6-month contract, extendable to 12. Deadline: 28 Oct 2026.\n\n📝 How to apply: search “ESM vacancies” on Google, open the role, scroll down and submit your CV + application online. Any nationality. No agents, no fees. ESM strongly encourages women to apply. 🙌\n\nFollow me for more visa-sponsored global roles no one’s talking about. 🌍♻️ Repost if someone in your network needs this.\n\n⚠️ Application doesn’t guarantee approval or a final placement — competitive and selective process followed by final decision from relevant authorities.\n\n#MoveAbroad #Luxembourg #ESM #EuropeJobs #VisaSponsorship WorkInEurope JobsAbroad Economist FinanceJobs Traineeship",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oUmIZKefQ8cIoBjCgP2GeDQjtRALELyAuUIVQs~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=vq%2FB%2FyDY5joeWXDaz2EqRnRIo4s%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "economy",
+        "finance",
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "The European Stability Mechanism (ESM) in Luxembourg 🇱🇺 is hiring foreigners of any nationality with visa sponsorship — 3 roles open right now, all based in o",
+          "summary": "The European Stability Mechanism (ESM) in Luxembourg 🇱🇺 is hiring foreigners of any nationality with visa sponsorship — 3 roles open right now, all based in one of Europe’s richest countries. 💼✨\n\n📌 Loan Officer (Inte"
+        },
+        "de": {
+          "title": "Der Europäische Stabilitätsmechanismus (ESM) in Luxemburg 🇱🇺 stellt Ausländer jeder Nationalität mit Visa-Sponsoring ein – derzeit sind 3 Stellen offen, alle mit Sitz in o",
+          "summary": "Der Europäische Stabilitätsmechanismus (ESM) in Luxemburg 🇱🇺 stellt Ausländer jeder Nationalität mit Visa-Sponsoring ein – derzeit sind drei Stellen offen, alle mit Sitz in einem der reichsten Länder Europas. 💼✨\n\n📌 Kreditsachbearbeiter (Inte"
+        },
+        "lb": {
+          "title": "Den Europäesche Stabilitéitsmechanismus (ESM) zu Lëtzebuerg 🇱🇺 astellt Auslänner vun all Nationalitéit mat Visa Sponsoring - 3 Rollen sinn elo op, all baséiert op o",
+          "summary": "Den Europäesche Stabilitéitsmechanismus (ESM) zu Lëtzebuerg 🇱🇺 astellt Auslänner vun all Nationalitéit mat Visa Sponsoring - 3 Rollen sinn elo op, all an engem vun de räichste Länner vun Europa. 💼✨\n\n📌 Loan Officer (Inte"
+        }
+      }
+    },
+    {
       "id": "c170eb5f9663ee7fc3d0d154102a8ff503f08d81",
       "title": "Kyndryl forscht in Luxemburg an agentischer KI",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1JwVm83XzZEcXJSTUFPZ3JqYzF0VktqNERoYWl5Sk56cEJEanBtWUFfTUJxVExWV0g0bEp2YUdET2s0VWRxRElXU2pWUDd0cjZGTnctcTlnaFBEQURtbDQyaWlHekQwOWxSb0xxOW9zX294b1F0bTV3X0FkVVBGYjgxN19RX0prcXRVOFE0V1hOaXZoN0NtYTI4d1g1NTFDdlJRREl2LWNLTHVqUFE?oc=5",
@@ -329,7 +1213,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Wousst Dir? D'Brasilianer féieren d'Course fir d'Lëtzebuerger Nationalitéit",
+          "summary": ""
+        },
+        "en": {
+          "title": "Did you know? Brazilians lead race for Luxembourg citizenship",
+          "summary": ""
+        },
+        "de": {
+          "title": "Wussten Sie? Brasilianer führen Rennen um die luxemburgische Staatsbürgerschaft an",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Saviez-vous? Les Brésiliens mènent la course à la citoyenneté luxembourgeoise",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "22b993078a0c8d7dfd1c0d98d86e66c9ba9945b4",
@@ -441,7 +1342,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Videorückblick zum Spiel Luxemburg Türkiye vom 11. Juni 2022",
+          "summary": ""
+        },
+        "en": {
+          "title": "Video review of the match Luxembourg Türkiye June 11, 2022",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Revue vidéo du match Luxembourg Türkiye 11 juin 2022",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Video Bewäertung vum Match Lëtzebuerg Türkiye 11. Juni 2022",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "69c00ea0242a9d84c43d1f967fa13b1a8e69f2fe",
@@ -497,6 +1415,35 @@
         },
         "de": {
           "title": "Luxembourg Fashion Week 2026: Gilson V Couture, die Upcycling-Couture von Valérie Gilson",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c9a4e7363f947ff499abc14e045ec3a18bcd6c73",
+      "title": "#luxembourg #comedy ",
+      "url": "https://www.tiktok.com/@jupp86/video/7694236037723344150",
+      "source": "@jupp86",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-08T10:05:41.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oYfVj8jPIzDjRHMERaFUfEUvL7uxIADftiAICA~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=bFDH0KCucECdfAygqRxf4tvkMZA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "#luxembourg #comedy",
+          "summary": ""
+        },
+        "en": {
+          "title": "#luxembourg #comedy",
+          "summary": ""
+        },
+        "de": {
+          "title": "#Luxemburg #Komödie",
           "summary": ""
         }
       }
@@ -916,6 +1863,39 @@
       }
     },
     {
+      "id": "e1e9e8ee400eab69c03c4aa3c81f2cd069c34708",
+      "title": "Στο Λουξεμβούργο ο Πιερρακάκης για Eurogroup και Ecofin - Στο επίκεντρο ενέργεια, επενδύσεις και ανταγωνιστικότητα",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR1R4cnFhVjhfY1FZRUdaWTVVYTBFUzZONUZVcG16UVVDUGlZZUZaVWxxYnNUc1QwMlU3djVCc3lkR2NlUGpnQVIySkg4SUNZOXA1VzBJcUlsem1WcnFOOV82YU5obTI0MzQ0WVVlQktROFN6YVdWUDZubmp5YmVHb24xWmUzSHh6ZkZiVzU4ZXNYLWtScEM4WmIwczdOOVo1OVQ2Y0xrZlBiTGVJdV8tNE1wTzVzTGppVVJRWTg2TzR1R19adGdPUnVFMnBRZkZwRTZYc2NocVNCUE0xMzdyQ3RHd29Mdw?oc=5",
+      "source": "Η Εφημερίδα των Συντακτών",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-08T07:46:59.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Pierrakakis zu Lëtzebuerg fir Eurogroup an Ecofin - Fokus op Energie, Investitiounen a Kompetitivitéit",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Pierrakakis au Luxembourg pour l'Eurogroupe et Ecofin - Focus sur l'énergie, les investissements et la compétitivité",
+          "summary": ""
+        },
+        "en": {
+          "title": "Pierrakakis in Luxembourg for Eurogroup and Ecofin - Focus on energy, investments and competitiveness",
+          "summary": ""
+        },
+        "de": {
+          "title": "Pierrakakis in Luxemburg für Eurogruppe und Ecofin – Schwerpunkt auf Energie, Investitionen und Wettbewerbsfähigkeit",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "3640fff28d78c4cbc336b20521b25dd33d838d8d",
       "title": "Στο Λουξεμβούργο ο Κυριάκος Πιερρακάκης για Eurogroup και ECOFIN – Η ενέργεια ψηλά στην ατζέντα",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeWlLOTR2UzBlaG5lc0lNYUZQTktsOEtjc0hmS1dKRW1DRlI5QkN5dTNTU0U0Vk1Yd3pQVjRHT2h2TUFaQllYZFdHRnhYYzBvZG81S3lzX3JEUGRSTy02YXlDSVUzODUtVk9RTDVVcUtJZWZueWZzeGxaM016QnNibXowbjliT1VPSjdpd25YR3RBYnlYSXk4M3puSmVkM1oxVGNzZFEyaTRtdzZvNV9jZ3FUS0RzQlFkQS01Smw1VkctNHU1ZEYxMmh2UTJoTnliVjR3THc1NjBBQmlX0gHiAUFVX3lxTE00SWwtRC0zUUNvVXg2cnNQamNkVFNiRXIzTG1KLTEzR3EtSEVHT1Z4TVI1QU5vQ3NCS0gzZkFhZ1JJNHpYSUR0V09Va2tCVzcybFlpb2s3bzFiZjZoM1BxTlZEMGEwTE80TGpuOGtYOEdObDcxUXc1VWxZNl9YaVZZdl8xelptXzRFOEFlYm9pcmhnQnRZMnJ6bVE3THN2dE02aEdGZkxWckxhdkRQaXJDV0l4X2RTSjJjSmFLT3AyaEh6ODZIT1VHdkxTSGZHcXZCUDJTS1RpMUNLNkM5c1NzMWc?oc=5",
@@ -1185,7 +2165,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Météo routière dans la région de l'aéroport de Luxembourg Findel",
+          "summary": ""
+        },
+        "en": {
+          "title": "Road weather in the area of ​​Luxembourg Findel Airport",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Stroossewieder am Beräich vum Fluchhafen Luxembourg Findel",
+          "summary": ""
+        },
+        "de": {
+          "title": "Straßenwetter im Bereich des Flughafens Luxemburg Findel",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "580f076c598cb5c7b35ebd53e8c4b24d1711d2cc",
@@ -1201,7 +2198,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Stroossewieder zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Road weather in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Météo routière au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Straßenwetter in Luxemburg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "633ddabb54483683d4bb3cae17203a77157b4373",
@@ -1676,6 +2690,35 @@
       }
     },
     {
+      "id": "17ec32e3acfd42e70f5df3e567d87073155c319e",
+      "title": "Luxembourg Isn’t as Small as You Think 🤯 🇱🇺 #luxembourg #countrycomparison #europe #TikTokLearningCampaign #geography ",
+      "url": "https://www.tiktok.com/@geoglobeexplorer876/video/7693997215961845014",
+      "source": "@geoglobeexplorer876",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-07T18:38:49.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/okPGk0gxfAERgGD6ADRqGaC7kEFkFEAeBpAIHs~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=i8MDUNP1ICOhNSW%2FX0C061ncZx4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg Isn’t as Small as You Think 🤯 🇱🇺 #luxembourg #countrycomparison #europe #TikTokLearningCampaign #geography",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Isn't As Small As You Think 🤯 🇱🇺 #luxembourg #countrycomparison #europe #TikTokLearningCampaign #geography",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg ist nicht so klein, wie Sie denken 🤯 🇱🇺 #Luxemburg #Ländervergleich #Europa #TikTokLearningCampaign #Geographie",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "8079fae79d80aa40046572efa74406fe29a87f1b",
       "title": "Luxembourg Fashion Week 2026 : Alimac, la mode alternative et non genrée de Camila Banegas Espada",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNHFfdWxidnFuZVZBQ3ZlMnpWWlFoZ21oV1kwR3ZRb3RPZHE2NG94cWdNSmxleGg3WkR5Um44ZkRjZThVVHloNzZEcXpkTkgtcUg0VmdiRXJNNG9NX1g3d1lZWWd2cENWa3dtbjhTTzNhZGVFUXgyYU5tdFJMMGVVLUl5QmJDZTRrcHZxSHBLdzdCazJtMlFURFVWMmI2SUN6VUUxcVozR2tjcDlCVUZ0WVF1RG1mSEc0VDdZT3d3?oc=5",
@@ -2019,6 +3062,35 @@
         },
         "lb": {
           "title": "D'Foussballnationalequipe huet Lëtzebuerg mat 3 Punkten verlooss",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "520475d9f2c50b351ef0271a85297a5dcd64bb98",
+      "title": "Day 2 in Europeeee: Luxembourg edition 💶🌍🏰❤️😝",
+      "url": "https://www.tiktok.com/@ashlynbryant/video/7693949964719836446",
+      "source": "@ashlynbryant",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-07T15:35:53.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQTiWZ1tIcxEVuxBiG1BfEGRVfAiD6mAbM3qIX~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=AAiux8fe9t99kzhdbElGPz86Pxs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Day 2 in Europeeee: Luxembourg edition 💶🌍🏰❤️😝",
+          "summary": ""
+        },
+        "de": {
+          "title": "Tag 2 in Europaeee: Luxemburger Ausgabe 💶🌍🏰❤️😝",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dag 2 an Europeeee: Lëtzebuerger Editioun 💶🌍🏰❤️😝",
           "summary": ""
         }
       }
@@ -4965,7 +6037,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Bulgarien klappt Lëtzebuerg an der Nations League, Estland an Island hu Punkte gedeelt",
+          "summary": ""
+        },
+        "en": {
+          "title": "Bulgaria beat Luxembourg in the Nations League, Estonia and Iceland shared points",
+          "summary": ""
+        },
+        "de": {
+          "title": "Bulgarien besiegte Luxemburg in der Nations League, Estland und Island teilten sich die Punkte",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Bulgarie a battu le Luxembourg dans la Ligue des Nations, l'Estonie et l'Islande ont partagé les points",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "5df3ffd2509c3b2a9b9a48becb3dafd307919b23",
@@ -5481,7 +6570,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg - Bulgarien: Prognosen a Wette vun AI - 6. Oktober 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Bulgaria: forecast and bet from AI - October 6, 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Bulgarie : prévision et pari d'AI - 6 octobre 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Bulgarien: Prognose und Wette von AI – 6. Oktober 2026",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "7e6052b5a4af6d0bf837b2a7e100a980f7341ecf",
@@ -6848,7 +7954,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "ALFI Private Assets Conference 2026 Luxemburgo",
+          "summary": ""
+        },
+        "en": {
+          "title": "ALFI Private Assets Conference 2026 Luxemburgo",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Conférence ALFI Private Assets 2026 Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "ALFI Private Assets Conference 2026 Luxemburgo",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9bda1d372f09c20c30636e60fee49133cd8821ed",
@@ -6930,7 +8053,53 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Luxembourg vs Bulgarie scores en direct, H2H et compositions",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg vs Bulgaria live score, H2H and lineups",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg vs. Bulgarien Live-Score, H2H und Aufstellungen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg vs Bulgarien Live Score, H2H an Opstellungen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "01da64f0b723ba7a0ba2fe312bd8294ada2a145d",
+      "title": "Welcome to the LUXEMBOURG 🇱🇺 \n#visitluxembourg #luxembourg🇱🇺 #travelcreator ",
+      "url": "https://www.tiktok.com/@hbpastries/video/7693501538047757589",
+      "source": "@hbpastries",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-06T10:35:23.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oYz2svOINcjAiEjtzIADaBvEVVbIY4CBizboT~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=IhmgUv1pPpWySlqS0J0qHHDuWjQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Welcome to the LUXEMBOURG 🇱🇺",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Wëllkomm zu LËTZEBUERG 🇱🇺",
+          "summary": ""
+        },
+        "de": {
+          "title": "Willkommen im LUXEMBURG 🇱🇺",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "46333edc1b94c7f995763f37f4d0637e22f6b12e",
@@ -7561,6 +8730,35 @@
       }
     },
     {
+      "id": "eef936ac5115ff286318c6f8f35ece3458207bc6",
+      "title": "Part 50 Luxembourg Life #luxumbourg🇱🇺 xumbourg🇱🇺 ",
+      "url": "https://www.tiktok.com/@zole302/video/7693461503541923094",
+      "source": "@zole302",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-06T08:00:10.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oMWJjV4SVQINIcLFVDiLfeTIgGGFOKAijAeKRW~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=9dQxJU%2F7fgX2gXSSTfXm33wlOFU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "de": {
+          "title": "Teil 50 Luxemburger Leben #luxumbourg🇱🇺 xumbourg🇱🇺",
+          "summary": ""
+        },
+        "en": {
+          "title": "Part 50 Luxembourg Life #luxumbourg🇱🇺 xumbourg🇱🇺",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Part 50 Luxembourg Life #luxumbourg🇱🇺 xumbourg🇱🇺",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "8187a00a15f3be82a51cc8f85111579d0ba0670f",
       "title": "彩经前瞻：卢森堡 vs 保加利亚进球数少，看好保加利亚不败！",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16T0VCQVAwU2p4VVprVEYzNjR6Z04xOUpsUE9yNXFHQ3RSOUc0bzIwX0xIM3JHNzlEeUY0QUxBME9VN2pyNEtPVktBYnB1eTZoY1lxcEg5OA?oc=5",
@@ -7689,6 +8887,39 @@
       }
     },
     {
+      "id": "66ae82cf6a10644bc7f7a0e49833633971a54bbd",
+      "title": "Lüksemburg - Bulgaristan, 6 Eki 2026 - UEFA Uluslar Ligi C - Maç raporu",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56VVd3b0s4ejM2M1VoOXFsT3M3NHFBVzRPN2lqOU1jV2xwaEZuUXFRZTctVHRHdDIteTNvQ2tXVk5nQmlGSGMwUmNvV3lEYnYtYkZ4c0pRcnVXOTRmNFhaN1IzLUlxMy12MjdzUFJ2SnRtbzFzd1N6SXZFMlE?oc=5",
+      "source": "Transfermarkt",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg – Bulgarien, 6. Okt. 2026 – UEFA Nations League C – Spielbericht",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Bulgaria, 6 Oct 2026 - UEFA Nations League C - Match report",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Bulgarien, 6. Oktober 2026 - UEFA Nations League C - Matchbericht",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Bulgarie, 6 octobre 2026 - UEFA Nations League C - Rapport du match",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "ea4e826ce3b739185f951a438b96cfbfe61e1408",
       "title": "Προγνωστικά Λουξεμβούργο - Βουλγαρία 06/10/26",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9naWwyd0RNNE1qUTJaeElLcU1EdVg5ZHlHMnF0WFgxTFpnLWdqV19SS2l2LXMxQXNoWXZUWmVTTlhXWDA0MG4zUmdoOWk4cWZGTzBOUTVvSkh4d0ZieWpZLUV4OE9wX1hlVDJ2ZVg3Yw?oc=5",
@@ -7750,6 +8981,35 @@
         },
         "lb": {
           "title": "Lëtzebuerg - Bulgarien: Tipps, Chancen, wou kucken? 06/10 Nations League",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "87065c950223205d206bd3babdc237f448a05bce",
+      "title": "Luxembourg Wealthiest Nation in the World 🌎 🇱🇺 \n#luxembourg #europetravel #wealthiest #luxembourg #uku ",
+      "url": "https://www.tiktok.com/@infoverse46/video/7693431957186825494",
+      "source": "@infoverse46",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-06T06:05:30.000Z",
+      "summary": "",
+      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/o8F92ABqxAvnF2gAEfBIDRjCkDEfIQnAE6KgED~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=Q9AprO7oaHs%2F9xff5n2OqnYfkd8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg Wealthiest Nation in the World 🌎 🇱🇺",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Wealthiest Nation in the World 🌎 🇱🇺",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg ist die reichste Nation der Welt 🌎 🇱🇺",
           "summary": ""
         }
       }
@@ -7926,7 +9186,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg - Bulgarien: Prognose fir den Nations League Match - 6. Oktober 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Bulgarien: Prognose für das Spiel der Nations League – 6. Oktober 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Bulgaria: forecast for the Nations League match - October 6, 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Bulgarie : pronostic du match de Ligue des Nations - 6 octobre 2026",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d650d6261dd68016f62f2cb9dd32a71bd95be3e1",
@@ -8239,7 +9516,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Luxemburg – Bulgarien: Prognose und Wette auf das Spiel der UEFA Nations League – 6. Oktober 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Bulgarien: Prognosen a wetten op den UEFA Nations League Match - 6. Oktober 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Bulgaria: forecast and bet on the UEFA Nations League match - October 6, 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Bulgarie : pronostic et pari sur le match de l'UEFA Nations League - 6 octobre 2026",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c46dc54b52c196eb864d56d0617e42b90f1209b7",
@@ -8284,7 +9578,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Luxembourg - Bulgarie : prévision et taux de l'analyste - 6 octobre 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Bulgarien: Prognose an Taux vum Analyst - 6. Oktober 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Bulgarien: Prognose und Kurs des Analysten – 6. Oktober 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Bulgaria: forecast and rate from the analyst - October 6, 2026",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "f929d9cb177b8ae46340251b1771c84eb778a8b6",
@@ -9349,7 +10660,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg – Bulgarien: Prognose (cf 2.05) a Wetten de 6. Oktober 2026 fir den Nations League Match",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Bulgarien: Prognose (vgl. 2.05) und Wetten am 6. Oktober 2026 für das Nations-League-Spiel",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg – Bulgaria: forecast (cf 2.05) and bets on October 6, 2026 for the Nations League match",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg – Bulgarie : pronostic (cf 2.05) et paris du 6 octobre 2026 pour le match de Ligue des Nations",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b34585db3c401505f54880dd4cbd37962a4e731e",
@@ -9789,6 +11117,35 @@
         },
         "fr": {
           "title": "\"C'est un renfort !\" Noel Tanzer surprend au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "57dca939a4a17a0b2415a648f77d778159b31e17",
+      "title": "I thought this was a nice place … now I’m scared 😟 #luxembourg🇱🇺 #motivation #overseas ",
+      "url": "https://www.tiktok.com/@lawki92/video/7693180189294988575",
+      "source": "@lawki92",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-05T13:48:46.000Z",
+      "summary": "",
+      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oYfpq6yVwBEFb5hIDIMi6UAE4GhAsq7fDERDEX~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=r%2Bxke6TMTr1SN5KOnk1lztrU0co%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "I thought this was a nice place … now I’m scared 😟 #luxembourg🇱🇺 #motivation #overseas",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ech hu geduecht dat wier eng flott Plaz ... elo hunn ech Angscht 😟 #luxembourg🇱🇺 #motivation #ausland",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ich dachte, das wäre ein schöner Ort … jetzt habe ich Angst 😟 #Luxemburg🇱🇺 #Motivation #Übersee",
           "summary": ""
         }
       }
@@ -10530,7 +11887,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Parfüméierter Lëtzebuerg! \"Emei Snowya\" geet erëm op d'Mier! |Chengdu Stad|Fangermolerei|Immateriellt kulturelle Patrimoine|Mount Emei|Kultur",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fragrant Luxembourg! \"Emei Snowya\" goes to sea again! |Chengdu City|Finger Painting|Intangible Cultural Heritage|Mount Emei|Culture",
+          "summary": ""
+        },
+        "de": {
+          "title": "Duftendes Luxemburg! „Emei Snowya“ geht wieder zur See! |Stadt Chengdu|Fingermalerei|Immaterielles Kulturerbe|Berg Emei|Kultur",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg parfumé ! \"Emei Snowya\" reprend la mer ! |Ville de Chengdu|Peinture au doigt|Patrimoine culturel immatériel|Mont Emei|Culture",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "509bd8897efe17f20fb14a7df49dd7142edbe380",
@@ -10546,7 +11920,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group New Economy Fund (Lëtzebuerg) B (USD) - AUD | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group New Economy Fund (Luxembourg) B (USD) - AUD | Juheng.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu de Capital Group New Economy Fund (Luxembourg) B (USD) - AUD | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den Capital Group New Economy Fund (Luxembourg) B (USD) - AUD | Juheng.com",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "af3f895c8ed011075207c06fd3de21bae47b66d4",
@@ -10946,7 +12337,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Luxemburg – Bulgarien: Prognose für das Spiel der 4. Runde der Nations League, Wette für 2,25",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Bulgaria: forecast for the match of the 4th round of the Nations League, bet for 2.25",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Bulgarien: Prognose fir de Match vun der 4. Ronn vun der Nations League, wetten op 2,25",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b27326263c0587a0b00c25a9b0c5a633287559c5",
@@ -11196,6 +12600,31 @@
         },
         "lb": {
           "title": "Galerie de Luxembourg Football Stadium / gmp Architects - 12",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fd842b322724b35adeeb2929ed3df2ca0e25ad4c",
+      "title": "Travel day to Luxembourggggg😝😝😝\n\nAlso it’s not in Germany so disregard that😳😭😂🥰",
+      "url": "https://www.tiktok.com/@ashlynbryant/video/7692929897269955871",
+      "source": "@ashlynbryant",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-04T21:37:09.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oox5RibCiIDEAgYQWCfOAABAIAiM1BK3iALwBY~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=eY1vn6q9bft%2FE0HRTFkVp%2B3yxbs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Reesdag op Lëtzebuerggggg😝😝😝",
+          "summary": ""
+        },
+        "en": {
+          "title": "Travel day to Luxembourggggg😝😝😝",
           "summary": ""
         }
       }
@@ -20361,6 +21790,22 @@
       "translations": {}
     },
     {
+      "id": "15080f893120ac08167cb52682dcd610e49c7fe5",
+      "title": "Estonia - Luksemburg Powiązane wideo: Piłka nożna na żywo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXVaXzlNUzVSc3B3ZjFtLUFQaGotYmc2djRJUk00MlRNUWhCMnphNnUyckpKcU5FM1ktLWpHMnU2TUcyQlVnbXktVzBaMFU1VU5KTC1vS1l0cVhJVVRvV0Q2R21MOHJvVXB2V1J6X0dtd0tDanZwanZjbWtWQmlQSjNvMmYtbVRodm1Xa09ic0wxemtpX2xyMEQ2eGV2cHVMY2h0a09Fa01oV2Nxa3FkWWtRYWpMZw?oc=5",
+      "source": "Eurosport Polska",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-10-03T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "e095f484dcdba6c275b6471d4b7f17a5c4429785",
       "title": "- | TF1+ Luxembourg 🇱🇺",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhZnZhT2RCTjVJZjZWSWY0aF9WRjdtTGliZUpsYXJ6dWtLVE5oaHlHNUVvWjNfQ3hsd0R5azU0T3lHQUJGY200N2FUTWMtSDgwLThMQVJQSlZSOGhGZ3V4MVhpcmtyZ2tyVk1hLVhBNzgwdzR6WVFj?oc=5",
@@ -25888,6 +27333,22 @@
       }
     },
     {
+      "id": "b1151dc4ef8ac7391a46970efa61b8e5d6fb41fd",
+      "title": "Voici pourquoi ce petit pays est si important pour l’économie mondiale 🇱🇺 #luxembourg #luxembourg🇱🇺 #europe ",
+      "url": "https://www.tiktok.com/@brunomaltor/video/7691722057037401377",
+      "source": "@brunomaltor",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-01T15:30:00.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/o4EkfqIQQNAqJ3fejfLY8OF9yHZ2IRA2GGPGI2~tplv-tiktokx-dmt-logom:tos-useast2a-i-0068-euttp/oARCxFDdA03fFyvRHq2tAIm88AIEQAjjDnfZEQ.image?dr=9634&x-expires=1791709200&x-signature=ZQ5FwLjA4ShmInxo4SUG2Sl%2FINA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "economy"
+      ],
+      "translations": {}
+    },
+    {
       "id": "3e164e20320b3b2ed878d84855ebf3c97c4b46a9",
       "title": "Après un an d’enquête, quatre hommes reconnus coupables de contrebande de tabac entre L’Aigle et le Luxembourg",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTlNiOF9QSzVhZG1GdUMzcjJ5VXhza2VhSF8tdVdObVJ6SmJSRTBSNTYwT3lBNnRqMmdVV3owTEFhQTloM20xdnB0MkpyZzBHM09HWXR4N3VCZndhZ3NYRTVGcEZfWEx0MW5LUGNOUm1veFktNk9RM1FLUEJhSlRPb0NIbEZZSFAxX2g4OXJ4d2VwTmh0Tk4tLXhGd0t1OXQ5dWZDcVVIQmlZRzBUR09NUUxXalRrcW82WnB1SU51TUVEMjJjU3ZuNXR5b3BxWW56QmJtcFl4dmxqYlMwcWFfZWNJUS01VDVTTnlKRlBBZmFBaXJFdUtOYWN6WDBpTEZNWmdFN1M1MkgyVFR5V3M5ZGlrYzdWUEU?oc=5",
@@ -26824,6 +28285,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "e8740cf048034ac142aca929a12964100fbd9ec1",
+      "title": "Richest Country in Europe😱😱 #luxembourg #richest #europe #viral #fyp ",
+      "url": "https://www.tiktok.com/@globaltruth3/video/7691638823561841942",
+      "source": "@globaltruth3",
+      "sourceCountry": "",
+      "type": "tiktok",
+      "lang": "fr",
+      "publishedAt": "2026-10-01T10:07:11.000Z",
+      "summary": "",
+      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/okZ8NVFcedUIiYR8sAQ8g1LefRfAuLIGCqgMeM~tplv-tiktokx-origin.image?dr=9636&x-expires=1791709200&x-signature=%2BRdA53UxecKeKPhwLlud3xjE%2FA8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "baa33e1dadbdd0809ca7407603c07c5c53b141d7",
@@ -38593,6 +40070,22 @@
       }
     },
     {
+      "id": "8c4ccd0be991f8cf11d9ac545655d305936e3ab9",
+      "title": "Lüksemburg-İzlanda maçı izle: Lüksemburg-İzlanda maçı saat kaçta, hangi kanalda?",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNXLTBkYWh3OE5XMS02c2VPX3paa2pxOFdGWW1fTEhzS2VVbW1mZHJGN3pGX29LVy1lUjhHTk53LThPVGVqYzlpS29VaEdIdHJYTzA4VWlBdE5MekRLM3pKVzh4LTRlTF83QjNNWUVFVVQ0bVdjd1dnQ2dPYWZJTjUzZHFYOUd3VmVySkx4dXZmc1ZDa2FaYTNnZFRQUVpy0gGmAUFVX3lxTE0wdWVGQ0hKU21seVozUGoyRjFxSjQ0bHBuMGdyVXpITG9kRjhpc250ZVhaQ0JaNkRzZVRCOTZ5c3Z3Rl91VkhEODUtUUhPSEpLa19CWlktUFd4YmJId2dzNzJvbV9za01fV2wtNU50aHZza25faS1aM1VSWW0tYkY5R3ZFTTFZTF9TczdtVXdRaVRSbHJsNEdndGN5NnJ5MUxRbnNjZkE?oc=5",
+      "source": "Fotomaç",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "490c6fe744eb6d59ea4229d8c9bae29416b71df1",
       "title": "Luxembourg's ANote Music raises €2 million to transform music royalties into an accessible asset class",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWWNLc3dLWHRTM2JEODhZenZJQk5MR1JLdjFlQ19CbHd3TmNJbXY5dFNnN1EtM1U0bnVIRVZlNlI4LTJmY2cyakplRzk1OEtnVllpRHJoYnY5SHRpR3FISzd2SGZJTkxJQTBMckJWeW15TXNueVp5UGtOOHMzLXJaRUpxaXkwZW9VbllOemhnR2ZQclk1N3p4eHdJa25IVGg5M1JnMVlqRmFtUmNUZVkyaDJBT2lja1lJWjZISEF3RXVYUmw1bkdPR2Q2RHpiTHRwYWF5NA?oc=5",
@@ -44798,6 +46291,22 @@
       "translations": {}
     },
     {
+      "id": "45241273ff7ca6fd1ca2e41bf82436ed486110f4",
+      "title": "卢森堡客场二比一击败保加利亚，前沃尔斯克拉球员蒂尔攻入制胜球| Mezha",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkV3VfelhOeUwwZkRuTV9lcENPRE9DZDRWLVUyT3hpM0tVZ3llZHZ0UEhYZWoxNTlzeDlwTGhPY2VIZ2g4dDk3S3I1eG13TlpZNzA0ZGtOTUczb1R2dnROYWZROExVX0dob25DeQ?oc=5",
+      "source": "mezha.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "8ebe9c083d842e5311db2a4ee46eec4d580087ba",
       "title": "Люксембург на выезде нокаутировал Болгарию и вышел в лидеры своей группы",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZcFltSGdDR19SNVY5bGR3eUpDeWM4X3AzT0k4MlNYUjI0cTNLa1VER3ljRkV2NEJacnJnRUFXdVdYZ1VtaDcyUw?oc=5",
@@ -45487,1310 +46996,6 @@
         },
         "en": {
           "title": "Highlights: Bulgaria - Luxembourg 1:2",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5999489d4b37daa35e2e46a4f0827d022761fe2f",
-      "title": "Sampdoria in ansia: si è fatto male Sinani con il Lussemburgo. Brutte notizie sul suo ginocchio",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOanpkT05vcXNZQ3ZhdE5oVVdHT2lHdm1ZdndLYm0xWThpSVdJWjhVQUlIRDJmNi1xdFFkT2F0SmFLYlZCdjBqYjZkTWo2VWxiOGNna1R3SFVxUXNOMkVpM1l2NWR0Q25VLXZiNG1uM3NWR3FJeFpFaWFaeTItQlhicVRaRmJ1X0RpTVZBbEtBWGNVdlp2US1vQmw1QUdQOXJ5cUVUY2tiNHdTYWt4ZU5DSWpkLTh6WE9ZS2xjLXViRXp4RlNsWHN3WVQ2VG9oVXFrYVpXRFpMeFc2U2VhdG44ZGhMUzU1Mkg4NGhB0gHwAUFVX3lxTFBCaHNSM3RRYnEtaHFVOVJ5UUhwU01YMUlDMk5jbDRELS1nZVNHZDh5VzJMdjJwbmtJSHpmOWVtQlFEZU53WFRmSGZJdTdLYU4tZjZlUHptNEt0MzlvWXkxaUFNV3ROYU9LSllVUE0wdzg0VGRMZUxpZk8yLWp3eVdoVVpFaDBYQlJmeF9aUjctWWZCSlBOa0VzenoydmxxZ2lIalpPZ2dESVFWNjR5VnpsLXFtM3hiYmtjSlFZVTluRFlOYTdHSHBvcmhrc2ZSaEx1QWdxeVlteWJKUG5uZVVKaWdRcGdGdElDejRxZGZnYg?oc=5",
-      "source": "la Repubblica",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-09-26T22:57:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La Sampdoria inquiète : Sinani s'est blessé contre le Luxembourg. Mauvaise nouvelle pour son genou",
-          "summary": ""
-        },
-        "en": {
-          "title": "Sampdoria anxious: Sinani hurt himself against Luxembourg. Bad news about his knee",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Sampdoria ängschtlech: Sinani huet sech géint Lëtzebuerg verletzt. Schlecht Noriicht iwwer säi Knéi",
-          "summary": ""
-        },
-        "de": {
-          "title": "Sampdoria besorgt: Sinani hat sich gegen Luxemburg verletzt. Schlechte Nachrichten über sein Knie",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d74b25be50aed61fa901c703491d2f08fdcc9781",
-      "title": "Sestřih utkání Bulharsko – Lucembursko",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTJsRDFDU0ktZUQxRlpYVTNIZ1J1WUNtTkZNeWhMeWV4UTJ2VVRZdjFPMEIzcmtoNFMxNUlCY1lxeTFaLTQ0a3FtcEZ6ZlZPWnAzSnVmdVpRMUtlYVRlN3dHQ1Q3ZjI4U2I2LTlzSEhSUWMtNmJWdUpfNnhHODQ0d2tfTHVNUm8?oc=5",
-      "source": "sport.ceskatelevize.cz",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-09-26T22:32:55.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Bearbeitung des Spiels Bulgarien - Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Editing of the match Bulgaria - Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Redaktioun vum Match Bulgarien - Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Montage du match Bulgarie - Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "89d0edbc3de25613acc0c41c27b9cfa2d9ca8e0b",
-      "title": "Highlights Nations League: Bulgaria - Lussemburgo 1-2",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR2kwaWRIeTZUeUZJbHhVQmphZGRnY2lCVGhtNGJNVDFLbnE0cHZLR2Q2NGp0Q1FGa2lOY0xxTHdxaVVhdEdpT0t4YWNLN25NR2NBaEtVYWlnbTFnRmRJTFF1LVlBTTAtOVh2Z09NQ1lBQXE1bGRkQTJ2V0tmZ2tfMHpBVkFpNDc3dGx5dlJLR1ZjT2tyTlJyY2hsdWR2TjBVaGpuR1RScTRSU3ZhQktRYk1mVnp0Zmt6NV9kUWMxUkxVNWFrQUpTTG5ZcGlBYVZuNDVtZzgzV0t3OEU?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-09-26T22:30:54.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Highlights Nations League: Bulgarien - Lussemburgo 1-2",
-          "summary": ""
-        },
-        "en": {
-          "title": "Highlights Nations League: Bulgaria - Lussemburgo 1-2",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Temps forts Ligue des Nations : Bulgarie - Lussemburgo 1-2",
-          "summary": ""
-        },
-        "de": {
-          "title": "Highlights Nations League: Bulgarien – Luxemburg 1-2",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a70fb4e27ae0d6514bf28a99cc801ce7400047e7",
-      "title": "Liga Națiunilor. Spectacol în Anglia - Spania » Luxemburg s-a impus surprinzător în fața Bulgariei. Rezultatele zilei",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LWlloRGtfaVQ0VUhrbkNFMzRlUVVMRkVpejduZmJzcGUtVGJtak5paEJpbmo3cHhhV0xUN2JmQVZKd0thbUNSakItT2NkbVdZejF5U2lSZDVTSzl0WS1FY2FaMzZ6TlBtYi1GV3M3MWlvWm9QR1E?oc=5",
-      "source": "GOLAZO.ro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-09-26T22:22:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Liga vun den Natiounen. Show an England - Spuenien » Lëtzebuerg huet iwwerraschend géint Bulgarien gewonnen. D'Resultater vum Dag",
-          "summary": ""
-        },
-        "en": {
-          "title": "League of Nations. Show in England - Spain » Luxembourg won surprisingly against Bulgaria. The results of the day",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Société des Nations. Spectacle en Angleterre - Espagne » Le Luxembourg a gagné de façon surprenante contre la Bulgarie. Les résultats de la journée",
-          "summary": ""
-        },
-        "de": {
-          "title": "Völkerbund. Show in England - Spanien » Luxemburg gewann überraschend gegen Bulgarien. Die Ergebnisse des Tages",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7142a5b20e135004d758d45d0ba348fc2e93f263",
-      "title": "Jurídico de Vorcaro relata a banqueiro operações em Luxemburgo e Cayman",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakN6azE1bF9hc3JRTFB0dm1HQXlVYUtTMER6Mk1VTkdrWXM5U0VqaTU3cWNqV2twcERhQ0ZpMGJaNV8yS3R2U1I4cFkyODlKNmt5dVJmUGFSN2NEVUZmbWJIY2k2QWQ5enJ6YzBiVlZyRE5jN2gwRFdUZkxGaVoyLVU2anhYQkZYZnZQU2xMTTZNNGJudHZ1NDZLckFuS2d4d3lRZHY4Z1MwV0E?oc=5",
-      "source": "VEJA",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-09-26T22:19:05.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vorcaro Legal mellt de Banquier Operatiounen zu Lëtzebuerg a Cayman",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vorcaro Legal reports to banker operations in Luxembourg and Cayman",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vorcaro Legal ist den Bankbetrieben in Luxemburg und den Cayman-Inseln unterstellt",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Vorcaro Legal rend compte aux opérations bancaires au Luxembourg et aux Caïmans",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a8beae3396fac89c130d8a43d4615344e7e6190c",
-      "title": "Vincent Thill offre la victoire au Luxembourg en Bulgarie",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZjI0X3ZYdEFKZFI3YUVfODNZLTZqaFpZaDZMUVNiZ2R4YjV4OUxkQndYUVFHRkJ6eXBpbkl0bUp0eHdGbkJIZmZJSDRSVWNacXRlcDc4dllsMDRRa0xSaElULUROVmlxdlpCdEFGdm02ZUlmLW5SNl96MUxCRWExX0xuNzV6N29QbjB3UUNXSF9pbXNyX3NDNjl4YldrQ3NDQzdoR2YzcS1ISThXZHNubnpsdDhBRmktM3VWclZCQjVpenl5amNCcHJfTjVDVTFDTzRIZVhR?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-09-26T22:11:55.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Vincent Thill gives Luxembourg victory in Bulgaria",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Vincent Thill wënnt Lëtzebuerg a Bulgarien",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vincent Thill beschert Luxemburg den Sieg in Bulgarien",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "14e66ee784443991ead20d67216a4bf82fcbb80d",
-      "title": "Španělé v Lize národů přemohli Anglii, Lucembursko nečekaně skolilo Bulhary",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONWlTSU84bzBGRk1WSElKTWNqRUxoQTlCaWRTUWF1SThBVXIzbGhaYUFOYVFrTFdkSlNWRURVYUFQQnloLTZ3eExoQ2lKRGM4bVNYX1haalYtMWFmdXRsMHZ4dDFsejlxeFhoUmtBWmNWY055MkVxZmpFMERlX2U0MlVjckttczA0ODA0dlhBYTZwSHhfTFFWQTI5ZnlaZjhTWUN4VnI1V3Q3cmxuaDJTZkdLUGM4VnkwbFp0MVVNUnlZRzV6YVBsdnBRZlBBWnV5OS1QNHVfcjctMW84YlE?oc=5",
-      "source": "iDNES.cz",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-09-26T21:47:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Spuenier hunn England an der Natiounen Liga geschloen, Lëtzebuerg huet onerwaart d'Bulgaren geschloen",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Spanish defeated England in the League of Nations, Luxembourg unexpectedly defeated the Bulgarians",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les Espagnols ont battu l'Angleterre à la Société des Nations, le Luxembourg a battu les Bulgares de manière inattendue",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Spanier besiegten England im Völkerbund, Luxemburg besiegte unerwartet die Bulgaren",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "644ba85c2c4433f4a5e9c848130ef77f5145f160",
-      "title": "Luxembourg Beat Bulgaria 2-1 in Nations League Opener as Former Vorskla Player Scores",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pc0hyTkY4Q3BQYU9pSFliMXFRdEM1Z1Z3MDY3eWNjNDdUb1FfRUJTZkhvekp4VDZwaXRYYnduRjFic2xOWU95NklISk9OUGRIc2U4czBzSGtycE1Sa1l6OVhKOVhXTHRvNnF6ZjBR?oc=5",
-      "source": "Межа. Новини України.",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-09-26T21:40:26.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg huet Bulgarien 2-1 an der Nations League Opener als fréiere Vorskla Spiller geschloen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg bat la Bulgarie 2-1 lors du premier match de la Ligue des Nations grâce à un ancien joueur de Vorskla qui marque",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg besiegte Bulgarien im Eröffnungsspiel der Nations League mit 2:1, als der ehemalige Vorskla-Spieler punktete",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "db845bfb2805d10c52b1dc05ed2253bf97555cb6",
-      "title": "Люксембург переміг Болгарію у Лізі націй: вирішальний гол забив ексгравець «Ворскли»",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51TFJNLUdmUWFyQU9sYk5PVGhmdU9vM1ZyWktLdUtRLU9vdHFVZlVRYy1ROFN0UVU2eDNpWm45ZDFRQVk2a1RoWUFkMEozWDZlcTdrYjlxNk55eDVvVkRQYmVlY1VvdE4zWHM3Ug?oc=5",
-      "source": "Межа. Новини України.",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-09-26T21:31:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Luxembourg a battu la Bulgarie en Ligue des Nations : le but décisif a été inscrit par l'ancien joueur de Vorskli",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg defeated Bulgaria in the League of Nations: the decisive goal was scored by the ex-Vorskli player",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg klappt Bulgarien an der Liga vun den Natiounen: den entscheedende Gol huet den Ex-Vorskli Spiller geschoss",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg besiegte Bulgarien in der Nations League: Das entscheidende Tor erzielte der Ex-Vorskli-Spieler",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "88f88a5de4f805bcd0eb449cb26c72697b0178ba",
-      "title": "Nations League, Asllani trascina l'Albania. La Finlandia ne fa 7 a San Marino, vincono Svizzera e Lussemburgo",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVlc0cndqTmlMdldtTGc1RHJQTEowckxRQ2cxSEtyQzRtVFotbEVJYnVxT2pLZ0RsSVJHVnVMaVNEWFZZQnpWRVBsQUIzVXBtNnM1cmhSZHhDZVVfOTkxRWQzZzhpbm9GbEpLdU5VNHBIbXNKbWIyR1JHNmtLc2g1Qm1fckhLb0FIY1NQeU00RTBJZmtoN2g5NWM2cV90TmdwTkU4dTVxZGNOVnRNREMzcjZDeVFmRWhaM3ctNG1QRXU0djdCdXVVMThQTGZNV2RrZWJmLVh3Q0hMOEdCdDhuQmhBNWNtM0Q1ZTJxandHMFhqT3pf?oc=5",
-      "source": "Calciomercato",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-09-26T21:05:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Nations League, Asllani féiert Albanien. Finnland kritt 7 zu San Marino, der Schwäiz a Lëtzebuerg gewannen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Nations League, Asllani leads Albania. Finland scores 7 in San Marino, Switzerland and Luxembourg win",
-          "summary": ""
-        },
-        "de": {
-          "title": "Nations League, Asllani führt Albanien an. Finnland erzielt in San Marino 7 Punkte, die Schweiz und Luxemburg gewinnen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ligue des Nations, Asllani mène l'Albanie. La Finlande marque 7 lors de la victoire de Saint-Marin, de la Suisse et du Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a4fa4b5f964a218a8138e768ce7adf8bbe077da3",
-      "title": "Liga národů - souhrn 26.9.: Španělsko uspělo ve Wembley, Lucembursko slavilo historickou výhru",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWJOeUU1TVhlZk44bUEtMFF3amVqU3R6MGNIYnh6X3ZtQk9JcTRieFFVV1NSVXhVaHY2Yy1RM0dyR1U4MDdsaUpyc1lyLXhXaTQ4N3NiSllwRWR5dzkyUHZpY0lnT3p3MFZhYzByYU5KN013S2ZMNjdTZXlMdlJvZk9ZMzRMRGpGNWdWbHd6Sk9xYlNwTGYxRmNXVEZBUlZDaW1BSEg0UFRBLU9SeG5ZOFRDM1RXcGRRUUhfTW8wUzEtNk5xdC1VdWNB?oc=5",
-      "source": "Eurofotbal",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-09-26T20:51:10.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "League of Nations - Resumé 26.9.: Spuenien huet et um Wembley gelongen, Lëtzebuerg feiert eng historesch Victoire",
-          "summary": ""
-        },
-        "en": {
-          "title": "League of Nations - summary 26.9.: Spain succeeded at Wembley, Luxembourg celebrated a historic win",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ligue des Nations - résumé 26.9. : L'Espagne a réussi à Wembley, le Luxembourg a célébré une victoire historique",
-          "summary": ""
-        },
-        "de": {
-          "title": "Nations League - Zusammenfassung 26.9.: Spanien war im Wembley-Stadion erfolgreich, Luxemburg feierte einen historischen Sieg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3b5593386325f0baebd33d92ece40f19346e590a",
-      "title": "Албанія била білорусів, екс-гравець Ворскли і одноклубник Судакова принесли перемогу Люксембургу: Ліга націй",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcFZUWUc2RS0xYm8xQnIyTnNpNTlteDJfYTB1S0RfUkk3UVZBQzVfMFNhSVlwWU1ITC1JczgyYlY2dXIyQjNyN01FV2Y4UEdxd29WcFgxekVmby1FNU5qWS12c1M5NG1VTVpPU0hBSkExOTRCSUZBUFlERkFoaG1ZR2phemxTd0tYUnFkZFI2MUYzNzVFQzBfVnpNb2JOYWkwUTMxdzRoT2ktT2ttXzF6MXM1ZEdqT202dUFOY3U4ZGxEbTZPM1NZSzIwNzBrSFNXeUhiR3lWZDR6V3BrLUU3blc3Y3XSAeoBQVVfeXFMTjVVNzliNmZsUEZWUVF0clB6LXgzVWhXdWlZOFRZaVA1eFU4Q1RxOVQ2eUh6OWR6ZEE4dXBFRkdKazF3d1lxSi1UV0RQMEx0ZW44VVFZenF4cG1QQ3dNbFBabEZnNTBPYzFpai1DSkNTbWMtMU1kZTNTNFJOVDNuNG5McWtZZTlMWV90ZzdIRHd2V2hHRmE2SkZEUTFURU5vZnlKN1JvTjFtcF9NV3lFbVlHb1NSX0poa2pCTXd6SU95RTNLdkdhbUljT3J4RUtIa1o3ZnJlTy1td1U3SjEyYlpTN0xVWEhGb0p3?oc=5",
-      "source": "Футбол 24",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-09-26T20:46:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Albanien klappt Wäissrussland, den Ex-Spiller Vorskla an den Teamkolleg Sudakov hunn d'Lëtzebuerger Victoire bruecht: League of Nations",
-          "summary": ""
-        },
-        "en": {
-          "title": "Albania beat Belarusians, ex-player Vorskla and teammate Sudakov brought victory to Luxembourg: League of Nations",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'Albanie a battu les Biélorusses, l'ancien joueur Vorskla et son coéquipier Sudakov ont apporté la victoire au Luxembourg : Ligue des Nations",
-          "summary": ""
-        },
-        "de": {
-          "title": "Albanien besiegte die Weißrussen, Ex-Spieler Vorskla und Teamkollege Sudakov brachten Luxemburg den Sieg: Liga der Nationen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "15ae8133c21a5a9a7a59805edbacccded67d0a9e",
-      "title": "Люксембург - останні новини, результати та події клубу",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2cy1oOEFlNDFCQmRUTVc5MkN4YWtSdjZNeVZUcUplNjI5T0Ytdy1NRUxkYWY1NHNIam13aXoycVNhazc5UjZPNGxMWTVncFYwV19ObG1WSURDNW8?oc=5",
-      "source": "Футбол 24",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-09-26T20:46:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg – aktuelle Nachrichten, Ergebnisse und Clubveranstaltungen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - latest news, results and club events",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg - Neiegkeeten, Resultater a Veräinsevenementer",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - dernières actualités, résultats et événements du club",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bd0732a80e1286a32dca7a14c1b67364cd32f9e4",
-      "title": "Збірна Болгарії з футболу - Збірна Люксембургу з футболу: огляд матчу 26.09.2026, Ліга націй УЄФА",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWWXlzS084a2VLSGFBcUR6dV8ybUpRLVJUaE5xcmdHRFZNM0JUMkoyaTNvWG95NzBVdG5RUEJWdUwySjJITThXb2c5TUE1aVhxSjRQNlMzM0FzTnU0VEVlQQ?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-09-26T20:45:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Equipe nationale de Bulgarie de football - Equipe nationale du Luxembourg de football : bilan du match 26/09/2026, Ligue des Nations de l'UEFA",
-          "summary": ""
-        },
-        "de": {
-          "title": "Bulgarische Fußballnationalmannschaft – Luxemburgische Fußballnationalmannschaft: Spielrückblick 26.09.2026, UEFA Nations League",
-          "summary": ""
-        },
-        "en": {
-          "title": "Bulgaria national football team - Luxembourg national football team: match review 09/26/2026, UEFA Nations League",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Bulgarien Foussballnationalequipe - Lëtzebuerger Foussballnationalequipe: Match review 26.09.2026, UEFA Nations League",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7a9439e8ff320ba0d70d1726ec46e220feb579f2",
-      "title": "Lüksemburg - Ayrıntılı kadro 2017 (Galeri) | Sayfa 2",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGs1YlVOMXU2NFpyRnotc2hTakpTazlQcUtlQ2lmVDRfcEtzN3FHNnJndHJYZjkxNTRDUXRBTEg1OWpuek1SbUthZm5BcHpOcURfcjdNRTZvZW1qR2tONi12eFNwQUpxeVNfU1IzOVQ5RGU0LWVtcE11WHZCTTlyX3FIa2JXdlpCb0tVeUN1aGlhdFRMeDVUSXRQSEVUR1Y4UFE?oc=5",
-      "source": "Transfermarkt",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-09-26T20:34:55.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Luxembourg - Effectif détaillé 2017 (Galerie) | Page 2",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Detailed squad 2017 (Gallery) | Page 2",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg - Detaillierter Kader 2017 (Galerie) | Seite 2",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg - Kader détailléiert 2017 (Galerie) | Säit 2",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d26dfb94296ad0683e9a8c28b3c90b109c09a784",
-      "title": "Hockey sur glace. Huit buts, la qualification... L’Étoile Noire de Strasbourg s'est promenée au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGVTYVZHNmhmVWU4Qlc2WWxRWFJFTW5aTnVsajVwMnoyRk9aY0l6OUozcEpoQWY4Qk9NTWJiVGRvUl9KMFl4c1lCR21xVWlZNGptSzQ0VHZudDZIOHl1ZFJUQ2VJRTM3NEVVQTJkRk5obENJSTZqQXQ5X1dkeEtBNjluSlBRMEpleW9RTGo3THBMOWxSbTJseS1YQ2p3b3Q0eS1QRmpOWmJZXzZNbVpfZW5jTVdEcHIyNlo0?oc=5",
-      "source": "dna.fr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-09-26T20:21:30.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Ice hockey. Eight goals, qualification... The Black Star of Strasbourg visited Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Äishockey. Aacht Goaler, Qualifikatioun... De Black Star vu Stroossbuerg war op Besuch zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Eishockey. Acht Tore, Qualifikation... Der Black Star von Straßburg besuchte Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "066a25262970d9bc240cec73d9cac5aaaa3c9dff",
-      "title": "09月27日 欧国联C4组第1轮 保加利亚vs卢森堡 全场录像",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fWVkyNkk5dTh3YXJod2h0aTBaT3JCTlpIV2M4bGY1NGxVRF82cThSZEhKblRiOFByTjMzTDF1Y0toQXhVNUZST0VOeFRyd2tVQkJmeldsaW92VGlHYWtGV0VHRHJuaHdWdzRrSFNEZ0hKZw?oc=5",
-      "source": "zhibo8.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-09-26T20:02:12.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "27. September, UEFA Nations League C4 Gruppe 1, Bulgarien gegen Luxemburg, vollständiges Video",
-          "summary": ""
-        },
-        "en": {
-          "title": "September 27, UEFA Nations League C4 Group 1, Bulgaria vs Luxembourg, full video",
-          "summary": ""
-        },
-        "lb": {
-          "title": "27. September, UEFA Nations League C4 Group 1, Bulgaria vs Luxembourg, full video",
-          "summary": ""
-        },
-        "fr": {
-          "title": "27 septembre, UEFA Nations League C4 Groupe 1, Bulgarie vs Luxembourg, vidéo complète",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5349998f68af1912842cca4755816cd96f74c040",
-      "title": "欧国联-巴雷罗破门蒂尔制胜 卢森堡客场2-1逆转保加利亚",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vR2tQSktMSE9BZ3FlR29sSW9NcHFib1M1UEhnRTEwRTBIb3R3X2VSeFpSdHJsRVVfbjJkZ3prSjhUemw2UjZNTUJYeGJpUzhuaExTSjR2dE5VdFV1bGp4SDA3dGxPMTJXQmhv?oc=5",
-      "source": "zhibo8.cc",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-09-26T20:01:37.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Ligue des Nations de l'UEFA - Barreiro a marqué et Thiel a gagné, le Luxembourg a battu la Bulgarie 2-1 lors du match à l'extérieur",
-          "summary": ""
-        },
-        "en": {
-          "title": "UEFA Nations League - Barreiro scored and Thiel won, Luxembourg reversed Bulgaria 2-1 in away game",
-          "summary": ""
-        },
-        "lb": {
-          "title": "UEFA Nations League - Barreiro huet geschoss an Thiel huet gewonnen, Lëtzebuerg huet Bulgarien 2-1 am Auswäertsmatch ëmgedréit",
-          "summary": ""
-        },
-        "de": {
-          "title": "UEFA Nations League – Barreiro erzielte ein Tor und Thiel gewann, Luxemburg besiegte Bulgarien im Auswärtsspiel mit 2:1",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8faa06cbc3399e66af02587fc211c58661203039",
-      "title": "Болгарія поступилася Люксембургу в першому турі Ліги націй",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWRzQzA5NDl0a1dieVFybjZ5RjlreFo0VUdMay1xbTdLeFozZlMtQU5HSFN3QWo0YmRnaUNyNWRjM0tWcjRPMVlHOU5hd3pKRDItbzR2b2NVZjZYMWExZVB5UElpTkVFVkVrRmg3SXBsOGRuNlpKZV9FbEQwX1VaLXZiXy1fZUZ0aUZNamZYT2lyX0gzWklsUlJnd0lJZkFXZ2JFcE1sbnFSLUVVU1M00gG0AUFVX3lxTFBRbWdUMElqcFpHVVE2Yl9TT1BxcDZaaURJczBla3JKMjZWLTRmZElMajd3dGRZQXRGN19PUzNZaVNheGpuZWtoVl9FZ25BeXVNbmlMX01fVGEzNWk3ZTBEUUNIMEtGdUVjNUVaY09tWk9GT0dTMUsxejBZZDJUNmxVNTRac3VkZFlPZS1BN2kyYzk5RmFsdExyeHNUQmd0aW9CMmNqLWxLWkdNang5RzlkSUs3ag?oc=5",
-      "source": "Укрінформ - актуальні новини України та світу",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-09-26T20:01:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La Bulgarie a perdu contre le Luxembourg au premier tour de la Ligue des Nations",
-          "summary": ""
-        },
-        "en": {
-          "title": "Bulgaria lost to Luxembourg in the first round of the League of Nations",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Bulgarien huet am éischten Tour vun der Nations League géint Lëtzebuerg verluer",
-          "summary": ""
-        },
-        "de": {
-          "title": "Bulgarien verlor in der ersten Runde der Nations League gegen Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ae5ce4594bd6a8e51c1c279e537172d96cc8c065",
-      "title": "ルクセンブルク vs アイスランド : リーグCグループ4 第2節 【UEFAネーションズリーグ】",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FR3RhWXRjc1hPZFZTQ3QtSkpCdDdQR2xPcHFsX01mSmRPUWJORDBZbmpENU5qSUJMaUw2T3ExLV9mNXh4LXZlUmx2ZkxGSzRNYVpLZm0zTHU5TTMtZGh4WFFKUFJoQkJTU2JDMU44SDV5QQ?oc=5",
-      "source": "ABEMA",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-09-26T19:54:24.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg vs Island: League C Group 4 Round 2 [UEFA Nations League]",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg vs Islande : Ligue C Groupe 4 Tour 2 [UEFA Nations League]",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg vs Iceland: League C Group 4 Round 2 [UEFA Nations League]",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg vs. Island: Liga C Gruppe 4 Runde 2 [UEFA Nations League]",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3639e4e6a99c88f5abe4f8e32baa912efde51193",
-      "title": "資本集團新興市場完全機會基金(盧森堡)Bgdm(美元) 的總覽 | 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNMlEyT2FjaWZPUk5rcnZ5aUtDQXJIOU95WGJDRFoycG9BeWk2d1Z1UW02bk5odkJTWUVwZ190STc3VGFHZEpUV25lYnFVSkluSlk2UTlMOEVFSkVLX0hxZVBvTTZCQ3htSHItRUp1c0JXWnA1Wm41OU5WZFJjVnFTY1J3ZHBvOW1odHZBZE1wSGUxR1FYRXF3cnlwbXBBT24xbFNqZUZMOGU3OV9mclRnQUVhajhDX2llUE03blh3QXk5ZDNnSm1IYzRiY084ejMxbnFrV0I4N0dRZXNRN2NPV2xEa3ZURjNndm5fUWdqaksybU9SeFhCWUtuOXVmRzJXVjdSQnBXVnI5U2lJaG1GVHBLNHpCRWJjQUxYTzJzNG96ZHBPY0FaMFZuRnFDaHdPM2RTaFQ2N2tTUDYxTnM2WDRpUHRVT1VNTG91aWZ3?oc=5",
-      "source": "鉅亨網",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-09-26T19:47:12.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Présentation du Fonds Capital Group Emerging Markets Complete Opportunities (Luxembourg) Bgdm (USD) | Juheng.com",
-          "summary": ""
-        },
-        "en": {
-          "title": "Overview of Capital Group Emerging Markets Complete Opportunities Fund (Luxembourg) Bgdm (USD) | Juheng.com",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Iwwersiicht vun Capital Group Emerging Markets Complete Opportunities Fund (Lëtzebuerg) Bgdm (USD) | Juheng.com",
-          "summary": ""
-        },
-        "de": {
-          "title": "Überblick über den Capital Group Emerging Markets Complete Opportunities Fund (Luxembourg) Bgdm (USD) | Juheng.com",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ee018059247fc738a12d8b78e1b700d8bf3c1bda",
-      "title": "Liga národů: Bulharsko doma nestačilo na Lucembursko, San Marino dostalo sedm gólů, Island bral jen bod",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcjc5OE50WnN3VGJFV0VTTEtvU1BqNjZzRUxXaUgwNFFhQUxiLXpwOFVyTFRVMFpWN0JGUzFld1FuSmowdFlhSUZhQUJ6SWgyaHVOUUZnS1ZhSXMxWldpcmdTN1FTU0xTX0wwN0hCTmQ5UTVzcWhmMlNKU040ZXRma1JqLTV5S2NVeUlpRXZsYk13UDE1eUFFYWlCYmFRcldEOGp6T3k3SHNILTBnWHFMQVM3UlVuUFlDRFNLRE1ILU5iTWpvUEppLUNXUGxqbk96OFF5N2JPY3BWeHFLd3AwZl8tbVFkNGFwRkpEcEJSekZtUFRSREdWYVZQcDY?oc=5",
-      "source": "eFotbal",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-09-26T19:33:31.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Liga vun den Natiounen: Bulgarien war doheem géint Lëtzebuerg net duer, San Marino huet 7 Goler geschoss, Island huet just e Punkt geholl",
-          "summary": ""
-        },
-        "en": {
-          "title": "League of Nations: Bulgaria was not enough at home against Luxembourg, San Marino scored seven goals, Iceland only took a point",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ligue des Nations : la Bulgarie n'a pas suffi contre le Luxembourg à domicile, Saint-Marin a marqué sept buts, l'Islande n'a pris qu'un point",
-          "summary": ""
-        },
-        "de": {
-          "title": "Nations League: Bulgarien reichte zu Hause gegen Luxemburg nicht, San Marino schoss sieben Tore, Island holte nur einen Punkt",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "eb269b03bb07349e741bd74c51024141a9349065",
-      "title": "«دوري الأمم الأوروبية»: لوكسمبورغ تهزم بلغاريا بأرضها... وفنلندا تقسو على سان مارينو «بالسبعة»",
-      "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxPUVBVNmV6ZzlKTmRLVWZ4N2VXUEZzdmJ6dUkzQmZYcmJUZWR3Wk9KY000QTFFdHJIX3lGZDJxS0p6eDYtaFhFVHBjYlBmdnFIb0R5X1ExTE1OZ0Q2RWtjOEU3c1V4NmYza2ZoWjhmSzNndVV6cjFieXRzUzEtVGVKQVNLcWdTbHdVU05XX1Z6bk5WdE1YOVBKdVVIdDVHZENFYnNGRHVNUnQxOUQ4QV96MmowLUdrRWp1Tkt5c1p4eGRsNnhqZnd5c2FlY3ItNGFKMl9sUGtvRXpIdTNyd2ktM1JxU2llWURHOTRobDVuUmlwQS11VGNjRk1iN2ZaOWZBOU5jREwzNnBDdW51QjdkZERTRW1faURiTXdDeE9iLUx0Yk1pQ0JtTE9aQVcxRkFSS0xYWG9RYld0aVBJY3VPRDR1QWt5Wm5iNlFPTURHbTZfeFdoLW9DVWdzQXlUamptOG1HNnVXeWg3ZjhFWlVMRXFJeHRia2oteWp5Uk9VREhJQlQtQk9ESWs1UHZ0R1hFUzFodU5LNFRoRTNnTzhXY01uZDl3TENmR2VRX0YzS0RXN0FhaXlXMWpibEFLbHQ0VExjT2dTQXlyNXF6YVMxZU90Z0o2TXZSMzdlSk9wUXVJeWIxdTlqOGFVQ1FOT0QyNGRwZXVEbV9LNFVWMGdCZnZHeHNyOV83Z2d3MjZ3cnBaQ3oyS25TclBrMFIwTEdqVGZXdjl5Znl2R3ZablVrS3ZLN2V4RG91LVJLZVdxYy1mams5ekVvX05NMy1iUi1TTG12X2F5N01OZ1VOYU43OVFYc2Q0SkU1QlhNZVc4a1ZBbW8tU2RBZGJINWVmRjNfbWdsWlcyOEtqR0I4eHdJRTdRQlVyR09IcWlPZmtJTC11Y091RWFtWk50cC1wTDBI?oc=5",
-      "source": "الشرق الأوسط",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-09-26T19:24:19.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "\"European Nations League\": Lëtzebuerg klappt Bulgarien doheem ... a Finnland klappt San Marino \"vu siwen\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "“European Nations League”: Luxembourg defeats Bulgaria at home... and Finland beats San Marino “by seven”",
-          "summary": ""
-        },
-        "fr": {
-          "title": "« Ligue européenne des nations » : le Luxembourg bat la Bulgarie à domicile... et la Finlande bat Saint-Marin « par sept »",
-          "summary": ""
-        },
-        "de": {
-          "title": "„Europäische Nationenliga“: Luxemburg besiegt Bulgarien zu Hause … und Finnland schlägt San Marino „um sieben“",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a1c9f0ee7e77148b20bd11af0b32fc2a13a62240",
-      "title": "PSD reuniu-se no Luxemburgo para debater preocupações dos emigrantes",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb21QaktmclpWanotTXM2Ry1HSURPRUJtZVNpeWFQRHdoQ3Z3ZUk3Q0d3cThwYy1hUDBzdFNrVFNBNUJ2S2Z1X0gwMXg0cFVtYVc5MWFwNFdKWFgySnFtZzM5MFQ5U3hUM2F3R0VIREtiMWE3SEhiLXpCd3hReEhLUGxlTHJERC0xWW1ZS2t3amVUU1EyUnRRRnBRTllUdXhvbDk4WFBJanRNVFh3RV9za1ZQODdtWkJHR0VTZGpkOGNjaEd0RzMxTWRkd3g1OE00?oc=5",
-      "source": "Notícias ao Minuto",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-09-26T19:16:05.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le PSD s’est réuni au Luxembourg pour discuter des préoccupations des émigrés",
-          "summary": ""
-        },
-        "en": {
-          "title": "PSD met in Luxembourg to discuss emigrants’ concerns",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die PSD traf sich in Luxemburg, um die Anliegen der Auswanderer zu besprechen",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'PSD huet sech zu Lëtzebuerg getraff fir d'Suergen vun den Emigranten ze diskutéieren",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b9267a8a6d78fdd0cf5037a3f8cef2c08941b5d0",
-      "title": "Bulgarie 1-2 Luxembourg : une finition clinique offre la victoire en Ligue des Nations à Plovdiv",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXJCc21Oc0RNY2Fjd0RXMUgzTW95VlZNeGZxOUZQLU9ZcVlGS1NQREtpcjZSMVZvZzhZQU1jU3ZLR0hybEtyb1pGX1V6cGRkdjBuYTZDaklWQkVWUWFLbjE5YVB1ODR2TEZMMGRRUGhwaHJMNGlTdFEySHREMld1Q2M2bFNvV1UyVzZMVGIwMGFNVnRJUTVXWkZ1YzJjczZTUGtzRHJFNF9yZDB3OW00Q1BB?oc=5",
-      "source": "Sofascore",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-09-26T19:13:14.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Bulgaria 1-2 Luxembourg: Clinical finish delivers Nations League victory in Plovdiv",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Bulgarien 1-2 Lëtzebuerg: Klinesch Ofschloss bréngt Nations League Victoire zu Plovdiv",
-          "summary": ""
-        },
-        "de": {
-          "title": "Bulgarien – Luxemburg 1:2: Klinischer Abschluss beschert Nations-League-Sieg in Plovdiv",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2f5fe93c5eeb6097263a56aea26fce75e5a98288",
-      "title": "Nations League: Ανατροπή το Λουξεμβούργο - Επτάρα η Φινλανδία",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTy1lS0JkV01UMVdiRDFONHJHRUVYU0RoLV9UQWw0WUxlTzZzTVFtWlEySjBQNFBvbnVkVmgzbHJQZXZOa3lPNHUzei1aUmFTQVFta0RXOUIwREJncEpNX0FPRDdSa0NvTTNtODBmTnFCdTlMUERDY2pRalVVRXpsRTFQQkVoY0xxanZqeW5RUmtCSDlfaUNKWVdjX00zQTR6MnYyWTJubG5jcEdGRkU3eQ?oc=5",
-      "source": "Sportal.gr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-09-26T19:11:53.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Nations League: Ëmbroch zu Lëtzebuerg - Siwente a Finnland",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ligue des Nations : Bouleversement au Luxembourg - Septième en Finlande",
-          "summary": ""
-        },
-        "en": {
-          "title": "Nations League: Upheaval in Luxembourg - Seventh in Finland",
-          "summary": ""
-        },
-        "de": {
-          "title": "Nations League: Umbruch in Luxemburg – Siebter in Finnland",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9fc3ce8dc16776e4ea1c31a18144e690f5692fec",
-      "title": "Benfica: Leandro Barreiro marca em reviravolta do Luxemburgo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2FnQXZnWmRXYVJyTTNWRnZiNUpYOTljWmFqOWIxdi1zMnllaTFZWU8ybjNlbG8zUlhWaWd1TTc0S3hhRlhCb3lRZkpFSnhRRC1Mel8tSUZzOWcxZUFJMmJCZFlPSjN1UXpLUWJhSnNQSjVPN2dZdTh5a0FiU3VJSWxhNDBIY1dpekpvckdkNXcwQmRWTF9kaWJ2NzBPQnBOTVM0ZmMxSdIBmAFBVV95cUxObmVxSW5ubkhFbGFMMjZBNTU4Uk5QMTFfVGlBaURxcTNobldGNVRYRTIySEtqS2lQRGVpWGdCWlBVYXluVDV4Sll5bzRLRmNVb05SYldUemFQZjlHdVYwb1c1LTFKMGtjdGJVcmV0WFRyYnBuNzJHT01lTy1IQVF6RzBSejFHUkczazloRFlYN0ZTNzdQaGwtMQ?oc=5",
-      "source": "O Jogo",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-09-26T19:05:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Benfica: De Leandro Barreiro markéiert am Lëtzebuerger Comeback",
-          "summary": ""
-        },
-        "en": {
-          "title": "Benfica: Leandro Barreiro scores in Luxembourg's comeback",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Benfica: Leandro Barreiro marque lors du retour du Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Benfica: Leandro Barreiro punktet beim Comeback Luxemburgs",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5886451689a02b41fdecafcb2240ab35f2891806",
-      "title": "Nations League: Mεγάλη ανατροπή από το Λουξεμβούργο!",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQemlOQllpQmhUd3R4Qm1VdzBqbE5rNDJraDRHZHE0dXRiSXQ4ZWdjSENYLUVkallnbk9QVDdxWmpJOWRTZlg3VXd0QnZfdXZaU3ZlR0JkRElIX0IzQXBCTXJtTGRBUUhKaDIzQ21iYUJGbUp3UnhKMHVZSDFxYl9reWxHV3ktVVhjWDM4YXA1a1dQWXVuTENMV2xRc9IBoAFBVV95cUxOUm9uR04yTFMyMllLRzJINWNFTkZ6LVEyTkxidTBLYTgtYk1tUlV3c1RWZzU5MWpKX0pUUnBpYzZJczhXRTlGV3RtQjdUaVh1c0xkdzhFR3YzdjVwOFBWSlFtMkpMZW9Uc2NvUGx5TXJDcUZlcV9JRXZQQWR6M0VoejVfbWx4b3FIMUZLbTA1VjhDdlp2M1RqUG9BLVMtcmZG?oc=5",
-      "source": "Zougla",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-09-26T19:02:39.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Ligue des Nations : Grosse surprise du Luxembourg !",
-          "summary": ""
-        },
-        "en": {
-          "title": "Nations League: Big upset from Luxembourg!",
-          "summary": ""
-        },
-        "de": {
-          "title": "Nations League: Große Überraschung aus Luxemburg!",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Nations League: Grouss Opreegung vu Lëtzebuerg!",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "18ba6853c390d0ac895d5c5172632180f7fc27bd",
-      "title": "Mεγάλη ανατροπή από το Λουξεμβούργο! (video)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVBZdTJyRGhNNE9Ld1NtLXRRNV9HY0Z0aWhGc2xTYkRKb1dYM1NkUmUyZ3h6bDJia2oyeWtsTk9fb3Rmc196LXExYnVmLTVnWXE1YW5wVXBja2Z3cmV2Z05XWVk4TnljZkIwRHFvcDl6R1lOU09zMzhmXzZwLXkyVHYzMnkyWEJkbVJMbVdfRXFGSjZMTDRNbU9JQdIBoAFBVV95cUxQOWFsTFBfV3JPRlNOb2JtUjdzb3M5RjdFUVE2N1F4TnUtbzdZZmRtQVhlbldqUnhFLWhLWDVhclc0RFRIVkhxaUdNazRHcmpkXzRndEtPb0tCM2ZucnlBdkp0SV9mdkJfaEtGWHNvUlg1eENEZ0g1Sm1wa0tDZnZqOG90b3dLcTBwVU5vSGRFTTJOVUc2TEdOb2JNSHllQ3pO?oc=5",
-      "source": "PaixeBala.gr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-09-26T19:01:41.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Grousse Wende vu Lëtzebuerg! (Video)",
-          "summary": ""
-        },
-        "de": {
-          "title": "Tolle Wende aus Luxemburg! (Video)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Beau revirement depuis le Luxembourg ! (vidéo)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Great turnaround from Luxembourg! (video)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bf0aacb1ecc10d265524897fe0b6a9dbdf5e1ce8",
-      "title": "Bulgaria 1-2 Luxemburgo: la eficacia decide en Plovdiv",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOblpBbG01N1Vha05Fb1NjX1VoS0EtLXh2d0NobndOdkJqLVYxNDZGYXlTOEtGUVI0UFRGQjhGOUkxV0pONURRQ1ByeUt0a0xXZ0RtamtzMGhzMXNfZjNKYllzS0toUXJaQWdqNGlYOHF3REwxa0xORWhnVlpNNGVTbE1kd3VwNXhCRkI2ckVUdEY?oc=5",
-      "source": "Sofascore",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-09-26T18:56:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Bulgarien – Luxemburg 1:2: Effizienz entscheidet in Plovdiv",
-          "summary": ""
-        },
-        "en": {
-          "title": "Bulgaria 1-2 Luxembourg: efficiency decides in Plovdiv",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Bulgarie 1-2 Luxembourg : l'efficacité décide à Plovdiv",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Bulgarien 1-2 Lëtzebuerg: Effizienz entscheet zu Plovdiv",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ec92f8e83271bd13bd0352a46553c2850b209901",
-      "title": "Bulgária 1-2 Luxemburgo: finalizações inteligentes garantem vitória em Plovdiv",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjZXVE1vLUI4UnlwWmVzRERZY3NpSmc5ZmF5cFk2ZkpDeEZOT3ZPb2tUZVFvbVhnLVk0THZMaDlfQktiS3BxLTYxMEhEQUhrblp6akFEVGpFakEtQXpGVmNzUVpLckVrb2tqTjR3OXhfdF9tbXJyVk9rZjN4ZGxNS1lncEpCYWthN01sdlJpUjdOdXJUY0hfMVkxQ0RSX04tWEJGd3dMT0xlZTRtWG9WUw?oc=5",
-      "source": "Sofascore",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-09-26T18:56:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Bulgarie 1-2 Luxembourg : Smart remporte la victoire à Plovdiv",
-          "summary": ""
-        },
-        "en": {
-          "title": "Bulgaria 1-2 Luxembourg: Smart finishes secure victory in Plovdiv",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Bulgarien 1-2 Lëtzebuerg: Smart schléisst sécherer Victoire zu Plovdiv",
-          "summary": ""
-        },
-        "de": {
-          "title": "Bulgarien – Luxemburg 1:2: Smart beendet den Sieg und sichert sich den Sieg in Plovdiv",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "86f8c8f6fe12cfc342442ae92e4b343a8e252a98",
-      "title": "С голом Тилля. Люксембург обыграл Болгарию в Лиге наций. Читайте на UKR.NET",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Mno4VHdfSVhuSzhtZE8xa0lPNWJwNC1RWmJUXzZHekdZTk40RUdYeU13REtCbWZZeWxieF9yckVDZnJMeG1aZnZtVlAyLUVRVWtDekVlU1RRODJYZWZyVGx3UEs0RU0?oc=5",
-      "source": "Ukr.net",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-09-26T18:56:10.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Mam Zil vum Till. Lëtzebuerg klappt Bulgarien an der Nations League. Liest op UKR.NET",
-          "summary": ""
-        },
-        "en": {
-          "title": "With Till's goal. Luxembourg beat Bulgaria in the Nations League. Read on UKR.NET",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Avec le but de Till. Le Luxembourg a battu la Bulgarie en Ligue des Nations. Lire sur UKR.NET",
-          "summary": ""
-        },
-        "de": {
-          "title": "Mit Tills Tor. Luxemburg besiegte Bulgarien in der Nations League. Lesen Sie auf UKR.NET",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "828f80b570bdffb48182067f56605e0b80cb9162",
-      "title": "«Διπλό» με ανατροπή για Λουξεμβούργο, επτάρα η Φινλανδία με βασικό Κάϊρίνεν",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSy1HMk44alo4dGVRVTZyNGJrS3ZPZWdPZG5vcWNLdjZvVTZieTRDbHUzTkQ5YUxRQU9TR3ZyNmc5dHliMWk0cWFfcU9HTExyaGVBeFJzWEd2MU9RYTBfS3NHRTF5R2ZqSU1LV3hycTFMU0tMUmJhRkVuTmRKMGltaS04SnBsT05WcnRrSURYR3Jjcjc5azlVdDdjRml0VDFwSURHSVhQNG9xNXN0UTRfbw?oc=5",
-      "source": "SDNA",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-09-26T18:50:40.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "\"Double\" mat engem Opreegung fir Lëtzebuerg, siwen fir Finnland mam Kairinen als Haaptspiller",
-          "summary": ""
-        },
-        "de": {
-          "title": "„Double“ mit einer Überraschung für Luxemburg, sieben für Finnland mit Kairinen als Hauptspielerin",
-          "summary": ""
-        },
-        "en": {
-          "title": "\"Double\" with an upset for Luxembourg, seven for Finland with Kairinen as the main player",
-          "summary": ""
-        },
-        "fr": {
-          "title": "\"Double\" avec une surprise pour le Luxembourg, sept pour la Finlande avec Kairinen comme joueur principal",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "efab54a246ffdc4394479294b83bb27192c63f8a",
-      "title": "Bulgarije - Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44bkJCQVJmYk9nVy1LMmZucXRkRDhheG1tLUVaQ1JNV1lNUnlfV2VDc3g0Sjc4SHFPb1p3UXVIR21FcDVDZE83VXdBVk9QalRqMnpGdWV4eWpoWU4yQkpVNThLZE83MWpkVUxfSA?oc=5",
-      "source": "Ziggo Sport",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-09-26T18:48:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Bulgarien – Luxemburg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Bulgarien - Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Bulgaria - Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Bulgarie - Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "cb6fbb2ef42ca1579fe37817565d482fb9aefde3",
-      "title": "Liga Națiunilor. Luxemburg a învins Bulgaria cu 2-1 și a obținut prima victorie din istorie",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazYwXzZQY3MxeF9HZ2F2LUdMYUZRMnZ4MFlxeXpaWVRZeFZhekdTRXpSbThweUtfR2EyMWc3VVVtbjhxd1NvY29kalAySk5nZzVuLWNfQ0lETlZhcHg3dWRjN0Z3aFBkTnRCU3Z2T1ZDb1JSTWJiWnNYNEZ6cnpybGJmS3JIZkhlY2R0ZDN5bGVhenRQejZULTJSVmdBNjY4eEJ4bjlNcjVwQ1FXakFR?oc=5",
-      "source": "Evenimentul Zilei",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-09-26T18:47:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "de": {
-          "title": "Völkerbund. Luxemburg besiegte Bulgarien mit 2:1 und errang seinen ersten Sieg überhaupt",
-          "summary": ""
-        },
-        "en": {
-          "title": "League of Nations. Luxembourg beat Bulgaria 2-1 and achieved their first ever victory",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Société des Nations. Le Luxembourg a battu la Bulgarie 2-1 et a remporté sa toute première victoire",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Liga vun den Natiounen. Lëtzebuerg klappt Bulgarien mat 2-1 an huet hir éischt Victoire iwwerhaapt erreecht",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d79b8cce05026d21f98f482d34a9f3a24baee459",
-      "title": "Umilinţă istorică pentru Bulgaria! A pierdut pe teren propriu cu Luxemburg, în Nations League",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLWQ0cXlnT3pSNU5xa3o3QmpKSlhqQjFjbEVWdkM3OVp1TkZjb3I0WEVFdnlwSGJFS3FpNUFBaThmSEVPYnNhV1ZZUUpvV29ZYkJ1LXpFblF5dnZvcXd6TnZKbzJHdlA4R2NhdUlJNVV1ekNlZUVlaE9qSDNCTm9wUVR2ejctaXB2a2RucVd2V2hBYXJfaXJOa1R3Q3hFM3FPekFOQ3J0ZTg2eUxyV2Z1YmdRZDA1LXY4QXp0YmMtdjh3Sko1WE9STTV0RGhYZm5CX1Z1Y2Zxcw?oc=5",
-      "source": "Antena Sport",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-09-26T18:47:25.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Humiliation historique pour la Bulgarie ! Perdu à domicile contre le Luxembourg en Ligue des Nations",
-          "summary": ""
-        },
-        "en": {
-          "title": "Historic humiliation for Bulgaria! Lost at home to Luxembourg in the Nations League",
-          "summary": ""
-        },
-        "de": {
-          "title": "Historische Demütigung für Bulgarien! In der Nations League zu Hause gegen Luxemburg verloren",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Historesch Ernierung fir Bulgarien! Verléiert doheem géint Lëtzebuerg an der Nations League",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b6bdc2a34f19c7ce754aa2cb5d65f8d4ba97046c",
-      "title": "Ліга націй: Фінляндія розтрощила Сан-Марино, Болгарія поступилася Люксембургу та інше",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjhwT0pkc1lMNjJJWDB6SjY3Z2I2czZxdWdKQVdTcUtVY2ItOWdjS3pzOU5ZRUhJdUZhczFUZHczUFJmM3JYTFBoVHBoQU90U1plc19YSzBIdnpHTHJQM0hXam1CT1VXTE11MXBhYUJRR1hyZlo2RUxyQXdxNlEtS3BPTUkxUXZLYUUyM281VkZsVEpTYVdWaXVtYUhzbDR4TFd1dUR0RXFiWEZPX1kzMXVHaGJSYjZuOS1semNJQlVSR1phU3l0T2VVMGtfNG_SAdABQVVfeXFMTzhZLXVOXzV3dWxHSlBLcDJMNFFkZzJSdlpmcU5sZ2FxbkhUb256VmZMSjlkS204OFJ6RlV5cUw5dlM5aFZWQURqR0xmOEp6UjExZFRHNE8wZjZ0YnYxSzBxcWxGY0lTWndlSE5XcHVBbFNOWGQ5NFM0Tm54eF9iWDRhSUVEd0NXaEg2Tnh0NUVLUGcyODBINklNd29JRWlZNXl4dUFtVHpKUS1yQUYzSjRVOW1mUGdUUlFYM1Vvd281QmFFbFlHV0theDQ5aThvbQ?oc=5",
-      "source": "my.ua",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-09-26T18:44:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Nations League: Finnland huet San Marino zerstéiert, Bulgarien huet géint Lëtzebuerg verluer a méi",
-          "summary": ""
-        },
-        "de": {
-          "title": "Völkerbund: Finnland besiegte San Marino, Bulgarien verlor gegen Luxemburg und mehr",
-          "summary": ""
-        },
-        "en": {
-          "title": "League of Nations: Finland crushed San Marino, Bulgaria lost to Luxembourg and more",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ligue des Nations : la Finlande a écrasé Saint-Marin, la Bulgarie a perdu contre le Luxembourg et plus encore",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "cd2d6bd81b074021c7ca9c25318e051ed1675359",
-      "title": "Para Marco Silva ver: Leandro Barreiro marca na vitória do Luxemburgo",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2tweFFVeVA3THJqMGVtTjA0d0tSZV9iekZFRFkzQ0tCYjAzWXU1YTJTZjBhR25JTEk2dVBidkZWeE02TnJUZHA4OEt4UXI5dlJUbE9vSHlaSHFScV83eTJtT0tYYUFfbWlBT1NyNmhITXBVb2VkNUpURXJEa2s1Y0pwekhSVlMxb3NNLUh4NVJUamszOXZCMm9oV3U3dzZ2cVZZdVRPYmZFZVdwV0sxZGRLem5DSXFWTmc?oc=5",
-      "source": "Notícias ao Minuto",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-09-26T18:42:56.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Fir de Marco Silva ze gesinn: De Leandro Barreiro markéiert d'Lëtzebuerger Victoire",
-          "summary": ""
-        },
-        "en": {
-          "title": "For Marco Silva to see: Leandro Barreiro scores in Luxembourg's victory",
-          "summary": ""
-        },
-        "fr": {
-          "title": "A voir par Marco Silva : Leandro Barreiro marque lors de la victoire du Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Für Marco Silva zu sehen: Leandro Barreiro punktet beim Sieg Luxemburgs",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c559bec9d085a2188779a9b543eea7dea6d1e822",
-      "title": "Luksemburg - Estonia - statystyki meczu 13.11.2026",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZXZOd1A3WTNTaWVqRjNxTUF3cVV6eU96eU55alljd3UwZDlKT0otV3RSaklVN0FKZXdFSEpIeXRHaDg3VmE3Y2RGWE1xV1ZySjBCNWxNSE95MXdIdmhhU2F3LU92NXNxd2lOYl81dE5QZHk5T2N0SGE3S25hVDNfVw?oc=5",
-      "source": "Meczyki.pl",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-09-26T18:31:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg - Estland - Match Statistiken 13/11/2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Estonia - match statistics 13/11/2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Estonie - statistiques de match 13/11/2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg - Estland - Spielstatistik 13.11.2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "cec3e18eee713060a7e43ad47028445677ec1b84",
-      "title": "Se poate și mai rău! Bulgaria, înfrângere istorică cu Luxemburg în Nations League",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX040TzNwbUZOejB1X2pZRVBEQ3BEZ0luZUllak10cG8tN05YUDZBbTd5WjN2SnNUSUJnRWNESlhkZnZGN2dQWkpZZnpfVk9qYm9OSnBkQXVrR3p0al9la0tyeFI0M25hQnNBaHZXMm80a0M1aXBxQnY5YVJtS1pVUXBOdWhiTWpiT3BaeDk5MWxvVGVOVGhvd3F0U3d5YjhjZHJrMGxFQ2xqR0pxTzFzMkxNNFZ2ZHpST3RDNA?oc=5",
-      "source": "Sport.ro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-09-26T18:30:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Et kann méi schlëmm ginn! Bulgarien, historesch Néierlag mat Lëtzebuerg an der Nations League",
-          "summary": ""
-        },
-        "en": {
-          "title": "It can be worse! Bulgaria, historic defeat with Luxembourg in the Nations League",
-          "summary": ""
-        },
-        "de": {
-          "title": "Es kann schlimmer sein! Bulgarien, historische Niederlage gegen Luxemburg in der Nations League",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Cela peut être pire ! Bulgarie, défaite historique face au Luxembourg en Ligue des Nations",
           "summary": ""
         }
       }
