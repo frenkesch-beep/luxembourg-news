@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T22:44:14.416Z",
+  "generatedAt": "2026-10-11T02:05:42.291Z",
   "items": [
     {
       "id": "04cf17284798eb146f00df1ceb9c75b69fde282a",
@@ -346,6 +346,38 @@
       "type": "article",
       "lang": "fr",
       "publishedAt": "2026-10-10T16:01:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "8a098849e69fe01d77551b83a126a628558e5b76",
+      "title": "Lussemburgo: ambasciata, con “Canticum” ricorda 800º di San Fran",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNC1oVUNocjVROVpmeHdLSUJmc2JINEEzY3JLOGVtN2puMThyU2dwUGtqbWE2UzRBVU9hS1FWcHBwazNFZGxLRXQ4YWxTRjJrUjVNTXBMbEZUSFB2MVdUTHhRaldwSVhjUmRsZE1zRmc5S3NydmF2Zm9tNmItbTVwYS1HdENlRnRWTV9uSFZ3ZTF0dzZfalJQWm9OQXBXU1dYLXdDV0xBR3djdw?oc=5",
+      "source": "Giornale Diplomatico",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-10T15:38:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "0390ddc507d3d0c4ee2314acadddd6d6f1751deb",
+      "title": "Trotz Tankrabatt günstiger: Das kosten Diesel und Benzin in Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbnZjNl9zbHNadEpLb19sYzU2ZHFHekxfbjVfX0xtejJWYi1ybUVyeUh3Z3ctbWgwSHhoa0dhd28tNGtjbHFWUGQ2S3llODE3d3NYeFRyeEZSRlllRHpyck9HWnRrbllMallnUElMODNjekxlckZqdzd5eTBjWThBYXp2ak1BckN1TnZJbUdKNk5aVjdjM3pRSGxCbnAtUV9Oc09sdEFVczNRSmZaUnJKeTJBaDI?oc=5",
+      "source": "SOL.DE",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-10T15:19:41.000Z",
       "summary": "",
       "imageUrl": null,
       "topics": [
@@ -42479,6 +42511,22 @@
       "translations": {}
     },
     {
+      "id": "783dad5690b094bc2eac514489f346b96acf290b",
+      "title": "Luksemburg - Islandia - statystyki meczu 29.09.2026",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRFlOUE5qdi1pTUFDeTZobVl6cUJxM2NfaEdJQlhIWjFtVWtNdFdqWWZ0VnpEOEdEUl93dU5qRW1YektiRnUycmNEc2R5bWdhREdwWGhyTjA0NWRNZ1dsOG8wclU2YUsxc2pURi1TamxYMEtiYURBaHlpNW1jUlRDZmZR?oc=5",
+      "source": "Meczyki.pl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "490c6fe744eb6d59ea4229d8c9bae29416b71df1",
       "title": "Luxembourg's ANote Music raises €2 million to transform music royalties into an accessible asset class",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWWNLc3dLWHRTM2JEODhZenZJQk5MR1JLdjFlQ19CbHd3TmNJbXY5dFNnN1EtM1U0bnVIRVZlNlI4LTJmY2cyakplRzk1OEtnVllpRHJoYnY5SHRpR3FISzd2SGZJTkxJQTBMckJWeW15TXNueVp5UGtOOHMzLXJaRUpxaXkwZW9VbllOemhnR2ZQclk1N3p4eHdJa25IVGg5M1JnMVlqRmFtUmNUZVkyaDJBT2lja1lJWjZISEF3RXVYUmw1bkdPR2Q2RHpiTHRwYWF5NA?oc=5",
@@ -44633,105 +44681,6 @@
         },
         "fr": {
           "title": "Luxembourg vs Islande : programme et où regarder en direct et en ligne au Pérou, pour la date 2 de la Ligue des Nations",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bad0079f9e0554d18a1716a0090e4ea7480aa77d",
-      "title": "Luxemburgo vs Islandia - Pronóstico y Apuestas - Liga de Naciones de la UEFA - 29/09/2026",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzVJY2h3VERFQTlYUFlzZzB0NHhvQlU2RE9wWXJHVzhlenRVOU9QUTdlbEJPSVZaeEg0ckVQcHV2M2x1X0xTamc1ZGtnMElHZmxxWE01R1EzLUxiZ0QyNzZfTkd2MjFQVUYwcURTb2ZGZ1pIYUlXMmNnNUJPdkZCcHpSMTM0Qk5GUDdkZjFUZDQzY1hzZm1rem1HUHFGY0RRd0hUSVplNURlVVdkdkpWRDhB?oc=5",
-      "source": "Prensa Fútbol",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-09-28T18:56:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg vs Island - Prognosen a Wetten - UEFA Nations League - 29/09/2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg vs Iceland - Prediction and Betting - UEFA Nations League - 09/29/2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg vs Islande - Pronostics et paris - UEFA Nations League - 29/09/2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg gegen Island – Vorhersage und Wetten – UEFA Nations League – 29.09.2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2b234a67034ddbd35adfd4ff676c7ae5ed4dfd84",
-      "title": "Antevisão Luxemburgo vs Islândia :: Estatísticas e Onzes Prováveis :: UEFA Nations League C 2026/27",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wQ3VTbkFfUVEyRnd5TkJybWhhY0NfeXlwU2RESW4ySTE2bWM3WG9hakh2YmpvcEo2S0w3OHUxRkRBeW50aW90Skd2Nm9ENi1SbjVkOXZRZ2hVRkhsblA0YWtpQl9BVl84UlhmdVpBUGdab0FpYWc?oc=5",
-      "source": "zerozero.pt",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-09-28T18:46:14.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Aperçu Luxembourg vs Islande :: Statistiques et compositions probables :: UEFA Nations League C 2026/27",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg vs Iceland Preview :: Statistics and Probable Lineups :: UEFA Nations League C 2026/27",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg vs Island Preview :: Statistiken a Wahrscheinlech Opstellungen :: UEFA Nations League C 2026/27",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vorschau Luxemburg vs. Island :: Statistiken und voraussichtliche Aufstellungen :: UEFA Nations League C 2026/27",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "cd80ef2bca9375e4aae4d232141897680bd63057",
-      "title": "Luksemburg – Islandia 29 września 2026",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ITDlRYTAwQ0NtaFVpY05rdFptLTNHTkc2THJGM0stWWd6RDYtdkJCMGpHZDFXYXduamY1c1ZpLWlKWmdHeVhwQkJyTVJqajZPdW96Rjd2TnFKbjA?oc=5",
-      "source": "igol.pl",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-09-28T18:45:38.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg - Island 29. September 2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg – Iceland September 29, 2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg – Islande 29 septembre 2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg – Island 29. September 2026",
           "summary": ""
         }
       }
