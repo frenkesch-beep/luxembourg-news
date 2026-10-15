@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-10-14T23:56:39.626Z",
+  "generatedAt": "2026-10-15T04:44:44.523Z",
   "items": [
+    {
+      "id": "dd3e3d2a6876fbde3b344c5b5ae3c48af7ca329b",
+      "title": "L'ÉDITO ÉCONOMIE - \"C'est un placement pour les gens qui ont la trouille\": pourquoi les Français se ruent sur les assurances-vie au Luxembourg?",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZTJpaEw1Q2JkUllPWm9fUlB2ajZPVllRckhwTFpXVGI0Y0xiMExRWVdQSXEzM0twaG9IZDdac2VyTXowOGRPU3VwWGc0N3hrNHBGaVJPOWtsZlNadVFxOVpkTEZER3pGU3MyUmxzeVczYkNyYkVRdHRTcHp4bHlja09oLTU1VW54NHZ5cjRFMnF3NWRUMEVIbFVncHh1QTRucEc1Wnh6VlZRTGRGU2g0WVlHVk12bHZ1ZkF1UG05WWYzQ25jT0kza0lPSlg5ek96QnRxS2hMdnZuTjByLWxGaEg4OVdteFFCbzRNd3ZQMU1jcFNXMFJyVzRjem1oRlRwNEQ2bkczOVdCVXFwS2xLTGRxaHZmZkl3UFJXTTRRS2o?oc=5",
+      "source": "BFM",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-15T04:31:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "economy"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "47f3fbfe862ff22ecbf123dee2d28412e6df8d82",
+      "title": "\"The Most Beautiful Road in the World\": How a Retired Luxembourg Police Officer Witnessed China's 800-Million Poverty Eradication Miracle",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPaGNNdWN6djZPS0JObUM1YWFmWVBxblRqSlY2bWlrTERHVF93S0Zmcy1PWFluYVFJU1l1Zm8wc2N5dkliak9DVjRFWlRIZG9KU1JCdGg0bjFpb1RxMkpNT3otOVNMZ0p1RVhjZWNqSVI2bkRZcVBsUWs1MUNkMm9kaExGVWtvQnl6a2hIUnZVeEhlMEV4VXlOWnJVYVB3RGlKWG9ZQXNtRmZka2FFeDh4NndtbzY1YVIyX1JKM2R2aWM1V2R1TGEtZWhNbG13TjJDbENkcXduU3hrSEhnVVVQdkszMXZScFQzWF9iVm9OTTJXMkZuZUkxTEc3bVJPakhUaHJLNWxGRk5mUTRLeWtWd252UQ?oc=5",
+      "source": "巴士的報",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-15T02:45:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "0688ba51ec23ffdbb0fb858d3630406127744b86",
+      "title": "「這是世界上最漂亮的路」：一名盧森堡退休警察見證8 億人脫貧的中國奇跡",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPMTQ2eFFVYmRfWS1UT05kT2k3aVJLRjdzNkw1M0twRXB6N3k1V2UxRE1VVGR4NW9xR05hblh0c2lOQ29iWlBrWFZSLWVXa19TTmhpSnhlOWpQd1d5ZG1TV2R2eE01cjI2V0d6M0o0RlVtek5RNmFybkh6TzdBSGFESGNuX1JBc2JYcUxXdlM1U1dEakNkek5lcVAwM1dtaFZWTXQxSDZleEprdEk4aTEzSDJ1LVVENXoxcmo1UkZTMktfRzA0djUyaXVBaTVjSmIzY2JxeE5XenVHemVuaEtOZFdMcWRRTGJvck1kZ0p0eU5tUi0zYW53b2NHeGZQTGNCd2YxLTRpNEVfTFNORHJseU5sV0dSODVVY3djeTZydlo3Vm8xMGFiNkZZMVJLUm9rTEdPeTQ1TlF3SWFWVEJjV3A1N2MwUERiSEhRRlB4V1A5d2JTZG1nOG1pN2pmT2JyZ0hndjdkNExnZDFKelE?oc=5",
+      "source": "巴士的報",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-15T02:38:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "5e181809d245ce8b550cada2d2e507dd83b3a1bf",
+      "title": "Recibe el Presidente del Parlamento de Luxemburgo a la Embajadora de Cuba",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2JwRHRLLWlMZ2phNG5qNXhxMllnY1JFYldRSlJBQUlSUHc0czY4aHRjQ1JRSXowMjdFcHZKb2llOThhVHdoSWJrTmNwOWw3YlhwbmxzbllNdFlxc3ljZGZBcHhKWkM4bVA0ZE1ydGt6ZURIaHRuS3gxY0k4empWSUZ3eWtpODk0OHFDd2ZKb3dwZ3B1RzAwNVQzOTE?oc=5",
+      "source": "Ministerio de Relaciones Exteriores de Cuba",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-15T02:05:08.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "4041f3f2fcd6dc9e33be64e74c72455139209800",
+      "title": "Thailand and Luxembourg deepen financial and capital market ties",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOd3pOS3g2bHhxOXFpWkpaMVg5b01ldkd3TkFkVzZCT29TaTlkaGVpN093bG9EVFhCZUZ1VkVPRFRjQnNjRENTM3dUYVphU0FMMFFNODhPZm5vLVVqSDFYemFtN0VWV00?oc=5",
+      "source": "Nation Thailand",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-15T01:32:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "7b68d1ffa76a537eae0ce17c71f6b41e37551cd3",
+      "title": "Люксембург U-17 - Італія U-17 стартовий склад команди матчу 11 листопада 2026",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qRkY4WndyWVJNTEJ2ZTBaTmZoMm5USXptbW55N1NuVExYc19YQktOTWwxX3BOQm9PN3lsY1lxWTFhWGl0SDl1R05DMHgxdjFVOWc0elJZQmdkNGptWUFUMHo0REk2d3FjeHVObFlCaHZRLS1QY3lhbnNn?oc=5",
+      "source": "Футбол 24",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-10-14T23:30:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
     {
       "id": "ecff36d21643acdc19a20f6276cdfe6776b0403a",
       "title": "Russian billionaire Mikhail Fridman’s $16 Billion Claim Tests Luxembourg’s Sanctions Strategy",
@@ -29,6 +125,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "4145011dd5f17e71fb55b42b2fcf144397b2f123",
+      "title": "ΥΦΥΠΕΞ Τάσος Χατζηβασιλείου στο Λουξεμβούργο: Θα ήταν λάθος η Ε.Ε. να χαμηλώσει τον πήχη των προσδοκιών",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPb2htd2hLRmxieXBTMThGdE5IU0tJRzZ1ZHZzdGZaSjd3eVJzM3Z6Vk1hc0xIc0dXRjY5cndMTHJVendrSnN4UGEybHlYS0xzanVvY0k3VG0tRG9uTlF5Skl1UXE5U2VPM0lWX3E2WVRFT3lDenh5X3kxTFdNOHhCNWlGVFEyaTlQeVJXRlZpYVJGSUZSY1ZoY29OTUZQVE95WjBxdWZXMG1DRHJOSm9NcGpBRGR3RmprTF81Tm9fdXREOERYYVZTNzdXRUNEdnBhVWUzY0NwUHctRVg3X0F2NTlXZVVjVTI0WHVzOVRWUDRXNFZQbHo1R2tzOXN6RkVBdk1nbHVmVmNIWV85eHhMcFVqekcyRnAwYnNoQ1k0NWdtNzdpQ2ZFbVI4bzJvTnd3NVY4V2lhbU5iQTI2MG4zRk1YNHpHemVfN0xpM2FVMU9xRWJ1QWc?oc=5",
+      "source": "Σημερινή Των Σερρών",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-14T22:40:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "82cde32c4497b0448079b13a3a41c14147d10b82",
@@ -1590,6 +1702,22 @@
       }
     },
     {
+      "id": "091fd6a2f28857265142072ba50195485e45d673",
+      "title": "Флаг Люксембурга привлекает греческих судовладельцев: METIS MARU меняет регистр - Новости и статистика",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWW0xYWpSQ1dGTXkzNFhtVUppcTVMT0pmWXJsTVVxSWdUdGdHcE1jd0FKMlVIREF6M2tMTm9VWUotV2RqZ0daMXF6Y3psc1U2UEYtbmRLSHFGUGlPRjJOMTZMYjhCQktJOWNldVpNTF9PZDM4aXY2WHUzcnN2WFBDcWtJT1NoNG8xcmVQRkpfVmpKQkwyVWZEVWh3?oc=5",
+      "source": "IndexBox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-14T04:54:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "2aa71edbbad1c75e553f3a6f9a3bf94dc82f4f9c",
       "title": "Alpha Bank: Οι επόμενες κινήσεις μετά το rebranding, η UniCredit και η private bank στο Λουξεμβούργο",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYUtSV3BXOWFaRTFfSnlxUEhwQ09aaWZpbVl1ejhDLUtFQWRCb3pMOFN0b2pUUURqdTNJeUpRVVhNS3h2S2djRFpDZmFiOWttZ2ltNlJ3eVljMVVsV2R4TDQ2dnQ4X0JjTG4wLTQ5T3RJRUlmMnNjMmRPU2tILWp3M1E5a2tOZmVvZ21SVTlrWGJ1ZU5mWmtheFQ5bXhTbTlvX1ZkYlFkUHFRZFpGX1RhNVJUMm5tUHU4X3ZyWXhuempWSmlWeWQxM295Xzd3bEZzUTY5SWR6c3A?oc=5",
@@ -2063,6 +2191,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "290ba6885120ce523628745c1dacb3780564a268",
+      "title": "Mompach 공기질 지수 (AQI) 및 룩셈부르크 공해 | IQAir 대한민국",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BRElZblFuTE9ZYnBvOXRkR0sxX3VWSEN4SGt3cFJEMElWeXZ3NmJ4NTdsZ2JoNkRGTE5SY1U4OTlJQ2llYnlkdUlXRWNjcDh4NmxnV0pBVXJ1UG90bnZ1ZWNlM3kyR3hzdkxzUU5JSnNFUk0w?oc=5",
+      "source": "IQAir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-13T20:18:29.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "56917a58ccab1ca551c1e82174d56da0cebb89c2",
@@ -15244,6 +15388,22 @@
       }
     },
     {
+      "id": "eee8cf437a9e093ed3fcf786988672d9a3d02d05",
+      "title": "Το \"μνημόνιο\" Τουρκίας - ψευδοκράτους για αγωγό φυσικού αερίου θα θέσει ο Κόμπος στο Λουξεμβούργο",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ00tcU5WRUhTVEdQZGdKUW80bEZaODlmSVFRM05zalVkUnRfZVlRNUZGd2t0dkxsQVlGeHdoVWY3bU40T0F3V3hQU1FkNFVhaWtZUEcteWN6QVNoQ0swWUdnY3NFQno5WVV0SUhpbGl4MWZZLTB2RE02c2VMY2E2REpiX1FPQXRfZzEtWURzd3ItNzlZVnVvTW9HVEZXaVE3aFQ3TDhUUGRnWkhvLV83MFZYM2RBSHRKX0l2SXMzYW5NaFloSkdZVVBEVm8?oc=5",
+      "source": "AlphaNews",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-11T10:48:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "eb8e1e6d3b988b0723f94e5cf6037730063e52d2",
       "title": "Trucje tegen foute ondernemers werkt, zelfs in Luxemburg kijken ze met interesse mee",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmVOTzNMaS1iTjcwRk45Z1diUnMyVkI5cTM4dXRXeUxBSlF4TFFldm53MXlfS1hQZWZENUlVX0g5enNjY2dJNDVPWTZpeGQ4N3IzQUlDVmg1Y1JZM0hjdGxwNTJrYmhGWWZ4MXFFSUVQZFMtSEozeDBLaDAzZ2FJalhYOHk1cWtkTVZJdWhFYjZhWXhiYUdxLWtzLU53amZQQjRlRnpKV3p5NjRoSEVZaHNtZTFCNWwtTnZxdg?oc=5",
@@ -19443,6 +19603,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "d5a205ea418a3568922de5eabdbe89c14498e216",
+      "title": "資本集團歐洲核心股票基金(盧森堡)B(美元)-USD 的總覽 | 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQam9tNzZJRGptanpTM0RFQzU2NGpnaU05TWlFSV9MM0Nhc3J4cEgxdWtFd2JyN2ltXzVTemZ3Q3NlYTNFdjJqWnpDYVdKaldFcGRZMG1vMHZyTVBKa1JncWZqVkt4SURycVUzbGwyamIzQUV4S2lOeUJyblNSRE9OQncxY0pHQ2hscXpzZk5sNU43NlFzU3JjUGdhMEZLSUVOYzAtbWZROFpqcXNzQzV4SXQ5NmZEY0FIeVg5S25pRFFBeUFUOVhFUm9TWkx3YmpGYklTNzBZdmFCZ3drVDMwU1BjM2lyMjB6NXBFUUtiVk5pTlZoaVI0SGZYY1EtalNOM1lxcHBzenR2QlBQSEJuaXFPYnZsWDA3MGZ4ZEs1M1oxemEyUjN0dUYxaHU1SVg5X0JKY3hPemxTd3ZtcW5QOA?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "420c75669b25fc9b74a3603caa71376ff089f54c",
@@ -29749,6 +29925,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "e3df38d989005907d1410f2834cc7a6a41d0adf3",
+      "title": "Luksemburg - Bułgaria wynik na żywo, H2H i składy",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02eFNnZ29sOHhJZWo2ZW8yS016RGZKc1N3cmxXMG1nRmozSVFPZTVjLTh5WmowTDVEX0tObFpPWExTQ0IxT1c3WV9ZYWhTVkd2MG9OWS1kcDVybzdSa1AyeGpkenpaNTlLejJFOVZDWVJWR0xPS0I0RVpHVQ?oc=5",
+      "source": "Sofascore",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pl",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "ea4e826ce3b739185f951a438b96cfbfe61e1408",
@@ -43279,6 +43471,22 @@
       }
     },
     {
+      "id": "bd0181ff6c880893d1cf2e45f2a03ac141d6ef8b",
+      "title": "Estonya Lüksemburg 03 Ekim 2026 Canlı Skor ve Maç Özeti",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjRoQU04Z3ZDN1FhMjZLM2w0MXFNVjBxdTI2V1FLY29CSVd3NWd5UHdMakZYY3BVTk45ZXk0dWJlRU5LUllGSkJBOXduUy1xVzIxTmcwcklsclpxbmxISm4tbk0tY0tjS1F5aElJalc1WXlaVzNXN2V5QkdPR1NVYU5Na2tOUQ?oc=5",
+      "source": "Yeni Şafak",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-10-03T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "e095f484dcdba6c275b6471d4b7f17a5c4429785",
       "title": "- | TF1+ Luxembourg 🇱🇺",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhZnZhT2RCTjVJZjZWSWY0aF9WRjdtTGliZUpsYXJ6dWtLVE5oaHlHNUVvWjNfQ3hsd0R5azU0T3lHQUJGY200N2FUTWMtSDgwLThMQVJQSlZSOGhGZ3V4MVhpcmtyZ2tyVk1hLVhBNzgwdzR6WVFj?oc=5",
@@ -46512,412 +46720,6 @@
         },
         "de": {
           "title": "Die Achse Madrid-Lissabon-Luxemburg strebt ein ehrgeiziges EU-Ziel für erneuerbare Energien für 2040 an",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a1be4aa27f4a88349b592617e7f97069f9689439",
-      "title": "卢森堡U19vs北马其顿U19数据统计【2026年10月03日】",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xTk1EQjN0TnlpclhBR3VaOVBmSlJkc3NncWhYRll6OXNYYVBpMDhTbDJLaE1YOTBJSW1DNXpBempuQ280VlBzcUF6cF80RjgtNURBRlZpSGxXUQ?oc=5",
-      "source": "球迷屋",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-02T09:30:47.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg U19 vs Nord Mazedonien U19 Statistiken [03. Oktober 2026]",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg U19 vs North Macedonia U19 statistics [October 03, 2026]",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg U19 vs. Nordmazedonien U19 Statistiken [03. Oktober 2026]",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Statistiques Luxembourg U19 vs Macédoine du Nord U19 [03 Octobre 2026]",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5c6032d3f4f6849293e64500a08ba6c55b63faa7",
-      "title": "THE OTHER PLACE al Grand Théâtre di Lussemburgo. Una tragedia moderna che ti prende per mano e non ti molla più",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWVFX19VamtZa1dST1YyVUctd1BzYURSYUJoQ0xyQnhTOUE5ZWdlTnFpODI4VXlSX1lrWWRILUhPeWdDcG1qTjhsVTE4d1I0R05uQlBFNjEyaVI1VmJnck9GZWNNNHEwZjd5NHg2bmwwbFdoRDhFbUtyaUhjbG9hSTlB?oc=5",
-      "source": "fattitaliani.it",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-02T09:30:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "DÉI ANER PLATZ am Grand Théâtre zu Lëtzebuerg. Eng modern Tragödie déi Iech an d'Hand hëlt an ni méi lasslooss",
-          "summary": ""
-        },
-        "en": {
-          "title": "THE OTHER PLACE at the Grand Théâtre in Luxembourg. A modern tragedy that takes you by the hand and never lets go",
-          "summary": ""
-        },
-        "de": {
-          "title": "DER ANDERE ORT im Grand Théâtre in Luxemburg. Eine moderne Tragödie, die einen an die Hand nimmt und nicht mehr loslässt",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'AUTRE LIEU au Grand Théâtre de Luxembourg. Une tragédie moderne qui vous prend par la main et ne la lâche jamais",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5dc3aa69b13fc6f29a65be299a956b668c81e880",
-      "title": "国际友谊十月卢森堡U19vs北马其顿U19预测分析",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fel9fUlJvZU93dE9saGtGV2Zsbl9wNHdZczZzS1ZKWmY3ZkdPUnlDMTdTZ3ZLTU9BN0gtVnE1UFR2WkN6bGZUb09zZlFhYkJESkMxVQ?oc=5",
-      "source": "球迷屋",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-02T09:20:28.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Amitié internationale octobre Luxembourg U19 vs Macédoine du Nord U19 Analyse de prédiction",
-          "summary": ""
-        },
-        "en": {
-          "title": "International Friendship October Luxembourg U19 vs North Macedonia U19 Prediction Analysis",
-          "summary": ""
-        },
-        "de": {
-          "title": "Internationale Freundschaft Oktober Luxemburg U19 vs. Nordmazedonien U19 Vorhersageanalyse",
-          "summary": ""
-        },
-        "lb": {
-          "title": "International Frëndschaft Oktober Lëtzebuerg U19 vs Nord Mazedonien U19 Prediction Analyse",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2e7a4fdbd3144af5da2e89d675639cf5a44b1601",
-      "title": "Assises Luxembourg - La perpétuité requise par l'avocat général contre Mohammed Taoussi",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdFZ0aVlXeWtBblJNOHpqWER0MFNSbTFfVG5DaWlTRlc4cjRiaHhpRjNDS29PV08zdWJYWlVsdEFqcGRaSWsxLURMaXdvNUJPUTR3ZEdPb3hMWXZTVVNoU3pBM1RPdzdNTXNtZjlSQko2LXlPZ3dJWVJkcVpGR3hYWFp1VzI0LV8yWkJFcDFUckRLS2k4SW8tOUY0aGstckVxN3NKM3RtN3JPeVF2bUtJMTlzX05QUXFVVzV1MFNFNER5YS11Rzl5ZHNpV1l5Q0pneXhGUlJ4RDVCRHZWRUVpcGVvamFFR0d5eFFLaXNoV3FjVk05Ync?oc=5",
-      "source": "DHnet",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-02T09:04:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Assizes Luxembourg - Life sentence requested by the Advocate General against Mohammed Taoussi",
-          "summary": ""
-        },
-        "de": {
-          "title": "Schwurgerichte Luxemburg – Lebenslange Haftstrafe beantragt vom Generalanwalt gegen Mohammed Taoussi",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Assizes Luxembourg - Liewensstrof vum Affekot Général géint Mohammed Taoussi gefrot",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c89652512f7a0081e1f5a9494f6e3c1b75975551",
-      "title": "Benzin in Luxemburg teurer geworden: Das sind die aktuellen Spritpreise",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWxiWm5rR0RRUkd6Z0RBZ3hva3ppMDlvWjFaQ3FfS2MyRGZVdktySTVkaThOdFdRU2pSbHc2NW5YLXRuMmY4T0Rfb2pVZzRIN25jTlBhbk1sTkVmekxCUTgyUkJ4Q1Bjcl9hQkI4WnVuQ25URl9xb0hTVTdvVnlISWdsY3lUMk94UUoyS0xfUGlTeTJqd203UDRaZEROdDN3OXBWLW9RMk9WcVhmckFyQ2hwWQ?oc=5",
-      "source": "SOL.DE",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-02T08:55:38.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Bensin ass zu Lëtzebuerg méi deier ginn: Dat sinn déi aktuell Bensinpräisser",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gasoline has become more expensive in Luxembourg: These are the current gas prices",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'essence est devenue plus chère au Luxembourg : voici les prix actuels du gaz",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f649c5c34fb349839ea0b4044fbe29acab0b3ec7",
-      "title": "UMAN architect s’étend au Luxembourg et fait dialoguer art et espace",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa25jdHhVdVVJNm43OU44YVc5TWNFUUszQkJlVXBKRFE1dXUzeEkxc0xMVGotMEdqTkhIdDBaSV8ydTVUYWRaNkdfM3lHNGNEdjhkN1ZEYXdCNFRSYTI5S1VJNzRDVmdhY2RJNGpvUUxiWWx6NU1WLURsWDU5QkdTUEl6ckJpVVdKamNUSGRFRXY5bTJ1RFZuNEtuQjBSLVk5S1VJTmdwWGNQcTJtaGxLUUdmS2Vsdw?oc=5",
-      "source": "Le Soir",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-02T08:34:59.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture",
-        "tech"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den UMAN Architekt erweidert op Lëtzebuerg a bréngt Konscht a Raum an den Dialog",
-          "summary": ""
-        },
-        "de": {
-          "title": "UMAN-Architekt expandiert nach Luxemburg und bringt Kunst und Raum in Dialog",
-          "summary": ""
-        },
-        "en": {
-          "title": "UMAN architect expands to Luxembourg and brings art and space into dialogue",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0d7160ee2fc9091bddeed7250a86497750577cea",
-      "title": "Эстония – Люксембург: кто победит в матче 3 тура Лиги наций 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1BHbkIzSm5DNHhSS2lTR2R5MURBYmRNV0xVMHBnV1lERVJwNXl2ZGJMNXBaRE1DNlctR2FWbVhpVUJQc3lhNDEyQlBJVTEyNDVzWHlYNHk3dEZzSUlLZHJIZElOakhPalc1ZFBBV1huMTJmS0p2c0czX2dkeWlra3NuckkwQnNpQU5lSjUtaDR1SEZmaV9BREQzVmkzaHJDRGgta3RvY3k?oc=5",
-      "source": "bombardir.ru",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-02T07:36:58.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Estland – Luxemburg: Wer wird das Spiel der 3. Runde der Nations League 2026/2027 gewinnen?",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland – Lëtzebuerg: wien gewënnt de Match vum 3. Tour vun der Nations League 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia – Luxembourg: who will win the match of the 3rd round of the Nations League 2026/2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie – Luxembourg : qui remportera le match du 3ème tour de la Ligue des Nations 2026/2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3d676ad784ed838d232a850160148bc23bb562b5",
-      "title": "Zwei Luxfit Neueröffnungen in Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1Z1VqcWtWTG1BQU1lZlp1OEZoaTNNV0xZQkwtSkY1RjJQOFdnYmlrT1F6T3ZlX3Ficm83VGtCbHNBeXNZLVlkNWtIcTVxeERudEVPRWJSUllXUzVOOVVSdmxmZG5CMmx4NnJSVjhWQ3VsX0FvdjhNWTJOMA?oc=5",
-      "source": "bodymedia.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-02T07:29:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Two new Luxfit openings in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Zwee nei Luxfit Ouvertureszäiten zu Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Deux nouvelles ouvertures Luxfit au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "adc17b22d69d8bd21c227c73bfd2489bff048e92",
-      "title": "Minister Strand: Samarbetet mellan Finland och Luxemburg stärker Europas säkerhet och konkurrenskraft",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZ3ZVdGFtUHlid0V3SXY0QThfeG43c0hjb0tNbzctWGdwMXludmJ6eUwwVDRSNlkwLWt3aW5BRkpPd21JeW5TYjgyOGlFcGdyYmZTWUVRNDhmR2R5TGZsUkZzcVRFblplbEZaazNyRDB3bDgtLWhGVTRkX2l6WU5vcFFDLVhoNVlxZGJLMXZEQVlrWUNZNjJ5OWswVFdDM1NzSzZHc2lhNG9CZGxkaEJQQng2bXl3YUc3dWVJRlVFclFZeUtVSXZvUE1zb0pkTlJSa0RwRzRKLVlyWmJCaXVLRXVINW5MNllkTmo5RU4tbV9oRHBSdWRIUllmWnA2dw?oc=5",
-      "source": "sttinfo.fi",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "sv",
-      "publishedAt": "2026-10-02T07:20:28.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Minister Strand: D'Zesummenaarbecht tëscht Finnland a Lëtzebuerg stäerkt d'Sécherheet an d'Kompetitivitéit vun Europa",
-          "summary": ""
-        },
-        "en": {
-          "title": "Minister Strand: The cooperation between Finland and Luxembourg strengthens Europe's security and competitiveness",
-          "summary": ""
-        },
-        "de": {
-          "title": "Minister Strand: Die Zusammenarbeit zwischen Finnland und Luxemburg stärkt Europas Sicherheit und Wettbewerbsfähigkeit",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ministre Strand : La coopération entre la Finlande et le Luxembourg renforce la sécurité et la compétitivité de l'Europe",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7ad1e4d6bc67f13a219852a85b9fae84261bdcac",
-      "title": "Assises du Luxembourg : Mohammed Taoussi reconnu coupable du meurtre de son fils âgé de 3 ans",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcm1EYURfLUdBcTJJTEp2LXRyQndLZWxROFdsVkdBTGRhSm9ET0V3UzJNbkJlVVBPX3YwNWcwY1pCdXh3RWk1a21Tc0R1c1lCb0JodnFDTVRILUUxT3FzdzNzT0xjNWZZS2lBaG9ubmdpYTVyWWpqY3V4V1BsX0FYR0hScmFoQXEwN3l5dE42RGpkR09ZZ3FWMzNXcU5HUVAyZFJEQzZIOTFXOGxsdTBpN0ozb2RUT2YyeXUwT3A0ZHl0NldDVDc0?oc=5",
-      "source": "RTBF",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-02T07:17:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg Assizes: Mohammed Taoussi found guilty of the murder of his 3-year-old son",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburger Schwurgericht: Mohammed Taoussi für schuldig befunden, seinen dreijährigen Sohn ermordet zu haben",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Assizes: Mohammed Taoussi wéinst Mord vu sengem 3 Joer ale Jong schëlleg fonnt",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "aacff6a6618e34e39aa625b0b209740584d8dfea",
-      "title": "Hawksford formally establishes unified Luxembourg business",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTV3Y0FKRGZSbGFnbWduUjBienR4Y256R1R1czh1dXZ1R2hMSDNNTWlKSGtJSG9ocUVVYndzNlI1bFZsLW9RZUx4LVliT1o5eTE5NThxX2FpUDVpZ2VoeElobnBxcV9XdnIwTnBqQmtocWYxUXB1VnhCcjRWZi1zRkFDX3hvelpSNWxEVQ?oc=5",
-      "source": "channeleye.media",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-02T07:01:56.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Hawksford grënnt formell vereenegt Lëtzebuerger Geschäft",
-          "summary": ""
-        },
-        "de": {
-          "title": "Hawksford gründet offiziell ein einheitliches Luxemburger Unternehmen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Hawksford crée officiellement une entreprise luxembourgeoise unifiée",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "aa85ab7db4a5e32f6f496b47ed0374f76d3a5e4b",
-      "title": "فاز منتخب لوكسمبورغ تحت 19 عامًا على منتخب مقدونيا الشمالية تحت 19 عامًا بنتيجة 4-1، محققًا فوزًا ساحقًا في مباراته الودية.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkFLb05iMFdnY1lSa1A5aUNMMU43MmhKQTJpeVJwVTBkNnRheXRuQXZhQXVqbTJETWdoYkZ1UTZLcDRheEVhWnI4UnFfZHJvd0dvRVBzSUZfTjV3QTJRamU5V3JTbkNLTklkX19wQkFVTGFhaWtWNzc3MkwxbWpXaUQ1QzF3QUotZGZEdVBMR01FTmRlQ3UyLVZ0VXlhTFlj?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-10-02T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die luxemburgische U-19-Mannschaft besiegte die U-19-Mannschaft Nordmazedoniens mit 4:1 und errang damit einen Erdrutschsieg in ihrem Freundschaftsspiel.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Lëtzebuerger U-19 hunn d'U-19-Equipe vun Nordmazedonien mat 4-1 geklappt, an hierem Frëndschaftsmatch eng staark Victoire gepackt.",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Luxembourg U-19 team defeated North Macedonia U-19 team 4-1, achieving a landslide victory in their friendly match.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'équipe luxembourgeoise U-19 a battu l'équipe U-19 de Macédoine du Nord 4-1, remportant une victoire écrasante lors de son match amical.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3a8c45a97534ec8c62e926fe5950e8c1fc8ad7b9",
-      "title": "룩셈부르크 U19 대표팀이 북마케도니아 U19 대표팀을 4-1로 꺾고 친선 경기에서 압도적인 승리를 거뒀습니다.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHFBN3JxRVhxY2JqLTQ1Y3c3cWVWbmtLckZDZkZmTVhpV2NvZ1MxckdXV09xcnNST1FNVk5JbkZkTXpkVjJOajZjWTdkQVpJRkVhdkhEdlFXLXZLWjEtTkJlY21xNV9xNFJKYmd1TFdTTDYzYTlEUElyOHktQWdNY25vYzRhZWV1YnAwMWpHUi1uWFVwVWhhRTUyWFhfLVh0?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-10-02T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die luxemburgische U19-Nationalmannschaft errang in einem Freundschaftsspiel einen überwältigenden 4:1-Sieg über die U19-Nationalmannschaft Nordmazedoniens.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg U19 national team achieved a resounding victory over North Macedonia U19 national team 4-1 in a friendly match.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Lëtzebuerger U19 Nationalequipe huet an engem Frëndschaftsmatch eng wonnerbar Victoire géint Nordmazedonien U19 Nationalequipe mat 4-1 gewonnen.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'équipe nationale luxembourgeoise U19 a remporté une victoire éclatante contre l'équipe nationale U19 de Macédoine du Nord 4-1 lors d'un match amical.",
           "summary": ""
         }
       }
