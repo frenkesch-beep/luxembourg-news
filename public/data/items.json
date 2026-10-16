@@ -1,6 +1,498 @@
 {
-  "generatedAt": "2026-10-16T07:16:11.784Z",
+  "generatedAt": "2026-10-16T12:27:51.433Z",
   "items": [
+    {
+      "id": "d578a61d0005c6d641f21f339d4e882994234139",
+      "title": "Itajaí recebe visita do novo embaixador de Luxemburgo nesta sexta",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlBXVFlPSVFENUdQZ2VyQ2FZUDh1NUdRbHkwbURYcUR2U3c1Wjg2bmFuNE9TOVh3YjBlX0FJX2x0cHl3MTNfSllVYVNRR2dfcGhCS0M4WFk4ZkJCZEo2NnFYSGMxa1hrLVFUSmh0d2V4bjdTTFdhemJRajdBblZyX2dPazl5VnZuZFBxeml3ZHZrWUt0a09LX3lJaklHNlFMVm9J?oc=5",
+      "source": "DIARINHO",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-16T11:18:21.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Den Itajaí kritt dëse Freideg Besuch vum neien Ambassadeur vu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Itajaí receives a visit from the new ambassador of Luxembourg this Friday",
+          "summary": ""
+        },
+        "de": {
+          "title": "Itajaí erhält diesen Freitag Besuch vom neuen Botschafter Luxemburgs",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Itajaí reçoit ce vendredi la visite du nouvel ambassadeur du Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b0df48c380c6d8408f8e678bb5849fbb8d236c81",
+      "title": "Luxembourg: 80 Artists Audition for Luxembourg Song Contest 2027",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVDRMN0pRd1BKbzFKV2c5UTFRSWhVYkIxNXN3Zml1UEx1TjdRQzdCdllndlQ5U2ZkaGNUSmFLZEJnRXdfSEppbEdvclRuSFJiSUIyVUI5UHo0ajQycDFvdEJwMEstUkFaa0NFcVlxdVNTdW82Z3J6VkJzUmhHdHVseVA2WDZkYXhvNW85aE0yRkh3NF9Vdkpn?oc=5",
+      "source": "ESCToday.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-16T10:48:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg: 80 Artists Audition for Luxembourg Song Contest 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg: 80 Künstler nehmen am Luxembourg Song Contest 2027 teil",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : Audition de 80 artistes pour le Concours luxembourgeois de la chanson 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "dbcc044b00d186e109961949a92db90fac3c562a",
+      "title": "Luxembourg Song Contest 2027: 80 artists compete for a place in the National Final!",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXNGeTdpT0VUQm1ZLUVLWkFVWG9FUjh4TVQzWVpLLXpQeUFmWEZUdVhxVzhySHRQbU9XRHFSc1ItYWlsSHZETTZaVGZ2RkNxN09YaGF5dW15QlR1eDYxRTFlQ1dwUndoZEdGXzVkUUphajVHaDJYb2pGMFNXTm0xRms0ZkR3TEFweHZYZVR6c1lGeUVJQ0p6clNCcXYzRFcwMVM3dkNaaEc0TWs2RG1NQjVPdm5EeUh2aU9R?oc=5",
+      "source": "Eurovision News | Music",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-16T10:30:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg Song Contest 2027: 80 Kënschtler kämpfe fir eng Plaz an der Nationaler Finale!",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxembourg Song Contest 2027: 80 Künstler kämpfen um einen Platz im nationalen Finale!",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg Song Contest 2027 : 80 artistes en compétition pour une place en Finale Nationale !",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "64b044cf24e247cdc59ff97d341f21cef2722bed",
+      "title": "Luxembourg Song Contest 2027: 80 καλλιτέχνες διεκδικούν μια θέση στον εθνικό τελικό!",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNQkhOTDhPTE1WTVRkbEtDZy1HeE1jTTVtb3k4NTF4V0tNT0RWN01uVEJSS3VpZE45dW5QMmdnck0zN0g2WUJHdlJwZFRwM0JEQVVkVmcxU0lWNTNFOTVoME02dVV4dGN0MDVRRjRONlh3Vk5ZZlBQUnYtd2QyV3JmcE1uM28tTGdvT05RYlcwem1yQTRNUjNwNi05NzQtMXZDeE9Malg1bUYwc0hTV0I5NDBERGQ2Zmp5Q0pRSDRpM1otdUoySGRVMDh5SXFSbnN4d21QRzczUmZBQzJpbndrSGdnS1B5Nnd5bzBZZThVRnFzSHFoWElCZXlhUnRneGJ6OWMzMWhCQ25HVWtGZ05sMHowRzlWRzVhdXVGZzhpMFJ2MzVfWUxIYWhNd0pMQmpyWFFvUkFEeml5QWl4X21qWkdka0NlRHlCbXpaZDZDOUFPUQ?oc=5",
+      "source": "Eurovision News | Music",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-16T10:25:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Luxembourg Song Contest 2027: 80 Kënschtler kämpfen ëm eng Plaz an der Nationalfinale!",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Song Contest 2027: 80 artists vie for a place in the national final!",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg Song Contest 2027 : 80 artistes se disputent une place en finale nationale !",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxembourg Song Contest 2027: 80 Künstler kämpfen um einen Platz im nationalen Finale!",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9cdc43372b331a109d6bd42408e89786d89c9ee3",
+      "title": "Primitive Robot, un ponte tra Italia e Lussemburgo con il concerto di Marcondiro",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHhpQWFHU1FDN1FzcFV1UXZHdEJXNVhlbUVWMkZvUnF0WHNIYXJJYmx4TXNtVHpSUTBDdkVLb24tV2pKNl9UWFNFUlRBNVFFbnM3OVB5VDRad1dGb0hoUHVsMmpZeENkUWNxdmZwMlBtd3A4dHNLdl9ZQXotYmltcXRGZGNmUV9uVDNFdzNFMEYyOG9CUHNWOGZTT3pEaWRFZHlEdlV5M0RGLVZQQTVoU0VHdzhwQUk?oc=5",
+      "source": "Notizie Geopolitiche",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-16T09:58:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Primitive Robot, eng Bréck tëscht Italien a Lëtzebuerg mam Marcondiro sengem Concert",
+          "summary": ""
+        },
+        "en": {
+          "title": "Primitive Robot, a bridge between Italy and Luxembourg with Marcondiro's concert",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Primitive Robot, un pont entre l'Italie et le Luxembourg avec le concert de Marcondiro",
+          "summary": ""
+        },
+        "de": {
+          "title": "Primitive Robot, eine Brücke zwischen Italien und Luxemburg mit Marcondiros Konzert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "04813a3f3e143d8220add13376d9748e885bdc15",
+      "title": "Le couple grand-ducal du Luxembourg en visite, ce vendredi après-midi, à Frasnes : un retour sur ses terres pour la Grande-Duchesse Stéphanie",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNaXQ5MVNabWh5YnRKN09nVzh2NDhlTVJ3T3ZkcmlxU21SNVdjazRSbzFjZDJqeUVvSDl1cTk1dVdOaUp1RDNublN5MGlfb3VmVnlqemF5X3B2Q1hQRHkwRHFUOVlocUM2NktxOUNLdkEzejBjTWtfZ3NOLTd3ZnNIdFliYWdJUVVzTnVqUGhrcVFuWjRiLXpReVI2OU04dnhFdjRtUE9ZUzBrSTdDaElId0JJTEhoS3NCSEZnV2NFNUF0MTVtSU5xd3p4bnBzaTNYUzdDTWFZazczUW5sdHZ2YktrRzZzSFk0MzFMUTVFV0hyM2dac25SZGZRa3JqeE16bGtiS1ZsRUtEbjBKc3VmbkozX2N0MjRGbFR6MEY4Y1pXOEdfSFlaQmZiRGtGOE14dTlzOWlfQTFrNmo1aVZYM2JMRXZSU3FJUjlvMnYta2hJNHBqcE0wLVM0ODNBam1pVDdR?oc=5",
+      "source": "L'Avenir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T09:48:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "The Grand Ducal couple of Luxembourg visiting Frasnes this Friday afternoon: a return to their lands for Grand Duchess Stéphanie",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Groussherzogleche Koppel op Besuch zu Frasnes dëse Freideg de Mëtteg: d'Groussherzogin Stéphanie zréck an hir Terrainen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das großherzogliche Paar von Luxemburg besucht an diesem Freitagnachmittag Frasnes: eine Rückkehr in ihr Land für Großherzogin Stéphanie",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "293a8984c35d65b299eccd0b8da6e7d5bdb3e78d",
+      "title": "Former MP Makeyenko temporarily lifts freeze on UAH 1.5 Billion in Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObW5ZaWctakFJejNYUExiYmJKNHpfWC1KRFBZQnBRczRibzUyQ3p0azc1RnpXVjQ0QjRUeF9Xalp1RmZxYmFHeDk2dmEzcGNHTjdpUkFHOHFaV2swNks0dEplUmdRdzNVM2tuamMzVEllOFgtUmRyQ2E5SWswR2pEUS1Gdmp0T2trQlRoWDRvV3VvYmYySEN1MmluSG13YUx1Ql84R0M0cXpabXhhcDlnM1I4Nk3SAboBQVVfeXFMTVR2TFhYakFfMFBWaV80S1VsVXBpMDZ1SnE4Y3p3OXRhNW9YTjh0UjFUdkJ6M0dNSU5RUlIzcHdRNlRENVVBQlJHVW1qWWZwUEJEdHpucE42QVVNUHlJMHp4bjFGOEFHLWhjcDF5d05TTW02NEFBcFJsbUhqSjhac3lvRlBPdzUwdzdPVk5zWnZFQmNBRndQMWJBd1RJcGJDSTZpY19KS3VzLTZ4VnFIczdrQTUtT0hTNzFR?oc=5",
+      "source": "LIGA.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-16T09:38:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Ehemaliger Abgeordneter Makejenko hebt in Luxemburg vorübergehend das Einfrieren von 1,5 Milliarden UAH auf",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De fréieren Deputéierten Makeyenko hëlt temporär d'Gefrierung op 1,5 Milliarden UAH zu Lëtzebuerg op",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'ancien député Makeïenko lève temporairement le gel de 1,5 milliard d'UAH au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "10640aa6208f47c26ceb41d0067813d160d48e8d",
+      "title": "Public CbCR: what non-EU groups need to know before filing in Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMklpYm5hSTV1aHhFV1ZVb1ZJU0NtS0FnSWVqazlXeVBHaTEwVzJ6VGRQcktVd3lPUkVLYnRHZVRPOGs2OXdqUm9nMDlnYTM2S3o4RXRXYkJad0VLRElfNDgtTjdHWC1vS0Y2cE5Eb2JhMWlVRjljWlVpQTR6VzhqU3JrRWtZUlRrYzRBM1k2NndESC1nQVFuZVNwcGxjcGtpbVdzQzlGMXBIUWdSMzl1TlJLVVMyRTlPbEpXZ28yVlBhOVV1SmJ3cUswWGVoUHZ6dUE1SkwwVVV1SFJMZVJVMk9FRHc?oc=5",
+      "source": "International Tax Review",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-16T09:36:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Ëffentlech CbCR: wat Net-EU Gruppen musse wëssen, ier se zu Lëtzebuerg ofginn",
+          "summary": ""
+        },
+        "de": {
+          "title": "Öffentlicher CbCR: Was Nicht-EU-Gruppen wissen müssen, bevor sie in Luxemburg einen Antrag stellen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "CbCR publique : ce que les groupes hors UE doivent savoir avant de déposer au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d8d195a603d451d4c138ecd00b85d37d507a78ad",
+      "title": "Xylella fastidiosa detected in Luxembourg’s vineyards",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnlDRHdfUEVNRS1ocDVPb0FrLTZEdjZwQk1qZEZTcHpuRVBtbU4wdHBZczBWR1JJOHd1ZmhJTWhBeDBaUUkxdFRZY2dtdUVROFRvMnBGWkFESnpXYVlZbDg5YkNTbjJmOU5CdEZRN0pvcnROSXdQV19ScnYtZGtGUkhYZ0tSSVRLbVhXMGhQelM0VE1nTzFHd3ZMRUpCT3BwajBzVFVyUVhsZkVPRG9RSkxOeGw2YkhZdXpJa252VDh1bnE2QTdQMFltUlJHdFVoM0p1UEVLdkVIbG5aQkxBM3BoTlRJLUZScjIycng1dw?oc=5",
+      "source": "wein.plus",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-16T09:32:19.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Xylella fastidiosa détectée dans les vignobles luxembourgeois",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Xylella fastidiosa an de Lëtzebuerger Wéngerten entdeckt",
+          "summary": ""
+        },
+        "de": {
+          "title": "Xylella fastidiosa in Luxemburgs Weinbergen nachgewiesen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8cfd2159c15e387ca214f151da183a69360c7dbb",
+      "title": "OTELLO al Grand Théâtre di Lussemburgo. Quando il vuoto si fa tempesta tra un coro sublime e una Desdemona indimenticabile",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTGtiMDA0S21BcHVFMDdrcDJjUmdEUUZzT2Z3Qno5RlZkYWIzM2EzRVBjZkhLYm9vclh3SXlaZkNXYVBQSFBueHF0WVo4eDZPbVN4LVBDTjJHR3FfUkl0M0U3akp4b1Qtdk82ajZUaHdOTFVSdlh4a3N3ajB3aUhLTUVUQ2o2QQ?oc=5",
+      "source": "Fattitaliani.it",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-16T09:30:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "fr": {
+          "title": "OTHELLO au Grand Théâtre de Luxembourg. Quand le vide devient orageux entre un chœur sublime et une Desdémone inoubliable",
+          "summary": ""
+        },
+        "en": {
+          "title": "OTHELLO at the Grand Théâtre in Luxembourg. When the void becomes stormy between a sublime choir and an unforgettable Desdemona",
+          "summary": ""
+        },
+        "de": {
+          "title": "OTHELLO im Grand Théâtre in Luxemburg. Wenn die Lücke zwischen einem erhabenen Chor und einer unvergesslichen Desdemona stürmisch wird",
+          "summary": ""
+        },
+        "lb": {
+          "title": "OTHELLO am Grand Théâtre zu Lëtzebuerg. Wann d'Void stiermesch gëtt tëscht engem sublimesche Chouer an enger onvergiesslecher Desdemona",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "55d2b5a9e74b786d7f61b5de2f25aef847d0b408",
+      "title": "Luxemburg Ladies Tennis Masters: Kerber zieht souverän ins Halbfinale ein",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWVUbXVMcE9kUnFZU1pKWjUtRGZlWm1jdW5qUW5vWThpQmh0cjJkWEVLZXFCLUQyQnRnSXZIRHRCcUlWTTROVU13eUNfVXAwTEpNSUN0bno0V1drcnpreVZpTVF5LU1jVXQ4Z3A2bllPR05LNkdlXzdtM3lkbFV4amw2b3h3U1NqUU0xNHEybTkwNTgzeWh1VnBFVFBNeXd1UDlHVnMxeE1tOURZd01QbVNZMk9oMWNsaldxS2R2RzRFMFk?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-16T09:24:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg Ladies Tennis Masters: Kerber confidently moves into the semi-finals",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg Ladies Tennis Masters : Kerber se qualifie avec confiance pour les demi-finales",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Dames Tennis Masters: Kerber geet zouversiichtlech an d'Halleffinale",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "129be38729b40df636453cd657093dad057e502f",
+      "title": "» Ο Δήμος Εορδαίας στη Γενική Συνέλευση του ευρωπαϊκού έργου URSOILL στο Λουξεμβούργο",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9QVWNWU3ZvR0FTWFNBMjVEWXVfUlV4WTZEMWI0aXJxdkdQajUtbmdBR29WeDk5dlFWa08td1ZJZlFwanM5YWhV?oc=5",
+      "source": "kozan.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-16T08:55:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "» La Commune d'Eordaia à l'Assemblée Générale du projet européen URSOILL à Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "» The Municipality of Eordaia at the General Assembly of the European project URSOILL in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "» D’Gemeng Eordaia op der Generalversammlung vum europäesche Projet URSOILL zu Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "» Die Gemeinde Eordaia bei der Generalversammlung des europäischen Projekts URSOILL in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ed331c6b9c4caa9ed5d85a7fcb27fda01b63d7d3",
+      "title": "Frasnes-lez-Anvaing aux couleurs du Luxembourg : le couple grand-ducal en visite ce vendredi après-midi",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQnJza01XNTFDTE1TZEY1RTVMYWpnWEJFNGJMaUw5MVd2OENsSW9nZWl1U2d4Vjc0Y2RFeVRlV1VUa1Q2Umg4OU1Cd2ZxR0x2bWNkNWV2Rmp5NFBjMm0ycnRlRTZBVFRocy10VnhOYVl6Z1VMdXFYTURIdzczSGN4Y3lubzZ4bTJiSnlQMnBReW1mMU9WOGp4b2gwWWVhcWVoZWZaTW5ZLWFMeTAyLWM2eXhhNDJvbUN3TGdvV2ctNF9fTkVsS21tamV1UmsyZGZVYmUtNDQySTN0X3hoZjRj?oc=5",
+      "source": "Notélé",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T08:45:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Frasnes-lez-Anvaing in the colors of Luxembourg: the Grand Ducal couple visiting this Friday afternoon",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Frasnes-lez-Anvaing an de Faarwen vu Lëtzebuerg: D'groussherzoglech Koppel op Besuch dëse Freideg de Mëtteg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Frasnes-lez-Anvaing in den Farben Luxemburgs: Das großherzogliche Paar zu Besuch an diesem Freitagnachmittag",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9464f217a743becc2a239c731378dc41e32cd0be",
+      "title": "덱스터, 스페인·룩셈부르크 영상업계와 협력 논의···“AI VFX 활용 확대 모색”",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1Y3RoRVltUkZUaGVCeU5haEJlNkJSc09SNlhWd1JKLWVaWDlhUFRrWnRvcW8wZ0l3N2dxSFo5UGNIZVdLVGFNSFBwREtEWGNOVm9HTW9xMy1BaHB3U2FVRmZyc2gxN0QxaWFzT014SmXSAXRBVV95cUxPbkZxdDd5b3I4czh0SmZRbWYyNHpnU0Q3eEpOSkExNU4wa3BDODk4V2t5VjB1LW9pYXBUOW9OX00tQUdoQlZqVFBxRXJYTFNsLWdNUjlkN1NTczk1emN6RHpEYTVhT3hhazBPSlBWV0tVZ3VROA?oc=5",
+      "source": "이뉴스투데이",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-16T08:17:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Dexter diskutéiert Zesummenaarbecht mat spuenescher a lëtzebuerger Videoindustrie ... \"Expansioun vun AI VFX Notzung exploréieren\"",
+          "summary": ""
+        },
+        "en": {
+          "title": "Dexter discusses cooperation with Spanish and Luxembourg video industries... “Exploring expansion of AI VFX use”",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Dexter discute de la coopération avec les industries vidéo espagnoles et luxembourgeoises... « Explorer l'expansion de l'utilisation des effets visuels de l'IA »",
+          "summary": ""
+        },
+        "de": {
+          "title": "Dexter bespricht die Zusammenarbeit mit der spanischen und luxemburgischen Videoindustrie ... „Erkundung der Ausweitung der KI-VFX-Nutzung“",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8ffef3a76571e2f53f35954c4d511ca15c1c287c",
+      "title": "New Ambassadors from Azerbaijan, Vietnam, Luxembourg and Mauritius",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFBSdUxNU0h2LWY4YXZDTDE3WW1FYzZZUUhiZzRzU1dpcnRDMXc2TW1sUl9aclQ3LWVxS1FPMnFMX0MyMFFvbHFMNFlNc0RMUmZGdU9tc3ZsRVhpS1NES3RQc2tESm5KWjRaVlV3VmpzeDgwUkYyVlJUSkNsQUtvOVBuendfYlY1N000dEU3X01qTXZhbHJPM28tM2xhSVNMRC1ia21kM0w4bzdPMjVmcjRiTWc?oc=5",
+      "source": "Government.se",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-16T07:39:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Nei Ambassadeuren aus Aserbaidschan, Vietnam, Lëtzebuerg a Mauritius",
+          "summary": ""
+        },
+        "de": {
+          "title": "Neue Botschafter aus Aserbaidschan, Vietnam, Luxemburg und Mauritius",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Nouveaux ambassadeurs d'Azerbaïdjan, du Vietnam, du Luxembourg et de Maurice",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "557a731747245ad22be55a838ef015f04ede289b",
+      "title": "Экс-нардепу Макеенко удалось ненадолго снять арест с 1,5 млрд грн в Люксембурге",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTkxfVS1qWXRRWXJ1Q3BSX0hqczhFS3J1a0lRZWlYcy15akN0MC1YQ3FYYmZEbTk4M1BEc3RVeDdOSWJNNWtfbkZHWkhKMmhXV201Y2psTUg1Unc0ZV9ldmNLcl9MRXhudHpvS1M5SHZKUGtEcmtuSm5FeDRMYlRrSkRsaF95LU51eHBpdXVmbzJtZG1HTWs2dzlqenBneEQ4UEdkaWY5Q011ckVfLTBoLXNvd9IBuAFBVV95cUxPVU5jUUl4Y21WVzFrYnR5MTJNUFIta0wwSFRaS1BLWHZpdzc4R2FEZ3lQclY1QXFRODJ6RGFmaXdxaVVUZklZdTJZODNYYk5PRWxfTzhTNmdSbWlLdlNhYUVLNzVUOVN1UzIySFB5NkowUGpfWGtubXZOS3p3OV9oZmtaTzBOWE9WOU1rQ1M0TFVDU1dwcENtNl9XTk5DR3ZwdHF1TFExOGd4d2QtVEg1by1GQ2tTZGNL?oc=5",
+      "source": "LIGA.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-16T07:32:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Den Ex-People's Deputy Makeenko huet et fäerdeg bruecht d'Saisie vun 1,5 Milliarden UAH zu Lëtzebuerg kuerz opzehiewen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ex-People's Deputy Makeenko managed to briefly lift the seizure of UAH 1.5 billion in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'ancien député du peuple Makeenko a réussi à lever brièvement la saisie de 1,5 milliard d'UAH au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Dem ehemaligen Volksabgeordneten Makeenko gelang es, die Beschlagnahmung von 1,5 Milliarden UAH in Luxemburg kurzzeitig aufzuheben",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "ec8d506ee4edde2a0b7425a3fd9d1e5c1bbd71d1",
       "title": "4 brasseries pépites à découvrir en province du Luxembourg",
@@ -15,7 +507,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "4 gem breweries to discover in the province of Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "4 Bijoue Brauereien ze entdecken an der Provënz Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "4 Juwelenbrauereien in der Provinz Luxemburg, die es zu entdecken gilt",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "71fac10db5ad038ba522c27df2e9647e0f1c0b92",
@@ -31,7 +536,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Die EU-Außenminister trafen sich in Luxemburg zu einem Treffen mit der Absicht, Putins Rückzug zu verhindern. Ein russisches Spezialflugzeug landete in Peking, aber China intervenierte, um die Situation zu entschärfen!",
+          "summary": ""
+        },
+        "en": {
+          "title": "EU foreign ministers gathered in Luxembourg for a meeting, intent on cutting off Putin's retreat. A Russian special plane arrived in Beijing, but China intervened to break the situation!",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'EU-Ausseminister hu sech zu Lëtzebuerg fir eng Reunioun versammelt, fir dem Putin säi Réckzuch ofzeschneiden. E russesche Spezialfliger ass zu Peking ukomm, awer China huet intervenéiert fir d'Situatioun ze briechen!",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les ministres des Affaires étrangères de l'UE se sont réunis à Luxembourg pour une réunion avec l'intention d'interrompre la retraite de Poutine. Un avion spécial russe est arrivé à Pékin, mais la Chine est intervenue pour briser la situation !",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c00c1162c8aa570958ff1d153c238deee1b8ede3",
@@ -47,7 +569,20 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "The Luxembourg PS will not vote to abolish exit allowances for provincial deputies: “Not like that!”, says its president",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D’Lëtzebuerger PS stëmmt net fir d’Ofschafe vun den Austrëttsgelder fir de Provënzdeputéierten of: \"Net esou!\", seet hire President.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die luxemburgische PS wird nicht dafür stimmen, die Austrittsentschädigung für Provinzabgeordnete abzuschaffen: „Nicht so!“, sagt ihr Präsident",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "bf5e32197c89b1878eae44b0837407893194a838",
@@ -63,7 +598,24 @@
       "topics": [
         "eu"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Juan Gonzalo Ospina huet als Kolumbien Ambassadeur an der Belsch iwwerholl, mat Representatioun virun Lëtzebuerg, der Europäescher Unioun an der NATO.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Juan Gonzalo Ospina took over as Colombia's ambassador to Belgium, with representation before Luxembourg, the European Union and NATO.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Juan Gonzalo Ospina a pris la relève en tant qu'ambassadeur de Colombie en Belgique, avec une représentation auprès du Luxembourg, de l'Union européenne et de l'OTAN.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Juan Gonzalo Ospina übernahm das Amt des kolumbianischen Botschafters in Belgien mit Vertretung vor Luxemburg, der Europäischen Union und der NATO.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "220cfa8b110da87cef67679a26dcda5570a14779",
@@ -79,7 +631,57 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Dexter Studio bespricht die Zusammenarbeit mit Vertretern der Filmindustrie aus Spanien und Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Dexter Studio discusses cooperation with film industry officials from Spain and Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Dexter Studio discute de la coopération avec des responsables de l'industrie cinématographique espagnole et luxembourgeoise",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dexter Studio diskutéiert Zesummenaarbecht mat Filmindustriebeamten aus Spuenien a Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "85c9df3c9f2eaf6d64d5163cbe176c72df73502b",
+      "title": "Luxair apre il nuovo volo Torino-Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEZza1JtaF93OTBNYVZOVFNRQThVeUFrRTdMc1RSN3ZmS3YyOEFDampkVFI1TUpVc2g2UEJ6T3p2WHBPb3NFaHZBSVhnMHFnZWx0Zl9lMHVkUUVwNWZzaF9ZbkJITEJZMmpPOVoxa3RaSDVra2RIMGxySU9rc3NGZWx1VHF2WXZLb3FBUEtkZC1ndw?oc=5",
+      "source": "Travel Quotidiano",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-16T00:50:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Luxair mécht den neie Vol Turin-Lëtzebuerg op",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxair ouvre le nouveau vol Turin-Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxair opens the new Turin-Luxembourg flight",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxair eröffnet den neuen Flug Turin-Luxemburg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "437ce1fc7969d316e7a81232b205e46718fd4c33",
@@ -96,7 +698,20 @@
         "finance",
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Simmons & Simmons erweitert sein Finanzangebot in Luxemburg durch die Einstellung eines Partners – Simmons & Simmons",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Simmons & Simmons stäerkt d'Lëtzebuerger Finanzoffer mat Partner hire - Simmons & Simmons",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Simmons & Simmons renforce son offre financière luxembourgeoise avec le recrutement de partenaires - Simmons & Simmons",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0826243193761c4addf2b7ad2884274090e553e1",
@@ -112,7 +727,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Nancy, the Lorraine steel heritage in Luxembourg time",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nancy, das lothringische Stahlerbe zur luxemburgischen Zeit",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nancy, de Lorraine Stol Patrimoine an der Lëtzebuerger Zäit",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "2632665e6b12c9c7d67f334be46ba9913e2e4167",
@@ -128,7 +756,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "InPost S A : IS Iris Lux Bidco S.a.r.l. - InPost S.A. - Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "InPost S A : IS Iris Lux Bidco S.a.r.l. - InPost S.A. - Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "InPost S A : IS Iris Lux Bidco S.a.r.l. - InPost S.A. - Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "InPost S A: IS Iris Lux Bidco S.a.r.l. - InPost S.A. - Luxemburg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "6bcf575a4bffd9ca01eee163505376056e3ce5fb",
@@ -781,7 +1426,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Ruben Rubinyan huet sech zu Roum mam President vun der Lëtzebuerger Chamber getraff",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ruben Rubinyan met in Rome with the Chairman of the Chamber of Deputies of Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ruben Rubinyan a rencontré à Rome le président de la Chambre des députés du Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ruben Rubinyan traf sich in Rom mit dem Vorsitzenden der Abgeordnetenkammer von Luxemburg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "43a14e17a8ad3a89830f6d5ef3014c9088bb4b5d",
@@ -1013,7 +1675,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Manager vun enger lëtzebuerger Assurancegesellschaft huet 560.000 Euro mëssbraucht. Soll hien seng Versécherungspolice kontrolléieren? -eiei",
+          "summary": ""
+        },
+        "en": {
+          "title": "The manager of a Luxembourg insurance company misappropriated 560,000 euros. Should he check his insurance policy? -yeeyi",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Manager einer luxemburgischen Versicherungsgesellschaft hat 560.000 Euro veruntreut. Sollte er seine Versicherungspolice überprüfen? -yeeyi",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le gérant d'une compagnie d'assurance luxembourgeoise a détourné 560.000 euros. Doit-il vérifier sa police d'assurance ? -ouiyi",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "5b942f703c2cd96275a7cd5b173803ee62645f0e",
@@ -1442,7 +2121,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D'Strooss op Rosa Luxemburg zu Novo-Lenino gëtt hannert dem Zäitplang gefléckt. De Buergermeeschter huet erkläert firwat",
+          "summary": ""
+        },
+        "en": {
+          "title": "The road to Rosa Luxemburg in Novo-Lenino is being repaired behind schedule. The mayor's office explained why",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La réfection de la route menant à Rosa Luxemburg à Novo-Lenino a pris du retard. La mairie a expliqué pourquoi",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Straße nach Rosa Luxemburg in Novo-Lenino wird verspätet repariert. Das Büro des Bürgermeisters erklärte, warum",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "82adaf4ead968095ca8a5396f4612b84b48b3403",
@@ -1702,7 +2398,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "\"Hei ass d'Renovatioun, klengen Hond.\" D'Awunner vun Irkutsk si besuergt iwwer déi laangwiereg Aarbecht um Rosa Luxemburg, déi zënter 2025 gegruewe gëtt.",
+          "summary": ""
+        },
+        "en": {
+          "title": "“Here’s the renovation, little dog.” Irkutsk residents are concerned about the protracted work on Rosa Luxemburg, which has been digging since 2025",
+          "summary": ""
+        },
+        "de": {
+          "title": "„Hier ist die Renovierung, kleiner Hund.“ Die Einwohner von Irkutsk sind besorgt über die langwierigen Arbeiten an Rosa Luxemburg, wo seit 2025 gegraben wird",
+          "summary": ""
+        },
+        "fr": {
+          "title": "\"Voici la rénovation, petit chien.\" Les habitants d'Irkoutsk s'inquiètent des travaux prolongés sur Rosa Luxemburg, creusés depuis 2025",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a4ef912a63131ae5c4dc834e1abf0c82bd8249a7",
@@ -2160,7 +2873,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "El Salvador a Lëtzebuerg stäerken hir Zesummenaarbecht weider",
+          "summary": ""
+        },
+        "en": {
+          "title": "El Salvador and Luxembourg continue to strengthen their cooperation ties",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Salvador et le Luxembourg continuent de renforcer leurs liens de coopération",
+          "summary": ""
+        },
+        "de": {
+          "title": "El Salvador und Luxemburg bauen ihre Kooperationsbeziehungen weiter aus",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "dd8920d9346a00c66d6131613c0ada81383698b4",
@@ -2718,7 +3448,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "[Lëtzebuerg x Island | Highlights] UEFA Nations League | Liga C Grupp 4 Ronn 2 | 2026-27 Harrison Ford (QxfiGfKGwe)",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Luxembourg x Iceland | Highlights] UEFA Nations League | League C Group 4 Round 2 | 2026-27 Harrison Ford (QxfiGfKGwe)",
+          "summary": ""
+        },
+        "de": {
+          "title": "[Luxemburg x Island | Höhepunkte] UEFA Nations League | Liga C Gruppe 4 Runde 2 | 2026-27 Harrison Ford (QxfiGfKGwe)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "[Luxembourg x Islande | Highlights] Ligue des Nations de l'UEFA | Ligue C Groupe 4 Journée 2 | 2026-27 Harrison Ford (QxfiGfKGwe)",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3043326398665ff4b49e2c2cc8c2a3f0dbf795de",
@@ -4959,7 +5706,20 @@
         "culture",
         "travel"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Rama trifft luxemburgischen Premierminister: Direktflüge nach Albanien ab März 2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Rama trefft de Lëtzebuerger Premier Minister: Direktflich op Albanien ab Mäerz 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Rama rencontre le Premier ministre luxembourgeois : vols directs vers l'Albanie à partir de mars 2027",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "5daa37db02d84c7c5912eb1394e57b764f78f62c",
@@ -5782,7 +6542,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Lëtzebuerger laangfristeg Investitiounsfong kéint an ëffentlechen Transportprojeten a Vietnam investéieren.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der langfristige Investmentfonds Luxemburgs könnte in öffentliche Verkehrsprojekte in Vietnam investieren.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg's long-term investment fund could invest in public transport projects in Vietnam.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le fonds d'investissement à long terme luxembourgeois pourrait investir dans des projets de transports publics au Vietnam.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "96048700294a3e3fac7ed38a1941b8aa7708ba2f",
@@ -10034,7 +10811,20 @@
       "topics": [
         "finance"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Das Luxemburger Verwaltungsgericht legt die Mitteilungs- und Motivationspflichten für Steuerbescheide von Amts wegen aus",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger Verwaltungsgeriicht interpretéiert Notifikatiouns- a Motivatiounsfuerderunge fir ex officio Steierbewäertungen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Tribunal administratif luxembourgeois interprète les exigences de notification et de motivation pour les cotisations fiscales d'office",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ae48732e6f1cc8f2d9032d5174d7b580a5f347e8",
@@ -17785,7 +18575,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Montenegro mécht EU Kapitel 19 zu Lëtzebuerg fréi zou",
+          "summary": ""
+        },
+        "de": {
+          "title": "Montenegro schließt EU-Kapitel 19 in Luxemburg vorzeitig ab",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Monténégro clôturera plus tôt le chapitre 19 de l'UE au Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "92e33dca8a9340c6d9e66d4bca0796659097f01e",
@@ -23445,6 +24248,39 @@
       }
     },
     {
+      "id": "fc5b6fd1d09bf79afb77a6d95bda484819bc916b",
+      "title": "Eurogroup και ECOFIN: Στο Λουξεμβούργο ο Κυριάκος Πιερρακάκης -Ποια θέματα βρίσκονται στην ατζέντα της",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzRBdjJ5cFZkVHh0U1FvSURJR2xKaE1tRnNjZU1hUkRvaVNoX3Vibi1lSXQ2UDRucHBPd0ZzeC1MSy05TGNVanhIOVpuVE1GQmEwSFA5akwtblBDMlVVZTJLcjIwVXdKQnRQNE0xTjNIdlhSaC1SQ0tZNDItbVh4SE5GMnhHVTR4Rkx3anFXYk9qS2ZzTFVtZdIBngFBVV95cUxNcXA3NDBTeTN3aFlnd0JGUjl4Rl94dFZMdmRkTmgtRVFLNHdBcVFtS2JoTWpXQ0lsT0JZNXNQM1NscWhLX3hBMTFhbFB1d09kNy0xdWU5OHNMak16U2c4ZlF1dUljMEZ1SDJlTHRFeHdnSzhuTktyRXNVU01rdXA0amNTb3NzMmcxN1hTdU5scFI0MnVnbVdZMVE1U2otQQ?oc=5",
+      "source": "enikonomia.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-08T13:20:33.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Eurogroup an ECOFIN: Kyriakos Pierrakakis zu Lëtzebuerg - Wéi eng Themen stinn op hirer Agenda",
+          "summary": ""
+        },
+        "en": {
+          "title": "Eurogroup and ECOFIN: Kyriakos Pierrakakis in Luxembourg - What topics are on her agenda",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Eurogroupe et ECOFIN : Kyriakos Pierrakakis au Luxembourg - Quels sont les sujets à son ordre du jour",
+          "summary": ""
+        },
+        "de": {
+          "title": "Eurogruppe und ECOFIN: Kyriakos Pierrakakis in Luxemburg – Welche Themen stehen auf ihrer Agenda?",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "426f9012a02bac6bee95cd5750b9f020e8d38acf",
       "title": "The European Stability Mechanism (ESM) in Luxembourg 🇱🇺 is hiring foreigners of any nationality with visa sponsorship — 3 roles open right now, all based in o",
       "url": "https://www.tiktok.com/@nidhinagori/video/7694283351980576018",
@@ -24301,7 +25137,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Här Pierrakakis zu Lëtzebuerg fir Eurogroup/ECOFIN - Energie, Investitiounen a Kompetitivitéit am Fokus",
+          "summary": ""
+        },
+        "en": {
+          "title": "Mr. Pierrakakis in Luxembourg for Eurogroup/ECOFIN - Energy, investments and competitiveness in focus",
+          "summary": ""
+        },
+        "fr": {
+          "title": "M. Pierrakakis au Luxembourg pour l'Eurogroupe/ECOFIN - Focus sur l'énergie, les investissements et la compétitivité",
+          "summary": ""
+        },
+        "de": {
+          "title": "Herr Pierrakakis in Luxemburg für Eurogroup/ECOFIN – Energie, Investitionen und Wettbewerbsfähigkeit im Fokus",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "06defe6bb53393f4e25950fddb8760c3453c8243",
@@ -24555,6 +25408,39 @@
         },
         "de": {
           "title": "Luxembourg Fashion Week 2026: Petit Atelier de Nathalie, die Couture sur mesure von Natalija Lalic Jovanovic",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "72fe377fe60af8e97c03780f1bfed8c154ffe381",
+      "title": "Στο Λουξεμβούργο ο Κυριάκος Πιερρακάκης για Eurogroup και ECOFIN- Η ενέργεια στο επίκεντρο",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFc4dnlDT21xeHlTQW5PWXZYNGxEVzhRUHZkVTVURXQyLTRBQ1BQLVdPd3R5T3pGQW02V2k5QzNvX05vQzhvTnFkdnFjVGVmSW9RWF80N0dDMlJVVi0wVVRJNHVLMVNmdTZya2dXU3lPMXlFNWRBTXBpOG84ZW5SUF9BVEMzSl9fQzVReWRXX1B2TVlVZWtmcFVmWmRsM01TRlhieFlKdHV4cXZQZTgyd0lFb3d3d2JacXdTQnQwUVJKQdIBxwFBVV95cUxNWmNEYUs5QlRyb0dXU0x1MW9TVVF2elM0RWFTSGpsdU42X1JYNU45dkFDUVFDS3FJOUdPYTU1ZW9TRWRoR3dfZ0pCdTM0ei1rZm9CSXRacVM0Mjg0R0pFNkx2ZXo1R3gyTmVFVUFlUlNCd2YweWRsOURuY0hJMFF3Zm5lRDEwY1BESklFX0g4cjFFQmhzbTdUNVNuLV9QaDE5Xzkxc004NTR1MkhkWU1rZmF0ZWtaS0hFdFNjUjBrVmV4OVl1WXNR?oc=5",
+      "source": "Energymag.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-08T07:48:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Kyriakos Pierrakakis zu Lëtzebuerg fir Eurogroup an ECOFIN - Energie am Fokus",
+          "summary": ""
+        },
+        "en": {
+          "title": "Kyriakos Pierrakakis in Luxembourg for Eurogroup and ECOFIN - Energy in focus",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Kyriakos Pierrakakis au Luxembourg pour l'Eurogroupe et ECOFIN - Focus sur l'énergie",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kyriakos Pierrakakis in Luxemburg für Eurogruppe und ECOFIN – Energie im Fokus",
           "summary": ""
         }
       }
@@ -45257,7 +46143,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Luxembourg Army (Air Element)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Army (air element)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Armée luxembourgeoise (élément aérien)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburgische Armee (Luftelement)",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "72920eabdfc22ce0e155c00c8396703a1b6e1442",
@@ -46015,575 +46918,6 @@
         },
         "de": {
           "title": "Prognose für das Spiel Estland – Luxemburg. Die Esten werden das Publikum mit einem Sieg begeistern",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bd0181ff6c880893d1cf2e45f2a03ac141d6ef8b",
-      "title": "Estonya Lüksemburg 03 Ekim 2026 Canlı Skor ve Maç Özeti",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjRoQU04Z3ZDN1FhMjZLM2w0MXFNVjBxdTI2V1FLY29CSVd3NWd5UHdMakZYY3BVTk45ZXk0dWJlRU5LUllGSkJBOXduUy1xVzIxTmcwcklsclpxbmxISm4tbk0tY0tjS1F5aElJalc1WXlaVzNXN2V5QkdPR1NVYU5Na2tOUQ?oc=5",
-      "source": "Yeni Şafak",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Estland Luxemburg 03. Oktober 2026 Live-Ergebnis und Spielzusammenfassung",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland Lëtzebuerg 03. Oktober 2026 Live Score a Match Resumé",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia Luxembourg 03 October 2026 Live Score and Match Summary",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie Luxembourg 03 Octobre 2026 Score en direct et résumé du match",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3a8c45a97534ec8c62e926fe5950e8c1fc8ad7b9",
-      "title": "룩셈부르크 U19 대표팀이 북마케도니아 U19 대표팀을 4-1로 꺾고 친선 경기에서 압도적인 승리를 거뒀습니다.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHFBN3JxRVhxY2JqLTQ1Y3c3cWVWbmtLckZDZkZmTVhpV2NvZ1MxckdXV09xcnNST1FNVk5JbkZkTXpkVjJOajZjWTdkQVpJRkVhdkhEdlFXLXZLWjEtTkJlY21xNV9xNFJKYmd1TFdTTDYzYTlEUElyOHktQWdNY25vYzRhZWV1YnAwMWpHUi1uWFVwVWhhRTUyWFhfLVh0?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Lëtzebuerger U19 Nationalequipe huet an engem Frëndschaftsmatch eng wonnerbar Victoire géint Nordmazedonien U19 Nationalequipe mat 4-1 gewonnen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg U19 national team achieved a resounding victory over North Macedonia U19 national team 4-1 in a friendly match.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die luxemburgische U19-Nationalmannschaft errang in einem Freundschaftsspiel einen überwältigenden 4:1-Sieg über die U19-Nationalmannschaft Nordmazedoniens.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'équipe nationale luxembourgeoise U19 a remporté une victoire éclatante contre l'équipe nationale U19 de Macédoine du Nord 4-1 lors d'un match amical.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "51e978e59e0522c5dd6823f80f06e3d5821ad666",
-      "title": "Estonia - Luksemburg - statystyki meczu 03.10.2026",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdWVMMDBUVFhpblVYNGF2NVpENk5jbG5HaEJ1azNCWDY2VFE0eFdSaktaVDZzRS1lcTdUVnA3SFRJWHprOVFBbG9SM3Bld2pXbF8wVW9nWlFSSm9qYThTYTctT3ZUUU1yeFhvOEs3bU5tTGRpRW5qdUdnUnZOaWMtZA?oc=5",
-      "source": "Meczyki.pl",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Estland - Luxemburg - Spielstatistik 03.10.2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia - Luxembourg - match statistics 03/10/2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie - Luxembourg - statistiques de match 03/10/2026",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland - Lëtzebuerg - Match Statistiken 03/10/2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f65b90a3f88261ff54f14db7d551173c8c024f63",
-      "title": "ルクセンブルクU19は北マケドニアU19を4対1で破り、親善試合で圧勝を収めた。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQczJLZ0NvTTQ5YWQ4NHhRRk1LQjlNel81YmNCMVFoMXVLUE9VUDNGRHZFdjZIS2pSelNYVE9vSHNsLVdfM0hwNFB1TEt6UkpqaTlYSE5FbTIwd1RORFgzVnVGUVBYTms3bFA1dDJtUnBXdnQzM0F3ZDJkcmwteC02MkZTTlByN2VaNkUweHRqNDBwMFU2ZXZjM2pOZW1wdHFl?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die U19 von Luxemburg besiegten die U19 von Nordmazedonien in einem Freundschaftsspiel mit 4:1.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les U19 luxembourgeois ont battu les U19 de Macédoine du Nord 4-1 lors d'un match amical.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg U19s defeated North Macedonia U19s 4-1 in a friendly match.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Lëtzebuerger U19 hunn an engem Frëndschaftsmatch Nordmazedonien U19 mat 4-1 duerchgesat.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "585841678fd2aafc20a7f0672c9517f63c354da6",
-      "title": "Εσθονία - Λουξεμβούργο Live 03-10-2026 | UEFA Nations League",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVIxMTU5ZmtVY3h1RkdsRWFUUExCaEd1MFlGbHZ5QktrV1I3MmFldnhLVXlualJuaHFQQlpNaW1xWjNnempBNjJZRElpaUkxdEl2Z0ViOXcyazNuOU54Tm9LUnM3S0hSVTI1aHk2M2gzQi1rNTV0TGJ3M2dDUlJqR0d5TVBVM21fR0s0SjR1eUgzNnM1NXc?oc=5",
-      "source": "Gazzetta.gr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "de": {
-          "title": "Estland - Luxemburg Live 03.10.2026 | UEFA Nations League",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie - Luxembourg En direct 10/03/2026 | Ligue des Nations de l'UEFA",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia - Luxembourg Live 03-10-2026 | UEFA Nations League",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland - Lëtzebuerg Live 03-10-2026 | UEFA Nations League",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "518a8e79909bb05dbaa65daa3c6b66c18508e3cc",
-      "title": "Un año de Guillermo y Stéphanie de Luxemburgo en el trono: nuevas funciones, cambios en palacio y la nueva vida de María Teresa alejada del foco",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLUNMQ0lsb2JaaldxNHdlUEsxQU5IV1htNDc4Y2h5dGNJOXpVWS01QVMxdjUzaThhTHJMd2RZdFFfWEgwLVpoSXpJU205b2E5ZnRJUU4zaElmREYzTU5YaUlITGlQbTkySGFDdWN2Smpwd3F1dk16Z2t6N200cTRNN2NiY1NtVk9DUUREWF92V3U1MHdqaFdwajlGVFdvNnBJOWRpMEJfRlBZQl9qeUlIVGxUU0d1am9JbExUUTE2YVFQUDZiOTRlaWtfMzQyT0NBWmYyOUVzeW5wRFN3bnE4Rw?oc=5",
-      "source": "Vanitatis",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {}
-    },
-    {
-      "id": "1296d555e23fdf85889057ee49ea914ec5502735",
-      "title": "Luxemburg U19 a învins Macedonia de Nord U19 cu 4-1, asigurându-și o victorie răsunătoare în meciul amical.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlhvWGdxalgzNTM2cklJSHVwbXNRbERkay1CM2VVSmFKeU01dUxQN0xCTHBHdWEtRmdELUNJbXZyWS1CSlhNbE1mVzVBYlhVRHFfNmRyWWFaanZSNkZHUTBBYi0teHIyQ3E2b1BUVTdHaVB6ZF8yYW92b0hwMWlYZEhMbWFkYTVPcEp6M1phalJoMTNwbENWX0M5QzN0VW5K?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {}
-    },
-    {
-      "id": "e095f484dcdba6c275b6471d4b7f17a5c4429785",
-      "title": "- | TF1+ Luxembourg 🇱🇺",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhZnZhT2RCTjVJZjZWSWY0aF9WRjdtTGliZUpsYXJ6dWtLVE5oaHlHNUVvWjNfQ3hsd0R5azU0T3lHQUJGY200N2FUTWMtSDgwLThMQVJQSlZSOGhGZ3V4MVhpcmtyZ2tyVk1hLVhBNzgwdzR6WVFj?oc=5",
-      "source": "TF1+",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-03T06:59:12.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "- | TF1+ Luxembourg 🇱🇺",
-          "summary": ""
-        },
-        "en": {
-          "title": "- | TF1+ Luxembourg 🇱🇺",
-          "summary": ""
-        },
-        "de": {
-          "title": "- | TF1+ Luxemburg 🇱🇺",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6946891056a3c88fc9123c2581ddd80d1c682c61",
-      "title": "Estonia vs Luxemburgo: fecha, hora, canal, TV y dónde ver gratis online hoy la Nations League 2026/27 en España",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMkIwR3c1R3RhbkVTZlBxa3dGYjdNOG1TTDdOLTFrdEd1OG9uTUxPUWVBNUNMZ0VBZ01mQklRRFQ5NUNfaFdWTW10dHFUaXBJVjJpMWZqTkF6Y1Q0N2U3VjlWY09VOVA2WlhOSzkteDR2SnJmZUNKRndGa0pnRGpxU0wycnZMSVpyX2I5OTJBc1JScEhqcWl4NXVBT0tFVUcxajJCZHNwc0p4aW9LTFdGcDd4eFJqSWhqbEsxcllDSV9xd3NMeEExaDhfQkRXNVgwSXk5SjduOVhoNXZmSTJLUEl0YU9EOVUzS3hKN1FnelZQMkVoVXJpUExrU2k?oc=5",
-      "source": "DAZN",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-03T06:36:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Estland vs Lëtzebuerg: Datum, Zäit, Kanal, Fernseh a wou Dir d'Nations League 2026/27 online gratis haut a Spuenien kuckt",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie vs Luxembourg : date, heure, chaîne, télévision et où regarder la Ligue des Nations 2026/27 en ligne gratuitement aujourd'hui en Espagne",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia vs Luxembourg: date, time, channel, TV and where to watch the Nations League 2026/27 online for free today in Spain",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland gegen Luxemburg: Datum, Uhrzeit, Kanal, TV und wo Sie die Nations League 2026/27 heute in Spanien kostenlos online sehen können",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "90f6473a71fd986bef1405f3ec22f36a0ecb0b04",
-      "title": "YADIAS Doctoral Fellowships 2026 at the University of Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zSkpxSm0zbXhZR0tvczQ1MTVoMnotemtKaE9Zc3N4b29talh3NkVybk1qSXoxT21xRUhKNzlXcTVudEFwRUVnUXJQR25VRmpvTEsyV2RGdVM4ZHFZSjhXYTZ1bWFUT19YMmNN?oc=5",
-      "source": "Global South Opportunities",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T06:31:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "YADIAS Doctoral Fellowships 2026 op der Uni Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Bourses de doctorat YADIAS 2026 à l'Université du Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "YADIAS-Doktorandenstipendien 2026 an der Universität Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "aec01099f662093daf9a60664209c31090e47126",
-      "title": "Estonya - Lüksemburg Özet: Futbol Skorlar & Önemli Anlar",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHlPODFxWnl0MnBGUDE1TmgtdVBMVGJYaVBSaGdXU3o2S0Vld3lCWkJ2UXU2NG9uVmt2X3JVVncxSl9acEhGbnF0aDEyWEdHeW9qQXpBLV9jU1lOYnVYZTFRWFA2bktkSjM5enBtZmlac0pUV3RTOVpSLS1QVFV0aEowWWtyRnFTeVd1SjBDRXNXeVJvRm1odTJuUTlVcEdpZ29ucnJ6RXJMWXRENmVUb0M0aw?oc=5",
-      "source": "eurosport.com.tr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T06:27:20.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Estland - Lëtzebuerg Recap: Football Scores & Highlights",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland – Luxemburg Zusammenfassung: Fußballergebnisse und Höhepunkte",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia - Luxembourg Recap: Football Scores & Highlights",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie - Luxembourg Récapitulatif : scores et temps forts de football",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fcdbdb1a50cec5b5d085930828db91cb72781781",
-      "title": "Εσθονία-Λουξεμβούργο",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmdXVrc1hXc3k5MXBDZ3M4a25PdklwTFUtRDFRUWY3WUVjUXhzeVRFU0JBeVpxZlZOVGRfNVNrWFlSQ1BGYlBXRllnWEJadEV6?oc=5",
-      "source": "ΣΠΟΡ FM 94.6",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-03T06:27:20.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Estonie-Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland-Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia-Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland-Lëtzebuerg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "512a8553a961b18d0fff8200738598da6f2c9e04",
-      "title": "Equipe de France Espoirs - Christian Mawissa devrait être titulaire avec les Bleuets face au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTlJtTGQ4VUM0T3V3V2lGdVpocXpwdlFIbGN0aTJLMjVjS1F5bHdZQjcwMmJjY2c0dEo3ODBzTHA2QnVhTGp3elVndGxxaDQ1UXZQeGZYQnp3aGp5ZndWN1VSdDB5WHlMS2NwLUJoc3hVV0NQenprZU9zM2ZrRUJra2hfVENlQlZzeVE1M3hDMFZlN2RrY2hHTzdtamg2Z2dVamhYV2lnVXRtVjZON3JDSHBzRWt5c1Z1WmN4QS1fRDJmUklqNmR6MXFGbk14TUJYQXJSUzUtQ1lxcWdHdXBWSDZfeUxnOWxxaWVmMGRRdl9SVlpZWTBzU1ZDRjI?oc=5",
-      "source": "MadeInMonegasque",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-03T06:20:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Französisches Espoirs-Team – Christian Mawissa sollte mit den Bleuets gegen Luxemburg starten",
-          "summary": ""
-        },
-        "en": {
-          "title": "French Espoirs team - Christian Mawissa should start with the Bleuets against Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Franséisch Espoirs-Equipe - De Christian Mawissa soll mat de Bleuets géint Lëtzebuerg ufänken",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4a999947afaad7dea6056a240eec71eb166d59a5",
-      "title": "Equipe de France Espoirs - La composition probable des Bleuets pour défier le Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN0ZwMHNIMlViRnBiVkpSblpPMklvTi1wVGhMYWFmSVVRVHJNVTJQRE9pem50WWdPbmNKX05GZ0ZwMm9aTnJSa2ltb3ZuYTNGeHpyUHVUV3hWLVlKa180a1dFbUdraGJBYlpZRlZUWWxWdks4S2h6SnE0TkNKMUUxVENGM0QyUjJwVlc3VHRJOGZ4RzhFTGUxQzNyTnZZaVhZc3M0eEJZOTZidlNDZU94N1doT3hfVDNyWnJoUXpSMWlySXFQUXBpTl9rd0ZKTVIwZVdmejdzOFZhY3dUQl90dA?oc=5",
-      "source": "madeinfoot.ouest-france.fr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-03T06:20:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Franséisch Espoirs Team - Déi méiglech Zesummesetzung vun de Bleuets fir Lëtzebuerg erauszefuerderen",
-          "summary": ""
-        },
-        "en": {
-          "title": "French Espoirs team - The probable composition of the Bleuets to challenge Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Französisches Espoirs-Team – Die wahrscheinliche Zusammensetzung der Bleuets, die Luxemburg herausfordern werden",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a9748ab0cb248516dd1ad16f5d1462b2fc6bdfe0",
-      "title": "Equipe de France Espoirs - Ismaëlo Ganiou probablement titulaire avec les Bleuets face au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcEJjSWtWLW8zNFdWX01CSVV4d1pGQWZIQTc5TENVNzZROHFWV25scTQzYkR2VEpud3UxbUQweFJCTjE1aXdqbk5IUU1pLXBwbFNoQWxNa2JpeFAxRFBrLTZHMWtKRmxxdU1SQlJaOEVSUmdvcGdqV0FwV3J6b19JWV9xbXliZ1NDM3RGLUFCbmRYeUpYaWZraWxtby0zd2w3Z2tydUxVdnl3cXNvQU5yUlRiTFpLeE5sUlVjbVpWUkRrd2M3Z2RiM0xleEllaXdNelJ2cHZJWC04b0tLMGxMY2FWOWhiTGstN3RFNnZUNGRUMjhE?oc=5",
-      "source": "Ouest-France",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-03T06:20:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "French Espoirs team - Ismaëlo Ganiou probably starting with the Bleuets against Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Französisches Espoirs-Team – Ismaëlo Ganiou startet wahrscheinlich mit den Bleuets gegen Luxemburg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Franséisch Espoirs Team - Ismaëlo Ganiou fänkt wuel mat de Bleuets géint Lëtzebuerg un",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f892adee79a4ff88427ab2785f144888e1afcf97",
-      "title": "Футбол. Франция - Люксембург. Евро до 21. Отбор — Видео от Vital Sport l Прямые трансляции AПЛ",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nN2FHd1E4emo5aXJIUHlLbkF3YWdqeEJtNVZ6cFNRSVM2ZTZUMU9XX082MHM1UF9UVExDdzA5TWJEM2hTazRiaDFucGE4aHFJR1E?oc=5",
-      "source": "ВКонтакте",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-03T06:11:32.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Football. France-Luxembourg. Euro jusqu'à 21. Sélection - Vidéo de Vital Sport l Retransmissions en direct de la Premier League",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Fussball. Frankräich - Lëtzebuerg. Euro bis zu 21. Selektioun - Video vu Vital Sport l Live Sendungen vun der Premier League",
-          "summary": ""
-        },
-        "en": {
-          "title": "Football. France - Luxembourg. Euro up to 21. Selection - Video from Vital Sport l Live broadcasts of the Premier League",
-          "summary": ""
-        },
-        "de": {
-          "title": "Fußball. Frankreich – Luxemburg. Euro bis 21. Auswahl - Video von Vital Sport l Live-Übertragungen der Premier League",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3c285403955ac7779bd5f8d19005cf2cd76e32e0",
-      "title": "Tanken in Luxemburg heute: Was Benzin und Diesel am Samstag kosten",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG1YUThsQmsxeUQ3dHBJSzZRWHNrUEFYZGRvTFBaTm1WeEY5eE9nR3NjdlpxTE1GZURMTWowMzJBZ2tJcm5IUjZ5UVhDQk9RaHk3MXVHUUV4anZKT1NsWXJ1bUliQUY5Wl9pUGdmMk9hNF9iQVhPOGpodGpVRVFWTWdSYk9wR2NGTmZsZW5xeC1OOWNhdHlOd1ZGZ0Y5TlE1WXlyelRfRFdwbE1H?oc=5",
-      "source": "SOL.DE",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-03T06:08:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Haut opfëllen zu Lëtzebuerg: Wéi vill Bensin an Diesel kaschten e Samschdeg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Filling up in Luxembourg today: How much petrol and diesel cost on Saturday",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Faire le plein au Luxembourg aujourd'hui : combien coûtent l'essence et le diesel samedi",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c4b929dff5bf2e5a1d825c8ca430290bb1c57a44",
-      "title": "فرنسا تحت 21 ضد لوكسمبورغ تحت 21 النتيجة المباشرة, المواجهات المباشرة والتشكيلات",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDVfdDhxa042ZnJ2cGRUcFNSTlNIRlVkMXRpTDhQajFZSW40am9haFdFRlFoTENoWU9vcmtvT0tZYjY4blZRY1FzRy0xbDBGbGtiN09GemY0MHJDOWNja3dlbkZrUklkZFFfUDE0Um1ad0VmaV9KTktuNHdwUVh5clMtbw?oc=5",
-      "source": "Sofascore",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-10-03T06:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Frankräich U21 vs Lëtzebuerg U21 Live Score, Kapp-ze-Kopp an Opstellung",
-          "summary": ""
-        },
-        "en": {
-          "title": "France U21 vs Luxembourg U21 live score, head-to-head and lineups",
-          "summary": ""
-        },
-        "de": {
-          "title": "Frankreich U21 vs. Luxemburg U21 Live-Score, Head-to-Head und Aufstellungen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "France U21 vs Luxembourg U21 scores en direct, face-à-face et compositions",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c97e8920ed283ebdf0cfe7d128e8a2a76da99c26",
-      "title": "Los Casals Catalans de Europa abordan en Luxemburgo su renovación y futuro",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1dFQk4zdENBZ2pRRkx2S1BkVzdFR3ltMHZfNmdseURvdm9CdERlbTF4azNDTEVuVzlSSlY4UEJ3MzJ6WFRhRmhiRTN1OWYwbHlsWjEzWDNjeF85WXZoc0QwRlk4aW82dHVGN0FmdWw0RjZHTUFEdWJhZ1dYYjlncE9JSVZCM0RsTjN3MTdxVkNCNU5VOW1pN3NiYlBOZnV4a2N1Rzlmbw?oc=5",
-      "source": "La Región",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-03T05:59:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Casals Katalanen vun Europa adresséieren hir Erneierung an Zukunft zu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Casals Catalans of Europe address their renewal and future in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Casals Catalans of Europe sprechen in Luxemburg über ihre Erneuerung und Zukunft",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les Casals Catalans d'Europe abordent leur renouveau et leur avenir au Luxembourg",
           "summary": ""
         }
       }
