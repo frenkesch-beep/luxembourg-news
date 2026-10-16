@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T21:11:31.360Z",
+  "generatedAt": "2026-10-16T23:37:12.070Z",
   "items": [
     {
       "id": "d7c8cc59e0ed8f04805e1fcbcc05111b1e4f35bc",
@@ -15,7 +15,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Quentin Briard is making good progress in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Quentin Briard mécht gutt Fortschrëtter zu Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Quentin Briard macht in Luxemburg gute Fortschritte",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b6d85f15869d70957930b49377411ef3ff53a627",
@@ -16053,6 +16066,39 @@
         },
         "de": {
           "title": "Minister Choi Hwi-young trifft den luxemburgischen Kulturminister, um „die Zusammenarbeit in den Bereichen Filme, Spiele und Tourismus auszubauen“ – Money Today",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3b6e345b2d7b2aa6aaa4008bce17130e7572d8f0",
+      "title": "최휘영 장관, 룩셈부르크 문화장관 만나 \"영화·게임·관광 협력 확대\" · 주요 내용은?",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LbUFWSTM1MGt1b1B4Uko0NXNjeHN2TVhaV3lMMFNfeWFqQmg0T29TYXFWYVVRX0pjN01xSzN5M1FFU1g4WXhfUUtZRk5BMlNkcURqdzZFQVJmMllr?oc=5",
+      "source": "supple.kr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-12T08:44:47.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Minister Choi Hwi-young trëfft de Lëtzebuerger Kulturminister fir \"Zesummenaarbecht a Filmer, Spiller an Tourismus auszebauen\" · Wat sinn d'Haaptinhalter?",
+          "summary": ""
+        },
+        "en": {
+          "title": "Minister Choi Hwi-young meets Luxembourg's Culture Minister to \"expand cooperation in movies, games, and tourism\" · What are the main contents?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Minister Choi Hwi-young trifft den luxemburgischen Kulturminister, um „die Zusammenarbeit in den Bereichen Filme, Spiele und Tourismus auszubauen“ · Was sind die Hauptinhalte?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le ministre Choi Hwi-young rencontre le ministre luxembourgeois de la Culture pour \"élargir la coopération dans les domaines du cinéma, des jeux et du tourisme\" · Quels en sont les principaux contenus ?",
           "summary": ""
         }
       }
@@ -46844,35 +46890,6 @@
         },
         "lb": {
           "title": "Euro Espoirs (Q): Follegt Frankräich – Lëtzebuerg live ab 19:00 Auer.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e4f2503251e4462383786fd968b8f88b5f12dc56",
-      "title": "Stéphanie de Luxembourg fête l'anniversaire de l'intronisation, découvrez ses plus beaux looks",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSnFTd2NtVDFBQW5TaDlnb1BfMjJjVENoaFdXTUZrbmxjTDR5UXdudENMdV9XMVk0Q2FBSHpicTA3dFlsam1nQkxzQ29yQVZmS0hUWE1pTGZCWk5TeDdEb21XT1pxNnVodUhNX2NIN3hHRUxlQ0JKaE9KYmwtQnVMSHlfRnZMRGlnRHNYb0ljdzd6LVBiWjNSWGdSMDhLQ3h1SXBueF9ET0RibVdzVGVZdDN5MkMzYzhLOW41eUsyZ0hTWkZwd2QwUm9ZbExiNnF2WXZj?oc=5",
-      "source": "Point de Vue",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-03T09:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Stéphanie de Luxembourg feiert den Jahrestag ihrer Einführung und entdeckt ihre schönsten Looks",
-          "summary": ""
-        },
-        "en": {
-          "title": "Stéphanie de Luxembourg celebrates the anniversary of her induction, discover her most beautiful looks",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Stéphanie de Luxembourg feiert den Anniversaire vun hirer Induktioun, entdeckt hiert schéinste Look",
           "summary": ""
         }
       }
