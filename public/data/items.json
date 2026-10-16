@@ -1,6 +1,573 @@
 {
-  "generatedAt": "2026-10-16T12:27:51.433Z",
+  "generatedAt": "2026-10-16T17:26:29.605Z",
   "items": [
+    {
+      "id": "7f05b62622053970f2035611db50ce8fe4a1191a",
+      "title": "Luxemburgo: 80 artistas participam nas audições do 'Luxembourg Song Contest 2027'",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcGVRN04ybjdJVVZNMFVVVVMwSlY0MnRBVkZGcXRhYkVWR2RUbmo0RHpWRGhiaC1KcGxjMXJSREJaLWNZM29tQTh6U1gzVmNHVFJacml3NzVDUU1pXzFLMmV1N3ZvamNMRlBadjJBTVl2MnVJWmY4T1dPWElzazZXczRJcw?oc=5",
+      "source": "ESC PORTUGAL",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-16T16:50:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg: 80 artists participate in 'Luxembourg Song Contest 2027' auditions",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0b72850c4f40ac456cf7a8888432e532b0b37bd4",
+      "title": "رعب ليلي: سهرة الهالوين في سينما Les 3 Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjBnQUdySF90Tm51UDYzbm96aGRSR0FKc0xMRWNiMVQ0UjZIbWRkU1JQTWUzNGlzcjhkU1FxWHpFalNyaWFXT3VwMHlVYTFyd0ZfVkVLdkJqalpfV0ZWTnNIZGFNSTB1Q3dtV2lMLWs0ajNkQk94VXViTTZhS3hGTDNqM0xIVGxLdGRhVTRKdzNJM1dQQ0R5aHBmRjY3UEZKSWlmOU9BOHJkTTl4U05WVVpEUXg?oc=5",
+      "source": "Sortir à Paris",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-10-16T16:21:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Nachtterror: Halloween-Abend im Kino Les 3 Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Night terror: Halloween evening at Les 3 Luxembourg cinema",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Night Terror: Halloween Owend am Kino Les 3 Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Terreur nocturne : soirée Halloween au cinéma Les 3 Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "da6645bead120dc3de6b347d364ccbc50d43448b",
+      "title": "Night of Terror: Halloween Night at the Les 3 Luxembourg cinema",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3dRQUx0aUc0b3pVRTdXTG0zVk4yemdxTnFLdS1VeEpiQ282SEdEZmV6T3FORXhhdjNQaFptU2p0YzZ4NEZDZ0M3cDQ2ZExqdURncGpaUDctNjhOMzVkQkdSdjFxaHhPX3BBRmotcExDMm5DdnBBMVlKTGw2NGl1U1A0dXU5SzNKYkFKT1ExSVdmS0pfaHZ0S1o0b0VmVDJmZ0FHMGUza05JbDRMWFR4VEFPU0xnaUJpQ3pOYUpfTQ?oc=5",
+      "source": "Sortir à Paris",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-16T16:20:22.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Night of Terror: Halloween Night am Kino Les 3 Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nacht des Terrors: Halloween-Nacht im Kino Les 3 Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Nuit de la Terreur : Nuit d'Halloween au cinéma Les 3 Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0a45aba1eeacde4a889dc99074517799fd609091",
+      "title": "Frasnes : première visite officielle sur les terres natales de la Grande-Duchesse Stéphanie de Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQWRXR2VuTWpYRFdjZl9nMkptb2J1aWdnOFpfTGZQTDRWdjZUb1EzQnA1ZDFuR0xfbThKLTdoVzZ4TTZNMWVHeGExNkR0em11cmw4UmFnQjBLbjJpZ212aUN2TG9qdm5SVWpjNThGOWt0aUJLWHA3aEFaSU16SEJUSHdYY0t1d0lmYW81dnFWemY3akg2S05aeUdOcUljWTdWOFpIYkRmaFhHZVpZUU0xQmZzVWxvSjd2XzUtZ2J1V0RwOE9hUGxIajlZRFUwSnRuREhBSWM3ZWVvcHcyeUlWOQ?oc=5",
+      "source": "notélé",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T16:20:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Frasnes: éischt offiziell Visite an d'Heemecht vun der Groussherzogin Stéphanie vu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Frasnes: first official visit to the native lands of Grand Duchess Stéphanie of Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Frasnes: erster offizieller Besuch in den Heimatländern der Großherzogin Stéphanie von Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d6137a1c702e09c9a15728233fe835ad76a5e03b",
+      "title": "Ужасы ночи: вечер Хэллоуина в кинотеатре «Les 3 Luxembourg»",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0VLclAzYWdYenhFNUExRXVLU0lJOFVYNFBjcUtORVk3SkVNQUctZXRYc0NZYkNhZzg0a1kxU2JxMFJlMm5aU1NvcTZMaUNLQzUzUkV2TVc2ZHlCM3BZeHZNTEVqZ3ZwZmxHd0xfS3drbEpsSVl1VEExY0xneXl4YTFzX1ZUZWEyUlhwc282enlOamV5TUtXRXM0SjBHemRnMmM5VVhjdEZFcldKcjU1U0RJUVU1V0dlN0gyYlNEZTA?oc=5",
+      "source": "Sortir à Paris",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-16T16:18:59.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Schrecken der Nacht: Halloween-Abend im Kino Les 3 Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Schrecken vun der Nuecht: Halloween Owend am Kino Les 3 Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Horrors of the night: Halloween evening at Les 3 Luxembourg cinema",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Horreurs de la nuit : soirée Halloween au cinéma Les 3 Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d64b1a88355201a2205b8b33b1a835beaa9e7e3b",
+      "title": "Billig Tanken: Neue Spritpreise in Luxemburg – Benzin wieder etwas günstiger",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFBFM0h1dFZMWE1xdnVxbmI3VGNvR2NXT21aME81RVkxd1pRMnZGUUdod3VBZ0Y4NWllZmx6UXFKY2Q3X3NGRWl6cXJkczZRVEo1Z3FqTmtCaFhjUGc5cm9naHJwanBVQmFYS3Y3czJub3dXZ2NCWWM2M1lIcWcwWTdCcU5QMFVxWUwzclJhQi1FNzV6Z1BMMy1qQXlDUXJ5SzBMckxvNDY2eHMtTmItWDBn?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-16T15:59:29.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Cheap refueling: New fuel prices in Luxembourg – petrol is a little cheaper again",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ravitaillement bon marché : nouveaux prix des carburants au Luxembourg – l’essence est à nouveau un peu moins chère",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Bëlleg Tanken: Nei Brennstoffpräisser zu Lëtzebuerg – de Bensin gëtt nees e bësse méi bëlleg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "43ab0f2166d3bde31753b42d9d3918756aff0989",
+      "title": "Luxembourg. Les policiers interviennent pour un homme suspecté de maltraiter son chien : ils saisissent l'animal",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMUpMbzBETW11cDlMa3lTalVtbThMRm9JUGo1bFRMODRoMWpwUUcwakJVdDBvVjRlUHFPdlhMcWNhWThjME05TWdXcTdwV0x2ajBJcmh5MWdreFAzVDZiWjFScExYbkEyYldsRjVBT0hZMmFwMk43NWxhanV0c0JvU19NRncyeUF0TTdCUU90SEdqMkFsWFcxV1RkT1RzVm92aWZvUW1YbVp1UTRKR1UwUzdyVk04bk9PcEh4X0MweUw5dmdZZXRZUjNEZUk2M0F2OG9WWExwODdTVDNmNW9qc3dTdlpDTjh6RV9DLWwzQlJEd1pYN19YZw?oc=5",
+      "source": "Le Republicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T15:17:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg. The police intervene for a man suspected of mistreating his dog: they seize the animal",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg. Bei einem Mann, der verdächtigt wird, seinen Hund misshandelt zu haben, greift die Polizei ein: Sie beschlagnahmt das Tier",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg. D'Police intervenéiert fir e Mann, dee verdächtegt huet säin Hond Mësshandelt ze hunn: si setzen d'Déier fest",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "162f59cbc5a219b3dc2680c3f08906d6c1b1faf8",
+      "title": "Frasnes : le Grand-Duc et la Grande-Duchesse de Luxembourg en visite",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRUY3dWZzUzFnVlBJM2NJOTJrUVdlcWJqdFJBSm9kREhGT0g0WTVkekgwWDg0QkhNQXlCYk04UzFrQ2FKNVhHTUdMRlotekN2WXI0dTVIZUhTN1B5dWc4Vi1ILWwzZUkzMEU1WHNLbEtqNy02YTA3VjU1NzNSZ25JUVFCa21zR003a3ZGdGdydG5yVzlfVUpSdFpUT0UzQW9zdTJZbGpybnp0T2gtVDFObg?oc=5",
+      "source": "notélé",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T15:09:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Frasnes: the Grand Duke and Grand Duchess of Luxembourg visiting",
+          "summary": ""
+        },
+        "de": {
+          "title": "Frasnes: Der Großherzog und die Großherzogin von Luxemburg zu Besuch",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Frasnes: de Groussherzog an d'Grande-Duchesse vu Lëtzebuerg op Besuch",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5024573a94e9c618cacf876b91541f03a75c743e",
+      "title": "María Teresa de Luxemburgo rompe su jubilación por la leucodistrofias: el mensaje que esconde su último look",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM0NZV2xUYTQyTGduY3hrRG9QbWxOZE5TcWNMXzRTRnJ2d1AwWWVQb0lMWTM1WVpDa0xuNi1iTG9SYjN1TXlBSU9SYWpLOHZLRi1JNmt1bnk1bkZBUFRtQWlVUE1LQl8yMDlmSlhFTUJJLWdSNnJyNG9hZFQ2cy1WTkx5bmh2ZE5PUWFaeWVoRERoZnFicG9LY3Iyb2tuZmtIN29VRlJkWGRiNDdwWlNoaWVwdlBSR3BPc0dfRDhTbTNqUFlGM1pRMFNBemNfX0xrOUp6bG9xNVI4Vm83bEZaTA?oc=5",
+      "source": "Vanitatis",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-16T15:04:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'María Teresa de Luxembourg brécht hir Pensioun wéinst Leukodystrophien: de Message verstoppt an hirem leschte Look",
+          "summary": ""
+        },
+        "en": {
+          "title": "María Teresa de Luxembourg breaks her retirement due to leukodystrophies: the message hidden in her latest look",
+          "summary": ""
+        },
+        "de": {
+          "title": "María Teresa de Luxembourg bricht wegen Leukodystrophie ihren Ruhestand ab: die Botschaft, die sich in ihrem neuesten Look verbirgt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "María Teresa de Luxembourg rompt sa retraite à cause de leucodystrophies : le message caché dans son dernier look",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4db234bf1b556d7168fb06bd821e23f6592c9288",
+      "title": "Dashcam en vacances : légale en France, elle vaut 300 € d'amende en Autriche et reste sanctionnée au Portugal et au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1hCb09pN216VUZYUFVuRVNnX3F1UENfc1JGQ081bjhfcXB0VXVNWUktXzFpa003cVN0Mkt4NzlkWUJLcDFjTi1ESUs5RnV3T293QnZtQUZOMU1Lai1HYlFKaER2bEh6M0FIR1c3RWJVQ0dUTmozclRzRnB4bWVMZ2N4cXNUYVRXVGlKMTdMUDU2em50bjZIUHVlSzViTmNKb0ZsODNORzI?oc=5",
+      "source": "JeChange",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T14:50:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Dashcam on vacation: legal in France, it is worth a €300 fine in Austria and remains sanctioned in Portugal and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dashcam an der Vakanz: legal a Frankräich, et ass eng Geldstrof vun 300 € an Éisträich wäert a bleift a Portugal a Lëtzebuerg sanktionéiert",
+          "summary": ""
+        },
+        "de": {
+          "title": "Dashcam im Urlaub: In Frankreich legal, in Österreich mit einer Geldstrafe von 300 Euro geahndet und in Portugal und Luxemburg weiterhin sanktioniert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "bec5ec84c611e8a32270ee194bc5cf8e1bf8b68e",
+      "title": "Устранить засор канализации пообещали в подвале дома на улице Розы Люксембург",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDBjNUFlemtzbWVQTWxlMjFMcFJBMkhfV2lXRDFSVWdkQjNxVXd5T0FCaFdsQ3hoTkZjX3Z1bnEtaS1ZY2c1SGVlSTJfRktESzhVNjBOQ1kyaHVpR01RRTFSYi1EUWp4VFJfRXd0c3daOF9ucDVzWkM4QzlKZWtYTUdfbkRNekVONHBoNVBkNl85bjdGOFJ6NzJSVFpsMDY4WENISjdVbmlLYi04eVU3RzNn?oc=5",
+      "source": "REGIONS.ru",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-16T14:37:12.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Si hu versprach, d'Kanalisatiounsblockade am Keller vun engem Haus an der Rosa Luxemburg Strooss ze läschen",
+          "summary": ""
+        },
+        "en": {
+          "title": "They promised to clear the sewer blockage in the basement of a house on Rosa Luxemburg Street",
+          "summary": ""
+        },
+        "de": {
+          "title": "Sie versprachen, die verstopfte Kanalisation im Keller eines Hauses in der Rosa-Luxemburg-Straße zu beseitigen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ils ont promis de déboucher les égouts dans le sous-sol d'une maison de la rue Rosa Luxemburg.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8914a6d6d89264c13ac29021ab5d4f0de773b32e",
+      "title": "Crystal brille au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGhYSXUwalhiOGU1Sjd5WDBuZlJUeTFSTUszRWppNEE3Mm9TZ2FHcDN5UUZNUnNzTUZhbGotaXpWdGlya1p5Y001ZUlPT3BoNF9sSy1QLXBtMHZZaEZWOTNabGRYZnFlbVhZdkNKU1gzR2ViUWV4SHJtNkdwYlZGTTlISlF6UU13NXFtX1BVV09FbjNudEZ1XzUwcEs0RWdEN182OVNmNUFaam9FZ2tzaWJDczlaWU1jY3c?oc=5",
+      "source": "CFNEWS",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T14:15:55.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Crystal brille au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Crystal glasses in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kristallgläser in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4aae0462ac72e62a0ed622463cae1a797b051e9e",
+      "title": "Más de 300 canciones para el Luxembourg Song Contest 2027",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRHB6bEJCQzJaSGJUeVp6N3VnT0xNZ2Y0RW5UZ0Q4OGZ4LXhuU0ZPcGpLdVVQZFQ1V09yTmpCTXM2OXpELWNLSzZKQzBPUlZzT3JuY0R4ZkdJb3c1NGFpOTRHSFVULTBaRWV6LUtZNUtHNFNCcVBOMWpDOUplN3VhVTU3LUJuNHJrMnRKdXN5SXNJZG5jdjFNeklicjJvZnYwUXRz?oc=5",
+      "source": "Eurovision-Spain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-16T14:15:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Méi wéi 300 Lidder fir de Luxembourg Song Contest 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Mehr als 300 Songs für den Luxembourg Song Contest 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "More than 300 songs for the Luxembourg Song Contest 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Plus de 300 chansons pour le Luxembourg Song Contest 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9f358d693bf84aff32b99f9c52b1b0b950341d6f",
+      "title": "Terreur nocturne : la soirée d'Halloween au cinéma Les 3 Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdDF4S2F3SGlYUXVOX3JoNURnbnh1SDJBckRSMndmT0syVnh4LXpGRlIxMjgyWmh3Wk4zbnNDbkJETWM1QlBiRFktTE5HWjNXNTM2T0h6WHBkMmV5ck9ZdkM1ODVqWW94ZmFDcmZvR0FfalI5RVdJNHgyREwwTlI3UWc1X3RaMWhRZW5RcmVuUUE1NjVWNmRtc1NRUDZWTFZfLVhlcFVfd1Z5bW53MDB5ZGh6UHY4a09wSXRqX0FMUDFsMUd6X0JzY21ZRQ?oc=5",
+      "source": "Sortir à Paris",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T14:04:03.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Night Terror: Halloween Owend am Kino Les 3 Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Night terror: Halloween evening at the Les 3 Luxembourg cinema",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nachtterror: Halloween-Abend im Kino Les 3 Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2fa3942a0a3fbe1f9afcf27554b9455a6d092449",
+      "title": "Zone de secours Luxembourg : budget validé et 12 millions pour les investissements - \"Nous n'achetons pas des gadgets\", rappelle le commandant Thiry",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNc0lrM2ZhZVY4NVNVUXJuTDluMFlNZE9qeWtlMGlrR3B6WlFpOHRRZmRSb1NWUXFhS0FvZjZjekRLaEpMNDFLRGVmd3Q5OUl4Q1ZkUHpIQ2cwVXg3b3R5RlRIRGFZRnZzeUxYSmVfT1djT20zZ3BsblBzbDVKM2RQLVRiZV81bVpMTldKVFNhSlV5ZmdrOWZGRDdzV2ZWWUkzWXRMWGZSWHZmc0ZsMlRNQTR1TVF5WUtJeGJNRDZlalBDbzY2ZVFIdl8wX0pzZkFvbEVpTmdRcUtIUXV5MGV2ZWx3MkpYUXhPb056dzJqcHlYTDNSeGRISXFnZ0ZGeDlfRmFQYnlYdXhMeDZuYjV4cjlpUk5QY2RPaS16OVRVSVVJTUtSMlExeWltTEtIUC1TdTB6UHN3cjJWR3ZtMUxXTDR3V1dlTmdoUVdWNQ?oc=5",
+      "source": "L'Avenir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T13:28:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg emergency zone: validated budget and 12 million for investments - “We do not buy gadgets”, recalls Commander Thiry",
+          "summary": ""
+        },
+        "de": {
+          "title": "Notstandszone Luxemburg: bestätigter Haushalt und 12 Millionen für Investitionen – „Wir kaufen keine Geräte“, erinnert sich Kommandant Thiry",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger Noutzone: validéiert Budget an 12 Millioune fir Investitiounen - \"Mir kafen keng Gadgeten\", erënnert de Kommandant Thiry",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3ac17950e31d49ffb701a866d717de2b24d10bc9",
+      "title": "Palácio da Bolsa acolheu conferência sobre investimento belga e luxemburguês em Portugal",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnBUSWhvLWwxdG5XRHZNY0RfNGVrNXFubTk4YlR1SFd1TGVLV2I4dUNzM1JZWURzSTlSLTZjMzFxN1dCaVJXbk5iT0dkYlRUaEhFTjhKdVdxVWFpc2ROTzhadkRHV1JyYTR2ZTduejZWTG1iU3ZkNkY5bTE0eE80TDhrWk82UUhZanh0dW5kUmJxXzFSYVlQV0ZuTVR2WmxNbkQyLWN4MU9jMDg?oc=5",
+      "source": "BOM DIA - Portugal no Mundo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-16T12:51:01.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Palácio da Bolsa huet Konferenz iwwer belsch a lëtzebuergesch Investitiounen a Portugal organiséiert",
+          "summary": ""
+        },
+        "de": {
+          "title": "Palácio da Bolsa war Gastgeber einer Konferenz über belgische und luxemburgische Investitionen in Portugal",
+          "summary": ""
+        },
+        "en": {
+          "title": "Palácio da Bolsa hosted conference on Belgian and Luxembourg investment in Portugal",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Palácio da Bolsa a accueilli une conférence sur les investissements belges et luxembourgeois au Portugal",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9256347567619a90b0d73121c1b0096364e4422b",
+      "title": "- | TF1+ Luxembourg 🇱🇺",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RWdkY1ZCeGRVajR5NDZqU2M5Vmg3bFlVWUNSTURuSW1ET1JhakRKNzhOZ0VaUlBMZHpqOUx3czlZNFVXMFVWTzJfWUxvTmxiWm9jY0V2TVhpUXpOVFJkRFBaYlZRV2d2Wjg2Z0VGbUZBQXh3bkRV?oc=5",
+      "source": "TF1+",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T12:47:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "- | TF1+ Luxembourg 🇱🇺",
+          "summary": ""
+        },
+        "en": {
+          "title": "- | TF1+ Luxembourg 🇱🇺",
+          "summary": ""
+        },
+        "de": {
+          "title": "- | TF1+ Luxemburg 🇱🇺",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8b4d0fff9a03ab45afdb06c2d67bb438729cf0f0",
+      "title": "🇱🇺 Luxembourg: 80 Artists to Take Part in Auditions This Weekend",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTmM1YjBjWTY3bUFUczFoWUdxNzYzNWZGNnNUWDBYNjNaTW9YQThQbkFFQThNVEkxYW9CSnFGdGJnQ1VCeWRiM3Q5YUVkZFBtMmEwM04wZC1XbFZPUUhlYi1DbW9wOGxWeEwwdldURlVvZm5QT25YcGQ4RHZoMDBncF9IZmpFMEhNVDJaejdDZ1pmbm5ydVcwcg?oc=5",
+      "source": "Eurovoix",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-16T12:42:06.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "🇱🇺 Lëtzebuerg: 80 Kënschtler déi dëse Weekend un Auditioune matmaachen",
+          "summary": ""
+        },
+        "de": {
+          "title": "🇱🇺 Luxemburg: 80 Künstler nehmen dieses Wochenende an Auditions teil",
+          "summary": ""
+        },
+        "fr": {
+          "title": "🇱🇺 Luxembourg : 80 artistes participeront aux auditions ce week-end",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9a0273558f897aa827fba38f7bb148e2f3a34eca",
+      "title": "Suite à une intrusion dans le château d’eau, l’eau potable coupée à Bouy-Luxembourg, Onjon et Longsols",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGlMVFVlWUtqVm9wUHRkZHlpeUJhbkxnNkZ2cy16b2V3Ti1PSjlNcnVJOVJxdWhpazVsaHRGOEJtb2RRUThMNVZCQmRpUi0yaXVZbXpycTZoNS1tUWNkNmFOVWtNRzBya2huV3Vydm0yNEpEU1RNT0Zkc2NhMGtoUi1oZXpaNXphYS1HMWZmZEVrZXlQNkMxaTZyODVJUmEzeFhQcjNyVDBtUWs?oc=5",
+      "source": "L'Est éclair",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T12:27:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Following an intrusion into the water tower, drinking water was cut off in Bouy-Luxembourg, Onjon and Longsols",
+          "summary": ""
+        },
+        "lb": {
+          "title": "No engem Agrëff an de Waassertuerm gouf zu Bouy-Lëtzebuerg, Onjon a Longsols Drénkwaasser ofgeschnidden.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nach einem Einbruch in den Wasserturm wurde die Trinkwasserversorgung in Bouy-Luxembourg, Onjon und Longsols unterbrochen",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "d578a61d0005c6d641f21f339d4e882994234139",
       "title": "Itajaí recebe visita do novo embaixador de Luxemburgo nesta sexta",
@@ -121,6 +688,35 @@
         },
         "de": {
           "title": "Luxembourg Song Contest 2027: 80 Künstler kämpfen um einen Platz im nationalen Finale!",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b550bb5bce24bbde1fa588a1223e784228cd86bf",
+      "title": "Frontaliers : pourquoi la Lorraine réclame une compensation financière au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTVJM0E3TGtzQV9qZEMzTy02cld5cDY3YnN5ak53YTNKM01ITi1OQVRpWjY1dE5fMllVVW1LVWlqTHpVdGhhYjhXYlZlQnlYZ1dSci01ek4zZmE5RU43VHlqQjZLUjVOejlnM3Rod3VzU0NtYUU1QlFNbU9ra25UVFVvTWNIUXZWdTF6bTl6a3F6UzU5Z19SV3JMR2cwNkhEMFUyLV9ieV9VS3VCMkQ2dWJUUnhwSmlFRWc?oc=5",
+      "source": "La Semaine",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-16T10:03:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Cross-border workers: why Lorraine is demanding financial compensation from Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Grenzaarbechter: Firwat fuerdert d'Lorraine eng finanziell Entschiedegung vu Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Grenzgänger: Warum Lothringen von Luxemburg eine finanzielle Entschädigung verlangt",
           "summary": ""
         }
       }
@@ -427,6 +1023,39 @@
         },
         "de": {
           "title": "Dexter bespricht die Zusammenarbeit mit der spanischen und luxemburgischen Videoindustrie ... „Erkundung der Ausweitung der KI-VFX-Nutzung“",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ea89bd422f020cee78f9d02e26b6b9326849719b",
+      "title": "夜幕惊魂：卢森堡三号影院的万圣节之夜",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcm5qUElXUFlmRmFaWWpTS2NZRkpPTExMbWZRbFROOXhsTG9vemN4SXRZMVNxMEhYVGNRb3ZHSTVmUjJWQ1ZJM2VGR0lSX2JvcjdSVWx3emNjZ2VPZUl4LXB6TWF0MU9MN25HYU9PNXhfQmFLR1NiRTVPZHlySFl6STAzWlFTbE10amFhWTkwMmh4MDBOMlJuOWttNm9jNUhrUkxYaEF6eHJUc3pUaEpaQmNINm84MXZkQzZ3UHRHdkR4Mk1lU1k2aDNJcC05YW8?oc=5",
+      "source": "Sortir à Paris",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T08:04:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Nightmare: Halloween Night am Cinema 3 Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Nightmare: Halloween Night at Cinema 3 Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Cauchemar : Soirée Halloween au Cinema 3 Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Albtraum: Halloween-Nacht im Cinema 3 Luxembourg",
           "summary": ""
         }
       }
@@ -1131,6 +1760,39 @@
         },
         "de": {
           "title": "Das Luxemburger Gericht hebt die Anordnung auf, die den Verkauf der Ardagh Metal Packaging-Beteiligung durch Ardagh Holdings blockiert",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "38551586c626e210fe569f457f4f97dc7aaf68e5",
+      "title": "Tuntange 공기질 지수 (AQI) 및 룩셈부르크 공해 | IQAir 대한민국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pa0lzS3BNX0VNTzRvLXU0R0RHWWZZeVZfbnZuSlNlZ3o1OXd1QmE4SlpZNE1yMWRQZ2cwVHZuMGxTR2JfNWRmTnVCNXZZOVJEU2hEZTB6M0lPYkNlX2VCRDZnaVQtRTJRZkNhQUJEZ0o?oc=5",
+      "source": "IQAir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-15T13:23:46.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Tuntange Loftqualitéit Index (AQI) a Lëtzebuerger Loftverschmotzung | IQAir Korea",
+          "summary": ""
+        },
+        "en": {
+          "title": "Tuntange air quality index (AQI) and Luxembourg air pollution | IQAir Korea",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luftqualitätsindex (AQI) in Tuntingen und Luftverschmutzung in Luxemburg | IQAir Korea",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Indice de qualité de l'air (IQA) à Tuntange et pollution de l'air au Luxembourg | IQAir Corée",
           "summary": ""
         }
       }
@@ -4051,6 +4713,72 @@
       }
     },
     {
+      "id": "ae1ca9f8346b3849261fd3b30be931c0c7fa5d17",
+      "title": "資本集團全球股票基金(盧森堡)B(美元) 的總覽 | 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQOS1OSE1scWZKQU9EZmNJb0ZpVHRaT1lRQnoyRjAxQXVob2VGd210dnRxUkJMbXRWZ2czY3FvbElQRzF3Q3lzWkNXdkcyMDJMcWR6Zk9JODZ2WXBFT3p2bW5mbVBHRlNHTFlaeGNQeEFWdVNFZGQxMEx1dnJibTk5M09xUUtNUndxSllhRkxFUWRDeGNQSnVkTndKSkg4OVhKTmpUclYwOG9JaXplT2xPbmRqRXJzTjNYeUZmeGFRUFJuU09GQkRUSWEwVEgtOVRVcjEzYnh1M2VwdjhjZFJDWmNtbm56clhrUE9Jejh6a2ktNzJhUFdta2lIbHBDNGxKS3BIaTdyV21vQk0z?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group Global Equity Fund (Lëtzebuerg) B (USD) | Juheng.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du Capital Group Global Equity Fund (Luxembourg) B (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group Global Equity Fund (Luxembourg) B (USD) | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den Capital Group Global Equity Fund (Luxembourg) B (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "db0074bf9d1163bd2a153363b19df60e7d83396b",
+      "title": "資本集團歐洲核心股票基金(盧森堡)B(美元)-USD 的總覽 | 鉅亨網 - 基金老司機",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSmM2Z2JUbWZDSHRSRFBsSlhXZHk0QUVCSHhpNlJpcWJUbnFOUVZBX0REYTVxdFZ5UlRmWHpmSGVNQ2UwVHpnSEdfOUE4TVJ4VnVLdGFzVnNRY0gwOERXRkF0TnRVVFNJX18xQXNrUHRHNVN3Mm9XeE9sU1dudUxRcHlSUWpnUEphWjVBY2lORWUydWtTN3gxY1p5ZkJISDJUU3Bzazd4VHVEbW96Ql9ocy1oRFRhSDdfeDRyYUkxdk5oN3VudEVLZXlST0FOaVI5cEM3TnI3bUVvZk81c3FaUVk3TG9aMERaRVhfZk40VG9oWXQ3OE5RTkQxSHVxSFNVakw4a3hjaTZyajBTdktUcnprdw?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Aperçu du Capital Group European Core Equity Fund (Luxembourg) B (USD) - USD | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group European Core Equity Fund (Luxembourg) B (USD) - USD | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group European Core Equity Fund (Lëtzebuerg) B (USD) - USD | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den Capital Group European Core Equity Fund (Luxembourg) B (USD) - USD | Juheng.com – Fondsveteran",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "2d4732576cb83a5c3ee2e114907d56af8bbc1e43",
       "title": "Rama, Frieden ile görüştü – Lüksemburg’a direkt uçuşlar Mart 2027’de başlayacak",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVJsZlhGN2tnZ293RkNKRzcwbHozaC1wb0hxSlM2WGVxaE85dU5fc19YYjczVFdSVS1iWjM2d0FpQ25jckxNYnBwMEt0dDV1WWVMR1YySjdSV012VGwwVTBWWkxPUDdZcUc5amRqWjhPSWt1dzFXN1l3ZGxYTjJrUXhTVUg5NEdzaFFpQVRIblFxVWR4dmp6WGVBVi1DQjA?oc=5",
@@ -4868,6 +5596,39 @@
         },
         "lb": {
           "title": "Schatzsich, Ermëttlungen an Fluchtspiller an der Stad: Bréissel, Lëtzebuerg, Lille, Stroossbuerg, Léck a Reims",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e7abc58ade96ba526a77dcdb21c3f5934926acc4",
+      "title": "Luxemburg sluit horeca tot half december",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VcHlQby1ONFU3a2dwdHpCejQtTEFFUlJTblJNODdwUnhMN25PbVlGWnBJT2tFZ0lOcUhNM0F2NlNmMk1xMTJBY0JxOV9BV0VhSDZNdndCaVFaSFhGZDZjRXBmTk9nTWFYOTViS3dSTVJLYTZl?oc=5",
+      "source": "Reformatorisch Dagblad",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-10-13T21:05:13.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg schließt die Gastronomie bis Mitte Dezember",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg mécht de Catering bis Mëtt Dezember zou",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg closes catering until mid-December",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg ferme la restauration jusqu'à mi-décembre",
           "summary": ""
         }
       }
@@ -24552,6 +25313,39 @@
         },
         "de": {
           "title": "Der Finanzminister nimmt am Donnerstag und Freitag an der ECOFIN-Sitzung in Luxemburg teil. Welche Themen stehen auf der Agenda?",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "87fb025aa83dc8dfcf32a66d81f628493bbb9b57",
+      "title": "Люксембург - Северная Ирландия 18 ноября 2024, итоговый результат и счет матча 2:2 по футболу - Лига наций УЕФА. Лига C 2024/2025 сайт Спорт-Экспресс",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFFIRXJBZ2twbWphOC1KclVmem5acFNvYVExeE5HZUg4TWQyOFpDaUlzRVd6X08ycHYyaEZ2Q1p2WVF2c0Nqby1OdmtSMEpfLXpxY2w4ZU1TY0tSTlg4dFVhMGZkTTROcE9JVVhjaFIxY1E3UTR3dVIzOHdnR29iN1hHN0pVWmNWbHEycWFsUmNYZ0tKblZYVEs3dVg4dHEyMzZ6azZoVmg?oc=5",
+      "source": "sport-express.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-08T10:57:01.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Luxembourg - Irlande du Nord 18 novembre 2024, résultat final et score du match 2:2 de football - UEFA Nations League. Site de la Ligue C 2024/2025 Sport-Express",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Northern Ireland November 18, 2024, final result and score of the match 2:2 in football - UEFA Nations League. League C 2024/2025 website Sport-Express",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Nordirland 18. November 2024, Schlussresultat a Score vum Match 2:2 am Fussball - UEFA Nations League. League C 2024/2025 Websäit Sport-Express",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Nordirland 18. November 2024, Endergebnis und Spielstand 2:2 im Fußball – UEFA Nations League. Liga C 2024/2025 Website Sport-Express",
           "summary": ""
         }
       }
@@ -46092,832 +46886,6 @@
         },
         "lb": {
           "title": "Zu wéi enger Zäit an op wéi engem Kanal ass de Match Estland-Lëtzebuerg?",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1274879cdc3125429e1384b8db3d8dba0b69d9d0",
-      "title": "Estonya-Lüksemburg maçı detayları",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0luS2VFSlRjQ2hUek90WU1zNFV3ZFEtcW51M1ZQTjhkSE1Xb2pDNGxmODRDYlpQVFNKckUyek1YY3o5eG9yOGFOaHJpOUt2ZTM0eGJzb2pGLXpHNEs4Z3RfYkpjbUdRZTlMV0x0bVVPeTVtcFJxdmFxUWtlaGRQSW5teTExTjB0eFh3ekdrUG1ScV9uZ0NWWVFCMWJUWlhk0gGmAUFVX3lxTE1NbUdRVWlJYTBmME9vNmRVekdXSnhtZlJ6R05pQUg5akFQeURoNlpMR2NBWmZ0ZWEyQ1VUNElJR2FnbUU5WmhvVmljNTdFRkFkakdLWDVHZmNzT1ducXFqU3ptckRPdGFsQTJLSlNRYi1DR25RbVpqYm14RzhWV29VcTB3dERJLXJhOU1QRkMwSHlqNlNCMUFfc081SzIzSGNlS2I5Mmc?oc=5",
-      "source": "Fotomaç",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T08:32:22.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Details zum Spiel Estland-Luxemburg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland-Lëtzebuerg Match Detailer",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia-Luxembourg match details",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Détails du match Estonie-Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fa4fa4623a87042664778c2090a8f7801b31cd17",
-      "title": "Lüksemburg Ordusu (hava unsuru)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oLWtqUURyQ1JTazZwVmp1QWo1MjN3Q0M5c3VmNjNhZmY5ckttWV9hcTNpUXBUVmlxLUVYaTZUSVI3TndiWDYyYXJUY1E5Qjltb1dKdnpBNEd5dGFhU0xmbE1BUGc4SVptbi0tWG56TDgwQlB2UUhYdHVqSQ?oc=5",
-      "source": "MiGFlug",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T08:09:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg Army (Air Element)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Army (air element)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Armée luxembourgeoise (élément aérien)",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburgische Armee (Luftelement)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "72920eabdfc22ce0e155c00c8396703a1b6e1442",
-      "title": "Charles de Luxemburgo, un año como heredero: sus gestos más divertidos en la proclamación de sus padres",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHBNM1FuWFk2VGl0MTM4MFNDdlZTYUZnM1FRSkM0NmE4dEF4cnVoUjkxUXR1cEhuS0QwdDNPZHc4YlNaeWpHZHpUNDNxYzM4N0JmcENnb0JHZnpKeGltS2s4YVRpSDhKaVV3VzlEdnpNSVd4aWtXM21zTUcyQmJmYUFYaWFxaUxZSVB1WkdjV1FRQkpSTHJNWEV5SmJ1WlFkQk1lU1pn?oc=5",
-      "source": "HOLA",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-03T07:55:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Karl von Luxemburg, ein Jahr als Erbe: seine lustigsten Gesten bei der Proklamation seiner Eltern",
-          "summary": ""
-        },
-        "en": {
-          "title": "Charles of Luxembourg, one year as heir: his funniest gestures at the proclamation of his parents",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Charles de Luxembourg, un an comme héritier : ses gestes les plus drôles à la proclamation de ses parents",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Charel vu Lëtzebuerg, ee Joer als Ierwen: seng witzegste Gesten bei der Proklamatioun vu sengen Elteren",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9aa6f0d104601689f0c91534e16cb583842341f6",
-      "title": "ФОТО | Сборная Эстонии по футболу обыграла Люксембург на глазах у 7211 болельщиков",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82amNsNzVVQ1JWS1g5U0JFajQ4ODZxcnYzZTB0NXpTbU5fTVBrNlBoVElPR3lKOXE2eVBNbkM0a1FKV2tJb2o0?oc=5",
-      "source": "Delfi RUS",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-03T07:55:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "FOTO | Déi estnesch Foussballnationalequipe klappt Lëtzebuerg virun 7.211 Fans",
-          "summary": ""
-        },
-        "en": {
-          "title": "PHOTO | The Estonia national football team beat Luxembourg in front of 7,211 fans",
-          "summary": ""
-        },
-        "de": {
-          "title": "FOTO | Die estnische Fußballnationalmannschaft besiegte Luxemburg vor 7.211 Fans",
-          "summary": ""
-        },
-        "fr": {
-          "title": "PHOTOS | L'équipe nationale d'Estonie de football a battu le Luxembourg devant 7 211 supporters",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7f8f13d2958270badc7b84aceef9fca379f20233",
-      "title": "France-Luxembourg Espoirs : la composition probable des Bleuets",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTF5aHlmcURKSnE5WVZoOTZiWFNUYjN3SVl3bnJ3TGZuWEswUEhSTFNkLXdDTzJMUWRjeTN6aGNaSGNYVGp4ckdsRzlNWGpsOHJpcTFra3Vyc0Z5M1RxcjlsTmtSTFRnOVdtaHlfLTZCSjU2VGRpdFkxTFJkaTJfbGM0U2VEWHlwZzhkNUx3S05GWXZXRlV4Q0sxSENFSmpmMDRuZVZfZlNLdw?oc=5",
-      "source": "Foot National",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-03T07:54:37.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "France-Luxembourg Espoirs: déi méiglech Zesummesetzung vun de Bleuets",
-          "summary": ""
-        },
-        "en": {
-          "title": "France-Luxembourg Espoirs: the probable composition of the Bleuets",
-          "summary": ""
-        },
-        "de": {
-          "title": "Frankreich-Luxemburgische Espoirs: die wahrscheinliche Zusammensetzung der Bleuets",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a5aaf302a5447dd59aa8fce1041270f90f8f92a0",
-      "title": "Guillermo de Luxemburgo, un año en el trono: la Corona que sale a la calle en bicicleta",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOXF6c0NqUUpnU2tTeXN4ZlB1b1djN01tODVfZWdlSW10RDlsbnpncVpya2pzXzlaU3J1OXBaN3JFdXE5TENCXzl6Zm5XX3FKSnNodWpYLTNQM2pFQ1FVMHppaVZyVDdGTHhZZnpRT3dzTW9MaVFHeVRSbjJXendseDRocWNuUE1RLUR2ZzVfVjU1WUdzcW5CeXQzTDF6dzNhd1VQMDE4YmoxQ1ptV1FkaEl2Zk1mQmVpR1pBbXNoS1ZicDNJYXJGamxyUHFCbDlKczVkcUx30gHqAUFVX3lxTE1QZ0pVdjg4NFY2NVJMQXpQeGZzaTlVRWd1NEl6NEpFOUwzV2hoZHppMlFyRmh0aW9WWHFFSlZmckdReWQtVTJhQ0VMS2N4WUE1MkdGdUM3aENYTWJEMjBKdnplX2hHbXJTSFJBaFM3bF9nckREUFk2c2ZUcUNQeFVESmg1RHFIZXhsN25TdXQyN01CSVFaaWJ6dHF2NXlnUjZVUXdtd2hxUkJQYThPalVEY1hDS1A0WWx5Ty0weXNOcVJCQXV5UkZ0b1BqX2NWWjhyS3gyS1dCZnh2bGFocGgyeUY3R3o4R09iZw?oc=5",
-      "source": "La Razón",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-03T07:50:13.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Wilhelm von Luxemburg, ein Jahr auf dem Thron: die Krone, die mit dem Fahrrad auf die Straße geht",
-          "summary": ""
-        },
-        "en": {
-          "title": "William of Luxembourg, one year on the throne: the Crown that takes to the streets by bicycle",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Guillaume de Luxembourg, un an sur le trône : la Couronne qui descend dans les rues à vélo",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Wëllem vu Lëtzebuerg, ee Joer um Troun: d'Kroun déi mam Vëlo op d'Strooss geet",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b5f8a9e99a9b6e3b4a301da618a23a529abd2f80",
-      "title": "欧国联比分精选：爱沙尼亚vs卢森堡",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MalczaTNPV3RJTDdKaS1RY0pscS1GTkpKQUxQWW14aElPdER4X3IwRlFBVENZQ3QyenA4OVFOUGU2bElJSUl6N08yWG5XU2phdnNv?oc=5",
-      "source": "捷报比分网",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-03T07:42:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Ergebnisauswahl der UEFA Nations League: Estland vs. Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "UEFA Nations League Score Picks: Estonia vs Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "UEFA Nations League Score Picks: Estland vs Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Choix des scores de l’UEFA Nations League : Estonie contre Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d1ce43bc3a133bda03b4d5cc3c86ae553e8683b9",
-      "title": "Haaland, Ronaldo, Mbappe joined by Luxembourg, Kosovo hitmen in Nations League top 10 scorers ever",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ2dfei1rYTNZNzBTWHJiRkEzd3VtNVhxRkxXUDRNdXMxTFkyRXdleVZUd0Y5SzY2Z2l2aGc3NGsyRnJVZk16cnZ1Zkh3M3FHVEF0aUVscDE2dGFCa0RTd1h6UmJKSUI4WXNMcjZqU0VXMElERU54UWl1WG5UYWF1Z3BaSUFwWWc3MWtwdVBoSGhmWWM5SGhSVWdCQ0hCZXNRalNpeUVlYUJaSW9tbGg0Qkd4R0JfUDBmMnpGZFBweFF3eERFcFRCT2gyaVF3RFVIYkVnaFpyNDB0aFFIT2lfYTBsNUdoR1FVMkdNVg?oc=5",
-      "source": "LiveScore",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T07:41:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Haaland, Ronaldo, Mbappe zesumme vu Lëtzebuerg, Kosovo Hitmen an der Nations League Top 10 Scorer jee",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Haaland, Ronaldo et Mbappe rejoints par les tueurs du Luxembourg et du Kosovo parmi les 10 meilleurs buteurs de la Ligue des Nations",
-          "summary": ""
-        },
-        "de": {
-          "title": "Haaland, Ronaldo, Mbappe sowie Luxemburg und Kosovo-Stürmer gehören zu den 10 besten Torschützen der Nations League aller Zeiten",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "71cd3bee3f8f82d40fdcbd84efd80bc22eeec261",
-      "title": "Збірна Люксембургу U19 перемогла команду Північної Македонії U19 з рахунком 4:1, здобувши переконливу перемогу у товариському матчі.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTVoyMlFSNjhlWDVSOTVxbWo1OWJPMkdXMFVtNVU4eDA1M0toejExRUZxeUphaHl5TDVaY2ZQWlZObDdUcUFFRkVLOEE4cDBGa0pYeXpyMWVsYVVtbDhZSWFrUUFXakJqbWk2THdKWXBOSUpqaGlHemF0VmRmblpGQm9ad292a2ppVUE4S08yVmF4Q000eG0zbExWLXFLUXRF?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-10-03T07:31:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die U19 von Luxemburg besiegte die U19 von Nordmazedonien in einem überzeugenden Testspielsieg mit 4:1.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg U19 beat North Macedonia U19 4-1 in a convincing friendly win.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Lëtzebuerger U19 klappt Nordmazedonien U19 mat 4-1 an enger iwwerzeeger Frëndschafts-Victoire.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg U19 a battu la Macédoine du Nord U19 4-1 lors d'une victoire amicale convaincante.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5980c24a664689924ad224008fd95545a0c4773b",
-      "title": "France-Luxembourg Espoirs : sur quelle chaîne et à quelle heure voir le match",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkp1ckpjcDNPSWJrX0lQY2NoXzBYMFhBNzFnTkhtV2FBcGo5dTRxTkYzVWdETDd3eTQ1dFB6OUt3LV93OXgzQWFoRldCRGNfSTM4b09BOHQ1UzFwZUJHV3BnN2xfbGRaY24wQ1lCTnFJaGRWakdNUHYtOXN2WUNCeHN1eEJRUFpGTzFUclo4eXhyUU81QmszZ0dLX1Fnd1VaNWtEX0tyNVJEcG9Sc3h4SDlMOFBvR2NSa05yOA?oc=5",
-      "source": "Foot National",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-03T07:22:01.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "en": {
-          "title": "France-Luxembourg Espoirs: on which channel and at what time to watch the match",
-          "summary": ""
-        },
-        "de": {
-          "title": "Frankreich-Luxemburg Espoirs: Auf welchem ​​Kanal und zu welcher Uhrzeit kann man das Spiel sehen?",
-          "summary": ""
-        },
-        "lb": {
-          "title": "France-Luxembourg Espoirs: op wéi engem Kanal a wéi enger Zäit de Match kucken",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0c05bab82372d6787057e251406ca6854da788b4",
-      "title": "Pronóstico Estonia - Luxemburgo - Nations League",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ma0JRSEdaRXp4TlJxZFlweklOY185Q09RYjJvMVNvaGNyV0lvM3ludGZNSGhJcmdzazZJZ1VzNGJfNk5SS2FCQ3NES0s4RFFQZGc5MzFUS05vUjFnUExHeXZEdVpzR1VZRVRuV2dzX3Z1QW1L?oc=5",
-      "source": "SportyTrader",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-03T07:20:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Estland - Lëtzebuerg - Nations League Prognose",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie - Luxembourg - Pronostic Ligue des Nations",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia - Luxembourg - Nations League prediction",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vorhersage Estland – Luxemburg – Nations League",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "29adcd977f1819bbfdb36e5901d9c2157f774a72",
-      "title": "Estonia vs Luxembourg live stream, TV channel and kick-off time | UEFA Nations League C",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXVZSlFRYThkb1JfTjVjWWw0aXVDandaUGVZRDZCT2xEeVFycjEza05Xam0zSnIyc0VQckRzeGVwZ0d3eUVsd1AwOFNzSDI4NDFUTWVCN2JJdjJiLUxBZVdtWUxaN1J1U1B4OXFDWkZQRHZNVWU0MkM2bWFQQ08zLWVPTmJJTkxFZW04ZHlsOHF0Qkx2UXUxeVpjeExwR0dPajZsNjRVTGhNdw?oc=5",
-      "source": "Goal.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T07:04:50.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Estland vs Lëtzebuerg Livestream, Fernsehkanal a Startzäit | UEFA Nations League C",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland vs. Luxemburg Livestream, TV-Kanal und Anstoßzeit | UEFA Nations League C",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Diffusion en direct de l'Estonie contre le Luxembourg, chaîne de télévision et heure du coup d'envoi | Ligue des nations C de l'UEFA",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "29c5c4f80b2fc402ddf386500f5d4e7f724a5362",
-      "title": "\"Perfection\" von Anta Recke im Prater der Volksbühne am Rosa-Luxemburg-Platz © Lee Everett Thieler",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYmc4SUQ3TmFlOUdMeENaMzZTVktpN2tfQ2RxTGRvMEdveG9zcU9FUkd2SXpfazF4QWxILVVaZElVdVBQZDY5aGZ4WHdLWFFNbmRDTEN6alRtcWZ1VWM3OVY5eVZoVk5wN21QMHdmQ29iWmxkUGUtNmFpR0tvZjhELWl6WFZjRHFfeHJJTkNwX2oxVmtTeGlQZkdlRGs4aElWS29PZ3JtYnFxUkJvYWtXNFZGaEVsVjZRRnV5cUJQV0JUWWppLTRCckw5S0JTaGJUZkxhbzh3S1p6amhFMGhtdVFMYlZUc3I2UE1XQW1NZi1mMkV5NVRlOVE0Ym0yWE5UWkZOVFNDdjEtMmxNLXlqektVQW82elBtY05MQ2RoN1VWTW9a?oc=5",
-      "source": "Nachtkritik.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-03T07:04:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "fr": {
-          "title": "\"Perfection\" d'Anta Recke au Prater de la Volksbühne sur la Rosa-Luxemburg-Platz © Lee Everett Thieler",
-          "summary": ""
-        },
-        "en": {
-          "title": "\"Perfection\" by Anta Recke in the Prater of the Volksbühne at Rosa-Luxemburg-Platz © Lee Everett Thieler",
-          "summary": ""
-        },
-        "lb": {
-          "title": "\"Perfection\" vum Anta Recke am Prater vun der Volksbühne um Rosa-Luxemburg-Platz © Lee Everett Thieler",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bf0ef59bcef4c4fb054e87d9af9b0e634189ba81",
-      "title": "Estonie - Luxembourg, Ligue des nations C, match en direct le 03/10/2026",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3RtX2FVTXZlX0pqdlM0V3J5LTZqbXJlclNzaklNVWZGbkc1QWd0RHRBSGQ4MG4xQmJyT2g1endyVnBuR2VsMExTV2hfcG5EN2tSaUpoOUNHU0dGUjZNa1hoU1JPWlgzWWhveVN6OUpFVFhkQTc1eVpBWnVadXJ1eFZBZHNrQm5UZkduQ2EwWndvRFBsQmxxbEVNU003MFRIQXc?oc=5",
-      "source": "lequipe.fr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-03T07:02:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "en": {
-          "title": "Estonia - Luxembourg, Nations League C, live match on 03/10/2026",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland - Lëtzebuerg, Nations League C, Live Match den 03.10.2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland - Luxemburg, Nations League C, Livespiel am 03.10.2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4db12b0ebe166bdd9934c7bd02cb8422358a80fa",
-      "title": "França, Itália ou Luxemburgo? Ryanair lança promoção com voos a menos de 25€",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnRfeWxmaTlkQVF1T2ZIUmh2b3pEbFE5S3ZaNWQtZ2l1eDNqMTJNbUUycTN3RURFRWMwSmhaSE5YYXpXS3RVQXRuMzQ2RGZyOFN6cnBrWWVBbndBY2REMFBSbU1aeTJHVG41MlNoTmw0a2o3cFlrQjZQenZOMmhOSTZfN3k1UTVNSFJidy1UbTdkQTZxblN3TDRwZWJ1M1ctcG8wX2pJdXE4RGgwY095Y3pCUi0?oc=5",
-      "source": "nit.pt",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Frankreich, Italien oder Luxemburg? Ryanair startet Aktion mit Flügen für weniger als 25 €",
-          "summary": ""
-        },
-        "en": {
-          "title": "France, Italy or Luxembourg? Ryanair launches promotion with flights for less than €25",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Frankräich, Italien oder Lëtzebuerg? Ryanair lancéiert Promotioun mat Flich fir manner wéi € 25",
-          "summary": ""
-        },
-        "fr": {
-          "title": "France, Italie ou Luxembourg ? Ryanair lance une promotion avec des vols à moins de 25 €",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "649d6cb15e4cd34ea9ae1be3119e317f533a2f76",
-      "title": "Estonia-Luxembourg | UEFA Nations League 2027",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPal9EY0NEYWJNc2lPMWQtVzhraUstVm9WWThyM2hSSzFsSmVFQ1NxSHhKR0cyLVRjczZ4ZzNqTnZsWDVtbTgybVU5RTBLSFZHaXJ4X1RDY2hSZWtvQm5iSVA5QlBmaERVTkdSNmt1Y2V2VTRUVzBkTGluZGYwLU90NWgwRQ?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Estland-Lëtzebuerg | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland-Luxemburg | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie-Luxembourg | Ligue des Nations de l'UEFA 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "13c2a7a896ef5a9a782c6a43b3ee5229e51656f8",
-      "title": "2026 giornata-3 estonia-lussemburgo preview",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2lSYjV0cTctWlk1VWYwV3JzT0dTLVBLNEhnMVJHRzk2NnRlVUNrN00xTngxNFJfTXh4ZzlraVpDdEJLRnh3RUluWnQ3OTdqdVplbGswNjhxZ19fM2tuX3E3clVoUGFVYjlCQWRWM045UlpmVHJJVV9PTmFIZWtkYU1jZFVLLVhIakZBTF9nVQ?oc=5",
-      "source": "Sky Sport",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Vorschau auf Spieltag 3 Estland-Luxemburg 2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "2026 matchday 3 Estonia-Luxembourg preview",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Aperçu de la troisième journée 2026 Estonie-Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "3. Spilldag 2026 Estland-Lëtzebuerg Virschau",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "554de69c885b6f672f39a01c365f1b711f6fde02",
-      "title": "Składy meczowe Francja U21 - Luksemburg U21 - 03.10.2026",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVFVYTGZfTC01VEp0b2pwU01lN2hLUzNUOTdlSGhHUkQ1bUFxdk43VlNaUVR6dU5Pa0ZYc1lCVjZ5UXZXOFoxU0FKSmxLNnhqWGw1NExJMDY3eElyX1hrUzJ3ZWF2Z2Nybmg3ZXdMOFoxa3hrdnN1MkhlX3hCbVVNQ3E3MGlpeXMzZVB3cFBFZms?oc=5",
-      "source": "Meczyki.pl",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Équipes de match France U21 - Luxembourg U21 - 10/03/2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "Match squads France U21 - Luxembourg U21 - 03/10/2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "Spielmannschaften Frankreich U21 - Luxemburg U21 - 03.10.2026",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Match Équipë Frankräich U21 - Lëtzebuerg U21 - 03/10/2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8386ba5c876b2c68e675d3e29e195c0d2c51a07a",
-      "title": "Fransa U21 - Lüksemburg U21 canlı skor, H2H ve kadrolar",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnhRSlBvSXpUOG5ZM2FFRzlFSThfTklDblE2V19CX2xKUm1LanVEMHhaV3JNQjN0OXdZdTZDU2hTU2Zrd1lHUXVhLWdncnQ3cUdTNUNMcVAwaGZubTdYd2xvZ002LTcycllYYW54RFNMNWo4TE5jNktENFNGbm9BbWtQbw?oc=5",
-      "source": "Sofascore",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "France U21 - Luxembourg U21 scores en direct, H2H et compositions",
-          "summary": ""
-        },
-        "en": {
-          "title": "France U21 - Luxembourg U21 live score, H2H and lineups",
-          "summary": ""
-        },
-        "de": {
-          "title": "Frankreich U21 - Luxemburg U21 Live-Score, H2H und Aufstellungen",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Frankräich U21 - Lëtzebuerg U21 Live Score, H2H a Formatiounen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "15080f893120ac08167cb52682dcd610e49c7fe5",
-      "title": "Estonia - Luksemburg Powiązane wideo: Piłka nożna na żywo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXVaXzlNUzVSc3B3ZjFtLUFQaGotYmc2djRJUk00MlRNUWhCMnphNnUyckpKcU5FM1ktLWpHMnU2TUcyQlVnbXktVzBaMFU1VU5KTC1vS1l0cVhJVVRvV0Q2R21MOHJvVXB2V1J6X0dtd0tDanZwanZjbWtWQmlQSjNvMmYtbVRodm1Xa09ic0wxemtpX2xyMEQ2eGV2cHVMY2h0a09Fa01oV2Nxa3FkWWtRYWpMZw?oc=5",
-      "source": "Eurosport Polska",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Estonie - Luxembourg Vidéo connexe : Football en direct",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland - Luxembourg Related Video: Live Football",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia - Luxembourg Related Video: Live Football",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland - Luxemburg Verwandtes Video: Live-Fußball",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "34a3c4218983478992b3dcf96260c2de913f8a34",
-      "title": "Естонія - Люксембург онлайн трансляція",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9obHQtbDN0cjE3czJGV2ZzZWtZVVE0X2liMUpHMmoyT1dyR0RncUx6WEpIaTIzakhtQ2k4YWJ0Yjg3N3IySVMtZmE2MFZlbjF1dThnQ1Z2eTk3di1fZUxSU2JIRDc2elcxMjkyeVU2LTB2UW8?oc=5",
-      "source": "Sport.ua",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Diffusion en ligne Estonie - Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia - Luxembourg online broadcast",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland – Luxemburg Online-Übertragung",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland - Lëtzebuerg Online Sendung",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "df0e90c057197446e65440b229836d6c3b650e7d",
-      "title": "Эстония - Люксембург, 3 октября 2026, результаты матча",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2k5VDczaWttdHM0OVQwNnBGRWRZQ3pqaTZXaXZQWnFmNmFMWGw1VVJRdWVRSVlKckgxNzc4SVJiN2w2S0NJT09JLTJNRUExUnlEWExxTlFoN3VCMWhzYWZuU01DQkpXWlZCb05IQmtEVUtpQkV3WnpZbU1fVFE1dTJCT0xHbTA?oc=5",
-      "source": "www.championat.ru",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Estland - Lëtzebuerg, 3. Oktober 2026, Resultater vum Match",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia - Luxembourg, October 3, 2026, match results",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland - Luxemburg, 3. Oktober 2026, Spielergebnisse",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie - Luxembourg, 3 octobre 2026, résultats de match",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d6e57e87c73be4adda74ab42e782a890918ddf5b",
-      "title": "Estonia-Lussemburgo | UEFA Nations League 2027",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQejMtQk5YcVpub3I2SWZscGk0YTVoUGNHbjhLV0VSZFkwQ2VoamlWQjBWakpiNnBFWHVHd3ljcWIzck9EUVVjVGlnaXdkcndWWDQxRm16SHVOUlZyZ2R3QzFWSnY0Zkg1QjVTVFZvRDBCcUhxVTlUUU52T0E2YU1UVw?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "de": {
-          "title": "Estland-Luxemburg | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia-Luxemburgo | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland-Lëtzebuerg | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie-Luxembourg | Ligue des Nations de l'UEFA 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f2a152f487e5d2209c5e501475b9e5381ad29569",
-      "title": "Estonia vs Luxembourg: UEFA Nations League stats & head-to-head",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50OWxxOU01VFUxM05PQTloNmNPWlFHeUEwa2hFejhVSmM1eEdjLVdPa2VncUI4dU84MDlneWJfYXhuaEhRVjZyMFdnWnluUFdoOFc1OHYzSFFCeWdscG9PX2lHQVRBQQ?oc=5",
-      "source": "BBC",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Estland vs Lëtzebuerg: UEFA Nations League Statistiken & Kapp zu Kapp",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland vs. Luxemburg: Statistiken und Direktvergleich der UEFA Nations League",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie vs Luxembourg : statistiques et face-à-face de l'UEFA Nations League",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c4186dd2c94d119610bfb1176b4c20fca8c4a354",
-      "title": "Estonia-Luxemburgo | UEFA Nations League 2027",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnhqblQwMVVGS0x5XzhUSjAzbTRKX0c2SUI4TFA1XzdtNHF6UmlrWFcwNXhLNHlQdVYtdU1jRmFyVjZHRW81dGloZ0hzM3VPSUhWWkRBamdfb3VreTdWLTFoQU91TUpDUVBDS0FGeFFfU0I1SW04SzJnOHJzX2JzMg?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Estonie-Luxembourg | Ligue des Nations de l'UEFA 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia-Luxembourg | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland-Luxemburg | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland-Lëtzebuerg | UEFA Nations League 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ba54f4d23d99707e67868e5f3b4a7883c49ff88d",
-      "title": "Прогноз на матч Эстония – Люксембург. Эстонцы порадуют публику победой",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2JVMHhtRVByVW5nZDdjLTdzSUhkeDdocWE1aXlKU1FvQ3pvWjZKWGVuNDROMnpITVVRdGhFWVM4UURPZlduVVVWRVZFM0NZZFp6eDJKR0EwOEtScWNrWDh3UXBrdlRyWU1pVDgzVHFNVnlBYWZ4M1pEMnloLUpLN1ZmU2g3b3Y5azdHekJmRkNMS05YT3hzRDhtSXZoN1VibENMVkExbHZ0TW1WbGVseWtsUDdqdw?oc=5",
-      "source": "Metaratings",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-03T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Prognose fir de Match Estland - Lëtzebuerg. Estland wäert de Publikum mat Victoire begeeschteren",
-          "summary": ""
-        },
-        "en": {
-          "title": "Forecast for the match Estonia - Luxembourg. Estonians will delight the audience with victory",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Prévisions pour le match Estonie - Luxembourg. Les Estoniens raviront le public avec leur victoire",
-          "summary": ""
-        },
-        "de": {
-          "title": "Prognose für das Spiel Estland – Luxemburg. Die Esten werden das Publikum mit einem Sieg begeistern",
           "summary": ""
         }
       }
