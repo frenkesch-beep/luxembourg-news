@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-10-17T17:13:04.135Z",
+  "generatedAt": "2026-10-17T19:25:34.655Z",
   "items": [
+    {
+      "id": "7a95e9eb1302242462d29d8c7e7ccd9bf555e5bd",
+      "title": "UNESCO-Promenade führt am 17. Oktober durch Altstadt Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUNFWTR5SFp2aDh4NEFFbnp6cF9XeXJUQ1E5Z2J6V2tha3NBSEFYQ1ZOX3pfSW1YWFZtb2JuTTZ6Sk1VY0xuUEVZX1N1SE9WOHlrZ25jN3ZhVzVZazE4UldGZmI2OXVOR2VKZkJ1TG1XY2JvZDJzRnl4TG16eDhxRlBfZEk1M1A5V2ZxbEZIMkt2bmMxUWtyanhYT1N2WUE4Z3ZVcXFlZVdoVVZOUW9mSXJzcFNQaWpwcGc?oc=5",
+      "source": "ad-hoc-news.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-17T19:01:47.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "UNESCO promenade runs through Luxembourg Old Town on October 17th",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'UNESCO-Promenade leeft de 17. Oktober duerch d'Alstad Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Une promenade UNESCO traverse la vieille ville de Luxembourg le 17 octobre",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "830b40183a5cd40b557ddd8282afe442f823448f",
       "title": "Теннисистка Кербер обыграла Радваньскую в полуфинале в Люксембурге — Interia Sport",
@@ -30,6 +59,35 @@
         },
         "en": {
           "title": "Tennis player Kerber beat Radwańska in the semi-finals in Luxembourg – Interia Sport",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d3811c88b22fddffa7520d02da38fb5e6bc3667b",
+      "title": "Stenay. Les Diables de Stenay débutent leur saison au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRHd5MUFOYUZFcVVnYS1kODVCVlBtaW9Ybkw2dElsNlg3UlFuS3A0RDFvMjk3cEE3UEhGSUllN3ZOd3RxX3hEaUp4SEJjUnJ6SHllR21vcDlMRFJxa1RtajBMQ0EycTNPamhVVUNpYzdpQnRzYkJyZHhObUpkUklHeEs5WDlXQnA3SDhfVmNoVEgyWUVwYW1iekg4azdMTnYyaTFPemN5X0tyRGFwYjBCOVEzZw?oc=5",
+      "source": "L'Est Républicain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-17T16:48:08.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Stenay. The Diables de Stenay begin their season in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Stenay. D'Diables de Stenay fänken hir Saison zu Lëtzebuerg un",
+          "summary": ""
+        },
+        "de": {
+          "title": "Stenay. Die Diables de Stenay beginnen ihre Saison in Luxemburg",
           "summary": ""
         }
       }
@@ -279,6 +337,39 @@
       }
     },
     {
+      "id": "e476f2546d6c844e1359f698f99fce56cf012317",
+      "title": "Miniștrii UE caută la Luxemburg un acord pe noua PAC. România vrea ajutoarele naționale tranzitorii după 2027",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYkZCSG1XekV5Tk1DOFNfX2VVbXhEZ0t6RUpxUVRNRWIyQzdNQ1c5NnFkSGNHNmZHckRPX1l6T2JGQVROTF93N3RaU0tHS0dqUE9nQkVWVjhHY3JoVTByRkdWM0c2NmcwaDl3aWM5VkViZC1hdUhVQlBoRnd1Zm9rRTNRLWVlM2o0RllfZkxNMFZOMjZ4OU9DRHpISHJUcWNVNnhEUG1WSmg2R1pTVzEtQjVBUWlZTFhDNUN1WkNsS1RvY1N1MTNEc0lnUUs1RDhKYWdkN1NB?oc=5",
+      "source": "Revista AGRIMEDIA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-10-17T12:15:12.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D’EU-Ministere sichen en Accord iwwert den neie CAP zu Lëtzebuerg. Rumänien wëll iwwergangsnational Hëllef no 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "EU ministers seek an agreement on the new CAP in Luxembourg. Romania wants transitional national aid after 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les ministres de l'UE cherchent un accord sur la nouvelle PAC au Luxembourg. La Roumanie veut une aide nationale transitoire après 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "EU-Minister streben in Luxemburg eine Einigung über die neue GAP an. Rumänien will nach 2027 staatliche Übergangshilfe",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "56c7a60463e18a8c793244b7b47a5ce613cc76d7",
       "title": "Στο Λουξεμβούργο για το Συμβούλιο EPSCO ο Υπουργός Εργασίας και Κοινωνικών Ασφαλίσεων",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbERrV2V1VVRjWVFvNzhhTkdnTk94XzZzMHVWbHBNSVRfUEFCczkyUmFtRlZKTXl2Qnptc2JDZzdVbUpOckFRSUZzR2RDR1VXVHRjSkJzcjNzTXJCZjhESmYyRmhvczRnSExzdFRoTWtGV2ZyV1RFdEE4V1U5eVU5eTN4ekVOMnpWMnUyV05qTVBpTWwwLTB2QmNOY0JENFpPZW0yOC02M3IwUG9RdlBYOEVfdjlzNno1NTMyVGM3SDlvb1JIaUZKd21oZzNVM1Q2czBoMVhn?oc=5",
@@ -307,6 +398,39 @@
         },
         "fr": {
           "title": "A Luxembourg pour le Conseil EPSCO le Ministre du Travail et de la Prévoyance sociale",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5e122b0a2eb939249cef37cf5cd0034b2682925c",
+      "title": "科贝尔在卢森堡半决赛击败拉德万斯卡——Interia Sport",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDdTWGJBeHVybFhPZkpYM3ZXclUwVUk0VFE4ZnZfa09sc09OaDdTLWlGMVBGOHczT1hmb2N2ckdhTkhZdU1CWkNQN1lpRmdsM1I5Z29NaTl2RnhZSEllc0FsaWt2NnBmcWxiM05zZHI3UU96dVV6dlZPQjBkLS1YdnNQdzg2SDdjUjJyMVlNWW5kajlWVk5BdmJtUGRuUVp0MXBQYQ?oc=5",
+      "source": "UA.NEWS",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-17T11:57:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Kerber klappt Radwanska an de Lëtzebuerger Halleffinallen - Interia Sport",
+          "summary": ""
+        },
+        "en": {
+          "title": "Kerber beats Radwanska in Luxembourg semi-finals - Interia Sport",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Kerber bat Radwanska en demi-finale luxembourgeoise - Interia Sport",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kerber schlägt Radwanska im Luxemburger Halbfinale - Interia Sport",
           "summary": ""
         }
       }
@@ -30740,6 +30864,39 @@
       }
     },
     {
+      "id": "04959f0053a85155f7a5e5aa30eb35dca945c3bc",
+      "title": "ルクセンブルク vs ブルガリア : リーグCグループ4 第4節 【UEFAネーションズリーグ】",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QeExSOUh5dEVudExfREg3c2NhZ0VkdDRlc0ctZFlqVjVVam9CM0JxcjBKNk40WUJfdERaenZoVmg3b3FtdHRDZzlxUjMyTDgtNWUzTVByN3Y5VHpKcjNfa1JpWFBFdWVDQkM3dlQ5cGtCdw?oc=5",
+      "source": "ABEMA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ja",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg vs Bulgarien: League C Group 4 Round 4 [UEFA Nations League]",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg vs Bulgaria: League C Group 4 Round 4 [UEFA Nations League]",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg vs. Bulgarien: Liga C Gruppe 4 Runde 4 [UEFA Nations League]",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg vs Bulgarie : Ligue C Groupe 4 Tour 4 [UEFA Nations League]",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "e165b993cb52ef5f1effbf768eb5289f38370dde",
       "title": "Crédit Agricole: CACEIS to take over Edmond de Rothschild's asset servicing activities in Luxembourg",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUWcyNDNJWkkzeWYtekotejhmUnNCNFZybjFwWlgyN3JLOXNUTUxOSlF2VVJFdmc4djBHaDRLRjc5dTRjNWxIOGRBeXFmUnJDQk91ODJUa0Fla2VPSkg1Uy10cm11NnNUekIxSTVQVGl4elF6dlJ3UmpnaG5Sbm9ORUt3c1FYbjRqRWo5aDV6TTV3azJ6R3ZOV3VCWndlZHh2QTE5RGRlYWFvS0Y2WWdCaThPbE5rU1htMS1xVmUwaDdqNm9jaHpRRlQwY0VqV2tCQUxRX19tX2VtLVFaaFRwcE1uXzlqZGN3M3hJOGwzOA?oc=5",
@@ -46756,159 +46913,6 @@
         },
         "de": {
           "title": "[!LIVESTREAMs!]Tv] Luxemburg gegen Estland Live-Kampfberichterstattungsstream",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a43faa1d77b93e775f801886182d664f26dcd349",
-      "title": "[!LIVESTREAMs!]Tv] Luxembourg vs Estonia Live Free Ｓｔｒｅａｍｓ On Ｔｖ 04 October 2026 Stream",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQ2VnalJfZTBQcnVlVXpEVUNyaHYweVc1dGR0WjRKWjZ0NHFwenFyazZnR1hNZ1RtM1Z2T0ROTnk2aFlmVVB6Rl9OcFZiVGhLMnF2ZUNhT3doVHo4VE5COVVjMDNZMUdrRTlnSV9rYmtQelFzNG9aWEdsemVnZXBOM1E3Z0JnclVZOWZSX1dGcWFHa2hWYy13d0dKcjVmVGJ0czBjdURnS2hFYTR1VDVPN3dnX0ZqOTNscTVReUF3RnY5RkNlNjR4SWpGS0xCNTI1eHhlNXRTdVk5bk1XYnROOTlUMzljZU10MDZXUnVVcTVZZzdSOHVrekhSMW5oU1dia0RuRWdCZWhGaGRydTdTdnpMOVFlWmk2dzZGRg?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:15:07.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "[!LIVESTREAMs!]Tv] Luxembourg vs Estland Live Free Ｓｔｒｅａｍｓ On Ｔｖ 04. Oktober 2026 Stream",
-          "summary": ""
-        },
-        "fr": {
-          "title": "[!LIVESTREAMs!]Tv] Luxembourg vs Estonie en direct gratuit le Ｔｖ 04 octobre 2026 Stream",
-          "summary": ""
-        },
-        "de": {
-          "title": "[!LIVESTREAMs!]Tv] Luxemburg vs. Estland Live kostenlos Ｓｔｒｅａｍｓ Am Ｔｖ 04. Oktober 2026 Stream",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f3f06e3179713e3a1c6b1816c28ce9c0c14f8122",
-      "title": "~$$!!【LIVESTREAMs】 Luxembourg vs Estonia Live Stream ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 04 October 2026",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOVmM2bnBwNnNHNFJsWGtPQUg1ZGs4b080VXFSVldSTGhsUm5GYTh2TnRBWl84cXQ1R3ZGUFlDVlFGa1d1b1ZMb0FiTmlxS0hpeWNiSFJxMXBFT3h0YmZEYVVwdDZTbGVpeWNnY2J5alJTU1hlZnN4RVFBZzNWNHAyNktnaUxKcFJtSDlQWnhFMXZneWZ6a1QxM3ZZQXg0bXRIejV3UkphY0pPNDJwdHA1eGFLVWZFVkJRdWp0YjhPOFhGTUxKOGRub3dMMjNfMlBUSmJYSko0VjRfUmk4R0d2QlJILUFHOG9pMUkyZ2NlVF9jOVlSWnliam9xaERrSk9HYl9nelpqTkZESzdIZ2doUEdRVS1iU0RzMURwWA?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:15:05.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "~$$!!【LIVESTREAMs】 Luxembourg vs Estonie Diffusion en direct ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 04 octobre 2026",
-          "summary": ""
-        },
-        "lb": {
-          "title": "~$$!!【LIVESTREAMs】 Lëtzebuerg vs Estland Live Stream ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 04. Oktober 2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "~$$!!【LIVESTREAMs】 Luxemburg vs. Estland Live-Stream ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 04. Oktober 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c879d7294f2ad31a003a117b0374fae9f00c715b",
-      "title": "Składy meczowe Estonia - Luksemburg - 03.10.2026",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQejJ3YUFNWXNJNUpRZFQtQS1Sdzg0bWFLU1lVdzQ5QkY4RXBUaFRSa0dVbm5fVUFjZHZ0Y2NUeVE1aXVXeldzU01YSU8zQV9TSTRCYzRLVFFnRXNOSTR2R0RyRDFteXlwMkRFbjlmUFZJLWNWMTU2SGhZMzRDMFdMLTdqOEN1QQ?oc=5",
-      "source": "Meczyki.pl",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-10-03T15:14:26.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Spielaufstellungen Estland - Luxemburg - 03.10.2026",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Match Opstellung Estland - Lëtzebuerg - 03/10/2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "Match lineups Estonia - Luxembourg - 03/10/2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Composition des matchs Estonie - Luxembourg - 10/03/2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "14d47d7902819944d23a4654a84b61f9b151fa3c",
-      "title": "Эстония - Люксембург: прогнозы на сегодня 03 октября 2026, ставки Футбол Лига Наций УЕФА",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KZlF4cVNHY3h2MkpPMG05cTdLOFo5amJDMFJyM1BlcnVuRUZacTRhQlo5TTVlaHo2bERLVThrZllVeTFUR19JYUxiS1UtYWhUWXRZMWN1UEN5UjRmQ0hxcmRKU1ZpRzNt?oc=5",
-      "source": "Лига прогнозов на спорт",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-03T15:11:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Estland – Luxemburg: Prognosen für heute, 3. Oktober 2026, Wetten Fußball UEFA Nations League",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia - Luxembourg: forecasts for today October 03, 2026, bets Football UEFA Nations League",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland - Lëtzebuerg: Prognosen fir haut den 03. Oktober 2026, wetten Football UEFA Nations League",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie - Luxembourg : prévisions du jour 03 octobre 2026, paris Football UEFA Nations League",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "02584aa4afc85e364420c75db8c27c2887323d2d",
-      "title": "Liveticker - Estland : Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1meVNXcEdXQXIzVFZuOEQ1U2RkU2l6ZTV3TzE5LWU0RDRNUnlnc09XUXdxeXpvdUowaTdGRDdaMTU3bHZ2LWVGUXlXdnY3N1hTTkNvSGdUeHpiZ3Rxb3JnWC1aU3VaTl9NMnc?oc=5",
-      "source": "transfermarkt.at",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-03T15:08:52.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Liveticker - Estland : Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Liveticker - Estland : Luxemburg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Liveticker - Estonie : Luxembourg",
           "summary": ""
         }
       }
