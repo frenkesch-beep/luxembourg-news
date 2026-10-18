@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-10-18T11:12:06.823Z",
+  "generatedAt": "2026-10-18T14:36:44.729Z",
   "items": [
+    {
+      "id": "9d57fb5f87a8984f9250e12ea6fbbfaf0cc1df26",
+      "title": "Céline Dion à Paris en mai 2027 : y aller depuis Luxembourg, Arlon, Thionville ou Metz",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdUtPMWdPcldYQjIzVmhIWlQ1NkdJUHhsUDJ3UmRKUTRrRHhUOVJOSjg4Q3VQaVhhVktBRnZqSDA3bkplVDNoZ0twWGR1dncwTGE2WEZsdHRmUDZPb1hGbjdBeTNBRlVqYTAzdGl6Yk9ORlpZV3VHamx2ZE9iRXQxczhkRUhwTEN6eEJKUlVUMnhTZ1FpRmZ3MU9JZG1mMzhXUUZGTld6MEd2dndWSHZuYTVXb1JlM3dBVmhuYzlBczF6dGpYa3c?oc=5",
+      "source": "Info-lux.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-18T12:53:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Céline Dion in Paris in May 2027: go there from Luxembourg, Arlon, Thionville or Metz",
+          "summary": ""
+        },
+        "de": {
+          "title": "Céline Dion im Mai 2027 in Paris: Anreise von Luxemburg, Arlon, Thionville oder Metz aus",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Céline Dion zu Paräis am Mee 2027: fuere vu Lëtzebuerg, Arel, Thionville oder Metz dohinner",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "0a84c327e27ac419ecf3f8f95ae333219fae658b",
       "title": "RES Chaumont et R Ortho Sport dos à dos en Réserves Dimanche série F (Luxembourg) : 0-0",
@@ -15,7 +44,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "RES Chaumont a R Ortho Sport Réckmatch an der Reserve Sonndeg Serie F (Lëtzebuerg): 0-0",
+          "summary": ""
+        },
+        "en": {
+          "title": "RES Chaumont and R Ortho Sport back to back in Reserves Sunday series F (Luxembourg): 0-0",
+          "summary": ""
+        },
+        "de": {
+          "title": "RES Chaumont und R Ortho Sport in Folge in der Sonntagsserie F der Reservemannschaft (Luxemburg): 0:0",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "41be579798433c16b0b721cf165f11f09a5b49b7",
@@ -31,7 +73,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "In der U17-Regionalserie A (Luxemburg) trennen Un R St-Louis-Saint-Leger und ROC Meix Dt-Virton gute Freunde (1 zu 1).",
+          "summary": ""
+        },
+        "lb": {
+          "title": "An der U17 Regionalserie A (Lëtzebuerg) trennen Un R St-Louis-Saint-Leger an ROC Meix Dt-Virton gutt Frënn (1 op 1)",
+          "summary": ""
+        },
+        "en": {
+          "title": "In U17 Regional series A (Luxembourg), Un R St-Louis-Saint-Leger and ROC Meix Dt-Virton part good friends (1 to 1)",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "54bd3b13f44706bc9e96f665efda88fb60a39f6f",
@@ -47,7 +102,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Price drop when refueling in Luxembourg: This is what petrol and diesel cost now (October 18, 2026)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Baisse des prix lors du ravitaillement au Luxembourg : Voici ce que coûtent actuellement l’essence et le diesel (18 octobre 2026)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Präisausfall beim Tanken zu Lëtzebuerg: Dat kaschten elo Bensin an Diesel (18. Oktober 2026)",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d6b13458cbf129e4763b696fa7e56c141cbfb90f",
@@ -63,7 +131,20 @@
       "topics": [
         "sport"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lovćen iwwerzeegt zu Lëtzebuerg: Cetinje huet +10 virum Revanche",
+          "summary": ""
+        },
+        "de": {
+          "title": "Lovćen überzeugt in Luxemburg: Cetinje hat +10 vor dem Rückspiel",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Lovćen convaincant au Luxembourg : Cetinje a +10 avant le match revanche",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ad479eba65791750b26179fd4ac411c86032f32d",
@@ -79,7 +160,20 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "🇱🇺 Luxembourg: Luxembourg Song Contest 2027 Artist Auditions Conclude",
+          "summary": ""
+        },
+        "fr": {
+          "title": "🇱🇺 Luxembourg : Fin des auditions des artistes du Luxembourg Song Contest 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "🇱🇺 Luxemburg: Künstlervorsprechen für den Luxembourg Song Contest 2027 abgeschlossen",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d5f2c8742b8e9a40b974525926c6b24b8e7b8393",
@@ -95,7 +189,20 @@
       "topics": [
         "economy"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Gratis Transport, Mindestloun vun 2.800 Euro, onbedeitend Schold... Lëtzebuerg, huet d'Belsch vun El Dorado gedreemt?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kostenloser Transport, Mindestlohn von 2.800 Euro, unbedeutende Schulden … Luxemburg, das Eldorado der Belgier?",
+          "summary": ""
+        },
+        "en": {
+          "title": "Free transport, minimum wage of 2,800 euros, insignificant debt… Luxembourg, the Belgians’ dreamed of El Dorado?",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9d67f64655a78fc64ac38162ecebcb8adf61f209",
@@ -111,7 +218,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D'Alstad Lëtzebuerg organiséiert de 24. Oktober Bock-Tours",
+          "summary": ""
+        },
+        "de": {
+          "title": "In der Altstadt von Luxemburg finden am 24. Oktober Bock-Führungen statt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La vieille ville de Luxembourg accueille les visites du Bock le 24 octobre",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b928e00281d4178be1a4892fb952bb383c650a19",
@@ -127,7 +247,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Espoo – ItalTeamGym, Senior Mix Fünfter in Europa! Die Azzurri reagieren auf die Schwierigkeiten und schließen eine historische Europameisterschaft ab. Wir sehen uns in Luxemburg 2028",
+          "summary": ""
+        },
+        "en": {
+          "title": "Espoo– ItalTeamGym, Senior Mix fifth in Europe! The Azzurri react to the difficulties and close a historic European Championship. See you in Luxembourg 2028",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Espoo – ItalTeamGym, Senior Mix fënneften an Europa! D'Azzurri reagéieren op d'Schwieregkeeten a maachen eng historesch Europameeschterschaft zou. Bis zu Lëtzebuerg 2028",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Espoo– ItalTeamGym, Senior Mix cinquième en Europe ! Les Azzurri réagissent aux difficultés et clôturent un Championnat d'Europe historique. Rendez-vous au Luxembourg en 2028",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "1c72e7c88a65e43651702a3696f22862e314fd90",
@@ -143,7 +280,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Parlament: Verdeedegungsaccorde mat Lëtzebuerg, Bosnien-Herzegowina a Slowenien fir Ratifikatioun",
+          "summary": ""
+        },
+        "en": {
+          "title": "Parliament: Defense agreements with Luxembourg, Bosnia-Herzegovina and Slovenia up for ratification",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Parlement : les accords de défense avec le Luxembourg, la Bosnie-Herzégovine et la Slovénie en passe d'être ratifiés",
+          "summary": ""
+        },
+        "de": {
+          "title": "Parlament: Verteidigungsabkommen mit Luxemburg, Bosnien-Herzegowina und Slowenien stehen zur Ratifizierung an",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0c64eab320005c570654196cfc75f41dd1122955",
@@ -159,7 +313,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Provincial 2 series B (Luxembourg): 2-4 success for RJS Mageretoise against REt Sp Bourcy",
+          "summary": ""
+        },
+        "de": {
+          "title": "Provincial 2 Serie B (Luxemburg): 2-4 Erfolg für RJS Mageretoise gegen REt Sp Bourcy",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Provincial 2 Serie B (Lëtzebuerg): 2-4 Erfolleg fir RJS Mageretoise géint REt Sp Bourcy",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c1db119bc0dfe66dbb1c5a8da51a3896e65ccaa6",
@@ -175,7 +342,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Provincial 3 Serie E (Lëtzebuerg): grouss 5-0 Victoire fir den ES Harre-Manhay géint den FC Petit-Han",
+          "summary": ""
+        },
+        "en": {
+          "title": "Provincial 3 series E (Luxembourg): big 5-0 victory for ES Harre-Manhay against FC Petit-Han",
+          "summary": ""
+        },
+        "de": {
+          "title": "Provincial 3 Serie E (Luxemburg): Großer 5:0-Sieg für ES Harre-Manhay gegen den FC Petit-Han",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "7a95e9eb1302242462d29d8c7e7ccd9bf555e5bd",
@@ -202,6 +382,39 @@
         },
         "fr": {
           "title": "Une promenade UNESCO traverse la vieille ville de Luxembourg le 17 octobre",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "84a4d7cb1bc47866fdb5a7c03624116022885217",
+      "title": "Lorenzo Lucania — статистика 2026/2027 вища ліга Люксембург",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjNHdjVRUUxiUWVDSU5KZXJXOHI2Y1FyZFUybER1cnFjUlpucGVMY3g5dlNnTFdnUTRkcHVCRFVIcGRwYkFNYU1qSlpVVUhzdWc2d09FcmRncG9xYm9FdWlCT2E2dVFqWWR6UjBBNHcyQWRKd1JqNmRqeEc5SHhOVGttYzVWMF9Mcl9jQVV5R0xEam5YTzZ0NGZsMWFiYWJqOHBMUA?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-10-17T17:47:33.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Lorenzo Lucania - statistiques 2026/2027 top league Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Lorenzo Lucania - statistics 2026/2027 top league Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Lorenzo Lucania - Statistik 2026/2027 Topliga Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lorenzo Lucania - Statistiken 2026/2027 Top league Lëtzebuerg",
           "summary": ""
         }
       }
@@ -526,7 +739,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg - Albanien 6. Juni 2007, Schlussresultat a Matchresultat 0:3 am Fussball - Europameeschterschaft. Qualifikatioun Tournoi 2008 Sport-Express Websäit",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Albanien 6. Juni 2007, Endergebnis und Spielstand 0:3 im Fußball – Europameisterschaft. Qualifikationsturnier 2008 Website von Sport-Express",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Albania June 6, 2007, final result and match score 0:3 in football - European Championship. Qualifying tournament 2008 Sport-Express website",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Albanie 6 juin 2007, résultat final et score du match 0:3 en football - Championnat d'Europe. Tournoi de qualification 2008 Site Sport-Express",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e476f2546d6c844e1359f698f99fce56cf012317",
@@ -1367,6 +1597,68 @@
       }
     },
     {
+      "id": "06a7cb06d810d123808cda58af3fa36788d82c25",
+      "title": "Linjebrytande passningar per 90 - Luxemburg statistik för UEFA Nations League C 2026/2027",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeV93OXIzNVJheWdlM1h0SG5CRjVpdmh1YTB2cHB1YU5lTkV1Z0Roa3AzTUFEZDB6bXE5dVQzb0Y5WjF2c2RnamtwTzNQZjV3ZkYxOGlnbE5YTUVzTzdmT1QtRlZpakRzQXI5ZTVwVjRoeks0M1otVC1pdV9JcTJEOENQcWRYSmVuOU1sZjdzUGhRNVhMX180em1WbVMzWnFmaFplOXBxUlZfVE5BZV96dXRYeWJTTllNMVVGS3RMc2otMHFFM0wxVW53Q29SNjB2S2E3elZNbFBKSEh4Tnlzc19uQVZkcDhrSmxtbHRERDA4Rl9QTG9rd1lweXBTa2M5V1Y1MU9wNkFDaFUwSVE?oc=5",
+      "source": "FotMob",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-10-16T23:31:20.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Zeilebriechende Passë pro 90 - Lëtzebuerger Statistike fir d'UEFA Nations League C 2026/2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Line-breaking passes per 90 - Luxembourg statistics for UEFA Nations League C 2026/2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Passes décisives pour 90 - Statistiques luxembourgeoises pour l'UEFA Nations League C 2026/2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Linienbrechende Pässe pro 90 – Luxemburger Statistik für die UEFA Nations League C 2026/2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3cb328cceed80c0dfb165a8ab7fad8fcb65225dd",
+      "title": "Two amateur archaeologists found 141 Roman gold coins in a field in Luxembourg, and beneath them, they also discovered a fortification that had been buried for more than 1,600 years",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxORGdoNzh3MDdPT3FrWVlWZldPQktmVWlObE1lc19SNk92Yk4xdUZxMTJqN2g0Wi0yTEF5NTBUVk1EOTZKbi1JWHB3Zm1iRG9WSmdHWUEtbW5pbjlTSU9ZRDlHZW5sQ2R0V0dvTGg0U0dtSEdGS2FkdlV0eVExYmR5SnRjTU56TW14MW9ab2NsbUxjdDhZamVlbzA5b0FYd0hHTUNiNERFdFN2Q0E4Q19WQnJRTkREVmdXcWFCNFpEc0JMQzZ4aUZ2SjVOVDF2akt6NXp6cDNJQVQ2WWtWSjVSOXhmVGhTaFc2clVNd0JsQ1ZxQlNyMTBMd1I0aDRPQUlGYm5EVW4yT0xleUlKWC1aTFVWYlhvX3pQa00ycGRCazdHQjBTTGtuRmd5NnZ4cWNYemRPZmJ6VnhaOFp2WmthdnNoOVJJd1k?oc=5",
+      "source": "ECOticias.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-16T22:29:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Zwee Amateurarchäologen hunn op engem Feld zu Lëtzebuerg 141 réimesch Goldmënzen fonnt, an ënner hinnen och eng Befestegung entdeckt déi zënter méi wéi 1.600 Joer begruewe war.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Zwei Amateurarchäologen fanden auf einem Feld in Luxemburg 141 römische Goldmünzen und entdeckten darunter auch eine seit mehr als 1.600 Jahren verschüttete Festung",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Deux archéologues amateurs ont trouvé 141 pièces d'or romaines dans un champ au Luxembourg et, sous elles, ils ont également découvert une fortification enfouie depuis plus de 1 600 ans.",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "d7c8cc59e0ed8f04805e1fcbcc05111b1e4f35bc",
       "title": "Quentin Briard suit une belle progression au Luxembourg",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1azB1QVphLWpsZXJld3FPaFFvamdvaFRnYnN6NUM0Y0paZV9kbzREeDd0WHBBWDU4TlkzZjNIUVdlQndkaGVia1MzdDdfNnRGLTRUUXN5ZGFWUHJlODdfQTMtblhYYWdqcFhyV095TzRPVFJMZXM0TFpVbw?oc=5",
@@ -1438,7 +1730,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Bestes IPTV Luxemburg 2026: Top-Dienste im Vergleich",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Beschte IPTV Lëtzebuerg 2026: Top Servicer Verglach",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Meilleur IPTV Luxembourg 2026 : meilleurs services comparés",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c897f35fd40aee4360c28dea99a9994a50c23749",
@@ -2821,6 +3126,39 @@
         },
         "de": {
           "title": "Dem ehemaligen Volksabgeordneten Makeenko gelang es, die Beschlagnahmung von 1,5 Milliarden UAH in Luxemburg kurzzeitig aufzuheben",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fd82763dabb09b3a7a8a6cd2c625cf3dbdcb4a62",
+      "title": "普徠仕(盧森堡)系列基金－普徠仕全球焦點成長股票基金I級別(美元) 的總覽 | 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPTWN2MFJxVmlzUERvTW1jU0x5R3lBbEc4ZmlUaHpzQndZWU1qZHFzR2NicnVUX0NYc20xWnZQMlNDSk1RT2d3eVhmZUhPamFqbDR2LTZlamJ2YkRlWHRmOHd5RXJ1QTZ5LWJGdXIyWmVjNnpLRk9LYlF4ekpPUldoQUpOVmw4MDliMFQ4Sm9oTFhyX2JaYndOTDNQWGJnZWNvaUFmTG92QUpJdC1yQ21BdVlPUFNBdkJFLWlEbHYyOUxlSTItVW1MYm9tM1lXbkVLdVBHTmdYbmpDbXJOMW81OFFVa1VkTDhyZmgxNmltSmVFQnlaZGdMbG9haWpiSm0wbTdHMVB4M083ZkFPMWppSUNjYmlseW9hdzBZcU1CbHFHbGxDTERPRXYxRGRhYW9PcW0xSC1LMzNET2NLT0xvYUtQUmdYQmVIbTZnWmVrRUpISGRuZ3F2QUZWQXBhc3B3eEp5X0NqNjV6WEo4NkNuSWRmUi0xSzFQN0FPYTJ0czhwLVk0bWRqcDk3UDVrOV8tb0dUVWJlSlJLOHBSM0VLXzdsTEtaRVd0dkFRTUdoWFlrcV8tLXhDUjR5Ujg?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun Proximity (Lëtzebuerg) Serie Funds - Proximity Global Focus Growth Equity Fund Level I (USD) | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Überblick über die Fonds der Proximity (Luxembourg) Series – Proximity Global Focus Growth Equity Fund Level I (USD) | Juheng.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu des fonds de la série Proximity (Luxembourg) - Proximity Global Focus Growth Equity Fund niveau I (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Proximity (Luxembourg) Series Funds - Proximity Global Focus Growth Equity Fund Level I (USD) | Juheng.com",
           "summary": ""
         }
       }
@@ -4552,7 +4890,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun UBS (Lëtzebuerg) China Select Equity Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den UBS (Luxembourg) China Select Equity Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of UBS (Luxembourg) China Select Equity Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du fonds UBS (Luxembourg) China Select Equity (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "82adaf4ead968095ca8a5396f4612b84b48b3403",
@@ -5746,7 +6101,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Die neue Visum-D-Anforderung wirkt sich auf zukünftige Einwohner Luxemburgs aus",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nei Visa D Fuerderung Impakt zukünfteg Lëtzebuerger Awunner",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La nouvelle exigence du Visa D impacte les futurs résidents luxembourgeois",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e9f521906448bd19ab0a6e2ccd7a03e76bb2ef1d",
@@ -19975,7 +20343,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "In Luxemburg der Außenminister des Rates für Auswärtige Angelegenheiten der EU",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Luxembourg, the Minister of Foreign Affairs for the Council of Foreign Affairs of the EU",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Zu Lëtzebuerg den Ausseminister fir de Conseil des Affairs vun der EU",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Au Luxembourg, le ministre des Affaires étrangères du Conseil des Affaires étrangères de l'UE",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4ebd076193538d7c7ced2de368a2104fb4dc56c7",
@@ -20053,7 +20438,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Gallery of Freeport of Luxembourg/Atelier d’Architecture 3BM3 - 5",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Freihafens Luxemburg/Atelier d’Architecture 3BM3 – 5",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Freeport of Luxembourg/Atelier d’Architecture 3BM3 - 5",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie du Port Franc de Luxembourg/Atelier d’Architecture 3BM3 - 5",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "23f323f6a7d374e8d60c4b14b74a023941e1460e",
@@ -36225,7 +36627,24 @@
       "topics": [
         "sport"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Live Lëtzebuerg - Bulgarien - UEFA Nations League: Scores & Highlights Football - 06/10/2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Live Luxembourg - Bulgaria - UEFA Nations League: Scores & Highlights Football - 06/10/2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Live Luxemburg - Bulgarien - UEFA Nations League: Ergebnisse und Highlights Fußball - 06.10.2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Direct Luxembourg - Bulgarie - UEFA Nations League : scores et temps forts Football - 10/06/2026",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "19009f11ed069e033f77e005c9d8df1b8002e274",
@@ -36241,7 +36660,57 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Luxemburg - Bulgarien Live-Score, H2H und Aufstellungen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Bulgarien Live Score, H2H a Formatiounen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Bulgaria live score, H2H and lineups",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Résultats en direct de Luxembourg - Bulgarie, H2H et compositions",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d4c3466c018f7835cf74bbfbde0bd6f2eecd6f41",
+      "title": "Luxemburgo-Bulgária | Informação do jogo | UEFA Nations League 2027",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUpWZzA2Zm5yQm1UQVEwWFFxOHFUaFVLMVc5aUJ2cEZfT0tZc1IzVjl2czd0R25wMm5lY3cxX2hwVnA4TC1XdEhrNG5EY0t5TF9JbjhFM0VRakV4NExkb1JYSzBVdE5LWnF0N2Z0TDB6Q3JtVmFqUzUtSmc2d1ZhTmtzemh1M1A5MmZQQWJHUQ?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg-Bulgarien | Spill Informatiounen | UEFA Nations League 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg-Bulgaria | Game information | UEFA Nations League 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg-Bulgarien | Spielinformationen | UEFA Nations League 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg-Bulgarie | Informations sur le jeu | Ligue des Nations de l'UEFA 2027",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ea4e826ce3b739185f951a438b96cfbfe61e1408",
@@ -39372,7 +39841,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Opgepasst, Benfica: suspendéiert, Barreiro verléisst d'Lëtzebuerger Equipe",
+          "summary": ""
+        },
+        "en": {
+          "title": "Attention, Benfica: suspended, Barreiro leaves Luxembourg team",
+          "summary": ""
+        },
+        "de": {
+          "title": "Achtung, Benfica: gesperrt, Barreiro verlässt das luxemburgische Team",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Attention, Benfica : suspendu, Barreiro quitte l'équipe du Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "af3f895c8ed011075207c06fd3de21bae47b66d4",
@@ -46447,180 +46933,6 @@
         },
         "fr": {
           "title": "[WATCHLIVE]ＴＯＤＡＹ!] Luxembourg - Estonie Télévision gratuite en direct ! 29 août 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ae836933dec5732a4ed8042090459536fed7c389",
-      "title": "👉 [𝐖𝐀𝐓𝐂𝐇 𝐋𝐈𝐕𝐄 𝐍𝐎𝐖] Estonia vs Luxembourg 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 03 October 2036",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPeWlBdk00Z3g4MU13cjBRb3ZGV2FtMTFEQWRUaFRKMllFRV82dThpdGU4VWJiQ0dzZm5IcFY0SHdscUkzbF9UOGJOSDdueEVUdkZEcGlWZFpYc1JFV0dKS0Mta1M4OGNMUzU0T0dYLTNmYkYyY3FvME9sVFRUeVBNNHJITVhwbXlESjBta1lLQ1NHOTBxNlFtOXZGajBmTmxFYS1PUHBmMFljRTh5TW4ycmJkYUwyYkg1aWtobkgxT3A1YXhqc29tb3kybnRXUlBfenNBYUNJVWk1emxNRHU4eTBaZjQ4UEVEYkJVVDA5OVpnS0FDZngwUjhSWFNEckpBNU9YMXBlbnRwVkpYNnVjWFF5eXgwTFNpdy0w?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:44:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "𝐖𝐀𝐓𝐂𝐇 𝐋𝐈𝐕𝐄 𝐍𝐎𝐖] Estland vs Luxembourg ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 03. Oktober 2036",
-          "summary": ""
-        },
-        "de": {
-          "title": "👉 [𝐖𝐀𝐓𝐂𝐇 𝐋𝐈𝐕𝐄 𝐍𝐎𝐖] Estland gegen Luxemburg 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 03. Oktober 2036",
-          "summary": ""
-        },
-        "fr": {
-          "title": "👉 [𝐖𝐀𝐓𝐂𝐇 𝐋𝐈𝐕𝐄 𝐍𝐎𝐖] Estonie vs Luxembourg 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 03 octobre 2036",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8f41494c39e4cd7c96d79c74f82d2d72441e8554",
-      "title": "#Nations-League-𝟐𝟎𝟐𝟔: Estonia Luxembourg LIVE 𝙵𝚛𝚎𝚎 Streams 𝖮𝗇𝗅𝗂𝗇𝖾 ON Tv Channel October 31, 2036",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRUdIcG9fZEFIM0pOLVpmVEl3MzdiUlAwZmNwVF9mMHVBcFhRdUpOYTZOU1NmTzRjanZCUm1zZk5RSUZfc05CaWFXUmUyNS1ZUWlCaHFUblU3ZHh2RXM4Y21uak1CdU5lYmIwMlNSSmFvcy1jdUtZRzFxYzR3dFk2ZVBtOUZtal9QY3JQWHZhMkM2YXVDSlExQkdOWXRmNEVUTXVwOFNXenFHTnVfS3U1Y1dGaFZkcWxpNUM3eTVVRk5MVlhSYkh5RGJrUkZ3V0Foamw2bUQ4QnlzNGcwVWc3R3ZrMURsQTBienNwOGh0MXdFcnZSWllSQWNfMnBNNjZ3bGtOZW5xcHdIaWw4RnlOaFlkZDMzMXlB?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:43:45.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "de": {
-          "title": "#Nations-League-𝟐𝟎𝟐𝟔: Estland Luxemburg LIVE 𝙵𝚛𝚎𝚎 Streams 𝖮𝗇𝗅𝗂𝗇𝖾 AUF Fernsehsender 31. Oktober 2036",
-          "summary": ""
-        },
-        "fr": {
-          "title": "#Nations-League-𝟐𝟎𝟐𝟔 : Estonie Luxembourg LIVE 𝙵𝚛𝚎𝚎 Streams 𝖮𝗇𝗅𝗂𝗇𝖾 SUR Chaîne Tv le 31 octobre 2036",
-          "summary": ""
-        },
-        "lb": {
-          "title": "#Nations-League-𝟐𝟎𝟐𝟔: Estonia Luxembourg LIVE 𝙵𝚛𝚎𝚎 Streams 𝖮𝗇𝗅𝗂𝗇𝖾 ON TV Channel 31. Oktober 2036",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "22e0a6522cbb76b3033a3cdbaed0e2b4b613cf3f",
-      "title": "+𝐇𝐃[𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐒]𝐓𝐕!$! Estonia Luxembourg UEFA Europa League Match Live Streaming",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNY2sxS2xOSDBpOUJpZi1hUTIwQWRmbmFtRDZWODJTOHhsVGV5N0xGSnZ6RGF6MEktQ3FXOXBxbzJZd0cxNEM1cDh3RmU2cjZWd0lmaWZaOXB2and4ZzRVeHdUemhEUjhVVXZKNnZkWEVyc05YckljQzB2MHlQS1VYY2pCWjFod3FXenpqY1U4bUw4Rm5ubW11WDFxVG8wYVQxdjl4U05uNWp1NWpyR3RlWFo1TzBKQklwVFEyTDh5YThVaUEtaVpwM0JYZnZYanlkLTR6bmlTQWlOWmpDbXdRVXo4UlBtbzFxaU5xbEpkYTNMMkw1b0hIeVlBVEFIRmNoWnl2VU5pNEVhUnpKT1E4NXpwUHJJNmZvTzI2d01zUzFNeWNJRHc?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:43:37.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "+𝐇𝐃[𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐒]𝐓𝐕!$! Estland Lëtzebuerg UEFA Europa League Match Live Streaming",
-          "summary": ""
-        },
-        "de": {
-          "title": "+𝐇𝐃[𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐒]𝐓𝐕!$! Estland Luxemburg UEFA Europa League-Spiel Live-Streaming",
-          "summary": ""
-        },
-        "fr": {
-          "title": "+𝐇𝐃[𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐒]𝐓𝐕!$! Estonie Luxembourg Match de l'UEFA Europa League en direct",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "57a54caf8a072b94ab912c70913edcfb53939041",
-      "title": "[WATℂℍLIVE-Nations-League]DAℤℕ!] LUXEMBOURG VS ESTONIA UEFA Europa League MATCH 𝐋𝐈𝐕𝐄UEFA Nations League MATCH",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOaGVsYzRITmZwcHVYNmEzbjhMa3V6dHl2aWRfeE9NNHM5cHJzWmJ6SHlKMjh2T21MYkdjYy1QVFhZTlY1VjNPU3dOZE15SUFLMUxVcHBhTFFZN1pjXzlQVDdObHFWRnRfMWZiRHhxVG9pSDRET2dlOUh2UzR6dkxheWlDd3F0c1paU0JFV0tYRU9VU3d0dlo0dlo4cjZDWUk0TW8tNDIxanVubkxhVUpIdnBwM2Fycno3c05ETWRSWUR2WmlPUEtEWEdXS3hCQ0FGV3JSVEpISzRwTThiRWFKZ190eTVQRHNwUE1oRHVZRUpBa1JBRmJiX1Y2QjBscE9RS2lFQnNvRlNEbFljd2lWYS1rSUt4MV9xdFVBZ1QyZm1ZWnJ0VmpDVlM5MnRZaVhjaWw2WVQ5TQ?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:43:33.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "[WATℂℍLIVE-Nations-League]DAℤℕ!] LUXEMBOURG VS ESTLAND UEFA Europa League MATCH 𝐋𝐈𝐕𝐄UEFA Nations League MATCH",
-          "summary": ""
-        },
-        "de": {
-          "title": "[WATℂℍLIVE-Nations-League]DAℤℕ!] LUXEMBURG GEGEN ESTLAND UEFA Europa League SPIEL 𝐋𝐈𝐕𝐄UEFA Nations League SPIEL",
-          "summary": ""
-        },
-        "fr": {
-          "title": "[WATℂℍLIVE-Nations-League]DAℤℕ!] LUXEMBOURG VS ESTONIE UEFA Europa League MATCH 𝐋𝐈𝐕𝐄UEFA Nations League MATCH",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "029c15b9d69fbe05b0f69a35725f8593a108900d",
-      "title": "[𝐒𝐓𝐫𝐞𝐚𝐦]𝐇𝐄𝐑𝐄*! Estonia Luxembourg Live Today",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZjNTTkhhdlBNX2lUWTdPcmtqNURnYkZ3UGFxV3RMTENUVjUxZmFzekVBdnptb3EwQVYxMjNGcHMyZWZWTDN5LU5hUE1qUTBVUnVsU01ITkZkNlY0RnNHUURpSThPdm92Z1ByZ2VmNHc2NmhQemZXS19rNUkxeHltWDBmLXd5V3BDQzBqN290SVJJXzdjVXpSNjVJSVZCbXk0ZjJFUUh6bEZxZzJqZ05EcnpGQ045SE1xZi1tT09WUHdkc1JSdmJaaURCQTB5S3NoMTM4WW44WXg5c1M4cUc5cnduX3Vmd25BdHVGS3RkTDFqUWdmMmg1b2NzWl9kb2FVck56bEVIRXhuWF8zSkxjYlNVQnNYeVl6WlM0ZFR1UEc5aXhFdEFfeXhn?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:43:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "[𝐒𝐓𝐫𝐞𝐚𝐦]𝐇𝐄𝐑𝐄*! Estland Lëtzebuerg Live Haut",
-          "summary": ""
-        },
-        "fr": {
-          "title": "[𝐒𝐓𝐫𝐞𝐚𝐦]𝐇𝐄𝐑𝐄* ! Estonie Luxembourg En direct aujourd'hui",
-          "summary": ""
-        },
-        "de": {
-          "title": "[𝐒𝐓𝐫𝐞𝐚𝐦]𝐇𝐄𝐑𝐄*! Estland Luxemburg Live Today",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c286778e0ac103e2c3f6ff69d7afb988a05879fb",
-      "title": "!+[HERE'S WAY TO WATCH] Luxembourg/Estonia Live Free UEFA Nations League",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYmwzNlJQWGVzd296dVpla1dLLW45ZWp1b2lCQ1A4akRhTVBXcjdBV29rSFVzNWZuMDNYa2JoSnFPc0JNaFVUTERRelVUdS1vNnExa1ZMVkR5TFRvN0xfUDlneFRyN2YyTFcyVENmQ3RQeFpVS2Y1eTRVR184d2lrMm53OGtYRllIZF85dy1uUjZXX1RmdmNidnhkRVh3S0drMFhKMGdvQm9VNXdFRXE5ZjN5VDVuWEpERUxFWk90VS1RcWFkNG0xQ0JaWUdCUHZQSjFsdDI3a01zbS1JajhTbUNKUFBWcFRIUnNRVjhRLUxTYzQ?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:35:14.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "!+[HEI ASS WAACHT] Lëtzebuerg/Estland Live Gratis UEFA Nations League",
-          "summary": ""
-        },
-        "fr": {
-          "title": "!+[VOICI MANIÈRE DE REGARDER] Luxembourg/Estonie en direct gratuit UEFA Nations League",
-          "summary": ""
-        },
-        "de": {
-          "title": "!+[HIER GEHT ES ZUM ANSEHEN] Luxemburg/Estland Live Free UEFA Nations League",
           "summary": ""
         }
       }
