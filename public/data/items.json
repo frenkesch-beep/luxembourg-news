@@ -1,6 +1,776 @@
 {
-  "generatedAt": "2026-10-19T07:57:36.029Z",
+  "generatedAt": "2026-10-19T15:39:08.116Z",
   "items": [
+    {
+      "id": "bfd1d2dbdeaac7bc7d0ebecafee45087e42826ae",
+      "title": "Luxembourg. Une voiture la percute, la conductrice s'accroche à son capot pour l'arrêter",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObkxYdDVTMC03MVY5Q3lOMmotc0w4UlprUnRtVzBwaGtDaE1oTnBRNHYycEpiMmFieVlKR05xUmZnTHJWWEJCZ1c1UWRXVlBsT0szNDhKYUlqQlZMdE9qeWw5eTBqRWRERV9Vei1wTWp0bldMSWJ0bnFGTUpTXzJYcU5WWEhzNF9kdlhHb1ZNVVpDbWlVcFpLN3Q4TVNsRUI3emJjSTVudl9xU0QtOEMtQy1idWRkVnFvV05PUUtsZHJVN0U2QjBLcUNqbDQxN0RFdkNjN04zdWVaQQ?oc=5",
+      "source": "Le Republicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-19T15:19:28.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg. A car hits her, the driver grabs onto her hood to stop it",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg. En Auto trëfft hatt, de Chauffer gräift op hir Hood fir se ze stoppen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg. Ein Auto erfasst sie, der Fahrer greift an ihrer Motorhaube, um es zu stoppen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "87fe863daaedee6712eeca8882d36016af36a23e",
+      "title": "Luxemburgo avala el control europeo de Tik-tok - Law & Trends",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzJMdEhvZC1MSHpYOC1LUVpYNUZRSUZmazR5b2dQWnBIMzNnWTFrVWpqc3RxeFRHQ1BHR21yZVgySC02QW5NSDR1NmJ0RFpEWjhNdG5rekZhS1BRS1VGcW16bGRBMEwwZ2lzMVRSLWJfV1FVaVNKYko0eFBLZUoxSmFFSG8tNzFnTlg1MDl2b1pGZjdKQ0s5RllucklMWkdQa3REUHNiY1Z6ckYt?oc=5",
+      "source": "Law &amp; Trends",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-19T15:08:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg befürwortet die europäische Kontrolle von Tik-Tok – Law & Trends",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg endorses European control of Tik-tok - Law & Trends",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg ënnerstëtzt d'europäesch Kontroll vun Tik-tok - Law & Trends",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg approuve le contrôle européen de Tik-tok - Law & Trends",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3d7c43f0fd27e9ca952aa54cd69313bd22d7188b",
+      "title": "Circle K launches Circle K Pro fuel card in Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTNZQV8weUp3SWhmR3Raa1ExY2lsWWNOejJleXFsMEJCWEhfTy1vd3ZBY19RRkVTN1BhdUxld3prZG43VzI4dm1aV2tBWGVnaDBLRnF5cmhmYUowZVR5azVMc1JHM25JM0VXQXlxWmczeTZ1VWc2Mk84Q2QwZ0Q1dDBGaDFIUWdhX2dWSWpKZUJvV28?oc=5",
+      "source": "Mobility Plaza",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-19T14:54:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Circle K lancéiert Circle K Pro Brennstoffkaart zu Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Circle K lance la carte carburant Circle K Pro au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Circle K führt die Circle K Pro-Tankkarte in Luxemburg ein",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "97bba02e7841a1376b89f8d822c05a72954dcf1c",
+      "title": "Kerber wins the Luxembourg Ladies Tennis Masters for a second straight year",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcGxZOUJSMlJUVWNpLTlBVGszOTM4cjBRcFA1b0k0SGJMUHl5NC1jcWwxa0xiSzc0VXlfaGNQY1ZBeWpZLU5YblAwOE5JQWZzVERqcjktZTkxdXkyRmgwZE9RdDNkMXpkYllLWnRzX2FMSWE0ZVlEQU9VTHBObEF0UUxiZmFVa1liNzFmWmJOZmN1UVU0dEdGQm5RNFpVd2JPTW9BU05yUmhLRWs1R2JUcXdQWjA?oc=5",
+      "source": "WTA Tennis",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-19T14:53:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "de": {
+          "title": "Kerber gewinnt zum zweiten Mal in Folge das Luxembourg Ladies Tennis Masters",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Kerber gewënnt d'Lëtzebuerger Damentennis Masters fir en zweete Joer hannereneen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Kerber remporte le Luxembourg Ladies Tennis Masters pour la deuxième année consécutive",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d4ad5c616af9562732f7f75482234ad81038e99f",
+      "title": "New Private Equity backs Luxembourg fund-services firm ONE as it eyes US push",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUh0WFNGa0J2cXV6cG9ZcW96MEVwWmpvYldmRFdYd20wbGVqanJlN0tUVno3UkxuY0hubnl0OWlhdW9VanlmdzJiVzkxMTBrOWttNGQ4dE5BcWZUclVzaG1kVEdZelpkRTNydUxfMmhkV2p6eDhURWNPV3BJUHFhamxiQ0JPeVdUUThpZVhhUHZPQW9mREZLVHdURUE2NEdxVzQtRERJT0h4X2VlSk0yRg?oc=5",
+      "source": "Dealroom",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-19T14:30:28.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "New Private Equity ënnerstëtzt d'Lëtzebuerger Fondsdéngschtleeschtungsfirma ONE wéi se d'US dréckt",
+          "summary": ""
+        },
+        "de": {
+          "title": "New Private Equity unterstützt das luxemburgische Fondsdienstleistungsunternehmen ONE angesichts des Vorstoßes der USA",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Un nouveau Private Equity soutient la société luxembourgeoise de services de fonds ONE alors qu'elle envisage la poussée américaine",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c2d055a7623d839c0f3f911c50c4d37d1716c90f",
+      "title": "Salsa Jeans expande presença no Luxemburgo com nova abertura",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzBkNFEwdjdpVGdrdmJqWDY5aEx0UXR1SnZHNzNZZHc5VXJ0NlNXdENNU3EtR3BmUzlnX0Vxbkd0LUVvVmFhbklGcUN5bHlZelpwNXRLZjNaeWF3MVJ4U2c0YkRXbEhDaFBkeWRNMzVLeHpNT1dZQUtPN05IalBQeG1uQkxvbllsZWwxME54SW8zelNpUEVScjl5TEhLay1HY19mSkZfa0RSTHNp?oc=5",
+      "source": "FashionNetwork Portugal",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-19T14:24:14.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Salsa Jeans erweidert d'Präsenz zu Lëtzebuerg mat enger neier Ouverture",
+          "summary": ""
+        },
+        "de": {
+          "title": "Salsa Jeans erweitert seine Präsenz in Luxemburg mit einer Neueröffnung",
+          "summary": ""
+        },
+        "en": {
+          "title": "Salsa Jeans expands presence in Luxembourg with new opening",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Salsa Jeans étend sa présence au Luxembourg avec une nouvelle ouverture",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a259ff19eae80ba149cd7ea6ee8fd7e4a80c4528",
+      "title": "PJ detém homem procurado no Luxemburgo por falsificação de documento em Vila Real",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU3J2UFZFdmxnek9vV2pFSDltY1NDSnp1dzE0bjZMMGpmMnVra1ZaeDBqcS1Wb2ZjUElUbk1tZHFjSDZySEdjdTdOZ201em5YV09yTXRacWJhR2VrSzgyVi03SFFfMk01X2U2MloxazdVa2VBTjY0NGh4UDFnTG9vTTRqMTYwbi03VWRuUVBKZTB6Nk0yR1pyOUNpY2tSV05KdDBTMzFxaG5ranlydExYTU9feGNLak1O?oc=5",
+      "source": "Rádio Onda Livre",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-19T13:56:18.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "PJ verhaftet in Luxemburg gesuchten Mann wegen Dokumentenfälschung in Vila Real",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De PJ verhaft zu Lëtzebuerg gesichte Mann wéinst Dokumentfälschung zu Vila Real",
+          "summary": ""
+        },
+        "en": {
+          "title": "PJ arrests man wanted in Luxembourg for document forgery in Vila Real",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La PJ arrête un homme recherché au Luxembourg pour faux en documents à Vila Real",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "79834fe089d28472216ecb7233ccc202ccd5e60d",
+      "title": "From Auburn Hills to Luxembourg: Christian Lopez’s Co-op experience",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdE52aUxGcTMwV0hXVnVScmxyT0NveUZ1UENHNWhMdUNlcjZxNXFNNEpTbUIxcHFBVnpXYTh4dVhaYW9hR19fRG1tXzkwcVNVWFQ0RzNFRWFWVWFRcWRpRzNBXzhza2ZDSncwS3p1aThLTVBFZ0R1QmJXa2doVjlZTWE5c2lIN1Z2VU1pYkNqZXl1NTVIRzl0UEd1ZDVTdC1RMHg4RzEyVG11UFdZNER5dW5YMA?oc=5",
+      "source": "Manufacturing Dive",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-19T13:54:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Von Auburn Hills nach Luxemburg: Christian Lopez‘ Genossenschaftserfahrung",
+          "summary": ""
+        },
+        "fr": {
+          "title": "D’Auburn Hills au Luxembourg : l’expérience coopérative de Christian Lopez",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Vun Auburn Hills op Lëtzebuerg: dem Christian Lopez seng Co-op Erfahrung",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "08d768ab3a8c87d3d7e6d2f4ea721a10bcb00aea",
+      "title": "Descoperire surprinzătoare făcută de doi arheologi în Luxemburg. Comoara valorează peste 308.000 de euro",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX05mdWY1bk9RMDRzZ2oyYWRubnZnTDBzWWEwQi1sT1JKZUdYTjI0a3ZrR0V1TlMtQnZNT1Nocl9DWS1iZzh3RU1CSGphTkFlVm1qaTRtdnZJUnFpUDNMRWhnY1BnQnFGTVBfeXRzSDh6RWRYTW44UC1Zd0FRQU1JYlZfTjNsU2dtQ1RCcUhreUNNVlFtVElDejU3SmdlU19icUVrVUlJVkg4amM3dDJwUHBDVUtoSGxyUUZLUG1Ib3VVXzJtSUxSbnpIbnkzMFRKUnJ3TWN1OHVnTVVoQ2swMWhLOXBobHM?oc=5",
+      "source": "Stirile ProTV",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-10-19T13:47:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Überraschende Entdeckung zweier Archäologen in Luxemburg. Der Schatz ist über 308.000 Euro wert",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwerraschend Entdeckung vun zwee Archäologen zu Lëtzebuerg. De Schatz ass iwwer 308.000 Euro wäert",
+          "summary": ""
+        },
+        "en": {
+          "title": "Surprising discovery made by two archaeologists in Luxembourg. The treasure is worth over 308,000 euros",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Découverte surprenante faite par deux archéologues au Luxembourg. Le trésor vaut plus de 308 000 euros",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f16a9de4349e671bbe0f2fa4dacd6cc5b75799de",
+      "title": "Doce artistas avanzan a la siguiente fase del Luxembourg Song Contest 2027",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTG1GM2o1WEk5dGNKRVpaeGlSNEFtYk1ZRVRrN3A4TFYwcVdEbGJ2YTBfQzl2MHRtQzhWVW5nWi15OWxOeHFJTVI4VkNCd1M5VGZGQ3NmV2FGLTV4QzdrdlQxQkZmNzYwd2VIaTRjTTRpWnRKQVRhUjZfaXNuVUNZWDkyWVlMcWxiVXNzRUcwSDBRQmxmYVNDSU1sSUI2aU9zTy1mbkFUMA?oc=5",
+      "source": "Eurovision-Spain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-19T13:41:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Douze artistes accèdent à la prochaine phase du Luxembourg Song Contest 2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "12 Kënschtler kommen an déi nächst Phas vum Luxembourg Song Contest 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Twelve artists advance to the next phase of the Luxembourg Song Contest 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Zwölf Künstler erreichen die nächste Phase des Luxembourg Song Contest 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "04ee71a67e6236c95dc82a4733217c1a9e904824",
+      "title": "Amaggi Luxembourg International S.à r.l. Announces Commencement of Cash Tender Offer for Up to U.S.$300 Million Aggregate Principal Amount of Its 5.250% Notes Due 2028",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQa3pnWTNvS2diME9sakxhR3BXd2ZlRjI5UXBsQjY0aVIzRWc4bjgwLXNyM2s4QTV5WFZUWXFKTlhzVUlIY1JtaGJORDNORXo0T0ZQTlR2YXk2Rjc1dWU2bFlwMEcyNDk3ZFNoUEd2V3I3ZTVNTHZnSjhqem9LLUVIY05JMXduTURoalNmc3h3NzBxbTE0Nm9fWDgwME1LYnlYeGVsUmxkSzFONTZxTXBsNTBsOHE0ZWV2c3dsdmZJbjNUYVlBanZkektlYVVEOUNWekVCdllOZzc3TzZJZUdNMHBRaUVpUDJEQnRBRFQteHlxMW5NS29MVGxTM05GeWt6Tm4taTRFc0VYbWxjR0haZHNHVHBYQVhHdU1RUTVaeGxpV0swR21aLXU0M1JJcnpjYnd5QmNhMkY5d2xmVzk2UV9weTJuaVlwb3VOUHQ0S2szdjjSAdgCQVVfeXFMT0ZkMTlKM1JhcEZfd2dxRnpWRjZheTA1VXlRY2tMWkd6UTltLTNncGE3eHJfdEJoTlVscVVSdDEwdk5QU3A5N1FEaWZnaHoweVc0MW52ZGxJYzkzSl9iWEt2WjQtakVCMktkbGg4SnJpbXhwclY5Y2RtUTBpZ2tnay1RSVU4YTZwWTRqVF85Q2NMRHpZV1FKclQtZ3NjN3NnYTZkeC1mUUZJNXgzc1JtVlloV3VGazMxdkdDYkFrU3hkTnJGSkg3ZkF5aUoxM1Z4cDZXZnN2N0QzR2xOS0ZOVlZYaG1BV2lfSU1xRFpUbTB5a2tJMU5KWWFXNXZjandLdnhfUVF5Sk0yLXBaemNMMUdCRUJLYTJjQmJWQzM0NXpBN3lBYlpqc3R3NHdQeXc3RDJjN0YyZzBPc2UyNzRFM01LV3lLZWZMbXU1S1I1YklPZ191MzliU1E?oc=5",
+      "source": "The Manila Times",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-19T13:30:08.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Amaggi Luxembourg International S.à r.l. annonce le lancement d'une offre publique d'achat en espèces pour un montant en capital total pouvant atteindre 300 millions de dollars américains de ses billets à 5,250 % échéant en 2028",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Amaggi Luxembourg International S.à r.l. Ukënnegt d'Start vun der Cash Tender Offer fir bis zu US $ 300 Milliounen aggregéiert Haaptbetrag vu senge 5.250% Notizen 2028",
+          "summary": ""
+        },
+        "de": {
+          "title": "Amaggi Luxembourg International S.à r.l. kündigt den Beginn eines Barangebots für einen Gesamtnennbetrag seiner 5,250 %-Schuldverschreibungen mit Fälligkeit 2028 in Höhe von bis zu 300 Millionen US-Dollar an",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c0f86e0bdeee035621c55232c428169c7a7fda48",
+      "title": "Велике Герцогство – вагомий внесок: військова допомога Люксембургу Україні у 2022–2026 рр.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwal95QnZ6Z2R5dzhSV0h6eFFZMXNnY3RCcFZUaHMtcnR0SzZhN1lHQUdnYlZpRy11SGZObzQxbktZcXN2MlN1WEVUblpWQVlHbzh1QjVDY1BoT1VzdkFtVTZfeF9NSWdOOGoyck1pbUNFREd2?oc=5",
+      "source": "Мілітарний",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-10-19T13:14:21.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Grand-Duché apporte une contribution significative : l'aide militaire du Luxembourg à l'Ukraine pour la période 2022-2026.",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Grand Duchy is a significant contribution: Luxembourg's military aid to Ukraine in 2022-2026.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Grand-Duché ass e wesentleche Bäitrag: Lëtzebuerger Militärhëllef un d'Ukraine 2022-2026.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das Großherzogtum leistet einen bedeutenden Beitrag: Luxemburgs Militärhilfe für die Ukraine im Zeitraum 2022–2026.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "00d1dec4319a2d768653422c9f223287aac39125",
+      "title": "La Grand-Duchesse de Luxembourg en visite à Martelange",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmNVQnF2R0c4Y3RVYjBlMU1UbG1SSEtFS2NYZEd4ZU02MW9IWThyZmhHNm50NVkyMDRCd09RTkFpdFV2WTNJM2E5OXZCalo5bno4TzBtSVhhNVdLXzJrZVNZTXNPYWdpeW9oeG9JTU0wZFVIN0pRVUs1MC1HYWE4bC0wM3p6LTJOeWtBTUkwWjZleTY0Z0hMMVVBOVprdi1IMXlldE5wdGE?oc=5",
+      "source": "L'Avenir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-19T12:59:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "La Grand-Duchesse de Luxembourg en visite à Martelange",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Grand Duchess of Luxembourg visiting Martelange",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Großherzogin von Luxemburg besucht Martelange",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "07da25d0818a5bb9038efcea2c259e47bab9c8ea",
+      "title": "Luxembourg: The 12 artists who continue in the Luxembourg Song Contest 2027 have been announced!",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRC1MOGZyWmZlUXRrb1JhMmtvall6Ql9lQ0RDMTRKaG5vVzR6SEVvaWhuY1YwY28wU3NWRDFybFhUeFduejBySUl2Q3Zfa195TjM0VUZ6OEU0Rjk0VS0tYU5FcFNwblE3cTRIbm9xV1FkMl9JeGhoSUNVZFZBZVhyVGJwY2Q1b3R6SnNleTcxZGlZNVlEXzF4RnZFdlU1NDh1RTZmUldDcU55WmdnNDJzc3RYcWhyUjZ5TnR4Y1ZnY1IzR1RCamxtNHBXa2g?oc=5",
+      "source": "Eurovision News | Music",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-19T11:51:11.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg: Déi 12 Kënschtler, déi am Luxembourg Song Contest 2027 weiderfueren, sinn ugekënnegt!",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg: Die 12 Künstler, die am Luxembourg Song Contest 2027 teilnehmen, wurden bekannt gegeben!",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : Les 12 artistes qui continueront le Luxembourg Song Contest 2027 ont été annoncés !",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ee1807b1b821a01223afb272f008ac6247911af4",
+      "title": "Λουξεμβούργο: Ανακοινώθηκαν οι 12 καλλιτέχνες που συνεχίζουν στο Luxembourg Song Contest 2027!",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPekRpX3B6NmV0MEVlUDRmT0ZOa3RaVXVCaURSRVdGVjJ1cnlzZkNrSzBOcEMzdHU0ZjctQWdiR1NidFBlOXRSY0VneXRrd214VHYtMW9yYXJZZXd2bFRpUXR1WnlodmJCNzNqbVVZWldzU0FRUUVZalpBWU5zQThjeFd4czNqTUlZNEVMazE2Y19XMXVPeEJKbkM5SHhkeXExaUl0ZXdEbG03cjFIc0J0Z3RIX3V3SGZHckt6SFVoWlViWko4T253d2t0R004ZU85U1hMTFQzSW0yWjM4LWhVRmdPbm9JQ19nQUlzYkp3UGN0WC1uU1lHWDFMak5NS1ZXUlYydGVFTlNSUnBfT3hSbk1CMFlQZGktNEluWmg5bkUycXZ5ZlZUTEpCX0xuaFpLby10aWZOSVJNaGxWZjItLWNVbmN2ZmtUYTNXUENrb0Y5Wjg?oc=5",
+      "source": "Eurovision News | Music",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-19T11:45:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg: Die 12 Künstler, die am Luxembourg Song Contest 2027 teilnehmen, wurden bekannt gegeben!",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg: The 12 artists continuing in the Luxembourg Song Contest 2027 have been announced!",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg: Déi 12 Kënschtler, déi am Luxembourg Song Contest 2027 weiderfueren, sinn ugekënnegt!",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : Les 12 artistes qui participeront au Luxembourg Song Contest 2027 ont été annoncés !",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "645d800835e13f419dc44ba556e2152b93ce82d4",
+      "title": "🇱🇺 Luxembourg: 12 Artists Advance to Next Stage Following Auditions",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGlqWk1vZkdSYnowQzl6YlNRS0dQRHZxY2tmajc4dGlOaFFSQTJFa2FYbDBjc3E4cWNWQjBidFdIbmRWUkVjWDFoWFFSWU9VNlZiYWV2VGtxVVhFYmJLWW9aN2oyUnMtRE9CLVd1bDBDQndzcnRmWDFiLXF2S0RVeldqMzVPV01Vb2p5OXNMT01memMxdDlUSFpITUo?oc=5",
+      "source": "Eurovoix",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-19T11:38:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "🇱🇺 Lëtzebuerg: 12 Kënschtler kommen op déi nächst Etapp no ​​Auditiounen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "🇱🇺 Luxembourg : 12 artistes accèdent à l'étape suivante après les auditions",
+          "summary": ""
+        },
+        "de": {
+          "title": "🇱🇺 Luxemburg: 12 Künstler gelangen nach Auditions auf die nächste Stufe",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0c56f9ee9b17d46a1c61d403ebdea030dfc2fa6e",
+      "title": "Luxemburgo desvela la lista de artistas que pasan a la siguiente fase de selección del Luxembourg Song Contest 2027",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZEZaM3VjWmZPVTA5ZzNCNG9jZVhHZ1huZ2FTS044ak1DWThJWG9XUVZ0MDhuclhuZkNXVGpHZVVvQ0FBY2ZXRWVjQ2pEQ1Z2VXA1UWFTTFN5SjdQdmZBREpQd1NjS2RROGI5RmwtU01OeEdGZ1hNYkZ4Wl9MUVZWUUJnQ2h4bGgwZlU1bGpzX2xzZVNwVXpXc0ZiYXV6YmpVZmpJazRwR3FJQXI4T1ZPT2pDVXdTYXlsZDJuRGNoYnVtbU1POW9jVWRfZzVrdnBYSER4clg4ZlZLTUhnNFN0WlBwdGNqVHRpSDJj?oc=5",
+      "source": "ESCplus España",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-19T11:30:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics",
+        "culture"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg dévoile la liste des artistes qui accèderont à la prochaine phase de sélection du Luxembourg Song Contest 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg reveals the list of artists who advance to the next selection phase of the Luxembourg Song Contest 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg veröffentlicht die Liste der Künstler, die in die nächste Auswahlphase des Luxembourg Song Contest 2027 aufsteigen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg verréid d'Lëscht vun den Artisten, déi an déi nächst Selektiounsphase vum Luxembourg Song Contest 2027 virukommen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "1ebda43ec6d5123a0b52f22e91a0d7290f165f0f",
+      "title": "🇱🇺 Luxembourg Song Contest 2027 : 12 artistes retenus après les auditions",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOamtlOHJZY0tMOFgzUGsyM3dDbWMwVlp1dHN0Nm5neVpBNHMyMnlpbnBHcmc1ek55SGJTOHZrckE1UXhzTWxyY2QtWEZXRjdWcHFfVGRBZk9UOUF3d1JyLWFvWG9iZ2psV0RyWHJqR1FZamZQSDBycWVHWGZUMkdyZzRDLUY1Y0ZTdEJ4eHA3SlplSUYwSEJOckFzbzJJRTRMWG9QWk1SQVdiMlhXQXUyWWN3dnIySV93WHNGNE8zUFlXX3otR1l4UjZzZF9ZNVdqQm9kNVBR?oc=5",
+      "source": "En Route Pour l'Eurovision",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-19T11:12:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "🇱🇺 Luxembourg Song Contest 2027: 12 artists selected after the auditions",
+          "summary": ""
+        },
+        "lb": {
+          "title": "🇱🇺 Luxembourg Song Contest 2027: 12 Kënschtler no den Auditioune ausgewielt",
+          "summary": ""
+        },
+        "de": {
+          "title": "🇱🇺 Luxembourg Song Contest 2027: 12 Künstler nach den Auditions ausgewählt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "244b23e58228b809cc98922aae5dc84e230105cf",
+      "title": "Nelson Neves exibe arte e promove a inclusão no Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFJIc3dnZHhXeGJYdmQ3bzhlbmszSUIzd0NhMkJwSTVnSEQzVG5iaHZZbDZJWDktNlNnQ3d2MlJZVjRpTzg5YzROeDBEUEZVSmRYRmZhbXZVOFZQLWVTaDdZbXQ5NUhnWUh3N3RoenpNMDFNbnNhS0tpZk8yRlp1dW5lOUxpcl9TZ21sMnlHeUxNRlZNUy1PUlhEYlZDU0otMzQ0Ul81dGpFSE5CNUdjVWVR?oc=5",
+      "source": "Expresso das Ilhas",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-19T10:45:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Den Nelson Neves stellt Konscht aus a fördert d'Inklusioun zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Nelson Neves exhibits art and promotes inclusion in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nelson Neves stellt Kunst aus und fördert die Inklusion in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Nelson Neves expose de l'art et promeut l'inclusion au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d20c0416a652054a7dedbb610aaabc684aa884c1",
+      "title": "Marché de Noël de Luxembourg-Ville 2026 : week-end, que faire autour et budget",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHZWN2QzMGIwTWl6N3phd1VCTEozUmdzZHhUdmpibW5hNlB4ZGs5T3dPMlNjeGM3cDJabjhXaUptYjFnQ3BRSlhxNzFOYjVHLWVSOXVhQ0EtR3M4V3lpaFc3WkRNZFdQMHAyVENjd2NNenZHbXRKQjZsVGZTUzN3UU1BMmQwU05qdWp0WktGVm1OMjY0U0hhclVWSzVDaGtYOVdBTVRhRG1IMUZhNFFvQmVlM0oyd3FYOEE?oc=5",
+      "source": "Info-lux.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-19T10:11:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Marché de Noël de Luxembourg-Ville 2026 : week-end, que faire autour et budget",
+          "summary": ""
+        },
+        "de": {
+          "title": "Weihnachtsmarkt Luxemburg-Ville 2026: Wochenende, was man mit kleinem Budget unternehmen kann",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg-Ville Christmas Market 2026: weekend, what to do on a budget",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "020a279521229c0adedf4cf36d793eaaa248fe56",
+      "title": "Στo Λουξεμβούργο για το Συμβούλιο Υπουργών Απασχόλησης και Κοινωνικής Πολιτικής (EPSCO) η ΥΠΕΚΑ Ν. Κεραμέως",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ1F0MGY1U3JEOVhiamlNQ1FKTXkzb2pUaEp1WmxzZzQ2Z2hwOVZ4dXZDWFZESldMR3NuM2lyQUFOTm5KR2ZxcnhjWTZmUnQ4WXNGOWxFMjktMnBfaEtMMDdqSGs5TFBfMHlTS19SZUlvN0xBUnR4bUR0amhBWFVjRnhDLUxzb3VYNWppRFlDZzhNUkVTaTFYOVlZN1lEejZIVGVMN0tqRzNUZXRNRi12cGNqazNiQW9OSVI5Tm1ac1RwU3YxVXlaMDlFQl9URTQxOUVMNERFSlFNVVphRl9VRFNvYzVGaGpuV2RsNDhyWFVucDFoNng4Sw?oc=5",
+      "source": "ParianosTypos",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-19T09:53:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Au Luxembourg pour le Conseil des Ministres de l'Emploi et de la Politique Sociale (EPSCO) le Ministère de l'Éducation N. Kerameos",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Luxembourg for the Council of Ministers of Employment and Social Policy (EPSCO) the Ministry of Education N. Kerameos",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Zu Lëtzebuerg fir de Conseil des Ministers fir Aarbecht a Sozialpolitik (EPSCO) den Educatiounsministère N. Kerameos",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Luxemburg für den Rat der Minister für Beschäftigung und Sozialpolitik (EPSCO) das Bildungsministerium N. Kerameos",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5bcb0999474952fa9ecbbc4fe26f61702e179f5f",
+      "title": "Kamen Bonew präsentiert „Mein Blau“ in Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTS1zX1N4WEN3MDlJdVNoR2RoSmh1dGdiN1Rsbzk2UWRBTU9rVUc3NmFvMHBCb0N5VlRFZTJHUUpsZWJ4dTNxaXNUdFotdjlMMUVNTGlXUVVnUnZpNzVKQkZZdXZBN2JzQ3NMcDVHOXl3cEdnSVRoRDBOR2t6YXIzVHNxbXlCSUE?oc=5",
+      "source": "БНР Новини",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-19T09:19:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Kamen Bonew presents “My Blue” in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Kamen Bonew présente « My Blue » au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Kamen Bonew presentéiert \"My Blue\" zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d451ba7ae4ca91082db11296e86bf7a7c79437bf",
+      "title": "Au Luxembourg, plus de 3000 capteurs hybrides pour alimenter un nouveau quartier",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0pLRWlEem52RktLcGdIUldKOVoxZUNxTG5aZlBhOWswU2ZiNklKd2FOQkgyQVpUQWxmcFBsb1dTUmJmTjBBS3VfQThZZzgyYjBIZnhQOXA1R2ZBNXpsM1NoVkowQ1QyRjJRb3RlUThtODNpVGp0dXlaQ3k0S012ajhDVlg4cF8xNTFleDVLeW92V0hrM1k4bFc4YWxCWm1CMnNORUlvYjhSZGZVVVNySG9hT2xna3RaRm9J?oc=5",
+      "source": "pv magazine France",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-19T09:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {
+        "en": {
+          "title": "In Luxembourg, more than 3,000 hybrid sensors to power a new district",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Zu Lëtzebuerg iwwer 3.000 Hybrid-Sensoren, fir en neie Quartier unzedreiwen",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Luxemburg versorgen mehr als 3.000 Hybridsensoren ein neues Viertel mit Strom",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "872301a8b155b3f49e633a88751da324e6ef3b4a",
+      "title": "Stage alla Corte dei Conti europea in Lussemburgo. Sessione 2027",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzBiZmR6TFNHUTFLRkdJWkRIMldUTVQ4aUU0YTBQYktZbDZlOFlpbTlCcHg0cWxwZ2dpWWh6TS1qNHNCNFJCNGRHaVkyRVFHOWg0dm02Vm5mMWZMZTBIX2ZQSl9BbzQwblN1eFp4X0NPZ3JQWThqdmJhVXpHa0UzMklwZDB4QWVtaDFZaGdDVkxwb1AxRjZpOGJVUjhxU2NMbHJVMFVuZU5jOFp5YUx5eTE3RHRhYTRhVHpfZnMwUjE1S1dGODVXY29B?oc=5",
+      "source": "Regione Marche",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-19T08:29:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Praktikum beim Europäischen Rechnungshof in Luxemburg. Sitzung 2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Stage beim Europäesche Rechnungshaff zu Lëtzebuerg. Sëtzung 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Internship at the European Court of Auditors in Luxembourg. Session 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Stage à la Cour des comptes européenne à Luxembourg. Séance 2027",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e3d074b44797aaaa5cf41fbf27ba0078bf6fc165",
+      "title": "US-Fondsdienstleister übernimmt Luxemburger Service-KVG | Unternehmen | 19.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGViOVRpSUNLZTBuUUQ5S2tzZldlQUxiSVl6QVBUNHlPMTc0bnU4cmxiTWE1T19TaGhFbnVCamw2UXdSMDJqSzZoTm04a0pPMTNab0VMU0NGbTlYNDhrNlRlSTlBN0x6M04wYzZDMWZDbGtQRUxzSS1nMVd5YmF6eTM2bW9yc0FDREhHU1ZocW5ya2hXOVU0aUNEVzRLVnl6azRiS09UNUR6MjlMQlhnUTVlbHktaWN3a1Mw?oc=5",
+      "source": "FONDS professionell",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-19T07:55:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Un prestataire américain de services de fonds reprend Luxembourg Service-KVG | Entreprise | 19 octobre 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "US fund service provider takes over Luxembourg Service-KVG | Company | October 19, 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "US Fong Service Provider iwwerhëlt Lëtzebuerg Service-KVG | Firma | 19. Oktober 2026",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "4cbc878c22ed7e4dd71baf4f58b6c8e1eaa9c24e",
       "title": "Luxembourg cinémathèque to host tribute to screenwriter Efthimis Filippou",
@@ -15,7 +785,53 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D'Lëtzebuerger Cinemathéik gëtt Hommage un den Dréibuchauteur Efthimis Filippou",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La cinémathèque luxembourgeoise rendra hommage au scénariste Efthimis Filippou",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Luxemburger Cinémathèque richtet eine Hommage an den Drehbuchautor Efthimis Filippou aus",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f3d359a5abca01d5fc9613f6213a97151585bded",
+      "title": "إنفوغراف: من لوكسمبورغ إلى الإمارات ومصر.. من يتصدر الاستثمار الأجنبي في السعودية؟",
+      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNX0JLdXp4SGtQTzE4ZWRJTGh3MzZMZzBDd2xqUGdnZlducGpFeUhuSzUyVVFBdTlBNWJrU09EYTNCVm9nNjdES3p1cEhfN2xHUXlqNy1fMXZsZU8zWkp5VDNWOC1BanBrSVA5RkZ4dDNTckRLWDZmTHM5MVV4emhHc1o5WHZ1NjV2aFI3NUs1R3F1NEJGcWttTFV3WkJ3OXREdFZtNEtwM21XTThTMkRJeDNHMmVVQ0VWUUtSc0dlaDVOdkIyWU5CdkhJVDhVa3Y0Z2drV2FhZTBhVTRtX1N3WXNkNXhsZEczVG1VeEFRYjNxc3dGTThKQ3ZZdGRQcV83RmlvcVR6bHNZTm11YlBoS3VsdlpWMjJBYjBLQUVvV3dTZlVMLTBzZncxLUpQZTB4Y1RDdXVRWV9rYTFFY3VSUkNBOWRxelhRVkFlSUpleUllU3ZyMWpYR003TERlV3RzSFNYNGJ5SVRzSV9KcWpkeTFFbW1fUjVMaHAtTjU4Qk40SllMOHpfMVdpenVEcFhRU3RUQU92bU1vdlVrWGRuaVRRM3owb3VrazVtNnhrZw?oc=5",
+      "source": "الشرق بلومبرغ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-10-19T06:18:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Infographic: Vu Lëtzebuerg an d'Emiraten an Ägypten.. Wien féiert auslännesch Investitiounen a Saudi Arabien?",
+          "summary": ""
+        },
+        "en": {
+          "title": "Infographic: From Luxembourg to the Emirates and Egypt.. Who leads foreign investment in Saudi Arabia?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Infographie : Du Luxembourg aux Émirats et à l’Égypte. Qui dirige les investissements étrangers en Arabie Saoudite ?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Infografik: Von Luxemburg bis zu den Emiraten und Ägypten. Wer führt ausländische Investitionen in Saudi-Arabien an?",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a7eeb2f2aad5614c8410034bdb5618b8b41b9167",
@@ -31,7 +847,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Zu Lëtzebuerg Kerameos fir de Conseil des Ministers fir Aarbechts- a Sozialpolitik (EPSCO)",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Luxembourg, Kerameos for the Council of Ministers of Employment and Social Policy (EPSCO)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Au Luxembourg, Kerameos pour le Conseil des Ministres de l'Emploi et de la Politique Sociale (EPSCO)",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Luxemburg, Kerameos für den Rat der Minister für Beschäftigung und Sozialpolitik (EPSCO)",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "90681b9b4b2750e095443c770ba0073ca7ed3648",
@@ -47,7 +880,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Price drop when refueling in Luxembourg: This is what petrol and diesel cost now (October 1, 2026)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Präisausfall beim Tanken zu Lëtzebuerg: Dat kaschten elo Bensin an Diesel (1. Oktober 2026)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Baisse des prix lors du ravitaillement au Luxembourg : Voici ce que coûtent actuellement l’essence et le diesel (1er octobre 2026)",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4b2a3ab8a6197321730c09f2b1d826850dff7efa",
@@ -63,7 +909,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Attention, check: There are speed cameras in the Trier and Luxembourg region",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Opgepasst, kontrolléiert: An der Regioun Tréier a Lëtzebuerg ginn et Vitessekameraen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Attention, vérifiez : Il y a des radars dans la région de Trèves et du Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9d9581353ea2c5dadb892040817e67988e003cb9",
@@ -79,7 +938,20 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Wild boar damage: Moselle shares its drone know-how with Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Wildschweinschaden: Moselle teilt sein Drohnen-Know-how mit Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Wëllschwäinschued: Musel deelt säin Droneknowhow mat Lëtzebuerg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9c102fd8592a20497775575825d46ce1f0ec6cc6",
@@ -95,7 +967,20 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "At the Luxembourg Museum, Andy Warhol knows a thing or two",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Am Lëtzebuerger Musée weess den Andy Warhol eng Saach oder zwee",
+          "summary": ""
+        },
+        "de": {
+          "title": "Im Luxemburger Museum weiß Andy Warhol einiges",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e839c537add8946753b38b9030c9f0b27ff31049",
@@ -111,7 +996,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Junior Eurovision: Den éischte Versuch vu Polen ass hannert eis! Wéi huet de Wiktor Sas op der Bühn gespillt? Kuckt Fotoen • Eurovillage op Malta an d'Prouwen lafen. Wat war geschitt? • Lëtzebuerg wählt d'Selektiouns-Participanten aus • Firwat wëllen dës Stären net Polen duerstellen?",
+          "summary": ""
+        },
+        "en": {
+          "title": "Junior Eurovision: Poland's first attempt is behind us! How did Wiktor Sas perform on stage? See photos • Eurovillage in Malta and rehearsals are ongoing. What was happening? • Luxembourg selects the selection participants • Why do these stars not want to represent Poland?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Junior Eurovision: Polens erster Versuch liegt hinter uns! Wie trat Wiktor Sas auf der Bühne auf? Siehe Fotos • Eurovillage in Malta und die Proben laufen. Was geschah? • Luxemburg wählt die Auswahlteilnehmer aus. • Warum wollen diese Stars Polen nicht vertreten?",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Eurovision Junior : la première tentative de la Pologne est derrière nous ! Comment Wiktor Sas s’est-il produit sur scène ? Voir photos • Eurovillage à Malte et les répétitions sont en cours. Que se passait-il ? • Le Luxembourg sélectionne les participants à la sélection. • Pourquoi ces stars ne veulent-elles pas représenter la Pologne ?",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "330299feb1413acbff74a3af6bff846a74ef5494",
@@ -127,7 +1029,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Den Amancio Ortega vereinfacht seng Immobilien Holding mat enger neier Fusioun zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Amancio Ortega simplifies his real estate holding company with a new merger in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Amancio Ortega simplifie sa holding immobilière avec une nouvelle fusion au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Amancio Ortega vereinfacht seine Immobilienholding mit einer neuen Fusion in Luxemburg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "93adcb2327b5260ec6c090bd1f5934fe9d63f20f",
@@ -144,7 +1063,24 @@
         "culture",
         "tech"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Luxemburg will zum Zentrum europäischer Startups werden",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg wants to become the center of European startups",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg veut devenir le centre des startups européennes",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg wëll den Zentrum vun den europäesche Startups ginn",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ce36242aa449135731d07d6d32e6461eda7bb5ea",
@@ -160,7 +1096,24 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "E puer grouss Verméigen huelen en Deel vun hire Suen op Lëtzebuerg aus Angscht viru méi Sánchez",
+          "summary": ""
+        },
+        "en": {
+          "title": "Some big fortunes take part of their money to Luxembourg for fear of more Sánchez",
+          "summary": ""
+        },
+        "de": {
+          "title": "Einige große Vermögen bringen aus Angst vor weiteren Sánchez einen Teil ihres Geldes nach Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Certaines grandes fortunes transfèrent une partie de leur argent au Luxembourg par peur de davantage de Sánchez",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "964dde950f5afb9cc12262f7feb4883f537a1141",
@@ -176,7 +1129,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Zu Lëtzebuerg den Niki Kerameos fir de Conseil des Ministers fir Aarbecht a Sozialpolitik vun der EU",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Luxembourg, Niki Kerameos for the Council of Ministers of Employment and Social Policy of the EU",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Luxemburg Niki Kerameos für den Rat der Minister für Beschäftigung und Sozialpolitik der EU",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Au Luxembourg, Niki Kerameos pour le Conseil des ministres de l'Emploi et de la Politique sociale de l'UE",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "7acadc13b539159e659ec8f8085085a4c1892638",
@@ -192,7 +1162,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Dangerous bacteria threaten wine-growing regions in Luxembourg and Wallonia",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Des bactéries dangereuses menacent les régions viticoles du Luxembourg et de la Wallonie",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Geféierlech Bakterien bedrohen de Wäibauregiounen zu Lëtzebuerg a Wallonie",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "24c2de0cec6656b5d22bd2ce6dc842d0ea0f1a02",
@@ -208,7 +1191,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D'Yanina Wickmayer feelt géint Kerber an der Finale vun den \"Ladies Open\" zu Lëtzebuerg no zwou gutt Leeschtungen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Yanina Wickmayer fails against Kerber in the final of the “Ladies Open” in Luxembourg after two good performances",
+          "summary": ""
+        },
+        "de": {
+          "title": "Yanina Wickmayer scheitert im Finale der „Ladies Open“ in Luxemburg nach zwei guten Leistungen an Kerber",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9944f9088b68f4540dbf7da1fa5b4582393c2f76",
@@ -224,7 +1220,57 @@
       "topics": [
         "finance"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Berichterstattung aus dem neuen Finanzzentrum der Europäischen Union, Luxemburg. „Financial Valley“, das Land, in dem jeder",
+          "summary": ""
+        },
+        "en": {
+          "title": "Reporting from the new financial heart of the European Union, Luxembourg. \"Financial Valley\", the country where every",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Berichterstattung aus dem neie Finanzhäerz vun der Europäescher Unioun, Lëtzebuerg. \"Financial Valley\", d'Land wou all",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Reportage depuis le nouveau cœur financier de l'Union européenne, le Luxembourg. \"Financial Valley\", le pays où chaque",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a07b358bb57f05ca9c1cdbc5b92ebfc31835fcf0",
+      "title": "Беттембург — матчі Люксембург: Кубок Люксембургу 2026/2027",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUV6OEdXbGxFYVNvR2VkdnEwN29SclpKSkpldmQ0UWo1TGR2eFBLbWt6NXZSbHVscVNLR2ZaQ1doVGJTbF9WSE5Zc3A2aW1TRUVSMmtGQUpvbW9RNk9MOXhKZEotSkl4WTZ5VGxjRS1CUE1GXzd6R0xyWmJSY3QxTXZNdWw5UnRkNzhNcFJNRS0ySG5zNkE?oc=5",
+      "source": "Tribuna UA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-10-18T21:04:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Matcher Beetebuerg - Lëtzebuerg: Coupe de Luxembourg 2026/2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Bettembourg - Luxembourg matches: Luxembourg Cup 2026/2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Spiele Bettemburg - Luxemburg: Luxemburger Pokal 2026/2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Matchs Bettembourg - Luxembourg: Coupe du Luxembourg 2026/2027",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9610472a0913fe9b381bd2ab66b492910f38c2f3",
@@ -240,7 +1286,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "In Luxemburg Niki Kerameos für den Rat der Arbeitsminister der EU",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Luxembourg, Niki Kerameos for the Council of Labor Ministers of the EU",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Au Luxembourg, Niki Kerameos pour le Conseil des ministres du Travail de l'UE",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Zu Lëtzebuerg den Niki Kerameos fir de Conseil vun den Aarbechtsministere vun der EU",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "07651a70f8ad39e99f2c90fc242516f1e6c28355",
@@ -256,7 +1319,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Zu Lëtzebuerg e Méindeg Niki Kerameos - Fir de Conseil des Ministers vun der Aarbecht a Sozialpolitik",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Luxembourg on Monday, Niki Kerameos - For the Council of Ministers of Employment and Social Policy",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Lundi à Luxembourg, Niki Kerameos - Pour le Conseil des ministres de l'Emploi et de la Politique sociale",
+          "summary": ""
+        },
+        "de": {
+          "title": "Am Montag in Luxemburg: Niki Kerameos – Für den Rat der Minister für Beschäftigung und Sozialpolitik",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "25b01e1fe8941111d237e4f9b8897194bfcf4c2d",
@@ -272,7 +1352,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Zu Lëtzebuerg fir de Conseil des Arbeitsministers, Niki Kerameos",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Luxembourg for the Council of Ministers of Employment, Niki Kerameos",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Au Luxembourg pour le Conseil des Ministres de l'Emploi, Niki Kerameos",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Luxemburg für den Rat der Arbeitsminister, Niki Kerameos",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "bf00cd70d1c5ef627b2ec43310f5eae0aa0907fb",
@@ -288,7 +1385,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "N. Kerameos: Zu Lëtzebuerg e Méindeg fir den EU-Conseil vun den Aarbechtsministeren",
+          "summary": ""
+        },
+        "fr": {
+          "title": "N. Kerameos : Lundi à Luxembourg pour le Conseil des ministres de l'Emploi de l'UE",
+          "summary": ""
+        },
+        "en": {
+          "title": "N. Kerameos: In Luxembourg on Monday for the EU Council of Employment Ministers",
+          "summary": ""
+        },
+        "de": {
+          "title": "N. Kerameos: Am Montag in Luxemburg zum EU-Rat der Arbeitsminister",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "290d0daee34b37d0e18a32772a593e974010e299",
@@ -304,7 +1418,20 @@
       "topics": [
         "sport"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Game Events | FC UNA Strassen - RFC Union Luxembourg 1:1 | 10th matchday | BGL Ligue 2026/27",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Événements de jeu | FC UNA Strassen - RFC Union Luxembourg 1:1 | 10ème journée | BGL Ligue 2026/27",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Spill Manifestatiounen | FC UNA Strassen - RFC Union Luxembourg 1:1 | 10. Spilldag | BGL Ligue 2026/27",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "49d4f7b99985c298c30a8ed00ac114395bba5f06",
@@ -320,7 +1447,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Kerameos: Zu Lëtzebuerg fir de Ministerrot fir Aarbecht a Sozialpolitik",
+          "summary": ""
+        },
+        "en": {
+          "title": "Kerameos: In Luxembourg for the Council of Ministers of Employment and Social Policy",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Kerameos : Au Luxembourg pour le Conseil des Ministres de l'Emploi et de la Politique Sociale",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kerameos: In Luxemburg für den Rat der Minister für Beschäftigung und Sozialpolitik",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "38fd2ed0ef5e3f759cd06ebbc1295ff7a985ea38",
@@ -336,7 +1480,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Niki Kerameos ist zum Treffen der EU-Arbeitsminister in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Niki Kerameos est au Luxembourg pour la réunion des ministres du Travail de l'UE",
+          "summary": ""
+        },
+        "en": {
+          "title": "Niki Kerameos is in Luxembourg for the EU Labor Ministers' meeting",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Niki Kerameos ass fir d'EU-Aarbechtsministersëtzung zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "8ea367884fe135b9e2139c757ccb5cbdc77d5e6b",
@@ -352,7 +1513,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Disappointed with National Education, she becomes a nanny in Luxembourg: “I’m told it’s too good to be true”",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Enttäuscht vun der Educatioun Nationale gëtt si Nanny zu Lëtzebuerg: \"Ech gëtt gesot et ass ze gutt fir wouer ze sinn\"",
+          "summary": ""
+        },
+        "de": {
+          "title": "Enttäuscht von der nationalen Bildung wird sie in Luxemburg Kindermädchen: „Mir wurde gesagt, das sei zu schön, um wahr zu sein“",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "f44feb2f183f9b06747e9ba072e1e782eb0217c3",
@@ -368,7 +1542,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "In Luxemburg Niki Kerameos für den EPSCO-Ministerrat",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Luxembourg, Niki Kerameos for the EPSCO Council of Ministers",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Zu Lëtzebuerg den Niki Kerameos fir den EPSCO Ministerrot",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Au Luxembourg, Niki Kerameos pour le Conseil des Ministres EPSCO",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a37abb1878fb6814f326f66643000327582d393a",
@@ -384,7 +1575,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Kerameos: Gitt e Méindeg op Lëtzebuerg fir de Conseil des Ministers fir Aarbecht a Sozialpolitik",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Kerameos : se rend lundi au Luxembourg pour le Conseil des ministres de l'Emploi et de la Politique sociale",
+          "summary": ""
+        },
+        "en": {
+          "title": "Kerameos: Goes to Luxembourg on Monday for the Council of Ministers of Employment and Social Policy",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kerameos: Geht am Montag nach Luxemburg zum Rat der Minister für Beschäftigung und Sozialpolitik",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "db7fa4661aed2ff36407f53ba1c75646cb3133ad",
@@ -400,7 +1608,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Revue vidéo du match Malte Luxembourg 26 mars 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Video Bewäertung vum Match Malta Lëtzebuerg 26. Mäerz 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Video review of the match Malta Luxembourg March 26, 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Videorückblick zum Spiel Malta Luxemburg 26. März 2026",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c1426e2d374cf3a8cded35d845524a49cf1f5960",
@@ -416,7 +1641,20 @@
       "topics": [
         "sport"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Luxembourg Ladies Tennis Masters: Premiere: Kerber defends title in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Ladies Tennis Masters: Premiere: Kerber verdeedegt den Titel zu Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg Ladies Tennis Masters : Première : Kerber défend son titre au Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "531ec1954244f300c611763acadc30561a3e24a5",
@@ -432,7 +1670,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Bericht vum Match UNA Stroossen - Racing FC Lëtzebuerg: Statistiken, Bericht",
+          "summary": ""
+        },
+        "en": {
+          "title": "Report from the match UNA Strassen - Racing FC Luxembourg: statistics, report",
+          "summary": ""
+        },
+        "de": {
+          "title": "Bericht vom Spiel UNA Strassen - Racing FC Luxembourg: Statistik, Bericht",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Rapport du match UNA Strassen - Racing FC Luxembourg: statistiques, rapport",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4c1ae7a89e80f295a88777217bd67d3bb7d3d90e",
@@ -448,7 +1703,20 @@
       "topics": [
         "finance"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Luxemburg: Einbruchsversuch in Zolwer – Tatverdächtiger nach Drogenfund in U-Haft",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg: Burglary attempt in Zolwer - Suspect in U-Haft after drug discovery",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : Tentative de cambriolage à Zolwer - Suspect à U-Haft après la découverte de drogue",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9d57fb5f87a8984f9250e12ea6fbbfaf0cc1df26",
@@ -551,7 +1819,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "In Meaux, the monsters hidden in the old books of the Luxembourg media library",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Meaux verstecken sich die Monster in den alten Büchern der Luxemburger Mediathek",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Zu Meaux sinn d'Monsteren an den ale Bicher vun der Lëtzebuerger Mediebibliothéik verstoppt",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "54bd3b13f44706bc9e96f665efda88fb60a39f6f",
@@ -683,7 +1964,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerger Fashion Week: Dräizéng Stylisten beliichten den Hotel Le Royal",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Fashion Week: Thirteen stylists light up the Le Royal hotel",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxembourg Fashion Week: Dreizehn Stylisten erhellen das Hotel Le Royal",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9d67f64655a78fc64ac38162ecebcb8adf61f209",
@@ -761,7 +2055,24 @@
       "topics": [
         "sport"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Luxemburg-Statistik in der UEFA Nations League C 2026/2027: erzielte Tore",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg statistics in UEFA Nations League C 2026/2027: goals scored",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger Statistik an der UEFA Nations League C 2026/2027: Goaler",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Statistiques du Luxembourg en UEFA Nations League C 2026/2027 : buts marqués",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9290947bbf0a7766a7f275c4699143ae70eaa8c9",
@@ -777,7 +2088,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Austausch kubanischer Botschafter mit der NGO Solidarité Luxembourg-Cuba.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Cuban ambassador exchanges with the NGO Solidarité Luxembourg-Cuba.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De kubaneschen Ambassadeur Austausch mat der ONG Solidarité Luxembourg-Cuba.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'ambassadeur cubain échange avec l'ONG Solidarité Luxembourg-Cuba.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c66f5f1f7e16a11712db5f881b9361208e08cd41",
@@ -793,7 +2121,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Der Präsident des luxemburgischen Parlaments empfängt den in diesem Land akkreditierten kubanischen Botschafter.",
+          "summary": ""
+        },
+        "en": {
+          "title": "President of the Parliament of Luxembourg receives the Cuban ambassador accredited to that country.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De President vum Parlament vu Lëtzebuerg iwwerhëlt de kubaneschen Ambassadeur, deen an deem Land akkreditéiert ass.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le président du Parlement luxembourgeois reçoit l'ambassadeur cubain accrédité dans ce pays.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "deecdcfe575ba204230382dfdd233165302701d5",
@@ -809,7 +2154,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "UNA Strassen - Racing Luxembourg: 0:0, Luxemburg. Nationale Division 2026/2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "UNA Strassen - Racing Luxembourg: 0:0, Luxembourg. National Division 2026/2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "UNA Stroossen - Racing Lëtzebuerg: 0:0, Lëtzebuerg. National Divisioun 2026/2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "UNA Strassen - Racing Luxembourg: 0:0, Luxembourg. Division Nationale 2026/2027",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "1c72e7c88a65e43651702a3696f22862e314fd90",
@@ -1482,7 +2844,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Luxembourg: Ana Correia da Veiga becomes the first black woman in the Chamber of Deputies",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg: Ana Correia da Veiga wird die erste schwarze Frau in der Abgeordnetenkammer",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg: D'Ana Correia da Veiga gëtt déi éischt schwaarz Fra an der Chamber",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "edb7ec6d9ff52ee79687823b63491c830b57f3dc",
@@ -1688,7 +3063,57 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Verteidigungsabkommen mit Luxemburg, Bosnien-Herzegowina und Slowenien müssen vom Parlament ratifiziert werden",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Verdeedegungsaccorde mat Lëtzebuerg, Bosnien-Herzegowina a Slowenien solle vum Parlament ratifizéiert ginn",
+          "summary": ""
+        },
+        "en": {
+          "title": "Defense agreements with Luxembourg, Bosnia-Herzegovina and Slovenia to be ratified by Parliament",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les accords de défense avec le Luxembourg, la Bosnie-Herzégovine et la Slovénie doivent être ratifiés par le Parlement",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2a11704e934c4f4670708b67e1cbcb7fe1c4e7d8",
+      "title": "De Gaykrant gaat op reis en neemt mee: Travel Proud! Deel 1: Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQem5qNXZKRmVEMUpoZWZKUGNjSnp6ajZoUktHLUFoU1g4VmU5SVNGOXlpR0RyVE9TMFlMRndMcVAyUXZ2NDJ4M1JmQjE3dzVsdFpQN3N4ZmY4MDFtWUtJZW5hLVdMVFFqRHNYVjdLMEMwWFNDaXlmeExfS0ktbE5KeGxpeFhTZHRBNVFzTVo0RzduNWtKbnR3MlJaR2dDZw?oc=5",
+      "source": "Gaykrant",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-10-17T09:18:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "de": {
+          "title": "Der Gaykrant geht auf Reisen und bringt mit: Travel Proud! Teil 1: Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Gaykrant goes on a trip and brings with it: Travel Proud! Part 1: Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Gaykrant geet op Rees a bréngt mat sech: Travel Proud! 1. Deel: Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Gaykrant part en voyage et apporte avec lui : Travel Proud ! Partie 1 : Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b15b8f54b92befe1dc3e9a91455d6442ce732f76",
@@ -2249,7 +3674,24 @@
       "topics": [
         "sport"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Luxemburger Tennisturnier 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Tennis Tournament 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Tennis Tournoi 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tournoi de tennis du Luxembourg 2026",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d7c8cc59e0ed8f04805e1fcbcc05111b1e4f35bc",
@@ -3770,7 +5212,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Übersicht über UBS (Luxembourg) U.S. Growth Equity Fund (USD) I-A1-Accumulation | Juheng.com – Fondsveteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of UBS (Luxembourg) U.S. Growth Equity Fund (USD) I-A1-Accumulation | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun UBS (Lëtzebuerg) U.S. Growth Equity Fund (USD) I-A1-Akkumulation | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du UBS (Luxembourg) U.S. Growth Equity Fund (USD) I-A1-Accumulation | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "2aea5097d18cb15922696233e1c4dd3596ad3312",
@@ -3786,7 +5245,57 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Überblick über die Fonds der Proximity (Luxembourg) Series – Proximity US Large Cap Growth Equity Fund Klasse A (USD) | Juheng.com",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun Proximitéit (Lëtzebuerg) Serie Funds - Proximitéit US Large Cap Growth Equity Fund Class A (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Proximity (Luxembourg) Series Funds - Proximity US Large Cap Growth Equity Fund Class A (USD) | Juheng.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu des fonds de la série Proximity (Luxembourg) - Proximity US Large Cap Growth Equity Fund Catégorie A (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5545632be69eb45c10da93529412e93c476e6a1c",
+      "title": "資本集團新視野基金(盧森堡)B(美元) 的總覽 | 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNGpIbV9vSjFxT0ZnSmhhWTR4RERjT1J0S0F3VmYxcWpjMkhIUGxZNWhTOXlZSjRxVm9PbVN2NS1kbW9iMzA0YmM0clNKaFhoWHRDMDM4VFQ1OGcxUG1EYno5NTNxTkNGRy11SjZWRzhKVWhOZzFVTjE4aFZDSmk2bzZwRF9xTC14ejBGSGxRN004dXRLZVkwSlJhUUdEYTg1d21FVXVLcUV6XzhNcmdPY1c5OVduVkV3UHQ0Mmx6c3VoblVlWHhQTnRxZ1ZPZkZ5bXBEZXNKTlFFUHItRzdHWXYwaktDTmlxTU1FSWRoc3pvVWsyR3c0Z0hZWGNPdw?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group New Horizons Fund (Lëtzebuerg) B (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group New Horizons Fund (Luxembourg) B (USD) | Juheng.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du Fonds Capital Group New Horizons (Luxembourg) B (USD) | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den Capital Group New Horizons Fund (Luxembourg) B (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ec8d506ee4edde2a0b7425a3fd9d1e5c1bbd71d1",
@@ -5548,7 +7057,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun UBS (Luxembourg) Greater China Equity Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den UBS (Luxembourg) Greater China Equity Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of UBS (Luxembourg) Greater China Equity Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du Compartiment UBS (Luxembourg) Greater China Equity Fund (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "82adaf4ead968095ca8a5396f4612b84b48b3403",
@@ -7602,7 +9128,24 @@
       "topics": [
         "finance"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Mutuativos schließt die Fusion von Mutuafondo FI in Luxemburg mit der Überweisung von 2.500 Millionen ab",
+          "summary": ""
+        },
+        "en": {
+          "title": "Mutuativos completes the merger of Mutuafondo FI in Luxembourg with the transfer of 2,500 million",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Mutuativos finalise la fusion de Mutuafondo FI au Luxembourg avec le transfert de 2.500 millions",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Mutuativos fäerdeg d'Fusioun vum Mutuafondo FI zu Lëtzebuerg mat der Iwwerweisung vun 2.500 Mio.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "2d4732576cb83a5c3ee2e114907d56af8bbc1e43",
@@ -22529,6 +24072,39 @@
       }
     },
     {
+      "id": "e6cd61f0d2e4802a4cf51ec7c052bb63a0c8e221",
+      "title": "룩셈부르크 커피 생두 (카페인) 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UNmVYNFFIeXJCUFVocjNva01VZ2w4THVVbmpHNTZZNHVRWGd0WHFFVEhwQzFELWpWZlhROEtYWDJST0UwNjB5VUd0SXNXRjhmYXZHbFVBSjRvd0NZTlMyZWNvV0YtbDVzYVAzVmVpaEEtcFNtN01LUkFR?oc=5",
+      "source": "Tridge",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-11T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerger Kaffisbounen (Kaffein) Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Coffee Beans (Caffeine) Prices and Trade Data | Market Overview 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​et données commerciales des grains de café luxembourgeois (caféine) | Aperçu du marché 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Preise und Handelsdaten für Luxemburger Kaffeebohnen (Koffein) | Marktübersicht 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "fe124223953c639c5da0273f9530af110a34a475",
       "title": "Luxembourg 🇱🇺 work v1sa, zer0 dep0sit. Warehouse job ",
       "url": "https://www.tiktok.com/@ejikekingsmomentoftruth/video/7695300362885958944",
@@ -26586,7 +28162,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Eric Till, Minister für Kultur und Tourismus von Luxemburg, stattet dem stellvertretenden Minister Aoyama einen Höflichkeitsbesuch ab",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Eric Till, ministre de la Culture et du Tourisme du Luxembourg, rend une visite de courtoisie au vice-ministre Aoyama",
+          "summary": ""
+        },
+        "en": {
+          "title": "Eric Till, Minister of Culture and Tourism of Luxembourg, pays a courtesy visit to Deputy Minister Aoyama",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Eric Till, Minister fir Kultur an Tourismus vu Lëtzebuerg, op Besuch beim Vizeminister Aoyama",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "420c75669b25fc9b74a3603caa71376ff089f54c",
@@ -29747,7 +31340,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun Prolux (Lëtzebuerg) Serie Funds - Prolux Global Akommes Non-Investment Grade Bond Fund Idm Level (USD) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Présentation des fonds de la série Prolux (Luxembourg) - Prolux Global Income Non-Investment Grade Bond Fund Idm Level (USD) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über die Fonds der Prolux (Luxembourg)-Serie – Prolux Global Income Non-Investment Grade Bond Fund Idm Level (USD) | Juheng.com – Fondsveteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Prolux (Luxembourg) Series Funds - Prolux Global Income Non-Investment Grade Bond Fund Idm Level (USD) | Juheng.com - Fund veteran",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b44b4621470a6e0d2c9a91ffbc105bc7af167c2a",
@@ -45477,900 +47087,6 @@
         },
         "fr": {
           "title": "%~~*[[[𝐅𝐎𝐗-𝐓𝐕>]* Luxembourg - Estonie LIVE GRATUITEMENT AUJOURD'HUI 03 octobre 2036",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ac8869ab4250891817872c51f41999b6d5693fe7",
-      "title": "【Nations-League-2026 SHOWDOWN】 Luxembourg v Estonia Live StreamUEFA Nations League Match 03 October. 2036",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQMkZKamR6TlRtUXNRTTc5N2hXLU04Zjk3LWJwS3VqTmlRX3hmNnNnTFJIZDZHbU9BdXVodHVhajR6blB4T0xaR2ozYWdZWTFyZUtfYy1fTWRPWHZzSTQ4VDNOVGlzR1dTQVc3bmczMlFRMHNNZkt3c2pmODdNd0dVbWpWQXpkX2hnZHZ6eW9YcVJodUtJQk1zeU5oandtN3M1QTBRM29rd1c0aHdXRWl3Q2V4ZTNDTERpb3FMZWR2QTZkaHpWUlR5cFZoRm9vcG9RdjF0cVp1M2Rxdkh1Q1BtUlV6YzZ1MWRuWWRiZ05QRzRTaGNrb0JsZ3FrcGZMOVVaMmRwQVhULXhXVjFPS1FJc3Nacw?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:05:39.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "【Nations-League-2026 SHOWDOWN】 Lëtzebuerg v Estland Live StreamUEFA Nations League Match 03. Oktober. 2036",
-          "summary": ""
-        },
-        "fr": {
-          "title": "【Nations-League-2026 SHOWDOWN】 Luxembourg contre Estonie Diffusion en direct du match de l'UEFA Nations League, le 3 octobre. 2036",
-          "summary": ""
-        },
-        "de": {
-          "title": "【Nations-League-2026 SHOWDOWN】 Luxemburg gegen Estland Live-StreamUEFA Nations League-Spiel 03. Oktober. 2036",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "494eebdf8ee6ea8404b258b545cb83aa6d57734b",
-      "title": "🟢 | 𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐒 𝐇𝐄𝐑𝐄 |🟢 ESTONIA V LUXEMBOURG Match Live streams",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQd0ZkOGw1MExPQUEyNVNBczZsUl9Ib2VPT0FKWEJtTzMydGhfNU1VbEFvU25rbXBkLTFHT0x5Mi1VMlBXZVExQ1N4d1VGbFdpN2hnLTBCT3VLREl3Sy1UOFkyZHQwWnJBWHpkLTJzMDgtZTEtZkRoRW5nRWgxa3VhZFRqa0VfN21TQjd4VUZPM1NHS2VGLXNTSFoyNElXX0EyTUUwczc5ekFwcVh2cnIyNk9wamRnMFRTMG5XOVVWcUd4NVlYMDgwcnpyRjdhdHVnaHBZT0taR2pHaEtNYnM3WVRFemk1NFpjbnp0Z29JQ0FfUGk3VU4wcTZvR1RTRjNRM2hzeEE1UHg3TTlmZ3lCRVJR?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:05:38.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "| 𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐒 𝐇𝐄𝐑𝐄 |🟢 ESTLAND V LUXEMBOURG Match Livestreams",
-          "summary": ""
-        },
-        "fr": {
-          "title": "🟢 | 𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐒 𝐇𝐄𝐑𝐄 |🟢 ESTONIE V LUXEMBOURG Diffusion en direct du match",
-          "summary": ""
-        },
-        "de": {
-          "title": "🟢 | 𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐒 𝐇𝐄𝐑𝐄 |🟢 ESTLAND V LUXEMBURG Match Live-Streams",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "81c045409ad0861d3a32807ea930575bbc59c1a8",
-      "title": "~!!【OffiCial】 Nations-League TV Channel: LUXEMBOURG VS ESTONIA 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 03 October 2036",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRVlVd2plVGhjODdEVTJhaGE3ZEdfSk5QcHBibEs1YUhKRXE3Y05qc2VUd2JOblB2SHhKSXNnUTdDRzgzdThfNnZBLUFOQWMyR01kTXp1OTc5SHhOTGF3MmNURXY4a1ZOTE14Q05FVGRwVjBhZHZQTDM0bWRQQVVyOHFobW9uQTZmSG5PamQ5OWM5QlRtUG5XZEZpajZQN2JRMEpSYW4wdWp6N2Fka010cU40VmREeERuQUdQRDBUVEZNaEw5b1JBM2IyN0V6RzhHdzFkSTBSYkU3UGRiUTBLTkpnVmFHUGNENTRZNUlXNmNwSUhpRU9pLXVWZEx2ZmhacFFUSENkMEZNZzlsa1cyLUlGX0JjZw?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:05:36.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "~!!【Offiziell】 Nations-League TV Channel: LUXEMBOURG VS ESTONIA 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｅｌ 3. Oktober",
-          "summary": ""
-        },
-        "fr": {
-          "title": "~!!【OffiCiel】 Chaîne TV de la Ligue des Nations : LUXEMBOURG VS ESTONIE 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 03 octobre 2036",
-          "summary": ""
-        },
-        "de": {
-          "title": "~!!【Offizieller】 Nations-League-Fernsehsender: LUXEMBURG VS ESTLAND 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 03. Oktober 2036",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a7c71c9748cfd36ca47ef49af514eb0543621b46",
-      "title": "( 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐋𝐈𝐕𝐄 ) Luxembourg - Estonia 𝐋𝐈𝐕𝐄 Ｆｒｅｅ",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbFZtNHdaS3VyLVR3VVRubWp3R1FvbjJZVjRqanFpck5iRndLNWg5UmFHRnFjTGpCUmVCVV9vMUxnZDMya0Z2cEhWaHNYRnIybE1SaG43bWR5Vll5VDJuVzBBT1BpZnU1UDlwbFBncF94VUJZUW1DeGxzZVAwd3h2aHY0TmxLZUZ3ekFqWUxqWWtRc3c2NDRTTURVQmQ0aGFRdDNzVTVMZDBEUWFPNmRubkcwcVZBTWV0YlhpeUpjRC1odTN1S3NQVlNnNEtsTFZuUlNxMzlkc000dmZMM0g0SVV0MHQ4U1hWLVpyQ1RKSXJxVWUyVzNDOHR3aXM2U3RUVXlGRTRrY1NGeU9vaXMzRFh0ZG5WVWtrZ3Zj?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:05:36.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "( 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐋𝐈𝐕𝐄 ) Luxembourg - Estland 𝐋𝐈𝐕𝐄 Ｆｒｅｅ",
-          "summary": ""
-        },
-        "fr": {
-          "title": "( 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐋𝐈𝐕𝐄 ) Luxembourg - Estonie 𝐋𝐈𝐕𝐄 Ｆｒｅｅ",
-          "summary": ""
-        },
-        "de": {
-          "title": "( 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐋𝐈𝐕𝐄 ) Luxemburg - Estland 𝐋𝐈𝐕𝐄 Ｆｒｅｅ",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f99990bf08bcbbea75a69698e3ed1b6c869f4d61",
-      "title": "💥WATCH-LIVE💥* Estonia v Luxembourg 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 ＴＶ ＣＨＡＮＮＥＬ 03 October 2036",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNGxWakRkU05IS0VvVUtZbnN3SWtKdWplcko3c2VlOUJDcmpsVFBjQ1otR2lPZ0JqSVgxd1lCZXljWklkQlltSUNXZXVDdkZwb3Z5TEVCSVVCbnU4di1YVmpaTG0yclVQbmstNzFvc3c4M2phTWhobjlUZVh3SDVYN3F6NmtVS01zX1pMXzNxdWE4QjFiaWJRZ2s4TmctWkdZODFPLVg2YkJKS2M3ZG10ZjU5VUhuNHVYbzVxUTREWnd2NWxnWlVXZkpqVnpJXzRRamxZV1djeE0zR1pMSG13cHFsYWM2MWE4elk1aHFDWXQ1NkZLUGd5U3k0Uk1xYlQydW82UDNYTklYQV9xOEdDNA?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:05:35.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "💥WATCH-LIVE💥* Estonia v Luxembourg 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 ＴＶ ＣＨＡＮＮＥＬ 36. Oktober",
-          "summary": ""
-        },
-        "fr": {
-          "title": "💥REGARDER EN DIRECT💥* Estonie contre Luxembourg 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 ＴＶ ＣＨＡＮＮＥＬ 03 octobre 2036",
-          "summary": ""
-        },
-        "de": {
-          "title": "💥WATCH-LIVE💥* Estland gegen Luxemburg 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 ＴＶ ＣＨＡＮＮＥＬ 03. Oktober 2036",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fef8055588b4c0f4afb07a4ba2c6ce53412c07b4",
-      "title": "Estonia Lussemburgo, formazioni ufficiali e risultato in diretta live",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTYzSVRVak9tQm5CWlR4QnJrc1hqaFA4VG8wMGttMVpKR1FnVFV2UktIQ1pXNEU0YkRqbVZsNE1OUUZoQlZkaVRBYkdqS3pmOU1xU0l5M2w4STB5SjNSeElzWG5aTFVZaTd6d2daUnRfeUZiWFBkN09hMnN2VHpDQlV1N3o1YlVFVnpIZ3J0bWVuWndoSExrTDlyS0c1U2w0UVE?oc=5",
-      "source": "Sky Sport",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-03T16:03:55.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Estland Lëtzebuerg, offiziell Opstellung a Live Resultater",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia Luxembourg, official lineups and live results",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie Luxembourg, compositions officielles et résultats en direct",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland Luxemburg, offizielle Aufstellungen und Live-Ergebnisse",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bf70269896eee2ab01b3fb41615aa6f813de79ca",
-      "title": "[!LIVESTREAMs!]Tv] Luxembourg vs Estonia Live Online Free Stream",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZUpvbjhic1B0MDJHcldFdjlTS1hMcFBjeHd3b2xCaXItVzk4MlJEX2tIZ3B3eVMyendSLXBKa2ctbld2aC1oT3hOdzdfWmRHQjNzaHhMajZYSDFXZkVwNkhaR1plNHdBRUsyaWVXZmthc05pOExTcG9icEdRdGpQZEhSeEJPQVdVX1p1QTJBNkhNSHc5VThna0s1N05vNkgybkFQZGJiWHF6TEVSYjRVby1mNHZWaUFJbG4wMXU4bzA5bm9mZDQ1ZXNrRjFKZWFnc1lhbV9wRlNPVlBJT3dyWEtPYkNZX0NwdXFjbkFUdV9ObHJ4YzFJZTZEckpxUlJGbWdEc0tkTWVoOVFjb2IzejgxWUdPMkVIMGYwZw?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:02:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "[!LIVESTREAMs!]Tv] Luxemburg vs. Estland Live-Online-Kostenloser Stream",
-          "summary": ""
-        },
-        "lb": {
-          "title": "[!LIVESTREAMs!]Tv] Lëtzebuerg vs Estland Live Online Gratis Stream",
-          "summary": ""
-        },
-        "fr": {
-          "title": "[!LIVESTREAMs!]Tv] Luxembourg vs Estonie Diffusion gratuite en direct et en ligne",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b896bc5ec65b999262096b5d888e5cdaeab1b6c6",
-      "title": "+$+LIVESTREAMS】FREE]Estonia vs Luxembourg Live Free 3 October 2026",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZU5oSjlmMUZvSVQtQjZrazNTbnk2ZlBWVFRXcG1RN2pOWmM4d0Z6SERKWmdhYWJXaHBtUUkzTS1IS21xM0dyV2ViOEpIVDVxbExGdFpSVXNiMFRDVFRBdFc2ckNOS0dRMHQ5UTcwSE5TZkpHcUsxc3VCZm5tQ1A2ZGk4dEFPSkdyblVIQkc1WFoycnl1SEliZUZNR3hPUnFtbTg3bFcwUUxGbk9XMDBlYkhuUTRXclpTcG1mbGlVTWlBbGFjZ1JfRlFoTUhXVmpUNmxpMlE2bFk3NER2ZFBnV2dVQ2hqanViRnFoNmRJLXlTWVF5aFBFLUdNb1I3RDVSZFFtRk1wSQ?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:01:50.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "+$+LIVESTREAMS】FREE]Estland vs Lëtzebuerg Live Gratis 3. Oktober 2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "+$+LIVESTREAMS】GRATUIT]Estonie vs Luxembourg en direct gratuit 3 octobre 2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "+$+LIVESTREAMS】FREE]Estland vs. Luxemburg Live Free 3. Oktober 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2ca6748974c27ccd23bfc39f9c20c820c6c1ba52",
-      "title": "Football. L’équipe de France espoirs qualifiée pour l’Euro 2027 après sa victoire face au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxObENIU2NjRWpWd2lDZmtENEFIQjBiQ3ExZGJraWJRUzNxSE80U3pGLWJHeWpBWmV5Uk0zZjhUMjNpbldxd2ZOc3lxTEFfd0VfMnJFakp6bjZYdVlSZTExcFhSRFl3MkJTUndFM2Z2dklEUUE5TVNfb3ZmVTIySElsU2FaOW9LZjl5THNHLWJkNDdTdjh0UFYtQkoxNF9YSlNiUnZOZm1uTDFIc2FRVTBDQ3hLczlXdGU5bEZMREZ0dlZ6SXNTVkhwWE1pU204WVh2OHpqRzJsTVZNRFUyWkQtNkJCb013cmNEVnpkc0xqM0lLUnpwMUhYUHlGWnVtdDl3aEFWcnZYMkJKTW81OTQ0MVhrWmdWbDhqODRNUQ?oc=5",
-      "source": "Ouest-France",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-03T16:01:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "en": {
-          "title": "Soccer. The French youth team qualified for Euro 2027 after its victory against Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Fußball. Die französische Jugendmannschaft qualifizierte sich nach ihrem Sieg gegen Luxemburg für die Euro 2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Fussball. Déi franséisch Jugendequipe huet sech no hirer Victoire géint Lëtzebuerg fir d'Euro 2027 qualifizéiert",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "58e5874c41825d92cd3e70878ae7845d79648856",
-      "title": "$+®️+【ＬＩＶＥ ＣＨＡＮＮＥＬ】 Estonia vs Luxembourg 𝙻𝙸𝚅𝙴 𝐒𝐓𝐑𝐄𝐀𝐌",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMHZoRGtEYkhyN0Fhdm91RDBRdl90UTF1Wm9TUlBWWXdpZS0tanNjanl6OVptMHRqaG5SRkRGMDBYRE1sdWdrQzlOSXNMTUwwQm5UdTk4R0JMWnJlUmVrVXEwZC1xaUFTU0NQeThJVnZvUThodFNISHJuY2YzaF9DSlhOZ0d1STZQdEo1Zk5wc01BTGhPWFJ5MEowcTFfZXgyd2ZPRnpNcUwtYUFWY1Z6emF1VG5IZTA4bm9oaHduc1h4ckt0dlBURVNSTnVYRUJlOWZuSm9IdFZiemlOTEFfVkhXU3p0VEJfUHRXdU1TOXI2bWVZenNFWjRyNGp6cWhJcDZMeUJmVUJSdHpjNm9QblNGeEItM0E?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:00:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "$+®️+【ＬＩＶＥ ＣＨＡＮＮＥＬ】 Estland gegen Luxemburg 𝙻𝙸𝚅𝙴 𝐒𝐓𝐑𝐄𝐀𝐌",
-          "summary": ""
-        },
-        "fr": {
-          "title": "$+®️+【ＬＩＶＥ ＣＨＡＮＮＥＬ】 Estonie vs Luxembourg 𝙻𝙸𝚅𝙴 𝐒𝐓𝐑𝐄𝐀𝐌",
-          "summary": ""
-        },
-        "lb": {
-          "title": "$+®️+【ＬＩＶＥ ＣＨＡＮＮＥＬ】 Estland vs Luxembourg 𝙻𝙸𝚅𝙴 𝐒𝐓𝐑𝐄𝐀𝐌",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "40a7d157bf00941324f97dd738bb1164f107e9e0",
-      "title": "[[WATCH ONLINE>>]] Luxembourg - Estonia today ＬＩＶＥ Ｓｔｒｅａｍｉｎｇ",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOdDlINi0tOXVPWXhid3M3UkxpMjhNbHlHLTNHdWZDU1R2WVZ5cmd0ME9tOEFUM0lCWnVCQW5PQlRCbjN4YVQ3N2o3RjJ2eUN3UzY5TnFPYy15V1NCWW1qN1hpSGxQVUM4azJaanBpVlV6UXdwdXV0X2kybU9US0tFYVo4azNCcGZiV25PWDFIS2lGSmJ6S1h3MUJCNEN4cVVPeU5SY0Fzbm1FWVoteXpFU1k2OUhlZGNjOS1EbXlEWjBLZXdxLUJrR2dLVUxPWG1Lc2lXM0hZOGJScDFvLU9JN0luVDVUT3M3eWt3a0kweUdJSGl2VlNSRUNTN1lLbU4tWERMUC04TnNBeWFwTmhqQXJ1ZGtoeUhRS2ZJRg?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:00:46.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "[[WATCH ONLINE>>]] Lëtzebuerg - Estland haut ＬＩＶＥ Ｓｔｒｅａｍｉｎｇ",
-          "summary": ""
-        },
-        "de": {
-          "title": "[[ONLINE ANSEHEN>>]] Luxemburg – Estland heute ＬＩＶＥ Ｓｔｒｅａｍｉｎｇ",
-          "summary": ""
-        },
-        "fr": {
-          "title": "[[REGARDER EN LIGNE>>]] Luxembourg - Estonie aujourd'hui ＬＩＶＥ Ｓｔｒｅａｍｉｎｇ",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c3102d3e4f5dcd7e3df9952fc2dce160bb59a37d",
-      "title": "[!LIVESTREAMs!]Tv] Luxembourg vs Estonia 𝕃𝕚𝕧𝕖 Ｆｒｅｅ Ｓｔｒｅａｍ Stream",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQcUk1N2dtV20wNDVzOUJCdGlPT3BRS0VYVEtxNmxPd1I5ajA1azM2OEowSkZEeG5ZdTROcnZsRUVvVU44MXplZjREQzNoQlJBSWpoSVVZSW93S1hfVmpJZEF1Y1dPN1RjdlUtVE55XzZWU08telh5cTN1OWkxZ29Xb05uY3VPUzFmbnBlTFlXOUFQa2xXTC00aUF5Z3FXdEltX2w2S2JRVktVTjIxVFlJYjk5bzVadWxZUUZMMjdsY1dMQjdVcUwxMVZlWldXNmxXM1NtM0loQzNxNlVpV0tKVGU2b0t5RWM2S1pwdnlRZXQzOUlUUDhDSHlMa0xhTjdvMzZuckpNUFI1NkdJa2g5QWRaVlcwT20yQnl0U1JuMA?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:00:36.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "[!LIVESTREAMs!]Tv] Luxembourg vs Estland 𝕃𝕚𝕧𝕖 Ｆｒｅｅ Ｓｔｒｅａｍ Stream",
-          "summary": ""
-        },
-        "de": {
-          "title": "[!LIVESTREAMs!]Tv] Luxemburg gegen Estland 𝕃𝕚𝕧𝕖 Ｆｒｅｅ Ｓｔｒｅａｍ Stream",
-          "summary": ""
-        },
-        "fr": {
-          "title": "[!LIVESTREAMs!]Tv] Luxembourg vs Estonie 𝕃𝕚𝕧𝕖 Ｆｒｅｅ Ｓｔｒｅａｍ Stream",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ff9f82ef21fd9deeb335b658773c223ca5d99c0f",
-      "title": "[WATℂℍLIVE]DAℤℕ!] Estonia Luxembourg LIVEUEFA Nations League MATCH 𝐋𝐈𝐕𝐄 STREAMS FREE ＯＮ ＴＶ ＦＲＥＥ 03 October 2036",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPV0pSc2JEODgzaUZ2TDM1a29RNld6Mm1ZdW16VTZWOWJGalFGZ1lncE1xelVTVlFLTURhXzFBQmM4Sk1Kc2pzU21SckdXM1o1U3R4cVdsdHZ2UVllQ0dVc3pNSnNRc0tsa2hXZmVFM3piU0dMWENOWkUxU3BZZkZhQWFxaFp0RVI1RnBoTjU0VDBDSkxWWk5UV3VKV1AxTC11NnI1UUl0b0xCc0luV2xvME5yRkRDSEE1b0hua3IwWjhPbXphTnpDSU1wUy1hOTVVdmZTWEpQbVI2LUNlWi13V2hwTVFzbHBZQzJQZ0JjcHp4Yi1TeTVJOGRrT1RvbFdlTlYzcW1WSkh1S3Z6bXc?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:00:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "[WATℂℍLIVE]DAℤℕ!] Estland Luxembourg LIVEUEFA Nations League MATCH 𝐋𝐈𝐕𝐄 STREAMS GRATIS ＯＮ ＴＶ ＦＲＥＥ 03. Oktober 2036",
-          "summary": ""
-        },
-        "de": {
-          "title": "[WATℂℍLIVE]DAℤℕ!] Estland Luxemburg LIVEUEFA Nations League MATCH 𝐋𝐈𝐕𝐄 STREAMS KOSTENLOS ＯＮ ＴＶ ＦＲＥＥ 03. Oktober 2036",
-          "summary": ""
-        },
-        "fr": {
-          "title": "[WATℂℍLIVE]DAℤℕ!] Estonie Luxembourg LIVEUEFA Nations League MATCH 𝐋𝐈𝐕𝐄 STREAMS GRATUITS ＯＮ ＴＶ ＦＲＥＥ 03 octobre 2036",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8a3821ef906d10c89b392d154858b9d4c2353b6b",
-      "title": "#+(LIVESTREAMs!!)FREE!] Estonia Luxembourg Live ONLINE Free UEFA Nations League Match 03 October 2036 Right Now",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPc2prdVZMWGJTRTcwVkJ0M0RhTXBuZ1AtZ3FnUjZJcjFqNVY2cGRZZEFfbEpkeHZnM0lQM2NHWWhTaFMta3RhV0Z4MUlFQjNkbjltZEF3YmZlRTdRVE94d2pueWZsX05UMTU3MmN2RjdsUlg0QTF6bW9RemJpTms0TG1VcjZsQWx3bENCUllJYkFMbW1YNjFZVjQ3V052elNoVjM3MG1HSllYbTEya2ZKOVRGRm55V04xSmFGOUs3OFhDSXdHRjh3MkhDZzU3Z2ZrY1ZUWlA0U2hjVHVaWHdDSXhqaGdzWHc4MTRTbFpPSzQ1MXA2Z3NSMG4ya29zOWwybHktUS1pV2p3a1d5a3lGeA?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:00:17.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "de": {
-          "title": "#+(LIVESTREAMs!!)KOSTENLOS!] Estland Luxemburg Live ONLINE Kostenloses UEFA Nations League-Spiel 03. Oktober 2036 jetzt",
-          "summary": ""
-        },
-        "lb": {
-          "title": "#+(LIVESTREAMs!!)GRATIS!] Estland Lëtzebuerg Live ONLINE Gratis UEFA Nations League Match 03. Oktober 2036 Elo",
-          "summary": ""
-        },
-        "fr": {
-          "title": "#+(LIVESTREAMs !!)GRATUIT !] Estonie Luxembourg En direct EN LIGNE Match gratuit de l'UEFA Nations League 03 octobre 2036 En ce moment",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "241e249e30b21d29a2546d90f6cdb631196d5f3d",
-      "title": "(((FUBO-LIVE-TV))) Estonia vs Luxembourg Live & Upcoming on Watch ESPN 03-09.2036",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNME01UGFHTWYyRlphU0d0ejZWNGF6QjZlQTJUSXB5blEwT0o2TzU0UkQ5MmFOTVlpcWZJMEhVNUNhMWVnSlBma2VtemEyMW1TY3dManF5bjBYekxnQXV3UndFQWFNYUE1WEtkTVF3ZXc0TEN1Mk5xdzNVSURqLXJvbHd0SE93QkdxNjZxejdlZlFhcjJxOUc5T285ZkJQRGV3ZENxM2J3ZUxGNEZYd3NEaV82OU45RFhrZ2xVWmxfOThDdnVrWjROMUlrQmlBUTVqUjRUMHpKNE5QUVJUSUhOTFhsRWZmWmpuR2c1YU9vS1VFTlZ3X1pPaVB1UXFZdEVldG9ZZWk1WFdQXzFJeEZKVWZObw?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:00:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "(((FUBO-LIVE-TV))) Estland vs. Luxemburg live und demnächst auf ESPN 03-09.2036",
-          "summary": ""
-        },
-        "lb": {
-          "title": "(((FUBO-LIVE-TV))) Estland vs Luxembourg Live & Upcoming on Watch ESPN 03-09.2036",
-          "summary": ""
-        },
-        "fr": {
-          "title": "(((FUBO-LIVE-TV))) Estonie vs Luxembourg en direct et à venir sur Watch ESPN 03-09.2036",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "29db6e387fd440fdad81d67c6eb72ab69b24cd00",
-      "title": "Croația - Anglia 0-0, DGS 1. Islanda - Bulgaria 0-0, DGS 3. Estonia - Luxemburg 0-0, DGS 4. Programul complet din Liga Națiunilor",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMk5oZm5PUncxZkhqQ1NsRTVJbnJ1V1NTZm43NUswU1E4Q2NXU2ZCazE4WENONll2eVduM2Q0a2dGR19zbU9ManhlZF9UcnJFREl5dHlwWEtnOC1yMGp4UEdGOE1jOU9KOWRxT2FpR2dmNlMzOFNFc3VsMmVkOXp3eHlCek94R3lPam5ySkZmQXg2Y1lrcF9idmlBbzRIQnFIUWprYVhaNzlNOFBjckFvaDg4NmNnSEdhTEQ2bkUtNmVmWk1CNmh2ZUVyVU8xOWtNb0MyTDhrZG9pUXdkendHNnB6TXZxLVkzRVg4V0pVWlRoMi1vMGY2cnJjR19xRUZCUEQ00gGOAkFVX3lxTE5DdDhucjA2NC1iODF3VnM1Y2JWS1hwZ1h0Vy1lMDd3Ry11Tmx6N3NENFp0VnZ6RlhCZXZ5TzlUN0kySm1tWXVmVUdWRmcyUU53TlhmRDFCSDFWVEEyUkt5UmszUTdEVHBCeDYtNFA4ck1rLVRLOG9XSEtiQlF4cGcxemxzak81SkJtdWtOQTBKVFkxaTRZQjNvUmF1eWNiM0w0Z00xeEJxdkdyYXFMT3ZRY0dhQVJVcjdscWtxYVo5N0xWbGlsYlhiM2lhTm9reFlwZHY4cDVpRENJdS0zbm90ZzctTFBSUGljeTg1bkV2UkQzZVhJd0p1UDFZZ3FwUHN3dnZaLTBWZ1lzWEg3dw?oc=5",
-      "source": "Digi Sport",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-03T16:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Kroatien - England 0-0, DGS 1. Island - Bulgarien 0-0, DGS 3. Estland - Lëtzebuerg 0-0, DGS 4. Full Nations League Spillplang",
-          "summary": ""
-        },
-        "en": {
-          "title": "Croatia - England 0-0, DGS 1. Iceland - Bulgaria 0-0, DGS 3. Estonia - Luxembourg 0-0, DGS 4. Full Nations League schedule",
-          "summary": ""
-        },
-        "de": {
-          "title": "Kroatien – England 0:0, DGS 1. Island – Bulgarien 0:0, DGS 3. Estland – Luxemburg 0:0, DGS 4. Vollständiger Spielplan der Nations League",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Croatie - Angleterre 0-0, DGS 1. Islande - Bulgarie 0-0, DGS 3. Estonie - Luxembourg 0-0, DGS 4. Calendrier complet de la Ligue des Nations",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bd32c072dab624ca4a60acd9dfd7ae651b5b9477",
-      "title": "Estónia 1-0 Luxemburgo ao Vivo :: UEFA Nations League C 2026/27",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjRXcURCOGIxbVFvamt2SXNZeFZfUmY3WFRpaUtIMnVnOVZHdUdvTS1rSkZFb0dmNVhTRjByTVpkaFgzVVBHMW8zdUR6UFVZd0lhT3N2aHhwRDFib0lHWUVfZ1lXT2lORzh2QkFOV1JVVFRDTjh1ZTZyTk9rN2hzY19lcw?oc=5",
-      "source": "zerozero.pt",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-10-03T16:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "de": {
-          "title": "Estland – Luxemburg 1:0 Live :: UEFA Nations League C 2026/27",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia 1-0 Luxembourg Live :: UEFA Nations League C 2026/27",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie 1-0 Luxembourg en direct :: UEFA Nations League C 2026/27",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland 1-0 Lëtzebuerg Live :: UEFA Nations League C 2026/27",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c13ae189f5265dc4a1b7dbd709363c3e1d621e94",
-      "title": "Матч Эстония - Люксембург по футболу 03 октября 2026: трансляция, статистика и коэффициенты",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFNYQ2lCTE5yRWgwcDhPMXRRVkd2aFFQN0VEWmlMSG5tV0hLakZaX1FQaUNIREFISzFjbUxmU2dqc3VhS0FRc2xVNHM5Rm1TQ211YTI1cFpzMzVNNGkxZnpCYmxneGxmYXRRaDdLYzh1QmtLNnZPb1dSQWxmTVZ5OGdmeXJjTmJ1VnJXQXRRUXVFOTVXUWZiSXdDMzZLUmM?oc=5",
-      "source": "Советский спорт",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-03T16:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Estland - Lëtzebuerger Fussballmatch den 3. Oktober 2026: Sendung, Statistiken a Chancen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia - Luxembourg football match October 3, 2026: broadcast, statistics and odds",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Match de football Estonie - Luxembourg 3 octobre 2026 : diffusion, statistiques et cotes",
-          "summary": ""
-        },
-        "de": {
-          "title": "Fußballspiel Estland - Luxemburg am 3. Oktober 2026: Übertragung, Statistiken und Quoten",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7faa96b11fa4a38ec2bccde25fbfa4a75d8844e8",
-      "title": "Estland - Luxemburg Live Stream | Jetzt Anmelden | DAZN DE",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjI0T0RENi1mYW5rWkdPTG1hZ2dENGM1VC1WYXNOVWtUYjE0NXZDc3NzZG1JWjNfbGs2VkViUElhRnRZU2h4YmRDZC1uNDQ5d3N5bFVlSTRHOTZYdGhQb2NKTU9fRGdmNy1KRTJaUkJwVkNRNkJ4RzRQSUgxWTYtTzlHSkZzMk83ZW5peA?oc=5",
-      "source": "DAZN",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-03T16:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Estland - Lëtzebuerg Livestream | Aschreiwen elo | DAZN DE",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia - Luxembourg Live Stream | Register now | DAZN DE",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Estonie - Luxembourg Diffusion en direct | Inscrivez-vous maintenant | DAZN DE",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "cf5b0c4fce64e629eb9bcc0432403fdffe5b01d4",
-      "title": "Estonya Lüksemburg Maçı: Canlı Skor ve İstatistikler",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemR6bXdwSkV3Tk9OOTdpTUZwcm9GXzgxWWZobEZ6YmlfWW51b1F0ZmxlOGR4aGxiR04yS01KbkdldU1vQUl1aXJpZHczVHhoVlA4RUlYRDR1Sk5NY3ZBWDJyLWNrTll3Y0wxVnc4NkVpNVlkUzJ1X1NSTVRDQnZzd21ya0Nnaldz?oc=5",
-      "source": "Sabah",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T16:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Estland-Luxemburg-Spiel: Live-Ergebnis und Statistik",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland Lëtzebuerg Match: Live Score a Statistiken",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia Luxembourg Match: Live Score and Statistics",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Match Estonie Luxembourg : scores en direct et statistiques",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "90b31201abfd11deb0f32d1bd69046ce7c35674b",
-      "title": "Estonya vs Lüksemburg:Canlı anlatım, kadro ve istatistik",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RVV9YRkt4ZXhLYkVKY1ZjMlJWRGdOV2p2clZ4NXN4b3pVVTRLUzZYZnpQNzkzWVNwTmdiUkNYcmxqYUtnNmU1aGtlRTZjY0JvMndVLTRGZUxxUWFGeGp3UDBzdThVRGFBeW1XeHFTaUJWNWgweGdQYkNB?oc=5",
-      "source": "Habertürk",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T16:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Estonie vs Luxembourg : commentaires en direct, équipe et statistiques",
-          "summary": ""
-        },
-        "en": {
-          "title": "Estonia vs Luxembourg: Live commentary, squad and statistics",
-          "summary": ""
-        },
-        "de": {
-          "title": "Estland gegen Luxemburg: Live-Kommentar, Kader und Statistiken",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Estland vs Lëtzebuerg: Live Kommentar, Kader a Statistiken",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9c173b213d0fe1c8cd49f9d90f27891ee3a70811",
-      "title": "!+![Here's Got the ways to watch] Luxembourg national team vs Estonia LIVE Free Event 3 october 2096",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPMTlNXy12Qy15ZUhnZy1UVkpkVnZiY0NPb01jT2swU3M4UkgwQXA2ZlBfZDRDMGtfNUxPSmtOamZiU1NXZURpd3NkSlhVdGt1VmF5Rnc5YnJQcG93a0U0SFRLQ05IYmRoOW4xS2xBc0ZUa0hjM3BlV0dyOFhGRkN4ZHNTNTgyQlUtcUdUTlhYTEdUcTZrM1JXbVRMZU1qeVpnZnZZYlRvN2lkMjZwbTk5eG1SSXIxc0xJTzNtX2NocnBWeGUtWTBWVm52c1FSelQyOGFGc1RIVDlZdXNRX2t6ZGRYcWROVlFfRHB2TGYwMVRldXIzdXFOQUF0elJkeXNJMG1XZ0tBVWVCM0hDWm1vQ1pIQ09yMlVTaWRybjA5OE0zYkNvMmpNYThuME1NT3gz?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:59:31.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "!+![Hier finden Sie die Möglichkeiten zum Zuschauen] Luxemburgische Nationalmannschaft gegen Estland LIVE Kostenloses Event 3. Oktober 2096",
-          "summary": ""
-        },
-        "lb": {
-          "title": "!+![Here's Got the ways to watch] Lëtzebuerger Nationalequipe vs Estland LIVE Gratis Event 3. Oktober 2096",
-          "summary": ""
-        },
-        "fr": {
-          "title": "!+![Voici les moyens de regarder] Equipe nationale du Luxembourg contre l'Estonie LIVE Événement gratuit 3 octobre 2096",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "45f20983baa021e99141ea6e3fc6e473e63b2840",
-      "title": "+!+^$[Here's How to Watch] Estonia vs Luxembourg 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 3 October",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNVFFTUdSS3VtdnhYZS1tRU9CNzlUYVN6b0w4bml3Y3lfSmZZdGhYVHdtQ1J6Smh2N1N4aFBmaUZkVHpSRFAwUVhpUUlKSVV3dnY0NUFxVHhnRGZWWXMyN1JValhCVDNOWGg4NU5hN3Iwc2lSRGJNS0NUY2k0T1c4UGVDczl3dGJsRk1iUVQzRVpiemlaWnQ4ejRNUndkMU4tUXVuaGtCY3JxdDlEWmc3OWVBM1JOaVZud3p0SkZDdk9pTHJrYmtmcGdTMFNqVlM2Zm1DSEFwRXlBcXhUbEluVWQ3LWVZQ1QtSEpObDFiVjZxTS1HX096T2ZJZ1UwWEJNM0FfV2RCWmo4Zw?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:59:29.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "+!+^$[Here's How to Watch] Estland vs Lëtzebuerg 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 3. Oktober",
-          "summary": ""
-        },
-        "fr": {
-          "title": "+!+^$[Voici comment regarder] Estonie vs Luxembourg 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 3 octobre",
-          "summary": ""
-        },
-        "de": {
-          "title": "+!+^$[So können Sie zuschauen] Estland vs. Luxemburg 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 3. Oktober",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7469a5232212382b00e6e1cd95233557c37bcc97",
-      "title": "(Live Updates)! Luxembourg national team vs Estonia Live streams free 3 october 2096",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQeFBiaThSMkZ1VWpZRWpob0hQTjJDNzJRZ0tBTEp5OFNfaVFLcFg5Q0NWMUpIUFFkc0tmclNKb2I0dHc3NlY1d0xPMEFlRUtNb2F0RXdGMTFpdmpQUVdBeFlEdlkwVkEyNzhDM2lDLXhhc2NQS3RuNm4wdEdPUHBsRHBBU19VUDlRR1VSdkhLZ2NIX2hZLVlLU1RZTFlmNVU4NTd0bFRWam5ZT1E0QUFfY1YzbVlsRW9STnktUUt6cU0tdThSQUQ2QU9ndFI2NXJlTDRlZkI2c0ViZWMtZ1BsZnJudEk4STVlQ0t0THhaZHRiQkxxQm9ZTlRaS0dVWmYzOXdyd2V4TVQ1RkZ4WmxFWmlhRENHM2ZCdzAyWDRVRGVRbGhyTy1nVUdQd1RvY3Fv?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:59:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "(Live Updates)! Lëtzebuerger Nationalequipe vs Estland Livestream gratis den 3. Oktober 2096",
-          "summary": ""
-        },
-        "de": {
-          "title": "(Live-Updates)! Luxemburgische Nationalmannschaft gegen Estland Live-Streams kostenlos, 3. Oktober 2096",
-          "summary": ""
-        },
-        "fr": {
-          "title": "(Mises à jour en direct) ! Equipe nationale du Luxembourg vs Estonie Diffusion en direct gratuite du 3 octobre 2096",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e2bbc934e8a8d6b3cd1ec5b019d1d0f83dba25f9",
-      "title": "[!LIVESTREAMs!]Tv] Estonia vs Luxembourg 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 04 October Stream",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWWs2OWNfajh2NnlBdUhmNUdPeWdTMk9fa2pxblpMZlRyZFJqc1kyNVl4ZDZMSTRqWTRYYkRsRmlxN1NaSC1aUDFBOFlNTUJWc3RKUUQ0eHVSSE1MVjVDVjc4SHNIZEVxNHdpU3YxQlFRSE1TZFg1cXRLRlc5RzhfTXpaNURDWUNyMTBEVU1sZHZVdDRkN1k4UV9sUmRaczRFYnVEZVZxRUpDLXRkSjZmREE2UWVrZG9pY1MxdHg5SlkzVlpyeFFsdUJGVDgtd3B3RlpNXzAxLXZLWmdaY1JuWDlZVFZyV2xSWTZWbzdvblpXZzhGb0YwQUQ2OTN6VkpuWHpmWU12YzVleGRNZFlEdzNjZUNVaVE?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:58:38.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "[!LIVESTREAMs!]Tv] Estonie vs Luxembourg 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ Stream du 04 octobre",
-          "summary": ""
-        },
-        "de": {
-          "title": "[!LIVESTREAMs!]Tv] Estland gegen Luxemburg 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 04. Oktober Stream",
-          "summary": ""
-        },
-        "lb": {
-          "title": "[!LIVESTREAMs!]Tv] Estonia vs Luxembourg 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ ＣｈａｎｎｌOktober Stream",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "85aeda452722463c26e8d15f05c54dfc7f1a3373",
-      "title": "~+!☑︎[TOTAL SPORTEK]! Estonia vs Luxembourg 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 03 October 2026",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOYVBHNTlvSGF4OExXTE9qTWlzMWVRVm1TRzhBeGEyR09Jb3RfOE5KdHJQMDFIWVpQQm84c1RZUWJRUEV3QUdtdFZrS3dtUjlpTWtXMlpVYXRzS0VsZzFxMW96a0syNjhvZjIyNHFIS25CUk0xNnE0YWZNSnNtQ09CaW1zQWVyR1MxTEFOZmsyQ3dIUkpVREpIS2VSRUMzTWFpdWs1d0xtaGNOVVRrdWxsQ3pISm1xSl9CM1dvZjQxbUE5MUt0UXZZX0hnWm9ZZ19QaVdudmpfa1pwZVR4NWNHUThtN2xfNUF5UjFTaWlNRVRTdmkwTm9lbjZRMDBlQVdVRmp6aXJfZlZMQjd1YTFIRVRuMllZOWN4NUIzMXRSckdUbnJHSEJGQVJkTUoxbHk2Z2FhZGd2d1U2S1FU?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:58:37.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "~+!☑︎[TOTAL SPORTEK]! Estland vs Luxembourg 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 03. Oktober 2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "~+!☑︎[TOTAL SPORTEK]! Estland gegen Luxemburg 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 03. Oktober 2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "~+!☑︎[TOTAL SPORTEK]! Estonie vs Luxembourg 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 03 octobre 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6e4ae8292b51bdf11ef9a7bc4b56bc1e6cfbfbe3",
-      "title": "!+[Here's Way To Watch] Estonia 🆚 Luxembourg 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 03 October 2026",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQY0dwMlNRYVhwLUd1OTMtWWF4d3cxeldlaDZyRHFEaXFpbXA2UG9DemFRZTVIcDdsUHRmRlZtTnZSamV1dzlReXNQZFRPVmRpb2FiSVpFU2kyNS16MEoxRUNFUFhQWURHTkdhd1d0U3FhZ1lSM2txRmJYNkVFWGd4ZnYweHhRcXRjdDhOLVlEZGhOaE1ZN0JhanZjQWI2ZGI3V0VSLURLTktZUHVicmg4eEE1UTFzcjFqSUwybVFWZWNxMWJDdldVU2NJbEVUU051S3JXeGpFTGJoa3lBbExFdl9IblVkdDdDTGlQOHkxVllFckVodVFqRUpsbnNOa1JremN0WUFTQ2R5b3JGWGxTbktfc0VaQVJJbTRKelUtVHpzdTBVNEdMUnAzZGdCUnQ4d3pZY3NTTkt4VW94?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:58:33.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "!!!",
-          "summary": ""
-        },
-        "lb": {
-          "title": "!+[Here's Way To Watch] Estonia 🆚 Luxembourg 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｅｎ02. Oktober",
-          "summary": ""
-        },
-        "fr": {
-          "title": "!+[Voici une façon de regarder] Estonie 🆚 Luxembourg 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 03 octobre 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "244c6aab6ba6d91c132289b325e4102448fe66fc",
-      "title": "[[ＬＩＶＥ＠ＳＴＲＥＡＭｓ]🆓＝] Estonia vs Luxembourg 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ FREE ＯＮ Ｔｖ Ｃｈａｎｎｅｌ",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZ0hxRGcxMWhPVUhxdXdjbnFnVlBfWUNrczFtR0tlVVBfbzAyc0RuZ0RNd1ZGaU94Z0QzbUJtS2diUTg5a2lLZWpaeDZ0RWdSeE9nejl0Q3RsX3VxeFR0MFVmb0lyZmZJc0NfYUFPTzJ4dHVEYnBjRHNGUEN1NHVQd1ltODNSZWFDWlZuQXNOSzE3YXpVWEN2MTlaRHZjRzl5eUtmUXJCNXpkNkJ1TlExbzRZOU95VGlTOEtLOG4xZ1lZMVVsbVZ0aC1mamYzemsxSGo3RDdsSjNNUndnQm53VWZOcjJNRVFJWDJuekpDY2IyWVgyQjRIN3M5eWE3UG10dmZzenJzMVZzXzg1RnBnVUxxdFFseXRERkhIMWprTVNiS3lqQkNDME9lcU1wa3R1ZmU4amxkZWZDeU83?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:58:32.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "[[ＬＩＶＥ＠ＳＴＲＥＡＭｓ]🆓＝] Estland vs Lëtzebuerg Ｃａｎｎｅｌ",
-          "summary": ""
-        },
-        "de": {
-          "title": "[[ＬＩＶＥ＠ＳＴＲＥＡＭｓ]🆓＝] Estland gegen Luxemburg 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ KOSTENLOS ＯＮ Ｔｖ Ｃｈａｎｎｅｌ",
-          "summary": ""
-        },
-        "fr": {
-          "title": "[[ＬＩＶＥ＠ＳＴＲＥＡＭｓ]🆓＝] Estonie vs Luxembourg 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ GRATUIT ＯＮ Ｔｖ Ｃｈａｎｎｅｌ",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "cf55d5e457b50bf7d5a58287921ae36a6a44cadc",
-      "title": "~~@*[[[𝐓𝐨𝐭𝐚𝐥 𝐒𝐩𝐨𝐫𝐭𝐞𝐤!!]]>>] Luxembourg Estonia Live Free UEFA Nations League Match 03 October. 2036",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOcXRyZk1acUVqODlPSmFfcGRrcEp0dlhtZ29VZWo0UDdPMFF0X2VTWXNJRkk1bG1IZnpwb1VvTjk5ZXAzMHJ1Zzl3a3FYczMyZnlLbS1LT2JoUENfalVFQ0tqRUs2bzNkeGw1UlBHdmFBQnZDdllrcnJOdUtfOEVOemRuUG9rNUxjS3ZYbWtKRHU2dFhYNWRWRjBWYVYyY3hEZjVuM1l1SmFXRjVWSk5faFg4UkgxMWllQTFEdVc3ZnFSTzN6TEFncFV2YWw2MlJKaWdlMUFpakNhQlRNdmVJRDQtM3JpYWIxZ1dLWUZGdGlDc1Bnel9SYWpUUnBBbFZrTlN4M29FUmsxMlZwd2x6N1NuUmF0eWZMWWFua0hYczBkWG8?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:58:01.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "~~@*[[[𝐓𝐨𝐭𝐚𝐥 𝐒𝐩𝐨𝐫𝐭𝐞𝐤!!]]>>] Luxembourg Estland Live Gratis UEFA Nations League Match 03. Oktober. 2036",
-          "summary": ""
-        },
-        "de": {
-          "title": "~~@*[[[𝐓𝐨𝐭𝐚𝐥 𝐒𝐩𝐨𝐫𝐭𝐞𝐤!!]]>>] Luxemburg Estland Live Kostenloses UEFA Nations League-Spiel 03. Oktober. 2036",
-          "summary": ""
-        },
-        "fr": {
-          "title": "~~@*[[[𝐓𝐨𝐭𝐚𝐥 𝐒𝐩𝐨𝐫𝐭𝐞𝐤!!]]>>] Luxembourg Estonie en direct gratuit du match de l'UEFA Nations League le 3 octobre. 2036",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "46931818e66d2b0a4dad0ca9a9c3fc8d8c721bab",
-      "title": "(𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐬!) Estonia vs Luxembourg 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ match 03 October 2036",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZUFfTXA2RmZTQlVoNGlrREkxVVp5Sm4yM1pPV3ctMUZMRWFTbWFBUnVJTV9zci1EbEFkQlhQTWVZNWxJNEVHMXhBZlVRbUZyWlFvYWVndExYWEtfUHJHZGFxZzhFU0pXOXVocVZ5eFRJMzJaTXVMWXBYMEU0dzZxMm1tZTB0SWxPSWo3TF9Zb3hoeDAtaXVrYmVVSmxqTk5FOVJfNHNNSDBFcWM3Ym5OU2QwT2ZmSHZLRW4xU0dkWXJNV3VSSEpUVDRyN1FIY081bVFfUGduZ1hLaVJ0MEJ0YURjZkVNeXlqaTRTSk9qTWpXNm9OMWg4eGRwNTRPbF9Oc2JUem1aUTZaZm91cmZvUjNDdlF4dkpX?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-03T15:57:53.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Estonie vs Luxembourg Ｃｈａｎｎｅｌ match du 03 octobre 2036",
-          "summary": ""
-        },
-        "de": {
-          "title": "(𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐬!) Estland gegen Luxemburg 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ Spiel 03. Oktober 2036",
-          "summary": ""
-        },
-        "lb": {
-          "title": "(𝐋𝐈𝐕𝐄𝐒𝐓𝐑𝐄𝐀𝐌𝐬!) Estland vs Luxembourg Ｔｖ Ｃｈａｎｎｅｌ Match 03. Oktober 2036",
           "summary": ""
         }
       }
