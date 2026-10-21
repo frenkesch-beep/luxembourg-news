@@ -1,6 +1,435 @@
 {
-  "generatedAt": "2026-10-21T10:13:58.299Z",
+  "generatedAt": "2026-10-21T15:17:54.065Z",
   "items": [
+    {
+      "id": "a62ba784000fe579161f5d3fea20027bf69f38a3",
+      "title": "«الاتحاد للطيران» تطلق رحلات مباشرة إلى لوكسمبورغ",
+      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxONDlXZERLaTFGZFRndlZZcUh2R0pyZTVGZTh2QW9veVZYZjZLb1ZsdGFHU2pPYnZRa0d5MDYydEhtZzJPRVc1ZkQ2c2prSzZrQk9KNHZBYzZkdDVrMVA3VzRlNGdoQ1RWRFB4N3U5V09QRDVPUmExM01QZERCS2Jnam5HRHdfUEphbW1LRW5qV0FfYU1xOF9Qb3d4Uzd5VGtBMF90RWc3ODZyWmt0cEFHMzRwem1GbkVMVEtfWW0xcVRUZWpLdktXbnJDSklwdGtBSnVSN2lpeS02Z18yODhSR1hZMkJNYldlLTNJbmFMaUFndXJJQy1iUmpkZGI0Yi1ZdjBoOEFnNHpUUlhqTlVsOEQ5bDVBbFNqZ0tKZjRoMjVIeVR0SnF6bjBFLXZSRnFVQWltM0IzWmZiYXpXZEdkdXZESjJFWjh1blYzbzZSWTFzXzZVTEhHM1FOU2JjRndQR3RVemlvMURaWlVPa1pDeERQUFFZV2Y5eTBpelF0TUhhek50QUpBNGU0X2Jxdm5IVUw4aG9CaEVHSXhqSjFDMW1PZU1CTTJDZTlXSmpPUnF6OXhDT3g4STZDcWlnOUV3d2pzZWVnVWFXT3VxSTZXcjVWRWNxOGQ5RTZMMnVkdHB4bFB0alRXSnM1TzJpemJsSkJ5RTYzQVpYYl9hNkZUV2x6YVpRMUVLbHpubDhjNk5yTUlIQXVXUWRaU0g2bUNEMEZ1WjRxLVA?oc=5",
+      "source": "صحيفة الخليج",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-10-21T14:59:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "0290ba21ca02bebf060fc3bff09785f564c131eb",
+      "title": "Etihad atterrit au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0E1SXZhMlRQcW5SSHU4NEdPcG1QVUU4QTBVRjBNWTZoZU5wR1hhSkhsWVRCQXJUOWFJMVpmU3Z4MVFqWjRwcXZuaG1VWlNvRTF5ZUdCSkNkMmZnYlFIcndMdU5zNU5NWERvc1dfMTk0YnpnZEtDR21OWmtEdTlVUmN5bGlqVWo3bVAzTENnb0tRTWNZYkRKNjRn?oc=5",
+      "source": "Le Journal de l'Aviation",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-21T14:56:34.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "cf801f8aded1f45ba307d31bd1ef528710ddf6e2",
+      "title": "Neue Verbindung am Findel: Erster Direktflug aus Abu Dhabi: Etihad landet in Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejNXR0VJSy1NSDV5T2MtaDNmZWtOVEwtc1BEZVBfLW95QjkwMmhvd0o5QkNKRWMyRnJ5Zlc0VC1qUktmbGJPSzdfMkl5SElNSS1RR1NZWnBfWnZJMmhyOURfeUJIRmZTd3VrOTRyY3g5ZGpwWnlzWVhWUnczMGQtUE1yQjNkMDdQS1ZUY1RNbEY1VmtlUGF0bEtpSnlGc3BSSkdsa0trM1NxQjlkWkdycVpjMGhYSWh6R1pB?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-21T14:48:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "New connection at Findel: First direct flight from Abu Dhabi: Etihad lands in Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fab48e5563dddbf9063a201b87a9f8ea11992d71",
+      "title": "Etihad Opens Only Nonstop Luxembourg–Abu Dhabi Route - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeEZyU3lQeDhRajJlOHhTcEFKMHNLMnNPdmp2MTZmSWtUblgtU0owcnhRemNEVlVyaGhXNlJ6OWl3QUEzdmhQa1JJS1lqLTk0RXNFYXlwNUtiS01JNG41LU12YVZ6d0Jvc3JUZGRjWUIyS1VtTWIwVkZ3NFZtV19ycnlMVWtmSi12cmJzakt2SjJuQ1FvblN3MWhIQQ?oc=5",
+      "source": "IndexBox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-21T14:43:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Etihad eröffnet einzige Nonstop-Route Luxemburg–Abu Dhabi - Nachrichten und Statistiken",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etihad ouvre uniquement la route sans escale Luxembourg-Abu Dhabi - Actualités et statistiques",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Etihad mécht nëmmen Nonstop Lëtzebuerg–Abu Dhabi Route op - Neiegkeeten a Statistiken",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c15942a86fe8b2c32df8009920725af8a7e33909",
+      "title": "Etihad apre l'unica rotta nonstop Lussemburgo–Abu Dhabi - Notizie e Statistiche",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3lKMnZNMk9FZ2ZOTGpOZFdKTEt4RzFhZUF0bjNCZmRuME83cjJWLTE0ZFh0QnZiRnl3X3Q3ZF9ELWw1ODBNVklDcDBRU1FKdS02TElWRDJ6MzZFNXFVdE90dC1FR1pZUTBndTB1ZXU5SERnME5rUldCLThScnJENTJEN3Z4V0Z2cE1HNm9SSXRyUG11eTFFTThiS0VfYkk?oc=5",
+      "source": "IndexBox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-21T14:43:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Etihad eröffnet einzige Nonstop-Strecke Luxemburg–Abu Dhabi - News & Statistiken",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etihad ouvre la seule liaison sans escale Luxembourg-Abu Dhabi - Actualités et statistiques",
+          "summary": ""
+        },
+        "en": {
+          "title": "Etihad opens only nonstop Luxembourg–Abu Dhabi route - News & Stats",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Etihad mécht nëmmen nonstop Streck Lëtzebuerg–Abu Dhabi op - News & Statistiken",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2009553d117359f666cd68d5cfcf9948c0d69ff4",
+      "title": "Etihad открыла единственный беспосадочный маршрут Люксембург — Абу-Даби - Новости и статистика",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMEpsZjZURjMxc1lMWlBUdnl0Xzd5dnYzNGxDOHZuY2Q0ZFhIZ3hCU0N1OGJ4eXBrVGt2ZWVDc2UwN0hSYVozMERERUhZWGJ1VW0wRURJMDhBMEF6N1NfWVk2eTJPWGRpOHRidmNXd3UtLUhvZm5pQVl6TUpmcVk2SmZuVV9PVlp4aUF0Z2ZnMU9CdzIwV1ZwWWp0VTNja0E?oc=5",
+      "source": "IndexBox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-21T14:43:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Etihad lancéiert nëmmen non-stop Streck Lëtzebuerg - Abu Dhabi - News a Statistiken",
+          "summary": ""
+        },
+        "de": {
+          "title": "Etihad startet einzige Nonstop-Route Luxemburg – Abu Dhabi – Nachrichten und Statistiken",
+          "summary": ""
+        },
+        "en": {
+          "title": "Etihad launches only non-stop route Luxembourg - Abu Dhabi - News and statistics",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etihad lance la seule liaison sans escale Luxembourg - Abu Dhabi - Actualités et statistiques",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "1b87cde304b4e523dde2b8c56ecd1cfcbbac6e4e",
+      "title": "에티하드, 룩셈부르크~아부다비 유일 직항 노선 개설 - 뉴스 및 통계",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzQ1NnQySFdWR2xxcWtWMUhmX0R6b081eXZYdzFMUEVlQVhUQm04N25vUkVmX1ZNVEhER21GOFFDNlpfTF9oUGlSNGR1MkxobXhCR2hQTnItSjJEYm8zbG9zbVZwRlk4ZWNNRThlbWE5NXREVGhUYURKMXpEVW12enJZR2hiX0N4NTJzZzFPa2NIOTR0SXI5bXVZVG9Cenc?oc=5",
+      "source": "IndexBox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-21T14:43:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Etihad führt einzige Direktverbindung zwischen Luxemburg und Abu Dhabi ein - Nachrichten und Statistiken",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Etihad lancéiert nëmmen direkt Streck tëscht Lëtzebuerg an Abu Dhabi - News a Statistiken",
+          "summary": ""
+        },
+        "en": {
+          "title": "Etihad launches only direct route between Luxembourg and Abu Dhabi - News and Statistics",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etihad lance la seule liaison directe entre le Luxembourg et Abu Dhabi - Actualités et statistiques",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2409f3af08c554f3855d4dca55fa47768cdc327c",
+      "title": "Cuando la reina Letizia tenía la fórmula mágica para ser la invitada mejor vestida: su look en 2014 en la boda de Estefanía y Guillermo de Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSWNnYXlBdWloWW1pSWJFZlU5cW1qTFJHTjdCblh4QXJFdnI2azVxalZWV3VtWlNzUjlzcWdmOWRLdWVlM25jRUpKOFl3eHREZ0UwaHlSNXNCaGl4Z1BKS3V0M3p0MkQ0bHdFaUZkeDE1RjlQYktwZnI1UmltUGU2MEZzdU40QWRqS3lMdU54UnNlSzFTZnZ6Wk4zQWpmdjB2TGluMG10MWVsWkROTlo3bVZLcE8wdndGYjBQaEVjdHgzdV90SEEyd1YxSzdoMG03cU1zYWdad2h5UjIxNzN4ODh2WjFwVl9fU2hr?oc=5",
+      "source": "Harper's BAZAAR",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-21T14:08:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Quand la reine Letizia avait la formule magique pour être l'invitée la mieux habillée : son look en 2014 au mariage d'Estefanía et Guillermo de Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Wéi d'Kinnigin Letizia d'Zauberformel hat fir de bescht gekleete Gaascht ze sinn: hire Look 2014 bei der Hochzäit vun Estefanía a Guillermo de Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "When Queen Letizia had the magic formula to be the best dressed guest: her look in 2014 at the wedding of Estefanía and Guillermo de Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Als Königin Letizia die Zauberformel hatte, der am besten gekleidete Gast zu sein: ihr Auftritt im Jahr 2014 bei der Hochzeit von Estefanía und Guillermo de Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3f8a91eeea8cd8c5d37747b02260b10e8b9cd509",
+      "title": "Etihad Airways nimmt Linienverkehr nach Luxemburg auf",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTdVQ3FqOUc0TGRzS0dEUnJBRXVBa3JuYWpyMmlGR0l6aFNJNk1xVi1WdG1pVlVMQzlDMndtbDF3alhDdE5JaEl6dWp2T203QWJBZkpsbmR0QmFPUV91Tm8xUzBJQ29QenJhSFBZZVdjNGs1UXZFdU1GQ0FsbEZrWmRLdw?oc=5",
+      "source": "Aviation.Direct",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-21T13:41:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Etihad Airways begins scheduled services to Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Etihad Airways fänkt geplangte Servicer op Lëtzebuerg un",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etihad Airways démarre ses vols réguliers vers le Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b479b89ca364f27859538567f3f37ba4494fa925",
+      "title": "Épargne : Altaprofit et Generali Luxembourg veulent démocratiser l’assurance vie luxembourgeoise",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONUFTTXByTzNtZmtZR1lCNnhQcnBLeWxzRG1zX3BJdzNQaE9RX0tSVTlYYXNoYVlMajd6c0NqVEswVG45M2pGdmN0ZlMzWk1Pc3FyOUU2MUc3NlNicWluZXE1TlprU2tLOHNzOXJhaGktVVdORHR4QnFvV1JVVHNOWEN1cGJSbW0tT1FHMUV1N2hvcy1VRUtRSndIWDFlcWJ4ZmM5U1RBVzMtUnZSZjJvVW1oTTJQMVBVNlJpS2JuYjlQNndtWWJnWV9ueW1tR1dtVTFEWDRZZE5iU29UanhEaVRRa2dNSmlXRURRTnVWUEM4bmljUmUwVDlqQQ?oc=5",
+      "source": "L'Argus de l'assurance",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-21T13:26:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Spueren: Altaprofit an Generali Luxembourg wëllen d’Lëtzebuerger Liewensversécherung demokratiséieren",
+          "summary": ""
+        },
+        "en": {
+          "title": "Savings: Altaprofit and Generali Luxembourg want to democratize Luxembourg life insurance",
+          "summary": ""
+        },
+        "de": {
+          "title": "Sparen: Altaprofit und Generali Luxembourg wollen die luxemburgische Lebensversicherung demokratisieren",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5059415cff613c70b00f6736f196d7b31919cdaa",
+      "title": "Middle East Business: Etihad Airways launches nonstop flights between Luxembourg, Abu Dhabi",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlRG1DYWFuNjhGUC1Cc05fZUdhZTBTOXhWNmxHNElheFdyVk55MVA1aVpSNWt3UGtrRFQ3MGpSaHQwRXBIcnZ6NUkwTFIxc2pyTHFF?oc=5",
+      "source": "Gulf Daily News (Bahrain)",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-21T13:04:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "de": {
+          "title": "Geschäft im Nahen Osten: Etihad Airways führt Nonstop-Flüge zwischen Luxemburg und Abu Dhabi ein",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Mëttleren Osten Business: Etihad Airways lancéiert nonstop Flich tëscht Lëtzebuerg, Abu Dhabi",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Middle East Business : Etihad Airways lance des vols sans escale entre Luxembourg et Abu Dhabi",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d08c9d536b067576e784c711d88a46e68ea789fa",
+      "title": "Los escritores Elvira Lindo y Jesús Marchamalo charlarán sobre libros, historias y literatura en un coloquio en Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZDRJT3JEV0tRbTlaSkhIWHZlU0d3UGNESllIX29nM3Z3WjdIamdFS2FYd3RNLUJWTy1CbGJCaU1tQ21sNWwzQ1VGaGYtX08yelVpUm9zLUVJZ1ZPUFFlMDU5aEhkbnlGTFpXY0lWa3NzSmFRdG83dVZ3RnhTRkw0TzEtRHFIUTJPc2diRDZoZXExQThocWpBdXlzb2RLTFdFZjRKZ2t1T1F6M0QtWEdIajk0eHZOejZScExZZkZNcWtHek5RVXpaUlpNbVRZNXh6ZExRa0NBZmh4MFB1Znl1aXVjSW9zMDJEOWdjTFVSbVRPVkIyNjQ2ZHFWOUJPaTRPbVphM2J4MEhxeWdmakE?oc=5",
+      "source": "Crónicas de la Emigración",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-21T13:00:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Schrëftsteller Elvira Lindo a Jesús Marchamalo schwätzen iwwer Bicher, Geschichten a Literatur op engem Colloquium zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "The writers Elvira Lindo and Jesús Marchamalo will talk about books, stories and literature at a colloquium in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Schriftstellerinnen Elvira Lindo und Jesús Marchamalo sprechen bei einem Kolloquium in Luxemburg über Bücher, Geschichten und Literatur",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les écrivains Elvira Lindo et Jesús Marchamalo parleront de livres, d'histoires et de littérature lors d'un colloque au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "91628cfe9ba28cb9278d16ac6fe93965f581e848",
+      "title": "Moien, Luxembourg: Etihad Airways touches down in the Grand Duchy",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWmhlalo4Tll4OTNUUlJ5Y0VqNk4yTnlUYWM1eW9hczZRRTNIdmppLTFqdzhaaF96V1hXOXphQXQzQ2N0XzBvTnhYWUNrZkt2QW52d1VIRldmTENMSHh1cXQ4WHNlamw2VkFleUxXRENWTDM3c2lvV0xINFpra3NVc3BCTk5vYVhGUGR0QTJSa3VNMEJQNmFtQWszcGhNQUZuem5HTEVZZEhXeW8tUnQtdkhzYjUtSUttMHVnbjYtQnhKaVE?oc=5",
+      "source": "Zawya",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-21T12:53:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Moien, Luxembourg: Etihad Airways touches down in the Grand Duchy",
+          "summary": ""
+        },
+        "de": {
+          "title": "Morgen, Luxemburg: Etihad Airways landet im Großherzogtum",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Matin, Luxembourg : Etihad Airways atterrit au Grand-Duché",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0b289080ddd6f8440670543659eb6a0200e46096",
+      "title": "Ariane de Holanda, la princesa que se ‘sale de la senda’: así es la ahijada del gran duque de Luxemburgo que habla italiano y podría viajar al espacio algún día",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX19paTdweHo2RVVKSjI0UlhYLU1oY1NnR1RabGJ6QzlsVXBVV0pFSTc3d0JjcEs4YkJEY2hsdExERzgtcU1GbGNYbnQwbG9VTzhGRDcxMGdHT3lGb1gzbnVKQmN5elZDOTdpX1Y1VDBpbXNubkthUk1IVm5OY00zOTZfMHA5NmpLcnhFTm9ydzlaSG1KMEswQ21VWkw?oc=5",
+      "source": "Vanity Fair España",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-21T10:17:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Ariane vun Holland, d'Prinzessin, déi 'vum Wee geet': dat ass d'Pättechter vum Groussherzog vu Lëtzebuerg, déi italienesch schwätzt an enges Daags an de Weltraum reest.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ariane of Holland, the princess who 'goes off the path': this is the goddaughter of the Grand Duke of Luxembourg who speaks Italian and could travel to space one day",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ariane de Hollande, la princesse qui \"sort du chemin\" : c'est la filleule du Grand-Duc de Luxembourg qui parle italien et pourrait un jour voyager dans l'espace",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ariane von Holland, die Prinzessin, die „vom Weg abkommt“: Dies ist die Patentochter des Großherzogs von Luxemburg, die Italienisch spricht und eines Tages ins All reisen könnte",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "00bf51cd641b78358526d17c3b35bdd9261044f8",
+      "title": "再添国际专利！西藏光伏技术登陆卢森堡",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yVzVndDVucWVfZ1FaUG1xLVFhV3p0dmN4cXNPdEZFSU1XSjFNZWdLaXBsZlBZc25CcG43dGNQUWJBWjI0U2ZsV3ZPUXMxQ3czUFdKRXFZWS0zQzVadzBrX0tSMFJZWURmSDdzdWVhQXlhUUtRQVE?oc=5",
+      "source": "新浪财经",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-21T10:07:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Füügt nach en internationale Patent dobäi! Tibetanesch Photovoltaiktechnologie landen zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Add another international patent! Tibetan photovoltaic technology lands in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fügen Sie ein weiteres internationales Patent hinzu! Tibetische Photovoltaik-Technologie landet in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ajoutez un autre brevet international ! La technologie photovoltaïque tibétaine débarque au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "d95da5397029b867d01c2ee442d8dc69e3771151",
       "title": "Old City of Luxembourg hosted UNESCO walks on 16-18 October",
@@ -151,6 +580,35 @@
       }
     },
     {
+      "id": "1af1799e79aa81d19bb99d363e012857dc92f4f2",
+      "title": "National women’s trophies raised in Austria, Brazil, Korea, Luxembourg, Romania, Switzerland, Zambia",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVVJSa1JtUnFwYjJmazF0TE9rMnZJUHk4ZUJFZ3dDcjVycDNvS2wydXc0aTNUbUZibTNHUFZadlgyOEMxdVBGUjZRVW5XZXRnYk5QRVRDcXVtemhxTmtyV2RoaUVfeElteHo4TjRJNTJKVFhqYk8wSENfc1p5T19kRVpfNGF3X1NPV0dXQXpWUlVPZzdLMFNwOXFlbEs4SGZ0bWZYeXdZR1JQa2hRSmhRZ3VCQkVaZw?oc=5",
+      "source": "FIVB",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-21T08:49:21.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "National Fraen Trophäen an Éisträich, Brasilien, Korea, Lëtzebuerg, Rumänien, Schwäiz, Zambia",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nationale Frauentrophäen in Österreich, Brasilien, Korea, Luxemburg, Rumänien, der Schweiz und Sambia",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Trophées nationaux féminins remportés en Autriche, au Brésil, en Corée, au Luxembourg, en Roumanie, en Suisse et en Zambie",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "a0530b9ec082bc704f48390ca6290c8fd5f999ab",
       "title": "Luxemburgo confirma un brote de Xylella en viñedo",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUZPSXU3dEJIbFpGUXctR18tZFA4TE8yYXRfS004bm13eHRpbVFfY2RmaWduYUNkVTNlLVN0a29yQWR6bmpqOGxjZDVfMGNGR2xVRC15N2NUU0FVYUlmRjJpRXlmbTFpNThDQm9jREI3eGY3MEhuTjJhZkNaSUpRLXZ3TC0?oc=5",
@@ -247,6 +705,39 @@
       }
     },
     {
+      "id": "d394f8a05c0ae9698dd05a2c74f568dd8e7390f8",
+      "title": "تابع لوكسمبورغ ضد بلغاريا",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekJMOFZjSmhaekVqMXBsTlVuUUdoVS1OdUNzWk5jemhTRjE3SDBJRTd3bEEzLWltOVZBYThDeWp2WlFWWWFaVE9YYXF3dmdsd3BsYjFzd0dDSHZBY3VMN194MUh2aDhpTWZwZjNKQUE2dTlVenE2T2R6bFlIWWJBWjRfVGFQWUE5ejE0dWtHTHJmellJQmxKZGRCQnV4UQ?oc=5",
+      "source": "TOD",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-10-21T08:11:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Verfolgen Sie Luxemburg gegen Bulgarien",
+          "summary": ""
+        },
+        "en": {
+          "title": "Follow Luxembourg against Bulgaria",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Follegt Lëtzebuerg géint Bulgarien",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Suivez le Luxembourg contre la Bulgarie",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "4d194aee2f98704faf4aded9852b02ccbc125611",
       "title": "Diese Stars spielen nächstes Jahr Open-Air-Konzerte in Luxemburg",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeW91RzREVUtJQXA0c2pxV0xyVEtIaHdrTmpNOHJ4T0NEOVFMOGdpM3d1QW9CdTNFeHNScTFzUkE0TV82R2pBRVNsbzlwZ2hNQzRjMkFRS01KbktMR3gzT3htRWVZeFBkeTNVWUxkZEM5T1VFT0NxMFRCRDFkZGR0bTFuWU1ZS1REMk5QUHhCQXAtZkJiVFJyUFRWTjNUR2pIVFBtbnY2QV9DbW9u?oc=5",
@@ -271,6 +762,72 @@
         },
         "lb": {
           "title": "Dës Stare spillen d'nächst Joer Open Air Concerten zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d78af060af7dfe8137fe0e3f8bc783fa528967b5",
+      "title": "画廊 卢森堡格蕾丝酒店，钢厂的前世今生 / Christian Bauer et Associés Architectes - 10",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPdk1KTGw0ZEJnbHc3MjNjWmllRlpoMm1FOFVrbDMwc2NiWVVwamV3Z0dGWHRVaWtVMVU5NktwX2RjamVXNFFSNWMzeXBkNm15dmx5MEJpRUdiQ1hiT01aRW01d2haVDhiZXpqR1QwZjlNS0l6RHJsdGxqQnlibUlPb3drWldYSTkyUzJoXzd5M0g5WWdFalFNaWtGWDA3QXZXR3VJZm8tRldWb0ZzcWFKSExOaUxpcXdidXcwa3BzSGdjSTNlMXQ2SXYxMWlMV1dvZVpySmVxNlJyRDh5ZU5adXVzSXZxOEhyOGZTVHI3QkpUWDlVZ3J1aGFMRzBGUUxyS2g2NW5xSDlMc0tyeXFNUjd3VHJRc0VQaTJjN25rVnNMeEVESEFJS3FVLXN4R0ZCVGtOd2hlSTAxa3picjZwYnR3YXY2UXRa?oc=5",
+      "source": "ArchDaily",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-21T07:20:21.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Galerie vum Hotel Grace Luxembourg, fréier an haut vun enger Stolfabrik / Christian Bauer et Associés Architectes - 10",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of Hotel Grace Luxembourg, past and present of a steel mill / Christian Bauer et Associés Architectes - 10",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie des Hotel Grace Luxembourg, Vergangenheit und Gegenwart eines Stahlwerks / Christian Bauer et Associés Architectes - 10",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de l'Hôtel Grace Luxembourg, passé et présent d'une aciérie / Christian Bauer et Associés Architectes - 10",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "7d57e6b4e7b92737c212a5908b225eecad0d1cb4",
+      "title": "Luxemburgse plots boeman voor wereldkampioene Brand",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY1hObGlMYUV6ak1nVk5HV2d1cnkwbkxQX3BlcmJNd1ozQ243eEJQaU8zOTVTQlNQMkFNckJNSGRvR0xRWmlRUUl5bnFWZTZFakhhOFhta3JFR0hSeDlNXzlYOHdPMUJid3gzR2NDRlF0TGVZSXFxUXRaSmYxWUJaRTdfSzVsLU4xZU1jNGtNQUp1TTZ5Z3ZWZmI1VnkzQzQ1WE5CamszVzh0TDJ2UHIzVmMwdHpDM0lfZm1NTmhNeVhjZlV1RWhaa09KLWg?oc=5",
+      "source": "In de Leiderstrui",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-10-21T06:20:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg huet op eemol de Weltmeeschter Brand gesat",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg suddenly bogeyman for world champion Brand",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg ist für Weltmeister Brand plötzlich zum Schreckgespenst geworden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg subitement un épouvantail pour le champion du monde Brand",
           "summary": ""
         }
       }
@@ -458,6 +1015,39 @@
       }
     },
     {
+      "id": "d6e8778c027ea71f182086660a465d772ebefce3",
+      "title": "Luxemburg 0-1 Italië (3 jun., 2026) team statistieken",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTlaOElYYjlIVUpaelQ1RnZkd1BmVjR4cWFtVHNJbjd3OE15YXNxYmt2eVJqbGJXRUg3VHJKbjZqb0dxUjl0X1F2UXdXRlR1Z0pSQmg3V2NtV01IeVdHbDBDaFdCQVNkWTdha05ZWlljdTdzMXVFNWdRN2E4YUJ0R1ozbkJxMEtsbnVxY0M5X1ZHZUxkM193V2tn?oc=5",
+      "source": "ESPN.nl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-10-21T00:47:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg 0-1 Italien (3. Juni 2026) Teamstatistiken",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg 0-1 Italy (Jun 3, 2026) team stats",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg 0-1 Italie (3 juin 2026) Statistiques de l'équipe",
+          "summary": ""
+        },
+        "de": {
+          "title": "Mannschaftsstatistik Luxemburg 0-1 Italien (3. Juni 2026).",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "823867b779e0373b31256607732cd5a250a346d6",
       "title": "Luxembourg MEP Blames Europe for Conflict With Russia",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0dDdzhVaGdDUmJxM0pLbmJzUnVPVEYtSkRUZVE4OW1NUnBwSDAwYkNuR3psQ2lHTDNMUzNoSmFIU2E5R2tpRTQtN2xOQmt0SktxRWxVMHpidXY4RDg0ZlpGT3VobWtqRzJ0eFhfbnBHdlpyOTN2TjRvSl9zV1N2bVhVaWN2ZGpqYmVfamFVWE5JQU9mUElQRUtn?oc=5",
@@ -548,6 +1138,39 @@
         },
         "de": {
           "title": "Luxemburg: Arbeitslosenquote steigt auf den höchsten Stand seit sechs Jahren",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8d4f8fd452c04dc3bef4a442deb94579729f744a",
+      "title": "Niederanven 공기질 지수 (AQI) 및 룩셈부르크 공해 | IQAir 대한민국",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2hqN0JQa2tPX0xfcFotZmtsSEx2QUgyM0hGYnBDY1J0OGIwV1BUX3BqeVJ4VE1kQTF1NGdta3MzOVU5ZEpXZ1lvc3l3WFdpMlg5Qmo0UUQ2bkZHS3ZMQUpPY052OE0xVnhCNXhvckhmdnUzZDkxdzBPcjVueTA2bV9CU1JtSG5kS0E?oc=5",
+      "source": "IQAir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-20T19:52:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Indice de qualité de l'air (IQA) à Niederanven et pollution de l'air au Luxembourg | IQAir Corée",
+          "summary": ""
+        },
+        "en": {
+          "title": "Niederanven air quality index (AQI) and Luxembourg air pollution | IQAir Korea",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Niederanven Loftqualitéit Index (AQI) a Lëtzebuerger Loftverschmotzung | IQAir Korea",
+          "summary": ""
+        },
+        "de": {
+          "title": "Niederanven-Luftqualitätsindex (AQI) und Luftverschmutzung in Luxemburg | IQAir Korea",
           "summary": ""
         }
       }
@@ -872,6 +1495,39 @@
       }
     },
     {
+      "id": "f301d829fe771eec95be5634e8c8da5a3d91051e",
+      "title": "比利时收跨境路费公交涨价32倍，穷疯了？卢森堡人怎么办？-yeeyi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JMHIwR0JuMTZTRlVveml0RU5DX0RUNWtsb0paLVlMamtWODZieVg1Q0QtUnhUMk1YQk52UFVoSEgxU01CSXExMmpUaXFTZUlVYVhrZGxn?oc=5",
+      "source": "yeeyi",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-20T15:42:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Belsch sammelt grenziwwerschreidend Maut an erhéicht d'Bussertaxen ëm 32 Mol. Sidd Dir esou aarm? Wéi ass et mat de Lëtzebuerger? -eiei",
+          "summary": ""
+        },
+        "en": {
+          "title": "Belgium collects cross-border tolls and increases bus fares by 32 times. Are you so poor? What about the Luxembourgers? -yeeyi",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Belgique perçoit des péages transfrontaliers et multiplie par 32 les tarifs des bus. Es-tu si pauvre ? Et les Luxembourgeois ? -ouiyi",
+          "summary": ""
+        },
+        "de": {
+          "title": "Belgien erhebt grenzüberschreitende Mautgebühren und erhöht die Busfahrpreise um das 32-fache. Bist du so arm? Was ist mit den Luxemburgern? -yeeyi",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "7951c709596e85ff9c1b912c4f939a17f6437c9d",
       "title": "Banca March empezará a operar con su filial en Luxemburgo el 1 de enero de 2027 y activa su expansión internacional",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQQVJ4aXNhaGJXbGZUTlVOLWhHTF9WTTh6NUdsRF9Oc3A2dnF3SEJvcXR2a2lOS0RKcGl1QTJuVHp6SnNTM3g4ZW9rUlJXNTFZZnpaR0Q4b0xHeXdGajZEYUVPbjA5SGdfcFJiV2hEOE5BdUV6c1lnenlDTWwxaW1FcVM0NG1JUzJITmI3Yy1FanoxX2RPRHlXYy1LV3lWOFM1UkJYN3htaUpwazNWTUl5RWxyYzJWd0xEQUQzSVhtS19DeE5jZ0kzZFdOZkFiYndjRjdyQXhremI0Uk9FeFNlTGFuQXlPY1AtVFVJekxJY3dzdTZoNC1DalA5T2lkREVuZ2pCX21XUVIwLTAzU1c1TXFvcjZSZDRTMDFtNA?oc=5",
@@ -967,6 +1623,35 @@
       }
     },
     {
+      "id": "5980d57959dc4709f92125083f772ec23de2cf43",
+      "title": "L’eau du robinet de nouveau potable à Onjon, Bouy-Luxembourg et Longsols",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQjZCTkFwVWxBSDJrODE2ZkdWYUN3dVJIa0puUXZfUjM3NnZrWFhHbzl4eVFMQlBtbS1wYXE4OXNLWWRGX0JzUEZBOG1GU0JQSmFxblczVDJUZHpsTEVJU3VpYkdmSmx5a2J4WnJSMWVfX25lSmE0QkZhd2tvbmtZdnlCZmxRdUZQTUg2clQxa2tqYlFKZUV3Xw?oc=5",
+      "source": "Canal 32",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-20T14:56:56.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Tap water is once again drinkable in Onjon, Bouy-Luxembourg and Longsols",
+          "summary": ""
+        },
+        "de": {
+          "title": "Leitungswasser ist in Onjon, Bouy-Luxembourg und Longsols wieder trinkbar",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Zu Onjon, Bouy-Lëtzebuerg a Longsols ass nees Krunnwaasser drénkbar",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "4d11f0572af3eabf93d8f48db5b24f140016f1cd",
       "title": "Miguel Rebelo — статистика у Люксембург: Національний дивізіон 2026/2027: скільки голів та передач",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVZzVGRrVFppTV9BQ0hwZHBoMnZZTlVBTGJmZXc4WUFadFZoWjFTYVBxMTU1eUQ4UG82dTNHd1JtckY3UE43ZkhUNnJtX3NnNVBCemZ3andkN1JGZHNha3hqOWxicTRyQkQwdDJ2MGp2RG4teHRoMmxFQTlDTG1hQ0IzZF91M0ZPTnRsZThEdVZVVEVQWUtjdkRJTG9qMjRra0tqNUlWaEd0dzg5NW8w?oc=5",
@@ -1057,6 +1742,39 @@
         },
         "de": {
           "title": "Costa Rica und Luxemburg stärken strategische Allianz in den Bereichen Umwelt, Cybersicherheit und Technologie",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3e92c2c4a2669f66247e80f5c420df7a2463d354",
+      "title": "Itajaí propõe consulado de Luxemburgo para ampliar negócios",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUNoOWZ2bWc0aG1YdXIyZHJRV25qOFdVemxTU1BRbnY1QVpwV2twWmtFeVVtS3JlRktWVWtubjdud2hSV1BOanZfd1p3MnlZeHo4LTZQc2hlM292QnlONzhwY3RjZHIxMDBaTDlGejM3Q3lIRlRCNFlmOVBXbkxhZjZjUVc4WUMwWF81QWRQR0FQbWJrRmZB?oc=5",
+      "source": "Defesa em Foco",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-20T14:30:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Itajaí proposéiert de Lëtzebuerger Konsulat fir d'Geschäfter auszebauen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Itajaí schlägt luxemburgisches Konsulat zur Ausweitung des Geschäfts vor",
+          "summary": ""
+        },
+        "en": {
+          "title": "Itajaí proposes Luxembourg consulate to expand business",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Itajaí propose au consulat luxembourgeois de développer ses activités",
           "summary": ""
         }
       }
@@ -1247,6 +1965,39 @@
         },
         "fr": {
           "title": "NetApp de Machelen et Emma du Luxembourg unissent leurs forces pour une infrastructure européenne d'IA",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "11314944e6a224b99566b8ad78b8adfe7ba3e928",
+      "title": "Tom Ivesic — статистика у Люксембург: Національний дивізіон 2026/2027: скільки голів та передач",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkN0d09RZ2RRQ1hpT1padnJ0UFBjOGdNN0RRa2FjbnhKMUI4TjU2Q051WUFSMmVKSDVlclN4SDlQSUduNjNXdGxYVlhlLTUtcmJCdVRTQW9fUHpOcFp1aW5QeU0yUE9EWVk0ai1IWXpPNDNydXpGU3A5MHdUeGRYci12WlFpZDVDMzhIdkdUanFveXlVV3NCVURYa0ZlZw?oc=5",
+      "source": "Tribuna UA",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-10-20T13:25:37.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Tom Ivesic – Statistik in Luxemburg: National Division 2026/2027: wie viele Tore und Assists",
+          "summary": ""
+        },
+        "en": {
+          "title": "Tom Ivesic - statistics in Luxembourg: National Division 2026/2027: how many goals and assists",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Tom Ivesic - Statistiken zu Lëtzebuerg: Nationaldivisioun 2026/2027: wéivill Goler an Assists",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tom Ivesic - statistiques au Luxembourg: Division Nationale 2026/2027 : combien de buts et de passes décisives",
           "summary": ""
         }
       }
@@ -15216,6 +15967,39 @@
         "de": {
           "title": "Erweiterung der Europäischen Union: Warum Brüssel sowohl langsamer als auch schneller wird",
           "summary": "An ihrem zweiten Tagungstag in Luxemburg werden die europäischen Außenminister am 13. Oktober ihre Amtskollegen aus Albanien, Moldawien und der Ukraine treffen, nach Montenegro am Vortag. Ein „Super-Dienstag“"
+        }
+      }
+    },
+    {
+      "id": "02df31ad107a56599a4f1e7be49810bbe762e790",
+      "title": "Mesaj ferm de la Luxemburg: Maia Sandu confirmă deschiderea capitolelor privind Piața Internă și Competitivitatea",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblBKTi1PS0ptaXhQTGVYa1JhMW43UkF4M215Szg3NTNqQ05XT00tdURObFJ1U0RPaHh5QnVOUTEzQUpIbzkySTlTcVZZYlkyX01VZUc5bkgzc1dRcnhTUlc2UGJoZnBRU3g2Z2tPTjBabkRnd1hUd0wzSnBiSnZ4VmM2VGJPMGdyNXBCVU4wdFJMLU12NUVXSVN4VXlpbWpLbFRoR3AxN0s2ek9ZWmtnZVhCWVd3QnhpSXo5Rmx3ZGc4c044bjk1Z3hLT3Y1TjRnSkVxUVRDZw?oc=5",
+      "source": "Independent",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-10-13T15:30:06.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Feste Message vu Lëtzebuerg: D'Maia Sandu bestätegt d'Ouverture vun de Kapitelen Bannemaart a Kompetitivitéit",
+          "summary": ""
+        },
+        "en": {
+          "title": "Firm message from Luxembourg: Maia Sandu confirms the opening of the Internal Market and Competitiveness chapters",
+          "summary": ""
+        },
+        "de": {
+          "title": "Bestimmte Botschaft aus Luxemburg: Maia Sandu bestätigt die Eröffnung der Kapitel Binnenmarkt und Wettbewerbsfähigkeit",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Message ferme du Luxembourg : Maia Sandu confirme l'ouverture des chapitres Marché intérieur et Compétitivité",
+          "summary": ""
         }
       }
     },
@@ -37673,6 +38457,35 @@
       }
     },
     {
+      "id": "1e964cf0ff06fa16af85e5a2d19d02b0ad69d7b0",
+      "title": "KPMG Luxembourg announces over 360 promotions and 20 senior appointments",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ29CRUdkNE5rYUx0elREQXk0OU9OOTduVnBmSF93WXQ1UmVBU2ZwdmswMExpamI3cnNVdmdXMGxvMnQyM0FSaW9DOWNOd3VpcWhib0VXMHVBbzNDNFhyQlZZMUl6dHo0WnQyWWJQN3I4bkxrbURHOEYyVHNDOGo1TGNGQWFfOWtBbXBiR2Y5WUhIVnQwOTVLV3NuQnBrcjZBWnpzNENMWlk3OThlYkUwdHo1TWQxcUM3ZnlyV3hLSnlBTWViaG8xMnJDbw?oc=5",
+      "source": "kpmg.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-07T11:26:13.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "KPMG Lëtzebuerg annoncéiert iwwer 360 Promotiounen an 20 Seniorennennungen",
+          "summary": ""
+        },
+        "de": {
+          "title": "KPMG Luxembourg gibt über 360 Beförderungen und 20 Ernennungen von Führungskräften bekannt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "KPMG Luxembourg annonce plus de 360 ​​promotions et 20 nominations à des postes de direction",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "9df7a2c584b7f77d89294f6bcc186619abf8f8d2",
       "title": "Luxemburg verwelkomt je op 14 oktober in Utrecht voor een inspirerend netwerkmoment",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFRWbGpKUm4yN0JrdWR6RVBLTXN5dXJPRzd4SHhQMWMzMXBCSDVPdE5CRzE2MFhvc2g4NHpZVDM5N3QxdmE5VkhZWmZrY2VyY1gwX09ULUxHd2pEU0lpRVV1LVhyV01wOFR0a0RtTWFrV2M3alB6WjNNS09pMTdRWUZfTkQ5RWZuWldJTC1PVGkxal83WWR2RjBJaENPaS1BSUxDWU13VW9kMnNXaEE?oc=5",
@@ -43647,6 +44460,68 @@
       }
     },
     {
+      "id": "248db2f6f1002d388451b18d83a11c42953f9423",
+      "title": "Luxembourg vs Bulgaria: UEFA Nations League stats & head-to-head",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWSDVDcnJwTFhnYmRwbGpUQjQtMHZyRHBTVm15M05qWGo5NDBLRTZpMXZrV1p5N3NDVW1hM2NBMFJJNGVYRmZPMzJKb2x5UWJjNEpLemhGMVFjZU1hTUVUUE5ERDktUQ?oc=5",
+      "source": "BBC",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg vs Bulgarien: UEFA Nations League Statistiken & Kapp zu Kapp",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg vs. Bulgarien: Statistiken und Direktvergleich der UEFA Nations League",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg vs Bulgarie : statistiques et face-à-face de l'UEFA Nations League",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "265058b9a9124616614eab22ed107e5d8752abb9",
+      "title": "Люксембург — Болгария: прогноз (кэф 2.45) 6 октября 2026",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85T01fMDNVX1YwN3l6djRDaVdhZmRuU0hKNmJiZEFVUmYzT09fUDB2RHFySTUzQmV5NjFwdEtMLWpObk1rRmplMVJhM0tLVzQ1enJxU0V1cl9XMEV6MV9GMjdVSndMRlNjY19nd3JZb2hieFZZVmlXeQ?oc=5",
+      "source": "Ставка ТВ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg - Bulgarien: Prognose (Chance 2,45) 6. Oktober 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg – Bulgarien: Prognose (Quote 2,45) 6. Oktober 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Bulgaria: forecast (odds 2.45) October 6, 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Bulgarie : prévision (cote 2,45) 6 octobre 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "ea4e826ce3b739185f951a438b96cfbfe61e1408",
       "title": "Προγνωστικά Λουξεμβούργο - Βουλγαρία 06/10/26",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9naWwyd0RNNE1qUTJaeElLcU1EdVg5ZHlHMnF0WFgxTFpnLWdqV19SS2l2LXMxQXNoWXZUWmVTTlhXWDA0MG4zUmdoOWk4cWZGTzBOUTVvSkh4d0ZieWpZLUV4OE9wX1hlVDJ2ZVg3Yw?oc=5",
@@ -46286,927 +47161,6 @@
         },
         "de": {
           "title": "Edmundo, Luxemburgo und Luis Fabiano: Sehen Sie, wie sich die Fußballspieler bei den Wahlen 2026 geschlagen haben",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b079fd6e556754909883b9852baed9a854b9deaa",
-      "title": "Pronostic Luxembourg Bulgarie : Ligue des Nations (06/10/2026) | Analyse IA",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOckFaM2p4QkZMXzhNTXZwQnk3Ui1RNFR4VGp0bjBUZi1RSDIxbW5xNThrTTR2aU9PaEdKeHFrUkpYYnc1c2toNFQtdlBCLTF4bHR6anhKQjRrbFhGSUpzNzE1alZBTGhUR3AyVzYzdVZBSEpvWW1NM29GYjgyVDJJbE5RMA?oc=5",
-      "source": "Paris Sportifs LeFigaro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-05T11:48:37.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Pronostic Luxembourg Bulgarie : Ligue des Nations (06/10/2026) | Analyse IA",
-          "summary": ""
-        },
-        "en": {
-          "title": "Pronostic Luxembourg Bulgaria : Ligue des Nations (06/10/2026) | Analysis IA",
-          "summary": ""
-        },
-        "de": {
-          "title": "Pronostic Luxembourg Bulgarien: Ligue des Nations (06.10.2026) | Analyse IA",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fa4e3487fbad818445f26c6133780a3379fc3fdf",
-      "title": "В Саранске 6 октября без воды останутся также и ЦТП на Ульянова и Р. Люксембург",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUU1yNHNKdjlqeEJPYmtUalNIaWRRSlF6VEZ3UlFaUUpxaTVwQTBwUzhiSlFnOTcyRXV1NGphUm1LZjYyN0pOWGhpMGRiUzYtYnhtY1oxRFd4QkpZR3ExV3Qxc3Q5bEZvNWxFUXd5T0V5OGFybExoWUR6UGp2VU1RTi1GcS1TdVQ3Rl9KVlN3cGVDXzBBekxObnFPZkJZTFpXZldOSzdDaUlYbmYxMldQZ1NUMU1ONmo0MU12RldFeHU?oc=5",
-      "source": "МордовМедиа",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-05T11:36:40.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Zu Saransk bleiwen de 6. Oktober och d’Zentralheizungsstatiounen op Ulyanova a R. Lëtzebuerg ouni Waasser.",
-          "summary": ""
-        },
-        "en": {
-          "title": "In Saransk, on October 6, central heating stations on Ulyanova and R. Luxembourg will also remain without water.",
-          "summary": ""
-        },
-        "de": {
-          "title": "In Saransk bleiben am 6. Oktober auch die Zentralheizungsstationen auf Ulyanova und R. Luxembourg ohne Wasser.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "A Saransk, le 6 octobre, les stations de chauffage centrales d'Oulianova et de R. Luxembourg resteront également sans eau.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8604e73d4e011a13408403c3851a1d9bd21c4da0",
-      "title": "Luxemburg - Bulgaria (UEFA NATIONS LEAGUE, Grupe Etp.4)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dENWdOQ1dqVlhtR0RHckxBYXo4cnRxdlVTMlNCUUFKU3NmckxLOTJ6WGdOQm9sUkpzcEVGNnE2bzB2NXJ3MjkyU01UOTByTm96b0ktR3dFMzNmb0s2TnVJUEZERzIyelNDYzBWcG1OZDZTMVZTUTQ1eTQzZDN3MlJSbGRRWGFxVzQ4S2h4UzRYWGpYU2VQLXFRYw?oc=5",
-      "source": "Digi Sport",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-05T10:33:15.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxemburg - Bulgarien (UEFA NATIONS LEAGUE, Grupe Etp.4)",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg - Bulgarien (UEFA NATIONS LEAGUE, Grupe Etp.4)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxemburg - Bulgaria (UEFA NATIONS LEAGUE, Grupe Etp.4)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Bulgarie (UEFA NATIONS LEAGUE, Grupe Etp.4)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4d9861f4b0b628f33ab5e9881c0c21c9bf4dd64b",
-      "title": "Union Remich / Bous – ігри 2026/2027 (Люксембург: Кубок Люксембургу ), розклад матчів на Tribuna.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXlvTk5QYmxoT1c1NVhNcFZtQU5XSWFBQ1g1aDBKYVZGNWJUeTRGWHZzbEd6WkZ5cThXQ2tUa3Ayc0h4bVNzTFJRQ2xVWmFidkp0WVh2dEFqekhJUUE2SWVVMzFhaE10YnFBN1c4NEh4M25GeERQNF90NVZUaURGR3J3U1V6d1I1NXBr?oc=5",
-      "source": "Tribuna.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-10-05T10:26:26.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Union Remich / Bous - Matcher 2026/2027 (Lëtzebuerg: Coupe de Luxembourg), Matcher op Tribuna.com",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Union Remich / Bous - matchs 2026/2027 (Luxembourg: Coupe du Luxembourg), à venir sur Tribuna.com",
-          "summary": ""
-        },
-        "en": {
-          "title": "Union Remich / Bous - games 2026/2027 (Luxembourg: Luxembourg Cup), fixtures on Tribuna.com",
-          "summary": ""
-        },
-        "de": {
-          "title": "Union Remich / Bous - Spiele 2026/2027 (Luxemburg: Luxemburger Pokal), Spielpläne auf Tribuna.com",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7c4443b0fcf2152f8494c05fcb48db7690c09c5c",
-      "title": "Ayla’s Adventures: A guide to Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjhnRDNUU0wxSWxtbjdseFFWS0NpdlUwcWZuZEljRmgxbUJiSXY2aTVYN244NWFSTEJia1RjZHFlbjNwMnAwbGU2VWF1SGR6R0tNblQyWGF1clhVdUFtQkFXTWZNM2wxdG9KWUgzZzlCZ2pSSFExanpoWHlTVmZpc1ZpbWw1MlFJUFI5bHVSOUFwZzRnYUNiU0c4Nlp4QQ?oc=5",
-      "source": "The Miami Student",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-05T10:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Aylas Abenteuer: Ein Reiseführer für Luxemburg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Ayla's Adventures: A Guide to Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les Aventures d’Ayla : Un guide du Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f699a983968f90b355f4452673b5699f12938f77",
-      "title": "香飘卢森堡！“峨眉雪芽”再出海！",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZSE0xblh0bWc5M2FwNjJGMm1XcFZqMWtIaVY0Y2lNVHFFUk1QQXFJQ0c3eGRzck5YZkVqTHQxOHFfNGpSVGtaUnhfbGVRMUFRbkRBOG8wSjFqNEY3QnlxRzVZbS0zTTJlS1A3NlpCRnRWdmRrcWtuYjVsZXE?oc=5",
-      "source": "finance.sina.com.cn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-05T09:38:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Parfüméierter Lëtzebuerg! \"Emei Snowya\" geet erëm op d'Mier!",
-          "summary": ""
-        },
-        "en": {
-          "title": "Fragrant Luxembourg! \"Emei Snowya\" goes to sea again!",
-          "summary": ""
-        },
-        "de": {
-          "title": "Duftendes Luxemburg! „Emei Snowya“ geht wieder zur See!",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg parfumé ! \"Emei Snowya\" reprend la mer !",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "86c6a84215a69cdf0720add048efb4194a790c68",
-      "title": "Spritpreise Luxemburg heute: Das kosten Benzin und Diesel am Montag, 5. Oktober 2026",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS19WR0Q5c1ZzU0JzVDFqR25KTEN5QnhYbGUwQ3pYWWdoeDdxQ181dEpCVGYtQnUya1ROWEotTXFUWVhXM0pkVVA4TFRqQU9GT0Z0MjdWS2ktVk12eUtDOTZ0ZXUtMzhrQWZyRTdRR3gwZldNMzk5WTM4NjhlRHlBejZR?oc=5",
-      "source": "lokalo.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-05T09:19:07.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Fuel prices in Luxembourg today: This is what petrol and diesel cost on Monday, October 5, 2026",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Brennstoffpräisser haut zu Lëtzebuerg: Dat kascht de Bensin an den Diesel e Méindeg, de 5. Oktober 2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Prix ​​des carburants au Luxembourg aujourd'hui : voici ce que coûtent l'essence et le diesel le lundi 5 octobre 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e3056a66a6ef0e12757d56e6ec264f7429006ca3",
-      "title": "Enzo Duarte makes first competitive start for Luxembourg with a whimper",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcnpQVlVJSkQxb01GVWdpbFVJazF6aXdJUEpIcU1rVDlqUHp3eXdkdGFSeWV4OFRKalgtbjNjWGw0djFiWnB1a01zZmFzZ1J2NXN3LXlUUWhqY1BMdkU5bVAtSWRtQmg0UTE3d1hxV245a25Jal80Sl80VTJ4cDJZY3Z3OHhOcXFnTmVXbmJ2eGVYOUFsUmM5NEFCRHFmbldOc3R5R2UteklhRUp6RFN0SnZTeVlKLVZ2WXFab3JRRllVV1g5R1RqRw?oc=5",
-      "source": "LiveScore",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-05T09:10:14.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den Enzo Duarte mécht den éischte Konkurrenzstart fir Lëtzebuerg mat engem Knascht",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Enzo Duarte fait son premier départ en compétition pour le Luxembourg en gémissant",
-          "summary": ""
-        },
-        "de": {
-          "title": "Enzo Duarte startet mit einem Wimmern zum ersten Wettkampfstart für Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8c48665f77ee799169aeb1b37625d0213cd6a9cf",
-      "title": "Strelia to close Luxembourg office, focus on Belgium",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRzAyd1BhbFNwMm1MMzNGVmJ4czRjMG1iNDZ4MnJxNUdSZlVLcG9TbzRLc185RWVHalBtbVdyWGwyc2RJREVmV2dER1VZMUY1NVQ0YlRCRTVZNVRiNUdDdlpuSUpGbjdoamlhTGdtVjNKQi0zOXF6RF9PTEduNUZTeVdtWUJZUmNKdEFFaWpjZnIzd3M?oc=5",
-      "source": "Leaders League",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-05T08:49:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Strelia mécht de Lëtzebuerger Büro zou, konzentréiert sech op d'Belsch",
-          "summary": ""
-        },
-        "de": {
-          "title": "Strelia schließt Büro in Luxemburg und konzentriert sich auf Belgien",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Strelia ferme son bureau au Luxembourg et se concentre sur la Belgique",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b8434f04270677cb5f1ce460714e88fb6e4e6ff9",
-      "title": "Люксембург - Болгария. 6 октября 2026 21:45",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQenhEazRNNDRjNVFBZGZUSk9HcUNSalhmcTFWY1lHNjhESTJHU0czaEFqWGQtN3dhYjh0S0tLbnZGSkFrMW5IOGZvdFVTSzRqVUgyczZtUkVSR1B4QU9BRzkxSHAxQTFnYUg0RmhLTlJKV3NvS1h4S2R1SWMtWTl1UXJWZEVQaDNGVmIwcm8tMjF3LV9QXzRJWmNYNA?oc=5",
-      "source": "Футбол России",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-05T08:29:24.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg - Bulgarien. 6. Oktober 2026 21:45",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Bulgaria. 6 October 2026 21:45",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg – Bulgarien. 6. Oktober 2026 21:45",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Bulgarie. 6 octobre 2026 21:45",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "40010d37939d86334a047da341bb5a1cb08dd9bc",
-      "title": "Luxemburg - Bulgarien på Viaplay imorgon 20:45",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJOEFfQVRrR3hKcUNtLXFzU2pUM1BUTXpFbW90SkNqSFNMbmdpVmx3bEtxU2lISzN6NVR0WE4yNEVJbVBVT3FNM3RybFBPN2c?oc=5",
-      "source": "TV.nu",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "sv",
-      "publishedAt": "2026-10-05T08:23:44.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg - Bulgarien op Viaplay muer 20:45",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Bulgaria on Viaplay tomorrow 20:45",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg – Bulgarien auf Viaplay morgen 20:45",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Bulgarie sur Viaplay demain 20h45",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "289c1dac5352ce7f10dff789b63e9cc982ce46d9",
-      "title": "Assises du Luxembourg : une période de 25 ans de sûreté ajoutée à la condamnation à perpétuité de Mohammed Taoussi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOHhXNU9ocXQxcDNxVW1UbnZjNXN4czN2RldTREgzeXFwalZ0c1VCdzlWVW9uZlNrem9XTjdCaW1MaUNKTDIzUmNvM1dmOWJrWFk5ZW9qbS1rN210anNENEVCSjkwaERRSnV3SWMwZ0ozaUhqZ2M5aGJoNVBFNDAzZTBEV05ZclBVSjUtQXQ1Y1NxYTR4a09sQzVFNXZ4UUxnMXo4R1huMXFjWFFRZGVzZ2ZGOEVjMEdGLU5QaDBOU3JvVmY0cWdzdk1VMklEb3FqLTgxOTYzZElkeGVpQURVZHl6UQ?oc=5",
-      "source": "RTBF",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-05T07:23:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg Assizes: a period of 25 years of security added to the life sentence of Mohammed Taoussi",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg Assizes: eng Period vu 25 Joer Sécherheet dobäi zum Liewensstrof vum Mohammed Taoussi",
-          "summary": ""
-        },
-        "de": {
-          "title": "Schwurgerichte in Luxemburg: Zur lebenslangen Haftstrafe von Mohammed Taoussi kommt eine 25-jährige Sicherheitsstrafe hinzu",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "843b1663f3156a35c897976cffc822d0a828ceeb",
-      "title": "普徠仕(盧森堡)系列基金－普徠仕全球焦點成長股票基金Q級別(美元) 的總覽| 鉅亨網- 基金老司機",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNX3F4SWQ2UExwaWxXWVFWN0tueTk5MjZtcnV6aXlDWU5EcGhqajlWd3ZTZWpzRzBGbDM0RVFvNFFGNEY4bTNQLWtrQ2J5MnNuWGkxaG1RZDFrd0FNbXZzZllES21uZWpIZ0szb2pNMHBQZGhvR2hUTGpTWW5ScXZRYmtYSkhmaTNQMHh6dGE3SHUzeE5BOGNhVHNXQ19odnB3TFpvY19wWDR4Mnd0QTRaUi1xRFNZV0ZsX1JZUHkycHdDTUlXamVIUXFiMkptWlg3RG4wUlRfblJLN3owVGxrcFUxRUYwSUtCVk5jXy1xT1J2RldVVTRNVUF0bnUyMGRLZkVDWVN2ZFpDWVVRaGhCd25fMnF2VWQ5eTF2MFhSOURYQndRRXNZa3NuUVBEX0wzNmc0VHR4NFFiaDBTUkwwR0xpNjRYTXg3RkhZNC1GNXZKa3Q3cnROd3RsREFELWdkTVNv?oc=5",
-      "source": "鉅亨網",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-05T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Iwwersiicht vun der Proximitéit (Lëtzebuerg) Serie Funds - Proximity Global Focus Growth Equity Fund Q Level (USD) | Juheng.com - Fonds Veteran",
-          "summary": ""
-        },
-        "en": {
-          "title": "Overview of Proximity (Luxembourg) Series Funds - Proximity Global Focus Growth Equity Fund Q Level (USD) | Juheng.com - Fund veteran",
-          "summary": ""
-        },
-        "de": {
-          "title": "Überblick über die Fonds der Proximity (Luxembourg) Series – Proximity Global Focus Growth Equity Fund Q Level (USD) | Juheng.com – Fondsveteran",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Présentation des fonds de la série Proximity (Luxembourg) - Proximity Global Focus Growth Equity Fund Q Level (USD) | Juheng.com - Vétéran du fonds",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e3570caf093416610abb76b1bf45250e1e2e24ef",
-      "title": "香飘卢森堡！“峨眉雪芽”再出海！|成都市|指画|非遗|峨眉山|文化",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNaWRWWEtIaHljNWV6SDViVU1RVW5ueHdEYTB1c2s3RE1HY3VrazNUUC01SG1TejdWLVJ6SmVaNlJiemE4QUFOenMyckVYN3pYVnAta3BIZXhxNlJXQXNaempLV1V1YlRZMzB3cmxJNC12WTFUMkZzeG5RVXBKblhoUTZ2cTNTUm5Bd2d0OVpxZlFaUnZoQnhrdXQyY3BydlNfRElnV3Z6U1Zka2tKNHg2Z2F6bmV1YkVzQ19ZODluaFFMWGRJZ19uSzBYYzViTmVtRkFXai1sVjdWcHZNYkM5ZDQzOXVzYkdVaTBiY29sc1JEcGhGOGNjUzV1di02Qm5jb1hyeDN5bmU2MG13bjAwam1VTFR0bUZDSnlmREpzNk05YTA?oc=5",
-      "source": "finance.sina.com.cn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-05T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Parfüméierter Lëtzebuerg! \"Emei Snowya\" geet erëm op d'Mier! |Chengdu Stad|Fangermolerei|Immateriellt kulturelle Patrimoine|Mount Emei|Kultur",
-          "summary": ""
-        },
-        "en": {
-          "title": "Fragrant Luxembourg! \"Emei Snowya\" goes to sea again! |Chengdu City|Finger Painting|Intangible Cultural Heritage|Mount Emei|Culture",
-          "summary": ""
-        },
-        "de": {
-          "title": "Duftendes Luxemburg! „Emei Snowya“ geht wieder zur See! |Stadt Chengdu|Fingermalerei|Immaterielles Kulturerbe|Berg Emei|Kultur",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg parfumé ! \"Emei Snowya\" reprend la mer ! |Ville de Chengdu|Peinture au doigt|Patrimoine culturel immatériel|Mont Emei|Culture",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "509bd8897efe17f20fb14a7df49dd7142edbe380",
-      "title": "資本集團新經濟基金(盧森堡)B(美元)-AUD 的總覽 | 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNU0pGdm5UaFdzZU82VTRSQzlfSDc2WTBITVg3a21PRXpheWJOcTR2UlJmWEdQVVkwYUVPUUxiUGpXemRmcThKaUZsSG9GU2NLQTRYZ3RhTmkyVk0zTkFsSHVtZmFMbXpXQzBSREc3NHFSWWVOeWJubEtoLVQzaVpEMXpySzh3Qkh6Ulh6QWdqODJseXk3Z0s2aWllZmJ0al9FWTBQSTFPY0ZmX0tlU1R6ZlNaemtZN1pqRDByWWRTSnVHbktUOGRPSjNscEdqcVVBaUJ3ZEx3SjR4U1RsR3JQdTh5LXRwS0xBSUxIWVYxV3MxaUxDQU1mV1Q2ck53SDNjcm9V?oc=5",
-      "source": "鉅亨網",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-05T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Iwwersiicht vun Capital Group New Economy Fund (Lëtzebuerg) B (USD) - AUD | Juheng.com",
-          "summary": ""
-        },
-        "en": {
-          "title": "Overview of Capital Group New Economy Fund (Luxembourg) B (USD) - AUD | Juheng.com",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Aperçu de Capital Group New Economy Fund (Luxembourg) B (USD) - AUD | Juheng.com",
-          "summary": ""
-        },
-        "de": {
-          "title": "Übersicht über den Capital Group New Economy Fund (Luxembourg) B (USD) - AUD | Juheng.com",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b891980976e502724dcf85920d04b648610af0f1",
-      "title": "Atenção, Benfica: suspenso, Barreiro deixa a seleção do Luxemburgo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFBsV1hETkp6VHVNNUg4cGtIeE10NGxsSk1nMXJDdEdZMFVieXFMRHZYY3k1cmNkcTM5ZjNUQ0RLZnhhV2NzWW9MSW8xVU5OWWIxcWFPSmxKWkZWRkp1RGxzN0U0MDFDZnhJZGtFb3Y2SmZlX1BpYV9WaHJjaGotd05JVzhlTkZHQnAxY1JXWlZvOVZmWVdFUS1DRkJMcF8wV2xUcGkwSG5RZEhXeFoyZFpzZWJlQQ?oc=5",
-      "source": "TVI",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-10-05T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Opgepasst, Benfica: suspendéiert, Barreiro verléisst d'Lëtzebuerger Equipe",
-          "summary": ""
-        },
-        "en": {
-          "title": "Attention, Benfica: suspended, Barreiro leaves Luxembourg team",
-          "summary": ""
-        },
-        "de": {
-          "title": "Achtung, Benfica: gesperrt, Barreiro verlässt das luxemburgische Team",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Attention, Benfica : suspendu, Barreiro quitte l'équipe du Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "af3f895c8ed011075207c06fd3de21bae47b66d4",
-      "title": "Песня Люксембурга на Евровидении — найди своего внутреннего ребенка и освободись от страхов",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSmpVcWpidE5lNEs3MHNzUEUtUEtYUmEwUzRtRE5SS1JJV3VBMWtUSjZBY0ZJV1UtcWhwVlVkSDNFaG91Z1hCRnhNeEdNQlJDQzNtYVFaY2FqcDJ0MmN3bkdjdURBekNoUW9aazRQT1hSaW9HRjFtWF9ITG9pOVdkdjVNTGtPd19lejl4ZDBQZVVtT2c1akJOeWJDUUdNSTNPVEhadzhnRTBraVBGakJUeGFleFdCcmxqQzhRTG16SU4yNUR4ak14U2ZEc2ltVlJWNlVqWEVveU50WDI2QmtJUmg2QkQzZw?oc=5",
-      "source": "LSM",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-05T06:59:08.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Eurovision Song - Fannt Äert bannescht Kand a befreit Iech vun Ängscht",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg's Eurovision song - find your inner child and free yourself from fears",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburgs Eurovision-Song – finden Sie Ihr inneres Kind und befreien Sie sich von Ängsten",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La chanson luxembourgeoise de l'Eurovision - trouvez votre enfant intérieur et libérez-vous de vos peurs",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f2e1c031590b293dcf522fa066e61ea454b2da00",
-      "title": "欧盟预计下周在卢森堡为乌克兰和摩尔多瓦开启两个谈判集群| Mezha",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JOEhpQTMxdUpSZjB1UVBSaU04MVY1eE5TdldhZl95b0liRm1SR1J5d1NmR3M3bEZVeDBGVjhyeFFDTm5DOFJ2WWxycHE4YzdQcllVUW1PRm1XaWZfRUJkU0FiMXo3b2JFNF84?oc=5",
-      "source": "mezha.net",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-05T06:46:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "L'UE devrait ouvrir deux groupes de négociations pour l'Ukraine et la Moldavie la semaine prochaine au Luxembourg | Meja",
-          "summary": ""
-        },
-        "en": {
-          "title": "EU expected to open two negotiating clusters for Ukraine and Moldova next week in Luxembourg | Mezha",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'EU erwaart d'nächst Woch zu Lëtzebuerg zwee Verhandlungscluster fir d'Ukrain a Moldawien opzemaachen | Mezha",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die EU wird voraussichtlich nächste Woche in Luxemburg zwei Verhandlungscluster für die Ukraine und Moldawien eröffnen | Mezha",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8daa863bee30cd3b454467f5b1a1470f3dcc4ec8",
-      "title": "Spanje, Portugal en Luxemburg eisen van Europa apart 2040-doel puur voor hernieuwbare energie - Solar & Storage Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVzl0aWRuUXVuTl9sVmhwYVFEbTBNemVjZmpiNTlKVlpGbU01VjAzbHJMeTZJaVllMEx0MWxMcGZybmxNNEg0Ny1PS0RzaVg0NjYtaUlZSENOS1VsQkkzeVFUTHFrdUJZenVzMXJQNG55azBwbUwxRHUwSld0UzR6MEFMR2ZZQU5DMEJvWktmOFdSd1VzSzU5akpOQTRCanBIZTBYY0VpeGJtdV9lanJFeElwdzZIMENtT2dCTE94NTRPZHFBdGwyRVY4MTN5bi1KUWVwdVVyVEsyaHloVUE?oc=5",
-      "source": "Solar &amp; Storage Magazine",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-10-05T06:24:13.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Spuenien, Portugal a Lëtzebuerg fuerderen en separat 2040 Zil vun Europa reng fir erneierbar Energien - Solar & Storage Magazine",
-          "summary": ""
-        },
-        "en": {
-          "title": "Spain, Portugal and Luxembourg demand a separate 2040 target from Europe purely for renewable energy - Solar & Storage Magazine",
-          "summary": ""
-        },
-        "de": {
-          "title": "Spanien, Portugal und Luxemburg fordern von Europa ein separates 2040-Ziel ausschließlich für erneuerbare Energien – Solar & Storage Magazine",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'Espagne, le Portugal et le Luxembourg exigent de l'Europe un objectif distinct pour 2040, uniquement pour les énergies renouvelables - Solar & Storage Magazine",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3fa82887547d55006822258aa087df6a4bb081c7",
-      "title": "Pre-match Luxembourg vs Bulgaria, UEFA Nations League Round 4",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWlptX3NRak1oWkdZNDFESWVJRk9VNEJ2TW9VcVRhUXNGdTI5c1ZITDUtX1BsWS1UVU5nWVhwdk1mZGVaeXY5WXVNMUtsMmo5TEVRX2pkRU5YRHBQVFlOMm42eVhHRnFDSDJTSDJUSWxtcjNwbnVqYjcxNkhDenVSSEprTnNaeWM?oc=5",
-      "source": "BeSoccer Livescore",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-05T06:23:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Pre-Match Lëtzebuerg vs Bulgarien, UEFA Nations League Round 4",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Avant-match Luxembourg-Bulgarie, 4e journée de l'UEFA Nations League",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vor dem Spiel Luxemburg gegen Bulgarien, Runde 4 der UEFA Nations League",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c004bdfa7ab3a0b2f59f2949a3bc570bfa17a799",
-      "title": "Tanken in Luxemburg heute: Was Benzin und Diesel am Montag kosten",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkxfa3NTbEdJazFCZ1NIMWRfZjc0VWtDSFVWUEY4T3RpbS1kS3BvS3RjYjhudlZxRmxxR0ZqMjAtMjdiTDhBS3hNQXVTN0lablpSZlpJQjBhQW9qSzRpT0tYTmg1RHVqOF9UblhkNTdTd0xBSnh6a0RUdEIxN3VnQlUxd2FMTGsxa2lwNnBRYTFXbUJ4Q2VMcElCNjcwX2xJeUljclBvQ19qeWM?oc=5",
-      "source": "SOL.DE",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-05T06:02:59.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Filling up in Luxembourg today: What petrol and diesel cost on Monday",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Faire le plein au Luxembourg aujourd'hui : combien coûtent l'essence et le diesel lundi",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Haut opfëllen zu Lëtzebuerg: Wat Bensin an Diesel e Méindeg kaschten",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "21575c71c94c45acbd5b17c5858f07248f6ef75d",
-      "title": "Люксембург – Болгария: кто победит в матче 4 тура Лиги наций 2026/2027",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeHFiN1MwMlFDVXlXWEhmNzN5eEkyR21URnVqYUswUmRROHZ0NG9pNjJhaG80OVFCZ2IxUFhDSWdXbkczMWQ3ZE9LRGlIa2taR0NJT2s3TXZfcEdJRXhhZF92OE1odE9KX2pYblFoRHB6Ymt2MlFkQ21wWVpIdFp3N1BwOVZBbm9kV2h1b0dleWJzNHZBMkx1Mmd0RUZ5MGMwaHVkeXh2RWtPZw?oc=5",
-      "source": "Бомбардир",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-05T05:58:03.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg – Bulgarien: wien gewënnt de 4. Ronnsmatch vun der Nations League 2026/2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg – Bulgaria: who will win the 4th round match of the Nations League 2026/2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg – Bulgarie : qui remportera le match du 4ème tour de la Ligue des Nations 2026/2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg – Bulgarien: Wer wird das Spiel der 4. Runde der Nations League 2026/2027 gewinnen?",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0b06138ea5da653931d2f41970014f05f7dab7e1",
-      "title": "Luxemburg – Bulgarien Speltips – Odds & Prognos – 06/10/2026",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVE94bkhuX3cwdklyU2ZmUHVIVk1VdVlaY01wTjZvOEdXZXl1Wllob3NiMW1lc3E2c0k5aGpTcDk2cnRrZ2tyd0lYN2NWd2dxWDlGY2pPWHlLMWN1VW9SdC1nV2ZQOG9jZHdEY2FTRmZyNTlsUVJfLVZ4elNsVndHNlA2TEhmR2o1SGc?oc=5",
-      "source": "toffeeweb.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "sv",
-      "publishedAt": "2026-10-05T05:47:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg - Bulgarien Tippspill - Chancen & Prognosen - 06/10/2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg - Bulgarien Wett-Tipps – Quoten und Vorhersagen – 06.10.2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Bulgaria Betting Tips - Odds & Predictions - 06/10/2026",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Bulgarie Conseils de paris - Cotes et pronostics - 10/06/2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c312d996c2d72dfa9b21b4de9c6c112e2c0d6d4b",
-      "title": "Ignacio Cires, el pamplonés que protege satélites: \"Desde Luxemburgo viajo por todo el mundo\"",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNjJkN3paYU1ORmwxc1FSbjdOQjhzbG9qcnhkaHM4RHFXS1JUaXF3WVdfY29ES1RKc2lLYkFrQ2xHd1lHQXU0d29ITExmUzBtZC1rVW5BVTBIaDRranFTVjNsQzF5a2c1dGxhT25lUUJuX3hrZGw2LUJtYU5QeUtfb1hjemxjYnp1eVphMWZ1aklvV29meUVBWFhiT2J6bWlqZFpUQmJwZWJRbm1QR0gxLVV4RG5iM2dtVjFmNHVxWHMyd29jaXpaa0tRSHBPNWprY0ZnWHItRVhGQ2Joa2tuSnFVdVBRX1lx?oc=5",
-      "source": "Diario de Navarra",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-05T05:40:26.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "tech"
-      ],
-      "translations": {
-        "de": {
-          "title": "Ignacio Cires, der Mann aus Pamplona, ​​der Satelliten schützt: „Von Luxemburg aus reise ich um die ganze Welt“",
-          "summary": ""
-        },
-        "en": {
-          "title": "Ignacio Cires, the man from Pamplona who protects satellites: \"From Luxembourg I travel all over the world\"",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Ignacio Cires, l'homme de Pampelune qui protège les satellites : \"Depuis le Luxembourg, je voyage dans le monde entier\"",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Ignacio Cires, de Mann vu Pamplona, ​​dee Satellitte schützt: \"Vun Lëtzebuerg reesen ech iwwer d'Welt\"",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c7b12c54b28f40aa98c898a37001da0e45c1d1bb",
-      "title": "Lüksemburg U17 - Ayrıntılı kadro 2025 (Galeri) | Sayfa 40",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlpYR2RuTzRNQlhsVV9BSURTQmxkUmZrNmJveF91ejdQczgxUlRHbW5mQ2syWnF0Qm9VTm1CQ2Z5ZDVGaERmTm52aTVrUE9vUzQ1cGFGVHdKeFM0eExCbnZXcXVQeVM1Q3NEa0k3QTlOOURFaGRDNERXUzNCSUZsVjhkM1lLb1E3UzMyQjhERXBsQ21peDJ5ejI4UDlJek5B?oc=5",
-      "source": "Transfermarkt",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-10-05T05:32:05.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Luxembourg U17 - Effectif détaillé 2025 (Galerie) | Page 40",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg U17 - Detailed squad 2025 (Gallery) | Page 40",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg U17 - Détailléiert Kader 2025 (Galerie) | Säit 40",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg U17 - Detaillierter Kader 2025 (Galerie) | Seite 40",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "65697256adbfb419f770d3b794a21e8067a19c07",
-      "title": "Βέλγιο/Λουξεμβούργο/Γαλλία",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWX2N6YlRGNEhYUnpiZmUtTWJXeC1CZ1BoMzN5MXNqMlZqcEN5ZG1ndmtmdjBZcE1IWDVaZFp3b3dsemxtcmhVOUhXelJDZnNWMVJVSk5zc0Q3bXRZQ0owdHUxdmFReXlURk5v?oc=5",
-      "source": "Cinemagazine",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-05T05:09:46.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Belgien/Luxemburg/Frankreich",
-          "summary": ""
-        },
-        "en": {
-          "title": "Belgium/Luxembourg/France",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Belgique/Luxembourg/France",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Belsch/Lëtzebuerg/Frankräich",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "764ac0f5b259cf41e8b75236b36a3a57abd5fa48",
-      "title": "Luxemburgo vs. Bulgaria por el Liga de Naciones 2026: día, hora y cómo seguir online",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUtHTmFyLVoyY1VuclUxTTdNa2pTTmlKNTBJM0JJbmI5VXBsMk5yNjQtYjlsTzIyWmY2VXJnMm9yTnhwTGc3VmxwQ0VqRnhQa0hCdDlLaDE1aXhsTXZRTHdKbm9hczhVMkJ6ZFBqS2tPQ1NuSWx6UTl1VndRODJ6NVAtWXBGcmxXcHJHRXJHNG5mNVBFMEVSTzdGX05lR2hkNEctVjJqRTVEdUphcjJ3SFJ1UkRKRmJKQ1VuRjI3UW5kbEd2a3JhdkM2dkxhVjZYdVY5RQ?oc=5",
-      "source": "La Nación",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-05T05:04:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Luxembourg vs Bulgarie pour la Ligue des Nations 2026 : jour, heure et comment suivre en ligne",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg vs. Bulgaria for the 2026 Nations League: day, time and how to follow online",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg gegen Bulgarien für die Nations League 2026: Tag, Uhrzeit und wie Sie online verfolgen können",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg géint Bulgarien fir d'Nations League 2026: Dag, Zäit a wéi een online verfollegt",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5b68fc27180b5552e67c1c6524f8eeacacd8e838",
-      "title": "Grand-Duché. Carburant : pas de pénurie au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV1VncS1WbzZLRkd4LVd1eHlCdDIxWGJ0b2hERUZqZUxNTGhSdXBkQXZrS2c1N25rbUZQQ0VzZVJ3TmIwVHdBRGFNblAtNFFTT21kMDZ5OE9qU0dIdThOQUxXTjUweWt3eWozNjZVazBWdktIZ3R3c0ZVYnh1cDQyT19CNW9Sb2g1cDVhYmRRQ2FnZm4wd3lfOFN3?oc=5",
-      "source": "Le Republicain Lorrain",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-05T04:30:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Grand Duchy. Fuel: no shortage in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Grand-Duché. Brennstoff: kee Mangel zu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Großherzogtum. Kraftstoff: In Luxemburg herrscht kein Mangel",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6a284ed6f913dd2427da0a816a34b86c3d51f8de",
-      "title": "Люксембург — Болгария: прогноз на матч 4-го тура Лиги наций, ставка за 2.25",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PZ3hVeGJjb3dwVHhxM0dvZTdOUVpsUDlmUUxkekhGTnp1NjAyY1ZOdDFPMnpWNjFzcXI5OEZWcm1QNWY3R2pKeXlLdjhxVW04MDJncElqeGlfNHpEQmJHbjdrNFNNX1l4bHV1d2xYbzg0TUl2?oc=5",
-      "source": "LiveSport.Ru",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-05T02:49:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg – Bulgarien: Prognose für das Spiel der 4. Runde der Nations League, Wette für 2,25",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Bulgaria: forecast for the match of the 4th round of the Nations League, bet for 2.25",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg - Bulgarien: Prognose fir de Match vun der 4. Ronn vun der Nations League, wetten op 2,25",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg - Bulgarie : pronostic pour le match du 4ème tour de la Ligue des Nations, pari à 2,25",
           "summary": ""
         }
       }
