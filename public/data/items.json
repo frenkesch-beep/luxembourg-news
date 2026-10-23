@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-10-22T23:25:40.850Z",
+  "generatedAt": "2026-10-23T04:52:40.624Z",
   "items": [
+    {
+      "id": "27c4e2de41d851a892803c6d727a3ef5c66bbc2e",
+      "title": "Etihad Airways Launches Nonstop Luxembourg-Abu Dhabi Flights, Expanding Connectivity to India and Asia",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LWVRmNGY3SVBkOUxLZ3dTS19sYXMyMWVOSC0yeWhVZ01RdHdDSGhMWEd3VVF5Mjl0bVU1ck9hTXFBVFFnLUp1Q3pUSVRIWDR3RmlrZml1T1BPUHZUSU1kVzlyM2ZDb1pTNmZkaFprVXpVcmxDRVNaUg?oc=5",
+      "source": "Hotelier Buzz",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-23T04:31:58.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Etihad Airways lancéiert Nonstop Lëtzebuerg-Abu Dhabi Flich, erweidert d'Konnektivitéit an Indien an Asien",
+          "summary": ""
+        },
+        "de": {
+          "title": "Etihad Airways führt Nonstop-Flüge von Luxemburg nach Abu Dhabi ein und erweitert damit die Konnektivität nach Indien und Asien",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etihad Airways lance des vols sans escale Luxembourg-Abu Dhabi, étendant ainsi sa connectivité vers l'Inde et l'Asie",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6756e2e45e2ac83d92545fd41273f0ec0967c010",
+      "title": "Suppression des Provinces: Coralie Bonnet, présidente du Collège: \"Je fais quoi avec ça, moi, Luxembourgeoise qui n'ai pas de grande ville?\"",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOdzBmQWRqS1NPRkVtbGNIMUZ1cF9weDVUd0pXQ1phTTExSjhZM09acFJYVWJEU0cyOEFSOGVYS1Fndk5DTEt4ZzhFelVPQW1DYzczVkVkNGRHbUZta0JfSGJKTzNzZTlrdzdRdDBsZ3R2THJYbml3OWVBUzBUc1RjWmxRbDJiU25HU2pDaHJUbGIzT2VMcVRUaHV2QjZWTmdhNC13RWJybGZVVDJ6VjNWUlFSdmpfWHcxaTFEeVJaTjZqRHB6N2FvbzZnang4WmV4MGJYamotSkJkQjJTVGlxMHdlZHRVODRNUWd5ZDNEd2VFUXdoNFVGTjZaMU5nUkZSTTNicWxOMUREUGFENVhKSHBHMTBVeVE2RGs0X2g0UlBYeHB5VjJwV0c5ZUpjdmhLLTdoMS1meXE?oc=5",
+      "source": "L'Avenir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-23T04:29:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Ënnerdréckung vun de Provënzen: Coralie Bonnet, Presidentin vum Kolléisch: \"Wat maachen ech domat, ech, e Lëtzebuerger, deen keng grouss Stad huet?\"",
+          "summary": ""
+        },
+        "en": {
+          "title": "Suppression of the Provinces: Coralie Bonnet, president of the College: \"What do I do with that, me, a Luxembourger who doesn't have a big city?\"",
+          "summary": ""
+        },
+        "de": {
+          "title": "Unterdrückung der Provinzen: Coralie Bonnet, Präsidentin des Kollegiums: „Was mache ich damit, ich, ein Luxemburger, der keine große Stadt hat?“",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "51b33d415bc12b050ad43bf51f990aaa19c9d21c",
       "title": "Harneys enhances Luxembourg practice with partner",
@@ -15,7 +73,20 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Harneys verbessert d'Lëtzebuerger Praxis mam Partner",
+          "summary": ""
+        },
+        "de": {
+          "title": "Harneys erweitert Luxemburger Praxis mit Partner",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Harneys améliore sa pratique luxembourgeoise avec un partenaire",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9785be69f0147c07f3bf44e60eb304430409da54",
@@ -31,7 +102,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fréier Studente vu véier Universitéite treffen sech zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Former students from four universities meet in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ehemalige Studierende von vier Universitäten treffen sich in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Des anciens étudiants de quatre universités se réunissent au Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "5d05a832d55cee0d663ffb3cb8a0238340166f84",
@@ -47,7 +135,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Das luxemburgische Parlament erklärte die Verantwortung für die Unterstützung der demokratischen Bestrebungen der Weißrussen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Lëtzebuerger Parlament huet d'Verantwortung erkläert fir déi demokratesch Bestriewunge vun de Wäissrusser z'ënnerstëtzen",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Luxembourg parliament declared responsibility for supporting the democratic aspirations of Belarusians",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Parlement luxembourgeois s'est déclaré responsable du soutien aux aspirations démocratiques des Biélorusses",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d0cec1a9138f0f9e29d6b47e902f86e3ecb81bcd",
@@ -63,7 +168,24 @@
       "topics": [
         "finance"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg léisst de Figo op der Bänk",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg leaves Figo on the bench",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg lässt Figo auf der Bank",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg laisse Figo sur le banc",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ad9031eb2b88d9efa52eada11c39a1beb2a737e5",
@@ -108,7 +230,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "FEFAC eröffnet Registrierung für die 70. Jahrestagung in Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'FEFAC mécht d'Umeldung op fir déi 70. Joresversammlung zu Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La FEFAC ouvre les inscriptions pour la 70ème réunion annuelle à Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "6b9464bee1a70951d1109a711c0ef34f7b4bb0d0",
@@ -157,7 +292,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D’SPREKER VUM GNAT, KURTULMUŞ, HALT ENG GEMENG PRESSEKONFERENS MAT DEM PRESIDENT VUM LËTZEBUERGERHAUS DER REPRESSENTATIV, WISELER.",
+          "summary": ""
+        },
+        "en": {
+          "title": "SPEAKER OF THE GNAT, KURTULMUŞ, HELD A JOINT PRESS CONFERENCE WITH THE PRESIDENT OF THE LUXEMBOURG HOUSE OF REPRESENTATIVES, WISELER.",
+          "summary": ""
+        },
+        "de": {
+          "title": "DER SPRECHER DER GNAT, KURTULMUŞ, HAT EINE GEMEINSAME PRESSEKONFERENZ MIT DEM PRÄSIDENTEN DES LUXEMBURGISCHEN REpräsentantenhauses, WISELER, AB.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "LE PRÉSIDENT DU GNAT, KURTULMUŞ, A TIENNÉ UNE CONFÉRENCE DE PRESSE CONJOINTE AVEC LE PRÉSIDENT DE LA CHAMBRE DES REPRÉSENTANTS DE LUXEMBOURG, WISELER.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "af0779ab6ca1342d479bcf6f2ae4ca26ca032c8d",
@@ -173,7 +325,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "++ FUELING IN LUXEMBOURG CURRENTLY: The price of diesel is going up - Super 98 cheaper ++",
+          "summary": ""
+        },
+        "fr": {
+          "title": "++ RAVITAILLEMENT AU LUXEMBOURG ACTUELLEMENT : Le prix du diesel augmente - Super 98 moins cher ++",
+          "summary": ""
+        },
+        "lb": {
+          "title": "++ DREIFUNG A LËTZEBUERG AKTUELL: Den Dieselpräis geet erop - Super 98 méi bëlleg ++",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "11b47e12e6c60a2350f46ca28bffacbe4318ed71",
@@ -796,6 +961,39 @@
         },
         "de": {
           "title": "Sprecher des luxemburgischen Parlaments: „Türkiyes Verteidigungsindustrie ist sehr stark“",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d6a479132c27a37a73393304cb31a6c49124d3c9",
+      "title": "În fruntea veniturilor disponibile: Luxemburg și Germania",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalJyd3Q4NDl4UzFmcDNtOFdKekVfWjQzaXlUbW9pV2hjWUltWmd6NHhRZTFXRjBNa1lCSGNsM0tubFF6cHZiZEVXYWpfb0luMGdGV2JQRTdGX2g1UUk3TFZ3MXVfMUhQdTl4MHFCVmRlYmNETjdTaTk4TGI4b3ZjY2JBM20zUHBjSFlTVl9BUnBYaFFSVXltT1M2TERSZjdKNUdRel8tdUwtUnlJTTRsOWdKb3ViWjdGbDRxVExZa3dTVlExZkE?oc=5",
+      "source": "TRUmedia.ro",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-10-22T12:45:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Un der Spëtzt vum disposibelen Akommes: Lëtzebuerg an Däitschland",
+          "summary": ""
+        },
+        "en": {
+          "title": "At the top of disposable income: Luxembourg and Germany",
+          "summary": ""
+        },
+        "de": {
+          "title": "An der Spitze des verfügbaren Einkommens: Luxemburg und Deutschland",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Au sommet du revenu disponible : le Luxembourg et l’Allemagne",
           "summary": ""
         }
       }
@@ -1972,6 +2170,35 @@
       }
     },
     {
+      "id": "9d8cc9dea201a0a24786a61c9740c649f021cef4",
+      "title": "++ TANKEN IN LUXEMBURG AKTUELL: Spritpreis für Super 95 geht runter!! ++",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUh0UDZiQjg1N29IOFpXY3VMMjJ5ZFcyazlyTERjSmhKRGkyUlNvSWlkN0hBZlg5ZGM3ZXZSX09WNVczY1Nvd0FjNWRfdGNQeFl3NXhibENkTkRjWlFNN255WGkwUFZaWFFWTnF2SVppdV9yQjU0UndOZ3lRTnpmTzR2aVVRZTV5U0ptR2FMOTZqVV9Ka0ZDbGlxQlpMME9JTUE?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-21T17:29:20.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "++ FUELING IN LUXEMBOURG CURRENTLY: Fuel prices for Super 95 are going down!! ++",
+          "summary": ""
+        },
+        "fr": {
+          "title": "++ RAVITAILLEMENT AU LUXEMBOURG ACTUELLEMENT : Les prix du carburant pour le Super 95 baissent !! ++",
+          "summary": ""
+        },
+        "lb": {
+          "title": "++ FUELING A LËTZEBUERG AKTUELL: D'Präisser fir de Super 95 ginn erof!! ++",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "3bfd75781d41aeeceef199e1b4768d85649cd1d4",
       "title": "Alexandre Najjar, un cèdre au Luxembourg",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMk1oUEtJVndzYUVjQW5NNl9yRllDWlQwd1hnUjF1ZDlFOHVfVjlDdk1ySUpVUlZHZE1FWmJUWkw0SjF2TmdmYzR2ZjFoS25yMGsyR0Rjem5QX213RTBYRFdWdkY5ZmNLWU5aRE5tR1JVV0d1Wk8tR3huOWxLVVBLckgyNkxZaWdyQ3lvZ2U4Nkx3dG5YSU5pWG5SSWU5ZzVtVWJvNEhNSVlZQlpjRUN3aEdISTI5SXBCcVB6LXVRS2U?oc=5",
@@ -2602,7 +2829,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Niki Kerameos vun EPSCO zu Lëtzebuerg: Déi dräi Erausfuerderunge fir den europäeschen Aarbechtsmaart",
+          "summary": ""
+        },
+        "en": {
+          "title": "Niki Kerameos from EPSCO in Luxembourg: The three challenges for the European labor market",
+          "summary": ""
+        },
+        "de": {
+          "title": "Niki Kerameos von EPSCO in Luxemburg: Die drei Herausforderungen für den europäischen Arbeitsmarkt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Niki Kerameos d'EPSCO au Luxembourg : Les trois défis du marché du travail européen",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0b289080ddd6f8440670543659eb6a0200e46096",
@@ -3744,7 +3988,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D'Rasha Sawas verwandelt arabesch Buschtawen a lieweg Konscht an der Kollektioun \"Kayan\" während der Lëtzebuerger Fashion Week 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Rasha Sawas turns Arabic letters into living art in the “Kayan” collection during Luxembourg Fashion Week 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Rasha Sawas transforme les lettres arabes en art vivant dans la collection « Kayan » lors de la Luxembourg Fashion Week 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Rasha Sawas verwandelt arabische Buchstaben in der „Kayan“-Kollektion während der Luxembourg Fashion Week 2026 in lebendige Kunst",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e59c53446957b2d04cf49594c01b22415be87f9d",
@@ -14695,6 +14956,39 @@
         },
         "de": {
           "title": "THE ECONOMY EDITORIAL – „Es ist eine Investition für Leute, die Angst haben“: Warum stürzen sich die Franzosen in die Lebensversicherung in Luxemburg?",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "16dcf518ba604621a77cb458d53b9e70e7fe3d68",
+      "title": "França-Luxemburgo | Informação do jogo | UEFA Sub-17 2027",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52TmpXRkZsY0x6SUxTMXZIOFBHQnd4ZVRmSzNlUmFtSVg4Q3loRUVqbkJRNU01MDkxZ0FQbGNUUEdpcnZkVW12TzJXdDVyNTVUV2hNNnNXYzZDUEpUb3BFSXBxRXlGbV95eUxWYnZoUzJNM2FUVWZrelNKbUxEWDg?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-15T04:26:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Frankräich-Lëtzebuerg | Spill Informatiounen | UEFA U17 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "France-Luxembourg | Informations sur le jeu | UEFA U17 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "France-Luxembourg | Game information | UEFA U17 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Frankreich-Luxemburg | Spielinformationen | UEFA U17 2027",
           "summary": ""
         }
       }
@@ -30329,6 +30623,39 @@
         },
         "fr": {
           "title": "Michaela Forelli de M&G Investment se rend au sommet de Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4c51b19b7f9f0e6e55783d40324b7521f785ca9f",
+      "title": "Luxemburgo vs Estónia | Informação do jogo | UEFA Sub-21 2027",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0FNRDNCb0IyQUhPeF82S0gzYXB5TkxLbWdlZkc4VzRDZmpSbG1IQ1lqbzZsVS1RWF9adWlqckpZVUVsaGtIbUhQcEQxQ2RrZV9UNXgwOS1DNUVJN0pPLW90am10Vm5YaWNwQWtiN2F3aFBfWmlxbldLeXBKNGdzVg?oc=5",
+      "source": "UEFA.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-10-12T02:24:06.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg x Estland | Spielinformationen | UEFA U21 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg x Estonia | Game information | UEFA U21 2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg x Estland | Spill Informatiounen | UEFA U21 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg x Estonie | Informations sur le jeu | UEFA U21 2027",
           "summary": ""
         }
       }
@@ -46811,204 +47138,6 @@
         },
         "fr": {
           "title": "Luxembourg - Bulgarie, 6 octobre 2026 - UEFA Nations League C - Rapport du match",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "eb7152ff7f613d7f5e2c6fd5c9cee6bf7d6226c1",
-      "title": "Lussemburgo-Bulgaria | UEFA Nations League 2027",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1ZDeEVzeUJkZUtsVEx1djhNdnIzV2FMYXQ4QXQ0YnEySjBUWndXRjFQaGttSmVRVDU3Y2EwZkFCNFJvZlpPNnlCN1BxSS1qTUd4QlgxTFQxMTZyc2VlMFRKWFpZelhfYzlzMEsxZERGWlhaUmFBTE9FYTNNNzVUSUd3?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg-Bulgarien | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Lussemburgo-Bulgaria | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lussemburgo-Bulgarien | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Lussembourg-Bulgarie | Ligue des Nations de l'UEFA 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8fed6229e61122e716558294ba86b15d01c1f3d2",
-      "title": "Люксембург-Болгария | Статистика | Лига наций УЕФА 2027",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLTlrc2NtczZoRUVQTnY5b1NiSmRQYVZTcDZPd2doN29Sc3dydlZpTWlNeGNncmx0OTZoc1pFUUlueWFSUjVYSXpqZzhYZXFWUEdvQjhDS1dvdkhwdS1QdnZQZk9zeHBTTC12QVRjYWZEQklFMWpfQzhQX1ZLZTdwX0ZKQUhhV0xyTU9wRV9RZTU?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg-Bulgarien | Statistiken | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg-Bulgarien | Statistik | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg-Bulgaria | Statistics | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg-Bulgarie | Statistiques | Ligue des Nations de l'UEFA 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "cdcf9ec322033db6b6cf0f7cd395450724fc2d67",
-      "title": "Lüksemburg - Bulgaristan canlı skor, H2H ve kadrolar",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfWWVvNkRrMEZKVVJWaEJ5QThiUmxVQ3QyN09HMG5OdTJoOVVrVF8tWE1OWlpCTUFFVFRKMlMxMmNvNmJzNGtCb0JXM285NDZWVGxMTXp3b1RmQWx6N1BsY19QTTRTcnBXRjlTaEpNN1R1bDdOX1M1OXhPRQ?oc=5",
-      "source": "Sofascore",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Résultats en direct de Luxembourg - Bulgarie, H2H et compositions",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg - Bulgarien Live Score, H2H a Formatiounen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Bulgaria live score, H2H and lineups",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg - Bulgarien Live-Score, H2H und Aufstellungen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "012efc063f06e4666fb6786f2805249f18d38803",
-      "title": "حضور القائم بالأعمال المؤقت مراسم حفل تنصيب الدوق الأكبر في لوكسمبورغ – سفارة جمهورية العراق في بروكسل",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qSzJjcDlRMTVBaGwyX056WFJpZ0ZMNEpZcFpTNVQzMUlKS2YtZzhuZWhvbFlndld5WC1pRmlmeWtrcVUwMk5JYWxQU18?oc=5",
-      "source": "وزارة الخارجية العراقية",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Der vorläufige Geschäftsträger nahm an der Einweihungszeremonie des Großherzogs in Luxemburg teil – der Botschaft der Republik Irak in Brüssel",
-          "summary": ""
-        },
-        "en": {
-          "title": "The interim Chargé d'Affaires attended the inauguration ceremony of the Grand Duke in Luxembourg - the Embassy of the Republic of Iraq in Brussels",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den Interim Chargé d'Affaires war bei der Aweiungszeremonie vum Grand-Duc zu Lëtzebuerg - der Ambassade vun der Republik Irak zu Bréissel",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Chargé d'Affaires par intérim a assisté à la cérémonie d'inauguration du Grand-Duc à Luxembourg - Ambassade de la République d'Irak à Bruxelles",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e3df38d989005907d1410f2834cc7a6a41d0adf3",
-      "title": "Luksemburg - Bułgaria wynik na żywo, H2H i składy",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02eFNnZ29sOHhJZWo2ZW8yS016RGZKc1N3cmxXMG1nRmozSVFPZTVjLTh5WmowTDVEX0tObFpPWExTQ0IxT1c3WV9ZYWhTVkd2MG9OWS1kcDVybzdSa1AyeGpkenpaNTlLejJFOVZDWVJWR0xPS0I0RVpHVQ?oc=5",
-      "source": "Sofascore",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg - Bulgarien Live Score, H2H a Formatiounen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg - Bulgaria live score, H2H and lineups",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Résultats en direct de Luxembourg - Bulgarie, H2H et compositions",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg - Bulgarien Live-Score, H2H und Aufstellungen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "cd6e9e86cbc2fe7bc8b23e31b83a465109435011",
-      "title": "Lussemburgo-Bulgaria | Statistiche | UEFA Nations League 2027",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOblBuWTB0SmR5ME14cE5GZ25TcGJrTzQtV0RfekJqTmVaUk9HMVdndjdYTTNvUnVTeUxGZ3lrLWJyWXhqLWhrbzc5U1BWQXF2NmZndGlKS2paanExLWpCRUdpNVE1NEFVeFRJeXpyVTViZlZYeG90TFBLTkhOb0Vtd0lPaGRZTmtreEFBU3RVSWM?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Luxembourg-Bulgarie | Statistiques | Ligue des Nations de l'UEFA 2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg-Bulgarien | Statistiken | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg-Bulgaria | Statistics | UEFA Nations League 2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg-Bulgarien | Statistik | UEFA Nations League 2027",
           "summary": ""
         }
       }
