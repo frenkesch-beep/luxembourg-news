@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-10-25T01:27:08.187Z",
+  "generatedAt": "2026-10-25T06:19:52.489Z",
   "items": [
+    {
+      "id": "11e5d8c7efd42732578d4d6da0dae9c3f708bfdc",
+      "title": "Luxembourg Tax Rankings | 2026 International Tax Index",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrX251MTF6ekEtekpUeGgzSVhzZ2ZYc2ktQThPcDBXZGI3Ym1nMnZxMGh6bnBULWpiUTk4TjE2SUlVTEt2WXl5MVFJTURsWGV4SjhiODl4dlc5LTN2a0FWWEdzeTQwbFZEckd5UkJ2TDVheWtkQUxCOA?oc=5",
+      "source": "Tax Foundation",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-25T00:02:01.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Classement fiscal luxembourgeois | Indice fiscal international 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger Steierranglëscht | 2026 International Steier Index",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburger Steuerrankings | Internationaler Steuerindex 2026",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "30b639fb8b5ae30e028f416d7ead55dfb4587c51",
       "title": "CS Fola Esch - FC Luxemburg City, 25.10.2026 - Ehrenpromotion - Spielbericht",
@@ -15,7 +44,20 @@
       "topics": [
         "sport"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "CS Fola Esch - FC Luxembourg City, October 25th, 2026 - Honorary promotion - Match report",
+          "summary": ""
+        },
+        "lb": {
+          "title": "CS Fola Esch - FC Luxembourg City, 25. Oktober 2026 - Éierepromotioun - Bericht vum Match",
+          "summary": ""
+        },
+        "fr": {
+          "title": "CS Fola Esch - FC Luxembourg City, 25 octobre 2026 - Promotion d'honneur - Rapport de match",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "bb44f845f32bcda97ed90d5d3c76054eb6c906a5",
@@ -31,7 +73,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Luxembourg du Rire 2027 : Roman Frayssinet et Marine Leonardi, premiers noms de la 8e édition à la Rockhal",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg du Rire 2027: Roman Frayssinet and Marine Leonardi, first names of the 8th edition at the Rockhal",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxembourg du Rire 2027: Roman Frayssinet und Marine Leonardi, die Vornamen der 8. Ausgabe in der Rockhal",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a3180735363ead5ba29522157a205442ec7d77eb",
@@ -47,7 +102,57 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "En outre, le secrétaire général du Parti et le président Rum ont tenu une réunion d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "In addition, Party Secretary General and President Rum held a meeting of Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Donieft haten de Partei-Generalsekretär a President Rum eng Versammlung vu vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Darüber hinaus veranstalteten Parteigeneralsekretär und Präsident Rum ein Treffen vietnamesischer Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "49d69668ceec94eb3e49654e27747eb36e41e3aa",
+      "title": "Skott på mål per 90 - Luxemburg statistik för UEFA Nations League C 2026/2027",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaEhSa2NJRTBQTmI2OHBWb0RsVWllMXNMbEl5U2tkbGt1UlRBbU5vOXVqMEdfOWJ4bFVJb0lPUUpTcXMwVHBMUklIdzduVHlmMHM1VlZ2ZndsR0NnSzQwb3ZCLVRWMFplUEJOOG1UU3NpMlhYeWl1UDZFYVd4QnVIS2Z5eXV6WmVITVhlNTI3dnF3WFY3YVZzd2R2M0JhNExRMDFNU0M2SlJlVzNjZUEwVTFsb3RDM2xYbEdyR1J1QQ?oc=5",
+      "source": "FotMob",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "sv",
+      "publishedAt": "2026-10-24T18:30:37.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "de": {
+          "title": "Torschüsse pro 90 – Luxemburg-Statistiken für die UEFA Nations League C 2026/2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tirs au but pour 90 - Statistiques du Luxembourg pour l'UEFA Nations League C 2026/2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Shots on goal per 90 - Luxembourg stats for UEFA Nations League C 2026/2027",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Schoss op Goal pro 90 - Lëtzebuerger Statistike fir d'UEFA Nations League C 2026/2027",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0b88629e6084090e9859554bed037448cec452f3",
@@ -63,7 +168,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Le foot luxembourgeois en direct",
+          "summary": ""
+        },
+        "en": {
+          "title": "Le foot Luxembourg en direct",
+          "summary": ""
+        },
+        "de": {
+          "title": "Zu Fuß nach Luxemburg direkt",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "fba33050aee7104fe087c6d1ef7747b1a0873689",
@@ -79,7 +197,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "[Foto] Der Generalsekretär und der Präsident treffen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "[Foto] De Generalsekretär an de President treffen sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Photo] The Secretary-General and the President meet with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "[Photo] Le Secrétaire général et le Président rencontrent des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c82d23533d18136fa26852c0e227c76827ef3ebb",
@@ -95,7 +230,24 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Portugisesche Filmfestival zu Lëtzebuerg huet zwee \"BOM DIA Documentaire\"",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das portugiesische Filmfestival in Luxemburg zeigt zwei „BOM DIA-Dokumentarfilme“",
+          "summary": ""
+        },
+        "en": {
+          "title": "Portuguese Film Festival in Luxembourg has two \"BOM DIA documentaries\"",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Festival du Film Portugais au Luxembourg présente deux documentaires \"BOM DIA\"",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b8d05583156d9973e94033ed2bf8a85879d25372",
@@ -111,7 +263,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Su Lin trifft sich mit vietnamesischen Experten und intellektuellen Vertretern aus Belgien und Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Su Lin meets with Vietnamese experts and intellectual representatives from Belgium and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Su Lin trefft sech mat vietnameseschen Experten an intellektuellen Vertrieder aus der Belsch a Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Su Lin rencontre des experts vietnamiens et des représentants intellectuels de Belgique et du Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "16ecba570f8b2b0e3c389e147ec8ef01e587ef69",
@@ -127,7 +296,20 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Intellektuellen an der Belsch, Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "51790a2e88182b9c5bdcb002f524b422dcf8589f",
@@ -143,7 +325,20 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trefft sech mat vietnameseschen Intellektuellen aus der Belsch, Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Intellektuellen aus Belgien und Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens de Belgique et du Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "2dcc5f2767d37506e71ca70545134b1e29a2582e",
@@ -159,7 +354,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D'Cargolux 747-8 Frachter Landung klappt zesummen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Cargolux 747-8 freighter landing gear collapses",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das Fahrwerk des Cargolux 747-8-Frachters bricht zusammen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le train d'atterrissage du cargo Cargolux 747-8 s'effondre",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4f1c6c2c35d1e3734d0d3e41e4aab1e43ece2451",
@@ -175,7 +387,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President Tu Lam treffen sech mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary-General and President Tu Lam meet with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et le président Tu Lam rencontrent des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident Tu Lam treffen sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c2051977555140efffa1c14429b73c91a5431123",
@@ -191,7 +420,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Un soldat du poste frontière de Rosa Luxemburg, dans le district d'Elsky, a parlé de son service à la frontière.",
+          "summary": ""
+        },
+        "en": {
+          "title": "A private at the Rosa Luxemburg border post in the Elsky district spoke about his service on the border.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "E Privatpersoun um Grenzposte Rosa Luxemburg am Quartier Elsky huet iwwer säi Service op der Grenz geschwat.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein Gefreiter am Grenzposten Rosa Luxemburg im Bezirk Elsky sprach über seinen Dienst an der Grenze.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b2cb773318be801dc3c6b993233fbc46bbcfa683",
@@ -207,7 +453,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President Thu Lam huet sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and President Thu Lam met with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président Thu Lam a rencontré des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident Thu Lam trafen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "dc31c06ab4fd74309c306c3dfaf1f07b4f7e936c",
@@ -223,7 +486,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Rúben Castro huet e Buch iwwer d'Sich no Doheem a gehéiert zu Lëtzebuerg presentéiert",
+          "summary": ""
+        },
+        "en": {
+          "title": "Rúben Castro presented a book about searching for home and belonging in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Rúben Castro stellte ein Buch über die Suche nach Heimat und Zugehörigkeit in Luxemburg vor",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Rúben Castro a présenté un livre sur la recherche d'un logement et d'appartenance au Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "2a131f8a33c188deb13677c8e27b45a85ada7957",
@@ -239,7 +519,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam haten Reunioune mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary-General and Chairman To Lam held meetings with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Vorsitzender To Lam hielt Treffen mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg ab.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam a rencontré des experts et des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "7e75a2436ad729c0851b466711f609a4f77e390d",
@@ -255,7 +552,57 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam meets with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "19a184ba5ca61ca20a220457ab82bb60a8842e68",
+      "title": "[Φωτογραφία] Ο Γενικός Γραμματέας και ο Πρόεδρος συναντώνται με Βιετναμέζους εμπειρογνώμονες και διανοούμενους στο Βέλγιο και το Λουξεμβούργο.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZTBJOFBKdzVHSFYyWDhkZTNmVEFheTNPVzR1MHFVTGhhQ1hSczA1dzJKbEhLSVhESzJPbFFwcU5STGFyTkFWQXlIcFppU1VvSmo5SWRWTDZfZFl0aWRqWUNfWkRKQ3YydVZUWThNaElib0VYVUlveFVOQU4tU0IteEJRc3I4TFVxa2JadHRGbUVPOUlEOHl3VmhGUWc1NHNGY1pTOExrTl9ZWnJvSDAxS09UcXlfMWV2QVE?oc=5",
+      "source": "Vietnam.vn",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-24T12:29:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "[Foto] De Generalsekretär a President treffen sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Photo] Secretary-General and President meet with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "[Photo] Le Secrétaire général et le Président rencontrent des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "[Foto] Generalsekretär und Präsident treffen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "bf186ad7b98d49dac14db1147e9f8c55f3d7f40b",
@@ -271,7 +618,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft vietnamesische Intellektuelle in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and President To Lam meets Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam begéint vietnamesesch Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "486aa7c127ad90259b5879e53e09c692e92d3c51",
@@ -287,7 +651,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Liewensversécherung zu Lëtzebuerg: wann d'Angscht vun de Spuerer Investitiounsverkeefer Gléck bréngt",
+          "summary": ""
+        },
+        "en": {
+          "title": "Life insurance in Luxembourg: when the fear of savers brings happiness to investment sellers",
+          "summary": ""
+        },
+        "de": {
+          "title": "Lebensversicherung in Luxemburg: Wenn die Angst der Sparer den Anlageverkäufern Glück bringt",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "bce36eed33bd2ed1bd0a497e239f3cdaa5982fbf",
@@ -303,7 +680,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "[Foto] Der Generalsekretär und der Präsident treffen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Photo] The Secretary General and the President meet with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "[Foto] De Generalsekretär an de President treffen sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "[Photo] Le Secrétaire Général et le Président rencontrent des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c870972dea7f9e39b08afec86fd0b03d2a550280",
@@ -319,7 +713,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President Thu Lam huet sech mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and President Thu Lam met with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident Thu Lam trafen sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président Thu Lam a rencontré des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4b2e29f0ea5c6252969aba987700aecd770fb42a",
@@ -335,7 +746,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "[Foto] Der Generalsekretär und Vorsitzende trafen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Photo] The Secretary General and Chairman met with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "[Foto] De Generalsekretär a President huet sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "[Photo] Le Secrétaire Général et le Président ont rencontré des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3714db0a42114c52589935ebc2e0f89853694178",
@@ -351,7 +779,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam met with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam a rencontré des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "7f3a11fa7d73f7555cd055f861dd2c4ded226333",
@@ -367,7 +812,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "[Foto] De Generalsekretär an de President treffen sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "[Foto] Der Generalsekretär und der Präsident treffen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "[Photo] Le Secrétaire général et le Président rencontrent des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Photo] The Secretary-General and the President meet with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b17feea11754d8f5a46e3346b9d2d778ccf2d3df",
@@ -383,7 +845,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "[Foto] Der Generalsekretär und der Präsident trafen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Photo] The Secretary General and the President met with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "[Foto] De Generalsekretär an de President hu sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "[Photo] Le Secrétaire Général et le Président ont rencontré des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "182096710aed6bd352f1dc1a6b0baa17e8da4c7d",
@@ -399,7 +878,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D'Generalsekretärin a Presidentin Su Lin hunn sech mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président Su Lin a rencontré des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and President Su Lin met with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident Su Lin trafen sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d53c77fa41a8230ca1f6d42d8b15bfa7fe97d1a6",
@@ -415,7 +911,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Vertreter To Lam traf sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and Representative To Lam met with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a Vertrieder To Lam huet sech mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et représentant To Lam a rencontré des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ef07aeb8c9a5839f489b37ed4bcc327486ceb71e",
@@ -431,7 +944,20 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3c0e461957562bade7bade4d9d23c06a6a2846ec",
@@ -447,7 +973,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär vun der Kommunistescher Partei vu Vietnam Zentralkomitee a President Su Lin hu sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Generalsekretär des Zentralkomitees der Kommunistischen Partei Vietnams und Präsident Su Lin traf sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary of the Communist Party of Vietnam Central Committee and President Su Lin met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général du Comité central du Parti communiste vietnamien et président Su Lin a rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "bdcefed1ca54e1f8d0384c4881c8046dbf24049a",
@@ -463,7 +1006,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "[Foto] De Generalsekretär an de President treffen sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "[Foto] Der Generalsekretär und der Präsident treffen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Photo] The Secretary General and the President meet with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "[Photo] Le Secrétaire Général et le Président rencontrent des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "f06bbfc1448f0089f9cdfb17a563b84465de343e",
@@ -479,7 +1039,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam begéint vietnamesesch Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and Chairman To Lam meets Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Vorsitzender To Lam trifft vietnamesische Experten und Intellektuelle in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ae170fc4019460d39565dbd47e71500664888ee9",
@@ -495,7 +1072,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam meets with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4412f129c7e977de63ac5970d44132279424816f",
@@ -511,7 +1105,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam traf sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and President To Lam met with Vietnamese experts and intellectuals in Belgium and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam a rencontré des experts et intellectuels vietnamiens en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a3496041a0572559847d725e0522a8d6d48b3872",
@@ -527,7 +1138,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and President To Lam met with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam a rencontré des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0c50c42ad8a0e2b16a6771c7ccd77561374bb4f4",
@@ -543,7 +1171,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and President To Lam meets with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ce87a3dd44c90aaf18376d33547982a89736b1cf",
@@ -559,7 +1204,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam met with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et le président To Lam ont rencontré des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3418601f010b2beead347d4cd49cdf937a410948",
@@ -575,7 +1237,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "[Photo] Le Secrétaire général et le Président rencontrent des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "[Photo] Secretary-General and President meet with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "[Foto] Generalsekretär und Präsident treffen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "[Foto] Generalsekretär a President treffen sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "5e2909772dc82074a9016e4beb15874e3184246e",
@@ -591,7 +1270,20 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam meets with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a65de6e5475a7ea1a323f61b083647b4c66124d8",
@@ -607,7 +1299,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and President To Lam meets with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c186057228db5c2ea5d004d4742434c8957a959c",
@@ -623,7 +1332,20 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Secretary-General and President To Lam meets with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "320f6474b8d9862f64a702fcb7afffcb1b381c64",
@@ -639,7 +1361,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft vietnamesische Experten und Intellektuelle in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam meets Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam begéint vietnamesesch Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "dbd24c68bf1021a0b53167a559ec68673d84f76b",
@@ -655,7 +1394,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Secrétaire général et le Président To Lam ont rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "dd419b59bf101d2ebf2e023a6ba13f054addf885",
@@ -671,7 +1427,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Secrétaire général et le Président To Lam ont rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "804c641eae90a798161832d6727082098c84745e",
@@ -687,7 +1460,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and President To Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam a rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c08006d98687886d37502fd8a1eae22a8a342cb8",
@@ -703,7 +1493,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Le Secrétaire général et le Président To Lam ont rencontré des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary-General and President To Lam met with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam hunn sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "52e6170cd0816db9ca8bee8290bc3ab053b01e25",
@@ -719,7 +1526,20 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Secretary General and President To Lam meets Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft vietnamesische Intellektuelle in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam begéint vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "50d02103140dc38d78e2d72bb10f378d4ce7b4f1",
@@ -735,7 +1555,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam meets with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3235d76296df3a71a94c8deae9b77b21e948d5e6",
@@ -751,7 +1588,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Le Secrétaire général et le Président To Lam ont rencontré des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam hunn sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary-General and President To Lam met with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9851f58398c676b598404e00e1c4e051e837110b",
@@ -767,7 +1621,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam meets with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "853ed89377cb38d9d6a49e289d56fec27ae5e04a",
@@ -783,7 +1654,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President Tho Lam hunn sech mat vietnameseschen Experten an intellektuellen Vertrieder an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary-General and President Tho Lam met with Vietnamese experts and intellectual representatives in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Secrétaire général et président Tho Lam a rencontré des experts et des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident Tho Lam trafen sich mit vietnamesischen Experten und intellektuellen Vertretern in Belgien und Luxemburg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "1d324ac7d70edf1886996bf8bd2c3d7ab846e636",
@@ -799,7 +1687,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Spitzenführer To Lam trifft vietnamesische Experten und Intellektuelle in Belgien und Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Top Leader To Lam begéint vietnamesesch Experten, Intellektuellen an der Belsch, Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le dirigeant suprême To Lam rencontre des experts et des intellectuels vietnamiens en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "be39edcf68a1f5cecdccaee19ebd1c13f4025dad",
@@ -815,7 +1716,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam meets with Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "75be024cd2e9bc5f5456a03e1611b40d68998180",
@@ -831,7 +1749,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Vorsitzender To Lam trifft vietnamesische Intellektuelle in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and Chairman To Lam meets Vietnamese intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam begéint vietnamesesch Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "182869d065b76163d4bdf18631b9a3764a33397b",
@@ -847,7 +1782,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam meets with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0fc3cefd788cd2f58f36a719135505231e1ac4dd",
@@ -863,7 +1815,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President Tu Lam treffen sech mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et le président Tu Lam rencontrent des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident Tu Lam treffen sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary-General and President Tu Lam meet with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b28a0a25bef0b20985497c78ed64a266ce249d74",
@@ -879,7 +1848,24 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Le Jardin du Luxembourg sera exceptionnellement fermé ce samedi 24 octobre en raison de manifestations.",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Luxembourg Garden will be exceptionally closed this Saturday, October 24, due to demonstrations.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Lëtzebuerger Gaart wäert dëse Samschdeg, de 24. Oktober aussergewéinlech zou sinn, wéinst Demonstratiounen.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Aufgrund von Demonstrationen bleibt der Jardin du Luxembourg an diesem Samstag, dem 24. Oktober, ausnahmsweise geschlossen.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9a56c6e59d062d9b78f12571cea8243171bbe0d7",
@@ -895,7 +1881,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Lëtzebuerger Gaart wäert dëse Samschdeg 24. Oktober aussergewéinlech zou sinn wéinst de Manifestatiounen.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Aufgrund der Demonstrationen bleibt der Jardin du Luxembourg an diesem Samstag, dem 24. Oktober, ausnahmsweise geschlossen.",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Luxembourg Garden will be exceptionally closed this Saturday 24 October due to the demonstrations.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Jardin du Luxembourg sera exceptionnellement fermé ce samedi 24 octobre en raison des manifestations.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ddecd9e725c75a85458c9752f2ddbaa108f0a076",
@@ -911,7 +1914,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Aufgrund von Demonstrationen bleibt der Jardin du Luxembourg an diesem Samstag (24. Oktober) vorübergehend geschlossen",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Luxembourg Gardens will be temporarily closed this Saturday (October 24) due to demonstrations",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Gäert vu Lëtzebuerg sinn dëse Samschdeg (24. Oktober) wéinst Demonstratiounen temporär zou",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le jardin du Luxembourg sera temporairement fermé ce samedi 24 octobre en raison de manifestations",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d8a4cf89def110f60ffee3d8c9d359171ab91823",
@@ -927,7 +1947,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Secrétaire général et le Président To Lam ont rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c6e0ac9da3f5830a01cb97f51aaee548c301a4f5",
@@ -943,7 +1980,20 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Secretary-General and President To Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Secrétaire général et le Président To Lam ont rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d80f3501a8ab333d62b90cc22e9396d905a7503f",
@@ -959,7 +2009,20 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam a rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "969465b834e008db42ff931514aba7930df04d78",
@@ -975,7 +2038,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Vorsitzender To Lam traf sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "General Secretary and Chairman To Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam a rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "cc5d726b258cb4b152cb523840639381181278ee",
@@ -991,7 +2071,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Le Secrétaire général et le Président Tu Lam ont rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident Tu Lam trafen sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary-General and President Tu Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President Tu Lam hunn sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "052be5ca4ce69d1698322f6963fa920271834ba0",
@@ -1007,7 +2104,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Secrétaire général et le Président To Lam ont rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary-General and President To Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "53dd5a88aae179df803f7ccc02879784024bd6c0",
@@ -1023,7 +2137,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Generalsekretär a President To Lam trëfft mat vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trifft sich mit vietnamesischen Experten und Intellektuellen in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le secrétaire général et président To Lam rencontre des experts et intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam meets with Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "96935a4f3920eff20f75abfe452126fd7091b319",
@@ -1039,7 +2170,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Le Secrétaire général et le Président To Lam ont rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "79f22b17f0db9e014eaf74b813db6d596693ae10",
@@ -1055,7 +2203,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Secrétaire général et le Président To Lam ont rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "f84ed70a96aff2272f4eef4dd1967c8aed456cc6",
@@ -1071,7 +2236,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Generalsekretär und Präsident To Lam trafen sich mit Vertretern vietnamesischer Experten und Intellektueller in Belgien und Luxemburg.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Generalsekretär a President To Lam huet sech mat Vertrieder vu vietnameseschen Experten an Intellektuellen an der Belsch a Lëtzebuerg getraff.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Secrétaire général et le Président To Lam ont rencontré des représentants d'experts et d'intellectuels vietnamiens en Belgique et au Luxembourg.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Secretary General and President To Lam met with representatives of Vietnamese experts and intellectuals in Belgium and Luxembourg.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9275b569ccc73b2225ee77bff480520ad5497e8b",
@@ -1087,7 +2269,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Hochrangiges Gipfeltreffen im Innenministerium! Minister Çiftçi empfing den Präsidenten des luxemburgischen Parlaments",
+          "summary": ""
+        },
+        "en": {
+          "title": "High Level Summit at the Ministry of Internal Affairs! Minister Çiftçi Hosted the Speaker of the Luxembourg Parliament",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Héichniveau Sommet am Inneministère! De Minister Çiftçi huet de President vum Lëtzebuerger Parlament gehost",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Sommet de haut niveau au ministère de l'Intérieur ! Le ministre Çiftçi a reçu le président du Parlement luxembourgeois",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a6469f885ebbf47e34c5cde63da8a21ae1bb26d6",
@@ -1103,7 +2302,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 27",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Galerie de la Bibliothèque Nationale du Luxembourg / Bolles + Wilson + WW+ architektur + management - 27",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gallery of National Library of Luxembourg / Bolles + Wilson + WW+ architektur + management - 27",
+          "summary": ""
+        },
+        "de": {
+          "title": "Galerie der Nationalbibliothek Luxemburg / Bolles + Wilson + WW+ Architektur + Management - 27",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "960b5f241a104b22b80d2f8349053e3e4d61a5ec",
@@ -1119,7 +2335,20 @@
       "topics": [
         "travel"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Fuel prices Luxembourg today: This is what petrol and diesel cost on Saturday, October 24th",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffpräisser Lëtzebuerg haut: Dat kascht de Bensin an den Diesel Samschdeg, 24. Oktober",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​des carburants au Luxembourg aujourd'hui : voici ce que coûtent l'essence et le diesel le samedi 24 octobre",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "df2d923d6683bdd3f6061804e09e55d8d30b4a10",
@@ -1135,7 +2364,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Jardin du Luxembourg wäert dëse Samschdeg, 24. Oktober aussergewéinlech zou sinn, wéinst de Manifestatiounen",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Jardin du Luxembourg will be exceptionally closed this Saturday, October 24, due to the demonstrations",
+          "summary": ""
+        },
+        "de": {
+          "title": "Aufgrund der Demonstrationen bleibt der Jardin du Luxembourg an diesem Samstag, dem 24. Oktober, ausnahmsweise geschlossen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Jardin du Luxembourg sera exceptionnellement fermé ce samedi 24 octobre en raison des manifestations",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "8241d640c638565856c0e5c1a9eb7e406d52a4ab",
@@ -1151,7 +2397,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Lëtzebuerger Gaart ass wéinst den Demonstratioune Samschdeg, 24. Oktober aussergewéinlech zou",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Luxembourg Garden will be exceptionally closed on Saturday, October 24, due to the demonstrations",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Jardin du Luxembourg sera exceptionnellement fermé le samedi 24 octobre en raison des manifestations",
+          "summary": ""
+        },
+        "de": {
+          "title": "Aufgrund der Demonstrationen bleibt der Jardin du Luxembourg am Samstag, 24. Oktober, ausnahmsweise geschlossen",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "6c315f7aa1b81f8ea9392cbd336b716c64e09ffc",
@@ -1167,7 +2430,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Euskadi se rend chez Agrifish au Luxembourg pour conclure un accord partiel sur la PAC 2027",
+          "summary": ""
+        },
+        "de": {
+          "title": "Euskadi besucht Agrifish in Luxemburg, um eine Teilvereinbarung über die GAP 2027 abzuschließen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Euskadi goes to Agrifish in Luxembourg to close a partial agreement on the 2027 CAP",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Euskadi geet op Agrifish zu Lëtzebuerg fir en Deelaccord iwwert de CAP 2027 zouzemaachen",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3bb208efe3b1945b1a9fab842a98b5343bde4ee7",
@@ -1183,7 +2463,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Euskadi besucht Agrifish in Luxemburg, um eine Teilvereinbarung über die GAP 2027 abzuschließen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Euskadi geet op Agrifish zu Lëtzebuerg fir en Deelaccord iwwert de CAP 2027 zouzemaachen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Euskadi se rend chez Agrifish au Luxembourg pour conclure un accord partiel sur la PAC 2027",
+          "summary": ""
+        },
+        "en": {
+          "title": "Euskadi goes to Agrifish in Luxembourg to close a partial agreement on the 2027 CAP",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a23fc8644c28084fe81254b6dad82c58e76aad04",
@@ -1199,7 +2496,24 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Den Euskadi bedeelegt sech um \"Agrifish\" zu Lëtzebuerg fir bis 2027 en partiell Accord iwwert de CAP z'erreechen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Euskadi beteiligt sich an „Agrifish“ in Luxemburg, um bis 2027 eine Teilvereinbarung über die GAP zu erzielen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Euskadi participates in 'Agrifish' in Luxembourg to achieve a partial agreement regarding the CAP by 2027",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Euskadi participe à « Agrifish » au Luxembourg pour parvenir à un accord partiel sur la PAC d'ici 2027",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d4b7c824c8d1d9197a9abe834d2f6f93ae05ffc6",
@@ -1215,7 +2529,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Die Knights of Luxembourg und der Ägypter „Bettendorf Waldahan“ gewannen die Fünf-Sterne-Runden bei Longines International in Kairo.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les Chevaliers luxembourgeois et l'Égyptien « Bettendorf Waldahan » ont remporté les épreuves cinq étoiles au Longines International du Caire.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Knights of Luxembourg and Egypt's \"Bettendorf Waldahan\" won the five-star rounds at Longines International in Cairo.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Ritter vun de Lëtzebuerger an Ägypten \"Bettendorf Waldahan\" hunn d'Fënnefstäre-Ronn op Longines International zu Kairo gewonnen.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "483cf0c600041eb4e48d686c8fd622555745d81b",
@@ -1233,7 +2564,24 @@
         "eu",
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Amaia Barredo participera les 26 et 27 octobre au Conseil Agriculture et Pêche de l'Union européenne à Luxembourg - Gouvernement Basque",
+          "summary": ""
+        },
+        "en": {
+          "title": "Amaia Barredo will participate on October 26 and 27 in the Agriculture and Fisheries Council of the European Union in Luxembourg - Basque Government",
+          "summary": ""
+        },
+        "de": {
+          "title": "Amaia Barredo wird am 26. und 27. Oktober am Rat „Landwirtschaft und Fischerei“ der Europäischen Union in Luxemburg – baskische Regierung – teilnehmen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Amaia Barredo wäert de 26. a 27. Oktober um Landwirtschafts- a Fëschereirot vun der Europäescher Unioun zu Lëtzebuerg deelhuelen - Baskesch Regierung",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c8d0bacdff42d099a52bffb833c672f5ff277904",
@@ -1249,7 +2597,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Católica startete im Rahmen einer Partnerschaft mit Escala Treffen in Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Católica started meetings in Luxembourg as part of a partnership with Escala",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Católica huet Versammlungen zu Lëtzebuerg am Kader vun enger Partnerschaft mat Escala ugefaangen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Católica a commencé ses rencontres au Luxembourg dans le cadre d'un partenariat avec Escala",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a473a93b28311480a88fac66e90d0968959afb74",
@@ -1265,7 +2630,20 @@
       "topics": [
         "travel"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Bensinpräisser zu Lëtzebuerg sinn däitlech méi niddreg: Dat kascht de Moment de Bensin an den Diesel",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fuel prices in Luxembourg are significantly lower: This is what petrol and diesel currently cost",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les prix des carburants au Luxembourg sont nettement inférieurs : c’est ce que coûtent actuellement l’essence et le diesel",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "44b8c16630955904eea8169b80b57875e443a479",
@@ -1281,7 +2659,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "« Moien ! Äddi ! Vilmools merci... », trois heures pour faire ses premiers pas en Luxembourgeois",
+          "summary": ""
+        },
+        "de": {
+          "title": "„Morgen! Tschüss! Vilmools merci...“, drei Stunden, um seine ersten Schritte in Luxemburg zu machen",
+          "summary": ""
+        },
+        "en": {
+          "title": "\" Morning ! Bye ! Vilmools merci... », three hours to make his first steps in Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "8cf9d8de8961486d51912e604c2466961a3430cc",
@@ -1297,7 +2688,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg, Wuelbefannen an der Natur, Wéngerten an nei Openthalt",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg, well-being among nature, vineyards and new stays",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg, bien-être entre nature, vignobles et nouveaux séjours",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg, Wohlbefinden inmitten der Natur, Weinberge und neue Aufenthalte",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a4e113bb3a0f369a7f27669339aad33c5d365e04",
@@ -1313,7 +2721,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Mustafa Çiftçi traf sich mit dem Sprecher des luxemburgischen Parlaments",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Mustafa Çiftçi a rencontré le président du parlement luxembourgeois",
+          "summary": ""
+        },
+        "en": {
+          "title": "Mustafa Çiftçi met with the speaker of the Luxembourg parliament",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Mustafa Çiftçi huet sech mam President vum Lëtzebuerger Parlament getraff",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4cbe2d93f416b2a2f85b55676adcd2d37480fbff",
@@ -1329,7 +2754,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Amaggi Luxembourg International S.à r.l. Ukënnegt Verfall a Resultater vu senger Cash Tender Offer fir bis zu US $ 300 Milliounen aggregéiert Haaptbetrag vu senge 5.250% Notizen wéinst 2028",
+          "summary": ""
+        },
+        "de": {
+          "title": "Amaggi Luxembourg International S.à r.l. gibt den Ablauf und die Ergebnisse seines Barangebots für einen Gesamtnennbetrag seiner 5,250 %-Schuldverschreibungen mit Fälligkeit im Jahr 2028 in Höhe von bis zu 300 Millionen US-Dollar bekannt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Amaggi Luxembourg International S.à r.l. annonce l'expiration et les résultats de son offre publique d'achat en espèces pour un montant en capital global pouvant atteindre 300 millions de dollars américains de ses billets à 5,250 % échéant en 2028",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0e3ed0e37eee8390bbeee23b95fb93189962c323",
@@ -1345,7 +2783,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Life insurance in Luxembourg: the capitalization contract under debate",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Liewensversécherung zu Lëtzebuerg: de Kapitaliséierungsvertrag ënner Diskussioun",
+          "summary": ""
+        },
+        "de": {
+          "title": "Lebensversicherung in Luxemburg: Der Kapitalisierungsvertrag steht zur Debatte",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e0b7ec9792b23dedc7ed014d704e2758b726f9b6",
@@ -1361,7 +2812,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Fitch réaffirme la notation de crédit « AAA » du Luxembourg avec perspective stable Auteur Investing.com - Investing.com Hong Kong - Cotations boursières et actualités financières",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch reaffirms Luxembourg's \"AAA\" credit rating with stable outlook Author Investing.com - Investing.com Hong Kong - Stock Quotes & Financial News",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger \"AAA\" Kredittbewäertung mat stabile Perspektiven",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs „AAA“-Kreditrating mit stabilem Ausblick Autor Investing.com - Investing.com Hongkong - Aktienkurse & Finanznachrichten",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "6d155cecd2ad747f3d590f9c161a6b2fb3940446",
@@ -1377,7 +2845,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs „AAA“-Rating mit stabilem Ausblick",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger AAA-Rating mat stabile Perspektiven",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch réaffirme la notation 'AAA' du Luxembourg avec perspective stable",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch reaffirms Luxembourg's 'AAA' rating with stable outlook",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "6d8205357eb40333bd626967daad4df5790b86d6",
@@ -1393,7 +2878,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger Kredittbewäertung 'AAA'",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs Bonitätsbewertung „AAA“.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch confirms Luxembourg's 'AAA' credit rating",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch confirme la notation de crédit 'AAA' du Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c8aed5e09f7e897cf22747f5fffaecc7839112a3",
@@ -1409,7 +2911,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger Kredittbewäertung 'AAA' mat stabile Perspektiven",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch confirme la notation de crédit 'AAA' du Luxembourg avec perspective stable",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs Bonitätsbewertung „AAA“ mit stabilem Ausblick",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch confirms Luxembourg's 'AAA' credit rating with stable outlook",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "f0db0602f313c7734a5f71159ccc17a98be2e74f",
@@ -1425,7 +2944,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs „AAA“-Kreditrating mit stabilem Ausblick",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger 'AAA' Kredittbewäertung mat stabile Perspektiven",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch réaffirme la notation de crédit « AAA » du Luxembourg avec perspective stable",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b673f0b30eaefc0d60f5ecf51b16cd0291f0ed5e",
@@ -1441,7 +2973,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger AAA-Rating mat stabile Perspektiven",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch confirms Luxembourg's 'AAA' rating with a stable outlook",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs „AAA“-Rating mit stabilem Ausblick",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "15e6bfaa3845fbac2daca446ee15b53817ad4e08",
@@ -1457,7 +3002,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Fitch confirms “AAA” credit rating for Luxembourg – outlook stable",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fitch bestätegt \"AAA\" Kredittwäertung fir Lëtzebuerg - Ausbléck stabil",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch confirme la notation de crédit « AAA » du Luxembourg – perspective stable",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "7399f9797e90d8fca911da8c4784fe021c48250f",
@@ -1473,7 +3031,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger AAA-Rating mat stabile Perspektiven",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs „AAA“-Rating mit stabilem Ausblick",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch réaffirme la notation 'AAA' du Luxembourg avec perspective stable",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch reaffirms Luxembourg's 'AAA' rating with stable outlook",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "95a4550843478010fa02a36cb2c8fa218e7bc21e",
@@ -1489,7 +3064,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger AAA-Rating mat stabile Perspektiven",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs „AAA“-Rating mit stabilem Ausblick",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch reaffirms Luxembourg's 'AAA' rating with stable outlook",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch réaffirme la notation 'AAA' du Luxembourg avec perspective stable",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "cdd368102634a5c23addc00e3b1fc50f08501b84",
@@ -1505,7 +3097,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger AAA-Rating mat stabilen Ausbléck",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch confirms Luxembourg's 'AAA' rating with stable outlook",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs „AAA“-Rating mit stabilem Ausblick",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch confirme la notation 'AAA' du Luxembourg avec perspective stable",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "6d95145f265794b1f5cb2fe93487d4cf1d11e3cd",
@@ -1521,7 +3130,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger 'AAA' Bewäertung mat stabile Perspektiven",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs „AAA“-Rating mit stabilem Ausblick",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch affirms Luxembourg's 'AAA' rating with stable outlook",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch confirme la notation 'AAA' du Luxembourg avec perspective stable",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e33247c46a4b06da6a4004bdcf2658e08f4953bb",
@@ -1537,7 +3163,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger Kredittbewäertung vun 'AAA' mat stabile Perspektiven",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch bestätigt die Bonitätsbewertung Luxemburgs von „AAA“ mit stabilem Ausblick",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch confirme la notation de crédit du Luxembourg de « AAA » avec une perspective stable",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch confirms Luxembourg's credit rating of 'AAA' with a stable outlook",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "6417b263ce9956033284f163845f55e52fd444bf",
@@ -1553,7 +3196,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fitch bestätegt d'Lëtzebuerger \"AAA\" Kredittbewäertung, Perspektive stabil.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch reaffirms Luxembourg's \"AAA\" credit rating, outlook stable Provided by Investing.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs „AAA“-Kreditrating, Ausblick stabil. Zur Verfügung gestellt von Investing.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch réaffirme la notation de crédit \"AAA\" du Luxembourg, perspective stable Fourni par Investing.com",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "fdf2ad6ecd0de92b24300ebb267064b002bbd793",
@@ -1569,7 +3229,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Fitch behält de Lëtzebuerger 'AAA' Bewäertung mat stabile Perspektiven",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch maintains Luxembourg's 'AAA' rating with stable outlook",
+          "summary": ""
+        },
+        "de": {
+          "title": "Fitch behält das „AAA“-Rating Luxemburgs mit stabilem Ausblick bei",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch maintient la note 'AAA' du Luxembourg avec perspective stable",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "250583864b2553059a7571ad20a4be16920a56b8",
@@ -1585,7 +3262,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Fitch bestätigt Luxemburgs Bonitätsbewertung „AAA“ mit stabilem Ausblick",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fitch bestätegt de Lëtzebuerger ‘AAA’ Kredittbewäertung mat stabile Perspektiven",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch reaffirms Luxembourg’s ‘AAA’ credit rating with stable outlook",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch réaffirme la notation de crédit « AAA » du Luxembourg avec perspective stable",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9914f53129f3497faf1df4d1bc7e68e90d4f1154",
@@ -1601,7 +3295,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Fitch Ratings bestätigte die Kreditwürdigkeit Luxemburgs mit „AAA“ mit stabilem Ausblick.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Fitch Ratings huet de Lëtzebuerger Kredittbewäertung als \"AAA\" mat stabile Perspektiven bestätegt.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Fitch Ratings affirmed Luxembourg's credit rating as \"AAA\" with a stable outlook.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Fitch Ratings a confirmé la notation de crédit du Luxembourg à « AAA » avec une perspective stable.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "fcc7c4d6f22ce8b05e81a9b4b827c104058c9737",
@@ -1617,7 +3328,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Kooperationsbotschaft von Minister Çiftçi an Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Cooperation message from Minister Çiftçi to Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Message de coopération du ministre Çiftçi au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Kooperatiounsmessage vum Minister Çiftçi u Lëtzebuerg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "246244d3c94d7babf51eb7d2e75e58f951291b81",
@@ -1633,7 +3361,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Minister Çiftçi: Mir si prett fir eng multidimensional Zesummenaarbecht mat de Lëtzebuerger Autoritéiten",
+          "summary": ""
+        },
+        "en": {
+          "title": "Minister Çiftçi: We are ready for multidimensional cooperation with Luxembourg authorities",
+          "summary": ""
+        },
+        "de": {
+          "title": "Minister Çiftçi: Wir sind bereit für eine mehrdimensionale Zusammenarbeit mit den luxemburgischen Behörden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ministre Çiftçi : Nous sommes prêts à une coopération multidimensionnelle avec les autorités luxembourgeoises",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "190de01f9090429ebeb914cc693ad1e128e8aa0a",
@@ -1649,7 +3394,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Luxembourg: Cargolux Boeing 747 Suffers Landing Gear Collapse",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg: Bei Cargolux Boeing 747 bricht das Fahrwerk zusammen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : Le Boeing 747 de Cargolux subit l'effondrement de son train d'atterrissage",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "14356534615562ca2e549782ebeefd8cc28569ba",
@@ -1665,7 +3423,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Minister Çiftçi huet de Lëtzebuerger Parlamentspresident Wiseler opgeholl",
+          "summary": ""
+        },
+        "de": {
+          "title": "Minister Çiftçi empfing den luxemburgischen Parlamentspräsidenten Wiseler",
+          "summary": ""
+        },
+        "en": {
+          "title": "Minister Çiftçi hosted Luxembourg Parliament Speaker Wiseler",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le ministre Çiftçi a reçu le président du Parlement luxembourgeois Wiseler",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "8f307b68a1dcb3326707ca1e91a2db9a4715cf9d",
@@ -1681,7 +3456,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Gourmet Recipes with Daniel Rameau from the restaurant “La Ramaudière” in Ellange, Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Gourmet-Rezepte mit Daniel Rameau vom Restaurant „La Ramaudière“ in Ellange, Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gourmet Rezepter mam Daniel Rameau vum Restaurant \"La Ramaudière\" zu Elleng, Lëtzebuerg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4c10a7d816dffd2a06eff44b279382a14ab6777b",
@@ -1697,7 +3485,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Le ministre de l'Intérieur Çiftçi a rencontré Wiseler, président de la Chambre des représentants du Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Minister of Internal Affairs Çiftçi met with Wiseler, Speaker of the Luxembourg House of Representatives",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Inneminister Çiftçi huet sech mam Wiseler, President vum Lëtzebuerger Haus vun de Representanten getraff",
+          "summary": ""
+        },
+        "de": {
+          "title": "Innenminister Çiftçi traf sich mit Wiseler, dem Präsidenten des luxemburgischen Repräsentantenhauses",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "479d9e7b939b583b7fe239f9dcdd98567b5f22b1",
@@ -1713,7 +3518,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Tuncer Bakırhan traf sich mit Wiseler, dem Sprecher des luxemburgischen Repräsentantenhauses",
+          "summary": ""
+        },
+        "en": {
+          "title": "Tuncer Bakırhan met with Wiseler, Speaker of the Luxembourg House of Representatives",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Tuncer Bakırhan huet sech mam Wiseler, President vum Lëtzebuerger Haus vun de Représentants getraff",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tuncer Bakırhan a rencontré Wiseler, président de la Chambre des représentants du Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4667d36b47eb5fe0f3d8b061d331739cae099573",
@@ -1729,7 +3551,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Botschaft von Minister Çiftçi über die Zusammenarbeit mit Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Message vum Minister Çiftçi iwwer d'Zesummenaarbecht mat Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Message from Minister Çiftçi about cooperation with Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Message du ministre Çiftçi sur la coopération avec le Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "8842302cf7aa5d95f86c760cc178db78bda7b0ad",
@@ -1745,7 +3584,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Bakırhan traf sich mit der Delegation des luxemburgischen Parlaments",
+          "summary": ""
+        },
+        "en": {
+          "title": "Bakırhan met with the Luxembourg Parliament delegation",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Bakırhan a rencontré la délégation du Parlement luxembourgeois",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Bakırhan huet sech mat der Delegatioun vum Lëtzebuerger Parlament getraff",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "09912b06032ec89f3a681a9d607d9902dfa82aa2",
@@ -1761,7 +3617,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Livre le train d'atterrissage d'un 747-8F Cargolux au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Delivers the undercarriage of a 747-8F Cargolux to Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Liwwert den Unterwagen vun enger 747-8F Cargolux op Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Liefert das Fahrwerk einer 747-8F Cargolux nach Luxemburg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "2900f8c06e5aa0d28ac4f9f40b56b9d788656297",
@@ -1777,7 +3650,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "What to do in Luxembourg City when it rains? 8 ideas to stay dry",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Wat maache wann et reent an der Stad Lëtzebuerg? 8 Iddien fir dréchen ze bleiwen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Was kann man in Luxemburg-Stadt unternehmen, wenn es regnet? 8 Ideen, um trocken zu bleiben",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e880f5206a0e5aa84774a50b3c8c91383adfb397",
@@ -1793,7 +3679,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Exportation de moutons vers des pays tiers : Florin Barbu discute du déblocage avec la Commission européenne à Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "The export of sheep to third countries: Florin Barbu discusses the unblocking with the European Commission in Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den Export vu Schof an Drëttlänner: De Florin Barbu diskutéiert mat der Europäescher Kommissioun zu Lëtzebuerg iwwert d'Entblockéierung",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Export von Schafen in Drittländer: Florin Barbu bespricht die Freigabe mit der Europäischen Kommission in Luxemburg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e2f928cf145f64f215ebdf604561e8b197dbb37f",
@@ -1809,7 +3712,24 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "DEM Partei Co-President Bakırhan huet de Friddensprozess mat der Lëtzebuerger Delegatioun diskutéiert",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Ko-Vorsitzende der DEM-Partei, Bakırhan, diskutierte mit der luxemburgischen Delegation über den Friedensprozess",
+          "summary": ""
+        },
+        "en": {
+          "title": "DEM Party Co-Chairman Bakırhan discussed the peace process with the Luxembourg delegation",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le coprésident du parti DEM, Bakırhan, a discuté du processus de paix avec la délégation luxembourgeoise",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ecb21b00c21c38c3690a25a653742b52a6562835",
@@ -1825,7 +3745,24 @@
       "topics": [
         "politics"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Bakırhan huet d'Türkiye-EU Relatioune mat der Lëtzebuerger Parlamentarescher Delegatioun diskutéiert",
+          "summary": ""
+        },
+        "de": {
+          "title": "Bakırhan diskutierte mit der luxemburgischen Parlamentsdelegation über die Beziehungen zwischen der Türkei und der EU",
+          "summary": ""
+        },
+        "en": {
+          "title": "Bakırhan discussed Türkiye-EU relations with the Luxembourg Parliamentary Delegation",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Bakırhan a discuté des relations Turquie-UE avec la délégation parlementaire luxembourgeoise",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9841d72b31091b6202ca758b7305a82fde1c9c2d",
@@ -1841,7 +3778,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg participera à la Coupe du Monde pour la première fois de son histoire - et cela aura lieu à Bakou",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg will play at the World Cup for the first time in history - and it will happen in Baku",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg spillt fir d'éischte Kéier an der Geschicht op der Weltmeeschterschaft - an dat geschitt zu Baku",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg wird zum ersten Mal in der Geschichte an einer Weltmeisterschaft teilnehmen – und zwar in Baku",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "8cab7ea37089b1c7f26161f8b8c9d65286fa613d",
@@ -1857,7 +3811,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Environ 200.000 Portugais au Luxembourg ont été sommés de quitter le pays ? Faux | FAUX",
+          "summary": ""
+        },
+        "en": {
+          "title": "Around 200,000 Portuguese people in Luxembourg were notified to leave the country? False | False",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ronn 200.000 Portugisen zu Lëtzebuerg goufen informéiert d'Land ze verloossen? Falsch | Falsch",
+          "summary": ""
+        },
+        "de": {
+          "title": "Rund 200.000 Portugiesen in Luxemburg wurden zur Ausreise aufgefordert? Falsch | FALSCH",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "70d61ac8b587e6bfa580aee452559431989ad8a1",
@@ -1873,7 +3844,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Racing Union Luxembourg - Joueurs les mieux notés, buts, passes décisives et autres statistiques",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Racing Union Luxembourg - Topbewäertte Spiller, Ziler, Assists an aner Statistiken",
+          "summary": ""
+        },
+        "en": {
+          "title": "Racing Union Luxembourg - Top rated players, goals, assists and other statistics",
+          "summary": ""
+        },
+        "de": {
+          "title": "Racing Union Luxembourg – Bestbewertete Spieler, Tore, Assists und andere Statistiken",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c5d354057a64d5a35a490704909745fb5218439e",
@@ -1889,7 +3877,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "L’horloge de l’AMLR luxembourgeoise tourne : votre entreprise est-elle prête ?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die AMLR-Uhr in Luxemburg tickt: Ist Ihr Unternehmen bereit?",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Lëtzebuerger AMLR Auer tickt: Ass Är Firma prett?",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3ca7a46f4604a8a30a72ff4327f8df27de98c2a1",
@@ -1905,7 +3906,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "A company from Luxembourg wants to develop Lost Place in the southeast of Berlin",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Une entreprise luxembourgeoise veut développer Lost Place au sud-est de Berlin",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Eng Lëtzebuerger Firma wëll Lost Place am Südoste vu Berlin entwéckelen",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "da344799a01327e78d51620534fec68ec78c91ac",
@@ -1921,7 +3935,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Real estate. 1,800 euros on average: rents three times higher in Luxembourg than in Northern Lorraine",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Immobilien. 1.800 Euro am Duerchschnëtt: Loyeren zu Lëtzebuerg dräimol méi héich wéi an der Nord-Lorraine",
+          "summary": ""
+        },
+        "de": {
+          "title": "Immobilie. 1.800 Euro im Durchschnitt: Die Mieten sind in Luxemburg dreimal höher als in Nordlothringen",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b103af31465e9e7f8531488fe02759d371321a8c",
@@ -1937,7 +3964,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Zréck bei eis Schof! De Minister Florin Barbu verhandelt iwwer d'Wiederhuelung vum Export zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Back to our sheep! Minister Florin Barbu is negotiating the resumption of exports in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Zurück zu unseren Schafen! Minister Florin Barbu verhandelt über die Wiederaufnahme der Exporte in Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Retour à nos moutons ! Le ministre Florin Barbu négocie la reprise des exportations au Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "8bc087853e636c06ddb0388b1273eadf8966b9e3",
@@ -1953,7 +3997,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D'Svetlana Tikhanovskaya huet bei der Virstellung vum Film \"Not Made for Politics\" zu Lëtzebuerg deelgeholl",
+          "summary": ""
+        },
+        "en": {
+          "title": "Svetlana Tikhanovskaya took part in the screening of the film “Not Made for Politics” in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Svetlana Tikhanovskaya a participé à la projection du film « Not Made for Politics » au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Svetlana Tikhanovskaya nahm an der Vorführung des Films „Not Made for Politics“ in Luxemburg teil",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "48c990bb1c69271eb25413cd60ae86fbe91deb4c",
@@ -1969,7 +4030,20 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg envisage des partenariats de défense avec la Turquie, citant sa forte industrie",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg erwägt Verteidigungspartnerschaften mit Türkiye und verweist auf seine starke Industrie",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg kuckt Verteidegungspartnerschafte mat Türkiye, zitéiert seng staark Industrie",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "caf10e63d2ab08497fce714cf1e62ee70eff4ddd",
@@ -1985,7 +4059,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "CHP-Chef Kemal Kılıçdaroğlu traf sich mit der Delegation unter der Leitung von Claude Wiseler, Sprecher des luxemburgischen Repräsentantenhauses",
+          "summary": ""
+        },
+        "en": {
+          "title": "CHP Leader Kemal Kılıçdaroğlu Met with the Delegation Led by Claude Wiseler, Speaker of the Luxembourg House of Representatives",
+          "summary": ""
+        },
+        "lb": {
+          "title": "CHP Leader Kemal Kılıçdaroğlu Trefft mat der Delegatioun gefouert vum Claude Wiseler, Speaker vum Lëtzebuerger Haus vun de Vertrieder",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le leader du CHP, Kemal Kılıçdaroğlu, a rencontré la délégation dirigée par Claude Wiseler, président de la Chambre des représentants du Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d6c546aaa2c00cac7c7f50883503d7f6550368e3",
@@ -2001,7 +4092,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Etihad Airways führt Nonstop-Verbindung von Abu Dhabi nach Luxemburg ein: eine Premiere für den Golf",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Etihad Airways lancéiert Nonstop Abu Dhabi zu Lëtzebuerg Service: Eng Éischt fir de Golf",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etihad Airways lance un service sans escale entre Abu Dhabi et Luxembourg : une première pour le Golfe",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0b302e9feba2544ee610ffd7c8b4d82b3aa44f06",
@@ -2017,7 +4121,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Rita Guerra verrät die Herausforderung, die sie in Luxemburg erwartet, und gibt zu: „Ich freue mich darauf“",
+          "summary": ""
+        },
+        "en": {
+          "title": "Rita Guerra reveals the challenge that awaits her in Luxembourg and admits: “I’m looking forward to it”",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Rita Guerra verréit d'Erausfuerderung déi op hir zu Lëtzebuerg waart a gëtt zou: \"Ech freeën mech drop\"",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Rita Guerra révèle le défi qui l'attend au Luxembourg et avoue : \"Je l'attends avec impatience\"",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c22719d9733fb001305d6a24ae85102a7f5eb251",
@@ -2033,7 +4154,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg bezilt 322.000 Dollar fir e réimesche Schatz ze kréien...an de Grond fir säi Begriefnis ass nach onbekannt",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg pays $322,000 to acquire a Roman treasure...and the reason for its burial is still unknown",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg zahlt 322.000 US-Dollar für den Erwerb eines römischen Schatzes … und der Grund für seine Beerdigung ist noch unbekannt",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg débourse 322 000 $ pour acquérir un trésor romain... et la raison de son enterrement reste encore inconnue",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4057c772eec96618c90702d665310e5f8254d929",
@@ -2049,7 +4187,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Etihad gëtt den éischte Mëttleren Osten Carrier Fir Lëtzebuerg ze servéieren",
+          "summary": ""
+        },
+        "de": {
+          "title": "Etihad ist die erste Fluggesellschaft im Nahen Osten, die Luxemburg bedient",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etihad devient le premier transporteur du Moyen-Orient à desservir le Luxembourg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d1a6559951545814f9105e4e4edcc78d230f4770",
@@ -2065,7 +4216,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Kemal Kılıçdaroğlu a rencontré Wiseler, président de la Chambre des représentants du Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Kemal Kılıçdaroğlu met with Wiseler, Speaker of the Luxembourg House of Representatives",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kemal Kılıçdaroğlu traf sich mit Wiseler, dem Präsidenten des luxemburgischen Repräsentantenhauses",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Kemal Kılıçdaroğlu huet sech mam Wiseler, President vum Lëtzebuerger Haus vun de Vertrieder getraff",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c4006b4269f343502f568e9976d92406f54d33f6",
@@ -2081,7 +4249,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D'Gold vu Lëtzebuerg kënnt aus dësen zwou Stied vun Türkiye.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das Gold aus Luxemburg stammt aus diesen beiden Städten der Türkei.",
+          "summary": ""
+        },
+        "en": {
+          "title": "The gold from Luxembourg comes from these two cities of Türkiye.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L'or du Luxembourg provient de ces deux villes de Turquie.",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e6433e0fa074f9d12701f0dbcdf8685e26663e0e",
@@ -2097,7 +4282,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Kılıçdaroğlu huet de Lëtzebuerger Parlamentspresident Wiseler opgeholl",
+          "summary": ""
+        },
+        "en": {
+          "title": "Kılıçdaroğlu received Luxembourg Parliament Speaker Wiseler",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kılıçdaroğlu empfing den luxemburgischen Parlamentspräsidenten Wiseler",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Kılıçdaroğlu a reçu le président du Parlement luxembourgeois Wiseler",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d04fd0f96d665e660404bf886ca530fe29ef8a56",
@@ -2113,7 +4315,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Le président du CHP, Kılıçdaroğlu, a rencontré le président de la Chambre des représentants du Luxembourg, Wiseler",
+          "summary": ""
+        },
+        "en": {
+          "title": "CHP Chairman Kılıçdaroğlu met with Speaker of the Luxembourg House of Representatives Wiseler",
+          "summary": ""
+        },
+        "lb": {
+          "title": "CHP President Kılıçdaroğlu huet sech mam President vum Lëtzebuerger Haus vun de Représentants Wiseler getraff",
+          "summary": ""
+        },
+        "de": {
+          "title": "CHP-Vorsitzender Kılıçdaroğlu traf sich mit dem Sprecher des luxemburgischen Repräsentantenhauses Wiseler",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3be67478efeb87a814e11bdfe93f0998bdaa5848",
@@ -2129,7 +4348,24 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "NEW Parteidelegatioun huet d'Türkiye-EU Relatioune mat der Lëtzebuerger Delegatioun an der tierkescher Grand Nationalversammlung diskutéiert",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Delegation der NEUEN Partei erörterte die Beziehungen zwischen der Türkei und der EU mit der luxemburgischen Delegation in der Großen Türkischen Nationalversammlung",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La délégation du NOUVEAU Parti a discuté des relations Turquie-UE avec la délégation luxembourgeoise à la Grande Assemblée nationale turque",
+          "summary": ""
+        },
+        "en": {
+          "title": "NEW Party delegation discussed Türkiye-EU relations with the Luxembourg delegation in the Turkish Grand National Assembly",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "8bcd5adeca610527dab7fe995bfed8ad5b0c44dc",
@@ -2145,7 +4381,24 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "NEW Parteidelegatioun huet sech mam Wiseler, President vum Lëtzebuerger Haus vun de Representanten, op der tierkescher Grand Nationalversammlung getraff.",
+          "summary": ""
+        },
+        "en": {
+          "title": "NEW Party delegation met with Wiseler, Speaker of the Luxembourg House of Representatives, at the Turkish Grand National Assembly",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die Delegation der NEW-Partei traf sich in der Großen Nationalversammlung der Türkei mit Wiseler, dem Präsidenten des luxemburgischen Repräsentantenhauses",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Une délégation du NOUVEAU Parti a rencontré Wiseler, président de la Chambre des représentants du Luxembourg, à la Grande Assemblée nationale turque",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c92f38411da37506448172a752621917327af447",
@@ -2161,7 +4414,20 @@
       "topics": [
         "finance"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D'Lëtzebuerger Finanzreegler setzt Fonds Tokeniséierungsregele fest",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die luxemburgische Finanzaufsicht legt Regeln für die Tokenisierung von Fonds fest",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le régulateur financier luxembourgeois définit les règles de tokenisation des fonds",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "225134f880199d67ba93861c91f353d10da2a6dd",
@@ -2177,7 +4443,20 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Resignation of Pierre Moscovici: his son Joseph, whom he had at 60, his wife 22 years his junior... This family life which weighed on his departure from Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Demissioun vum Pierre Moscovici: säi Jong Joseph, deen hien mat 60 Joer hat, seng Fra 22 Joer méi jonk... Dëst Familljeliewen, dat op säin Depart vu Lëtzebuerg gewien huet",
+          "summary": ""
+        },
+        "de": {
+          "title": "Rücktritt von Pierre Moscovici: sein Sohn Joseph, den er im Alter von 60 Jahren zur Welt brachte, seine 22 Jahre jüngere Frau ... Dieses Familienleben belastete seine Abreise aus Luxemburg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "483f0f635ea457dcca224ed17cc7e27d86ccbab2",
@@ -2193,7 +4472,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Die örtliche Polizei beklagt eine Müllablagerung in der Straße Luxembourg in Coslada",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Lokal Police denoncéiert eng Dumping vun Brout op der Lëtzebuerger Strooss zu Coslada",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Local Police denounces a dumping of debris on Luxembourg Street in Coslada",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Police Locale dénonce un déversement de débris dans la rue du Luxembourg à Coslada",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a69fc207683730c3b9011831dbec9dd6dd729ab4",
@@ -2209,7 +4505,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Är Är Projeten Lëtzebuerg: Wat ze wëssen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ihre Ihre Projekte Luxemburg: Was Sie wissen sollten",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Vos Vos projets Luxembourg : Ce qu'il faut savoir",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "72750a78fa9b07fabc762254d05443db920bfe3a",
@@ -2225,7 +4534,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Die Renovierung des Rosa Luxemburg soll bis zum 30. Oktober abgeschlossen sein",
+          "summary": ""
+        },
+        "en": {
+          "title": "The renovation of Rosa Luxemburg is planned to be completed by October 30",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Renovatioun vu Rosa Luxemburg soll bis den 30. Oktober fäerdeg sinn",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La rénovation de Rosa Luxemburg devrait être achevée d'ici le 30 octobre",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b0977aa3f85b15beff6ecf745029086558691f6c",
@@ -2241,7 +4567,20 @@
       "topics": [
         "travel"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Flüge von Abu Dhabi nach Luxemburg: Etihads neue Nonstop-Route, Zeiten und Tarife",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Abu Dhabi op Lëtzebuerg Flich: Etihad's New Nonstop Route, Zäiten a Präisser",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Vols d'Abu Dhabi à Luxembourg : nouvel itinéraire sans escale d'Etihad, horaires et tarifs",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ab3311e5ed4fa02e1b92a920bbd1f6191d287393",
@@ -2257,7 +4596,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "De Lëtzebuerger Pavillon, entworf vu STDM a Mikan, entdeckt Rhythmen a Modularitéit op der Expo Osaka 2025",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der von STDM und Mikan entworfene Luxemburger Pavillon erforscht Rhythmen und Modularität auf der Expo Osaka 2025",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Pavillon du Luxembourg, conçu par STDM et Mikan, explore les rythmes et la modularité à l'Expo Osaka 2025",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Luxembourg Pavilion, designed by STDM and Mikan, explores rhythms and modularity at Expo Osaka 2025",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0415070fa3ac327766db1cef1b41e12bbcafed6a",
@@ -2273,7 +4629,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "La mairie a promis d'achever la réfection de la route menant à Rosa Luxemburg d'ici le 30 octobre. Le croyons-nous ?",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das Büro des Bürgermeisters versprach, die Reparatur der Straße nach Rosa Luxemburg bis zum 30. Oktober abzuschließen. Glauben wir?",
+          "summary": ""
+        },
+        "en": {
+          "title": "The mayor's office promised to complete repairs of the road to Rosa Luxemburg by October 30. Do we believe?",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Buergermeeschter huet versprach, bis den 30. Oktober d'Reparatur vun der Strooss op Rosa Luxemburg fäerdeg ze maachen. Gleewe mir?",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "cbc39bf39bc7dce6817c86538ceeac4728b8d001",
@@ -2289,7 +4662,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Die Reparatur der Straße nach Rose Luxemburg in Irkutsk wird bis zum 30. Oktober abgeschlossen sein",
+          "summary": ""
+        },
+        "en": {
+          "title": "Repair of the road to Rose Luxemburg in Irkutsk will be completed by October 30",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La réparation de la route menant à Rose Luxemburg à Irkoutsk sera achevée d'ici le 30 octobre",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Reparatur vun der Strooss op Rose Luxemburg zu Irkutsk wäert bis den 30. Oktober fäerdeg sinn",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3d8fb7f8604c3e74cdb0a434a5165de9d1bd9e96",
@@ -2305,7 +4695,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "WSI Conseil: Liewensversécherung zu Lëtzebuerg, d'Alternativ zu finanziellen Onsécherheeten",
+          "summary": ""
+        },
+        "en": {
+          "title": "WSI Conseil: Life insurance in Luxembourg, the alternative to financial uncertainties",
+          "summary": ""
+        },
+        "de": {
+          "title": "WSI Conseil: Lebensversicherung in Luxemburg, die Alternative zu finanziellen Unsicherheiten",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e1eabbacb79b5732a522e58c61d25a1684e37c87",
@@ -2321,7 +4724,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Eng nei Paart zum Golf : Etihad Airways verbënnt Lëtzebuerg an Abu Dhabi",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein neues Tor zum Golf: Etihad Airways verbindet Luxemburg und Abu Dhabi",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Une nouvelle porte d'entrée vers le Golfe : Etihad Airways relie Luxembourg et Abu Dhabi",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4d0b09a12a4969dacb32c4f25e2995bbae9583b2",
@@ -2337,7 +4753,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "WE TESTED: Charlotte enjoyed a luxury stay in Luxembourg thanks to our mini-guide",
+          "summary": ""
+        },
+        "lb": {
+          "title": "MIR TESTEN: D'Charlotte huet dank eisem Mini-Guide e Luxusopenthalt zu Lëtzebuerg genoss",
+          "summary": ""
+        },
+        "de": {
+          "title": "WIR GETESTET: Charlotte genoss dank unseres Mini-Guides einen luxuriösen Aufenthalt in Luxemburg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3429cdc95a8ad601784e4ecd0f1e5e6f2e9df3b6",
@@ -2353,7 +4782,20 @@
       "topics": [
         "culture"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Clearstream et la Fédération Luxembourgeoise de Rugby lancent un partenariat de trois ans",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Clearstream, Luxembourg Rugby Federation lancéiert dräi Joer Partnerschaft",
+          "summary": ""
+        },
+        "de": {
+          "title": "Clearstream und der Luxemburger Rugby-Verband starten dreijährige Partnerschaft",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "20d54aeda802ba0825bd933428f993f455e4e216",
@@ -2369,7 +4811,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Är EU - Är Projeten zu Lëtzebuerg: eng spannend Saison Geschicht iwwer Fliedermais, Villercher a Klimaaktioun ouni Tricken",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Votre UE – vos projets au Luxembourg : une histoire effrayante sur les chauves-souris, les oiseaux et l'action climatique sans astuce",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ihre EU – Ihre Projekte in Luxemburg: eine gruselige Jahreszeitengeschichte über Fledermäuse, Vögel und Klimaschutz ohne Tricks",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "78816a0d9316f1126977e9f5caf7f01f5e183d9c",
@@ -2385,7 +4840,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Lebensversicherung in Luxemburg: Ab 50.000 Euro erhältlich, was sie wirklich schützt und was sie kostet",
+          "summary": ""
+        },
+        "en": {
+          "title": "Life insurance in Luxembourg: accessible from 50,000 euros, what it really protects and what it costs",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Liewensversécherung zu Lëtzebuerg: ab 50.000 Euro erreechbar, wat se wierklech schützt a wat et kascht",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9fed9b8c116feb255580dfb83630de41b1fd49d6",
@@ -2401,7 +4869,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Assurance Vie Luxembourgeoise [VIDEO]",
+          "summary": ""
+        },
+        "en": {
+          "title": "Assurance Vie Luxembourgeoise [VIDEO]",
+          "summary": ""
+        },
+        "de": {
+          "title": "Assurance Vie Luxembourgeoise [VIDEO]",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b154f563176d6a7a2c4afaa5f15e0a75ce610fa3",
@@ -2417,7 +4898,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg: Studentefoire fördert den Zougang zum Héichschoul a Portugal",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg: Student Fair promotes access to higher education in Portugal",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg: Studentenmesse fördert den Zugang zur Hochschulbildung in Portugal",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : La Foire des étudiants favorise l'accès à l'enseignement supérieur au Portugal",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d9c56f84b253a9b90fdd722a89902131e61c8d76",
@@ -2433,7 +4931,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "D’Elvira Lindo an de Jesús Marchamalo schwätzen iwwer Bicher a Geschichten zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Elvira Lindo and Jesús Marchamalo talk about books and stories in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Elvira Lindo et Jesús Marchamalo parlent de livres et d'histoires au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Elvira Lindo und Jesús Marchamalo sprechen über Bücher und Geschichten in Luxemburg",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ada4439ced3d910196c121ea9ed4dea15bda2536",
@@ -2449,7 +4964,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "en": {
+          "title": "Three new junior doctors will practice in several communes of Portes du Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Drei neue Assistenzärzte werden in mehreren Gemeinden der Portes du Luxembourg praktizieren",
+          "summary": ""
+        },
+        "lb": {
+          "title": "A verschiddene Gemenge vu Portes du Luxembourg praktizéieren dräi nei Juniordokteren",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "27c4e2de41d851a892803c6d727a3ef5c66bbc2e",
@@ -2523,7 +5051,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Kasachstan a Lëtzebuerg bestätegen hiren Engagement fir déi politesch a wirtschaftlech Zesummenaarbecht ze verdéiwen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Kazakhstan and Luxembourg confirm their commitment to deepening political and economic cooperation",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kasachstan und Luxemburg bekräftigen ihr Engagement für eine Vertiefung der politischen und wirtschaftlichen Zusammenarbeit",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Kazakhstan et le Luxembourg confirment leur engagement à approfondir leur coopération politique et économique",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "78afcc3aecd8885539055c91b150f9af8ad98468",
@@ -2539,7 +5084,20 @@
       "topics": [
         "finance"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "CITIGROUP GLOBAL MARKETS FUNDING LUXEMBOURG S C A (OH32) Obligatioun Präis an Devis",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Cours et cotation de l'obligation CITIGROUP GLOBAL MARKETS FUNDING LUXEMBOURG S C A (OH32)",
+          "summary": ""
+        },
+        "de": {
+          "title": "CITIGROUP GLOBAL MARKETS FUNDING LUXEMBOURG S C A (OH32) Anleihepreis und Angebot",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "1e964cf0ff06fa16af85e5a2d19d02b0ad69d7b0",
@@ -2555,7 +5113,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "KPMG Lëtzebuerg annoncéiert iwwer 360 Promotiounen an 20 Seniorennennungen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "KPMG Luxembourg annonce plus de 360 ​​promotions et 20 nominations à des postes de direction",
+          "summary": ""
+        },
+        "de": {
+          "title": "KPMG Luxembourg gibt über 360 Beförderungen und 20 Ernennungen von Führungskräften bekannt",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "d89a89f66aab987076fbf5f3fe955fb600ac984c",
@@ -2571,7 +5142,20 @@
       "topics": [
         "finance"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "CITIGROUP GLOBAL MARKETS FUNDING LUXEMBOURG S C A (4OQ5) Obligatioun Präis an Devis",
+          "summary": ""
+        },
+        "de": {
+          "title": "CITIGROUP GLOBAL MARKETS FUNDING LUXEMBOURG S C A (4OQ5) Anleihepreis und Angebot",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Cours et cotation de l'Obligation CITIGROUP GLOBAL MARKETS FUNDING LUXEMBOURG S C A (4OQ5)",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "51b33d415bc12b050ad43bf51f990aaa19c9d21c",
@@ -2897,7 +5481,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "FC Luxembourg City II",
+          "summary": ""
+        },
+        "en": {
+          "title": "FC Luxembourg City II",
+          "summary": ""
+        },
+        "de": {
+          "title": "FC Luxemburg-Stadt II",
+          "summary": ""
+        },
+        "fr": {
+          "title": "FC Luxembourg Ville II",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4b529e966d27aabdff24d75d9ff832227eed4cf2",
@@ -3033,7 +5634,20 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg kuckt méi no Verteidegungszesummenaarbecht mat Türkiye",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg envisage une coopération de défense plus étroite avec la Turquie",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg strebt eine engere Verteidigungskooperation mit Türkiye an",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "596d2abd174fc2a20fc68c5dee764eccea5eaa6d",
@@ -3400,7 +6014,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Kurtulmuş a rencontré le président du Parlement luxembourgeois Wiseler",
+          "summary": ""
+        },
+        "de": {
+          "title": "Kurtulmuş traf sich mit dem luxemburgischen Parlamentspräsidenten Wiseler",
+          "summary": ""
+        },
+        "en": {
+          "title": "Kurtulmuş met with Luxembourg Parliament Speaker Wiseler",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Kurtulmuş huet sech mam Lëtzebuerger Parlamentspresident Wiseler getraff",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b4ab905bf93a776655d8e5b9839e73316ed48a55",
@@ -3416,7 +6047,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Lob für Türkiye vom Präsidenten des Luxemburger Parlaments",
+          "summary": ""
+        },
+        "en": {
+          "title": "Praise for Türkiye from the Speaker of the Luxembourg Parliament",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luef fir den Türkiye vum President vum Lëtzebuerger Parlament",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Éloge de la Turquie de la part du président du Parlement luxembourgeois",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "1b414f3fcfdbaeab2dc92e4803a23f47fc633c31",
@@ -3834,7 +6482,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Gemeinsame Erklärungen von Numan Kurtulmuş und dem Präsidenten der luxemburgischen Vertretung",
+          "summary": ""
+        },
+        "en": {
+          "title": "Joint statements from Numan Kurtulmuş and the President of Luxembourg Representatives",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gemeinsam Aussoe vum Numan Kurtulmuş an dem President vun de Lëtzebuerger Vertrieder",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Déclarations conjointes de Numan Kurtulmuş et du Président des Représentants luxembourgeois",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "22042fd9f51bacb78e8d0de72d6c12e335fc613c",
@@ -4065,7 +6730,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Seng Exzellenz den Ambassadeur vum Herzogtum #Lëtzebuerg, Här Christian Müller: \"D'algeresch Gemeinschaft zu Lëtzebuerg huet sech verduebelt an et ass e Privileg an Algerien ze schaffen.\"",
+          "summary": ""
+        },
+        "en": {
+          "title": "His Excellency the Ambassador of the Duchy of #Luxembourg, Mr. Christian Müller: “The Algerian community in Luxembourg has doubled and it is a privilege to work in Algeria.”",
+          "summary": ""
+        },
+        "de": {
+          "title": "Seine Exzellenz der Botschafter des Herzogtums #Luxemburg, Herr Christian Müller: „Die algerische Gemeinschaft in Luxemburg hat sich verdoppelt und es ist ein Privileg, in Algerien zu arbeiten.“",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Son Excellence l'Ambassadeur du Duché de #Luxembourg, M. Christian Müller : « La communauté algérienne au Luxembourg a doublé et c'est un privilège de travailler en Algérie. »",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "c2cbe8d6d94ba16b637a92eb75ef515965a725ca",
@@ -4140,7 +6822,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun UBS (Luxembourg) Japan Equity Fund (JPY) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den UBS (Luxembourg) Japan Equity Fund (JPY) | Juheng.com – Fondsveteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of UBS (Luxembourg) Japan Equity Fund (JPY) | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du Fonds UBS (Luxembourg) Japan Equity (JPY) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b79caffd523e675d2de541d8c800bf3792790f45",
@@ -4156,7 +6855,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Übersicht über den UBS (Luxembourg) Russian Equity Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du Fonds d'actions russes UBS (Luxembourg) (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of UBS (Luxembourg) Russian Equity Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun UBS (Lëtzebuerg) Russian Equity Fund (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "fcd32601658e4c493709ad18a02bb03f329217b3",
@@ -4172,7 +6888,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Aperçu du Capital Group New Economy Fund (Luxembourg) B (USD) | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den Capital Group New Economy Fund (Luxembourg) B (USD) | Juheng.com",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group New Economy Fund (Lëtzebuerg) B (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group New Economy Fund (Luxembourg) B (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "8b0cc828f0dadaf371400bc4d348d84603294787",
@@ -4188,7 +6921,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun UBS (Lëtzebuerg) U.S. Growth Equity Fund (USD) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of UBS (Luxembourg) U.S. Growth Equity Fund (USD) | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den UBS (Luxembourg) U.S. Growth Equity Fund (USD) | Juheng.com – Fondsveteran",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Vue d'ensemble du Fonds U.S. Growth Equity Fund UBS (Luxembourg) (USD) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "403515e6d87e6db72b5e5d9b7279e5710511b74d",
@@ -4974,7 +7724,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg duerch d’Ae vun engem polnesche Psycholog. \"De Gesondheetssystem iwwerrascht jiddereen\"",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg through the eyes of a Polish psychologist. \"The health system surprises everyone\"",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg aus der Sicht eines polnischen Psychologen. „Das Gesundheitssystem überrascht alle“",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg vu par un psychologue polonais. \"Le système de santé surprend tout le monde\"",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "a62ba784000fe579161f5d3fea20027bf69f38a3",
@@ -5925,7 +8692,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Pulse (Luxembourg) Series Fund – Pulse Income Non-Investment Grade Bond Fund Idm Level (USD)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Pulse (Luxembourg) Series Fund-Pulse Income Non-Investment Grade Bond Fund Idm Level (USD)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Pulse (Luxembourg) Series Fund-Pulse Income Non-Investment Grade Bond Fund Idm Level (USD)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Pulse (Luxembourg) Series Fund-Pulse Income Non-Investment Grade Bond Fund Niveau Idm (USD)",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "4d194aee2f98704faf4aded9852b02ccbc125611",
@@ -6003,7 +8787,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Aperçu des fonds de la série Proximity (Luxembourg) - Proximity US Large Growth Equity Fund, catégorie A (USD) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        },
+        "de": {
+          "title": "Überblick über die Fonds der Proximity (Luxembourg) Series – Proximity US Large Growth Equity Fund Klasse A (USD) | Juheng.com – Fondsveteran",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun Proximitéit (Lëtzebuerg) Serie Funds - Proximitéit US Grouss Wuesstem Equity Fund Klass A (USD) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Proximity (Luxembourg) Series Funds - Proximity US Large Growth Equity Fund Class A (USD) | Juheng.com - Fund veteran",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "2fbbae115b7c38cb8454eda1b2e7862377feb681",
@@ -6019,7 +8820,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Aperçu de Capital Group US Investment Fund (Luxembourg) B (USD) - EUR | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group US Investment Fund (Luxembourg) B (USD) - EUR | Juheng.com",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group US Investment Fund (Lëtzebuerg) B (USD) - EUR | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den Capital Group US Investment Fund (Luxembourg) B (USD) - EUR | Juheng.com",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "7d57e6b4e7b92737c212a5908b225eecad0d1cb4",
@@ -6217,7 +9035,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Luxemburgische U-19-Fußballnationalmannschaft – spielt Qualifikation zur U-19-Europameisterschaft 2025",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger U-19-Nationalequipe — Mätscher Euro U-19 2025 Qualifikatioun",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg U-19 national football team — matches Euro U-19 2025 Qualification",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Équipe nationale luxembourgeoise de football U-19 — matchs Qualification Euro U-19 2025",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "5defa6518e898d25eabc99682bf8f30bc41907c5",
@@ -8494,7 +11329,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Im Plenum die Diskussion und Abstimmung über drei Verteidigungssanktionsabkommen mit Luxemburg, Bosnien-Herzegowina und Slowenien",
+          "summary": ""
+        },
+        "en": {
+          "title": "In the Plenary, the discussion and voting of three Defense Sanctions Agreements with Luxembourg, Bosnia-Herzegovina and Slovenia",
+          "summary": ""
+        },
+        "lb": {
+          "title": "An der Plenière, d'Diskussioun an d'Ofstëmmung vun dräi Verteidegungssanktiounen Accorde mat Lëtzebuerg, Bosnien-Herzegowina a Slowenien",
+          "summary": ""
+        },
+        "fr": {
+          "title": "En plénière, discussion et vote de trois accords de sanctions de défense avec le Luxembourg, la Bosnie-Herzégovine et la Slovénie",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "7af04465018d2fadaf80328d638923aac6c54ab4",
@@ -10671,7 +13523,57 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Pulse (Luxembourg) Series Fund-Pulse Global Income-feeding Non-Investment Grade Bond Fund Axe Level (USD)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Pulse (Luxembourg) Series Fund – Pulse Global Income-Earning Non-Investment Grade Bond Fund Ax Level (USD)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Pulse (Luxembourg) Series Fund-Pulse Global Income-earning Non-Investment Grade Bond Fund Ax Level (USD)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Pulse (Luxembourg) Series Fund-Pulse Global Income-Earning Non-Investment Grade Bond Fund Axe Level (USD)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "dd3d5de2de43baf99c27100380c615b7c289c4dd",
+      "title": "普徠仕(盧森堡)系列基金－普徠仕美國大型價值股票基金Q級別(美元) 的總覽 | 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOSE5IVmJ4aUszSlZpQ3N6RmxEYVkyYU1CWjRlX3dINkZaUFdGUGxWYnFXZ3k1VDRGaWw4UTM2dFhIR3hwaDRnc3hQYzBBSENrdHhYR3RUQmFMMDJoX2dFbmF4dnRKRVYzQlFKNXh2RHFQM1BuczN5RVh0MXhMUG9aWkVTOUU3NzRsQlZCYUZBc2NjUHVyTVFZakFyTERwa2pqUW1GQi1YUGR1cENEcDhET05lRklteFR2Nm9LWFBaZGtFcWtnQzdBMnFSVlRoR2ptTTkyUmg4X2xuemtRMjhJTF9ub0FLTzFyNWE0TVlaYjVUVGFrR0QxSEhjRG93Yk5Ub0lsems4MHRJTmxseWEwUEk1SmtaMTZSTFgtWVhQdDh6SkM4Z3lHMVZqWFUyS19mU2pxTFhTaVhLNVpZOTV6OWE1cndaaWk4TjNxZzExMGMzOW1uX2pBa3h2eHZrUmYxLXFHTDhIb3IycG1NSkJJQkQ4T1ozU0R2M3RaZGJoLU4zb1AxU0hjTnQydGNRZHRYYkN2cjFpcDJZdjYtNTFvTU5kYkhVZXdoWExQSGVnUzBCbm5tb1hGQmpuQmU?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun Proximitéit (Lëtzebuerg) Serie Funds - Proximitéit US Large Cap Value Equity Fund Q Level (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Proximity (Luxembourg) Series Funds - Proximity US Large Cap Value Equity Fund Q Level (USD) | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Überblick über die Fonds der Proximity (Luxembourg) Series – Proximity US Large Cap Value Equity Fund Q Level (USD) | Juheng.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Présentation des fonds de la série Proximity (Luxembourg) - Proximity US Large Cap Value Equity Fund Q Level (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "16946bc3387b3462865ab9aa0e8d2addb610a3eb",
@@ -11481,7 +14383,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Zu Lëtzebuerg e Méindeg 19/10/2026 Niki Kerameos - Bedeelegt am Conseil des Ministers fir Aarbechts- a Sozialpolitik (EPSCO)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Au Luxembourg le lundi 19/10/2026 Niki Kerameos - Participe au Conseil des Ministres de l'Emploi et de la Politique Sociale (EPSCO)",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Luxembourg on Monday 19/10/2026 Niki Kerameos - Participates in the Council of Ministers of Employment and Social Policy (EPSCO)",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Luxemburg am Montag, den 19.10.2026. Niki Kerameos – nimmt am Rat der Minister für Beschäftigung und Sozialpolitik (EPSCO) teil",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "38fd2ed0ef5e3f759cd06ebbc1295ff7a985ea38",
@@ -11844,7 +14763,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg U19 - Slowenien U19 14. Oktober 2025, Schlussresultat a Matchresultat 1:4 am Fussball - Europameeschterschaft U19 2025/2026 Sport-Express Websäit",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg U19 - Slovenia U19 October 14, 2025, final result and match score 1:4 in football - European Championship U19 2025/2026 Sport-Express website",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg U19 – Slowenien U19 14. Oktober 2025, Endergebnis und Spielstand 1:4 im Fußball – Europameisterschaft U19 2025/2026 Sport-Express-Website",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg U19 - Slovénie U19 14 octobre 2025, résultat final et score du match 1:4 en football - Championnat d'Europe U19 2025/2026 Site Sport-Express",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "e2d1f802445275ab406917ee52845467464a1f9d",
@@ -12224,7 +15160,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg Onraffinéiert Apple Cider Esseg Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Unrefined Apple Cider Vinegar Prices and Trade Data | Market Overview 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​et données commerciales du vinaigre de cidre de pomme non raffiné du Luxembourg | Aperçu du marché 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Preise und Handelsdaten für unraffinierten Apfelessig aus Luxemburg | Marktübersicht 2026",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "014cc6c2d1e2d1c37ce72338a2a1d1fd8270ab67",
@@ -12240,7 +15193,57 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Prix ​​et données commerciales des artichauts séchés du Luxembourg | Aperçu du marché 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Dried Artichoke Prices and Trade Data | Market Overview 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg getrocknegt Artichoke Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Preise und Handelsdaten für getrocknete Artischocken aus Luxemburg | Marktübersicht 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4315614c1f542995fdecafe1801ef787e220f66a",
+      "title": "룩셈부르크 신선 램스레터스 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91RTVwWDAwSGxkRW5Tcl9ub2dYQzFOTy1zc0pYeE1NcEJBYk80Y0pmV2tXcW9OSncyVHBySkhHR2FwUmctREw4eENRa01TZTlZTzE5TVN3UWNqLVpfcjNMeWdBMUZNbUpXcHlwcmZYMmx4eWc?oc=5",
+      "source": "Tridge",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Données commerciales et prix de la laitue d'agneau fraîche du Luxembourg | Aperçu du marché 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Preis- und Handelsdaten für frischen Feldsalat aus Luxemburg | Marktübersicht 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Fresh Lamb Lettuce Pricing and Trade Data | Market Overview 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg Frësch Lamm Salat Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "9d67f64655a78fc64ac38162ecebcb8adf61f209",
@@ -12483,7 +15486,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Luxemburg – Niederlande 30. Oktober 1963, Endergebnis und Spielstand 2:1 im Fußball – Europameisterschaft. Qualifikationsturnier 1964 Sport-Express-Website",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Netherlands October 30, 1963, final result and match score 2:1 in football - European Championship. Qualifying tournament 1964 Sport-Express website",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Pays-Bas 30 octobre 1963, résultat final et score du match 2:1 en football - Championnat d'Europe. Tournoi de qualification 1964 Site Sport-Express",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Holland 30. Oktober 1963, Schlussresultat a Matchresultat 2:1 am Fussball - Europameeschterschaft. Qualifikatioun Tournoi 1964 Sport-Express Websäit",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "0c64eab320005c570654196cfc75f41dd1122955",
@@ -13560,6 +16580,39 @@
       }
     },
     {
+      "id": "cc18d4c5a134b5555a2fdbb45e3b575e3586ef98",
+      "title": "Βουλή: Προς κύρωση οι αμυντικές συμφωνίες με Λουξεμβούργο, Βοσνία-Ερζεγοβίνη και Σλοβενία για την προστασία των διαβαθμισμένων πληροφοριών",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZkJTeUtkem52bHc5Q05Uc0x5aktxZlRUelVULUFEZWZwZ3pIZHpibWxqeC0zd1dHUWtlTmM2WG93Y3U5dGt4M2xtQ1oyX3h0T3FDNDU1U3VPNlJtUjlwbHhIOVRpMzI5UVdnNDFzWWRiOEJ2UnVzby1reVdOSnJKWkhiQ3hZU2VEakJDdXB2Qlp6MWhXbFNUekY1WTZac05iS3ZHMU9iSkN3UHFkTERKeWtoRXFRa1lyRWJFRnJQeUpWcTR5blV6ckhuenkzWFhMaWIteW8ySzZWZ1g2YXl1NkRCRldfNmI2N0ZQUDBVREZnX2xPTWlDNVpoZk53R0E?oc=5",
+      "source": "Αθήνα 9,84",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-17T08:50:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Parlament: Die Verteidigungsabkommen mit Luxemburg, Bosnien-Herzegowina und Slowenien zum Schutz vertraulicher Informationen stehen zur Ratifizierung an",
+          "summary": ""
+        },
+        "en": {
+          "title": "Parliament: The defense agreements with Luxembourg, Bosnia-Herzegovina and Slovenia for the protection of classified information are up for ratification",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Parlament: D'Verteidegungsaccorde mat Lëtzebuerg, Bosnien-Herzegowina a Slowenien fir de Schutz vu klasséierten Informatioune sollen ratifizéiert ginn",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Parlement : les accords de défense avec le Luxembourg, la Bosnie-Herzégovine et la Slovénie pour la protection des informations classifiées sont en cours de ratification",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "a2e0c4d719e50bdc2c1bc807ea7b9537f136033d",
       "title": "Τρεις αμυντικές συμφωνίες προς κύρωση στη Βουλή: Με Λουξεμβούργο, Βοσνία-Ερζεγοβίνη και Σλοβενία",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZER4N0VrWjI0NWdveTVZMjV5SWlMSG00N3lSc0thbG8tVmJBSURaMHNfZ0pXQzh3UlIzc2xnUGtFQ2VtMU9JdERrWFJCMUYxV3h1VV9sZTZzUjNrcWIwR1hUWWdLcGFPa3VoalN1NmJFNDBLUFlfQXRIekptZFZTT1hZVTc4VkVGNmtHS3BBLTZ2TGhDRUR4ZTRJR0NpZnYtV0ptSVdPRDVSMzBhM1Yxbmo3VFlNc3R5NW1Ia2drYU9UeEg5RjBMSlEwSnBBQ0NPN0I0?oc=5",
@@ -14296,7 +17349,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group Emerging Markets Equity Fund (Luxembourg) Z(USD)-EUR | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "de": {
+          "title": "Überblick über den Capital Group Emerging Markets Equity Fund (Luxembourg) Z(USD)-EUR | Juheng.com – Fondsveteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group Emerging Markets Equity Fund (Luxembourg) Z(USD)-EUR | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du Fonds Capital Group Emerging Markets Equity (Luxembourg) Z(USD)-EUR | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ad610be5d9c2dec3526daf7a2da7924dc6f23005",
@@ -15767,7 +18837,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Aperçu du Fonds d'investissement américain Capital Group (Luxembourg) B (USD) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group US Investment Fund (Lëtzebuerg) B (USD) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den Capital Group US Investment Fund (Luxembourg) B (USD) | Juheng.com – Fondsveteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group US Investment Fund (Luxembourg) B (USD) | Juheng.com - Fund veteran",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "47994c739d3c2e2991072e693b05c3391afc0275",
@@ -15783,7 +18870,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Übersicht über den Capital Group New Horizons Fund (Luxembourg) B (USD) | Juheng.com – Fondsveteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group New Horizons Fund (Luxembourg) B (USD) | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group New Horizons Fund (Lëtzebuerg) B (USD) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu de Capital Group New Horizons Fund (Luxembourg) B (USD) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "bc3b0779aff945926c9f8ce6bcc83f35a093dc8f",
@@ -15799,7 +18903,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Présentation des fonds de la série Proximity (Luxembourg) - Proximity US Large Cap Value Stock Fund I Level (USD) | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Überblick über die Fonds der Proximity (Luxembourg) Series – Proximity US Large Cap Value Stock Fund I Level (USD) | Juheng.com",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun der Proximitéit (Lëtzebuerg) Serie Funds - Proximitéit US Large Cap Value Stock Fund ech Level (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Proximity (Luxembourg) Series Funds - Proximity US Large Cap Value Stock Fund I Level (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "6a71fc76de9860794e0aaccd877e7c69e09c9141",
@@ -15815,7 +18936,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Dexter Studio bespricht Videoproduktionskooperation mit Spanien und Luxemburg... Ausbau der Kontaktpunkte im europäischen Content-Markt",
+          "summary": ""
+        },
+        "en": {
+          "title": "Dexter Studio discusses video production cooperation with Spain and Luxembourg... Expanding contact points in the European content market",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Dexter Studio discute de la coopération en matière de production vidéo avec l'Espagne et le Luxembourg... Élargir les points de contact sur le marché européen du contenu",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dexter Studio diskutéiert Videoproduktioun Zesummenaarbecht mat Spuenien a Lëtzebuerg ... Kontaktpunkten am europäeschen Inhaltsmaart ausbauen",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "ec8d506ee4edde2a0b7425a3fd9d1e5c1bbd71d1",
@@ -16299,7 +19437,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Présentation des fonds de la série Proximity (Luxembourg) - Proximity Income Non-Investment Grade Bond Fund Adm Level (USD) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun der Proximitéit (Lëtzebuerg) Serie Funds - Proximity Akommes Non-Investment Grade Bond Fund Adm Level (USD) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Proximity (Luxembourg) Series Funds - Proximity Income Non-Investment Grade Bond Fund Adm Level (USD) | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "de": {
+          "title": "Überblick über die Fonds der Proximity (Luxembourg) Series – Proximity Income Non-Investment Grade Bond Fund Adm Level (USD) | Juheng.com – Fondsveteran",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "478315c012054bd91e1c8658cd2e5847ee4d76d1",
@@ -26033,7 +29188,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Tavares, but et victoire pour clôturer les engagements avec le Luxembourg U21",
+          "summary": ""
+        },
+        "en": {
+          "title": "Tavares, goal and victory to close the commitments with Luxembourg U21",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Tavares, Zil a Victoire fir d'Engagementer mat Lëtzebuerger U21 ofzeschléissen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Tavares, Tor und Sieg zum Abschluss der Verpflichtungen mit der luxemburgischen U21",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "3b39c88852487239118758a2b5ab4280775563ce",
@@ -42680,7 +45852,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "fr": {
+          "title": "Société des Nations. Trois points pour les Balkans : la Bulgarie a battu le Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "League of Nations. Three points went to the Balkans: Bulgaria beat Luxembourg away",
+          "summary": ""
+        },
+        "de": {
+          "title": "Völkerbund. Drei Punkte gingen an den Balkan: Bulgarien setzte sich auswärts gegen Luxemburg durch",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Liga vun den Natiounen. Dräi Punkte goungen op de Balkan: Bulgarien klappt Lëtzebuerg auswäerts",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "eb13ce2d98b73095c2a545e479668de69b71fdf7",
@@ -42696,7 +45885,24 @@
       "topics": [
         "other"
       ],
-      "translations": {}
+      "translations": {
+        "de": {
+          "title": "Übersicht über den Capital Group Global Equity Fund (Luxembourg) B (USD) | Juheng.com – Fondsveteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group Global Equity Fund (Luxembourg) B (USD) | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group Global Equity Fund (Lëtzebuerg) B (USD) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du Capital Group Global Equity Fund (Luxembourg) B (USD) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        }
+      }
     },
     {
       "id": "b44b4621470a6e0d2c9a91ffbc105bc7af167c2a",
@@ -44027,193 +47233,6 @@
         },
         "de": {
           "title": "Luxembourg Fashion Week 2026: GalleriaKevin, die poetische Mode von Kevin Caeiro",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0724c1a852139a794ea3e7cacd19cd8fce74d951",
-      "title": "Luxembourg Fashion Week 2026 : Color by Naz, l’art à porter de Nancy Schroeder-Zwank",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjBidEdpMjhrN3lDbWs3aWhublJaWTlwbVpJMEVDQUtBMDkwMTIwaGtacENpRXNKdElqb3NsclY1Z1REZm1UMEtMYzVkSTlWdjcxSnE3T2Y1YkdydVBPLUQ2VzdoVEJfRmdid09lNFFHcjlGUWtlZ3JQQ3NZcTJZVXlxblZRVE1mamNzT3dqeWJJSzAzdHU4X3paUjlMLXlGaE0yb1NSQzJMdTFVajdoV29hd0dVR1FYZG9na3p5SGF5Nms3Mmc?oc=5",
-      "source": "Info-lux.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-07T15:30:46.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg Fashion Week 2026 : Color by Naz, l’art à porter de Nancy Schroeder-Zwank",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Fashion Week 2026: Color by Naz, the art à porter of Nancy Schroeder-Zwank",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxembourg Fashion Week 2026: Farbe von Naz, die Art à porter von Nancy Schroeder-Zwank",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b23d6c0c8e8c3833879ff254756ba65dbd5231e9",
-      "title": "Luxembourg Fashion Week 2026 : Ana Loyarte présente SILENCIO, entre lingerie, corseterie et tailoring",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWhNRHotZnNQRTFWbXJUYTdZNnZjWk1OTlpqcmEyckJyUEp5UzdqaWtkSHRWSm5vcU1BSUZKUnBkVjFDYUNJMGtoZGt6MFJJQ0JyaFJqOENSVTNlSHRvd2M4ckJXMUdjSExqYmZlUzZ4ekNScXFNclVIWU40aExQWU4zWU5lV0dnM0l5NW5lVnRJaDFwMGZLYnFiVlU2S1dWSVhVbW9DbFlRMVJJNnptQVo0NDY0TDN2Um85elFjV2dCQUxT?oc=5",
-      "source": "Info-lux.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-07T15:30:43.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg Fashion Week 2026 : Ana Loyarte present SILENCIO, among lingerie, corsetry and tailoring",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Fashion Week 2026 : D'Ana Loyarte presentéiert SILENCIO ënnert Lingerie, Korsetten a Schneider",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxembourg Fashion Week 2026: Ana Loyarte präsentiert SILENCIO, darunter Dessous, Korsetts und Schneiderei",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c184c9d94a5745716e1ec39aae8db76a3761197d",
-      "title": "Luxembourg economy contracts 0.9% in second quarter",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnVWUFJ5emZHdmJvdXpwa3Rvc29idFRONXprcG1DcEx5X1NmM3JmX0lqV1o5QXl0QzdqdG1mLWRUM3prWERmclJmSS0zUWQ3YmU1OUxTT0NsYk1KcXVkV2FfTHBBdnBTR1FwSTZRM0dkeHA0UE91dzhNZG14MmF2VW95NWhlVlpvSmRwN1RYNVRxU1V3?oc=5",
-      "source": "Yahoo Finance",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-07T15:03:33.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "economy",
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Lëtzebuerger Wirtschaft klëmmt am zweete Véierel ëm 0,9%.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die luxemburgische Wirtschaft schrumpft im zweiten Quartal um 0,9 %",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'économie luxembourgeoise se contracte de 0,9% au deuxième trimestre",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "656385b91ff48ea980ae1896a02d70886687d6d7",
-      "title": "Boulaide 공기질 지수 (AQI) 및 룩셈부르크 공해 | IQAir 대한민국",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jYzE1ZWQzblhZVnJsMlJKMGNVYTBadzBCVEluTVliVUlXUEZmODZTVXBnYkYxR3NWZFRtLWw2RTl1eVdzem9zRUc0aTJ4VkoxWlNwRVBZSlV1VVhqOTBNZFEwZmtzQTYxOWVFR2tYcw?oc=5",
-      "source": "IQAir",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-10-07T14:39:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Indice de qualité de l'air (IQA) à Boulaide et pollution de l'air au Luxembourg | IQAir Corée",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Boulaide Loftqualitéit Index (AQI) a Lëtzebuerger Loftverschmotzung | IQAir Korea",
-          "summary": ""
-        },
-        "en": {
-          "title": "Boulaide air quality index (AQI) and Luxembourg air pollution | IQAir Korea",
-          "summary": ""
-        },
-        "de": {
-          "title": "Boulaide-Luftqualitätsindex (AQI) und Luftverschmutzung in Luxemburg | IQAir Korea",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fb3b8fa390068f24e76b4640ea96a236deca8913",
-      "title": "Reforma da cidadania: o “duplo reenvio” de Avellino entre Roma e Luxemburgo",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVF0Y1cwZERDRVRxZ3QwTm5tVk9FcHFUOWZ6bVVBbWMyXzFBY1FnRjJ5Ui1LVTFQTmEtUl9IdmdHQTJrZ0hQSXpJRU5XUXkwcHV6Zzd4ZHc4RlFadV9PcUhDeUJIeXVaeTdVRWJIT05fQjFwczc1ektxQ0RxSVJNZ295aV9rYVQ4eWNQWWFYUWc1UHpDb1djeVJGOE1ySFlFSGc?oc=5",
-      "source": "Revista Insieme",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-10-07T14:27:37.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Staatsbiergerschaftsreform: Dem Avellino seng \"duebel Retour\" tëscht Roum a Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Citizenship reform: Avellino’s “double return” between Rome and Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Réforme de la citoyenneté : le « double retour » d’Avellino entre Rome et Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Staatsbürgerschaftsreform: Avellinos „doppelte Rückkehr“ zwischen Rom und Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f4d37108c7f8abc9c6f6933e1fd68339221a994c",
-      "title": "Riforma della cittadinanza: il “doppio rinvio” di Avellino tra Roma e Lussemburgo",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjYxOTBtcEpfVlNlWWFDaDFXUUdZbDBaQUg5YjRuNDRNNU9HTTduRXJRYXN1T3AtaU1kaVVsNFFxLU1UZjlIaC1aSXBoQ1NEUmx6SERfSmpnakdfOHpKZDFVTmJycTJKcW14cl9hclR6TWNQSlQ3WjJHeFRhTllUWXBuZUhCNXV3ZUZTTnAyUmU1UTFiLWFLZ2YxV1g4cDZSOFNwMTl3?oc=5",
-      "source": "Revista Insieme",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-07T14:27:37.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Staatsbiergerschaftsreform: d'\"duebel Verrécklung\" vum Avellino tëscht Roum a Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Réforme de la citoyenneté : le « double report » d'Avellino entre Rome et Luxembourg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Citizenship reform: the \"double postponement\" of Avellino between Rome and Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Staatsbürgerschaftsreform: die „doppelte Verschiebung“ von Avellino zwischen Rom und Luxemburg",
           "summary": ""
         }
       }
