@@ -1,6 +1,86 @@
 {
-  "generatedAt": "2026-10-25T11:43:08.738Z",
+  "generatedAt": "2026-10-25T16:24:52.133Z",
   "items": [
+    {
+      "id": "234ec150e728dabc343b6c9a5b2188173d4851fe",
+      "title": "Luxembourg : trois médailles pour Maélyne Grisard et Marius Arnaud-Rolland à la Coupe internationale de karaté",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLWo3ZDBZcmx2MGdiaWk3d2pEcnJfRnRyRVV6NS1ETnVHNzZrTWpVbHU5WDl1VEktOHVGNzZIakJJRlp0WnBmV2RrQ1JfOTc2RGZZTWxRcUhSYUk3d3ZjVkcxWDFJcWJ3ekJzQ1U0Z0lJY2kzeU5aQ1dQc2pVYVpMQXR5NVBqa002di1hcDhSNHNGblU2S2dBSXl5akwyUGdSUE82VWRSbWlyYkozQkkxdF9PUnRxa0YxdXAxQ2JzTDlaRl8tUTR1MkpaNDVSaVpNM3NYRnpTS1lENXdTNHplYjF4eUZOd0JJbkdQYV9oa3k?oc=5",
+      "source": "Le Journal du Centre",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-25T16:14:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "5ecf4dd57f8f0259af2f9bd99fa1b7a56331ca70",
+      "title": "Luxemburgo acoge el Consejo de Pesca de la UE con Villaverde en representación de las comunidades autónomas",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOURaWWt5bDBLeUNOLVRqNHdxVHVkMXA4dlZvcVI0ODhsQnM3QzJMWkRpS0J0WFh1QnNZcWhJUVNyYWtrb0hPOUNUNXVpd1BRU3BSQ0gtVlZMM1ZQa1FhLTEzN2pCbjk4U2ZkOUxHN2lrdHlPREFDNUc5dGthLVc2VU5yRG5CVmt3SnJVdzZNOHRfSGttQlJ1YjItSXA2Q05HeUdFcEFrejJLa01LSS1tTFZOejlIOE9UZ0tuUm01UVBTV3JTRGk3MFRzOVZqT3NGNVBSbUJ4ZndNd294c1FsODJR?oc=5",
+      "source": "Diario de Santiago",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-25T16:03:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "3d215ae3f30200faf268c02a62a286f1d7fb069b",
+      "title": "Automobiliste ivre au Luxembourg: il roule sur trois roues et ignore la police",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZThvaHBkR2RUZjlZQUFFdjRaN0NVaHBoU2RjXzZ4ajh6X2EyQVFCbkdUZE44WnBjZDZDVWNXc09PeW45UXJWUGFjU2x5eDdxYjRiWGFacVpFVzh5eDFyanFVc0RvdjVaUGhNVmdXbnlTUlZqSVFyaVZlVzFKTnZ6ZkplRE4wSXF5YlRQbzNRNE5qOTNvZVQ4cVRadXB3VFNkaWlBbVpjN00zS1E?oc=5",
+      "source": "Le Matin",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-25T14:09:51.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "2f6fbd05622dffd715353d7ce37f307abcf9ce3a",
+      "title": "Arthur et la Belgique : un départ non confirmé, des liens financiers avec le Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDcwX3pUVTdDZ0lzcnNxcGlSamdzNTE0V0VVbU1jNUhkS2RoOVlLa1lFSTJzeENLenlyX2t0cmFpUndRWTNaUEoxaXFzcUpUWlBiZHd4YlhtQVNDRnlJZy02bTRhdnZwWlBDeUd5OUYtRVhvQjFEV2dpQkR0Z2VxdWxPdHJSQlN6?oc=5",
+      "source": "Cyril Jarnias",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-25T12:07:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "78ad091252315301ac678bfa1d7dc832a034796d",
+      "title": "Promille-Fahrten in Luxemburg: Lieferwagen donnert in Polizeiauto",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVC0yVi05SEF6RDJiQkxXV1ktU0hiUEpOWFVFNWJwR2RPNjMyTDZjUlo3VVJKZjdEVnRkdWt0RTJLUUlnTEpjMHNmRm9YRHBVWk9hWFB2NzRmWFZoZHhWS0E2dFdueE10a3lPSWxTOWpPSHNsUjVRdHoxbEl6NlpDWnhSTGI5Wm5tdXp6cHNXNWJxMUJkUy1uYVByaEFzb1E?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-25T10:50:28.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
     {
       "id": "7eb95b781f9a111b88d392eb5a53defd1f75f7b4",
       "title": "Ремонт дорог на Розы Люксембург, Чернышевского и Восточном промузле продолжили в Иркутске",
@@ -15502,6 +15582,22 @@
       }
     },
     {
+      "id": "d67f520264ba4a072d28cd010ba0a2b396bffc8b",
+      "title": "UNA Strassen - Racing Luxembourg 1-1",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUF9STjRXRUlUclc3V2hKbGRaMHlvdUtsQlAycDV1Vkd4UnhpeHJwUlVQVHJ0NUdITHo1TEVLTTJJNVlteHE4LU1Jd29sbnRZRjlKSmNULVdRRkFVVW1EVDlTWjdZeGxna00tNlFvTVFjdFNldnNIWXBOZDAwczlHLVpnbGxzZ0Z2MGJ1bVBTSnBOb0swRVE?oc=5",
+      "source": "Flashscore.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "9d67f64655a78fc64ac38162ecebcb8adf61f209",
       "title": "Luxembourg Old Town hosts Bock tours on 24 October",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbE41eWVzTG1fbS01VUF6cWpXTnd4RFpJMDdpUmVWeUVvRmVnc1J0eWNrRTZXSE55Y2ZyTWI1cEtCLVlGeV9JVkhfU3drTmtBcXZia09weW9RRWpONkpyQkV6TnVfZ0hLMHVsNTh4ckNNckF3TXpsN3lkQ1dRYW9JRkh6MFQ5N044RUdHQ3lVd0M3Rzg3X3ZRRVVEVXZCbmJjUmtZaTl5YnAwdw?oc=5",
@@ -28184,6 +28280,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "3d05b5410fd992589fd33574a95e4a843f435f21",
+      "title": "문체부, 한국과 룩셈부르크, 문화협력 방안 논의",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fNEV3bm9OeVNkbTVSM1lWbklvcGd1b3k4ckwySkpJeVZjbVE4ZEt4Yy1oZTBXdUczZndvbHk3eTR6VWFqQnlBVjZKT0Y1dU5oZEU4SkJDWXBnclgwY3pfczJiLWdodw?oc=5",
+      "source": "자유방송",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "3188fffded4926753fca90940219b31e8de20ea7",
@@ -47033,225 +47145,6 @@
         },
         "fr": {
           "title": "Calendrier de football féminin luxembourgeois saison 2026 [Encyclopédie des équipes internationales]",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "98bb7c8fe5fe31577e106734455928958032eddb",
-      "title": "Μάκης Κεραυνός: Μεταβαίνει στο Λουξεμβούργο ενόψει Eurogroup και ECOFIN - «Η Κύπρος έχει ζητήσει παρέκκλιση για τον ειδικό φόρο κατανάλωσης στο πετρέλαιο θέρμανσης",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWEJGWE10RTM2TnpCanJVY0NzMEZtYUt1ZDVsUmlMVzFXZlctTDJsWjJ4OGNZeEgyb3V5U05hQUVUQkN3NHhkNTZMWnpsVTVPU0xkLVd0a0dsbXB2Nmc2cGtyemVQNzdmSUxQUW5iYmVOX1k3ZjVSYlRjeVgyWU1KY1JpVkVJS01ma01FMG5xcWFMbmpmank5QXRBN1hxU2VWSHR5RkVWTmtuaUphZTlWZzJMWURzOThtdlBrZ193?oc=5",
-      "source": "https://www.ant1live.com/",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-07T17:37:28.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Makis Keravnos: Zieht vor Eurogruppe und ECOFIN nach Luxemburg – „Zypern hat eine Ausnahmeregelung für die Verbrauchsteuer auf Heizöl beantragt.“",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Makis Keravnos: Plënnert op Lëtzebuerg virum Eurogroup an ECOFIN - \"Zypern huet eng Derogatioun ugefrot fir d'Accisen op Heizöl",
-          "summary": ""
-        },
-        "en": {
-          "title": "Makis Keravnos: Moves to Luxembourg ahead of Eurogroup and ECOFIN - \"Cyprus has requested a derogation for the excise tax on heating oil",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Makis Keravnos : s'installe au Luxembourg avant l'Eurogroupe et l'ECOFIN - \"Chypre a demandé une dérogation pour l'accise sur le fioul",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "971f3cff45faeb32dee62671d022dd1637fa0211",
-      "title": ", Лига C. Группа 4. Люксембург - Эстония:",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VX3VDamRaWkFXQkIyZXFFenI1bWYzU1dkVFRtMDJlZkVIaUZpaFQtMGk5ZnBFajhtUnkzQnlOVG1iTVJIRTJReFVuRlpSakNtbm9HQmtn?oc=5",
-      "source": "Fanat1k.ru",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-07T17:15:19.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": ", Liga C. Grupp 4. Lëtzebuerg - Estland:",
-          "summary": ""
-        },
-        "en": {
-          "title": ", League C. Group 4. Luxembourg - Estonia:",
-          "summary": ""
-        },
-        "de": {
-          "title": ", Liga C. Gruppe 4. Luxemburg - Estland:",
-          "summary": ""
-        },
-        "fr": {
-          "title": ", Ligue C. Groupe 4. Luxembourg - Estonie :",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "62524e2e9ed7de16263293fe91be07703c577c3e",
-      "title": "Жерсон РОДРИГЕС: \"Я не закрываю дверь перед сборной Люксембурга, но они должны прийти ко мне\"",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3Y0TG9paWpXZVJzQjkwcDZPZW9ROEZ5dkdEVHNlTHFURE92aVVNbU9aWlpVV2JyZEtQSWV6S21TTlo5QndDNld2MVB6d1ZDb003UER4dWo5TDl1MFBjb3lPUm1sLU5BVXhVMmtzMDRMX0ozVDlUVklfc3d0V2xLd2w1ZmlXaDNIdjZyX1ZBSXRBemNwNEc3TnZicTZ3TEpZNlNHVnVVdXdlWm5hRnI3VktVaWQ4bGZON2ZMemNnZUtSWjZ0N2FTamcxaUlZaFhla2c?oc=5",
-      "source": "Dynamomania.com.",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-07T17:15:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Gerson RODRIGUEZ: \"Ech maachen d'Dier fir d'Lëtzebuerger Equipe net zou, mä si musse bei mech kommen\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gerson RODRIGUEZ: \"I do not close the door to the Luxembourg team, but they must come to me\"",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Gerson RODRIGUEZ : \"Je ne ferme pas la porte à l'équipe luxembourgeoise, mais il faut qu'ils viennent à moi\"",
-          "summary": ""
-        },
-        "de": {
-          "title": "Gerson RODRIGUEZ: „Ich verschließe der luxemburgischen Mannschaft nicht die Tür, aber sie müssen zu mir kommen“",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "af9eec570b0569cece8c8a346851502d1eb55019",
-      "title": "Жерсон РОДРІГЕС: \"Я не зачиняю двері перед збірною Люксембургу, але вони мають прийти до мене\"",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQamF4Z3FQVEZkVHQwam5MLVdvRlctWUo1YXFFMW9xTThmUW9ETnZrY0FGZzlWWjVEVWI4ZjM0QUhTV3VHejF5WTRweGo0eDVxaXhOTGZsaEdUZ1FRRjZwLUFaZUFJR0hxZHljSG5CeTczV1Vrc2h6dkp0T0ZzSHV0NmdLeURHcEItN29ZUVdHSkgyZFVybW1BSjNzeVhVZWxtcElKcE9vTFZ2aDllS1A0TWpvLUFDdUtOUzdmQkNob1oydlRqS19KWXN3dFR6Zw?oc=5",
-      "source": "Dynamomania.com.",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-10-07T17:15:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Jerson RODRIGUEZ: „Ich verschließe die Tür zur luxemburgischen Nationalmannschaft nicht, aber sie müssen zu mir kommen“",
-          "summary": ""
-        },
-        "en": {
-          "title": "Jerson RODRIGUEZ: \"I don't close the door to the Luxembourg national team, but they have to come to me\"",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Jerson RODRIGUEZ: \"Ech maachen d'Dier vun der Lëtzebuerger Nationalequipe net zou, mä si musse bei mech kommen\"",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Jerson RODRIGUEZ : \"Je ne ferme pas la porte à l'équipe nationale luxembourgeoise, mais il faut qu'ils viennent à moi\"",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6e22625f1640331b495146437ed8bf61ed5a21e4",
-      "title": "‼️BLOCUS‼️#luxemburg 🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺#fyp #viral #pourtoi #trend ",
-      "url": "https://www.tiktok.com/@t1.52109/video/7693974829354978582",
-      "source": "@t1.52109",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-10-07T17:11:57.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/okgwZWjiiMfbeANT8OgAMLIsDeGUyMMDsecfsg~tplv-tiktokx-dmt-logom:tos-no1a-i-0068-no/oYJM50qIADjpAQwIWFLVAfGGAQIOALYVePjImf.image?dr=10393&x-expires=1791734400&x-signature=YN%2F2KPgTphBW4nYQAyY9JiLRelI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "‼️BLOCUS‼️#luxemburg 🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺#fyp #viral #pourtoi #trend",
-          "summary": ""
-        },
-        "en": {
-          "title": "‼️BLOCUS‼️#luxembourg 🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺#fyp #viral #pourtoi #trend",
-          "summary": ""
-        },
-        "fr": {
-          "title": "‼️BLOCUS‼️#luxembourg 🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺#fyp #viral #pourtoi #trend",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "94cb806f23952ff5ef3846a75d3078fad200a44d",
-      "title": "Le Luxembourg paiera le chômage des frontaliers. Mais qui gèrera l'aspect administrtatif ?",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXVaNVlwSHFEU1V0ZTNzTXNSc3YzZXRVaExBT3VxXzV2SFZ5UlVaS0c1ZDNoSU9GOExGVVYtSkxuYVlJT192N29lWDdHZmc0aDhfZ0l6NXVBbld2aXRIbWtqWFVJcklRZUZ0SmUwMG4tcXBaNVNIZW4zLU9KUU53WTk3UFUtUUpsVTdsQndGcDZWU0Vvb0MwdXpjUXo1REx2VDcxTWRLcVBsTFBMeGZwdlZ2UjY3SkQ2TjdEcHFBR3k0dw?oc=5",
-      "source": "TV Lux - Naturellement Proche",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-07T16:45:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "economy"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg will pay the unemployment of cross-border workers. But who will manage the administrative aspect?",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg zahlt die Arbeitslosigkeit von Grenzgängern. Aber wer kümmert sich um den administrativen Aspekt?",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg wäert de Chômage vun de Grenzaarbechter bezuelen. Mee wien geréiert den administrativen Aspekt?",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "65278ec99afae318337295c006b09bd8ffbfe5a6",
-      "title": "Luxemburg Travel #luxembourg🇱🇺 ",
-      "url": "https://www.tiktok.com/@culture.unveiled/video/7693964856852073760",
-      "source": "@culture.unveiled",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-07T16:33:15.000Z",
-      "summary": "",
-      "imageUrl": "https://p19-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oImBxlUAXnZDYp6yCerREufPEQDFGdEqQIWQav~tplv-tiktokx-origin.image?dr=14575&x-expires=1791810000&x-signature=JB6v7yCaXNcWd92SW%2B%2FU2jrxFJI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxemburg Travel #luxembourg🇱🇺",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Travel #luxembourg🇱🇺",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg Reisen #luxembourg🇱🇺",
           "summary": ""
         }
       }
