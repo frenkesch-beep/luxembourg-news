@@ -1,6 +1,539 @@
 {
-  "generatedAt": "2026-10-29T07:08:22.885Z",
+  "generatedAt": "2026-10-29T14:23:03.020Z",
   "items": [
+    {
+      "id": "2d0b237efb577fa0b175c9b8d85347f4fab0f0b8",
+      "title": "SNCF. Le trafic est interrompu sur le RER B entre Châtelet et Luxembourg après un accident grave de personne",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNjZVeTRDVWRzSU15VGJZalFQTzNod3dmQ1Q2ZXlCdTJOdHF0amVXRmcyQ2lzSnlScW9PSnRlNURMWVhGVGppZWs1Z09LUzNkd01USE5pREhpZTRsLWV1ZnlqZElkTGdBU3lEX2VDUlFVNElKRjI4dldkWkFubFRWU29lUnBvZEgtakI2aktUME9CZ21XV2swV05JTkh1SElsbmI0cGJDQ3VLRmxJdm5sdUkwdS12anBKYlRBZFh5UWNfaEhhRVBCaGZxZ0NnaGFiazhkckNvbXFvdDYxWXVReXo4cmdmbWkxNC02WVlYQ19ZNFpfTXc?oc=5",
+      "source": "Actu.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-29T13:36:59.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "f0ad419755083e835066d163db71510b0b5a0304",
+      "title": "Nexus Luxembourg returns in March 2027 with sovereignty at the top of the agenda",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVi1iZy1rdl9zVHJWblpmOV91cmxHdl8wRDc1ZUlUT0ltZWtUcGRIeU1NZkcydDBHb3JJZjlnczVrdVZtQUh4OG5qTzNBZi0wYTNGZjJVT2NYYktSR0VvczdzRDZYajhUcGRLRHN0Mm9QcjJQQlI0UWZpX2p6cC1HVThSSW80d0gxbFZnU3NzMzJxWW90TXZqazdMQU1xUEtZcHI5RENwMGNZS0hz?oc=5",
+      "source": "Tech.eu",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:34:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Nexus Luxembourg revient en mars 2027 avec la souveraineté en tête de l'agenda",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nexus Luxembourg kënnt am Mäerz 2027 zréck mat Souveränitéit un der Spëtzt vun der Agenda",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nexus Luxembourg kehrt im März 2027 zurück, wobei die Souveränität ganz oben auf der Tagesordnung steht",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e08b5ded523924736c9b78c85fabc12853b456d6",
+      "title": "In viaggio nel piccolo Lussemburgo tra castelli e vigneti",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUhvelY1MGRNWGNhRktxM3NSTzg0WHNHQm1iTWh1YXJvWXU5cjd0R1FxZGZpQ0hVcVV1MTdnRXNfZzdvdGgzRUFTbTBaeGJlWXBoYWhCRk5JVlctVldRZHpZOXVrc21MOXN6YWZhUVFjcjBLVlE5TVVJbVk1SkhUTk02eUtmYWNG?oc=5",
+      "source": "Eventi e News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-29T13:30:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Reesen am klenge Lëtzebuerg tëscht Schlässer a Wéngerten",
+          "summary": ""
+        },
+        "en": {
+          "title": "Traveling in little Luxembourg among castles and vineyards",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Voyager dans le petit Luxembourg entre châteaux et vignobles",
+          "summary": ""
+        },
+        "de": {
+          "title": "Unterwegs im kleinen Luxemburg zwischen Burgen und Weinbergen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fa744061a4d61e13041e50362606772cfe15aaa4",
+      "title": "CITIGROUP : GLOBAL MARKETS HOLDINGS INC., CITIGROUP GLOBAL MARKETS FUNDING LUXEMBOURG S.C.A., CITIGROUP INC (3 issuers) - Final Supplement",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcFRfV0RqSFRMbkVJdEJveXNET3lhdm1xNkZ4czc1OGU0UGlsYnpqTndQZDY4V2FuNm1maUlNYXpQUVVZMjdJZFZneEY1Y0lubVBmNml4cVJ6dXFyNFpsZUtSLVdYSFU0dV9xaVFNNWlzdGdkbnZ5a1RiazdhOVZ2SFVNQUJnd0ZkRFNTNHl4QnhvZmtNQk93dTlkYjl2b3FQQlV5MHJreFlfdUhNcll2NDROX3V3X0RWQmdTd2tTU1poVWpkdXgxNVZxejFaRUtyTURBeVVpTmhYenBOa0k4WA?oc=5",
+      "source": "www.marketscreener.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:21:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "de": {
+          "title": "CITIGROUP: GLOBAL MARKETS HOLDINGS INC., CITIGROUP GLOBAL MARKETS FUNDING LUXEMBOURG S.C.A., CITIGROUP INC (3 Emittenten) – Endgültige Ergänzung",
+          "summary": ""
+        },
+        "lb": {
+          "title": "CITIGROUP : GLOBAL MARKETS HOLDINGS INC., CITIGROUP GLOBAL MARKETS FUNDING LUXEMBOURG S.C.A., CITIGROUP INC (3 Emittenten) - Final Supplement",
+          "summary": ""
+        },
+        "fr": {
+          "title": "CITIGROUP : GLOBAL MARKETS HOLDINGS INC., CITIGROUP GLOBAL MARKETS FUNDING LUXEMBOURG S.C.A., CITIGROUP INC (3 émetteurs) - Supplément final",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3a916f44ae7e6653821e85b3637599e2a6fbbfd4",
+      "title": "Il Ministro Pichetto al Consiglio Energia a Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ21PXzZ1LWRncXJrSzRaVjVmU29sbTgxdmdEY2w4cnh3YjBqUldvWDFwOER0TWluUnE0WTVLYW9NZHBRT1NNNGY0d191SW1kbzYyQ0dIWmlrN080X1g1azhzcG11d2RJYWFiSTlWbmo2Nmx1ZmxjTzhaRUhXckVFUkEtQlBrLWxSdlNldTNkVV9yRnV2al8zdHFHbXhPV013?oc=5",
+      "source": "Ministero dell'Ambiente e della Sicurezza energetica",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-29T12:43:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Ministre Pichetto au Conseil Energie à Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Minister Pichetto at the Energy Council in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Minister Pichetto beim Energierat in Luxemburg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Minister Pichetto am Energierot zu Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c68b56b344f7b39f897d7e70b81c54df4f736f99",
+      "title": "All roads lead to Luxembourg: SS&C doubles down with new office opening",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXRrcmF1azdTMm9IaTlQTV9fMl95dVhJUmk0U1huWDkwaDNhU3M4V0F1cWdyNnBNZy1sR1hPVXY5Sk9Dd2pEOWpERDRENV9HM2x6b3pOaDhPbHMzZGFfb1hrQmN5STRCWDhlOUlVS2ZWMVFESFVCbGQxckdjZ29aZEVnclNRQUt4UzRJZjExV0JyaXJkNjVkazZjZlo5RkU4S1JNZA?oc=5",
+      "source": "Global Custodian",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-29T12:24:41.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "All Stroosse féieren op Lëtzebuerg: SS&C verduebelt mat neie Büroöffnung",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tous les chemins mènent au Luxembourg : SS&C met le paquet avec l’ouverture de nouveaux bureaux",
+          "summary": ""
+        },
+        "de": {
+          "title": "Alle Wege führen nach Luxemburg: SS&C verstärkt sein Engagement mit der Eröffnung eines neuen Büros",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "377fe369e5585a9b5a2628e8e6facaee770194bb",
+      "title": "Quintet Luxembourg : la banque privée entre proximité et ouverture internationale",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmctZFhrb1AxNWQ3YkpEWThTMzM4SkNFS0hWWGdicHc5WG5aQ3ZPckhUUC12VlQ5WUhEaTRPaWxSYV9BbHlTZVYxYnNOVFhhbGJpV0YwanJ6MTA1Wl8tbkIzTXRIRTRxdHA4X3d0RURlbFlwY2xrdE9sWG9ybG9yQkdDMmlndVRMckZBTTU5dHlreHdrcGwxNEIwVnFrRDR2QkdsZVFzTm5vdG9pY0RSY3FOYWdDZUp4SWhnTVhn?oc=5",
+      "source": "Le Figaro",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-29T11:11:40.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Quintett Lëtzebuerg: Private Banking tëscht Proximitéit an internationaler Offenheet",
+          "summary": ""
+        },
+        "en": {
+          "title": "Quintet Luxembourg: private banking between proximity and international openness",
+          "summary": ""
+        },
+        "de": {
+          "title": "Quintet Luxembourg: Private Banking zwischen Nähe und internationaler Offenheit",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d419a0a85f2759bbf7ffa5c108d17593b93a1e20",
+      "title": "Le classement des buteurs dans toutes les séries de la P1 à la P3 luxembourgeoise: déjà 22 buts pour le Paliseulois Nicolas Guillaume",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQS09WRG1KM1kzRERqRndydnZrcEg0VUEtOVFrMVhmVFBMTlZOUTBUMTlsN285Tzh5NlVUU3ZNemZTWTFrNjhZTmpfOVdnUXZ4ZGdpQUpnUGQ0RWZDcENUd1FpZzl0OVh5MFIwLVl0ZnJYZUFhV1FNbXRWZVRqcEdhRU5xWG5ZazlYR1l0c2hDaGdJWjBmbkhfelpuWjJ2bUZCSXpYUU0wTkZIbVNFMDdmMjR1OHA0MkUxa2RYcXdmeWlEYWpvQlA4SEdfd1FyZjhJcElPZEJOMnM4bXJCai15bVdPX3g1MUlhT1lzekdFdXprdjlDVUktWk5OUWJkZi04?oc=5",
+      "source": "L'Avenir",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-29T11:10:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Die Rangliste der Torschützen aller Serien von P1 bis P3 in Luxemburg: bereits 22 Tore für Paliseulois Nicolas Guillaume",
+          "summary": ""
+        },
+        "en": {
+          "title": "The ranking of scorers in all series from P1 to P3 in Luxembourg: already 22 goals for Paliseulois Nicolas Guillaume",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Ranking vun de Scorer an all Serie vu P1 bis P3 zu Lëtzebuerg: scho 22 Goaler fir de Paliseulois Nicolas Guillaume",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "41021c0104730d879e26560111df884acc375b8c",
+      "title": "I tanti volti del Lussemburgo, fra enoturismo, escursioni ed eventi",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0VGSnVZRVc4THlBb3ZKa0ZWTVp4Y1J3YThDb041S0dHa0FuZTZjd0Vob3BzVjhQaDBWd2Q1eEZvVVNBaDRRYWFtQ3JFMEdJWEFpcTVENWh5cWpZcnVlLXFhU2V5V3hJVEVnRktKYVB3R1dCaS1ycWtZc2pnZUtyOUVLVzVWTkUtdW1ZeGJid2hKdXNQUEhWRVFaYjJkTmxObmhzNURuYURmQQ?oc=5",
+      "source": "Travel Quotidiano",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-29T10:07:03.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Les multiples visages du Luxembourg, dont l'œnotourisme, les excursions et les événements",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Déi vill Gesiichter vu Lëtzebuerg, dorënner Wäintourismus, Ausflich an Eventer",
+          "summary": ""
+        },
+        "en": {
+          "title": "The many faces of Luxembourg, including wine tourism, excursions and events",
+          "summary": ""
+        },
+        "de": {
+          "title": "Die vielen Gesichter Luxemburgs, einschließlich Weintourismus, Ausflüge und Veranstaltungen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0475de1f3ebf80f73b64e975a992d625404aa224",
+      "title": "Formidium buys Ci Fund Services for a Luxembourg base in Europe",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQk1odFBqejc5dllraEx3UHB3YnlBUVZ6bEs0Z2MxV2pwazNJNkg1S3k3TGN1TmVqdG44cTEwMGxUbFQ2YzhNMmpDdzBLbDN3MUdlRjJULTJhWG04bTVVcXdEaC1HdGJNeHRyemhqenRxNXVIUEtFU0FYZjNtRmJEMDdB?oc=5",
+      "source": "Outsource Accelerator",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-29T10:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Formidium rachète Ci Fund Services pour une base luxembourgeoise en Europe",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Formidium keeft Ci Fund Services fir eng Lëtzebuerger Basis an Europa",
+          "summary": ""
+        },
+        "de": {
+          "title": "Formidium kauft Ci Fund Services für eine luxemburgische Basis in Europa",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "11bb44e436bf4c717c829ee39de77fd58c1150c0",
+      "title": "Spritpreise Luxemburg heute, 29. Oktober: Diesel bleibt teuer – das kosten Benzin und Diesel am Donnerstag",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2hfWl9PUmJPa09EcmtHRi00SmdhNnRqQXBDOW1mM3BCeDRVWU9qejZ2dGM3ODl5VUZTdmZJUExGVXNGVzczSzZ3cE9zLVRpMFBqWnFVVlF6Z1hpckp1bkJBMm12TUxSdEp0OHI3Rlpfd09Dc3pNQXBYdzR0QzcwQTJOMWU1ekFkcHJ4Nm5yVmF4Vmg4Sl9kbm9aX3dCOTd2eUtMMkJUZGdhNGU5a3ZoUXBWZURSQ0RRc1o3YngtYXI3U1djMVYydXR6QzhSTlZh?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-10-29T09:58:18.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Fuel prices in Luxembourg today, October 29th: Diesel remains expensive - that's what petrol and diesel cost on Thursday",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Prix ​​des carburants au Luxembourg aujourd'hui 29 octobre : le diesel reste cher - c'est ce que coûtent l'essence et le diesel jeudi",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Brennstoffpräisser haut, den 29. Oktober zu Lëtzebuerg: Diesel bleift deier - dat kaschten en Donneschdeg Bensin an Diesel",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a4a1f0eb0d031857b8dd60257ee771a95d16440f",
+      "title": "Παπασταύρου από Λουξεμβούργο: «Χρειαζόμαστε άμεσα μέτρα για τη μείωση του ενεργειακού κόστους",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWTRUZWJaelAtZVNpcHZMRFhlSFBIQ0M1UmxYUVdhV2xRVEthRDZnZnplajdZX3RZZVdPcXRlNUdvUEtkaWtFVTM2VjJvakZkZVpMc0x3UUFGNUZDbFFiUTB4SHRsQU5CWlp4LWF3dWZpMFk4QkZWNmRkTnljcXBQVGNTQWk1dF9QUVhsYXBFUGR0cDhINEZ5QnhGcl9nX3oyak9GWWdIX2FaV2RCUWFMRlhUMURoS2o1TndhUVNuT0I1QlRnR2RPanZB?oc=5",
+      "source": "Fortunegreece.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-29T09:36:47.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Papastavrou vu Lëtzebuerg: \"Mir brauchen direkt Moossname fir d'Energiekäschten ze reduzéieren",
+          "summary": ""
+        },
+        "en": {
+          "title": "Papastavrou from Luxembourg: \"We need immediate measures to reduce energy costs",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Papastavrou du Luxembourg : « Nous avons besoin de mesures immédiates pour réduire les coûts énergétiques",
+          "summary": ""
+        },
+        "de": {
+          "title": "Papastavrou aus Luxemburg: „Wir brauchen sofortige Maßnahmen, um die Energiekosten zu senken.“",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8ef1be11c2b73c729f3fdae25849a6df85914d68",
+      "title": "Hong Kong opens 24/7 tokenised fund trading, Clearstream gains Luxembourg control-agent authorisation",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObHpNaGx5WmRhUzdJRmNCeTExS2k5LUxpRzAwNVI5aWFPQkNsaTlRbGZGSENTT3BZRnZkeklRTTZ5WGJZSm9hTnBwaTNqMERabjRzaWNxSklETVNzbWUtYkxpRTRiQ3g1VktFSXBQbGtYSDFJRk5mZkt5Qk5WT0JpZHBYYWplM2hyd1AwcjVEaEhIZGJQTVVyT2tRSmZCc1k4Q3ltemRmV3pYSmpUWDRpMkpiNzgtOWt5WjExWHJMeUhhdGVRYVZya05ENDVvNy14WHpzQkV6N2JuQndjREtuTW9BY2x0bTA?oc=5",
+      "source": "The Asian Banker",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-29T09:34:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "finance"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Hong Kong mécht 24/7 tokeniséierte Fondshandel op, Clearstream kritt d'Lëtzebuerger Kontrollagent Autorisatioun",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Hong Kong ouvre le trading de fonds tokenisés 24h/24 et 7j/7, Clearstream obtient l'autorisation d'agent de contrôle luxembourgeois",
+          "summary": ""
+        },
+        "de": {
+          "title": "Hongkong eröffnet den Handel mit tokenisierten Fonds rund um die Uhr, Clearstream erhält die Zulassung als Kontrollstelle in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "6ab3fa4b0ca8e9b87ad19450dd3ad54f3feead62",
+      "title": "Ενεργειακή ασφάλεια, χρεώσεις δικτύων και στόχοι της Ευρώπης μετά το 2030 στο Συμβούλιο Υπουργών Ενέργειας της Ευρωπαϊκής Ένωσης στο Λουξεμβούργο, με συμμετοχή Παπασταύρου",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPbHpsWXJGQXZncENVbEdKc09YaFYzSkE2dDJnZWtCbzNFX3pqU1gxSmFTTXRpcm1BY2YzN1JXWjkxV2xDbHRmRVRwNGdScnlKTjQ2Mm5NbGtmRFBWYks4S2JmaGtVM2NJODQ4eGlwLUJGdUZOTnR3cEdwa2twTER1NjJoNHExZjdtNndTdVVyeW5Rc2p1UGVCajFtTVFCSHp2Wm9mSUhDbndTeEVZTWtvZHVJQzBFeGtLNEtOVmlPOHBZcWUwWTNmQzU4TjE2WW52bzFkam1zVnNxNTEwTVZ4aUllX0o4Wk1sMTB2aUhsOGJHUzgzSUdjXzJqWmhMbzJReERQZFlOSE9WUEZ0b3JwRExlRDRQRW8yMW5rV0pEREVzV05VVWdQUTZDN3dUTVZfV3hROG5nQkRONndva3NnN21yZG02M0JPTkNxbWk2dw?oc=5",
+      "source": "ParianosTypos",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-29T09:05:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Sécurité énergétique, tarifs des réseaux et objectifs de l'Europe après 2030 au Conseil des ministres de l'énergie de l'Union européenne à Luxembourg, avec la participation de Papastavros",
+          "summary": ""
+        },
+        "en": {
+          "title": "Energy security, network charges and Europe's goals after 2030 at the Council of Energy Ministers of the European Union in Luxembourg, with the participation of Papastavros",
+          "summary": ""
+        },
+        "de": {
+          "title": "Energiesicherheit, Netzentgelte und Europas Ziele nach 2030 beim Rat der Energieminister der Europäischen Union in Luxemburg unter Beteiligung von Papastavros",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Energiesécherheet, Netzkäschten an Europaziler no 2030 am Conseil vun den Energieministere vun der Europäescher Unioun zu Lëtzebuerg, mat der Participatioun vu Papastavros",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "891c85e7fbe8b9e2c7af66285226db8845664029",
+      "title": "Pichetto Fratin al Consiglio Energia, è in corso a Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYldXdTlTcmd4OF9ybkVjQUFjWXBPLTBTd240TlB6OVA1TE1qUHFoQ3MxZ2xzOWl5NUVtYWlSTVRzTmJQOGpONlhiSVEyVG1fN1dMX2NRMG4yWmNReVJYSWxEWlVjQ3U1UDhPS1J6RnN3MTlZeFNnVVBkc1IxRjN5Zm5xeTN2RXFyRVBDWGdWMU5aS1l0eWJGUDhEcHJ0UFVpSVVQZWxlSjRvLTZLdWVBc1FKMFJEQkRRRlN6R0NIYk9sV0nSAcgBQVVfeXFMTkVBZXVWbF9UQXZpdGRnWWxxZzlQTjRfWEg4SkNTODVET01hTUZESTRDZnVTMXZLbjlVQnBPTk8zZjFQYkEzb0lyMERkMlFkWkQ3bHZfVzVBVWF4U0ZSWjRNRUZMZERBbGlPTlZHSFJSbXBHZlJCUnlEQlBnUkVYd2xMQ0ZISUxkR3I3RXFhTFpYa1A0MEc3VzJCOXNVbldENkY3bUphQ0FzTzRTLXR1V1V4MkFnbFMyX3FFSnRaelRScmpXbWl2RVE?oc=5",
+      "source": "Virgilio",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-10-29T08:37:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Pichetto Fratin zum Energierot ass zu Lëtzebuerg ënnerwee",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Pichetto Fratin au Conseil Energie en cours à Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Pichetto Fratin to the Energy Council is underway in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Vortrag von Pichetto Fratin im Energierat ist in Luxemburg im Gange",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b0a7e889a88e3a638f4d60aba5d875fe4884f850",
+      "title": "Nextensa cède l'immeuble High 5 de Luxembourg à son locataire, le CHL",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjBXeFJWRlhqX1BLODYzMXhBRERCbXVBVFJYbXBZLVI4bEhWazVZajBFNkxBZzk3Mi1iQm03UUhIZ3lBRE94aWxCMmZBTnphR2tUbjVzaUswTTgwdTQxTlR4WGVXMTQ4SDJHa2RjN1BmVzhHclhsV1hsMTVycFNlSUxWMEx4c2NjZFR5SjVkWm1tTENPT2I5TXBkanhOMkZIV212aDlNdDlycmw2MjQyVUpIZDczdm81WDEzNU9obw?oc=5",
+      "source": "Idéal Investisseur",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-29T08:29:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Nextensa cède l'immeuble High 5 de Luxembourg à son locataire, le CHL",
+          "summary": ""
+        },
+        "en": {
+          "title": "Nextensa sells the High 5 building in Luxembourg to its tenant, CHL",
+          "summary": ""
+        },
+        "de": {
+          "title": "Nextensa verkauft das High 5-Gebäude in Luxemburg an seinen Mieter CHL",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "20508508dbf95e9826732f46404fdf8447d3cb28",
+      "title": "Immobilier Luxembourg : le logement neuf le plus cher d'Europe",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTm92QVdJNDBFTndrNFlCakpiWmpYaGVYcWdPU1Izdm9rcHUyYzlGYzNWa2M0YmFoTEd5UFlLS0hURlo3YTBzNnBIRVRkMnZFWkM3VGppOEJNNkN4bzRPS1J2TGVIY3ZkUFQxcjB2dDFac1Rtc1BlUlAydHVhUVpXUFRCZmFjdDgyS2pwRVRXYzg3MzU5ZGk4RFpQcHZlRkFxRnZCOXFONG1DWDhRQVQ4WkN4V2s?oc=5",
+      "source": "Le Revenu",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-29T08:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Immobilien in Luxemburg: die teuersten Neubauimmobilien Europas",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg real estate: the most expensive new housing in Europe",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger Immobilie: déi deiersten nei Wunnengen an Europa",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2c2360b95b71779ddfe18578a72b321303aa373c",
+      "title": "Anatura Hotel Luxembourg : les lacs pour horizon, la nature pour salle de réunion",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX3pkYWJwYUQzTTdFZ0lwVHZqMUFXT05LMzlmbDlGN3UzUzgtMXhhSkhnWWVwcUJlVlRXLU9jU19sTzBtdGpXclB2UVRueVM5bWVmZGx2LWZvWk9QaVRsYV9LSDhVMXpTQm1BbXBpZVlYR1NpeURINkhWVjVfRHdJV3ZjdFl2Q1V5bU1TQmxhMTd3dkoxZ2wwcllOZ2lWbTlFeEJXRWVWd2p5R1d2SUxTQVJkNzlPZnAweGk3Xw?oc=5",
+      "source": "AKTus – CCI",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-29T07:41:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "en": {
+          "title": "Anatura Hotel Luxembourg: lakes for horizon, nature for meeting room",
+          "summary": ""
+        },
+        "de": {
+          "title": "Anatura Hotel Luxembourg: Seen als Horizont, Natur als Tagungsraum",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Anatura Hotel Lëtzebuerg: Séien fir Horizont, Natur fir Versammlungssall",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "a964158bfe44b0396b76336a8f3a9611fad281f0",
       "title": "Malawi beat Hungary, face Luxembourg in Tier C last 16",
@@ -1511,6 +2044,39 @@
         },
         "lb": {
           "title": "Karate: zéng Medaillen zu Lëtzebuerg, d'Veräiner Angers a Saint-Nazaire belount",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c01d9c181d0e06ece45d29fb248d28956e76461b",
+      "title": "Promovarea produselor vietnameze în Belgia și Luxemburg, extinderea oportunităților de cooperare cu UE.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnlTZ3liVDRFTzZPWE1DWk92dmd0NHFnRjdPRG53Tk1oNHJJWV9FeDA3R3dyT0dyeUZFdkJKRXBSTmg1ZTRLQ3JMc1JrQWh0S085SEM2QTRmeTlJTWJUWS1KNmJFZGdib3BWUjJHWTNMMUc1aF9YTE5TNWdfNmtFMmZyamhUNFVJNGI3OU5rT09WOHlhUGF3?oc=5",
+      "source": "Vietnam.vn",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-10-28T08:58:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Promotioun vu vietnamesesche Produkter an der Belsch a Lëtzebuerg, Ausbau vun de Kooperatiounsméiglechkeeten mat der EU.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Promotion des produits vietnamiens en Belgique et au Luxembourg, élargissement des opportunités de coopération avec l'UE.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Promotion of Vietnamese products in Belgium and Luxembourg, expansion of cooperation opportunities with the EU.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Förderung vietnamesischer Produkte in Belgien und Luxemburg, Ausbau der Kooperationsmöglichkeiten mit der EU.",
           "summary": ""
         }
       }
@@ -15231,6 +15797,39 @@
       }
     },
     {
+      "id": "42cb9174b3f7e2e0b89ba847ec5034b44e40208c",
+      "title": "Lüksemburg Temsilciler Meclisi Başkanı Wiseler, TBMM Başkanı Kurtulmuş'la ortak basın toplantısında konuştu",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVhpRUd4ZkJLMlBscVphdHBfOUk3VWFua3RhZlJ5ZFEyQVdCaGFySGFiOGlyLXA2eTJoWXdCYVVrRzBtWlNfZThMbmhnN1d2a2JiMGUyRkVnQUFBSTZzSzJmYlBJT1gtWHdpMlVOck10VnZWbTBYZnhrbE1lYTQyQzJlS2lLTFUtNk5ZZEJSU0xKMC1WTFBKN2N1bWQxZ0ItdjZuSlA4dzc0dldWWHc4dG9BTkdobXFMRVcwc01rd0pLd2NpVElKNUlRb1Z5ZThsbnc?oc=5",
+      "source": "Haber 1",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-10-22T12:35:11.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Der Sprecher des luxemburgischen Repräsentantenhauses, Wiseler, sprach auf einer gemeinsamen Pressekonferenz mit dem Präsidenten der Großen Türkischen Nationalversammlung, Kurtulmuş.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le président de la Chambre des représentants luxembourgeoise, Wiseler, s'est exprimé lors d'une conférence de presse conjointe avec le président de la Grande Assemblée nationale turque, Kurtulmuş.",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Speaker vum Lëtzebuerger Representantenhaus, de Wiseler, huet op enger gemeinsamer Pressekonferenz mam President vun der tierkescher Grand National Assemblée Kurtulmuş geschwat.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Speaker of the Luxembourg House of Representatives, Wiseler, spoke at a joint press conference with the Speaker of the Turkish Grand National Assembly, Kurtulmuş.",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "d45f7337e2164f63cf36ca137a7019420cd43f6e",
       "title": "Светлана Тихановская выступила в парламенте Люксембурга: поддержка беларусов и европейское будущее Беларуси",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNS0tZdlQ3RmI4Q0duOWlTZU04TENmbFZrUGswU254MVYySXVvRERVbWF5c3ZhdktyVFE2YndveG9TMThlU29yY2E3aE1zejAwZlVHR0d3OVQyclhiY0RXbk9TaG9MZVk2STVEcEFwQlJhSEgxUjVrWUZpOVpqajA3cTBjaHlDNjlVMkZPeXhiS1NWU2JCR19MNFg3a05XdUM3MmItN2ZGU1RQY0pLSUFJeUZnUzRqa2tKNU9FMXpqVnp5QmhQd3U4NjlRMTliUE9XZUJnUUJOWWtCUi1JYlNhb0E2ODE1Zw?oc=5",
@@ -22821,6 +23420,39 @@
       }
     },
     {
+      "id": "79c6202117aaff7a7b08e92b2ce7da0637995ee9",
+      "title": "룩셈부르크 가향 타피오카 펄 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kemMwdnpmeU4xUXlZMW8tMl9XWUZTamx5dlFLZTRYekVZMmw1ZnFIVDd1X2ZpMDRJazNZYnFORmM4UzFteUM3UEx3Nm1Nd2tIVnJiaFRBYWNIbkZ1NC1fT1JnZUtraW5JTldFNWFGUlQ0ejBBNmc?oc=5",
+      "source": "Tridge",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-19T08:40:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Prix ​​et données commerciales des perles de tapioca aromatisées au Luxembourg | Aperçu du marché 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Flavored Tapioca Pearls Prices and Trade Data | Market Overview 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Preise und Handelsdaten für Tapiokaperlen mit Luxemburger Geschmack | Marktübersicht 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg Aroma Tapioca Pärelen Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "872301a8b155b3f49e633a88751da324e6ef3b4a",
       "title": "Stage alla Corte dei Conti europea in Lussemburgo. Sessione 2027",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzBiZmR6TFNHUTFLRkdJWkRIMldUTVQ4aUU0YTBQYktZbDZlOFlpbTlCcHg0cWxwZ2dpWWh6TS1qNHNCNFJCNGRHaVkyRVFHOWg0dm02Vm5mMWZMZTBIX2ZQSl9BbzQwblN1eFp4X0NPZ3JQWThqdmJhVXpHa0UzMklwZDB4QWVtaDFZaGdDVkxwb1AxRjZpOGJVUjhxU2NMbHJVMFVuZU5jOFp5YUx5eTE3RHRhYTRhVHpfZnMwUjE1S1dGODVXY29B?oc=5",
@@ -25002,6 +25634,138 @@
         },
         "fr": {
           "title": "Données commerciales et prix de la laitue Iceberg fraîche du Luxembourg | Aperçu du marché 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "14d0ef4109d6f7a43966737b26af394886f0e0b2",
+      "title": "룩셈부르크 냉동 패션프루트 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OVUtHZGN6c3JjRVc0UnI1eC1na0lmM2w1aVlOT1dQN1lvYWpaXzZDbjMzdndWeURoSXl3S1NfT0xGaC1WbFhudWpUSUNSejFQTlo0UHlNbUtHYTFyOC1hY09tclVJMWg3OEQ1OWN5elB5Mzg?oc=5",
+      "source": "Tridge",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg Frozen Passion Fruit Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Preis- und Handelsdaten für gefrorene Passionsfrüchte aus Luxemburg | Marktübersicht 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Frozen Passion Fruit Pricing and Trade Data | Market Overview 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg Données sur les prix et le commerce des fruits de la passion surgelés | Aperçu du marché 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e6cd61f0d2e4802a4cf51ec7c052bb63a0c8e221",
+      "title": "룩셈부르크 커피 생두 (카페인) 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UNmVYNFFIeXJCUFVocjNva01VZ2w4THVVbmpHNTZZNHVRWGd0WHFFVEhwQzFELWpWZlhROEtYWDJST0UwNjB5VUd0SXNXRjhmYXZHbFVBSjRvd0NZTlMyZWNvV0YtbDVzYVAzVmVpaEEtcFNtN01LUkFR?oc=5",
+      "source": "Tridge",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Prix ​​et données commerciales des grains de café luxembourgeois (caféine) | Aperçu du marché 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Preise und Handelsdaten für Luxemburger Kaffeebohnen (Koffein) | Marktübersicht 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Coffee Beans (Caffeine) Prices and Trade Data | Market Overview 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger Kaffisbounen (Kaffein) Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "d31a100ee3ae9d9f7784a68627b6676e7cadc48a",
+      "title": "룩셈부르크 과일 컵 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02SVdsRWJYNmh0TEpvM2ZySjBuOHA4X2RhQ2I0QlNETWxyblY3b1FicHRxYmV5NkJSTnBXcFUtYThCMVhLb2VIM05yUkdWUDVtMzVlSDJJNlZNcllPTUxSdWFHTGJNQQ?oc=5",
+      "source": "Tridge",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Preise und Handelsdaten für Luxemburger Obstbecher | Marktübersicht 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Fruit Cups Prices and Trade Data | Market Overview 2026",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg Fruit Cups Prix et données commerciales | Aperçu du marché 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Fruit Cups Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9639e1d5b860b17ea5c28b96bda83881b63e52e1",
+      "title": "룩셈부르크 생 톱야자 열매 추출물 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSU5ZSXdobEpoM0RSZGlyQ3VWVk51RzBCaldLWnFZOW85MlJCc2piYkpsMVNkOTM0OTduV2FBeUR1czhXVG5EOS0yNVhvQTdfd2w5RUQ2YXFlcDU2SXZJMnktTHE5VFV4RkdvTjRzd1N0NDlWQ19Bc1E5Z3BERW1tTw?oc=5",
+      "source": "Tridge",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Prix ​​et données commerciales de l'extrait brut de fruit de Saw Palmetto du Luxembourg | Aperçu du marché 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Raw Saw Palmetto Fruit Extract Prices and Trade Data | Market Overview 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg Raw Saw Palmetto Fruit Extrait Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Preise und Handelsdaten für rohen Sägepalmen-Fruchtextrakt aus Luxemburg | Marktübersicht 2026",
           "summary": ""
         }
       }
@@ -46637,795 +47401,6 @@
         },
         "en": {
           "title": "Prime Minister Le Minh Hung met with the Finance Minister of Luxembourg.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e0e310562397b578efe45f51600140da492fe9c3",
-      "title": "El primer ministro Le Minh Hung recibe al ministro de Finanzas de Luxemburgo.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVVmZlFmaGpkdkpoTkxyZExaT2tlUEc0aTZYRW5NMF92QzRyMnNPa3ZqVDhoXzNSc0h6MUNEUXpxN1BSOE53b29UeGNLT005NFJMZllXOFEtNlpSdlF3aFRIWTA5NGVBcXBUUlU3cWtmdVMtZVZ2SnFWQTc3NFJPWTVJcDBfZFhhelRvVw?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-12T05:13:14.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics",
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Premier Le Minh Hung empfänkt de Lëtzebuerger Finanzminister.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Prime Minister Le Minh Hung receives the Luxembourg Finance Minister.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Premierminister Le Minh Hung empfängt den luxemburgischen Finanzminister.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Premier ministre Le Minh Hung reçoit le ministre luxembourgeois des Finances.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6a79cb36897ddeda23d74ed37fc48ec4f72077b5",
-      "title": "Ab 2027: Mindestlohn in Luxemburg steigt kräftig – auch Grenzgänger profitieren",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHVCOE9TbzFmYTlCMlhKOVF1andYbDAtVmxlVEh1OUJZZXBLZ1JyTXJmT3huLXE4RFhhdkVNaS10dkJvdW5jSmk1MENYLUk2dFl4elRtOGZWOXViYU1Na05tLWxTcXE4aTk4U3J5RjFXdTBWMUlxdnh5WDFWX0NKejgzUDVyVVFrcFlrZmt5LTFaY3hQTzVlWkhiOXRtUVNsQmt0UW5BdmdMZkk?oc=5",
-      "source": "Volksfreund",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-12T04:25:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "From 2027: Minimum wage in Luxembourg will rise significantly - cross-border commuters will also benefit",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Ab 2027: De Mindestloun zu Lëtzebuerg klëmmt däitlech - och d'Grenzpendler profitéieren",
-          "summary": ""
-        },
-        "fr": {
-          "title": "À partir de 2027 : le salaire minimum au Luxembourg augmentera considérablement – ​​les frontaliers en profiteront également",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3c90656c45485cba8f697382b1639f649056ebc6",
-      "title": "Στο Λουξεμβούργο ο ΥΠΕΞ για το Συμβούλιο Εξωτερικών Υποθέσεων της ΕΕ",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUFBmZVgxc3JFT0N2ZTRrVTliSnpmVVM4bklOM0hKNE1YQWIzdDNhTlZNUGEwckh3d29kalJ1NHYzY21qRnlRamNqekR6OWt3c2xHRS1fUmM2aDhoS3k5YlhHcDRRcjF5VDlrRk9HYkc5bVB6VWZOalpHTllCa2M4SWFfajVHMTlaeDNRTDRieEF5VWVrT0tzZ0liNk80R3dJejdhd28zdmtXNjgzRUdJZ01oNzdDeDAzRGJNS2g5QzB5UEF3MFQ0?oc=5",
-      "source": "ΠΟΛΙΤΗΣ",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-12T03:55:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "In Luxemburg der Außenminister des Rates für Auswärtige Angelegenheiten der EU",
-          "summary": ""
-        },
-        "en": {
-          "title": "In Luxembourg, the Minister of Foreign Affairs for the Council of Foreign Affairs of the EU",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Zu Lëtzebuerg den Ausseminister fir de Conseil des Affairs vun der EU",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Au Luxembourg, le ministre des Affaires étrangères du Conseil des Affaires étrangères de l'UE",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4ebd076193538d7c7ced2de368a2104fb4dc56c7",
-      "title": "M&G Investment’s Michaela Forelli steps out at Luxembourg summit",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWlEdTZOY3dkNHJjRTVGRHlsby0zYlF5WmlVME9UaGo1VXZJZUhPNXpGanhBWDFWUTF1ZnFJcXhOaFRqWmVVWEVud1FIN3prbzdnWldhUWJfZFFHRzVIRVR4VVdoLVo2a1h6VFI1Z0JVa2x6a1Bmd0lkUEZlelJSRjR4WjVXdXRZcWRrX3BWSGh0anVXb2lsdkMtY2dkN3hvQmhrd2FxVjFLMG5YZ0k5b19acmJleGJWQjNjN1VpRQ?oc=5",
-      "source": "Funds Global MENA",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-12T03:46:54.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Michaela Forelli vu M&G Investment trëtt um Lëtzebuerger Sommet eraus",
-          "summary": ""
-        },
-        "de": {
-          "title": "Michaela Forelli von M&G Investment tritt beim Gipfel in Luxemburg auf",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Michaela Forelli de M&G Investment se rend au sommet de Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4c51b19b7f9f0e6e55783d40324b7521f785ca9f",
-      "title": "Luxemburgo vs Estónia | Informação do jogo | UEFA Sub-21 2027",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0FNRDNCb0IyQUhPeF82S0gzYXB5TkxLbWdlZkc4VzRDZmpSbG1IQ1lqbzZsVS1RWF9adWlqckpZVUVsaGtIbUhQcEQxQ2RrZV9UNXgwOS1DNUVJN0pPLW90am10Vm5YaWNwQWtiN2F3aFBfWmlxbldLeXBKNGdzVg?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-10-12T02:24:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg x Estland | Spielinformationen | UEFA U21 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg x Estonia | Game information | UEFA U21 2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg x Estland | Spill Informatiounen | UEFA U21 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg x Estonie | Informations sur le jeu | UEFA U21 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "420ec2700f11b4a002516d7e6e8cee496bbef41a",
-      "title": "تابع لوكسمبورغ ضد آيسلندا",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVUgtR3hDSlFJNloyaV9pRFpKaTJPZjBHbWlocFRFLS1yQmVwaGxfaC1ReFdLTWpNVUhjN0EyR2ZHR1lsZzhSLVJ0anFrbGhpRDVLVzZnWWZPU2ZLRUQzQXFVajJ5MmI5ejI2OHVPT1ZGUWctY2FkMjlqX1k4bi1uNGN0MWxud1lSZDkyS25HNG1mQ29mYWpzQzdSLTVRdw?oc=5",
-      "source": "TOD",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-10-12T02:01:01.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Follegt Lëtzebuerg vs Island",
-          "summary": ""
-        },
-        "en": {
-          "title": "Follow Luxembourg vs Iceland",
-          "summary": ""
-        },
-        "de": {
-          "title": "Verfolgen Sie Luxemburg gegen Island",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Suivez le Luxembourg contre l’Islande",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5436f04e26a449393ce1060d15eafccfd45c2dd8",
-      "title": "法国半场1比0卢森堡，姆巴佩表现抢眼｜ 体坛记忆",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vVURyaTNvWmFuM1VSTTRJVU1vQXhYa3JfRGIyOE1fWnJROE9CTFd6aUJ4YVJqODNPUWVTUVFNcVNEaW16WmJZazkyNEtXdk5nd1J4cTN3?oc=5",
-      "source": "QQ News",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-12T01:30:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Frankräich klappt Lëtzebuerg 1-0 an der Paus, de Mbappe huet gutt gemaach | Sport Erënnerung",
-          "summary": ""
-        },
-        "de": {
-          "title": "Frankreich besiegte Luxemburg zur Halbzeit mit 1:0, Mbappe zeigte eine gute Leistung | Sportgedächtnis",
-          "summary": ""
-        },
-        "en": {
-          "title": "France beat Luxembourg 1-0 at halftime, Mbappe performed well | Sports Memory",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La France a battu le Luxembourg 1-0 à la mi-temps, Mbappe a bien joué | Mémoire sportive",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1016948915c6a5f9e04c415e36d39ab930adccd5",
-      "title": "画廊 卢森堡自由港/ Atelier d’Architecture 3BM3 - 5",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU3dWTnhXTjkzOFpEaFpVV1NMTjJvT1VZRWJmTDNpM0JieGNhWjI2czB6ZDRXdTFVZ3ZXNkxiS2JLaEs2UURJeFdSZjVtNHRrWHVKaXQzSk4tU18tSEdyOVZuUHIxSVg3MzVKSGhvMWpqQ3cxSXFhWndJMjRwT0hacDdKLVU2R0d5Y3FRSlZYeXc2OUwyRjVRZUZNZ1BpWU11ZDVLWlJmT0JaUmJuWV9RMW1zR0NpRTdfX2V1cWtwWF9KTGgyQzRySkJ1bGZWMy1vV2R6NU05YkdpUQ?oc=5",
-      "source": "ArchDaily",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-12T01:23:20.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Gallery of Freeport of Luxembourg/Atelier d’Architecture 3BM3 - 5",
-          "summary": ""
-        },
-        "de": {
-          "title": "Galerie des Freihafens Luxemburg/Atelier d’Architecture 3BM3 – 5",
-          "summary": ""
-        },
-        "en": {
-          "title": "Gallery of Freeport of Luxembourg/Atelier d’Architecture 3BM3 - 5",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Galerie du Port Franc de Luxembourg/Atelier d’Architecture 3BM3 - 5",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "23f323f6a7d374e8d60c4b14b74a023941e1460e",
-      "title": "Godbrange, Luxembourg 🇱🇺 ",
-      "url": "https://www.tiktok.com/@village.viewer/video/7695538515446172941",
-      "source": "@village.viewer",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-11T22:20:17.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAOXEJZmPBA5CEA8Agi5BI1ADCwwFBGZI6fGMi~tplv-tiktokx-origin.image?dr=9636&x-expires=1791936000&x-signature=ZFBprXCf6ZtQ%2FDUvVgYvNmVWr8Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Godbrange, Luxembourg 🇱🇺",
-          "summary": ""
-        },
-        "en": {
-          "title": "Godbrange, Luxembourg 🇱🇺",
-          "summary": ""
-        },
-        "de": {
-          "title": "Godbrange, Luxemburg 🇱🇺",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "662f85072f7afcefe0294dc5ca72c1a9118b90e2",
-      "title": "Fact about Luxembourg,\n#viral #facts #country ",
-      "url": "https://www.tiktok.com/@lifestory01l/video/7695526803691097377",
-      "source": "@lifestory01l",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-11T21:34:26.000Z",
-      "summary": "",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/o8fRdLDfRFY8AGYyarodGYA6eEIIfNCDQMAOGb~tplv-tiktokx-origin.image?dr=9636&x-expires=1791936000&x-signature=dhvYWbkH5WosO2%2FCyjn3bVGPk8M%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Fact about Luxembourg,",
-          "summary": ""
-        },
-        "de": {
-          "title": "Tatsache über Luxemburg,",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Fakt iwwer Lëtzebuerg,",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4903e6973bcdc3425dd2a094f7991be95a539881",
-      "title": "戦後日本の女性美術家たちは何を「解放」したのか？ ルクセンブルクのムダムでの「Kaihō」展をレポート（美術手帖）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41djU3SXByUjlwbnlud0M0am9ZU3E2cTIyNHhUOGZ1R09mV2JjNGU0dWZSdVNLNE04RVc5N1BRYjNZTkFvbmxPMnM3YkdOXzdQZnVrdkhVRVpHNTVjT2FTNWJROUR5T0o1S3JtTGRKYmNuR3I5R29EcUVxY2ZpTzA?oc=5",
-      "source": "Yahoo!ニュース",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-10-11T21:22:53.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Was haben japanische Künstlerinnen der Nachkriegszeit „befreit“? Bericht über die „Kaihō“-Ausstellung im Mudam, Luxemburg (Bijutsu Techo)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Qu’est-ce que les artistes féminines japonaises d’après-guerre ont « libéré » ? Reportage sur l'exposition « Kaihō » au Mudam, Luxembourg (Bijutsu Techo)",
-          "summary": ""
-        },
-        "en": {
-          "title": "What did postwar Japanese female artists ``liberate''? Report on the “Kaihō” exhibition at Mudam, Luxembourg (Bijutsu Techo)",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Wat hunn japanesch weiblech Kënschtler nom Krich \"befreit\"? Bericht iwwer d'Ausstellung \"Kaihō\" zu Mudam, Luxembourg (Bijutsu Techo)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e50b846f85b790f5d944ebbcaad5835d6efaed4a",
-      "title": "戦後日本の女性美術家たちは何を「解放」したのか？ ルクセンブルクのムダムでの「Kaihō」展をレポート",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xYmtpZTJsU3ZrZklDSzFIX3c2UFNVZVpmTDdmSUYzQzdlQnNsLXJNSW1nNjNBU2IzT0F1VDUzYVZOSExnQVZEVDdqZFh1cU02YXRjTVFPV2ZPLUdDZWRseQ?oc=5",
-      "source": "美術手帖",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-10-11T21:13:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Wat hunn japanesch weiblech Kënschtler nom Krich \"befreit\"? Bericht iwwer d'Ausstellung \"Kaihō\" zu Mudam, Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "What did postwar Japanese female artists ``liberate''? Report on the “Kaihō” exhibition at Mudam, Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Qu’est-ce que les artistes féminines japonaises d’après-guerre ont « libéré » ? Reportage sur l'exposition « Kaihō » au Mudam, Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Was haben japanische Künstlerinnen der Nachkriegszeit „befreit“? Bericht über die „Kaihō“-Ausstellung im Mudam, Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f58faae296bc3c4c458587b010601e2a8288994b",
-      "title": "Главы МИД стран ЕС обсудят в Люксембурге Украину и утвердят санкции против более чем 1,5 тыс. лиц и организаций из РФ",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52ZzgzRDVBM0UwT29XM1dQWEd2d3owdnp6N09NTnVTanh3UkdfcDA5VjdDWW5hT1BNTGh1V0JxTGVGUFJ0TVJaeEZfemR2RFQtZ1pr?oc=5",
-      "source": "pro.finansy",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-11T21:00:10.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Ausseminister vun den EU-Länner diskutéieren iwwer d'Ukraine zu Lëtzebuerg a stëmmen Sanktiounen géint iwwer 1,5 dausend Persounen an Organisatiounen aus der russescher Federatioun.",
-          "summary": ""
-        },
-        "en": {
-          "title": "The foreign ministers of the EU countries will discuss Ukraine in Luxembourg and approve sanctions against more than 1.5 thousand individuals and organizations from the Russian Federation",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Außenminister der EU-Länder werden in Luxemburg über die Ukraine diskutieren und Sanktionen gegen mehr als 1,5 Tausend Einzelpersonen und Organisationen aus der Russischen Föderation verabschieden",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les ministres des Affaires étrangères des pays de l'UE discuteront de l'Ukraine au Luxembourg et approuveront des sanctions contre plus de 1,5 mille personnes et organisations de la Fédération de Russie",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "12ab308bb822c03ed88c1f732b42d927528cbb2a",
-      "title": "Luxembourg Is a Hidden Gem of Europe 🇱🇺 | 60 Seconds of Beauty!\n#Luxembourg #LuxembourgTravel #TravelTok #EuropeTravel  #TravelDocumentary ",
-      "url": "https://www.tiktok.com/@travelvlog2514/video/7695504470054145311",
-      "source": "@travelvlog2514",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-11T20:07:53.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owIEJffLmAGRBXAIAk2iAACV7EyiEGTwqkZYAD~tplv-tiktokx-origin.image?dr=9636&x-expires=1791936000&x-signature=shMoNFGd6aURmfkSq913QQqdvZs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg Is a Hidden Gem of Europe 🇱🇺 | 60 Seconds of Beauty!",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Luxembourg Is a Hidden Gem of Europe 🇱🇺 | 60 Sekonnen vu Schéinheet!",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg ist ein verstecktes Juwel Europas 🇱🇺 | 60 Sekunden Schönheit!",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "13031eafbf085d5c6115ab841784edc41a9e5acc",
-      "title": "Il prend un arbre et un tracteur et s'en sort indemne ; un arbre sur l'E411 des autos en feu ou sur le flanc : les pompiers du Luxembourg sur la brèche",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPMVFaZ1dGaFJlVTdIQzZqTE1GeHVBNnVPbGxNS0tlM0liRmVqTkNDS0dlaXB4MEZ5V3FMa1hsYzhUekdKdEdScVpsLUhpOEhBTzdYZlpoa3p5MVg2QjZDNGxuVGduYVFEeDRQVWtGdnlEUU95MVIteWR2Q3l0c20xS0pPT24xX096NW5uZUNQYzdWamZSaENTSk1RNEFCWDFjbnpxM3Z5My1xWVJLNXllb1FrSm1mNW1sLUxNSWw2VDRJVElSZGVBengxRG1EWFB3TmdwRDlUMVJLMnZKekNZbEZoODZ2a0ctaS0yakZib2dwQWdrbTdNNWtoREQxUXNnUzRnOElkOUJJVmNLU0JidnplWFRfSW5BU05Eb3RJZkx0YW9nWEdKUl82NUF0bVJ0ZWlha0VOWlhoamYtblFvNDZvVzM5TnhTMU9B?oc=5",
-      "source": "L'Avenir",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-11T20:01:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Hien hëlt e Bam an en Trakter an entkomm ouni Schued; e Bam op den E411 Autoen am Brand oder op der Säit: Lëtzebuerger Pompjeeën op der Plaz",
-          "summary": ""
-        },
-        "en": {
-          "title": "He takes a tree and a tractor and escapes unscathed; a tree on the E411 cars on fire or on the side: Luxembourg firefighters on the spot",
-          "summary": ""
-        },
-        "de": {
-          "title": "Er nimmt einen Baum und einen Traktor und kommt unversehrt davon; Ein Baum auf der E411, brennende Autos oder auf der Seite: Luxemburger Feuerwehrleute vor Ort",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "44988123123b5af54f689439e9d8ef318ac9b16b",
-      "title": "Beautiful city 🍂🇱🇺\n\n#luxembourg #luxembourg🇱🇺 #traveltok #travel #autumn ",
-      "url": "https://www.tiktok.com/@sabinamikaela/video/7695501686755822870",
-      "source": "@sabinamikaela",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-11T19:56:59.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o46EUiWBgVACjURifAqRFAAwElLlgyIwfCUD5k~tplv-tiktokx-origin.image?dr=10395&x-expires=1792047600&x-signature=%2FIwUPb6dxiDI2EopGvdgM3uOYOY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Schéin Stad 🍂🇱🇺",
-          "summary": ""
-        },
-        "en": {
-          "title": "Beautiful city 🍂🇱🇺",
-          "summary": ""
-        },
-        "de": {
-          "title": "Wunderschöne Stadt 🍂🇱🇺",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0a3bae3be614392b036b72c6d4426e5fdce2a995",
-      "title": "A little holiday would hurt \n\n#luxembourg🇱🇺 #weekendtrips #summerlastweek ",
-      "url": "https://www.tiktok.com/@isnguseer/video/7695499129216093447",
-      "source": "@isnguseer",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-11T19:47:03.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oMBHAqfC0YPiEMiRkyIAQWAcJ5gfqa6LADyE7B~tplv-tiktokx-origin.image?dr=14575&x-expires=1791921600&x-signature=fDKP1sDbWvSH0RIYCr4hlNaNmnI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "A little holiday would hurt",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Eng kleng Vakanz géif schueden",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ein kleiner Urlaub würde schaden",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1cfb5e1c762cb0a464740cd9ba6b2c891200ba49",
-      "title": "Oana Ţoiu participă luni la Consiliul Afaceri Externe (CAE), la Luxemburg: Va susţine adoptarea noilor măsuri restrictive ale UE împotriva Rusiei, în vederea menţinerii unei poziţii ferme a Uniunii faţă de Moscova",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSkdoYWc4UEpNSTRjeG9BRnBhNGUxdkNKRVAwcU41bDNaTXFYZU5SanEyVEZQdUxqT01zb2RRa1RGM2RDa2N5VTBfemlOZVRNNExQc29Qa2RQWVRTMzJTY3FiajJTQ0VYQmdRWGxUQXJ4c1Y0REtQYVVCUEU2QTgyMFpWUHAycFctZ0RaRzBJRjZ2bnJVVmZIalZQSDFYMUo1VnJzcTJHZW4tTzZVc3pIdUFzQkY4OGtDOXRQR0xxZnYtLXdGa1VXMXE3Mk5JVmRoci1YNmJFNG12OW1YWVlVNEZoblB0N0E0RG1UeXU4NHowSFo4N3BYYkxpbXprZ1pybTM1cG8zalBrVVJUWVJaVVFzU0VlNE5FUmFTemhTOHhQbmdudE0ycTZFRGkyNFpBY0haWlNzMDVwVE0xNFNFN0p4Tnh4QjYzRjFOYzBqWUZtTmxBUEFMZUl6X2tvdFNHbXI2Y1E4OXdOYjg?oc=5",
-      "source": "News.ro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-11T19:27:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "de": {
-          "title": "Oana Ţoiu wird am Montag am Rat für Auswärtige Angelegenheiten (CAE) in Luxemburg teilnehmen: Sie wird die Verabschiedung der neuen restriktiven Maßnahmen der EU gegen Russland unterstützen, um eine feste Position der Union gegenüber Moskau aufrechtzuerhalten",
-          "summary": ""
-        },
-        "en": {
-          "title": "Oana Ţoiu will attend the Foreign Affairs Council (CAE) in Luxembourg on Monday: She will support the adoption of the EU's new restrictive measures against Russia, in order to maintain a firm position of the Union vis-à-vis Moscow",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Oana Ţoiu wäert e Méindeg am Ausseministerrot (CAE) zu Lëtzebuerg deelhuelen: Si wäert d'Adoptioun vun den neie restriktive Moossname vun der EU géint Russland ënnerstëtzen, fir eng fest Positioun vun der Unioun vis-à-vis vu Moskau ze halen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Oana Ţoiu participera lundi au Conseil des Affaires étrangères (CAE) à Luxembourg : elle soutiendra l'adoption des nouvelles mesures restrictives de l'UE contre la Russie, afin de maintenir une position ferme de l'Union vis-à-vis de Moscou",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6312f9fcb546b69ffc9b27ce670b14444cc721fc",
-      "title": "Oana Ţoiu participă la Consiliul Afaceri Externe din Luxemburg: Susține noi sancțiuni împotriva Rusiei",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYjJRb2ZKYU9DTFRtVmFMY2VIOHJlSEhmTU1QMU1PVElGenNBLUJEelY3VGd5dVg3dDRWWHkxUDZNbm1WZmJheVhkNU1nZUdwaWQxdWw5S0t4bXhKQVVKSXlxV3NqNUtpRFNCZ2I0di0xM2hpODczM2lIUUxUTXZJNWVGNEdHZFN1aEF3VENjb1ZVRmRoN1k3X0tjaGZsV0hYNENyY0ctNDhwQVFYT1NvYXY1a3htUkd0VHlQbmRSeV9FbjhUOGkzcjJEV29iQQ?oc=5",
-      "source": "www.goldring.ro",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-11T19:27:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Oana Ţoiu bedeelegt sech um Aussenrot zu Lëtzebuerg: Si ënnerstëtzt nei Sanktiounen géint Russland",
-          "summary": ""
-        },
-        "de": {
-          "title": "Oana Ţoiu nimmt am Rat für Auswärtige Angelegenheiten in Luxemburg teil: Sie unterstützt neue Sanktionen gegen Russland",
-          "summary": ""
-        },
-        "en": {
-          "title": "Oana Ţoiu participates in the Foreign Affairs Council in Luxembourg: She supports new sanctions against Russia",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Oana Ţoiu participe au Conseil des Affaires étrangères à Luxembourg : elle soutient de nouvelles sanctions contre la Russie",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b923a307af3758bd2fd3ff0307722c1c7474b7c1",
-      "title": "Armenia-Luxemburgo | Información del partido | Europeo sub-17 de la UEFA 2027",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbDl3MFhOcFBhWnZxdkRqUWJhaFgtNm5jS25HaGI0ZjNOZE94ai1wOGxDNnZWbnRaWUhucDJxdVZNYm9WeXdEdDlvcVFmeFhDUEtOcUVMUkJTMkcyZnBQYnJlS0QzcXhCT2dPcnBaeG51RlpDNDNxa0VSNVdvd0NPSw?oc=5",
-      "source": "UEFA.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "es",
-      "publishedAt": "2026-10-11T18:42:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport",
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Armenien-Lëtzebuerg | Match Informatiounen | UEFA Under-17 Europameeschterschaft 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Armenia-Luxembourg | Match information | UEFA Under-17 European Championship 2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Armenien-Luxemburg | Spielinformationen | UEFA-U17-Europameisterschaft 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Arménie-Luxembourg | Informations sur le match | Championnat d'Europe des moins de 17 ans de l'UEFA 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e0b09337f2cfe522c85c8a12518f9280a72f6ce1",
-      "title": "لوكسمبورغ تحتفي بالكفاءات المغربية وقصص نجاحها",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCdWtzemxsVGt2dGRJbThZZlBtTGk2SC1mYXBKbDA4eWlrbzZNRjg0aE5SUEpkNWRiT2xlVWRzTlBiNjRIMEpBcTRLcHVfWTNjRk5HSjBNQ3hNazlEbnptcTZGZXVLVm5FSjQ3cEV3?oc=5",
-      "source": "Attasiaa",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-10-11T18:12:18.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg feiert marokkanesch Kompetenzen an hir Erfollegsgeschichten",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg feiert marokkanische Kompetenzen und ihre Erfolgsgeschichten",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg celebrates Moroccan competencies and their success stories",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg célèbre les compétences marocaines et leurs réussites",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1d5a28dbbedbe655f16399ae87da9106b426dc1e",
-      "title": "Sybiga will travel to Luxembourg for a meeting of EU foreign ministers – sanctions against Russia and Ukraine’s accession to the European Union will be discussed",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNdWJibVpQVjBIWFpWT1ROaW5LSDdJYXpQUTc3ZHBaaGRKR0xrcHdTUURMUENHT2hKWm5xeDc0T3I3SG5WdHFhZFowc0NTSmhOcUJhYlE3dUhYNHplM3RPdHpRdzhyWFQ0WURkYmx0Z0FZbjVHd2JEUW4yTXMySGgzZk9COU5icGg0R3d0dmFzZWlwUkg3S3JvT0l6bnpUSngyOGVFS0JSc2N4VWpiOF9QU29LTWEwSEJ0SmdTa3RrQTVjRk1MR29RSkNzYmRRUXo3Ukt0cDBDU0JpY2lKdFhCUnE2U0Z4MFJUUGZPcEZ4VDBNZXlrZjJyLXQ4RVdiYlBVdldTdm5vUWltQmdGZkHSAYwCQVVfeXFMTzVONkdmRDZ3NGNjckh4OGRnb05NRlo2Znh1bjVWTFJTQVRsTl9mbi1hQlB1dFBiUTBMeUNpMjlNdlpFcFlHbEZYZUNoWU85akZ1TXA2ZTUzZVRkTkNWbkFlU2UxdGJtZl9zYndDQ05xN1o0bGd6aW5zejJLWnFGbG8tUmpkREJDdk1aU210czF0NmIyLUR0aEo0RWE4Z0t6NlFsWkkyM0g5a0VSZ1FvWjRnektHU2xHYnZzaXlLZ2VBZ2dSREE5bVlscURLTll5VXF6TEo3VXZlaHh4Z2hJcGJoWmZZeUdQYUhtMnhIOWhuQnlVdUlKV1I0aW80VV9fQmxhNC1oS2MwYXVtTw?oc=5",
-      "source": "Українські Національні Новини (УНН)",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-11T16:58:32.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics",
-        "eu",
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Sybiga wäert op Lëtzebuerg reesen fir eng Reunioun vun den EU-Ausseministeren - Sanktiounen géint Russland an dem Bäitrëtt vun der Ukraine an d'Europäesch Unioun ginn diskutéiert",
-          "summary": ""
-        },
-        "de": {
-          "title": "Sybiga wird zu einem Treffen der EU-Außenminister nach Luxemburg reisen – dort werden Sanktionen gegen Russland und den Beitritt der Ukraine zur Europäischen Union besprochen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Sybiga se rendra au Luxembourg pour une réunion des ministres des Affaires étrangères de l'UE – les sanctions contre la Russie et l'adhésion de l'Ukraine à l'Union européenne seront discutées",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d06dcd54effcfd3f1f56900cf9741719ee574b0f",
-      "title": "Сибига отправится в Люксембург на встречу глав МИД ЕС — обсудят санкции против рф и вступление Украины в Евросоюз",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaDBlTU9BcnVncFYzQk9sOE5Cb2lPZEZfNzBWMFU5Y01ZZFlKXzI5dzd1WXBBS01najNjZGhpVmI4ai1qR01rX0J1S2JFT2N4YzF0WWFqNTZCblVmWFdQRHZ2VTA5Z1RQMnBLVU1VMFI5SzFkMk5vVWRWdHlGejZwcjBob2J5bE5ldGgxdTJFOFZFaWhlUTJfcDZBeFhldzJXNEpiWHVnQ1NpdC1qZ2FFV2tlbTlzcTFLdnMzb3pvRDY5NWcyOVR6aUhqY2tjS056dHFGTEJoMVBBUdIB2AFBVV95cUxOdG9ZRTVnUmV6WWY0ZG5ISlZ0QnJ3cWt2eUdFTzVoS3V4S3M2Wjk0a0lHMEJlbmRJQjJZRk50YWxjU1RTVHhLSkNMbVRyaUlQZDdTYncyemVTUVhjaFhQdXBaaU5ScFpoZGxtSTVaaGZySURhbDV6Z1pxblo1eXdka2lBaHdPM0p0UVBjV2FWU25rUnpaVW50U0hmMTFFY0hOcFhOTENhYXh6d2VmOFpDRFdxZm12UmRHbjJCR3NzbFlfbDZ3Nm9nUjh2OVJSTTZXcHJkb2ppVVU?oc=5",
-      "source": "Українські Національні Новини (УНН)",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-11T16:58:32.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Sibiga wird zu einem Treffen der EU-Außenminister nach Luxemburg reisen, um Sanktionen gegen die Russische Föderation und den Beitritt der Ukraine zur Europäischen Union zu besprechen",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Sibiga geet op Lëtzebuerg fir eng Reunioun vun den EU-Ausseministeren ze diskutéieren iwwer Sanktiounen géint d'russesch Federatioun an den Bäitrëtt vun der Ukraine an d'Europäesch Unioun",
-          "summary": ""
-        },
-        "en": {
-          "title": "Sibiga will go to Luxembourg for a meeting of EU foreign ministers to discuss sanctions against the Russian Federation and Ukraine’s accession to the European Union",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Sibiga se rendra au Luxembourg pour une réunion des ministres des Affaires étrangères de l'UE afin de discuter des sanctions contre la Fédération de Russie et de l'adhésion de l'Ukraine à l'Union européenne",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1cf3bb9f6700e9d22524c3f84f239194fc19a4c8",
-      "title": "Сибіга вирушить до Люксембургу на зустріч глав МЗС ЄС – обговорять санкції проти рф та вступ України до Євросоюзу",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUEtIRzZUb0xSbWxUREsyWjBLSFZVZUd2Vy10ZVREMUF1UURQMGdxLWNnamJ0Q0U3WVlqbFpIaW5NYzB0WjZYOHVTNTlsLV9ncmtiR0k1c3lPOTFBQTYwNjRDcEhnOHB5OURQSy0wTW9la2JMMDNMQ19EYzFJbC05ckk3MXFfeVlrWGV4ZEY2TVNGNmZ6bm5JdWRyQWx3N3lYZGhyWmpnZkE1YkNodzd1WHpfUmtiaTZYOXg3VzVaZDNfNWdVNWg1OGZmX3pGN0l6dVBJ0gHSAUFVX3lxTFAwdW5Rc3dsOFJTNjZQa0ZHa21CZEVXaDFweFQzdm9XY1pNOUw2UVRNNVB2a3J1eDFBQ1ZWWXl3TjE2M01ycVhIaklpM2dVamxQRnU5UXh5THlyWGFFbzNlS0gwck5HcmtNVHRkQ0QxWFhpUm5qTnNQSGI1cVdyemZPQm1jQTZSaEc1RGszZTVvM1ZBT25OcHd3TFlpbWIyT2Q1UEVCbllralU4S3ZHcDUwbDlmbFJfS0llVlgxRWFhcjR4NExRdTlrVmhGVG12SFZiZw?oc=5",
-      "source": "Українські Національні Новини (УНН)",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-10-11T16:58:32.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Sybiga wird zu einem Treffen der EU-Außenminister nach Luxemburg reisen – dort werden Sanktionen gegen die Russische Föderation und den Beitritt der Ukraine zur Europäischen Union besprochen",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Sybiga geet op Lëtzebuerg fir eng Reunioun vun den EU-Ausseministeren - si diskutéieren Sanktiounen géint d'russesch Federatioun an d'Ukrain an d'Europäesch Unioun",
-          "summary": ""
-        },
-        "en": {
-          "title": "Sybiga will go to Luxembourg for a meeting of EU foreign ministers - they will discuss sanctions against the Russian Federation and Ukraine's accession to the European Union",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Sybiga se rendra au Luxembourg pour une réunion des ministres des Affaires étrangères de l'UE - ils discuteront des sanctions contre la Fédération de Russie et de l'adhésion de l'Ukraine à l'Union européenne",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e9362576aa0d49fe142552f114ef7fdbe9928b9f",
-      "title": "Bailleul : grande réussite pour la première Assiette Gourm’hand internationale, un binôme du Luxembourg vainqueur",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSmw3blYxNzNtcVlXOEVZdXJXX1RYR2JsVHk0eGtwNnA2Z2xBMkZyN2tkXzJuY21jWXhiUjdfZnhLeGJySlc4VGJXNUg5M1pzOGZsR3kwMGhYS1EtS2YySnFKcEVLbW1nNmtzYUJXa1hPVkpUVXhWSzZXWFhUeTFqMU1JZTFvb0VNWkktb2N1X0pSUWMyNlhWMndFYkd6OENDc2ZINUtPZW5NNEtHTmJrdW1IY0RVc3BnRmV2MlBRd2dvcVV6TGNqWjJiSkhRZw?oc=5",
-      "source": "Nord Littoral",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-11T16:33:55.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Bailleul: great success for the first international Assiette Gourm’hand, a winning pair from Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Bailleul: Großer Erfolg für die erste internationale Assiette Gourm’hand, ein Siegerpaar aus Luxemburg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Bailleul: grousse Succès fir déi éischt international Assiette Gourm’hand, e Gewënnspar aus Lëtzebuerg",
           "summary": ""
         }
       }
