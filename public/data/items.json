@@ -1,6 +1,73 @@
 {
-  "generatedAt": "2026-10-29T20:20:12.982Z",
+  "generatedAt": "2026-10-30T01:02:18.587Z",
   "items": [
+    {
+      "id": "a9dd9c8386055d87403ec3f494e724180bacc23b",
+      "title": "Глава МИД Люксембурга заявил об ущемлении в ЕС права на общение с Путиным",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnpLaUl5MGRXY1pvcGw2RkZFaGVPWjhSTC1feTJlYmpka1VEZFhaZzNsUEJZRkgxTE1ROXlYLXlVMXZScGt0NHlCY2JwWHNrU2lyZ0ViVk43NWhoQmxBUDVKcXoxUE53RUJJa2dFVmp0b1VLVWh0T0ZhNVBlZ1Vid28xaHlhUTZsV05qdjViS2RuQzJOa0twcGFJZTkyTEU1WWk5VHhiTnRJd9IBrwFBVV95cUxNUFR1aXdDZDZMVmoyNGQ1WHluYjU2b0VJdGRxX05nT1IzdjhUZXN6bTh0V0pzZ01tZC1ET0F1ZUhTb3pSbG52QlRFSWpyVmp5MWZMd1A1Zk83RlhCaW83ZmFSSGc2eUdxTFRDMnRPekU1WmhQVEtSTDJJeXo4RUZmNnJXNG9aRUJ2QUFhcWRETXE4c3JteHdXMENrV2xKbmNoclZ3RjB1U2FfbkRueGFZ?oc=5",
+      "source": "Национальная Служба Новостей",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-29T22:33:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le chef du ministère luxembourgeois des Affaires étrangères a annoncé la violation du droit de communiquer avec Poutine dans l'UE",
+          "summary": ""
+        },
+        "en": {
+          "title": "The head of the Luxembourg Foreign Ministry announced the infringement of the right to communicate with Putin in the EU",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Chef des luxemburgischen Außenministeriums kündigte die Verletzung des Rechts an, mit Putin in der EU zu kommunizieren",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Chef vum Lëtzebuerger Ausseministère huet d'Verstouss géint d'Recht op Kommunikatioun mam Putin an der EU ugekënnegt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "90e654120ddc51f6925b53af1680515f09a6a874",
+      "title": "Interapas se recupera suministro en calle Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVhTUUt2Y3BNcC13T2dRV05PVGVwSF9vNW5VUHJGNzNKc3QxSTl4SzhGelB0djdmaGhLNGlnd00yVkF6YWFaSk9jYTdRMnJQR005dVROQ1g3cHpDS3NyemJ3MFY4Um1Ga1RTY25hQUJTaFI4dXY5U2k2RUcyc2xVUQ?oc=5",
+      "source": "La Orquesta",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-29T22:18:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics",
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Interapas recuperéiert Versuergung op der Lëtzebuerger Strooss",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Interapas récupère son approvisionnement rue du Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Interapas recovers supply on Luxembourg Street",
+          "summary": ""
+        },
+        "de": {
+          "title": "Interapas stellt die Versorgung in der Luxembourg Street wieder her",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "dea985e56c6da744425c29d9adf0ac3f7d1a12d0",
       "title": "Tras trabajos de limpieza en la red, Interapas se recupera suministro en calle Luxemburgo",
@@ -36,6 +103,39 @@
       }
     },
     {
+      "id": "83e61beab2665561068a4eb6db5d7736841074fa",
+      "title": "Interapas restablece suministro de agua en calle Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xV2ZwYms4b0R1NVZ2azJxY085VTctRzA0SFdQdEVJQ2hScHNWRTdVMUN5c2FiWFlYd3pJMU1BQTI2cEYxVDRBR0hicWpHd0lfSEMwVUxUb0tneUNBSUE?oc=5",
+      "source": "https://www.elexpres.com/",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-29T19:50:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Interapas rétablit l'approvisionnement en eau dans la rue du Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Interapas restores water supply in Luxembourg Street",
+          "summary": ""
+        },
+        "de": {
+          "title": "Interapas stellt die Wasserversorgung in der Luxembourg Street wieder her",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Interapas restauréiert d'Waasserversuergung an der Lëtzebuerger Strooss",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "e9c196316506cdadf48554f66d1534f24cd50450",
       "title": "Energy Min Papastavrou from Luxembourg proposes joint meeting of EU Energy and Finance Ministers",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPandIWHgydzc2VkdiNFM5Q0hKX0l5T25yNjlJVFNDZElhTUZpU3lXTmhTMzctRTBYa0FVUTlGamlxZ2hyRkJGRmVYdm5UZjA1VENCQ21tT29DUmdWWXVpUEo1LWpRNTJyWjlhZlhNaEtaTktfSkZwQVBSZV9kOEQ5TkdJbWpFTWxXdXhwRlZfNmVvczUyaS1fOWtPYWlVUVhHOUd1LTJFZ0Q2bTREVVBEU1pCS1AwVERvdnBTUE9TSkZEOHp3NmNkZHlYUQ?oc=5",
@@ -65,6 +165,40 @@
         },
         "fr": {
           "title": "Energie Min Papastavrou du Luxembourg propose une réunion conjointe des ministres de l'énergie et des finances de l'UE",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8140d90096d3778424d35f35d17100fb55414503",
+      "title": "Recuperan suministro de agua en la calle Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZnI4R3R1Qmo0TkNMNjM4NEZKYUJyTXFwVmhVTG9xSFBmUjJWcmRtTGQzelM2a2E0NXoxQlpndUh4M0p5SkRjUjV6UkcxVktibjBxSEhUdnBuTmNzSXlWLUI4VUxEVUlJalNfX3ZRUGl6LWpubXRNX2JIZnNkNERLcmVJMy1zRzA1dzBoMTBfd3ZVOUk?oc=5",
+      "source": "Plano Informativo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-29T19:25:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics",
+        "sport"
+      ],
+      "translations": {
+        "de": {
+          "title": "Sie stellen die Wasserversorgung in der Luxembourg Street wieder her",
+          "summary": ""
+        },
+        "en": {
+          "title": "They recover water supply on Luxembourg Street",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ils récupèrent l'approvisionnement en eau rue du Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Si recuperéieren d'Waasserversuergung op der Lëtzebuerger Strooss",
           "summary": ""
         }
       }
@@ -508,6 +642,39 @@
       }
     },
     {
+      "id": "8190d8d87d4cc7194c2f5949889e739d5bbba696",
+      "title": "«Вы такая маленькая страна»: в ЕС пытались запретить Люксембургу говорить с Путиным",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2NsdHdqeHV3OExlMWNpTC15Vm1hUE9ieXM2dFFhVF9XeTQ5NjFtUEVIYl9DR2I4a2xER0JKMkZBVkNWRDYtMlU4cVhqQS1INWZlMGtoOWg4c0pLSVV0d2l4SE9KajZhQkVDb0lGUWdqZkZ1TmRIWnJhVHI3YXpDZHV3Ri1vcmYtQTBjMW8wNG5tYmhJdC1xNjlqN1FhY0VUOU9XcnFPV0tKUXN1Yi0xaklzNzE1QzJQaVBmcW5jYw?oc=5",
+      "source": "RuNews24",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-29T15:17:06.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "« Vous êtes un si petit pays » : l’UE a tenté d’interdire au Luxembourg de parler avec Poutine",
+          "summary": ""
+        },
+        "en": {
+          "title": "“You are such a small country”: the EU tried to ban Luxembourg from speaking with Putin",
+          "summary": ""
+        },
+        "lb": {
+          "title": "\"Dir sidd esou e klengt Land\": D'EU huet probéiert, Lëtzebuerg ze verbidden, mam Putin ze schwätzen",
+          "summary": ""
+        },
+        "de": {
+          "title": "„Sie sind so ein kleines Land“: Die EU versuchte, Luxemburg daran zu hindern, mit Putin zu sprechen",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "ec28c8d076d437a30aa11cc13ed29de05c43e510",
       "title": "Luxembourg. Week-end de travaux à l’échangeur de Livange",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmdneUpOWFpSbFJ2TG44Q1hCUEYwQ1RlVGlfM2RjSDBMd194b3pLMWZVMGVIbjg4Z29MRXRHRU5HckVnQzhidmk1TWxac3g4bDZnT2wwMFZuMFN4YkZjLUdNUjVPOWpGaEdJVzN2QTNTQjQ5eFhJUEZJeVZzWk1taVdDMVktX0JlU2JlcGVFdE1neWZiQ0d4UlFLSkNvY0xLTEE?oc=5",
@@ -649,6 +816,39 @@
         },
         "de": {
           "title": "Luxemburg: Die Steuerreform 2028 wird auch Grenzfamilien betreffen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4f44fc0207d9ae34eb5cb81b624bbfcbc03dfbde",
+      "title": "Electrica a stabilit un program de emisiuni de obligațiuni de un miliard de euro. Prospectul, aprobat de autoritatea de supraveghere financiară din Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUjBCeDJnbnJhemc1X1hCZkRmRXkybFgyNG5IdmFqWWxHNzhweWoyTlpWTUhTdnB5MG52bHZQTWpaazg3OVVpeTZ3REd6ckI0U3ZqUEVBdkJEM2xiZEdpS0IxNU9FVEhlYkVGOVNSZ0RxY0hSVlJYTnNFd3hHSllicHdDcWI0cXhjRUhrbXR4V0ZSY1BoLTExZnZSNTUyMUlCeVZRS2pORWFSQ2VOYmRYRUJCUEVzdU9tb04wQjJuV1pwSkh5UGdrNS11SDZDMnVTRWhFMXBCbVMxTy1SeFIydzNaUUxBZ1RPSWxxdDZIaUJXa21GNHd4WEJGQmxXYVdHbEljZzdMNG9JNDFFMDdzSHZB?oc=5",
+      "source": "InvesTenergy",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-10-29T14:43:08.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Electrica huet e Bond Emissioun Programm vun enger Milliard Euro etabléiert. Prospekt, vun der Finanzkontrollautoritéit vu Lëtzebuerg guttgeheescht",
+          "summary": ""
+        },
+        "en": {
+          "title": "Electrica has established a bond issue program of one billion euros. Prospectus, approved by the financial supervisory authority of Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Electrica hat ein Anleiheemissionsprogramm in Höhe von einer Milliarde Euro aufgelegt. Prospekt, genehmigt von der Finanzaufsichtsbehörde Luxemburgs",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Electrica a mis en place un programme d'émission obligataire d'un milliard d'euros. Prospectus, approuvé par l'autorité de surveillance financière du Luxembourg",
           "summary": ""
         }
       }
@@ -5961,6 +6161,39 @@
         },
         "lb": {
           "title": "Lëtzebuerg Däitschland 14. November 2025 Live Score a Match Resumé",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "98ee391b1625a1ca7bef71e152b9560ab23651a7",
+      "title": "Люксембург подтвердил Xylella fastidiosa в винодельческом регионе Мозеля: лозы уничтожат",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOU1NME1MZHg0TEt2aFFfTVNrcDRuNW9xTTY0TkpEYy1QWmd2Z3Q1T2FhVUR6WTQ0dG1zOEg2dXhtSGVBa3NFNlV5ZnUwWmxTdFlpSDJmcS1ZV1hqSXdDNlNHRVlCNTF3OTJ6UDNCanFIdk5TQTRQQmszdWNMbjhyN0E2QVQ3aVBUWjdNbGd2T1RXeWZQdmNFdG5qMXMzbmhLZHN1SmpNeFdsNGpMSVZGdXczYVlTZTB6XzJJWmFjQUh1Qno0RlZKcmN6Qmk3YV81N3dj0gHYAUFVX3lxTE5sVUFCUEUyb1BxcWhiTW5VaHl6RnVPY09kU3lPeHRjanZFaWs1cmtiYjNCSExadENyZGp0NXNWWFVkSjBTWmxheXFIZmsyODBWU2pBR0dURXAzUjNEc05NZ3dXQ016bkZXVk1heV8yVXVKWVd1dnpWdlZYM0ltSzJJTHJZSFB0UW9nU3lQX0xCalExd2p1X2piNWZDXzJSVWVqVm9aWEY2OG1jZ2ZxUjl1ZHhsS2NIU010TVlYRmNnbTItVUh2WVB1cHlDTU1Id0pWcXQtb2l3dw?oc=5",
+      "source": "Vinetur",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-26T21:12:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg bestätegt Xylella fastidiosa an der Musel Wäinregioun: Riewe ginn zerstéiert",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg confirms Xylella fastidiosa in Mosel wine region: vines will be destroyed",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg confirme Xylella fastidiosa dans la région viticole de la Moselle : les vignes seront détruites",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg bestätigt Xylella fastidiosa im Weinanbaugebiet Mosel: Reben werden vernichtet",
           "summary": ""
         }
       }
@@ -19852,6 +20085,39 @@
         },
         "de": {
           "title": "Übersicht über den Capital Group US Investment Fund (Luxembourg) B (USD) - EUR | Juheng.com",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "eb13ce2d98b73095c2a545e479668de69b71fdf7",
+      "title": "資本集團全球股票基金(盧森堡)B(美元) 的總覽 | 鉅亨網 - 基金老司機",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQY000VFNmOXFDc3RnWElKMzQxRDd0ZU94V0NwZklJSDVnOFlxTjdrRFlNeGJKTEtRY1ZrS0t4UUlxMTdURzY0bXFsWEQ0amZ0eHY3QkdQY3pXczJqcTJPOFVyVl9XY1FlQy1BSldsQVMtMmtuMFVwN1BNY0Nfd1FiMFk3Nmg4bjNmNmloblVGbmotZVBhTEZrcUJ3RHBnTGZvR3pSWmY2R3hGdG1CRXAyRkxMbUIxeEdzNkFpVUNoY3ZoM1F5UVRtbzR1OS05TVBGTGRENC03cWYzNllUS0k4M24tYk5pX3dJVkJTRUZwYVE0eDFjT2VNc2xscEpleFg0R0NQZDdPVzNkZmpJYlN3U0NWY1M3SnRwS2JqeDNoX2VPYlVzaGE1Y2pUZlIzMk50N3VaNXhleVZRbFpLZnlWSVIzMkRULTZSUEx4UXZn?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun Capital Group Global Equity Fund (Lëtzebuerg) B (USD) | Juheng.com - Fonds Veteran",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of Capital Group Global Equity Fund (Luxembourg) B (USD) | Juheng.com - Fund veteran",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du Capital Group Global Equity Fund (Luxembourg) B (USD) | Juheng.com - Vétéran du fonds",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den Capital Group Global Equity Fund (Luxembourg) B (USD) | Juheng.com – Fondsveteran",
           "summary": ""
         }
       }
@@ -47127,266 +47393,6 @@
         },
         "fr": {
           "title": "Le Vietnam et le Luxembourg ont signé un protocole d'accord pour promouvoir la coopération financière et attirer les investissements internationaux.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "27ada5c35120eb3851a81c3622dcf774153c1c3d",
-      "title": "越南与卢森堡签署谅解备忘录，促进金融合作，吸引国际投资。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHNlbE1sYm5HYlF2THlRdjF3V0xCQUxYcmJvR201SjVlbVpwZlBBcVNyVm95RlBiSXNJd2F0aEpvc01ZT2dJZnk5REdjZG1SQ3FKRXRRbnhDbEUxbm9NZGRwcWZoMUtBYUp4SWt0aDZIMVdXZXg2MGNSTnJEcmNpSUxDR2RsUUJkdW9sNmdTZFhZYzU4NktaU203X1dyekF3YnVUY3hSTWtfTmo4RHJHVlFWZlo1Tnc?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg hunn e Memorandum vun Versteesdemech ënnerschriwwen fir finanziell Zesummenaarbecht ze förderen an international Investitiounen unzezéien.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg signed a memorandum of understanding to promote financial cooperation and attract international investment.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg ont signé un protocole d'accord pour promouvoir la coopération financière et attirer les investissements internationaux.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vietnam und Luxemburg haben eine Absichtserklärung unterzeichnet, um die finanzielle Zusammenarbeit zu fördern und internationale Investitionen anzuziehen.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "27c5d543b5f6f8f2a18f692bb68bb99cec1e432b",
-      "title": "ベトナムとルクセンブルクが金融協力の促進と国際投資の誘致を目的とした覚書に署名した。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc0w0QjRyRjVyajRldlV2QXE3akZISFE0Nk5jdGR2T3VnckdWdWVtR2xmUmZTOWxzWmVMZzdyWmIzczl0SlZXN1oxQjNweUtvZzNpZkladDRJcHRCVG5FbFN4b0RxRXpTWHo3SEV5eUU2YkpUbHAyMGhKQmgzTEhzb0FvQTMyNkpXaTBhZzFqMWp4d2JzVFp0aVlfTk1hS0gzT1FPbmc1MDhfQUVhTFkzbkE1WQ?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg ont signé un mémorandum d'accord visant à promouvoir la coopération financière et à attirer les investissements internationaux.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg hunn e Memorandum vum Versteesdemech ënnerschriwwen, fir d'finanziell Kooperatioun ze förderen an international Investitiounen unzezéien.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vietnam und Luxemburg unterzeichneten eine Absichtserklärung zur Förderung der finanziellen Zusammenarbeit und zur Anziehung internationaler Investitionen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg signed a memorandum of understanding aimed at promoting financial cooperation and attracting international investment.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "86c15caaae5eb6bfcc5d140792bd8c5370f538e8",
-      "title": "베트남과 룩셈부르크가 금융 협력 증진 및 국제 투자 유치를 위한 양해각서(MOU)를 체결했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnJfWTFwTWIxcExvcU12SmNHU0dHemhzUzVoTDVwOGVfTmpGWlg0bWc1TzMxTDVCc01rRERyVzFGRElqb0xzRHRESUJ4YjBRbmNwYmpUQmpJYkFjdFZiaThjak5LdWs3SlRaSi1oSDg5Y2xibEVtYXVXb2hzNWpSdG1UQmdybU51LVNJTmtFMjhpblVRNGxGUUk1SDJib3FONDBqSkQtX251UTlJQldhdGkwaw?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Vietnam und Luxemburg haben ein Memorandum of Understanding (MOU) unterzeichnet, um die finanzielle Zusammenarbeit zu fördern und internationale Investitionen anzuziehen.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg hunn e Memorandum of Understanding (MOU) ënnerschriwwen fir finanziell Zesummenaarbecht ze förderen an international Investitiounen unzezéien.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg signed a memorandum of understanding (MOU) to promote financial cooperation and attract international investment.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg ont signé un protocole d'accord (MOU) pour promouvoir la coopération financière et attirer les investissements internationaux.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e1cf980d2a3b78387e1db3d929dc2f9c6f5a14ee",
-      "title": "Vietnam och Luxemburg undertecknar ett samförståndsavtal som främjar ekonomiskt samarbete och attraherar internationella investeringar.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYVE1c1BGMTc5ZmlTbWpGR2dSTTRBZEdMNHFyejZ4N3FNdG54ZGxvVUxkRGN1ZHpKM3liTHF1YjZ0QlZ1Y0gyMm45TUxZZGt3TENhR0hOU3o2Tkg1OU5jOEt1Y1VUZGxINWQ4LTJBaFdRa1VrREdCYjBvM0RWalRpN3FLOXo0Z2RQUFM3U29JLUJ4ZUtSWklVbmZjS3Jfd0FET3pKOE1OLW5xdWJVMzdVRGVaMA?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "sv",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Vietnam und Luxemburg unterzeichnen eine Absichtserklärung, die die wirtschaftliche Zusammenarbeit fördert und internationale Investitionen anzieht.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg sign a memorandum of understanding that promotes economic cooperation and attracts international investment.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg ënnerschreiwen e Memorandum vum Versteesdemech, deen d'wirtschaftlech Zesummenaarbecht fördert an international Investitiounen unzitt.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg signent un protocole d'accord qui favorise la coopération économique et attire les investissements internationaux.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a16511df4e6160ea5a785d232c74d78a7023f105",
-      "title": "Vietnam är redo att fungera som en bro för att främja relationerna mellan Luxemburg och ASEAN.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYkZibS1nNWR4RXpxeWNXOVVTTjZERDI2Z0ZjOUlCUTlLM01NYmpFcGNmbm5pRHFHcnpUWUJ3MHYwTy1oWTY2ODhSb0w1LW94blVkbmhZU1U5d0RDc1hyY18xY01SSU9ieTdYOUFpb19ORUlJSWVCZndINUlQekxxNEV3X3NDdkl4c2RFM0czREJJWTZZZ1YxZ01zV3FubXM?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "sv",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vietnam ass prett als Bréck ze handelen fir d'Relatiounen tëscht Lëtzebuerg an der ASEAN ze förderen.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vietnam ist bereit, als Brücke zur Förderung der Beziehungen zwischen Luxemburg und ASEAN zu fungieren.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam is ready to act as a bridge to promote relations between Luxembourg and ASEAN.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam est prêt à servir de pont pour promouvoir les relations entre le Luxembourg et l'ASEAN.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0a857c051796d712f55e98b29a21b8bedccb7d80",
-      "title": "Vietnamul și Luxemburgul semnează un memorandum de înțelegere, promovând cooperarea financiară și atrăgând investiții internaționale.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT1dWMXNscFNMM0VtNXJTQV9GLTBMVXVSekUzWEdQdDZyYVRHRnRlUHYtbk5MUzNOR04xdUQtN1p0NGFvdDZpUHl1bXd3OTg2cGJCWDdfWklfODhOMFMwZkpMaUZDS0h2S2RDNUpHZWZsQlRmamhMbHh5RVpEMzFHdmJPNTdMbnA4aGhRN3lYVHVTY0lhczJEN1ctOVl0bGVQcV82YW5nYTJuaGYyVzI4bEt4Zw?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Vietnam und Luxemburg unterzeichnen eine Absichtserklärung zur Förderung der finanziellen Zusammenarbeit und zur Anziehung internationaler Investitionen.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg ënnerschreiwen e Memorandum vum Versteesdemech, fir finanziell Zesummenaarbecht ze förderen an international Investitiounen unzezéien.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg sign a memorandum of understanding, promoting financial cooperation and attracting international investment.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg signent un protocole d'accord visant à promouvoir la coopération financière et à attirer les investissements internationaux.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5bd97fb25252fb433a2c46075723d0471b42e6b3",
-      "title": "Vietnam a Lucembursko podepsaly memorandum o porozumění, které podpoří finanční spolupráci a přiláká mezinárodní investice.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUlidHNYY2tSYU9iN2dqeEV2M0llWmJRLWV1UlVfRFgzUl90RXVua1BhM20tZHZQQlQ5OGF5aGFSRmh6NDlPbHd1R29ZOExQX3NWUU1TTVNEMzViQ1dLQnUzRGZKdi1YcDFVZVRhSmY0OUlyaVBVdWRqaE15TzNuZjRvaXJCZWNra0RMbXNQeU1xU3ZKclRIUENvVzZ6STBWVmUyNGx6TjhxdFdvSEo2RjJJUQ?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg hunn e Memorandum vun Versteesdemech ënnerschriwwen fir finanziell Zesummenaarbecht ze förderen an international Investitiounen unzezéien.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg have signed a memorandum of understanding to promote financial cooperation and attract international investment.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg ont signé un protocole d'accord pour promouvoir la coopération financière et attirer les investissements internationaux.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vietnam und Luxemburg haben eine Absichtserklärung unterzeichnet, um die finanzielle Zusammenarbeit zu fördern und internationale Investitionen anzuziehen.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "912ec9643374922cc9b3ddafdfb6cfac984f6039",
-      "title": "CSSF Issues FAQ on Tokenisation of Luxembourg Funds",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUh2cDY5RE1TSDlyXzlReVhTVWNhb3RnODBEeHpfMlRibnBnc19JR2FYNTlUWjU5Uk02ejZscEJ0WmVWUzBYVlltSHpyaUJOdndrWFU2U1NnWDI2aVlzcVg3T24wcE9DNkpSM2Fka3FlaUtrOExxX1hMbFdubTZPejZBYkY5SlpGamxrdmxQWF9ld3hMQk9TLVVhNWhEbjJlSkJZeC03ZVZZdw?oc=5",
-      "source": "Dechert",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "CSSF Issues FAQ on Tokenization of Luxembourg Funds",
-          "summary": ""
-        },
-        "de": {
-          "title": "CSSF veröffentlicht FAQ zur Tokenisierung luxemburgischer Fonds",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La CSSF publie une FAQ sur la tokenisation des fonds luxembourgeois",
           "summary": ""
         }
       }
