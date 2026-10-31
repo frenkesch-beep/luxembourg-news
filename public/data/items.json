@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-10-30T23:49:20.191Z",
+  "generatedAt": "2026-10-31T05:44:28.180Z",
   "items": [
+    {
+      "id": "e53bdd88c33958bfa0eab9264b9ca6db1bd567b1",
+      "title": "Clément Lerat, d’Arlon, présélectionné pour représenter le Luxembourg à l’Eurovision : « Je n’ose pas encore y croire ! »",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUm5mQWloMzBzWXlrYzRoUGVTa25iX0lGdGVyektrNm5ycDNNOFJGMFp3clBwczBhMnFvNHZuck5YUDk2UGRrdTZMWFBrUTdKX0JZb2hyS2piSUdUOGZsQkM5ZUdkbTNiN3NVbUZYZXBhYlFHX2RsYWdHRWhheWtROEdzaTJnTzVlTnFkMThMd2xybU1GUTZtVUg5Q2NtNHpJMnkycDI2dDlUTXpwa3VOejFOV2lEVWZhRzc4WGJldFNFaVNYX1JQUFVR?oc=5",
+      "source": "Sudinfo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-10-31T04:02:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "politics"
+      ],
+      "translations": {
+        "en": {
+          "title": "Clément Lerat, from Arlon, preselected to represent Luxembourg at Eurovision: “I don’t dare believe it yet! »",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Clément Lerat, vun Arel, virausgewielt fir Lëtzebuerg bei der Eurovision ze vertrieden: \"Ech trauen et nach net ze gleewen!\"",
+          "summary": ""
+        },
+        "de": {
+          "title": "Clément Lerat aus Arlon wurde als Vertreter Luxemburgs beim Eurovision Song Contest ausgewählt: „Ich wage es noch nicht zu glauben!“",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "0f9d25cf6eea650a58c31a01e6d43887dc3c2e7c",
       "title": "[RECAP] Jay Park Fills Luxembourg with Serenades & Body Rolls on His European Tour",
@@ -1431,6 +1460,68 @@
         },
         "fr": {
           "title": "L’UE décaisse près de 6,5 milliards d’euros à la France, à l’Autriche et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a001a2ef6c56a5a665308ba155606985a8122b8f",
+      "title": "Luxembourg Opens Fast-track Hiring for Foreigners in 20 Occupations Facing Severe Shortage",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUhsQkdmOVEwX0RzcGc3RWlIMjA5U0t0cjA5MXF3ZFhXMzBOdGlfWHJqeXo0MDdFdjh2bjV4TDFPVHkwekQ1VWRMY0tTb2tLbGdJR0lIczRkbEpDRmpFb054bkItZTJtWkZEbWtnSGo3eHZjdG4yQlRTUGhrbFEySWNjb3JueENZemJpRHZVSE9jR25IODk0N1ZQdHhGRFJWUTRqVDJGcHlubzNNVWp1TE9BOWlEdjRPY19HUA?oc=5",
+      "source": "Legit News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-10-30T10:44:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg mécht Schnellaarbecht fir Auslänner op an 20 Beruffer déi mat schwéierem Mangel konfrontéiert sinn",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg ouvre le recrutement accéléré d'étrangers dans 20 métiers confrontés à une grave pénurie",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg eröffnet beschleunigte Einstellungsverfahren für Ausländer in 20 Berufen, in denen es zu starkem Personalmangel kommt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f0e39521bad6bad994df52ec40834496994b1750",
+      "title": "룩셈부르크 수탁 플랫폼 첫 고객은 LMAX그룹",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBORlNYLUc4SzN3SzBfczRTbEdMSklWa0FBQi1JcHBkc2xGT0tiQ1VhOFozZVRXMS1PNnRCdnZrMHluN0lEX240UzMyY093QTkyQ3ZIbklRa3JjeUZwSjJPbtIBZkFVX3lxTFBVSHlUTG9wMDl2VzdzeEJXbERqbDR1emlRUU1qZXc5emQzUm56V3FiWXZFbTdwMFZRNEdxbkNTb0VLMGFqWDVnQTNGQWJNZ1l1S0ZUVGJKbDM3UDYwT05MdmtKX1FqQQ?oc=5",
+      "source": "토큰포스트",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-30T10:39:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Den éischte Client vun der Lëtzebuerger Depotplattform ass LMAX Group.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der erste Kunde der Luxemburger Depotplattform ist die LMAX Group.",
+          "summary": ""
+        },
+        "en": {
+          "title": "The first customer of the Luxembourg custodial platform is LMAX Group.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le premier client de la plateforme de conservation luxembourgeoise est LMAX Group.",
           "summary": ""
         }
       }
@@ -5475,6 +5566,39 @@
       }
     },
     {
+      "id": "b331cec1136d65fe756bd202753dd4db2496740c",
+      "title": "Στο Συμβούλιο Υπουργών Ενέργειας της ΕΕ στο Λουξεμβούργο ο Παπασταύρου: Ενεργειακή ασφάλεια, χρεώσεις δικτύων και στόχοι της Eυρώπης μετά το 2030",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM0MyX3BQeEJyX3FCTHplMF9teG50UGJVdUFkLVQwdEhUSXM3Vi1DbWpiNmNzcEdjNDYxc1hUblBBMUFLclB5XzJkT1pwckdQUkg2RDdkSjY0TTBKZDI0aDBwandsVHVNX3VoNG5saWRzOWpscXRWcUh2N1c2MXpaSFlkTWN3N0pYUFZOYW1udVhLc01rQmJscEVWVE1mdWZnZ1llaUpRbmg0YUtBT3FYTzhwNG5OLW50Z1REcTQxMHBhNG1CSlZvYWNCWHlEM0tHMTgxQmJnYlA1emU0dVpUSTV2SUMzRVRIbWw3al9KZ1FCQdIB9wFBVV95cUxPdXlzNjF6MWNZbHJ4a3paZEZFLWs2aEZWUDVJYTZOUEFIcVBBeFRmNFRlVlpkMnI2OE0weUg2M3Frb3JRdDVVOGxCT0Q3QWVYWXBxWUFJbEZTNnhDS3RxTUxDeVJZWFhLeFNXbXMtZmNMWng0ZVlXZnljbGh4N2s3QzV2Y203S1hXZUk0UmZ4MnZFQ1FyTlh3Q3NXdzkyX0MyV1Z2eWcydVNteWE2RVFpNEZoRTBlREJ2c3dQdUdSdGxpdHJ6c1pMeFNUZTVyeUMxcXRNU1N3WDR2aEFCbzVzVWpXUDJ3Z0RWVDkxWUZTYWMtSXFPNWg0?oc=5",
+      "source": "ProtoThema",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-28T11:53:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Papastavrou am Conseil vun den EU-Energieministeren zu Lëtzebuerg: Energiesécherheet, Netzkäschten an Europaziler no 2030",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Papastavrou au Conseil des ministres de l'énergie de l'UE à Luxembourg : sécurité énergétique, tarifs de réseau et objectifs de l'Europe après 2030",
+          "summary": ""
+        },
+        "en": {
+          "title": "Papastavrou at the Council of EU Energy Ministers in Luxembourg: Energy security, network charges and Europe's goals after 2030",
+          "summary": ""
+        },
+        "de": {
+          "title": "Papastavrou beim Rat der EU-Energieminister in Luxemburg: Energiesicherheit, Netzentgelte und Europas Ziele nach 2030",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "c002fc5f797bafa9bfcbf1421d0455c620c1b690",
       "title": "Συμβούλιο Υπουργών Ενέργειας στο Λουξεμβούργο την Πέμπτη",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3JrdlVuU1hna2ptcnBoV19wSGNBTWZ6dTk0Z29EenA5TzJRekZuUkNTakJXc3NkZ29BaUhpZG1wMkNWSy1uYnVVX282MEFlM1FjSUhtai1hQl9iaGEySkRnSnktQkcwTTFRQUFIdTRfT1BTek52S1Q2QTNHdWN5bHJOc0NaaTdmSS10UVRnYjQyekkyN3FVNk5iUFJ4dmQ5RWpEUjNSYTFXZEdtNUE?oc=5",
@@ -7173,6 +7297,39 @@
         },
         "fr": {
           "title": "Le Grand-Duc Guillaume fait un don de sang pour répondre à l'appel d'urgence de la Croix-Rouge luxembourgeoise",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "5df8af1db2fad6fb310b0bee65d1dc0de5a7cb4e",
+      "title": "Люксембург заручился поддержкой 20 стран ЕС в вопросе увеличения финансирования борьбы с болезнями растений",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2FHTXB2XzhsamJXbExUU2lhQjBpMzF1blNKZWtxTk9YMUhjUDNNbTBSUnhQUlMwaUh4T0JsV0lhWmlNY1pEZHJLRXlJWEtwVnpUN2ZJZ3hyS2xJd1laUTIzUFptMng5Vl8ydTZBTV9kcUV3UmNTRjg4V2ZkTElWUzRQbm1nWkw2SzN4OWlWSDhETTFEd0JwMzJGV29HMDZHRmlGLWdGbmNSVHFDaXNoYTJ5Z1dQMUwxY1FFTnNCOULSAcYBQVVfeXFMTkt0aTlodUl3bWZkUjRnY21fdUptYTRkS1dUTHlNdFJCSjZtc01iWTJidjNYMHUwLUdUbXNCTmpKeUZvY1VHZGpkci1jTi1mLWVpTldHbEZyd0hWeTBXR2N0OVNJcWppSF9TSkxxU0d4Z1BEOVNaWVdvNDRUYkRtM0hER3FqeG5JV3JTSFpEY01QUHhZMk80WDdtZW1rcy13S1B1UHU5N3d6cEgwM0hIOHFQbUhmQmstT2E1RG5Sd2wyR1dwUG1n?oc=5",
+      "source": "Vinetur",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-27T17:41:58.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le Luxembourg a obtenu le soutien de 20 pays de l'UE pour augmenter le financement de la lutte contre les maladies des plantes",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg hat sich die Unterstützung von 20 EU-Ländern gesichert, um die Mittel für den Kampf gegen Pflanzenkrankheiten aufzustocken",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg has secured the support of 20 EU countries to increase funding for the fight against plant diseases",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg huet sech d'Ënnerstëtzung vun 20 EU-Länner geséchert fir d'Finanzéierung fir de Kampf géint Planzekrankheeten ze erhéijen",
           "summary": ""
         }
       }
@@ -47133,167 +47290,6 @@
         },
         "fr": {
           "title": "Le Vietnam et le Luxembourg signent un accord de coopération financière pour promouvoir le développement durable.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "77361269b92b4562c4f73ed3cf4b410164695fac",
-      "title": "Il Vietnam e il Lussemburgo firmano un accordo di cooperazione finanziaria per promuovere lo sviluppo sostenibile.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHpmTlFHS2lrTDV6bEJYSFRGaEtJckFjUnpCR3pkQ3FoSVdCMnNqNWZqbTlKc0ZMamdLd1JGZF9RXzRIWXdEUDNHWjN3SWZCZ1JyZGRFM0FzbUZxUHhPS1BNVTNxT21nVWp6X1JFU1QyZURqNlFxWW82TFJQRHRpWkhTUFlRZFYwZlhCWHpDZnRqd1lZbmVrWVZ3ME02OXNmWjJCdQ?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-12T11:49:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg ënnerschreiwen finanziell Zesummenaarbecht Accord fir nohalteg Entwécklung ze förderen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg sign financial cooperation agreement to promote sustainable development.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg signent un accord de coopération financière pour promouvoir le développement durable.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vietnam und Luxemburg unterzeichnen ein Abkommen über finanzielle Zusammenarbeit zur Förderung einer nachhaltigen Entwicklung.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "500a54baaf3a2e208535f45f93e2d7e4165615d9",
-      "title": "Wietnam i Luksemburg podpisują umowę o współpracy finansowej mającą na celu promowanie zrównoważonego rozwoju.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmg4SG9SeVktTWx3MldoYllqbmVYSk15SFlOMDVBVmFwQU9rWmNEcjZ3LXUydWF1NXN0YmZVWkJoclNKeW84VnJybjBXaC13b2ttMmJ2WmlyelJfU3pBRk1hNG41NGVoR0JITHd6S0ZqWklESEpDVGlNRkFoemRoTDBlQ1hrR3JKOXV4a0xlYU1lR1BDTjk5ZFJDWmx4dXJVMTNiTQ?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pl",
-      "publishedAt": "2026-10-12T11:48:34.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg ënnerschreiwen e finanzielle Kooperatiounsofkommes fir eng nohalteg Entwécklung ze förderen.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vietnam und Luxemburg unterzeichnen ein Abkommen über finanzielle Zusammenarbeit zur Förderung einer nachhaltigen Entwicklung.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg sign a financial cooperation agreement to promote sustainable development.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg signent un accord de coopération financière pour promouvoir le développement durable.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7bd640465f7ee7ad5bffb5a0aa7d122be888b947",
-      "title": "Vietnamul și Luxemburgul au semnat un acord de cooperare financiară pentru promovarea dezvoltării durabile.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTi1zSFNXbk54NFdaYXFncWNqdnMwOXFRQndCelJMTEY2Vk1tLXptLU9LRU5jN0hrdnl0UU10dHZ2QlF4ald1NjVKU3JWaVpQUTJxclNVVXdUMUhRSG5VNTEwVlA3VDduR3ZVRlFpbVVPQTBlR3pFSVNMTTM1bDFTcV9SQ2RNaDZKSkM1bTNRdmR0emtIUFpzd083bXJvSENWRkxYYQ?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-12T11:43:52.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg hunn e finanzielle Kooperatiounsofkommes ënnerschriwwen fir nohalteg Entwécklung ze förderen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg signed a financial cooperation agreement to promote sustainable development.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg ont signé un accord de coopération financière pour promouvoir le développement durable.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vietnam und Luxemburg haben ein Abkommen über finanzielle Zusammenarbeit zur Förderung einer nachhaltigen Entwicklung unterzeichnet.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "78f1d9e210308ea7adb0003f2e5a018deea13ac0",
-      "title": "Vietnam und Luxemburg unterzeichnen ein Finanzkooperationsabkommen zur Förderung nachhaltiger Entwicklung.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFFUenc5RC1JYWRTOTJfNFVYVVdaMkhIbWxzVmFTT19vWVdpTmYwUjlwbVBZMEgwZ09qZmlpQWNGUGttRGYtaS0xYXhjeW94am1LcFFQdkxHLTFRcHNtWXQzd2dXSTZNMjlwd3pMd29KLXlqZFFTX0paR3RRZnRKNmZ1ajJuNVVTaTJFY3MwUUdjZnpVcHllN1VVZjgxNV9UZkQwbA?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-12T11:41:52.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg ënnerschreiwen finanziell Zesummenaarbecht Accord fir nohalteg Entwécklung ze förderen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg sign financial cooperation agreement to promote sustainable development.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg signent un accord de coopération financière pour promouvoir le développement durable.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "87eeef2f5a4e51a0f9265b380646e17c249284ce",
-      "title": "문체부 최휘영 장관, 룩셈부르크 문화부 장관과 면담",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EY1hfeVd6dy1NQ21aZGNpTXZyN1NTS1VUVmhlWk5jUjZtRkhrRF9fN3JHR2YzWU9QbEFZVWs1cjBxazNiVW95ZHVRVUFfdFkxdjUtOUFWRDFMV09ybG1INERxbw?oc=5",
-      "source": "시사미래신문",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-10-12T11:30:04.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le ministre de la Culture, des Sports et du Tourisme Choi Hwi-young rencontre le ministre luxembourgeois de la Culture",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Kultur-, Sport- an Tourismusminister Choi Hwi-young trëfft mam Lëtzebuerger Kulturminister",
-          "summary": ""
-        },
-        "en": {
-          "title": "Minister of Culture, Sports and Tourism Choi Hwi-young meets with Luxembourg's Minister of Culture",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der Minister für Kultur, Sport und Tourismus Choi Hwi-young trifft sich mit dem luxemburgischen Kulturminister",
           "summary": ""
         }
       }
