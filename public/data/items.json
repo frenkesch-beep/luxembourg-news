@@ -1,6 +1,130 @@
 {
-  "generatedAt": "2026-11-01T15:11:50.808Z",
+  "generatedAt": "2026-11-01T19:42:02.192Z",
   "items": [
+    {
+      "id": "eddafc210bdb43879e200621dfb598b3734bb0fa",
+      "title": "Marc Cascant, natural de Cocentaina, guía a ‘Valencians al món’ por Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qUU4tdWFjcm1sYVdldTJVYS1sbXQtWWZhX2NQb0xwd2RyRDhoMjJfVTBjUnF2c3RCWFdvZk1jTGlXV2dUcjNUV0JodTlHWndVMmVPMlJKS2ZEa29BVjIyeVZiOUxIQXpUa3hwa2g5QjVVRzEwcVFTSml3Zw?oc=5",
+      "source": "Diario de Alicante",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-11-01T18:21:03.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Marc Cascant, originaire de Cocentaina, guide les « Valenciens du monde » de Luxemburgo",
+          "summary": ""
+        },
+        "en": {
+          "title": "Marc Cascant, a native of Cocentaina, guides 'Valencians in the world' by Luxemburgo",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Marc Cascant, gebierteg vu Cocentaina, guidéiert \"Valencians an der Welt\" vum Luxemburgo",
+          "summary": ""
+        },
+        "de": {
+          "title": "Marc Cascant, gebürtiger Cocentaina, führt „Valencianer in der Welt“ von Luxemburgo",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fd811289cc00aea836ee0912a7c091a7acb65bf7",
+      "title": "Lussemburgo: ambasciata, Settimana Lingua Italiana “Il vocabolario di Topolino”",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aZjFmTGNhVGlVNGE5YjJZMXRoWU1HOUZTSWhieGhpVU9ISHdLcFNraGhkbm9NLWo1bHF2VFk3OW1waWxXQ3Z4OUJNZ3EzLTdxbThibHFnVWlZcFZQZmZj?oc=5",
+      "source": "Giornale Diplomatico",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-01T16:34:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg: Botschaft, Italienische Sprachwoche „Mickey Mouses Wortschatz“",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg: Ambassade, Italienesch Sproochwoch \"Mickey Mouse's Vocabulaire\"",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg : ambassade, Semaine de la langue italienne « Le vocabulaire de Mickey Mouse »",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg: embassy, ​​Italian Language Week “Mickey Mouse's vocabulary”",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9c38dcb8abd55b97bc84e5d33bac3468236dbfe3",
+      "title": "Luxembourg. Eurovision 2027 : on vous explique comment sera choisi(e) le ou la candidat(e) du Grand-Duché",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdE1FdEdZQ0gzcUgtR1pXenFxeDZuT0t6cnlhN3V0WFVENXJxT0o2c0FCUU5JbTVxNVM3ZjhTWEI2a2ZBR3VYQl9VRk5udFhDTWVYbjJ6LXZiUUJlZWU4MUk1eklQUkQyZVlTZkk4amhSMTZsMUctdzZ4UEhfbXJ4VVFRc19RVkpMRk1wNURSWVNqWHpadk5rbVpEU1RPT2VIeVkwUktvYWh5VjVzem15Q0tuRVBxZ3ltTFltaEFmelBoWkVQdWVlZVFKaEhJZVhVcXpzU0E0VS1kb25oOTRFNjN2aGQyNEds?oc=5",
+      "source": "Le Republicain Lorrain",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-11-01T16:17:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg. Eurovision 2027: we explain how the candidate from the Grand Duchy will be chosen",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg. Eurovision 2027: Mir erkläre wéi de Kandidat aus dem Grand-Duché gewielt gëtt",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg. Eurovision 2027: Wir erklären, wie der Kandidat aus dem Großherzogtum ausgewählt wird",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "17dbe1ac4033110f225411a777fbf6efa3a1899e",
+      "title": "As Rosa Luxembourg Foundation Plugs Into Nigeria’s Nearly Two Decades of ‘Fire Without Smoke’",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Jd1RJR19oeFJtNkhPUllRTHdPc1ZBUktEUkdIVGVIdk1xaHpqclJtcXBkWklGUTlaWUZIaXBmOUVFQ2tE?oc=5",
+      "source": "Intervention",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-01T12:33:20.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Wéi d'Rosa Luxembourg Foundation an Nigeria's bal zwee Joerzéngte vu 'Fire Without Smoke' Plugs",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Alors que la Fondation Rosa Luxembourg se lance dans près de deux décennies de « feu sans fumée » au Nigeria",
+          "summary": ""
+        },
+        "de": {
+          "title": "Während sich die Rosa-Luxemburg-Stiftung an Nigerias fast zwei Jahrzehnten „Feuer ohne Rauch“ beteiligt",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "551b2535d712e0950c81769787c64b814fdeb8bf",
       "title": "Brandstiftung in Zeitz: Decke brennt vor Wohnungstür in der Rosa-Luxemburg-Straße: Gegen wen die Polizei ermittelt",
@@ -245,6 +369,39 @@
         },
         "lb": {
           "title": "E portugiseschen Trainer, deen zu Lëtzebuerg aktiv ass, amgaang de Virton an der D1B ze iwwerhuelen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "cb087d5438fa411f57d36cc927166d70f3f5c4b9",
+      "title": "استكمالاً لسياسة عزلة كيان الاحتلال.. لوكسمبورغ تستعد لحظر واردات المستوطنات",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZmMtbFlnNmhUMTZWdnZ2N3J1M3A4WVZXUTBrd0JRR0ZRNnlLd2xRVkh4UlpSMEMwN0dLTkdOc1RaZWlUdjFBcjNBVnZObkp0MV9rak9US29Lekl4b0VjcWR0MDhSajVNOC1jR3FfRlYtZUc4eW5lckgyc2xWazRYanBHQWdETjhmdXlvNG9NOG5FX3BwMjBXQk9JSTB2LTNHTldoMzV0UEJra0RJMmhUX2NKMENYNklGMkd2M1ROTzBJNVRfSDdZZHQwYXlrX3A2R3hDMzJrbG9mWXdGa3loRjJfdE0xMHEzZG1oeUdxNktDYWRHNDU5MkJhNm85SEpyY2h4M2stVFllalNwWTZHeTJhYndTS0loWnJEUXAwOXg?oc=5",
+      "source": "وكالة القدس للأنباء",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-11-01T08:12:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "An der Fortsetzung vun der Isolatiounspolitik vun der Besatzungsentitéit... Lëtzebuerg bereet sech vir, Importer aus Siidlungen ze verbidden",
+          "summary": ""
+        },
+        "en": {
+          "title": "In continuation of the policy of isolation of the occupying entity... Luxembourg is preparing to ban imports from settlements",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Dans la continuité de la politique d'isolement de l'entité occupante... Le Luxembourg s'apprête à interdire les importations en provenance des colonies",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Fortsetzung der Isolationspolitik des Besatzungsgebiets... bereitet Luxemburg ein Importverbot aus Siedlungen vor",
           "summary": ""
         }
       }
@@ -663,6 +820,39 @@
       }
     },
     {
+      "id": "625e38cfa61f3cc36f7375c87e99841e7f5799f8",
+      "title": "David Ivanov — статистика у Люксембург: Національний дивізіон 2026/2027: скільки голів та передач",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVpNQnBiSzJZVTltZVUwWUJrUWo5QnRpM2RsVnpVdFQtcFhxMnZEaU9MdnpfdWdvZGZTNHNWOHloY2ZybVdWYUs2ckptSFFKZ2xSWEItSmduVENBeG1aY2hQZDJ0ejJpTGk2Nks0OG9QcG42SXVBZllyTkVqX0twaDh5aUlUQ1poOGxXSkNLeHpPX3hrQkdlcGdZWmdERk9hSFUxaG93X29sNTkzMTBOeVJkdVRzcFk?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-10-31T17:08:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "David Ivanov - Statistiken zu Lëtzebuerg: Nationaldivisioun 2026/2027: wéivill Goler an Assists",
+          "summary": ""
+        },
+        "en": {
+          "title": "David Ivanov - stats in Luxembourg: National Division 2026/2027: how many goals and assists",
+          "summary": ""
+        },
+        "fr": {
+          "title": "David Ivanov - statistiques au Luxembourg: Division Nationale 2026/2027 : combien de buts et de passes décisives",
+          "summary": ""
+        },
+        "de": {
+          "title": "David Ivanov – Statistiken in Luxemburg: National Division 2026/2027: wie viele Tore und Assists",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "f2276f0ae16b86cbb9475c13bc077102ce739892",
       "title": "US Rumelange - Racing Union de Luxemburgo, 31/10/2026 - BGL Ligue - Ficha de jogo",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGTDRKQ2FBRVNXVGQ2RWpPN3k0aEt3WWFiclF1b2FyNmNOLVJZNzY3bzM1NGZBcWp5Mmd6blFyU282N3BqemRjLUlwcEZOcWpta1VVS0xyNUx2M19na3pLN1U5b1ZvRDFmZ1NFcE8xN2NpOTdLdUdZ?oc=5",
@@ -724,6 +914,39 @@
         },
         "fr": {
           "title": "Tatouages ​​: Paulo Veiga récompensé par deux prix au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "429f9a5e8a02d711fbb13afc6a9f0df06a476225",
+      "title": "Последние землетрясения в Бофор, Canton d'Echternach, Люксембург, за последние 30 дней",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPby05MnktNkRhU05WNVRnRVpoenY3ZlUya2Zxc2h4RzlzOUdVVHFYTFBGN0xMOTZYMWpmTm5QZ2o4bG5yOHd2aGlUQ0hZcXAzMURha3FGWHRnSklQTlNGcE43aVhjWVNwSjVsY3BoS3RFWUhlV2U0Rk1ZNXVwOVZxdVRR?oc=5",
+      "source": "Volcano Discovery",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-31T11:12:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Derniers tremblements de terre à Beaufort, canton d'Echternach, Luxembourg, au cours des 30 derniers jours",
+          "summary": ""
+        },
+        "de": {
+          "title": "Jüngste Erdbeben in Beaufort, Kanton Echternach, Luxemburg, in den letzten 30 Tagen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Latest earthquakes in Beaufort, Canton d'Echternach, Luxembourg, in the last 30 days",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Déi lescht Äerdbiewen zu Beaufort, Echternach, Lëtzebuerg, an de leschten 30 Deeg",
           "summary": ""
         }
       }
@@ -45046,6 +45269,39 @@
       }
     },
     {
+      "id": "b0fc0a9b35e81501bea5f8f53159a408049c20b2",
+      "title": "西比哈抵达卢森堡并会见该国外长",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblNzaXhaQzMzeVlyMnVHejlpWVhFa1B5ZkxIbHpBcnUwZFZaNFMyaXlaMTViWlcxc1haaDVObW5uWXJTODFWRXE2T1gxOW51UlhSM1dBczZ1QV9pV0RTa1FScThvTmJQWVp1c1Exc2Mxd3BCN1drTzQ0T3R2M2plRA?oc=5",
+      "source": "Mezha.net",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Sibiha arrive au Luxembourg et rencontre le ministre des Affaires étrangères du pays",
+          "summary": ""
+        },
+        "de": {
+          "title": "Sibiha kommt in Luxemburg an und trifft sich mit dem Außenminister des Landes",
+          "summary": ""
+        },
+        "en": {
+          "title": "Sibiha arrives in Luxembourg and meets with the country's foreign minister",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Sibiha kënnt op Lëtzebuerg a trefft sech mam Ausseminister vum Land",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "3188fffded4926753fca90940219b31e8de20ea7",
       "title": "Shqipëria mbyll Kapitullin 20 të negociatave me BE-në, Rama në Luksemburg për Konferencën e 10-të Ndërqeveritare",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPUmt2MExRaFZEclYwb2ItcE9PTkNvdV8zbHRiMEhqeHlnbFYyLVF6dnRyaW4xVlN5NHRZUTh3cHdBYTdMYXo1RlZHbnNEcUI2X0Z1clJfeDZkT285dzN1TGVHeXpZNEJWNkZzZUdSLTVzMEw4NFNlLVEwRHhnYXR5V1EtMDRMYk00ZEpuRTFhb05NTmc3X0JVSXFCNjY3TWJva3dYMUtHRklnYVpIZzBkV0Ric2EtdW84WjZDcTZVam1XOHpNM1JnUUlFZDhnS0FIVGZPb01Ub2pIZUhiYTdCb1BJMk1lZXowSldMYUVSbVJVMDcwYW42WjFxR3ZhSENoU19ZbVJDRGE4dWs3ZkZHSFRXQldpZXZHVnJjRnE5MGhBY0dTVzlna1U4OGxRU1kxTzJ6eWtmWi1HWjlwM0tWX0ZYZUtMTGc?oc=5",
@@ -47010,246 +47266,6 @@
         },
         "de": {
           "title": "👩‍🍳",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8652d571c18af72913cde72b216e7342a613738b",
-      "title": "I keep promises❤️#luxembourg #europe #fyp ",
-      "url": "https://www.tiktok.com/@naido_0yoo/video/7695834513997335828",
-      "source": "@naido_0yoo",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-12T17:28:28.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/owPQ9ffxxwZA2XeCFAIANZB5OqAAAfAqcf3hfe1~tplv-tiktokx-origin.image?dr=10395&x-expires=1792047600&x-signature=pa0jO%2BIr53Bai4lsC36qND2RD4g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Ech halen Verspriechen❤️#luxembourg #europe #fyp",
-          "summary": ""
-        },
-        "en": {
-          "title": "I keep promises❤️#luxembourg #europe #fyp",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ich halte Versprechen❤️#Luxemburg #Europa #fyp",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9aaa6360407eab1b4bfbb696e58bbe0f275748c4",
-      "title": "Outfitcheck✌🏻✌🏻\n\n#outfitcheck #ootd #luxemburg #outfitinspo #fitcheck ",
-      "url": "https://www.tiktok.com/@lori_schoujean/video/7695834375249759510",
-      "source": "@lori_schoujean",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-10-12T17:27:58.000Z",
-      "summary": "",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/ooA2AfQNDFGqFAEEaaEMRpITzCkQ2a5gyTReiA~tplv-tiktokx-origin.image?dr=9636&x-expires=1792022400&x-signature=a820WrluTAxp7AOrT7VofnoCjxY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Outfitcheck✌🏻✌🏻",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Outfitcheck✌🏻✌🏻",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Outfitcheck✌🏻✌🏻",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c41f54680d1f031f112e00c04d2bf170589766c8",
-      "title": "Lussemburgo, Incontro tra Xavier Bettel e Andrii Sybiha, ministro degli Affari Esteri dell'Ucraina",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXJUVWRCbUMxQmZaUnlCVnJPRUlOUkpGUzZnWFU3cV9vX3V1enl3bWRRQlI3UmQwMnQ1UkFiUG5ZUDh3eW9tekRERG5nRkFvV1JsTFZ0cEJFWmI1em10THVjZG9ZVVBXWkpLNDRqWUFjZldBV1daUFh6LWEwT3BwQVM5LWR2QQ?oc=5",
-      "source": "Fattitaliani.it",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-12T17:17:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg, Treffen tëscht dem Xavier Bettel an dem Andrii Sybiha, Ausseminister vun der Ukraine",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg, Meeting between Xavier Bettel and Andrii Sybiha, Minister of Foreign Affairs of Ukraine",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg, Treffen zwischen Xavier Bettel und Andrii Sybiha, Außenminister der Ukraine",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg, Rencontre entre Xavier Bettel et Andrii Sybiha, ministre des Affaires étrangères de l'Ukraine",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "699dd26bf61a66381f77a54ff489169e128891ae",
-      "title": "Bulgaristan ve Lüksemburg siyasi diyaloğu güçlendirme kararı aldı",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkRDZE9uTVVHZlIyYWZ4RHBEWTVpN0o4Y3NSX1dQUkpTbExxVnltNFpjSW9ELVFmbTVRYzFEa24tYmVrNTUxanNOc3lxVXdZdlRiYk90cXBDTk53SWNDd0JSNkVWdm1CWEdGRExwWkNyNTVUWTdBSVE2V2VIRGJPT0lKWFdGa3BPbVRQQ2hpeTdYOU1kOUE?oc=5",
-      "source": "hibya.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "tr",
-      "publishedAt": "2026-10-12T17:06:22.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "La Bulgarie et le Luxembourg ont décidé de renforcer le dialogue politique",
-          "summary": ""
-        },
-        "en": {
-          "title": "Bulgaria and Luxembourg decided to strengthen political dialogue",
-          "summary": ""
-        },
-        "de": {
-          "title": "Bulgarien und Luxemburg beschlossen, den politischen Dialog zu stärken",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Bulgarien a Lëtzebuerg hunn decidéiert de politeschen Dialog ze stäerken",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ddcce909790f2ab50965ae0e285bd3d37a3bd571",
-      "title": "Wéi ee Jong aus dem LNW géif Är Duechter net mat hir op daten loossen????😂😂😂😂😂😂😂#luxemburg 🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺#fyp #viral #pourtoi #para",
-      "url": "https://www.tiktok.com/@t1.52109/video/7695828221778087190",
-      "source": "@t1.52109",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-10-12T17:04:05.000Z",
-      "summary": "Wéi ee Jong aus dem LNW géif Är Duechter net mat hir op daten loossen????😂😂😂😂😂😂😂#luxemburg 🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺#fyp #viral #pourtoi #parati ",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o0fEPEIwQt6EkdzBUNxDfFuRLkAFJPRgEyWqQF~tplv-tiktokx-origin.image?dr=10395&x-expires=1791997200&x-signature=g%2FhUvz%2ByxGfX1b3OZSmSGHGP7AE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Wéi ee Jong aus dem LNW géif Är Duechter net mat hir op daten loossen????😂😂😂😂😂😂😂#luxemburg 🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺#fyp #viral #pourtoi #para",
-          "summary": "Wéi ee Jong aus dem LNW géif Är Duechter net mat hir op daten loossen????😂😂😂😂😂😂😂#luxemburg 🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺🇱🇺#fyp #viral #pourtoi #parati"
-        },
-        "fr": {
-          "title": "Quel garçon de la LNW ne laisserait pas votre fille sortir avec elle ?????",
-          "summary": "Quel garçon de la LNW ne laisserait pas votre fille sortir avec elle ?????"
-        },
-        "en": {
-          "title": "What boy from the LNW wouldn't let your daughter date her?????",
-          "summary": "What boy from the LNW wouldn't let your daughter date her?????"
-        }
-      }
-    },
-    {
-      "id": "b34808b94f1f962b8911972144e0f38c1d7a3a28",
-      "title": "Escaped the city for another one 🇱🇺 #getaway #luxembourg #traveldiaries #septemberholiday #citybreak ",
-      "url": "https://www.tiktok.com/@jeaulina/video/7695821325058788630",
-      "source": "@jeaulina",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-12T16:37:21.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oIb5FNfDkI4IRXqEDD8N3zeQNBMAXErmFCKZIg~tplv-tiktokx-origin.image?dr=10395&x-expires=1791997200&x-signature=VeImI%2Fwj7K5%2BMpaDOtdO8HF2F6U%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Escaped the city for another one 🇱🇺 #getaway #luxembourg #traveldiaries #septemberholiday #citybreak",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Aus der Stad geflücht fir nach eng 🇱🇺 #Ausfluch #luxembourg #traveldiaries #septembervakanz #citybreak",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ich bin der Stadt für eine weitere Reise entkommen 🇱🇺 #Kurzurlaub #Luxemburg #Reisetagebücher #Septemberurlaub #Städtereise",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b983fac053c17e5fac235a65b09bb166c23fe718",
-      "title": "Luxembourg Administrative Tribunal interprets notification and motivation requirements for ex officio tax assessments",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWU1NUmVRT0RnaHN6eVR5UTFrYlNYZGRwRDhCUW5NRTdyUDRuT0J5czQ3VksyMGNyR1pXb3B2ZFdnNWljcVRkOVdWaWtYOEFXSWlqRUp6bWc2SFFTR2NzYk9WcW4ybG9IUlhQRWgwOURlRm9LUEVCaEthZ0hlck9OVy1VbzhrMV9JX24yaG4xNmhwSE4wY0N6Q1hBMWEtWjhsMzZvMm5scmxVbGlXQmp2Yk9sQzVWUEhxbTRjcW80VEI0OGp6S3dnb290cl85bTFibUd6enI4ZmkwcTE4dkNqaVR2YzNtcVd2TEJlUnlOc2VmNUNYSkNKVUJmcTRFTENqNGFOT3hB?oc=5",
-      "source": "Deloitte",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-12T16:22:28.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "de": {
-          "title": "Das Luxemburger Verwaltungsgericht legt die Mitteilungs- und Motivationspflichten für Steuerbescheide von Amts wegen aus",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Verwaltungsgeriicht interpretéiert Notifikatiouns- a Motivatiounsfuerderunge fir ex officio Steierbewäertungen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Tribunal administratif luxembourgeois interprète les exigences de notification et de motivation pour les cotisations fiscales d'office",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ae48732e6f1cc8f2d9032d5174d7b580a5f347e8",
-      "title": "++ TANKEN IN LUXEMBURG AKTUELL: Spritpreis für Diesel zieht noch weiter an ++",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUhYSENSb2l2UHpUVmVud25kblZRaGI4UlhOUDlOTFZQa281SVlTMVBtSXpuUXFITVA1bUR2MlJzVFlWSm1yc0RjMlJMZmNoRmVHNTVMTTYzOVY3OWktU0RzY2RpZnF6aEItaGFxRE83eUY2U291ZmE5ODE1aWYwdEdWQXlLR0NwTm1jZnJJV0l2Q1AwOGdrUFBpeG9VYmszZnNpNE5QVV8?oc=5",
-      "source": "lokalo.de",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-12T16:14:53.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "++ RAVITAILLEMENT AU LUXEMBOURG ACTUELLEMENT : Le prix du gasoil continue d'augmenter ++",
-          "summary": ""
-        },
-        "en": {
-          "title": "++ FUELING IN LUXEMBOURG CURRENTLY: The price of diesel fuel continues to rise ++",
-          "summary": ""
-        },
-        "lb": {
-          "title": "++ DREIFUNG A LËTZEBUERG AKTUELL: De Präis vum Diesel geet weider an d'Luucht ++",
           "summary": ""
         }
       }
