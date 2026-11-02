@@ -1,6 +1,861 @@
 {
-  "generatedAt": "2026-11-02T15:59:41.459Z",
+  "generatedAt": "2026-11-02T23:33:12.340Z",
   "items": [
+    {
+      "id": "a820dbaca96869687258cb15e387f456d86c4fe0",
+      "title": "Nuevo ciberataque a supermercados de Bélgica, Estonia, Luxemburgo y Suecia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY0JJV2EtRGdRUS1feTdTeTdUWVRyWHNtc2d2N2VkZzJjMGxGUHF5cHBtU0xmYU9obEItX185aE1fLWhMX0k1UFlBaS13XzNQR1VRLVEtODlpR3Yxam1ZLTZnVXBHOFB2THFKdnhzQ1lOR2lYZm1fcGlMR0d6YTVmZGhmSk1pRXo2c1pRY0pQd3BLTUFHQzJYOGNFN2pud3lZNzNESjNjSTFveF9mOUh5VUJ3?oc=5",
+      "source": "Perfil",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-11-02T20:58:48.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Nouvelle cyberattaque contre des supermarchés en Belgique, en Estonie, au Luxembourg et en Suède",
+          "summary": ""
+        },
+        "de": {
+          "title": "Neuer Cyberangriff auf Supermärkte in Belgien, Estland, Luxemburg und Schweden",
+          "summary": ""
+        },
+        "en": {
+          "title": "New cyber attack on supermarkets in Belgium, Estonia, Luxembourg and Sweden",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nei Cyberattack op Supermarchéen an der Belsch, Estland, Lëtzebuerg a Schweden",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "79a2147bb5e15f5191f551fb8e171810b0766e1f",
+      "title": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+      "url": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
+      "source": "France 24 English",
+      "sourceCountry": "FR",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-02T20:30:07.000Z",
+      "summary": "Grocery stores from Sweden to Portugal were hit Monday by a suspected cyberattack on their freezer systems, in what the EU denounced as a deliberate attempt to disrupt the bloc's food chain. Supermarkets in Belgium, Estonia, Finland, Ireland, Luxembourg and the Netherlands were among at least eight…",
+      "imageUrl": "https://s.france24.com/media/display/bcd91bec-d6fb-11f1-8781-a575454bc579/w:1024/p:16x9/EN-20261102-211244-211858-CS.jpg",
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'EU seet datt de Frigo attackéiert \"bewosst Versuch d'Liewensmëttelversuergung vum Block ze stéieren\".",
+          "summary": "Epicerie vu Schweden a Portugal goufen e Méindeg vun enger verdächteger Cyberattack op hir Frigosystemer getraff, an deem wat d'EU als bewosst Versuch denoncéiert huet d'Liewensmëttelkette vum Block ze stéieren. Supermarchéen an der Belsch, Esto"
+        },
+        "de": {
+          "title": "Die EU sagt, Kühlschrankangriffe seien ein „absichtlicher Versuch, die Lebensmittelversorgung des Blocks zu stören“.",
+          "summary": "Lebensmittelgeschäfte von Schweden bis Portugal wurden am Montag von einem mutmaßlichen Cyberangriff auf ihre Gefriersysteme heimgesucht, was die EU als absichtlichen Versuch anprangerte, die Lebensmittelkette des Blocks zu stören. Supermärkte in Belgien, Esto"
+        },
+        "fr": {
+          "title": "L'UE affirme que les attaques contre un réfrigérateur sont une \"tentative délibérée de perturber\" l'approvisionnement alimentaire du bloc",
+          "summary": "Des épiceries de la Suède au Portugal ont été touchées lundi par une cyberattaque présumée contre leurs systèmes de congélation, dans ce que l'UE a dénoncé comme une tentative délibérée de perturber la chaîne alimentaire du bloc. Supermarchés en Belgique, Esto"
+        }
+      }
+    },
+    {
+      "id": "11f7c5510097c9ad802762420bfc102448d0f145",
+      "title": "벨기에·룩셈부르크·스웨덴 마트도 냉장고 온도 급상승",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnd1ZiUzlhZEdfdHpYOG85LU5HVzlNYmZJNXp6cDduNW1VSExJdnpiZHV3NHNwN0g4MGFlTHpDdS1KMGZyWmgzSV81bzRWQV9IMzdBdEc3SnE5WTktMUJsVFVtXzlsNU0?oc=5",
+      "source": "연합뉴스TV",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-11-02T20:24:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Och an de Supermarchéen an der Belsch, Lëtzebuerg a Schweden klammen d'Temperaturen am Frigo staark",
+          "summary": ""
+        },
+        "en": {
+          "title": "Refrigerator temperatures also rise sharply in supermarkets in Belgium, Luxembourg and Sweden",
+          "summary": ""
+        },
+        "de": {
+          "title": "Auch in Supermärkten in Belgien, Luxemburg und Schweden steigen die Kühlschranktemperaturen stark an",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les températures des réfrigérateurs augmentent également fortement dans les supermarchés en Belgique, au Luxembourg et en Suède",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "adc630f1b2ba55c9845cb589aee7ecfa20e87cd2",
+      "title": "Luxembourg signs the Council of Europe Convention on Access to Official Documents",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTBIUGZmR3FlZ01JanB1Q0FobTItb2sySVM1Q1ZWRnVIdTIyajFadlJnSWQwa2lUUWdidW5fYmFzb3RXQ0lYMEwtQm9RNjRIaWh6Z1FQUkdCQ2Z6OUl4QU9XYkctZzNtSzJWT3lHeWxUeWVOaEphbFpuRUNPZzZFeXZ3RUs4U0piUFBuWlF4QWpmVHpWRElhbmljUTIyUVZNZXBsYnMzOFZKU3U1Ym84eFlGWDlYVVhGSV9XMVdYWkV3bkRDZERDR1ZuMlJuNEpfZm45ZjNn?oc=5",
+      "source": "www.coe.int",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-02T20:04:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg ënnerschreift d'Konventioun vum Europarot iwwer den Zougang zu offiziellen Dokumenter",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg unterzeichnet das Übereinkommen des Europarats über den Zugang zu amtlichen Dokumenten",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg signe la Convention du Conseil de l'Europe sur l'accès aux documents publics",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c3d63b57dcdd7957d8ddb85fcaa6643058507744",
+      "title": "Λουξεμβούργο (Γ) - Sudosa-Desto (W) Live 03-11-2026 | Challenge Cup (W)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFpxdG1ReHZEVzRISVowWW4xbUZEM1R5YmlsUkwybXN3aWZDVlZ6RU5nU09BX3dmM21hcWY1RG1pSmRtZGFzTGxpaWJUbkFvLXJJMGctUXJVTXBYSGoxdjdRMHlNeDRpUUNGSGk1TDhuWnljXzAzdU9obU9qRi1HZ0JLRWl0a2dmNlZqVmpQOA?oc=5",
+      "source": "Gazzetta.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-11-02T20:03:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg (W) - Sudosa-Desto (W) Live 03-11-2026 | Challenge Cup (W)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg (F) - Sudosa-Desto (F) Live 03-11-2026 | Challenge Cup (W)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg (W) - Sudosa-Desto (W) Live 03-11-2026 | Challenge Cup (W)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg (F) - Sudosa-Desto (F) En direct 11-03-2026 | Coupe Challenge (F)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fdc33664d64bc2fce2cc31aef64053c8d52cb1f7",
+      "title": "Lüksemburg'da boş evler vergilendirilecek",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcEV6YjBtYnRpS2JmMC05bXl0Mzd2QVlYeDMxMVhwYmMyY1cyTUZCOHFvNDBYZ0RsbTVsZ04wNm9GZmRFNmFMdXJ1M1YwTVNEbU5TMXB0MXR3bThDVmsxcmJXUldtMWlnUHRjRTk3Zm5EV1N1cXlZbmxEbWRYRnpPY2lNZmZnRjVDR3pqSGRB?oc=5",
+      "source": "Ege Alternatif",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-11-02T19:57:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Les maisons vides seront taxées au Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Leerstehende Häuser werden in Luxemburg besteuert",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Eidel Haiser ginn zu Lëtzebuerg besteiert",
+          "summary": ""
+        },
+        "en": {
+          "title": "Empty houses will be taxed in Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0588434fdb04f6d5ed9a2b1dc426f60d22368cca",
+      "title": "比利时U16vs卢森堡U16数据分析【2026年11月04日】",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11dndtTGNyekhjbnpiQkVxX2R2UWZ2LWs3X2dnZEhfU1BudUtxS0NUb3JTX0hxaDNwYkpQczZtSEVqejd0V0VZWXU1R1NINUNzMC1J?oc=5",
+      "source": "球迷屋",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T19:48:51.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Datenanalyse Belgien U16 vs. Luxemburg U16 [4. November 2026]",
+          "summary": ""
+        },
+        "en": {
+          "title": "Belgium U16 vs Luxembourg U16 data analysis [November 04, 2026]",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Analyse des données Belgique U16 vs Luxembourg U16 [04 novembre 2026]",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Belsch U16 vs Lëtzebuerg U16 Datenanalyse [04. November 2026]",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4b1e29da875fc25fe84fc64388f7319ddec095bf",
+      "title": "比利时U16vs卢森堡U16新闻资讯【2026年11月04日】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJSXU1MS1Cd0FwNzVDS1F1U3dCVnc5QjY3eFRpZDFfbXFjd3hIa1dQc2JsMkdraDFUSEI3ek5IY1dJRTlCOFpteFJqT2RhZ25HMmFUcF8xcw?oc=5",
+      "source": "球迷屋",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T19:48:47.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Belsch U16 vs Lëtzebuerg U16 News [4. November 2026]",
+          "summary": ""
+        },
+        "en": {
+          "title": "Belgium U16 vs Luxembourg U16 News [November 04, 2026]",
+          "summary": ""
+        },
+        "de": {
+          "title": "Belgien U16 vs. Luxemburg U16 News [04. November 2026]",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Actualités Belgique U16 vs Luxembourg U16 [04 novembre 2026]",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "bea1c1e6663c710f889574077717ff15d8e7b967",
+      "title": "FIBA 2029 kadınlar EuroBasket adaylığına Finlandiya, Lüksemburg ve İsviçre talip",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelF5WTN4U3FVUEVhc3hGUWlrNnJDSm8zaFJodkdjSm1CVG15dXRMXzQ1TmNkelJ3S01HQ3pzX3BqOW1ZU01WZkIxeVJoR0hUMVotRU5IUjRhVnJvanlhbXhCTk9xMEkycG0wS3lsLWlZTG15MndtMkprYXFPUGFjcER6bnp5NmNxUGg4aGdxbkctRjdlN2RmeTFlX1RJeWxhbzdJbUphRXNZZy01a25TZFQwVdIBuAFBVV95cUxNLXZ0LW9yd1JuWTRLcGpBY3ZYTEFkRE9md3NJR0FQRlEwYTJYSDJKdE43cWpyajIxYlZUdUxDa3JuN0F2dXlSR0VJZ0JNVC1TYUNYRlcxMnRIRVFQV2pleVBZSVFQNzRveTFEN3JRbjM1bnJvQjc1SXRRN3JnYmh1Z0w2ZDZnTjNiTDJsb3UxWG1kdFQzbXh2WGxDMkxYWk9aaHJZLUlibzVVZ3NycWhoWTZsU3BneHN2?oc=5",
+      "source": "Aksiyon.com.TR",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-11-02T19:47:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Finnland, Luxemburg und die Schweiz bewerben sich um die Kandidatur für die Basketball-Europameisterschaft der Frauen bei der FIBA ​​2029",
+          "summary": ""
+        },
+        "en": {
+          "title": "Finland, Luxembourg and Switzerland bid for FIBA ​​2029 women's EuroBasket candidacy",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Finlande, le Luxembourg et la Suisse sont candidats à l'EuroBasket féminin FIBA ​​​​2029",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Finnland, Lëtzebuerg an d'Schwäiz bidde sech fir d'FIBA 2029 Fraen EuroBasket Kandidatur",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "348cefc0389102e326757cc5586e6421bbeaf544",
+      "title": "Frigidere atacate de hackeri în România. Același atac a lovit Belgia, Suedia și Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVS1YME5qbm9TenBkOU5sYUNPNUp4OTBaclNvaGJ0SndKc1ppR2VCZUV4T3o1UWhpbTRxSkhFbEhfNUlHbzMtWTE4OE9DaDJ2dXJlMm1zRmtpRFUzSDBWTC1oN0J0V09DNWo2OGVYMUtxdFBjd05OWWJDUHE4UHJKODJZWVh5dWNueXdrZTJQdUpuX0E2WUdFVmtPLWk0TDEyV0VaVk5HUGFERm1EcFF4Y0xoajHSAaMBQVVfeXFMT1hCS3ZfdDkwMW1LVkxMa0EwbkFudFZ5SExJZE9qVTM5X2dDdXI0VDlpaVRtTlpsZHUtMFBuNUJVMzBwamZuYU51SXVsZ0ZncnRFUi1hQm5jNXZxOHVoN1NpU05NM0h1NldpVENXXzBOTE9lOFdGNWRZUDZvX0V0R3hpa0ZTdEFESDJDNnZJQnUzcW9rdUg2QldMaUlMZFFqcHdFaw?oc=5",
+      "source": "Jurnalul",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-11-02T19:43:40.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Kühlschränke in Rumänien von Hackern angegriffen. Der gleiche Angriff traf Belgien, Schweden und Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Refrigerators attacked by hackers in Romania. The same attack hit Belgium, Sweden and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Frigoen attackéiert vun Hacker a Rumänien. Déi selwecht Attack huet d'Belsch, Schweden a Lëtzebuerg getraff",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Réfrigérateurs attaqués par des pirates informatiques en Roumanie. La même attaque a touché la Belgique, la Suède et le Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "1bcc95ebe8da6a9df1e0c25c17458b9f01856edd",
+      "title": "Finlandiya, Lüksemburg ve İsviçre 2029 Kadınlar EuroBasket ev sahipliğine aday oldu",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDJxU1V2d0Q5WG5GRjJlS1NReGlqX0hISXI4eW1oU3JLSjlIQ3dLMVExcURJdDJTOUxuX3lfU250eXNHTndKU2RELTJRWDUtZ0ZkNUJCR0MzcWRlLVlYOHo3SWprcjhyc0I4aHI1aEd0NkVfNFpMTXhVN2V6N0gtVUlFc28ycWhUc21lbXVoLWx3bEI2ZFdnMw?oc=5",
+      "source": "Haberler",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-11-02T19:41:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Finnland, Luxemburg und die Schweiz sind für die Ausrichtung der Frauen-Europameisterschaft 2029 nominiert",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Finnland, Lëtzebuerg an d'Schwäiz nominéiert fir 2029 Women's EuroBasket ze hosten",
+          "summary": ""
+        },
+        "en": {
+          "title": "Finland, Luxembourg and Switzerland nominated to host 2029 Women's EuroBasket",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La Finlande, le Luxembourg et la Suisse désignés pour accueillir l'EuroBasket féminin 2029",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "898662be299cb869ea9b1c576a0f10609c0b13c8",
+      "title": "लक्ज़मबर्ग के उप-प्रधानमंत्री ज़ेवियर बेटेल भारत पहुंचे, विदेश मंत्री डॉ. एस. जयशंकर से होगी अहम मुलाकात",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1doTlp6WU9WVmZRY2hfWkpXemJSX3lOcmZNSkZQMVRmd0c2YWVQRE9HV3hVVW9TTDVjU1BRNm05VElLV3NpMTEySllpaDFVU2NaQ0RWSVN6TEN6a19Fb1A3a3pUeXdNRDVRN1YzWl9Va0dObHhFV3FDNWFmemZYbXZQbXBIRUpacUtnRXoxRjY?oc=5",
+      "source": "DD News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "hi",
+      "publishedAt": "2026-11-02T18:44:10.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Lëtzebuerger Vizepremier Xavier Bettel ass an Indien ukomm, den Ausseminister Dr. S. Et gëtt eng wichteg Reunioun mam Jaishankar",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg's Deputy Prime Minister Xavier Bettel arrived in India, Foreign Minister Dr. S. There will be an important meeting with Jaishankar",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburgs Vizepremierminister Xavier Bettel traf in Indien ein, Außenminister Dr. S. Es wird ein wichtiges Treffen mit Jaishankar geben",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le vice-Premier ministre luxembourgeois Xavier Bettel est arrivé en Inde, le ministre des Affaires étrangères Dr. S. Il y aura une réunion importante avec Jaishankar",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b28b65690857f160b6295a8653d30d6bc4cdedf6",
+      "title": "लक्ज़मबर्ग के उप-प्रधानमंत्री ने की भारत की कार्यक्षमता की जमकर तारीफ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON3dWZjdQaXRjLUZCcXF0VUF4Z0xMREluTUZfeTRCTXJ4bHBiV0oyNGpPbkd3UXFsTUk2TE5kX2lkQ3pzZEZoOFZMU05JQXdQLTE0Wk50b0RVaXB1Y1RQMHhULUFLc0VFQnFxNmttZnZlQkZtbTNYWUVka0FtWDFRcWpxMnZ0RndHZk8tZklKeWVtRWcyLVl0ZldKcGNRbmdZaDFv?oc=5",
+      "source": "DD News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "hi",
+      "publishedAt": "2026-11-02T18:44:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Der stellvertretende Premierminister Luxemburgs lobte Indiens Effizienz",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg's Deputy Prime Minister praised India's efficiency",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le vice-Premier ministre luxembourgeois salue l'efficacité de l'Inde",
+          "summary": ""
+        },
+        "lb": {
+          "title": "De Lëtzebuerger Vizepremier huet d'Effizienz vun Indien gelueft",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "46d4b50aaa4b3dba89336321e5b2223ec183ee8c",
+      "title": "Lüksemburg, İsrail yerleşimlerinde üretilen ürünlerin ithalatına yasak getirdi",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFp4ZXMxZmgweXFLWG8zaTFRN25BUnRCU2NyZ290YWVmTTVZRWhEVm5PZVJWY2t3MHBRbjJIU0ltM3Q4YVZGZXVLM18wVmJ1Qnd5bUVhSTY2NUJpQnA0VVdILXVIN1B1MGdYc3QtRm04Wk1mU2lEemZlSzZEWTZXNkRPNEJoYUlEQ3g0TVFwdEp6dnc0cHRZYjl0eTA3QXE4VHJLdEdqLWJFRFR5QVE?oc=5",
+      "source": "خبرگزاری بین المللی قرآن",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-11-02T18:34:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg verbitt den Import vu Produkter, déi an israelesche Siedlungen produzéiert ginn",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg bans imports of products produced in Israeli settlements",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg verbietet die Einfuhr von Produkten, die in israelischen Siedlungen hergestellt werden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg interdit les importations de produits fabriqués dans les colonies israéliennes",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2a273708bd53e681cf7480173c2c1f209d787e05",
+      "title": "Atac cibernetic major în supermarketurile din Belgia, Suedia și Luxemburg! Vizate sunt frigiderele magazinelor Delhaize, Carrefour și Spar",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOFZHU2docnIySjNuNlV2ZjZmQzhGdk5tbzBBR3J2QktKQmpQXzFkeFl5M3FHaERuV29yTmtHbjRuRHl3N1NzYmQ3UGJCTjdib0dyN2dPWHRwcE12UkhFbk5oem5ucVp0SjBFbzd6ZTNQVWthUmIzMkdYZTNQVS1IMUNualVFMThGWU9wQ2pLd3c1cXFMNVZkckRZYVFCdTNBTkJ2d1B4LVdWdnJTOW1zOHNPRmVkMnBoMk9rRUphazFNUlIyT2REcEFyaUJ1bkdESnUwOTRqV2VMejRGcjZFOFZRV3N5ZHh6bjAxRlV3?oc=5",
+      "source": "MediaFLUX.ro",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-11-02T18:03:35.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Grouss Cyberattack an Supermarchéen an der Belsch, Schweden a Lëtzebuerg! Geziilt sinn d'Frigoen vun Delhaize, Carrefour a Spar Geschäfter",
+          "summary": ""
+        },
+        "en": {
+          "title": "Major cyber attack in supermarkets in Belgium, Sweden and Luxembourg! Targeted are the refrigerators of Delhaize, Carrefour and Spar stores",
+          "summary": ""
+        },
+        "de": {
+          "title": "Großer Cyberangriff auf Supermärkte in Belgien, Schweden und Luxemburg! Im Visier stehen die Kühlschränke der Geschäfte Delhaize, Carrefour und Spar",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Cyberattaque majeure dans des supermarchés en Belgique, en Suède et au Luxembourg ! Les réfrigérateurs des magasins Delhaize, Carrefour et Spar sont visés.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4f26d2fe053676897cfa4d8afa6fc657b3814b06",
+      "title": "Suspected Cyberattacks Trigger Fridge Temperature Spikes Across Belgium, Estonia, Ireland, Luxembourg, Sweden",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb2RWbkFUWklpT3cyM1kwcmpsV1IyaE1SYkZMQmlibXRCY092aFJMbDNMa3ptYWhaZXIxMUVyNUhlODE4cW5PXy1ud3ZqdER1Ty0zRVY3WWtZQ1pnRjR1aTBmTE16ZGdSYmphUFpQcXlnLUZYNm1uaXA1MWRaZFNzOERHcWZzNzk4Y3dPejdlR01FTllDTGFFaUVhOWIxY29JS2VPNDgzTUZfNmxGWURmZ2NsU1ZPMzdhMnhoMHNaR09HVzlDdG03c212NzZyV08tVVhxYUI4dDdfSkFOR1FrNTZsLXhVa3Y3?oc=5",
+      "source": "NewsCord",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-02T17:32:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Verdächteg Cyberattacken ausléisen Frigo Temperatur Spikes a ganz Belsch, Estland, Irland, Lëtzebuerg, Schweden",
+          "summary": ""
+        },
+        "de": {
+          "title": "Mutmaßliche Cyberangriffe lösen Temperaturspitzen in Kühlschränken in Belgien, Estland, Irland, Luxemburg und Schweden aus",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Des cyberattaques présumées déclenchent des pics de température dans les réfrigérateurs en Belgique, en Estonie, en Irlande, au Luxembourg et en Suède",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b10bbe17a30173421c7cc134aa6c541d95da4d6c",
+      "title": "La Rubrique Transfrontaliers : l’arrêt maladie au Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWtIV09UU2FSc2dEN3R6MldHeFVJS2tkNnJVVXhkd1oxZUNHNGpvNW5naVgtaHBWMXhsSUNQT2Fsa1ZZLUlnMkw3VGNhM3JmLW5Bbk9NYnN4a005czFTM2hvckdSZnRqZEpORk9vZm9JZXNNaUdvaU5xZVJET1pKcTVLWQ?oc=5",
+      "source": "Moselle TV",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-11-02T17:30:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Grenzgrenzsektioun: Krankecongé zu Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Cross-border section: sick leave in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Abschnitt „Grenzüberschreitend“: Krankheitsurlaub in Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f0a46aedd0084deaa957aac1b0928273cd034537",
+      "title": "Refrigeration cyberattacks highlight risks of connecting industry to the internet",
+      "url": "https://www.france24.com/en/europe/20261102-caught-cold-fridge-cyberattack-highlights-internet-gadget-weaknesses",
+      "source": "France 24 English",
+      "sourceCountry": "FR",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-02T17:29:48.000Z",
+      "summary": "Cyberattacks affecting supermarket refrigeration systems on Monday in several European countries – including Belgium, Estonia, Finland, Ireland, Luxembourg, the Netherlands and Sweden – have highlighted the risks of connecting industrial infrastructure to the internet.",
+      "imageUrl": "https://s.france24.com/media/display/48dab10e-d6d0-11f1-b62d-bf1914cabd52/w:1024/p:16x9/9d184e67dc748e00594d4b7526509569de9d828e.jpg",
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "de": {
+          "title": "Cyberangriffe auf die Kältetechnik verdeutlichen die Risiken einer Anbindung der Industrie an das Internet",
+          "summary": "Cyberangriffe auf Kühlsysteme von Supermärkten am Montag in mehreren europäischen Ländern – darunter Belgien, Estland, Finnland, Irland, Luxemburg, den Niederlanden und Schweden – haben die Risiken von Cyberangriffen deutlich gemacht"
+        },
+        "lb": {
+          "title": "Kälte-Cyberattacken markéieren d'Risiken fir d'Industrie mam Internet ze verbannen",
+          "summary": "Cyberattacken, déi Supermarché-Kältesystemer e Méindeg a verschiddenen europäesche Länner betreffen - dorënner d'Belsch, Estland, Finnland, Irland, Lëtzebuerg, Holland a Schweden - hunn d'Risike vu Conn beliicht"
+        },
+        "fr": {
+          "title": "Les cyberattaques dans le domaine de la réfrigération mettent en évidence les risques liés à la connexion de l'industrie à Internet",
+          "summary": "Les cyberattaques affectant les systèmes de réfrigération des supermarchés lundi dans plusieurs pays européens – dont la Belgique, l'Estonie, la Finlande, l'Irlande, le Luxembourg, les Pays-Bas et la Suède – ont mis en évidence les risques de conn"
+        }
+      }
+    },
+    {
+      "id": "88b890794061bfd7b811d28c7fea526057724999",
+      "title": "Suspiciuni de atac cibernetic în supermarketuri din Suedia, Belgia și Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaEthU2s4T3E4dWlLd0xpOFFPdm0xbjNnbm1hS09YRHNySHNLeXRVUnFVS0JsVW1zRWhhSy1wYU1xamp1LW91cVA1N0QzWXdHWjFsTnhtX0RHZk82RFdlX2dPbk1NSVg1SmFOMXJfODlwLTkxWHFRWGVNSEpCVFNDY3ZFN1RDMExjRE4tZlZrd2JuRlI3eXhxYzJXc0poSWZOUUYyVnhFM3RqM3FreGo1bkVLcUhXWXd1dGZPTDNn?oc=5",
+      "source": "Radio România Reșița",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-11-02T17:14:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Verdächtegt Cyberattack a Supermarchéen a Schweden, der Belsch a Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Mutmaßlicher Cyberangriff in Supermärkten in Schweden, Belgien und Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Cyberattaque présumée dans des supermarchés en Suède, en Belgique et au Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Suspected cyber attack in supermarkets in Sweden, Belgium and Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "84c39371f2b09517180fb4a4a7c83043bb9cdf81",
+      "title": "ضريبة تصل إلى 10 آلاف يورو على المنازل الخالية في لوكسمبورغ بانتظار موافقة الداخلية",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQdEtoM3NGRmhTdlpNdmp5aEZoMFZZcWg2SFZfdTdRVjM4alk0UVRmZEtBT3FVNjYycksyUjhScTBFUkd5VTgyOXRzblQ5MTA5VVJXZFBpeHl0SGMyTmZRWEExLTV1Vm1qRkFjOXhtRjlldWFoZERuUnExR05hTU94RUZ2LXplUzZaWTdZMm1aOGk3MEs2d3M3dEwxbEJFT01hemdpRmtlN3UxSWZvdE50cEFOUTBkVmIya3VtM0RLQkhuanlwMk16TFRXM3NocmpsMjVjbXRfM2RJdHIzQ3dTVk8zUmltczhCcVRiYk4wX1ltMUE2RzZNUnRqWVJJN3FreklDTkJ2RlRjV2pkcENDQXVwQXhpbWhaQk91TU1ObVcyMDR6MWwwaElaMjJ1cnpHNkFxLUJhOEwyNUxuRFBLTl9WaTc3NGdrWEY4MXNGSWpYbGRGMnlFT3hQOXRxQQ?oc=5",
+      "source": "تركيا عاجل",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-11-02T17:08:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Eine Steuer von bis zu 10.000 Euro auf leer stehende Wohnungen in Luxemburg wartet auf die Genehmigung des Innenministeriums",
+          "summary": ""
+        },
+        "en": {
+          "title": "A tax of up to 10 thousand euros on vacant homes in Luxembourg is awaiting Interior Ministry approval",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Eng Steier vu bis zu 10.000 Euro op eidel Wunnengen zu Lëtzebuerg waart op Accord vum Inneministère",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Une taxe pouvant aller jusqu'à 10 mille euros sur les logements vacants au Luxembourg est en attente d'approbation par le ministère de l'Intérieur",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "adff90f38880d0f6ed3f0bbddbae56b94a6e0514",
+      "title": "Des cyberattaques contre des réfrigérateurs et des congélateurs visent plusieurs supermarchés en Europe",
+      "url": "https://www.lemonde.fr/international/article/2026/11/02/des-cyberattaques-contre-des-refrigerateurs-et-des-congelateurs-visent-plusieurs-supermarches-en-europe_6805296_3210.html",
+      "source": "Le Monde International",
+      "sourceCountry": "FR",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-11-02T17:02:40.000Z",
+      "summary": "En Belgique, en Suède, en Finlande, en Estonie, au Luxembourg et en Irlande, des pirates ont pris, dans la nuit du 1ᵉʳ au 2 novembre, le contrôle de systèmes de régulation frigorifiques connectés à Internet. Comme lors de la cyberattaque visant des magasins d’alimentation en France, en octobre, un…",
+      "imageUrl": "https://img.lemde.fr/2026/11/02/1136/0/6000/3000/644/322/60/0/4a61c7c_ftp-1-6omov40kw5r1-afp-d66n24h.jpg",
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "en": {
+          "title": "Cyberattacks on refrigerators and freezers target several supermarkets in Europe",
+          "summary": "In Belgium, Sweden, Finland, Estonia, Luxembourg and Ireland, hackers took control of refrigeration control systems connected to the Internet on the night of November 1 to 2. As during"
+        },
+        "de": {
+          "title": "Cyberangriffe auf Kühl- und Gefrierschränke zielen auf mehrere Supermärkte in Europa ab",
+          "summary": "In Belgien, Schweden, Finnland, Estland, Luxemburg und Irland übernahmen Hacker in der Nacht vom 1. auf den 2. November die Kontrolle über Kühlkontrollsysteme, die mit dem Internet verbunden waren"
+        },
+        "lb": {
+          "title": "Cyberattacken op Frigoen a Frigoen zielen op verschidde Supermarchéen an Europa",
+          "summary": "An der Belsch, Schweden, Finnland, Estland, Lëtzebuerg an Irland hunn Hacker an der Nuecht vum 1. op 2. November d'Kontroll iwwer d'Kältekontrollsystemer, déi mam Internet verbonne sinn."
+        }
+      }
+    },
+    {
+      "id": "d6772720ec611352754c1042ee18c1cbfb34c608",
+      "title": "اضطراب في أنظمة التبريد بمتاجر في بلجيكا ولوكسمبورغ والسويد",
+      "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOMy02QXRRWmFmOWkyQXhUTXpDdjBBeHJJS1Y1VVhKbVhqaEUzSjI3QVYxLXVpUjN4aGdtTDd5emV2VmRzZHM0dkNqUkh5WTUyLXpfaTl6Yi1pNVVsa25McnRNMzFCWm5wYXFKMWhsblVrUExmRFQ4eC1mT00xem5xX3laMjJCcF9tZGdJaG5tMUxXM2V2U3hOZ2h3cVVqdjNpa0ZlOGpjbWFQWURENFVqdkVGd09ZejItLWdmWE9oTlkzVnJSRUJGOXZCbDFpZFB2RWRBSDVFYWxkRC1XNUdzTU9nUjlOamhySHV0aXhNUk9qWVNicUMxMThpWFFzYnlKckhpc2ZLUWxSS0ZmRmhKaVpCaVprX1lkWHBJVkp3SllvU3MzTXBoZTZWRHl4c3ZfdTU2VGJjbXljRl9iU0NLY2xxa092YXR2NWZEOC1uSHlZbVBEYjJOdm1kV0U3OHlHUDRfaV8yZzBCRWtZRDZONHc3Qk5jSnVwZl9sSDFjdE4yaVgxbEZSUTFHcGpubWlJNklHOGdKdFdiSHY3bXUyazVJOGh2V2FWS056NEpWeWJ2aVpaam5iZnZXNlZNQmhLbVJ0akE5T2ZZQkNSTGpSRTZqVnVTVmVLYnBGQ0Y4WG1qcmFPOXVTUkJn?oc=5",
+      "source": "Africa For Press",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ar",
+      "publishedAt": "2026-11-02T16:57:37.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Eng Stéierung an de Killsystemer an de Geschäfter an der Belsch, Lëtzebuerg a Schweden",
+          "summary": ""
+        },
+        "en": {
+          "title": "A disturbance in the cooling systems in stores in Belgium, Luxembourg and Sweden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Une perturbation dans les systèmes de refroidissement des magasins en Belgique, au Luxembourg et en Suède",
+          "summary": ""
+        },
+        "de": {
+          "title": "Eine Störung in den Kühlsystemen in Geschäften in Belgien, Luxemburg und Schweden",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "643ca32dc08ce0f0c910a625840486144e1bb223",
+      "title": "APRILIA: Discarica a cielo aperto e auto abbandonate in via Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHNyRWI1OURQM09Sd1QyVklzR2djeWpKYktudnkwbG9Pa3FZakY2bHpXbHhNd183TkVUUVFJUHVjV211aE5jUll3amg3UlVNb0ppZ3RjU0cxSHZLR1ZfX05QVjE2YjZQdkkwVFlUVjI0ZTkwSi13QnhTTHF2dmdFMEpOUm1lM0ZTanlJZ1NGUjM2R3kxT3dVbGE0S0tGODN4ajRhTDJCOFBMaDFq?oc=5",
+      "source": "Aprilianews.it",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-02T16:57:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "APRIL: Open Air Deponie a verloossen Autoen iwwer Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "APRILIA: Open-air landfill and abandoned cars in via Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "APRILIA: Deponie unter freiem Himmel und verlassene Autos in der Via Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "APRILIA : Décharge à ciel ouvert et voitures abandonnées via Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "79510cda6dbf3d19bf56018579fb4f9c35010ca6",
+      "title": "L'inquiétude grandit en Europe face aux cyberattaques contre des supermarchés",
+      "url": "https://www.rfi.fr/fr/europe/20261102-l-inqui%C3%A9tude-grandit-en-europe-face-aux-cyberattaques-contre-des-supermarch%C3%A9s",
+      "source": "RFI (French)",
+      "sourceCountry": "FR",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-11-02T16:52:37.000Z",
+      "summary": "Plusieurs pays européens sont touchés par des cyberattaques visant des supermarchés : la Belgique, le Luxembourg, l’Estonie, l’Irlande et la Suède. Des congélateurs auraient été piratés à distance, entraînant la perte de tonnes de marchandises. Des attaques similaires avaient déjà frappé plusieurs…",
+      "imageUrl": "https://s.rfi.fr/media/display/968dd8fc-d6dc-11f1-98c6-d18c5759e759/w:1024/p:16x9/2026-11-02T111021Z-1332995522-RC2MFOA91081-RTRMADP-3-EUROPE-CYBERATTACK-SWEDEN.jpg",
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Suerge wiisst an Europa iwwer Cyberattacken op Supermarchéen",
+          "summary": "Verschidden europäesch Länner si vu Cyberattacken betraff, déi Supermarchéen zielen: Belsch, Lëtzebuerg, Estland, Irland a Schweden. Tiefkühler gemellt op afstand gehackt, wat zu Verloscht vun"
+        },
+        "en": {
+          "title": "Concern grows in Europe over cyberattacks on supermarkets",
+          "summary": "Several European countries are affected by cyberattacks targeting supermarkets: Belgium, Luxembourg, Estonia, Ireland and Sweden. Freezers reportedly hacked remotely, resulting in loss of"
+        },
+        "de": {
+          "title": "In Europa wächst die Besorgnis über Cyberangriffe auf Supermärkte",
+          "summary": "Mehrere europäische Länder sind von Cyberangriffen auf Supermärkte betroffen: Belgien, Luxemburg, Estland, Irland und Schweden. Berichten zufolge wurden Gefriergeräte aus der Ferne gehackt, was zu einem Verlust führte"
+        }
+      }
+    },
+    {
+      "id": "14b156a0d0ce4ffae48e8cfa609203033d15b389",
+      "title": "Lidl-Trek beloont Duitser die Mathieu van der Poel kon volgen in Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjZoQ21YN29rQk1EekdmbF9SYUZyUmJ5bUN6bC1iamdqOFhBX2NlNl9hR3huWEVsSWhtRngyc0U5bnJHVFVaXzIwQjZKTzRrcHpuSFZtX2loMC1MYjBBbmVGOEZUU1dyWThpYkdDTGR6VWgzT2Jid0RoMVkyR3Y0X2EyckhKVDB6dzJPYVFtWmRjZ0dyOVRtMFBQOG9MMzdSNkNXRGlNM3JBa2pGM1E?oc=5",
+      "source": "Wielerflits",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-11-02T16:10:04.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "De Lidl-Trek belount den Däitschen, deen de Mathieu van der Poel zu Lëtzebuerg suivéiere konnt",
+          "summary": ""
+        },
+        "de": {
+          "title": "Lidl-Trek belohnt Deutsche, die Mathieu van der Poel in Luxemburg folgen könnten",
+          "summary": ""
+        },
+        "en": {
+          "title": "Lidl-Trek rewards German who could follow Mathieu van der Poel in Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Lidl-Trek récompense l'Allemand qui pourrait suivre Mathieu van der Poel au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "0088472dce6ab2a50d53d866312896d69b2a4d19",
+      "title": "Europe under cyberattack: Who is behind the supermarket fridge hacks? Sweden, Belgium, Luxembourg and Esto",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPbnVUR3QtSEt0WWdJekVNOTRwTnRKUi01XzQtNUZ6OHlMcm1reG56UkVIMlo4TzhYRl9BT3RMQy0xZUpPRE9kYWZUdUN0c05HSGZlbE9tVmcyWkZuTlM1blNKTEk2WnZXa24ySlFZWjJ5c3A0QzlidjVwRHdSYTBOd2NJYldjOU5uUm1WbEUyVW1uYmR0eVotWmJuenBRZ2lUNGh5ZzhuckczRkwwUS1DZVo0QU54dXRPYnFkSmZuYjJBWF9OdHBBNU5CV2pwcDVxTFpDMzZPMzRUMUhOaGVnX3B6dnRnak1pZlhoTEJaeUhhSVl6bEdVQTIwVWhIeXNwcU9Tbkctb1o0OGRjeWtuMlRJQXVZVXZBYTEtcGlfanVzRHIyalJiRzBVV2hya21XVS1Mc0U4SEJUWWNHOWhDWWVEUWrSAcoCQVVfeXFMTjduQzJGNHJTeDdHVzZNaG5sU3dmb2tjWXZxeWRsdEZiQnQ5a2xnbnRZT2F6Um1IVkQtWFlrRC1sU2Y4UG5QcFROTDdMYUZjV24tVlZvMDVSNjVvLUt2WnMteDNaQmd6bF9kVkdOR1cyVFdrc09pVzRrNzU1aUptUkFzOVBOYXpoNDdVSkhkNkFrSENKTWRYMEpTSFNTbGg2NXVyYTRYQlNIenJ3akllOTBjc0trWkVEQ0VzUGZEc3ZVTDY3Q2F2eDRvcE1Kc0hKdTk4cV81Y1MtWHppd3NEeDNPb0dlWXVDdklIRnJqNEdmaFVJZ0VHcDlIQV9sWDY3VVVVSDlwTDFwRGRER3h1YWFKN0x4VkxwWjdmdTJkRENCaUp5NG9OZGVpVG5NR0xlclZGeE9pa1Bnand2NHBMQTYyU1dFYkxUNTVB?oc=5",
+      "source": "The Economic Times",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-02T15:53:15.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "de": {
+          "title": "Europa unter Cyberangriff: Wer steckt hinter den Supermarkt-Kühlschrank-Hacks? Schweden, Belgien, Luxemburg und Esto",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Europa ënner Cyberattack: Wien ass hannert dem Supermarché Frigo Hacks? Schweden, Belsch, Lëtzebuerg an Esto",
+          "summary": ""
+        },
+        "fr": {
+          "title": "L’Europe sous cyberattaque : qui se cache derrière les piratages des réfrigérateurs des supermarchés ? Suède, Belgique, Luxembourg et Estonie",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "eaec07ec2ba397c3f2c463cdf1174d82cfde429b",
+      "title": "Luxemburg betroffen: 50 Grad im Kühlschrank? Erneut Cyberangriffe auf Supermärkte",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVUZUdXBUZmRZR21iOG1NTGNhbk01bFREaFhtZ3JSRzgtTDEzX0ZyQWNoUkd6VE1xd0xNeGxIcWtIZ0pwbGNKRTRNUW9lZG9HcDRhQkhGRlc2aFNaNXdWT3JjV2tRZmNxM09oS2c0UDNISzVrWUpjdFg3b0tQY1MtNWNvSVVTN3NNSjVNVDJXNVVwaWxKYzZjVmJNZTBua0RianhkY3VXbm9KUWRyRngwUHBFRmFyUUJRWGdJX2V3NA?oc=5",
+      "source": "Volksfreund",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-11-02T15:53:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg affected: 50 degrees in the fridge? Cyber ​​attacks on supermarkets again",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg betraff: 50 Grad am Frigo? Cyberattacken op Supermarchéen erëm",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg concerné : 50 degrés au frigo ? Encore des cyberattaques contre les supermarchés",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "31ae3e3f905d6a45783239543b7a5d8c7eed78a1",
       "title": "Ciberataque a heladeras provoca pérdidas millonarias de comida en Bélgica, Luxemburgo y Suecia",
@@ -35,6 +890,39 @@
       }
     },
     {
+      "id": "30015fea59baeaa03774addf9184a89f3dba8f8b",
+      "title": "Atacuri cibernetice la frigiderele și congelatoarele unor supermarketuri din Belgia, Suedia, Olanda, Estonia, Irlanda și Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPd1Z4dG4yOFNPdHU2RjFJNWNiTXNHZFlQVFdBdWdKZGs0NjFZMGEyaVA0cWFTNnFxcngwc0dScEZlbEk0XzZ6RHJ0ZllSNTdNbVNidjEwdnRQTVN1cWQ4dUd3amRPcFJ4bGpaaGFjeTVSbmFRTjkxc0FMdkd6LUdxNGR2Y2JkWjZuZGZlcFVuY052blgtLWJ3U3RMTzBUUG1DVlZXMU5xa0NGTWh6XzFCdmN4MklHNjRkRW52dEd6YlFSb0tfVlRUUzY2VTNDVFdISUlJLTNZYXNKMnBkdFZfVTN4T2kyOEhWemZNcU1sdnk5Z2xCUks3VENaWEgzYXdXQk0tdg?oc=5",
+      "source": "- Obiectiv de Suceava",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-11-02T15:35:16.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Cyberattacken op Frigoen a Frigoen a Supermarchéen an der Belsch, Schweden, Holland, Estland, Irland a Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Cyber ​​attacks on fridges and freezers in supermarkets in Belgium, Sweden, Holland, Estonia, Ireland and Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Cyberangriffe auf Kühl- und Gefrierschränke in Supermärkten in Belgien, Schweden, Holland, Estland, Irland und Luxemburg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Cyberattaques contre des réfrigérateurs et congélateurs de supermarchés en Belgique, en Suède, aux Pays-Bas, en Estonie, en Irlande et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "20213f25ad260dab12c95033c4466a03c1616854",
       "title": "Feuerbakterium in Luxemburg: ADD richtet Schutzzone bei Trier ein",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDM2azJxREdxVXBUN1RnLThlbjRiSEU4WmVESjBxc3FFQzFBdFUyR1F2bUFpVzJRNDlkOV9fMWY4bzJQS09WcWpqTFJGUmRzVHFhVThBcGVQejZMNUFuRnFCcW5tdkItTlItR21BZXBIenEySllRMVJSeDc0a1BhRURmOUlkSWEtamdJT0JCYmUxRkUya0I1blFNUHdWWHdpQ053Z0FCYjd2LWx3S19mVTBVejUyMDR4eFkwZXUwM0ZvQ240?oc=5",
@@ -59,6 +947,39 @@
         },
         "lb": {
           "title": "Brandbakterien zu Lëtzebuerg: ADD stellt eng Schutzzone bei Tréier ageriicht",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "11468df2f79027342b646a69aa2949490096dd5d",
+      "title": "Τσουνάμι κυβερνοεπιθέσεων σε μεγάλες αλυσίδες σούπερ μάρκετ σε Βέλγιο, Λουξεμβούργο, Σουηδία και Εσθονία – «Έλιωσαν» τα προϊόντα στους 70 βαθμούς Κελσίου",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbjNDM2RYd0dRazJxQ0xRZjNpZE4yU1FVV0duV1FZZWtfNUV2d0VtbEFBM01OMEdNc3JyNHVKRkkxeVNJTVpIRlQ5VkpaX2hNQl9XOU81M1I2ekt5QXZ6MTAwWG42WWEtdmNZQUxXLWFIcGc2STV6QTNweEt2MFR6RkRkOHZkb2RJS3d5dzJTeS0xaDFOZ0FZYnc3X3RXS1o5a3lydTlXZWVrcmpYekx3UER6aWZaQlMxOWdHaXVzYXhRa3hzOHhvZHcyRUxUY29PNFZOc1FuOC1LSWpNVVhPMUxlZ0pQU01CQVhDTTRSejFMOHV2OUxqZDFaOFlLWG1jMWRKdHBiZzBBY3hsZTIwZVlMaTNMOVJm0gGeAkFVX3lxTE0wY0RDb3dVRlFuaEZqZWt3RzUzWkE3OVFLUnh6NmpocHFCakY0Y3NNcV9tMF9fbzREZHFldEdGaUk0NFVRVVdzUzU1YVlXM29GNVF2THZlaTJMV3hWUGVUYWgxUndKOGVYa3k5dUFPdWM1NkhYNkhXSVBNMGhST19MSm1mVmhiZjc3TnA0Tm5XX0JRUEc5OVZ0cGFDZi1HOWhUbHZuS2MxZ1phRXhNZFBzYlhfZ2g1ajY4bXZHZlZOMTVqM205SGp3TWFOT3BOTXNGRl9NVnRNN1JjRUVZanBUZWlMSXRobHNYbEVzNzVWbjd2Ty1rYktTU3RHZWllNWpSY2VzU056MUJJbE9WLU4tZXlFX3dreTFhME5jOUE?oc=5",
+      "source": "NewsIT",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-11-02T15:24:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Tsunami vu Cyberattacken op grouss Supermarchéketten an der Belsch, Lëtzebuerg, Schweden an Estland - Si hunn Produkter bei 70 Grad Celsius \"geschmollt\"",
+          "summary": ""
+        },
+        "en": {
+          "title": "Tsunami of cyberattacks on large supermarket chains in Belgium, Luxembourg, Sweden and Estonia - They \"melted\" products at 70 degrees Celsius",
+          "summary": ""
+        },
+        "de": {
+          "title": "Tsunami von Cyberangriffen auf große Supermarktketten in Belgien, Luxemburg, Schweden und Estland – Sie „schmolzen“ Produkte bei 70 Grad Celsius",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tsunami de cyberattaques contre de grandes chaînes de supermarchés en Belgique, au Luxembourg, en Suède et en Estonie - Elles ont \"fondu\" des produits à 70 degrés Celsius",
           "summary": ""
         }
       }
@@ -374,6 +1295,39 @@
       }
     },
     {
+      "id": "295b40bc189579f4dbbfcaa0861dd16b3a884a51",
+      "title": "Diogo Gomes Pereira — статистика у Люксембург: Національний дивізіон 2026/2027: скільки голів та передач",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObl9nRHpObzJYRVIzSjMwNlJ3eS1SR1ZvZ3l2bmRJZEJvWjdDdnc4YWxDMlJDcjhHT2pSVTJOU2RSLU5QaEx1alZERGpFeDVaSW9rR1c4dFhucWpoTE8xLUkzQjUwTVE0UWN1U1RxaHVib3hMMmVXdVBuQ2pCNm5MX1ZsdnhKSWNEUXduMTNqZkF3cjRXTVNWd2NtWWVkLTdTdFItNHRKdDBLZw?oc=5",
+      "source": "Tribuna.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "uk",
+      "publishedAt": "2026-11-02T14:35:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Diogo Gomes Pereira - statistiques au Luxembourg: Division Nationale 2026/2027 : combien de buts et de passes décisives",
+          "summary": ""
+        },
+        "en": {
+          "title": "Diogo Gomes Pereira - statistics in Luxembourg: National Division 2026/2027: how many goals and assists",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Diogo Gomes Pereira - Statistiken zu Lëtzebuerg: Nationaldivisioun 2026/2027: wéivill Goler an Assists",
+          "summary": ""
+        },
+        "de": {
+          "title": "Diogo Gomes Pereira - Statistik in Luxemburg: Nationale Division 2026/2027: wie viele Tore und Assists",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "fad7dc839a7476e3abd47a443a7f8f44ae6257aa",
       "title": "Handball: Didier Dinart looks ahead to Luxembourg's qualifiers",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVNUUF9SNWxqV3VEUTFnMzA1a1RkMVVrcllvZERnOFFUVUhxV1QwREU2U2tnemRxUXhaRnBTWFdMVjZ4dnJWVE5nRnFkUDBxVC1wVnZYYU0xMEVrYms3anJUQnUwQ1hDQ2F4RW5DYmlOM3JCSUJIRjBLMnR4cExSRENwZUVNZ2NWZW03SkVBZ3N1a0FvU0JONHNOdjhMTTRNdy1UaW92aWVVUQ?oc=5",
@@ -464,6 +1418,72 @@
         },
         "fr": {
           "title": "Des hackers attaquent à nouveau les réfrigérateurs et congélateurs des supermarchés en Belgique, au Luxembourg, en Suède, en Irlande et aux Pays-Bas",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "fa25fcf72ddc879cc1407cfddadf3bb7ccaa7596",
+      "title": "Un nuevo ataque informático altera los congeladores en decenas de supermercados de Bélgica y Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaUhScF9ONzBlRERBMGRQRW9aMzE0aklDcExHTjU0S1NOSHJfU3NZcW5vN0tKU1FOS21fLXEycy1xY2R0U2xwNEZyU0RoYV9tSHhxb1hPRjV2NFpjZzBzLVJwYjNJS0ViLUxMRGhRODN6dVU4TmMxTFlXQ1piZUVvQ2VKWnRTR3B2dWlWSmszeHdTWEJJZFVuQkxvZmluaHFDUktmTEdIS2RxMVFqcU54ZnduZ05YM2loMVpvMVRTa054cWxjNVQ3Ym9CcUh5a3RwNEtZQ0piR0d0cXE2NmNJ?oc=5",
+      "source": "Diario Estrategia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-11-02T14:27:35.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Ein neuer Computerangriff verändert die Kühlschränke in Dutzenden Supermärkten in Belgien und Luxemburg",
+          "summary": ""
+        },
+        "en": {
+          "title": "A new computer attack alters the freezers in dozens of supermarkets in Belgium and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Eng nei Computerattack ännert d'Gefrierzer an Dosende vu Supermarchéen an der Belsch a Lëtzebuerg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Une nouvelle attaque informatique altère les congélateurs de dizaines de supermarchés en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "c2201761ab911874f9e48db54a35ebfa01975c9a",
+      "title": "Τσουνάμι κυβερνοεπιθέσεων σε μεγάλες αλυσίδες σούπερ μάρκετ σε Βέλγιο, Λουξεμβούργο, Σουηδία και Εσθονία",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOEdFOFltSGhkZmRLTDhiSnBILTNZVWUxcXJRWmNTd0RodWFyQVZUMXB4WG5ubHEyc3p5NGVlMi1rOFFJWlR2NU9yR29CRTNwbEl1bUVsWk45Zkl4UWxfaUlONl9jSDlCR0pwLWR4dTUwSVJwUHo1cmtwSVRGUE1ELURqNTA2QWFhaUE3WXQzZk0zQWk4QktQcVdoUWdDbld3b0l2MXBnYmRXbHJDNVdnMm1CMjlnRjltTTRRYmF5aXMzU1hlck1yNVpoVXF2ZjREN0c0VGFJZ3M0Wm9MYUh6TQ?oc=5",
+      "source": "Taxydromos",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-11-02T14:24:11.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Tsunami an Cyberangriffen auf große Supermarktketten in Belgien, Luxemburg, Schweden und Estland",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Tsunami vu Cyberattacken op grouss Supermarchéketten an der Belsch, Lëtzebuerg, Schweden an Estland",
+          "summary": ""
+        },
+        "en": {
+          "title": "Tsunami of cyberattacks on major supermarket chains in Belgium, Luxembourg, Sweden and Estonia",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Tsunami de cyberattaques contre de grandes chaînes de supermarchés en Belgique, au Luxembourg, en Suède et en Estonie",
           "summary": ""
         }
       }
@@ -940,6 +1960,72 @@
       }
     },
     {
+      "id": "9b8656a94e794f89e6900f4711badb436cab08b2",
+      "title": "Απίστευτο: Χάκαραν ψυγεία σούπερ μάρκετ σε Σουηδία, Βέλγιο, Λουξεμβούργο, Ιρλανδία και άλλαξαν θερμοκρασίες ως 50 βαθμούς επάνω!",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUkVkSTVWZUlTRnZiTDcyNER1c253aUZCUFFkdlVUQlA2VlFrTVVGRW0xQ09TTkdqUmFwMmpOWGt2UjJKYXlCM1NHVEQ4dE5aTE5sdkk0amRvUHc3U2E1dkFhUnB4T182NTZfSHRycnhoX2s3VU43T3NrNENIT0JtT0Q1NTcyeVdfcDU2MjI1YUx1UDBMNkd5RmVGNTVBUEFuNk1oYmR0WFBMQUhFTXltSlNxTmxPV0NRSWpaUm5kU2UycHBhUl9uQUttclhpU2ltb0lhQW1pZnVvWUgtQkFxZ183d3dCT1lSNXlVQ0dkY3VnWWxrRW5oZDNpRnhiT2pkNld3TVRTVW1IYTVZQzlqY281UQ?oc=5",
+      "source": "ΠΟΛΙΤΗΣ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-11-02T13:33:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Unglaublich: Sie haben Supermarktkühlschränke in Schweden, Belgien, Luxemburg und Irland gehackt und die Temperaturen auf bis zu 50 Grad erhöht!",
+          "summary": ""
+        },
+        "en": {
+          "title": "Unbelievable: They hacked supermarket fridges in Sweden, Belgium, Luxembourg, Ireland and changed temperatures up to 50 degrees up!",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Incroyable : ils ont piraté les réfrigérateurs des supermarchés en Suède, en Belgique, au Luxembourg et en Irlande et ont augmenté la température jusqu'à 50 degrés !",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Onglécklech: Si hunn Supermarchéfrigoen a Schweden, der Belsch, Lëtzebuerg, Irland gehackt an d'Temperature bis 50 Grad eropgeännert!",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b17d5e9db93f039647efd1c19a95424f2939d464",
+      "title": "Frigiderele unor lanțuri de magazine din Suedia, Belgia şi Luxemburg au fost atacate de hackeri. Ar fi al doilea atac cibernetic de acest gen",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOanFwMDdaNjJTaFlDQjdLSFdkWDB0MkdMU2RybmhWN0NTNG96d2lNb1VoTm9HUHN3LUg3bGxTbzRtTzBhbFViVERCS05qRDE0LVg5ZjJ1aHNMc2t1VVNZSjZUSkp6R3FPYkdvRHVaUGlGWnNocExoa3k3UFU3R3pHQmpsd3ltXy1uYVZTeUtlYmFUSHVNRjVkRUVjb2c0NUdlc25kZDhKdjF6WTd0ME13T2JOMTdpT2FZTVdRV2VTWC1OSVJXemxsdmgxY1RTN0p4dWJpbkw1cmR3SVRrU2FjenprUTBfR1VvVWZsU2JYbVpMV1FrejZ3M3ZLYUd0eXFncmpGSzdsQ0tNSEE3bDZ0WXVRYS1xZw?oc=5",
+      "source": "Ziarul de Iaşi",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-11-02T13:33:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Die Kühlschränke einiger Filialisten in Schweden, Belgien und Luxemburg wurden von Hackern angegriffen. Es wäre der zweite Cyberangriff dieser Art",
+          "summary": ""
+        },
+        "en": {
+          "title": "The refrigerators of some chain stores in Sweden, Belgium and Luxembourg were attacked by hackers. It would be the second cyber attack of this kind",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les réfrigérateurs de certaines chaînes de magasins en Suède, en Belgique et au Luxembourg ont été attaqués par des pirates. Ce serait la deuxième cyberattaque de ce genre",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Frigoen vun e puer Kettengeschäfter a Schweden, der Belsch a Lëtzebuerg goufen vun Hacker attackéiert. Et wier déi zweet Cyberattack vun dëser Aart",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "e3dbe92cbc6ed438aa03cbc4bf8fe72126d351de",
       "title": "Un ciberataque sabotea los congeladores de decenas de supermercados en Bélgica, Luxemburgo y Suecia",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0N1VDBwbVVpZ1NhT0NjeUZSYWM1Y09Uem1mMlhNUzI3U3VYTFdxSkdpYVRDT0M2Y2VGeTRhMTc3V0xObklGUkx6dzdCd2RIamp6TzZ5NjBfUlZKd0RpbURpeGdOcHBlcklDakFndnBRMDN3RWMzTXNWNnI4X3Zpdno1amdnSEZNckRPMkExUGJROWo3R3FRaFY3RWtiUzBURUZaVW04U1ZoTHh3?oc=5",
@@ -1329,6 +2415,39 @@
       }
     },
     {
+      "id": "9eac7d5df148bbad01f24ae0ee087d3e8ddf94aa",
+      "title": "Zeci de supermarketuri din Belgia, Suedia, Estonia, Luxemburg și Irlanda, atacate de hackeri. Temperaturile în frigidere au crescut la 70 de grade",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUnp4SmxySFJpU051YkJLNk1hd0JzS1lHWEJOTVBVXzBBM2lQbDh5UkdPUlBBOS1CTnFpZWtETUJCS3I3RVZZQ3RUZnZOaHYzVUJoSGU3aXNBZlk0ZVU0b19NcGpHeDAyWXhvUjlGeFloRFEyVVlTRWVYaDdMX0YzbklRZVphbmthQXBDREg2M21zV0xlMzlocFdVS0lkN0s3a1lUS2lKWW9GM2ZHMjJlMVZTZUhoQVdzbS1IWEg2SEhucFNJbzdmc184OGhfQTh3R1oyOV9oQ2trZjdyUmR3MHpnUGxobW9pcUEyLTBENnFjcWVoQ2p5aExuQkhXdVJPU0U3WjdIWdIBjAJBVV95cUxPLXNldGlKQkR3ZTF5cC1PbkVnLVJlczZoaUlQY2IxSjNNb2w5X2xQMUZqSmVqR3BSREJUc1N0M1JtTWVtaGZPOERqVVF0OHktcVJwcldIQXQ1MW13UUViU2Q1V1g3ejJmaUh6SkFmVC1RZmFWVk5Td0NPOVFEY0VLTTJtTjRFOXVkNDRkdnlLTW92YmltbXVpZGxKSHRVWUFPOVcwdlRxc3JSQWI0dXFWUGlqU2FFMU5oNDVNUE9CYURqS0ZzaWFlSG9IdHlSSjlial9tRi14MEhQNExuQlE4THA2OEZUYk5rb1p6MnhMMnVDMkRqRHZWbXN5SGNEbnlnY2hybFRkcnZHNDRw?oc=5",
+      "source": "DCNews",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-11-02T13:09:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Des dizaines de supermarchés en Belgique, en Suède, en Estonie, au Luxembourg et en Irlande attaqués par des hackers. La température dans les réfrigérateurs est montée à 70 degrés",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dosende vu Supermarchéen an der Belsch, Schweden, Estland, Lëtzebuerg an Irland vun Hacker attackéiert. D'Temperaturen an de Frigoen sinn op 70 Grad geklommen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Dozens of supermarkets in Belgium, Sweden, Estonia, Luxembourg and Ireland attacked by hackers. The temperatures in the refrigerators rose to 70 degrees",
+          "summary": ""
+        },
+        "de": {
+          "title": "Dutzende Supermärkte in Belgien, Schweden, Estland, Luxemburg und Irland von Hackern angegriffen. Die Temperaturen in den Kühlschränken stiegen auf 70 Grad",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "2ef093c0fc5d0fc55c560e84f3c46ea816442f2a",
       "title": "Frigoríficos e arcas congeladoras de supermercados voltam a ser alvo de ciberataque na Europa. Bélgica, Luxemburgo e Suécia afetados",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONVZNSG5oczhpdDZwSTEtNWJUamUtLVhSZDNlYWRmSzg5RVVlOXBtVkdxSFBBekVMcTIydlJ4bXRuX3g3OUo2alh4SlpwOW1qcFBZbHAtUUk3VEJVOVh3NThleEpSWTRhUzRhblpSby1HZTMzVkZiUC1nMkl2SGZkbFJ1aV9IUHNjODdCWXQtSlduczYzQ3ZKbWJ5TFlHQ2tvZHlGX3hjWmtUelNNQW5mZ3Y4NHJaQ1o4eDBpVnNOd0p1SU9GYU5jbHBnTHE1ZV85X0h3YTB5WnB2R21TekFDaUh3dTdKYmhBZjNqU3ZXUjE?oc=5",
@@ -1676,6 +2795,39 @@
       }
     },
     {
+      "id": "a7d1f6c1dc997f4ab6ed568a98b3c325e3502118",
+      "title": "Μπαράζ κυβερνοεπιθέσεων σε μεγάλα σούπερ μάρκετ σε Βέλγιο, Σουηδία, Λουξεμβούργο και Εσθονία – Έβαλαν τους καταψύκτες στους 70°C",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTTMwT3hJOFNpdmhpc29UZWdqV3pmeVhiZmlLa016TjFiamRjTnpHeEh1UEllTzdWTzhETm1UT0ZxaVdmUHlXNkFOUTAxQ1o0eU5sZlI0bmhLR0Zhd0xEc3NtaXE4R2Z0M2twR3VJeEYwTWUtODNYXzhPRFFRN29aSXNQYmRnOXVwUk5zQUlSNW1TaGFNWXgtQnhmY0l0ZzhMX0ZyY3VNSjZqNWFLUHJCdmlVOXpUMnJzSURNMU05Q2Z1eXBaZGpzNVl2UQ?oc=5",
+      "source": "Ink.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-11-02T12:39:54.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Cyberattacken hunn grouss Supermarchéen an der Belsch, Schweden, Lëtzebuerg an Estland getraff - Frigoen op 70°C gesat",
+          "summary": ""
+        },
+        "de": {
+          "title": "Cyberangriffe treffen große Supermärkte in Belgien, Schweden, Luxemburg und Estland – Gefrierschränke auf 70 °C eingestellt",
+          "summary": ""
+        },
+        "en": {
+          "title": "Cyberattacks hit major supermarkets in Belgium, Sweden, Luxembourg and Estonia - Freezers set to 70°C",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Des cyberattaques frappent de grands supermarchés en Belgique, en Suède, au Luxembourg et en Estonie - Congélateurs réglés à 70°C",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "500ad6c3d7741684db1007b0fcf95c4fd781a741",
       "title": "Κυβερνοεπιθέσεις σε ψυγεία σούπερ μάρκετ: Νέα περιστατικά σε Βέλγιο, Λουξεμβούργο και Σουηδία",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZk9MRm5lQXVVOUE4MDhQYmJRa2ZjOEFuOGphekFzQ2hjR21wUlJINFdobl9kcHdhR2NQZ2gzNVV1RVZOMDN4NnVJb2I3VzFjcVZlSldsZGlYam9ueHIwSzY2c2ptQjhKdTdIaTR5c3d5RnJTb0Q0VXZ6TWQtX1NvSHk2NnprR2RoYTNNbjMteVp5VEIyS2tKc0ZCZUowNm5qLXpISXdCUk5mNlhTcUF1d005SUdGWXNCWDE3MEx3?oc=5",
@@ -1874,6 +3026,35 @@
       }
     },
     {
+      "id": "7b922c5c047c30b63254451d20edbf017a961039",
+      "title": "One mission, two identities: Luxembourg Air Rescue and European Air Ambulance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVHNyZWs5OFdjaG56ODQ0eEtDS3J5UmtqbUpXUHhDdmc4SGZSTktJblZFLTVmdWxjWTlZR0wzMlpncVQ4ZFlMb012VVd3UFBkUEVWQkFyb3pKdDN5ZHJIX2M1bTc1TDlOQUpPMzg3WUdBVHcyS2JlVmd2TUZGeVU1eUp5T1hhb3dJeE5rYkdGRENYcGMxNUFfYVBRYWZtVVRZY1FuMC01R0dXWGwyMi1VYUk2MA?oc=5",
+      "source": "ITIJ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-02T12:16:03.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Eine Mission, zwei Identitäten: Luxembourg Air Rescue und European Air Ambulance",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Eng Missioun, zwou Identitéiten: Luxembourg Air Rescue an European Air Ambulance",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Une mission, deux identités : Luxembourg Air Rescue et European Air Ambulance",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "08290a7cddf1d00f8269b2d3e92c38f3a4dff1a4",
       "title": "Zeci de supermarketuri din Suedia, Belgia, Luxemburg şi Irlanda, vizate aparent de un atac cibernetic",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWVCaldZRWhKbnlibWxEekNlVUpZdkVRRWxFN0JCSUNZQWN2X1BVT2VxTHdSdElqYVcxZzJ2cENJTF9JUEJpMkstRExuZ0oxdFVOOGhyekU1WEdvVHhJQzdpcmpKUndjdk5TazNKQjlwYzVTQS14dHF3ZndHOHh1Y0pxWll4SHpoZVM3WDlYeHlPVlFTa3cwNjQ1a2RqTjlwSm5DTVJSdTNhYTVtWkdmbkdzbUI2dHJXdEJlS1ZKajRBOWlxLWcyLV9Taw?oc=5",
@@ -1960,6 +3141,68 @@
         },
         "en": {
           "title": "North of the capital: Fatal accident in Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2ad84d1c6d2ab74fb0a4f29aa6ad4deb93968089",
+      "title": "Schwerer Verkehrsunfall in Luxemburg: 38-Jähriger stirbt an Unfallstelle",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjVCWlcwcGhEeDJlbnQ3Rk9ncEdrMWtuTE13bm4wNmJYX01EQ2hQZE1Cc3JNUFFhV1Y1SjJBMU1SZ2lLWjl6VkpmVy1QejNySGpUZ1hGdFk5Nlh4TVgzUDNvMkdLaXUzcm92M1hveWVmQU43MC1hVWthT2JvUjh0TFhicE40SXJRcWk3YTV0NmFteE5TNURVUGluNzU2X2JCWWF0eUhZSkoydw?oc=5",
+      "source": "lokalo.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-11-02T12:07:43.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Serious traffic accident in Luxembourg: 38-year-old dies at the scene of the accident",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Schwéier Verkéiersaccident zu Lëtzebuerg: 38 Joer ale stierft op der Plaz vum Accident",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Grave accident de la route au Luxembourg : un homme de 38 ans décède sur les lieux de l'accident",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "723d919c48735854c13186376c63faeb7989f02a",
+      "title": "Ook Nederland, Luxemburg, Ierland en Estland melden gehackte vriezers: “Vermoedelijk was aanvalsgolf nog groter”",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT3ZvSi05bzZzWk5BeDJaNU9tWGJleDFYZVlyU2NhS0NYSWlQVWdhODZ0bjNsYmQwaGNiSlF3R2I5bVczNlBLOFpfbjE1eXdxckZxV1lheHlveEJoNG5nQVRubF9jb1RDU19KQWVEMEMzUDRBTlRCOTcxdTlwRTVsOTdjei04WVhBWEI3MlBSU2c4R0xRUXQtNDBFUnp3ZHFySEp4TXg2X2w1a2JhS25adWd3SUZDVjdSNjRlb0tqbWoxRlFzcXQ3V3h5NUJjNEFULUZENk1rNF9EVHM2UWVDUg?oc=5",
+      "source": "HLN",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-11-02T12:02:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Och Holland, Lëtzebuerg, Irland an Estland mellen gehackte Frigoen: \"D'Attackwell war wahrscheinlech nach méi grouss\"",
+          "summary": ""
+        },
+        "en": {
+          "title": "The Netherlands, Luxembourg, Ireland and Estonia also report hacked freezers: “The attack wave was probably even bigger”",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les Pays-Bas, le Luxembourg, l’Irlande et l’Estonie signalent également des congélateurs piratés : « La vague d’attaques était probablement encore plus importante »",
+          "summary": ""
+        },
+        "de": {
+          "title": "Auch die Niederlande, Luxemburg, Irland und Estland melden gehackte Kühlschränke: „Die Angriffswelle war wohl noch größer“",
           "summary": ""
         }
       }
@@ -2518,6 +3761,39 @@
       }
     },
     {
+      "id": "b37033ee7c3ba56732882de2eb12db21c554f637",
+      "title": "Hackaanval op supermarktkoeling raakt naast België ook Luxemburg en Zweden",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1VwWjhpNGlZSmtUVVRSa196LTRHdmNUaVJlWEpMbmI0TnM1LTlXYVppTHdXaHE0MlRmYVZSZFlaa2ZBeV92UWdZR2NGSVYxa3Vic3hjNTBOMXhSQjV2SFI5bE9wTjNHVWxsSHRQTkdqcGhYVHBfMUo1VVJNOWswX0luRXBqTUlSY1hCbThPNWVkODJMY2VJOGlGSUxrUDF6T2NtX1lMdDU3MHpOcE5nX2RjV3Y?oc=5",
+      "source": "Tweakers",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-11-02T11:11:27.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Une attaque de piratage contre la réfrigération des supermarchés touche non seulement la Belgique mais aussi le Luxembourg et la Suède",
+          "summary": ""
+        },
+        "en": {
+          "title": "Hack attack on supermarket refrigeration affects not only Belgium but also Luxembourg and Sweden",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Hack Attack op Supermarché Frigoen Impakt net nëmmen Belsch, mä och Lëtzebuerg a Schweden",
+          "summary": ""
+        },
+        "de": {
+          "title": "Hackangriff auf Supermarktkühlung betrifft nicht nur Belgien, sondern auch Luxemburg und Schweden",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "baf6ff742dc879103dc168ab87d0b130eb043919",
       "title": "또 냉장고 노린 사이버 공격…프랑스 이어 벨기에·스웨덴도(종합)",
       "url": "https://www.yna.co.kr/view/AKR20261102167151098",
@@ -2579,6 +3855,39 @@
         },
         "fr": {
           "title": "La circulation des bus le long de Rosa Luxembourg sera rétablie à partir du 4 novembre",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "908d6cb76daed1719ff54ede515d8487e08dcf22",
+      "title": "Ремонт закончен? В Иркутске возобновляют движение автобусов по улице Розы Люксембург",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xbG9JdnJuTGhXcWtlbDlaRGRCN090WDVmdXNZSV9OLVVVTUdKb1RuZVFCYVh2elNKRUFncThteEMwRjV1MHkzanV5YjJTX1JkdWlxMkMtTnpaQU8tbWlNbXFGaw?oc=5",
+      "source": "ircity.ru",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-11-02T11:05:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Ass d'Renovatioun fäerdeg? Zu Irkutsk gëtt de Busservice op der Rosa Luxemburg Strooss erëm opgeholl",
+          "summary": ""
+        },
+        "en": {
+          "title": "Is the renovation finished? In Irkutsk, bus service on Rosa Luxemburg Street is resumed",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ist die Renovierung abgeschlossen? In Irkutsk wird der Busverkehr auf der Rosa-Luxemburg-Straße wieder aufgenommen",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La rénovation est-elle terminée ? À Irkoutsk, le service de bus reprend dans la rue Rosa Luxemburg",
           "summary": ""
         }
       }
@@ -2745,6 +4054,72 @@
       }
     },
     {
+      "id": "5522a9aa014532b1879b19f0a958f7ca89b73194",
+      "title": "Hack op koelingen van supermarkten in België, Luxemburg en Zweden",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3dveUsxMnM4c1Y2aUVlckdQMUh6Wm9XbjR2akVuNmo3ODEzVTVzNm42LVNWT3cxc0tfN1U1X2NWQ28zUnozVWpVa0RwQWd2Sm91Q2trTnM0Mm5GQ05ma041cXQxaHRFQ3lPTmRkTVYteTFwdk9LUzBnYnAyWGx5MVZiUnBnMjVaR0p4c2xhM0R3bmxuSnc1MFRmb1Z0eV9QcFJPVWRkZmdWTUFmRmc?oc=5",
+      "source": "Headliner.nl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-11-02T10:43:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Hack auf Supermarkt-Kühlschränken in Belgien, Luxemburg und Schweden",
+          "summary": ""
+        },
+        "en": {
+          "title": "Hack on supermarket refrigerators in Belgium, Luxembourg and Sweden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Piratage des réfrigérateurs des supermarchés en Belgique, au Luxembourg et en Suède",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Hack op Supermarché Frigoen an der Belsch, Lëtzebuerg a Schweden",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "8320e2e0419e5ba6ba05165a3084104e7d5785f6",
+      "title": "Nu ook koeling supermarkten gehackt in Zweden, Estland, België en Luxemburg, 'temperaturen naar 70 graden'",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3NVRElWR3hGY0o0dGNHdENqb3RTMW9fMzFNR1FBejJhcGc3N1JFRjBIcFRiUXd5UjNHSWRDSjEzTHJIM1E0WWMzd0VUTXVyUzIwSjBXTThNVTV0XzVBVW1QZnB4dVFfMFM5cXBGX1UtSUdGak9qSGE1WE42TUNJMmFfM0o1LW1tUVhaUTVWall6TGtIdmtNWE5teEl1WGZ5TklyWERNUUpRR0k1Qm9reFFKdXBEUTgxbE5Ga2ZfT3BKVEdTellsZEZXckNxUzRvbk9meTNhcw?oc=5",
+      "source": "Headliner.nl",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-11-02T10:42:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Désormais également des supermarchés réfrigérés piratés en Suède, en Estonie, en Belgique et au Luxembourg, « températures jusqu'à 70 degrés »",
+          "summary": ""
+        },
+        "en": {
+          "title": "Now also refrigerated supermarkets hacked in Sweden, Estonia, Belgium and Luxembourg, 'temperatures up to 70 degrees'",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Elo och a Schweden, Estland, Belsch a Lëtzebuerg gehackt Frigosupermarchéen, 'Temperature bis 70 Grad'",
+          "summary": ""
+        },
+        "de": {
+          "title": "Jetzt auch Kühlsupermärkte in Schweden, Estland, Belgien und Luxemburg gehackt, „Temperaturen bis zu 70 Grad“",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "2682c2100d393ecbefc4487edf4e1c13fe3c1520",
       "title": "«Έλιωσαν» τα ψυγεία σουπερμάρκετ μετά τη Γαλλία και σε Βέλγιο και Λουξεμβούργο",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU1loM1hRUndVT1VaamJkR3c3dnFhNkk1cFR2Ul9Pc3ViZUdQTlVwb1BqNm9DOWxobHppWFVGeHY3WWhVRFVMN3VyYVJKSDlkNjVTTlJ2b3ltWllsZUhabFFVUmVLNEl5VDduTmxsQUgzYWxPWnRJNHdtRVVUVklNeGt1QmRSYVVvWjJxdEVBdlo3V1NFc3NWWS1xSGJBdw?oc=5",
@@ -2773,6 +4148,39 @@
         },
         "fr": {
           "title": "Les réfrigérateurs des supermarchés ont \"fondu\" après la France et en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "a9c5df12a36d2838c9ebb425d380c89d80cbb019",
+      "title": "Hack op koelingen van supermarkten in België, Luxemburg en Zweden / Nieuws",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczdIWC1qeGsteTVwa2I2UXFpQ2Vfa3FNTmsxTkN1cC03WUlxbktkcDdxTUdWUVVnLWRQczk1aFgxM2NnbEtyRU44MktGVk5sR1JTeHY1V0FoWkZhRDNidW1QRURNbm0tVXlmaDVJWTlxVEZnTlJIMEFHOHJWVmtjdXhobjVZaHRUU093T2pMSE1PZTVyRlhsQUJ4cWx3ajlUN3d6T0tQTnpIN1c5c1U4NVl3VTNyZw?oc=5",
+      "source": "FOK!",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-11-02T10:34:59.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Piratage de la réfrigération des supermarchés en Belgique, au Luxembourg et en Suède / Actualités",
+          "summary": ""
+        },
+        "en": {
+          "title": "Hack on supermarket refrigeration in Belgium, Luxembourg and Sweden / News",
+          "summary": ""
+        },
+        "de": {
+          "title": "Hack zur Supermarktkühlung in Belgien, Luxemburg und Schweden / Nachrichten",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Hack op Supermarché Frigoen an der Belsch, Lëtzebuerg a Schweden / Neiegkeeten",
           "summary": ""
         }
       }
@@ -2868,6 +4276,39 @@
         },
         "lb": {
           "title": "Cyberattack zielt erëm Frigoen ... Hit Belsch a Lëtzebuerg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b07f94fd8db4e914ef11c45fa0b9854dc21d3213",
+      "title": "벨기에·룩셈부르크·스웨덴에서도 냉장고 겨냥 사이버 공격",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTkhZR0c2RndXaC1ZWldPVFlxWEFYNjl1bFlPbHR4Z1BDN3RRYTlrZ2lpQnU2MjhoT3ZLN2Z0OWphc0F5SS0xTjRZdG9BelZxU05TT3FLejBlUTg?oc=5",
+      "source": "KBS 뉴스",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-11-02T10:19:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Cyberattacken geziilt Frigoen an der Belsch, Lëtzebuerg a Schweden",
+          "summary": ""
+        },
+        "en": {
+          "title": "Cyber ​​attacks targeting refrigerators in Belgium, Luxembourg, and Sweden",
+          "summary": ""
+        },
+        "de": {
+          "title": "Cyberangriffe auf Kühlschränke in Belgien, Luxemburg und Schweden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Cyberattaques visant des réfrigérateurs en Belgique, au Luxembourg et en Suède",
           "summary": ""
         }
       }
@@ -3179,6 +4620,39 @@
       }
     },
     {
+      "id": "d8bdb4ba384132ac4b21096f7936ad6c47b63223",
+      "title": "Ahold Delhaize afirma que un \"incidente informático\" afectó a los frigoríficos de sus tiendas en Bélgica y Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV0ZxWDNFbzA0QXdFNTZiZGN5TUVTVmRYVTFkVWZmem1qSTRjS0tYSWwxTHU2c2tqRnZTbEtZOFU0S3JXNHBjRk9tVTRJWFpGTTlRUXBSelNkRTVnUS11TE5oNnFJb2tta3Z2RjY5cDdIUDB6U1hBblFHZkJjdFBxaUFudWJ0Y2lUQ240bVZHcTlaVk91ZDhzX0pfaHRmdm1BR1Q0N3RLMEM0TER6NnFZbHFXNWZlYUNqbl9fU1puYWIwajhXc2xWZWFockdpLUxLMFAtNElfd2JGaVJ0eUtvUEtocThuN2Jn?oc=5",
+      "source": "MarketScreener España",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-11-02T09:22:25.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Ahold Delhaize behauptet, dass ein „Computervorfall“ die Kühlschränke in seinen Filialen in Belgien und Luxemburg beeinträchtigt habe",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ahold Delhaize claims that a \"computer incident\" affected the refrigerators in its stores in Belgium and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Ahold Delhaize behaapt datt e \"Computer Tëschefall\" d'Frigoen a senge Geschäfter an der Belsch a Lëtzebuerg betraff huet.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Ahold Delhaize affirme qu'un \"incident informatique\" a affecté les réfrigérateurs de ses magasins en Belgique et au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "71fc6fe24a7d9765086bef6b99b0a50b10c32714",
       "title": "Hack bij supermarkten in België, Luxemburg en Zweden",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBzZy1JMG02ZTRNRTh4U3AwN2tOSm53Tm1pZURXQllsT1BsX1JDTDlzZmdLWlJqUnE0SHhybXU5UUl5cGFyaklrb2Rn?oc=5",
@@ -3207,6 +4681,35 @@
         },
         "de": {
           "title": "Hacken Sie in Supermärkten in Belgien, Luxemburg und Schweden",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "76814eff6a181963039efd8e3f62424777a29f50",
+      "title": "AHOLD DELHAIZE'S FRIDGES AND FREEZERS IN DOZENS OF SUPERMARKETS IN BELGIUM AND LUXEMBOURG HIT BY \"IT INCIDENT\", SPOKESPERSON SAYS",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91QU1Wd3NFbjhzemlmV2Jxb2ZfWng1M1NLVWNXaUxVU3BFdTlGWFdsU3p2clZ3UFNSOFAtYzR4TmJjbmJxRzFKU0ZKWXktZXFRVWQ4LWdIVU5tOUpmVlpxZ2tHTkdDYlIxTXBKdXF3?oc=5",
+      "source": "CGTN",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-02T09:08:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Dem AHOLD DELHAIZE seng Frigoen a Frigoen AN Dosende vu Supermarchéen an der BELGIEN AN LËTZEBUERG HUET VUN \"IT Tëschefall\", seet de Spriecher",
+          "summary": ""
+        },
+        "de": {
+          "title": "DIE KÜHL- UND GEFRIERGERÄTE VON AHOLD DELHAIZE IN DUTZIGEN SUPERMÄRKTEN IN BELGIEN UND LUXEMBURG SIND VON „IT-Zwischenfall“ betroffen, SAGT DER SPRECHER",
+          "summary": ""
+        },
+        "fr": {
+          "title": "CONSERVEZ LES RÉFRIGÉRATEURS ET CONGÉLATEURS DELHAIZE DANS DES DOUZAINES DE SUPERMARCHÉS EN BELGIQUE ET AU LUXEMBOURG FRAPPÉS PAR UN \"INCIDENT INFORMATIQUE\", DÉCLARE LE PORTE-PAROLE",
           "summary": ""
         }
       }
@@ -3563,6 +5066,68 @@
       }
     },
     {
+      "id": "45f6e9dc79a04118bfd81df191fd129e6458d2cc",
+      "title": "Des ateliers au Luxembourg pour apprendre le bricolage aux femmes : ce sont les rendez-vous de Vanessa !",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDltU2hoaEI5dGlqZHpEaDBWY05WOGZMT1I2dWZxTk53Mlc4S2RJY1JzU0o2clZORi04eDZ1cy12RzFoZmNJdjJ5RTZKRDZ5eXZNZm1XN1dzX3diTW9uaHp1dUlVNzF3blE4d2lwQVhxeGJfTVM0MTRNczRJWmhOWTBfUlpFbGhwdmRBRUNJM1B0WDNoRWVQZWliV05ET3NwcUJ1bVBCSUlaOHN0UXhlRDlrb3ZCdTVRNUQ5cHUwTQ?oc=5",
+      "source": "Lor'FM",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-11-02T05:04:50.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Workshops in Luxembourg to teach women DIY: these are Vanessa’s appointments!",
+          "summary": ""
+        },
+        "de": {
+          "title": "Workshops in Luxemburg, um Frauen DIY beizubringen: Das sind Vanessas Termine!",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Workshops zu Lëtzebuerg fir Fraen DIY ze léieren: dat sinn dem Vanessa seng Rendez-vousen!",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "10ae84f31064d154425cd80da0cbe3e669d2a0ed",
+      "title": "К 4 ноября дорожники рассчитывают закончить ремонт на улице Розы Люксембург в Иркутске",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0OEJXdHJFU094SHc2X1hpOENtcVZJRTF2RDVCa25pSTVjMl9wZFkwZHhDNkZRdmtqUjY0NVJjWDBfSUQ1WWhwbXZNVDc4dw?oc=5",
+      "source": "IrkutskMedia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-11-02T04:28:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "D'ici le 4 novembre, les ouvriers routiers prévoient d'achever les réparations de la rue Rosa Luxemburg à Irkoutsk",
+          "summary": ""
+        },
+        "en": {
+          "title": "By November 4, road workers expect to complete repairs on Rosa Luxemburg Street in Irkutsk",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Bis de 4. November erwaarden d'Stroossaarbechter d'Reparaturen op der Rosa Luxemburg Strooss zu Irkutsk ofzeschléissen",
+          "summary": ""
+        },
+        "de": {
+          "title": "Bis zum 4. November gehen die Straßenarbeiter davon aus, dass die Reparaturarbeiten an der Rosa-Luxemburg-Straße in Irkutsk abgeschlossen sein werden",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "0df5a3418a35c0ba647882b9927cb0a1fac78f8e",
       "title": "Like A Jazz Machine 2026 in Luxembourg",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtSlRhY2xNMldxQ0t6d2xRa1prbjBPZ3Vhd0VRdUN5TGIySlFHRGRsX3dxVU9MMnpHSi1hUDBfbGtsWHN2TXhXOWc5WVBheVNFY0hLdmw4QTNicnBQVXg2WGdNNjVJdkItUGJNc2RFRQ?oc=5",
@@ -3653,6 +5218,39 @@
         },
         "fr": {
           "title": "Journée de la langue luxembourgeoise célébrée lors de l'événement Okinawa Language Adventure Team Naha Lettre du Premier ministre du Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4322f77fe562941c1cb773bd14a762f8b0c50692",
+      "title": "Lüksemburg - Avusturya, 16 Mar 1975 - Avrupa Şampiyonası Elemeleri - Maç raporu",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUTNTdXN1NjI3XzFHdk9rWUNSUlNPTmVidDBfYlBWZXQ4eDgybEFxQU9EU3lHZFJRcWw4ZGx2Yng2TG4tMmhPR01jeDhEMEJoc1l0MFlyZ0E0dzBrWnd1eGpwVzBrOHhfUVR2cXA5OWlucC10c2xMR3kzUDJyZG5mU1VxMC0zY0E3X1Bv?oc=5",
+      "source": "Transfermarkt",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-11-01T19:16:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Luxemburg – Österreich, 16. März 1975 – EM-Qualifikation – Spielbericht",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg - Austria, 16 Mar 1975 - European Championship Qualifications - Match report",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg - Autriche, 16 mars 1975 - Qualifications pour le Championnat d'Europe - Rapport de match",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg - Éisträich, 16. Mäerz 1975 - Europameeschterschaftsqualifikatiounen - Matchbericht",
           "summary": ""
         }
       }
@@ -4356,6 +5954,39 @@
       }
     },
     {
+      "id": "a7148c407e328333730081841bcecd008e0a807c",
+      "title": "Lüksemburg U21 - Ayrıntılı kadro 2027 (Galeri)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeC01VkswOW5GUGcwZVZueF94VkFjNXh5Zk9wSGRTajlpR2lLOUNFTGthaG9KOVdSVE9CMXJxZnBOYkY2N3VoTF9MVXVHSmhhUkp0Mk56Rm44RURzUmhaRU1yOEtwbjc2OWFBVE9VcDBJa0Job01DVUhRaFJWMHh5QjBVN2NwWHJyUjA4aWVmMHpGcURhVkE?oc=5",
+      "source": "Transfermarkt",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-11-01T03:54:13.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Luxembourg U21 - Effectif détaillé 2027 (Galerie)",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg U21 - Détailléiert Kader 2027 (Galerie)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg U21 - Detailed squad 2027 (Gallery)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg U21 - Detaillierter Kader 2027 (Galerie)",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "8d7c9e1f266bdf52e38a36c873a6da604cd99d69",
       "title": "Galería de Pabellón de Luxemburgo en la Expo 2025 de Osaka / STDM architectes - 12",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOVWpHNTB5X0FpZEg5cWRXWVBXUG9YaUdXTW54S3g3bTZtbXNMbnFhYlZHRzh0bnFNVU5qaWJtc01kMGFkMktZWWRFUm1qWXlIQ0EtMkdidTlGalFONS1YTmgwVTJWVGRmZ1pHUHJhbGViZjR1YThMd1ltMWlfYzltcnBFX1l1SjNDVDhWZ1Zzb3R5aGxoNW91YUJuaW93YjNDN1BDd1c0UU1zVVFqcnR6c0NCVmFFT3N6TUppVzE3SDRxaHVpbV9iaVotNVNzM0l1QTF5Ql9xZEQxMG15c3I4X3diZGVQYXdRVjI3cFFXNWp6UW9RWDNHUzY1T0ZQOVoycmxic0JTd2EtMmhUUDd3V0UxSElLYzJ0VE9vVmxRYno?oc=5",
@@ -4727,6 +6358,39 @@
         },
         "de": {
           "title": "David Ivanov – Statistiken in Luxemburg: National Division 2026/2027: wie viele Tore und Assists",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "38f6cb28bbce847dfeafac22e1e5147fb52d6e7d",
+      "title": "Lüksemburg U16",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnBUOGJYUW1obVBkTGhEVEFoX3VOUWQxV0dVSFVPWEtQYTdrU3N2R1FPVk9hbk5pV3ZIcGR2R2RWUGxiWUlxVmtBWFFMTE42M1haR1c1aWhud3BXY1pMcW1TTWJVVGtScUxRTFVYaHFEUS1nSnhOVGlfNjEwc2t3VnltY0JpV3hJZHpiYXFWY2FGRTJFVEYzUTVqdDhUUkk1dDY4?oc=5",
+      "source": "Transfermarkt",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-10-31T16:35:20.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg U16",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg U16",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Luxembourg U16",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg U16",
           "summary": ""
         }
       }
@@ -16746,6 +18410,39 @@
       }
     },
     {
+      "id": "4c1bdc51b871c29ed77046aad9de844b5292d8df",
+      "title": "Σχοινάς από Λουξεμβούργο: «Κοντά σε συμφωνία για τη νέα ΚΑΠ»",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVhoblZHZXowZVdodU5FeUotTm1jWXpmLVJ5eW9iWjdwdG5GM3Fld0paN1czZWNjcHpEWVdxX1hDcDVuUXBwM3RCUkVkRnpuZk9Nb21PNmNySUhmaFQyMGJyS0ozVmkwMlRHRW9uN2Vkd1pPcEJBeEZNajFDaE9ydVpYQ09tZFZUQmRpOGtzT0JzOWFWUnc?oc=5",
+      "source": "mononews.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-10-26T10:03:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Schinas vu Lëtzebuerg: \"No engem Accord iwwert den neie CAP\"",
+          "summary": ""
+        },
+        "de": {
+          "title": "Schinas aus Luxemburg: „Kurz vor einer Einigung über die neue GAP“",
+          "summary": ""
+        },
+        "en": {
+          "title": "Schinas from Luxembourg: \"Close to an agreement on the new CAP\"",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Schinas du Luxembourg : \"Proche d'un accord sur la nouvelle PAC\"",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "572b5222c4ce6d764aabf6449cf8062e4d82dd08",
       "title": "Generalsekreterare och president Till Lams möte med vietnamesiska intellektuella i Belgien och Luxemburg: Från att fundera över vad landet behöver till att svara på vad som kan göras.",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMGsxZ0xEU0FqeFliRGRxNldaaEQ3ODRIYkduQUl5NVVod0ltZmhzNzBEUmFNaEVZTjRvUGhZQ2VKLWFvU1JLNHhHaFZoejRsOG5BeFdxOEE4TnJMdDcyeVFwZGV6UDQyRmlCS05DQmkweU95T1ZoSkRyUVo5bnZ1MUVBT2FuczBNX0FvaWFyUEtvX3ZlTlRsME5IRl9VbmpoNDBOZUw0ZDJ1X2tvN0dDSjhXOEpOMzdER19wUWstMUVZUUUzdFllTi04MlhUUHNkVDhqSTNnbUtyTldaanVIcXM3c0NpM2M3MExtekI4OHU1clR4d25YaWlGOEVWTEE?oc=5",
@@ -24785,6 +26482,39 @@
         },
         "en": {
           "title": "Luxembourg | Heisdorf le Charme de la Gare CFL",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "948504f23a2de473e68c40916d775ca579768ea2",
+      "title": "Посёлок Иноземцево и хутор Розы Люксембург останутся без газа 27 октября",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObmszM0VRSWpXcUNXSldRQzlDZFVZWHE0R29ycmx4UlVWejJDN3ZrMUM3dkljSWhMZFJBZk5PMTJZd1pFYmdWNGpZOGEzY2NidW90OFNsZmdCbWRhQTY5TE0xQi1PeFNIR1QzNjYyNVVzLXhsSDd1RmptZTduWmpicGhlNlpLUnh0Sk9pN0c1WWJfM2U2YkNJbFljaUNOdGh0UUFIU2xIUDZuMlNnQklYSnVacGNDX2huX0NXSVZpYUw3bk5vb1I2bUZYZzcyYXc?oc=5",
+      "source": "Портал Железноводска",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-10-23T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Le village d'Inozemtsevo et la ferme Rosa Luxemburg resteront sans gaz le 27 octobre",
+          "summary": ""
+        },
+        "en": {
+          "title": "The village of Inozemtsevo and the Rosa Luxemburg farm will remain without gas on October 27",
+          "summary": ""
+        },
+        "de": {
+          "title": "Das Dorf Inozemtsevo und der Bauernhof Rosa Luxemburg bleiben am 27. Oktober ohne Gas",
+          "summary": ""
+        },
+        "lb": {
+          "title": "D'Duerf Inozemtsevo an de Bauerenhaff Rosa Luxemburg bleiwen de 27. Oktober ouni Gas",
           "summary": ""
         }
       }
@@ -45585,1707 +47315,6 @@
         },
         "fr": {
           "title": "#luxembourg #pourtoi",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "290ba6885120ce523628745c1dacb3780564a268",
-      "title": "Mompach 공기질 지수 (AQI) 및 룩셈부르크 공해 | IQAir 대한민국",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BRElZblFuTE9ZYnBvOXRkR0sxX3VWSEN4SGt3cFJEMElWeXZ3NmJ4NTdsZ2JoNkRGTE5SY1U4OTlJQ2llYnlkdUlXRWNjcDh4NmxnV0pBVXJ1UG90bnZ1ZWNlM3kyR3hzdkxzUU5JSnNFUk0w?oc=5",
-      "source": "IQAir",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-10-13T20:18:29.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Mompach Loftqualitéit Index (AQI) a Lëtzebuerger Loftverschmotzung | IQAir Südkorea",
-          "summary": ""
-        },
-        "en": {
-          "title": "Mompach air quality index (AQI) and Luxembourg air pollution | IQAir South Korea",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Indice de qualité de l'air (IQA) à Mompach et pollution de l'air au Luxembourg | IQAir Corée du Sud",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luftqualitätsindex (AQI) für Mompach und Luftverschmutzung in Luxemburg | IQAir Südkorea",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "56917a58ccab1ca551c1e82174d56da0cebb89c2",
-      "title": "Reuniunea de la Luxemburg // Marta Kos: „Reformele pot aduce Republicii Moldova mai multe fonduri europene și investiții”",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOW1hU0VHOWV3S19Sc1hjTFdDZWZDbnFoNWYzd2ZXY1pXeFlqOUxDNHN1UUZtRmlBbWlLM21NZzU4cUItR0pHaV92YWZ0cFFlQ2k2OVUyZVBYYm9ZRlNBWWtVUmVIOWdmTE5JcHRzZUlzQi1aV2p3THQtbDN0OE9JeTZRZXdXYUpVbGM3T0VEcEVEVjVwZTRnZjliTTVvOHBraGU3am5scl9lU0VrQk42UzlsY0xuclhjM3dvTEc3ZDFDaGJaWk8xTVVkSUIyUFpZa2NMQUplTDZFRTBXTGJVTG1R?oc=5",
-      "source": "Moldpres",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T20:18:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Treffen // Marta Kos: \"Reforme kënne méi europäesch Fongen an Investitiounen an d'Republik Moldawien bréngen\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg meeting // Marta Kos: \"Reforms can bring more European funds and investments to the Republic of Moldova\"",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburger Treffen // Marta Kos: „Reformen können mehr europäische Mittel und Investitionen in die Republik Moldau bringen“",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Réunion de Luxembourg // Marta Kos : « Les réformes peuvent apporter davantage de fonds et d'investissements européens à la République de Moldavie »",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d5b34a9a6e0bed90b16b180dba667ee5f4eda624",
-      "title": "VIDEO // Reuniunea de la Luxemburg: UE salută progresele Republicii Moldova în negocierile de aderare și reconfirmă sprijinul pentru reforme",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZHB2Zl8tbzViTVFnMDlpV0diVjdQWFQyS1MwMm9za1g4WjNEYzc1aVl2SERLbmZRUVAwbUNhOVNnRG9FaWdGSm5EVzJDUkVXLXJoa1hhejZrQlhNaklIclRCNHBTaFFPbDFZVFJYclJiNWROaGlmbFptckxfcHpvdmpaQjdMVGthV2IxT296d0lJZTRXbGVPeS04UTFmM3B2NU5sb2ItRVpQY2V3QlFuZmpEZ0ZlWWJ0N0NNamx2bVhRb0h2UUpmQ3ZrSFdlUkNyYloyTFFNRm5oamx0MGxB?oc=5",
-      "source": "Moldpres",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T20:06:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "VIDEO // Lëtzebuerger Treffen: EU begréisst Moldawiens Fortschrëtter bei de Bäitrëttsverhandlungen a bestätegt Ënnerstëtzung fir Reformen",
-          "summary": ""
-        },
-        "en": {
-          "title": "VIDEO // Luxembourg meeting: EU welcomes Moldova's progress in accession negotiations and reconfirms support for reforms",
-          "summary": ""
-        },
-        "de": {
-          "title": "VIDEO // Luxemburger Treffen: EU begrüßt Moldawiens Fortschritte in den Beitrittsverhandlungen und bekräftigt Unterstützung für Reformen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "VIDÉO // Réunion de Luxembourg : l'UE salue les progrès de la Moldavie dans les négociations d'adhésion et réaffirme son soutien aux réformes",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5c2c2a4164893da13b07108ad2fa34d8affae1ff",
-      "title": "ULTIMA ORĂ! Veste bună de la Luxemburg. Republica Moldova deschide încă două grupuri de capitole",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejNTMGk4WnZRbmtvd0xXNnVDUFFxODIxM1BUSFZOamlObFRvMER5QlI5NmU4SFhiS1psQlExRGI0QlR5WHloRDVWTWJqYmNYWlhzbUtJbVBKX1V2OGRFTkRIWG9CcllCNHExTGpGdHcySkV3aFRrWlZtbmNYa1F1QjVWTTkwVlhKaHJoME1PamQxMWJBMEs4Z2NRNE1YbmNKT3pYWUpyWE1feDlRRlhOb2tvVzluSkYt?oc=5",
-      "source": "Realitatea.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T19:30:47.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "LESCHT KEE! Gutt Noriicht aus Lëtzebuerg. D'Republik Moldawien mécht zwou méi Gruppe vu Kapitelen op",
-          "summary": ""
-        },
-        "en": {
-          "title": "LAST TIME! Good news from Luxembourg. The Republic of Moldova opens two more groups of chapters",
-          "summary": ""
-        },
-        "de": {
-          "title": "LETZTES MAL! Gute Nachrichten aus Luxemburg. Die Republik Moldau eröffnet zwei weitere Kapitelgruppen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "DERNIÈRE FOIS! Bonne nouvelle du Luxembourg. La République de Moldavie ouvre deux autres groupes de chapitres",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c4c3cce4cf84175c2784572716d4933e85bb8113",
-      "title": "#luxembourg #fyp ",
-      "url": "https://www.tiktok.com/@caleb_finlayson/video/7696236188528659734",
-      "source": "@caleb_finlayson",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T19:27:12.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/ooO845qERIjAhkUffHIESRDqnQVFEFloBgIXhz~tplv-tiktokx-origin.image?dr=10395&x-expires=1792148400&x-signature=YqbVO7JXGkOHuhvmJxVu1Ay2%2BBo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "#luxembourg #fyp",
-          "summary": ""
-        },
-        "en": {
-          "title": "#luxembourg #fyp",
-          "summary": ""
-        },
-        "de": {
-          "title": "#luxemburg #fyp",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "05214de62d05f2f9e3384adf16a37bd527696df5",
-      "title": "Conferința interguvernamentală Moldova-UE de la Luxemburg: Progrese recunoscute și noi obiective de aderare",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR0hYTnU3c1NRcmpONVVoMFRJU2YzNFJKaXFUSXZLM3VyVFMwVmRPSEdfell0MXpFS3hiMlBUdXBNZVZMSkhYUE85SS1NN1JrN0JxcUZ6Q2l4ZjFMcV9fNENMMFRoTnM3VnRXUGEwTlVwdnVYVWJCSGVia3R3WHgzeVJDOFFDTll6T3B5TzJfM1Zwam9kb1h5am8yd1VUZEp5VURCVC0tSnY0SEFEbDFKOVNxS3oxTWdtUGkyVl9YQ3ZRM3FTNG9QUmVwREZJNndpdDFWT3hXMWdwSllh?oc=5",
-      "source": "TV8.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T19:21:16.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Moldawien-EU Regierungskonferenz vu Lëtzebuerg: Unerkannte Fortschrëtter an nei Bäitrëttsziler",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La conférence intergouvernementale Moldavie-UE depuis le Luxembourg : progrès reconnus et nouveaux objectifs d’adhésion",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Moldova-EU intergovernmental conference from Luxembourg: Recognized progress and new accession objectives",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Regierungskonferenz Moldawien-EU aus Luxemburg: Anerkannte Fortschritte und neue Beitrittsziele",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "eb269b03bb07349e741bd74c51024141a9349065",
-      "title": "«دوري الأمم الأوروبية»: لوكسمبورغ تهزم بلغاريا بأرضها... وفنلندا تقسو على سان مارينو «بالسبعة»",
-      "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxPUVBVNmV6ZzlKTmRLVWZ4N2VXUEZzdmJ6dUkzQmZYcmJUZWR3Wk9KY000QTFFdHJIX3lGZDJxS0p6eDYtaFhFVHBjYlBmdnFIb0R5X1ExTE1OZ0Q2RWtjOEU3c1V4NmYza2ZoWjhmSzNndVV6cjFieXRzUzEtVGVKQVNLcWdTbHdVU05XX1Z6bk5WdE1YOVBKdVVIdDVHZENFYnNGRHVNUnQxOUQ4QV96MmowLUdrRWp1Tkt5c1p4eGRsNnhqZnd5c2FlY3ItNGFKMl9sUGtvRXpIdTNyd2ktM1JxU2llWURHOTRobDVuUmlwQS11VGNjRk1iN2ZaOWZBOU5jREwzNnBDdW51QjdkZERTRW1faURiTXdDeE9iLUx0Yk1pQ0JtTE9aQVcxRkFSS0xYWG9RYld0aVBJY3VPRDR1QWt5Wm5iNlFPTURHbTZfeFdoLW9DVWdzQXlUamptOG1HNnVXeWg3ZjhFWlVMRXFJeHRia2oteWp5Uk9VREhJQlQtQk9ESWs1UHZ0R1hFUzFodU5LNFRoRTNnTzhXY01uZDl3TENmR2VRX0YzS0RXN0FhaXlXMWpibEFLbHQ0VExjT2dTQXlyNXF6YVMxZU90Z0o2TXZSMzdlSk9wUXVJeWIxdTlqOGFVQ1FOT0QyNGRwZXVEbV9LNFVWMGdCZnZHeHNyOV83Z2d3MjZ3cnBaQ3oyS25TclBrMFIwTEdqVGZXdjl5Znl2R3ZablVrS3ZLN2V4RG91LVJLZVdxYy1mams5ekVvX05NMy1iUi1TTG12X2F5N01OZ1VOYU43OVFYc2Q0SkU1QlhNZVc4a1ZBbW8tU2RBZGJINWVmRjNfbWdsWlcyOEtqR0I4eHdJRTdRQlVyR09IcWlPZmtJTC11Y091RWFtWk50cC1wTDBI?oc=5",
-      "source": "الشرق الأوسط",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-10-13T19:20:52.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "„Europäische Nationenliga“: Luxemburg besiegt Bulgarien zu Hause … und Finnland schlägt San Marino „um sieben“",
-          "summary": ""
-        },
-        "en": {
-          "title": "“European Nations League”: Luxembourg defeats Bulgaria at home... and Finland beats San Marino “by seven”",
-          "summary": ""
-        },
-        "fr": {
-          "title": "« Ligue européenne des nations » : le Luxembourg bat la Bulgarie à domicile... et la Finlande bat Saint-Marin « par sept »",
-          "summary": ""
-        },
-        "lb": {
-          "title": "\"European Nations League\": Lëtzebuerg klappt Bulgarien doheem ... a Finnland klappt San Marino \"vu siwen\"",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "66757910bf642f1b3dfed17153530cc212f818c9",
-      "title": "【国际友谊十月】卢森堡女足vs黑山女足比赛结果：卢森堡女足(0-4)黑山女足比分战报(2026年10月14日)",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zZnIzWGJGeFhPNUZrbDFZdTNXRWN6OVQwTmlUcmQ5WllEY1lKcnYxWDF2d3l1NjBURWVKb3cyYUk3cGx2c2RBQy1KdDVqVWhmWGxONg?oc=5",
-      "source": "球迷屋",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-13T19:13:17.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "[International Frëndschaft Oktober] Lëtzebuerger Fraenfussballequipe vs. Montenegro Damefussballsmatch Resultat: Lëtzebuerger Damefussballequipe (0-4) Montenegro Fraenfussballequipe Score Report (14. Oktober 2026)",
-          "summary": ""
-        },
-        "en": {
-          "title": "[International Friendship October] Luxembourg Women’s Football Team vs. Montenegro Women’s Football Match Result: Luxembourg Women’s Football Team (0-4) Montenegro Women’s Football Team Score Report (October 14, 2026)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "[Amitié internationale octobre] Équipe luxembourgeoise de football féminin contre Monténégro Résultat du match de football féminin : Équipe luxembourgeoise de football féminin (0-4) Rapport de score de l’équipe féminine de football du Monténégro (14 octobre 2026)",
-          "summary": ""
-        },
-        "de": {
-          "title": "[Internationale Freundschaft Oktober] Spielergebnis der luxemburgischen Frauenfußballmannschaft gegen montenegrinische Frauenfußballmannschaft: Luxemburgische Frauenfußballmannschaft (0-4) Ergebnisbericht der montenegrinischen Frauenfußballmannschaft (14. Oktober 2026)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "84b7d14c049496bbda0176f4ec088f9c2b1977ad",
-      "title": "LIVE // Conferință de presă după reuniunea Moldova-UE de la Luxemburg: Ce spun oficialii despre negocierile de aderare",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNThaY0hLQ09acEVQWlpleW9SR2gtODhCLW5sVThkenZmbnh1OWZldVYxY05oNS1MZUhkMWRlalVveERYVW9uVnJvdnRibEg2TGEycVlkZmtlLUxCdmxDNnJyS1VIbl9YMzZTQk9sLXFfSXRqdlVPVFpLVHItZzhNd3N4RjBGMW5zRV85NXdIWmZKNWpndzlDRUF4RVJjMnJCcURnUVNpOUdoNUUyWjdaQWpiY3dRVElmTFdzcVFLRlZQSWFVdzVQSy1lTTMyMU1XUUl3d1M0ZWtSSTg3NEE5MU1GcFBpSVNFSGV2MWhUR050bEhjekZGZnFn?oc=5",
-      "source": "Jurnal.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T19:08:23.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "LIVE // Pressekonferenz nach dem Moldawien-EU-Treffen in Luxemburg: Was die Beamten zu den Beitrittsverhandlungen sagen",
-          "summary": ""
-        },
-        "lb": {
-          "title": "LIVE // Pressekonferenz no der Reunioun Moldawien-EU zu Lëtzebuerg: Wat soen d'Beamten zu de Bäitrëttsverhandlungen",
-          "summary": ""
-        },
-        "en": {
-          "title": "LIVE // Press conference after the Moldova-EU meeting in Luxembourg: What the officials say about the accession negotiations",
-          "summary": ""
-        },
-        "fr": {
-          "title": "EN DIRECT // Conférence de presse après la réunion Moldavie-UE à Luxembourg : ce que disent les responsables des négociations d'adhésion",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "757749568f3fff2613495b0b0c6ac546d2c8af97",
-      "title": "Spotlight on Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3Y4RmwzUHhjQk82OHpOQUNyNjU5dkJjcUdTZjdaZU1YckxHdjZpME5xdWd5MEw2RjRwOVdBS2FEQWYyb0dhd3YxZl94R0NheEhBM0UwOGlXdFBhR2tBZGlFRVFnZmc2b1pjMUlxUThCQ2ctUk5XUmRfRXVDaEtmRXltNFhOc2hGNEpWbWFHaXZCZw?oc=5",
-      "source": "CMS.law",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-13T19:07:58.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Spotlight op Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg im Rampenlicht",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Pleins feux sur le Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "89c91dd4beaa815f60e018e8b94b7382aaf8166a",
-      "title": "Oekraïne heeft het zwaar, maar viert in Luxemburg een bescheiden feestje",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbG9jMUZ2Nk5YUGhKQ21GMGhOWi1rVG5WNkp2SEpiMXAzeXhZd3B4X3FCWDdNT3g2MEp6a2dpaER5eUdVa01HS0ZtNkFzUGlUMDF5NllpM1lDb2hQdklfOHhDWkRqNkJRcWdQdHpWMV9OWU02Q1p6d2dYaU5KWkdpLUR0eXpPbkVpaDU3bk5Oem9jNkF1TzhsVkVrYjQzN2pmWlZCak55T2ZzUmc2bDAyRkhESQ?oc=5",
-      "source": "Trouw",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-10-13T18:29:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Ukrain huet et schwéier, huet awer eng bescheiden Partei zu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Ukraine is having a hard time, but is having a modest party in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Ukraine hat es schwer, feiert aber in Luxemburg eine bescheidene Party",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'Ukraine traverse une période difficile, mais organise une modeste fête au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "439803f44bd3b2063b1acc1bdc0c995137268d3c",
-      "title": "Cristina Gherasimov, la Luxemburg: Ne-am angajat să facem reformele necesare pentru aderarea la UE în 2030",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnpxaWRFNDByU0dQV1FHSkdpRjdwN1lnV2xOcTJhMFhKdTZqZFlDRFlIWENUVVl4bXBpUk9XN3NiT0JXX1pONmlxMXJUT1I4Wk1BcU90MUVFd1NGWjc2MU5ZMklLOXVwV1JDalNnUVFaY2plNVdaemtoZEdDZDdLMm5XWDB6Rk5LRGpOY09DT0U0WENqLVdWN29VbTNENlUwLW9uaEw2UlRpVFFPVE1QSEZDT0I1Nmk3MWR2Yk5sZFdfQ0gyM2c?oc=5",
-      "source": "realitatea.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T18:25:56.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Cristina Gherasimov, zu Lëtzebuerg: Mir setzen eis fir déi néideg Reforme fir den EU-Bäitrëtt am Joer 2030 ze maachen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Cristina Gherasimov, in Luxembourg: We are committed to making the necessary reforms for EU accession in 2030",
-          "summary": ""
-        },
-        "de": {
-          "title": "Cristina Gherasimov, in Luxemburg: Wir sind entschlossen, die notwendigen Reformen für den EU-Beitritt im Jahr 2030 durchzuführen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Cristina Gherasimov, au Luxembourg : Nous nous engageons à réaliser les réformes nécessaires pour l'adhésion à l'UE en 2030",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8686aef9b53fdafb6f36854f75ec95d5b049090b",
-      "title": "#luxembourg #luxembourg🇱🇺 #gëllefraluxembourg v#travel #europa ",
-      "url": "https://www.tiktok.com/@saidhd100/video/7696214744348331296",
-      "source": "@saidhd100",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T18:03:57.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oUGiAZI39QBYyc0gEIsuKQPovA9V5ROBjOaEi~tplv-tiktokx-origin.image?dr=14575&x-expires=1792108800&x-signature=3076FlxcmmzMmatIycaP8nfULdI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "#luxembourg #luxembourg🇱🇺 #gëllefraluxembourg v#travel #europa",
-          "summary": ""
-        },
-        "en": {
-          "title": "#luxembourg #luxembourg🇱🇺 #gëllefraluxembourg v#travel #europa",
-          "summary": ""
-        },
-        "de": {
-          "title": "#luxembourg #luxembourg🇱🇺 #gëllefraluxembourg v#travel #europa",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2c8c94ad064759392db33754220583527dc271d8",
-      "title": "Welcome to Luxemburg 🇱🇺 #luxemburg #luxemburgcity #europetravel #traveltok #europetravel ",
-      "url": "https://www.tiktok.com/@populartravel/video/7696210670810828064",
-      "source": "@populartravel",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-10-13T17:48:08.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/o83Av8YUIAdpp2tvOsi0AjED1E5uiBagblVAB~tplv-tiktokx-origin.image?dr=9636&x-expires=1792098000&x-signature=e1wPtOSN6MN8Vw2OQg9mc4%2FQKe8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Welcome to Luxembourg 🇱🇺 #luxemburg #luxemburgcity #europetravel #traveltok #europetravel",
-          "summary": ""
-        },
-        "en": {
-          "title": "Welcome to Luxemburg 🇱🇺 #luxemburg #luxemburgcity #europetravel #traveltok #europetravel",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Bienvenue au Luxembourg 🇱🇺 #luxemburg #luxemburgcity #europetravel #traveltok #europetravel",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b056d820faf11ddabd71b6ec2a5f67c801120d55",
-      "title": "卢森堡女足vs黑山女足直播【2026年10月14日】",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fZlJvX3dmcnhMNXp5b1BpVGNSUk1NckF2TFdnQU1HUDZ2T09BanlHSFBYNnBGR2R5akVxUHItdzZlMlA2dTI3ZHNXOXViZjR1NkVDVkh5RktTQQ?oc=5",
-      "source": "球迷屋",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-13T17:23:31.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Live-Übertragung der luxemburgischen Frauenfußballmannschaft gegen den montenegrinischen Frauenfußball [14. Oktober 2026]",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Luxembourg Women's Football Team vs Montenegro Women's Football Live Sendung [14. Oktober 2026]",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Women’s Football Team vs Montenegro Women’s Football Live Broadcast [October 14, 2026]",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Diffusion en direct de l’équipe luxembourgeoise de football féminin contre le football féminin du Monténégro [14 octobre 2026]",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3d3f30e5bfcc685e7ee34bd96c12711c353d372e",
-      "title": "Maia Sandu: Deschidem la Luxemburg, negocierile pe încă două grupuri de capitole privind aderarea Moldovei la UE: „Piața internă” și „Competitivitate și creștere incluzivă”",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQSmhfWENDck1TU08tcEdmN2RaYVJXRGZ4TG80QTZnUW1VWU40dEhkOENmQlJmcnNlMERiTUtMdFR0X2FIMUpRdmdnZ3NHZThNTGh4RU1ub2xkWmhmcWx1TmJieEg3eVh3NjBkVEVBUmk4RHF6UGNyX2U2WTFTcU1ZbFNYdDRjUjVwSGY3S1NvMDhaTmtIU2lrSE5vdjhFUDVkSVNUVWlhRjhpaGJPTlV3NjJMcDZWWnNXQVZDQVUxTmhQc0pmR0FaUWNuTWdWUXdiZm5KY0hiY21YYjRIazlvZ2xJYURLMllfdDRFcVMxMW5rblppRGVHQ0RPM0c3NzZGbkVWMVcycjJPanBXaS0taVRmR1g5TzZlQ2F6MlFn?oc=5",
-      "source": "G4Media",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T17:15:42.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Maia Sandu: Mir maachen hei zu Lëtzebuerg Verhandlungen op iwwer zwee weider Kapitelen iwwer de Bäitrëtt vu Moldawien an d'EU: \"Marché interne\" an \"Kompetitivitéit an inklusiv Wuesstem\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "Maia Sandu: We are opening in Luxembourg, negotiations on two more groups of chapters regarding Moldova's accession to the EU: \"Internal market\" and \"Competitiveness and inclusive growth\"",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Maia Sandu : Nous ouvrons à Luxembourg les négociations sur deux autres groupes de chapitres concernant l'adhésion de la Moldavie à l'UE : « Marché intérieur » et « Compétitivité et croissance inclusive ».",
-          "summary": ""
-        },
-        "de": {
-          "title": "Maia Sandu: Wir eröffnen in Luxemburg Verhandlungen über zwei weitere Kapitelgruppen zum EU-Beitritt Moldawiens: „Binnenmarkt“ und „Wettbewerbsfähigkeit und integratives Wachstum“",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d740039661d04081f0d50a694cdefd8899a4b38e",
-      "title": "Luxembourg-Italy Innovation Forum: IA e cybersecurity nella 1ª edizione promossa dalla CCIL",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUFY1d0xuTG9oRmVCZk83MnBqZ3h0eFdaZUdzNzNZMEtTZEw0T2ZpdWlXaHM4b3lMVms0MjloYlF2b2dZSjJDaURDX1JwS3hjRDc4S2RMZTUtQnhTNHhOdXJ6TDBtdFpPRWliM3pkZWRaQ2JUWUt6RXZxWXBlcWhRcU8yR2dZdUltbXdGTUYtVVVRTWxmUnE0UGx1TDVTUUlIckZ3MUZIbEdza2hoQ1BMN1ZUelAyNkFmQU1fbW5LdmNxbzBuVVFR?oc=5",
-      "source": "Aise.it - Agenzia Internazionale Stampa Estero",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-13T17:07:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "tech"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg-Italy Innovation Forum: AI an Cybersecurity an der 1. Editioun gefördert vum CCIL",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg-Italy Innovation Forum: AI and cybersecurity in the 1st edition promoted by the CCIL",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Forum Innovation Luxembourg-Italie : IA et cybersécurité dans la 1ère édition promue par la CCIL",
-          "summary": ""
-        },
-        "de": {
-          "title": "Innovationsforum Luxemburg-Italien: KI und Cybersicherheit in der 1. Ausgabe, gefördert vom CCIL",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1459f6b29b93c000984aac0892edf8f894f97025",
-      "title": "🇪🇺La Luxemburg, cele 27 de state membre UE, au decis unanim să deschidă negocierile cu țara noastră pe încă două clustere:\n\n🔹Piața internă\n🔹Competitivitate ",
-      "url": "https://www.tiktok.com/@spatarimarcel/video/7696197311147347220",
-      "source": "@spatarimarcel",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-10-13T16:56:20.000Z",
-      "summary": "🇪🇺La Luxemburg, cele 27 de state membre UE, au decis unanim să deschidă negocierile cu țara noastră pe încă două clustere:\n\n🔹Piața internă\n🔹Competitivitate și creștere incluzivă.\n\nAsta înseamnă că începem să negociem regulile prin care economia Republicii Moldova se va integra în piața unică europeană, cu peste 450 de milioane de consumatori.\n\nÎnseamnă noi oportunități pentru întreprinderile noastre, pentru investiții, pentru recunoașterea calificărilor profesionale și pentru libera circulație a lucrătorilor, bunurilor, serviciilor și capitalurilor.\n\nIntegrarea europeană este prioritatea pentru care muncim astăzi, împreună cu sute de funcționari din zeci de instituții, pentru ca într-o zi toți cetățenii Republicii Moldova să fie cetățeni europeni.\n\nMoldova merge înainte. Europa e tot mai aproape!",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o8ZOiinKAsVn5AWBIraiEdYsEA2AAynDYAvBq~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/osHgFeYxAlKEmqcqRnSCBmtrrEI8EAFOADAzfD.image?dr=9634&x-expires=1792130400&x-signature=U2jcO8gpj8ZF0x53uT2UtxVPxlw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "🇪🇺In Luxembourg, the 27 EU member states unanimously decided to open negotiations with our country on two more clusters:",
-          "summary": "🔹The internal market\n🔹Competitiveness\n\n🇪🇺In Luxembourg, the 27 EU member states unanimously decided to open negotiations with our country on two more clusters:\n\n🔹The internal market\n🔹Competitiveness and inclusive growth.\n\nThat means we start negotiating"
-        },
-        "lb": {
-          "title": "🇪🇺 Zu Lëtzebuerg hunn déi 27 EU-Memberlänner eestëmmeg decidéiert, Verhandlunge mat eisem Land iwwer zwee weider Cluster opzemaachen:",
-          "summary": "🔹Den Bannemaart\n🔹Kompetitivitéit\n\n🇪🇺 Zu Lëtzebuerg hunn déi 27 EU-Memberlänner eestëmmeg decidéiert, Verhandlunge mat eisem Land iwwer zwee weider Cluster opzemaachen:\n\n🔹Den Bannemaart\n🔹Kompetitivitéit an inklusiv Wuesstem.\n\nDat heescht, mir fänken un ze verhandelen"
-        },
-        "fr": {
-          "title": "🇪🇺Au Luxembourg, les 27 États membres de l'UE ont décidé à l'unanimité d'ouvrir des négociations avec notre pays sur deux autres clusters :",
-          "summary": "🔹Le marché intérieur\n🔹Compétitivité\n\n🇪🇺Au Luxembourg, les 27 États membres de l'UE ont décidé à l'unanimité d'ouvrir des négociations avec notre pays sur deux autres clusters :\n\n🔹Le marché intérieur\n🔹Compétitivité et croissance inclusive.\n\nCela signifie que nous commençons à négocier"
-        }
-      }
-    },
-    {
-      "id": "147edb5554e65fbbce260966cd143a4ede9ceff2",
-      "title": "Luxembourg's excuse for de-listing Russian oligarch Mikhail Fridman fails to convince",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzN3ZFJWUnpBYTJjWHRsSC1VT1J2dU1BbDNPa0IwbmxnMmJYSWk3RUZuNl9ZSEdhbDZWaUZJN0t1ZlY3VzRCR2wtWkVlbGQzZS1wM0pXY09oSElpYUtPb0hOZ3ZsY2FpaU1JN1VvajN4TzkzWjAwZlhBWmQ5ZHBTRlRUM05RcWdkYXZ2TzRJNXBkUUZRSmNLQndfWmVENlpnUFVOUlBQbnQwajVJWEFaX1pTRQ?oc=5",
-      "source": "The Kyiv Independent",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-13T16:28:39.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'Lëtzebuerger Excuse fir de russeschen Oligarch Mikhail Fridman ofzeschléissen, iwwerzeegt net",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburgs Entschuldigung für die Streichung des russischen Oligarchen Michail Fridman von der Liste kann nicht überzeugen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'excuse du Luxembourg pour radier l'oligarque russe Mikhaïl Fridman ne parvient pas à convaincre",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2e7448f89c7bbe00cced6aaced4421c66b6853ba",
-      "title": "Sandu le mulțumește celor care pregătesc Moldova de aderarea la UE, înainte de reuniunea comisiei interguvernamentale de la Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZkdxd0NldjVJUHZCZ0JsSEUtOUN2dk9PMlFpYks4RThoRFdxTWlNcU1mVmZLV21ERWF6amFiaG9hTGl5S1JpZFZLd3dUVjhtVkJPd2stWWJBUXExdXJacDhFNFBpbDNMMFRLTXd3OHdwNG9VU3BpOGU3dXNCQWZsY3ZEQS1BXzZFTTZwYUtjbmFqTEdxMll1eUpSbjhYQUJ2Q2dGWFpRR1NNSGhqdmZ6QmtLcXRRUDhtSmhCSkhpLVhGSGlvUTIwWGJhU1J4NUxDSUtadjBNVUVxTzFUOG9QRmllUTFuNEtFUUc2MG5TNmRROFhCU1l6eDFHWjF4SWhDRGI4eFRzUQ?oc=5",
-      "source": "newsmaker.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T16:14:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Sandu dankt vor der Sitzung der zwischenstaatlichen Kommission in Luxemburg denjenigen, die Moldawien auf den EU-Beitritt vorbereiten",
-          "summary": ""
-        },
-        "en": {
-          "title": "Sandu thanks those who are preparing Moldova for EU accession, before the meeting of the intergovernmental commission in Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Sandu seet deene Merci, déi Moldawien op EU-Bäitrëtt virbereeden, virun der Sëtzung vun der Regierungskommissioun zu Lëtzebuerg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Sandu remercie ceux qui préparent la Moldavie à l'adhésion à l'UE, avant la réunion de la commission intergouvernementale à Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "31b99e18103f1f70108459299e0fea4d367829a0",
-      "title": "Albania closed Chapter 20/ Rama in Luxembourg: Decisive step, the road to the EU remains long",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGw1Y254Y2hkTDNfbWVROHlTdjFCaXJ3Q3NlVkpSOUlYYU9ZaHhwUEhjZUs3SUMwc1dDQVRIQ2pMS3FRcHNjM25MNW5EY3RlZmlhRkZ1ajZiQnhBOWZ1b3hqZFU2YmM5bU9KOTZQNjVkWWI3bmEzcVhDeDAwSk4xOFFoUFJLZ2JURlpDb1IzSnBJMVd5blVVUDJzQXFLeEl2LWlqOEVNZ2NoeDBWQlNfdERCWXZKZw?oc=5",
-      "source": "www.cna.al",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-13T16:10:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Albanien schléisst Kapitel 20/ Rama zu Lëtzebuerg: Entscheedende Schrëtt, de Wee an d'EU bleift laang",
-          "summary": ""
-        },
-        "de": {
-          "title": "Albanien hat Kapitel 20/Rama in Luxemburg abgeschlossen: Entscheidender Schritt, der Weg in die EU bleibt lang",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'Albanie a clôturé le chapitre 20/Rama au Luxembourg : étape décisive, le chemin vers l'UE reste long",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "694acf1a70655e0b437d92051dafaa5142cca341",
-      "title": "Rama Meets Luxembourg Prime Minister: Direct Flights to Albania Starting March 2027",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRDFieV9LaDhOdS1ZbTl1ZjMxRmZfQk1YcmNLaGthaC1oQkZqVjBZWFMyZzJEUE9vX0hDQ0NZeXFjR2RIaGdNbmgyMDFkX0NJcER4SkpmMnZtRGx2MHRpV3cyUGRFdzVKRUpJUVp1M2J4VUNTMlFvSlhYRWNYQ2FUUXVmaTRTSk0zMWpCZ2FjNXVFZzcydTVaSzAwZ3g4aTUyUEsxR3ZKSUVFdw?oc=5",
-      "source": "Euronews Albania",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-13T16:01:47.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "politics",
-        "culture",
-        "travel"
-      ],
-      "translations": {
-        "de": {
-          "title": "Rama trifft luxemburgischen Premierminister: Direktflüge nach Albanien ab März 2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Rama trefft de Lëtzebuerger Premier Minister: Direktflich op Albanien ab Mäerz 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Rama rencontre le Premier ministre luxembourgeois : vols directs vers l'Albanie à partir de mars 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5daa37db02d84c7c5912eb1394e57b764f78f62c",
-      "title": "A must visit 😍 \n#luxembourg #luxembourgtiktok #europe #eurosummer #foryou fyp, punjabi, contentcreator ",
-      "url": "https://www.tiktok.com/@rhythmslifebelike/video/7696182870586461448",
-      "source": "@rhythmslifebelike",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T16:00:15.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oEfRQEWPUvBNfVjOTmBFQGHVgJFZBqAlz5DcVE~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/oEwAkiyA1AA0VSG6ABBoDnXZiArEOIfIYCnTO9.image?dr=9634&x-expires=1792130400&x-signature=nvKuJbQX7b1rywXIjj2MItXAfKw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "A must visit 😍",
-          "summary": ""
-        },
-        "en": {
-          "title": "A must visit 😍",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ein Muss 😍",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3f3b75847b6877ac557154237267895a369316ec",
-      "title": "German communists #marxism #communism #historyedit #rosaluxemburg #karlliebknecht #kpd",
-      "url": "https://www.tiktok.com/@ken_shevik/video/7695930697587903766",
-      "source": "@ken_shevik",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oUWCizAG0FWYACkAUq1kVegA2EInfFGDQa20hZ~tplv-tiktokx-origin.image?dr=9636&x-expires=1792098000&x-signature=clFRSNXJW%2F3vmjtaX815pqle9QA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "German communists #marxism #communism #historyedit #rosaluxemburg #karlliebknecht #kpd",
-          "summary": ""
-        },
-        "lb": {
-          "title": "German communists #marxism #communism #historyedit #rosaluxemburg #karlliebknecht #kpd",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Communistes allemands #marxisme #communisme #historyedit #rosaluxemburg #karlliebknecht #kpd",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "5235ad69b340d04d5474fc3ba5389a55baa54e8e",
-      "title": "Συμμετοχή Υφυπουργού Εξωτερικών, Τάσου Χατζηβασιλείου, στο Συμβούλιο Γενικών Υποθέσεων (Λουξεμβούργο, 12-13.10.2026) - Hellenic Republic - Ministry of Foreign Affairs",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmttNDlzMENCS0xCWnkwZ3FBQ0IycWgxR3VpRHFXMEhRLWpYaDlwVlEzb3MwVlJGVTdIdGJsRDFQZ1RzdDFWTUoyTEZadjM3bGpsejVibmotdlR1TjRGRnlBMUpZcUh1MjhCT0JkXzBPWTV6QVNRXy15NFNRdUROZ08ycnJoZllQYXc1aVlPZkNGY0dXNU9SUVNkekJCWFZfNFo0eGt1aGFtNWlpcjA5Vk1EMWtTX2kzSmRNREtUODY1Z3dBX3lSZm5WTUtpX2M?oc=5",
-      "source": "Hellenic Republic - Ministry of Foreign Affairs",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-13T15:58:35.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Participatioun vum Vizeminister vun Aussepolitik, Tassos Hatzivasiliou, am Conseil général (Lëtzebuerg, 12-13.10.2026) - Hellenesch Republik - Ausseministère",
-          "summary": ""
-        },
-        "en": {
-          "title": "Participation of the Deputy Minister of Foreign Affairs, Tassos Hatzivasiliou, in the General Affairs Council (Luxembourg, 12-13.10.2026) - Hellenic Republic - Ministry of Foreign Affairs",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Participation du vice-ministre des Affaires étrangères, Tassos Hatzivasiliou, au Conseil Affaires générales (Luxembourg, 12-13.10.2026) - République hellénique - Ministère des Affaires étrangères",
-          "summary": ""
-        },
-        "de": {
-          "title": "Teilnahme des stellvertretenden Außenministers Tassos Hatzivasiliou am Rat für Allgemeine Angelegenheiten (Luxemburg, 12.-13.10.2026) – Hellenische Republik – Außenministerium",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c98600c691d5e77458fd30f6ad01164ed6f47fc2",
-      "title": "Les pauvres étaient bloqués dans au parc du Luxembourg #revolution #lycee #17octobre #etudiants ",
-      "url": "https://www.tiktok.com/@elias_vgle/video/7696180605003861281",
-      "source": "@elias_vgle",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T15:51:28.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/oUUDuNqQOYdD1BRUQNm4lfErFEARfTzuNGtBwQ~tplv-tiktokx-origin.image?dr=9636&x-expires=1792130400&x-signature=yIbm74OMS88yJ%2BfOk15KtYyYF14%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "The poor were stuck in Luxembourg Park #revolution #lycee #October17 #students",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Déi Aarm stoungen am Lëtzebuerger Park #Revolutioun #lycee #17.Oktober #Studenten",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die Armen saßen im Luxembourg Park fest #Revolution #Lycee #Oktober17 #Studenten",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "973267443a27fb56fde3a6261e06da31d2555041",
-      "title": "Élargissement de l’Union européenne: pourquoi Bruxelles ralentit et accélère à la fois",
-      "url": "https://www.rfi.fr/fr/europe/20261013-%C3%A9largissement-de-l-union-europ%C3%A9enne-pourquoi-bruxelles-ralentit-et-acc%C3%A9l%C3%A8re-%C3%A0-la-fois",
-      "source": "RFI (French)",
-      "sourceCountry": "FR",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T15:32:06.000Z",
-      "summary": "Pour leur deuxième jour de réunion à Luxembourg, les ministres européens des Affaires étrangères rencontrent ce 13 octobre leurs homologues d’Albanie, Moldavie et Ukraine après le Monténégro la veille. Un « super mardi » de l’élargissement, selon la présidence irlandaise du Conseil des ministres, a…",
-      "imageUrl": "https://s.rfi.fr/media/display/6df3a8e0-122b-11ea-9824-005056bf7c53/w:1024/p:16x9/2019-04-30t121645z_473019649_rc1fbdac5d00_rtrmadp_3_eu-election_0.jpg",
-      "topics": [
-        "politics",
-        "eu"
-      ],
-      "translations": {
-        "en": {
-          "title": "Enlargement of the European Union: why Brussels is both slowing down and speeding up",
-          "summary": "For their second day of meeting in Luxembourg, European foreign ministers will meet their counterparts from Albania, Moldova and Ukraine on October 13, after Montenegro the day before. A “super Tuesday”"
-        },
-        "lb": {
-          "title": "D'Erweiderung vun der Europäescher Unioun: firwat Bréissel souwuel verlangsamt wéi och beschleunegt",
-          "summary": "Fir hiren zweeten Dag vun der Versammlung zu Lëtzebuerg treffen europäesch Ausseministeren den 13. Oktober, nom Montenegro den Dag virdrun, hir Kollegen aus Albanien, Moldawien an der Ukraine. E \"Super Dënschdeg\""
-        },
-        "de": {
-          "title": "Erweiterung der Europäischen Union: Warum Brüssel sowohl langsamer als auch schneller wird",
-          "summary": "An ihrem zweiten Tagungstag in Luxemburg werden die europäischen Außenminister am 13. Oktober ihre Amtskollegen aus Albanien, Moldawien und der Ukraine treffen, nach Montenegro am Vortag. Ein „Super-Dienstag“"
-        }
-      }
-    },
-    {
-      "id": "02df31ad107a56599a4f1e7be49810bbe762e790",
-      "title": "Mesaj ferm de la Luxemburg: Maia Sandu confirmă deschiderea capitolelor privind Piața Internă și Competitivitatea",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblBKTi1PS0ptaXhQTGVYa1JhMW43UkF4M215Szg3NTNqQ05XT00tdURObFJ1U0RPaHh5QnVOUTEzQUpIbzkySTlTcVZZYlkyX01VZUc5bkgzc1dRcnhTUlc2UGJoZnBRU3g2Z2tPTjBabkRnd1hUd0wzSnBiSnZ4VmM2VGJPMGdyNXBCVU4wdFJMLU12NUVXSVN4VXlpbWpLbFRoR3AxN0s2ek9ZWmtnZVhCWVd3QnhpSXo5Rmx3ZGc4c044bjk1Z3hLT3Y1TjRnSkVxUVRDZw?oc=5",
-      "source": "Independent",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T15:30:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Feste Message vu Lëtzebuerg: D'Maia Sandu bestätegt d'Ouverture vun de Kapitelen Bannemaart a Kompetitivitéit",
-          "summary": ""
-        },
-        "en": {
-          "title": "Firm message from Luxembourg: Maia Sandu confirms the opening of the Internal Market and Competitiveness chapters",
-          "summary": ""
-        },
-        "de": {
-          "title": "Bestimmte Botschaft aus Luxemburg: Maia Sandu bestätigt die Eröffnung der Kapitel Binnenmarkt und Wettbewerbsfähigkeit",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Message ferme du Luxembourg : Maia Sandu confirme l'ouverture des chapitres Marché intérieur et Compétitivité",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "bcc47e661b5b781d39bb7c440ec9e42c14f07e13",
-      "title": "R. Moldova deschide, la Luxemburg, negocierile pe încă două grupuri de capitole. Maia Sandu: „Suntem tot mai aproape de aderarea la UE”",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOREYyRWsxZnV6c25ta3BzMlNTd0czM2pBbmdZVVFrOWN3UVcyT281T0RVd05GcWxfelZ4eXM3NGJOazEtNF9VTGhEQ0ZNSTY4c1JTeEJNd2I2WDZiZU5TQTZDU3ZTRjlKOU5kVVp0Z1VwTzBZN3Zrbi1YOTRoMGNYaVRHR1lSOGtoXzU4QzhHU001aFdzbG5fekFwcGtCMXJpSFl1RHBOMDFWcXlfb09kLXVsVzNZWlZBU0ppRzMxcFdmVHowZXpuZ0pSekZTTGJ5ak1fTDZVQnpRdUlOeEZfc3I3SDhSbHJzZy1lQlJFNA?oc=5",
-      "source": "Moldova 1",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T15:07:49.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die Republik Moldau eröffnet in Luxemburg die Verhandlungen über zwei weitere Kapitelgruppen. Maia Sandu: „Wir kommen dem EU-Beitritt näher“",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Republik Moldawien mécht zu Lëtzebuerg d'Verhandlungen iwwer zwou weider Kapitelen op. Maia Sandu: \"Mir komme méi no un der EU bäizekommen\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Republic of Moldova opens, in Luxembourg, the negotiations on two more groups of chapters. Maia Sandu: \"We are getting closer to joining the EU\"",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La République de Moldavie ouvre, au Luxembourg, les négociations sur deux autres groupes de chapitres. Maia Sandu : « Nous nous rapprochons de l'adhésion à l'UE »",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b80710713cb79d556281ffa2da288c3d17793c81",
-      "title": "ΥΦΥΠΕΞ Χατζηβασιλείου στο Λουξεμβούργο: Θα ήταν λάθος η Ε.Ε. να χαμηλώσει τον πήχη των προσδοκιών - Για μας προτεραιότητα παραμένει ένας φιλόδοξος ευρωπαϊκός προϋπολογισμός",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPRkQ3eG9DRWp1WlJhM3dVem9UcTFFRjRtcUN6TXc3aGVxRG0wbVZWMUJxclNUNGN1UjNVb05TdDRXd0xUbFZRelNKeFFKSGhjMnZRcjlaNF9HVXRwZElGRlJsNEtUeVg2RndfZkxsVXhlNjZqSEk5QnNQX2VDcndBR285WkJXSW80cVdkSlRpdlhQZmRqcE5SQjhvdjZxZUhma2ZjOGFYVllGOTRuT09NcS02SXNseTdwakVHaWsydVN3NjNQSzlNMXFYSmxHWmt0X3V6RHRDaDdDejlnY2xnNnFPMzd0SjVEOVpISnR3QUx1aTZTQ2Zzc1VLaERGNkpjZ1ZPQzQ3MV9oTzJSQ1EtU1p1YTNOYVlWckNTWnAxYUhReDMxWjd6VmstdWV0TUxqaEhqODFR?oc=5",
-      "source": "serrespost",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-13T15:01:18.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Ënnersekretär vum Ausseminister Hatzivasiliou zu Lëtzebuerg: Et wier e Feeler fir d'E.U. d'Erwaardungsbar ze reduzéieren - Fir eis bleift en ambitiéisen europäesche Budget eng Prioritéit",
-          "summary": ""
-        },
-        "en": {
-          "title": "Undersecretary of Foreign Affairs Hatzivasiliou in Luxembourg: It would be a mistake for the E.U. to lower the bar of expectations - For us, an ambitious European budget remains a priority",
-          "summary": ""
-        },
-        "de": {
-          "title": "Unterstaatssekretärin für Auswärtige Angelegenheiten Hatzivasiliou in Luxemburg: Es wäre ein Fehler für die EU. die Erwartungen zu senken – Für uns bleibt ein ehrgeiziger europäischer Haushalt eine Priorität",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Hatzivasiliou, sous-secrétaire aux Affaires étrangères au Luxembourg : Ce serait une erreur de la part de l'UE. baisser la barre des attentes - Pour nous, un budget européen ambitieux reste une priorité",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7e2b6ee9e2842d3e0cdb6b8de42d2a75d131e86a",
-      "title": "La Nazionale Italiana Cuochi a Parma si prepara per la \"coppa del mondo\" in Lussemburgo - Foto",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ0NrWkhnSl9lUzAxOWx2VmJBOUt5TXB3cjZkQjAxZWwtM2RJbG45N0NValAzdDR1bW85OFpMUEtWNkhvUHIteFFzNlBkVnJBZUZMVGNnNm9CNm5aNmlUdi1iRTNNa25LMzBsU2dtTjlxcllXcC1jNXlJTURhV3NrSGpMb0g3ZG81cEpHRWtLS1I5SjF1ZVo0ZFI3ZlRiQWVEbjBxN2tsWFlwc0NiYmx5VWJpOTJDUm8xTld4ZEF6R2g1YW5XTGRhazE0UTNobkg2QktoMFZvZUdKdWRJNURTMDloREVMalItN3UxZg?oc=5",
-      "source": "Gazzetta di Parma",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-13T14:48:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "D'italienesch Nationalchef-Equipe zu Parma preparéiert sech op d'Weltmeeschterschaft zu Lëtzebuerg - Fotoen",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Italian National Chefs team in Parma prepares for the \"world cup\" in Luxembourg - Photos",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'équipe des chefs nationaux italiens de Parme se prépare pour la \"coupe du monde\" au Luxembourg - Photos",
-          "summary": ""
-        },
-        "de": {
-          "title": "Das italienische Nationalkochteam bereitet sich in Parma auf die „Weltmeisterschaft“ in Luxemburg vor – Fotos",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6633948d8aaafe117d77554fe61373380cd69e70",
-      "title": "Despre ce sunt clusterele II și III, care urmează a fi deschise astăzi la Luxemburg?",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTS0yU3E1OXlaMVZlcUxwSnJhNllwRy14UXp6T2tZYWx6a3REdDlvd3dkZF9RdDQxN3ZIbkFocTFuNlpTQnZvS1RvanB0ZnpfLTF0WnhxbmlMVkhybU5xbXRndFdvY0ozbHRUWUk3NVo4SmpvSWRxTlhfWmxpMmdJQTRicEhDQldQcXZJRzlUMWRTTUpDYm92d1Njb2VwWUZzYUcyeEtLRTJmQ3dX?oc=5",
-      "source": "Ziarul de Gardă",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T14:18:35.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Ëm wat geet et ëm de Cluster II an III, déi haut zu Lëtzebuerg opgemaach ginn?",
-          "summary": ""
-        },
-        "en": {
-          "title": "What are clusters II and III, to be opened today in Luxembourg, all about?",
-          "summary": ""
-        },
-        "de": {
-          "title": "Worum geht es in den Clustern II und III, die heute in Luxemburg eröffnet werden?",
-          "summary": ""
-        },
-        "fr": {
-          "title": "De quoi s’agit-il des clusters II et III qui seront ouverts aujourd’hui au Luxembourg ?",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "38134260ad3ba1ed9281e4d1e8c2a95ababe0c83",
-      "title": "New Eurocontrol EASA U-space implementation course validated at the Luxembourg training centre",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdklWMmV0UmZ6OHBOaVRCY3B5RFlJdkotd2N5Q3FINzVKandBMmZjNEpZR2V3QUhCZkIxYWhCbUhhZklKeVpCZFNBMlFzNUFMa0xEcjkzLURVOVZ4NGRCRVQ4U2R4VjU0eGNVbEVrV1JVSDkyamFhaThPU3A3dy1aSEdNSmxPVU9kVEJCUE1vaTZVRnBiZGV3OVVFVVVvMDhSUDR4OWloYXFacHhYQk5BTUZUa1hSTjJqUndqRTF6Nmp3dFh6V0tKNGdtaG1hZlE0QVR6MjNBX3liVVU?oc=5",
-      "source": "Unmanned airspace",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-13T14:09:14.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "tech"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Neien Eurocontrol EASA U-Space Implementéierungscours validéiert am Lëtzebuerger Trainingszenter",
-          "summary": ""
-        },
-        "de": {
-          "title": "Neuer U-Space-Implementierungskurs von Eurocontrol EASA im Luxemburger Schulungszentrum validiert",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Nouveau cours d'implémentation Eurocontrol EASA U-space validé au centre de formation de Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "541c86476fc6726f5d1b1e0cf8ef63094a929364",
-      "title": "Vicepremier moldovean, la Luxemburg: O toamnă cu roade. Într-o singură zi deschidem 17 capitole de negocieri cu UE, un progres important în procesul de aderare",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPejM0MFRxNVFkQjdKbmFnMG90VmNoc3pDd3laWm9mcTJEMWNqOVZIYy1wdHp1WUJiQTJ0YTBMcGYtd2xudEJvcTI4SU1JeEtCWFhPalR0UElleE52ZFNsUzlKRHpQWHFRcXl5ZFp5aEplcUVFcTFRWDNJZEIzd3lNOHpXeG44V2xpbjRKbEladkwwdkh5aElZeEhoRkw5X3JUVlNNT0xiaWNUaUZBMnh1d2s4TkdfTk1WMW1vbHRRN0k5Ql9KZ0pHYU5TSGlPYjY4WTB5QUV4VXZnc1pHZ1EwMEl0clItTk1aT3RGMXhQRXMwQWVrYUJBNDR3cnNvWGtzVnlGMEZDUHV1YXVtckplNTJiYWppTk1TazI0b3R5RjFScUxvX0lLMVRMSElRTUd6RUlCNFVfR2F2Z0swMVE4TGNlZlpNRnM?oc=5",
-      "source": "RFI",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T14:02:58.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Moldawesche Vizepremier, zu Lëtzebuerg: E fruchtbare Hierscht. An engem eenzegen Dag opmaachen mir 17 Kapitele vu Verhandlunge mat der EU, e wichtege Fortschrëtt am Bäitrëttsprozess",
-          "summary": ""
-        },
-        "de": {
-          "title": "Moldauischer Vizepremierminister in Luxemburg: Ein fruchtbarer Herbst. An einem einzigen Tag eröffnen wir 17 Kapitel der Verhandlungen mit der EU, ein wichtiger Fortschritt im Beitrittsprozess",
-          "summary": ""
-        },
-        "en": {
-          "title": "Moldovan Deputy Prime Minister, in Luxembourg: A fruitful autumn. In a single day we open 17 chapters of negotiations with the EU, an important progress in the accession process",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Vice-Premier ministre moldave, à Luxembourg : Un automne fructueux. En une seule journée, nous ouvrons 17 chapitres de négociations avec l’UE, un progrès important dans le processus d’adhésion",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9cc2eb81d929073884bf6876d4b9ea6b210c811a",
-      "title": "An mengen Drafts fonnt an ze schued net ze posten so here we are 👀🤠 \n#luxembourg #luxembourg🇱🇺 ",
-      "url": "https://www.tiktok.com/@mag_s_lifestyle/video/7696144400153382166",
-      "source": "@mag_s_lifestyle",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T13:31:06.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oEE811REIFAfpIvOAqTgA87okBF5eMzDiCZkZq~tplv-tiktokx-origin.image?dr=10395&x-expires=1792170000&x-signature=lbi9%2FJ4cNjAPsODS7PGJFAH%2BkD8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "An mengen Drafts fonnt an ze schued net ze posten so here we are 👀🤠",
-          "summary": ""
-        },
-        "en": {
-          "title": "Found in my drafts and too bad not to post so here we are 👀🤠",
-          "summary": ""
-        },
-        "de": {
-          "title": "In meinen Entwürfen gefunden und schade, dass wir es nicht posten, also hier sind wir 👀🤠",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3065d4e6cadca2bbcb4c61b38a833a0b0a2cbdc1",
-      "title": "В Таганроге отремонтировали 2260 кв. метров дороги на ул. Р. Люксембург",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83UWtNMk9FcXJ5c0h0bkx6OGhHb3lJczkzczZTc3YtVmxFLWktbFE5dF9FNmNjVWUtUFRzMXo2MVpybkdVa091UmJIY3UxU2N1ZG5ISFk1ZGlxa25tYURKYnpTbUtpRkZMSmc?oc=5",
-      "source": "газета Таганрогская правда",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-13T13:30:32.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "An Taganrog, 2260 sq. renovéiert goufen. Meter Strooss op d'Strooss. R. Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "In Taganrog, 2260 qm. wurden renoviert. Meter Straße bis zur Straße. R. Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "In Taganrog, 2260 sq. m. were renovated. meters of road to the street. R. Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "A Taganrog, 2260 m². ont été rénovés. mètres de route jusqu'à la rue. R. Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c4c4b9701fde71e04428addae2abbcef9308d9e3",
-      "title": "E25/A26 : les voies vers le Luxembourg libérées ce week-end, celles vers Liège mardi",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ25RU3RvY2RyZGg2YlQxd1BLVUZ0Wm55c2FERXl2Q3JiNWp0OVdmZlI5bFVUYk1VT3NWbVJSdUJOTmk0dTlPOG5RT2IxemtYclR2b2JlWTRhWHZwWURLS2hQWE5yeXJkd091SGZiYTNtQU1KZDFLYUxKUlNIcUN3RWFEeXpFUmtzR1N0VjNVYVdrMDhibzZWR09tQ21XMWYxNHVuN3pvMEhFOTFlblA4cUhwY3ZYckpPSDMzd1ViRWNRbGdQa3FkYzJpSlVMb0RCWDRLM1Z0eGE4T3pHWDBNZUhjeW5WMmwwNmc?oc=5",
-      "source": "DHnet",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T13:20:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "E25/A26: the lanes towards Luxembourg freed this weekend, those towards Liège on Tuesday",
-          "summary": ""
-        },
-        "de": {
-          "title": "E25/A26: Die Fahrspuren in Richtung Luxemburg werden an diesem Wochenende freigegeben, jene in Richtung Lüttich am Dienstag",
-          "summary": ""
-        },
-        "lb": {
-          "title": "E25/A26: D'Spure a Richtung Lëtzebuerg goufen dëse Weekend fräigelooss, déi Richtung Léck en Dënschdeg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0394277babd04b3e4ec6af33c465c65bb7fbd322",
-      "title": "La Nazionale italiana cuochi si prepara alla coppa del mondo in Lussemburgo",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY0JsTWZEeWtHZEhxaUU3RUhXSDRGZ3g4bkE4UlA5aWppVkJDcUtaUjJaSkZPRkMzUUpuT0s3bHpPWndWemdSaUc1S2t5RWxyTDhoRDZzUkJONjNBU2s1THctUUx6MS1lSXhORDZyUGljU3VKYWYtY2JhbDNDZXVQNGh2UEo5UFczOE51S1RabXF3eUVfTWNjS2xKNDhKNW55TDNOa3A3MDBRS1ZPQmE3em91STVfWnJzQ3R0V2lOQUMwVGZnUWZ4Z1UyN3lDZ0laU0JuNUc5M0ROcXVtVFAydURvWEFFZ2U0UkgwY3FpV25qYXlOMFFuaVFn0gH_AUFVX3lxTE10NWNzeXktUDVtN195OVBqVmZHNmdDbEtYZGJjdVljdjlFY1M1dWp1d2l0S2ZwdURQWEFDS1F0cHJqemZJRmRRZVZ2b1YzY3BSNzBRNHVNTE4yQ1Y5T25kcDFxd21xQkw4V0Y1SERQWGwxYVBvN1J3N3B2dDQyWTROVEQyeE9BS0h4MUlSUlhnaUw1VDVpbnduZXlZTk1NYXllRG5zVFNMQXpzU0NmX3RaaVJNMkdUNkVBWGU1WEk1RC02OG9OLVZ2UGZ0alI4NW5SZHV3ejZDemt4SWZKaTVHMExURjZPUlE0b0pxSzNHUjd0Y19lY0w0Yl9VdndFOA?oc=5",
-      "source": "ANSA",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-13T12:51:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Déi italienesch Chef-Nationalequipe preparéiert sech op d'Weltmeeschterschaft zu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "The Italian national chef team is preparing for the world cup in Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die italienische Kochnationalmannschaft bereitet sich auf die Weltmeisterschaft in Luxemburg vor",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'équipe nationale italienne de chefs se prépare pour la coupe du monde au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f8cf826249971b234c49943d13f07876c935c756",
-      "title": "Exploring the beautiful city of Luxembourg 🇱🇺✨ Stunning views, charming streets, historic architecture, and unforgettable European memories! 🌍❤️ Every corner",
-      "url": "https://www.tiktok.com/@shahzaibmalik007/video/7696131953619242260",
-      "source": "@shahzaibmalik007",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T12:42:41.000Z",
-      "summary": "Exploring the beautiful city of Luxembourg 🇱🇺✨ Stunning views, charming streets, historic architecture, and unforgettable European memories! 🌍❤️ Every corner has a story, and every moment is worth remembering. 📸✈️\n#Luxembourg #LuxembourgCity #EuropeTravel #TravelDiaries  \n#CapCut ",
-      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ociEqzQfGFPAABUPdq4FRAgxbEQwfBIDQOJ0g9~tplv-tiktokx-origin.image?dr=14575&x-expires=1792080000&x-signature=sQywDG%2Bk5uqejvOhcRNJT4LUcig%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Entdeckt déi schéin Stad Lëtzebuerg 🇱🇺✨ Erstaunlech Vue, charmante Stroossen, historesch Architektur an onvergiesslech europäesch Erënnerungen! 🌍❤️ All Eck",
-          "summary": "Entdeckt déi schéin Stad Lëtzebuerg 🇱🇺✨ Erstaunlech Vue, charmante Stroossen, historesch Architektur an onvergiesslech europäesch Erënnerungen! 🌍❤️ All Eck huet eng Geschicht, an all Moment ass et derwäert ze erënneren. 📸✈️\n#L"
-        },
-        "en": {
-          "title": "Exploring the beautiful city of Luxembourg 🇱🇺✨ Stunning views, charming streets, historic architecture, and unforgettable European memories! 🌍❤️ Every corner",
-          "summary": "Exploring the beautiful city of Luxembourg 🇱🇺✨ Stunning views, charming streets, historic architecture, and unforgettable European memories! 🌍❤️ Every corner has a story, and every moment is worth remembering. 📸✈️\n#L"
-        },
-        "de": {
-          "title": "Erkunden Sie die wunderschöne Stadt Luxemburg 🇱🇺✨ Atemberaubende Ausblicke, charmante Straßen, historische Architektur und unvergessliche europäische Erinnerungen! 🌍❤️ An jeder Ecke",
-          "summary": "Erkunden Sie die wunderschöne Stadt Luxemburg 🇱🇺✨ Atemberaubende Ausblicke, charmante Straßen, historische Architektur und unvergessliche europäische Erinnerungen! 🌍❤️ Jede Ecke hat eine Geschichte und jeder Moment ist eine Erinnerung wert. 📸✈️\n#L"
-        }
-      }
-    },
-    {
-      "id": "efdc938f10ac46493bbdbc9135a40644d8b9726b",
-      "title": "definitely a shorter wait than in Paris!! 😋🫖🇱🇺 #luxembourg #laduree #tea ",
-      "url": "https://www.tiktok.com/@bellaholland161/video/7696131001717771533",
-      "source": "@bellaholland161",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T12:39:44.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast5-p-0068-tx/oURj1DlNA95IEBpqziSFEZfzEBLfFaBOrgDJEJ~tplv-tiktokx-origin.image?dr=10395&x-expires=1792191600&x-signature=juJ6ZK2RQTn1HAZzFM3qUqZ%2FfLA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "definitiv eine kürzere Wartezeit als in Paris!! 😋🫖🇱🇺 #luxemburg #laduree #tee",
-          "summary": ""
-        },
-        "en": {
-          "title": "definitely a shorter wait than in Paris!! 😋🫖🇱🇺 #luxembourg #laduree #tea",
-          "summary": ""
-        },
-        "lb": {
-          "title": "definitiv méi kuerz wait wéi zu Paräis!! 😋🫖🇱🇺 #luxembourg #laduree #tee",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "ce30e76321f5c328c90377b66177c612c6ffefe4",
-      "title": "Spritpreise: Tankrabatt trifft Preisdeckel - Warum man in Luxemburg anders tankt als in Deutschland",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM3JWVzNpOWxJTFRSX1VhS1dXOWJwc1d3WkZDMm5KQnZ4TWFUclhpZ3pfUFRCaHRfb3NtMDlVVnkyeVJ1bkd1cVpwalhhX0JDVWo3cXBXU0hZZ043VkticDBtTG5tQkZSM3ZZd1VNYUN1OW94eTlUZkRPMkdnYXBJN1Y5akI2RWZlYnA5cENpZDFGOV90UUpPNzFWMzdxSjZhWW5MOXZmWm1OWWdGY19OSmN2Q1I2NTRxYkNpdWhTUlBEem54ek4xMUNvc0ltUHdMdXdHcDFR?oc=5",
-      "source": "Saarbrücker Zeitung",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-13T12:33:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "en": {
-          "title": "Fuel prices: Fuel discount meets price cap - Why you fill up differently in Luxembourg than in Germany",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Prix ​​des carburants : remise sur les carburants et prix plafond - Pourquoi on fait le plein différemment au Luxembourg qu'en Allemagne",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Brennstoffpräisser: Brennstoffrabatt entsprécht Präiskapp - Firwat Dir zu Lëtzebuerg anescht fëllt wéi an Däitschland",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "516a63dc8305f92e7ccb16ce1da8714b0e4b1507",
-      "title": "Luxemburg | EU gibt nach Machtwechsel in Ungarn 4,2 Milliarden Euro frei",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMllwaGUwTEk5MmdrSDhwX085cWVlRVJabzcxNktLTmdtRzg0QlpyX0xxZHp6UzFkdGNGQXpfdG9kT085WkpOM3gwX1NvUXRjN1M4eDV6NnN4ZXJlODBWT0prSVNCdF82WkVyOXNVWWwxcUhjLUFJV0xVRWRic0NfMjVONEpEYUR2cVpaTFhzTGgxdUx4ZEZGRGhTcFJSVW9NV0VMVU56REJWMVprblVsZ1lQNW43QW9LQTRSLWo3RGRicW8tQmZRbUVCUkpiUQ?oc=5",
-      "source": "Radio Hochstift",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-13T12:22:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg | EU releases 4.2 billion euros after change of power in Hungary",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg | EU befreit 4,2 Milliarden Euro no Muechtwiessel an Ungarn",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg | L'UE débloque 4,2 milliards d'euros après le changement de pouvoir en Hongrie",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "0e83ad766e4e916bf78dd6a783b5a381b2c00247",
-      "title": "Două noi clustere de negociere cu UE se deschid astăzi la Luxemburg. Ce câștigă cetățenii și ce pericole amenință parcursul european al Republicii Moldova",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTDdoc1YxQlo4LXBvcEpFWEp4MnBNZmd3N25yRDhLN0NJU3VURnBSZDdyVnVjQjk3YkJQUEEtRmw1LWJuSjc5SGpmSmtXSU9lT3ZrSGZYem9JcURvWk9jelhwNVI5d0hMOXdONWJWN0wxRWU3dldLY3hiZUFadFM3c1RaVExOUk5RRWlyODVGbFNrbmFvOC1aQXFBZjUwTlZYbkRlcjJyTFZMT29YOHFFMFEzcDI3WUdEZ3BPRkM1T2hYY0p2Wnh0MFVDSWdoSjNsRGpqckRzTTl3ckFnV3pyZlF3WHpTUThMZ19XUVlUejFqY1RyNk1PVGVJZ0R6NTU1SzJoUm91QzlVSG9aRUE?oc=5",
-      "source": "Moldpres",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T12:17:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Zwee nei Verhandlungscluster mat der EU ginn haut zu Lëtzebuerg op. Wat d'Bierger gewannen a wéi eng Gefore bedrohen den europäesche Wee vun der Republik Moldawien",
-          "summary": ""
-        },
-        "en": {
-          "title": "Two new negotiating clusters with the EU are opening today in Luxembourg. What the citizens gain and what dangers threaten the European path of the Republic of Moldova",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Deux nouveaux groupes de négociations avec l'UE s'ouvrent aujourd'hui à Luxembourg. Ce que gagnent les citoyens et quels dangers menacent la voie européenne de la République de Moldavie",
-          "summary": ""
-        },
-        "de": {
-          "title": "Heute werden in Luxemburg zwei neue Verhandlungszentren mit der EU eröffnet. Was die Bürger gewinnen und welche Gefahren den europäischen Weg der Republik Moldau bedrohen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "93a4ce0238acc141a469977bc667d1a0b43bce5c",
-      "title": "VIDEO // Marta Kos, înaintea reuniunii de la Luxemburg: „Țările candidate își îndeplinesc angajamentele. Să ne pregătim pentru primirea noilor membri”",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HZUx5VnpEakdkblpqb2ZIUmlocDNWbzNRV1ZlOUFzMzFBeHVQRkt2WlVNUE5pOTdQQkpTR0QtLUNWV1JQZmtraDFGOTN3SUNLNEU4?oc=5",
-      "source": "Moldpres",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T12:01:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "VIDEO // Marta Kos, virun der Reunioun zu Lëtzebuerg: \"Kandidatenlänner erfëllen hir Verpflichtungen. Komm mir preparéieren nei Memberen ze begréissen\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "VIDEO // Marta Kos, before the meeting in Luxembourg: \"Candidate countries fulfill their commitments. Let's prepare to welcome new members\"",
-          "summary": ""
-        },
-        "fr": {
-          "title": "VIDÉO // Marta Kos, avant la réunion de Luxembourg : \"Les pays candidats respectent leurs engagements. Préparons-nous à accueillir de nouveaux membres\"",
-          "summary": ""
-        },
-        "de": {
-          "title": "VIDEO // Marta Kos, vor dem Treffen in Luxemburg: „Die Kandidatenländer erfüllen ihre Verpflichtungen. Bereiten wir uns auf die Aufnahme neuer Mitglieder vor.“",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "489317116a02987aabf3b07d8131252dd88ab196",
-      "title": "В'єтнам та Люксембург підписали Меморандум про взаєморозуміння, що сприятиме фінансовій співпраці та залученню міжнародних інвестицій.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVBnSm9mVzBfSVF2QU5ZZzBmYWhMUEdaMExTdU5GdnhMVjRwLTJrQWZnZXFlSGVERnFkczlIN0Q4Y1RSc3BwN2JXMjZENTJNdDNsM2lYVTFyLVo5YmhKNTNidHBaQ0xLdEl6STZjeEczN0RRX251WHNLOFh0RzBudUFYY3pTWjdfWC1lTlVFWFh5YWIxZ2puMW1yUlJWTXk3ZlhjcWhoSG5wTlRRMWw5RmRJcw?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-10-13T11:56:08.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Vietnam und Luxemburg haben ein Memorandum of Understanding unterzeichnet, das die finanzielle Zusammenarbeit und die Anziehung internationaler Investitionen fördern wird.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg hunn e Memorandum of Understanding ënnerschriwwen, deen d'finanziell Zesummenaarbecht an d'Attraktioun vun internationalen Investitiounen förderen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg have signed a Memorandum of Understanding that will promote financial cooperation and attraction of international investments.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg ont signé un protocole d'accord qui favorisera la coopération financière et attirera les investissements internationaux.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "475b5ac2f576ace6869a9eee8341aaec6980726a",
-      "title": "Вьетнам и Люксембург подписали меморандум о взаимопонимании, способствующий развитию финансового сотрудничества и привлечению международных инвестиций.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTZRNjBSdUlZYS1PSGppYU5rUzZBZkd2VkJqYXJRMEw2ellSUzdkYVJ5NTdxUWRvSm83VDBwV3lFWUtFcnFHbzVkTEJqRzllWkMzUWdIdU9BRzZ6VXhrQjlaWFYzSXQ4a0xZMko4UVVvTExYWDYyclpsc2dPMWJKbVRmd1dlYWlUa3lyLUkxeFdTMHJscE8zOXBnSzVwSmhIOXBocWN4d3l2bkxZcFNLVTl0OA?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-13T11:51:08.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg ont signé un protocole d'accord pour promouvoir la coopération financière et attirer les investissements internationaux.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg signed a memorandum of understanding to promote financial cooperation and attract international investment.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vietnam und Luxemburg haben eine Absichtserklärung unterzeichnet, um die finanzielle Zusammenarbeit zu fördern und internationale Investitionen anzuziehen.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg hunn e Memorandum vun Versteesdemech ënnerschriwwen fir finanziell Zesummenaarbecht ze förderen an international Investitiounen unzezéien.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f128e8a9e935bdd8be7912e29cda7e8f6181a723",
-      "title": "Το Βιετνάμ και το Λουξεμβούργο υπογράφουν Μνημόνιο Συνεργασίας, προωθώντας την οικονομική συνεργασία και προσελκύοντας διεθνείς επενδύσεις.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWG12TmlJVXN3M0tTN1NMMnBvVTBod1RnNkdwT2JFVngxVU40bThPSS1JTzR1QW13RnFwMVhnYk9KTUV4SVpVZWNxMTJLMWJyQmJoY2FUUWd1a1FMVTEzdE5iT3Z0TllGcEFUSnFvdUY5NllPb0NRc010Zmc5cmF1dW85VndHMzVJNVZQeGN2VVBiUjI1Y1E2TXpuY21pUHlsemRwVzcxRDQxOTd6VkVNMF9pTQ?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-13T11:50:35.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Vietnam und Luxemburg unterzeichnen ein Memorandum über Zusammenarbeit, das die wirtschaftliche Zusammenarbeit fördert und internationale Investitionen anzieht.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg sign Memorandum of Cooperation, promoting economic cooperation and attracting international investment.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg ënnerschreiwen Memorandum of Cooperation, déi wirtschaftlech Zesummenaarbecht förderen an international Investitiounen unzéien.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg signent un mémorandum de coopération, promouvant la coopération économique et attirant les investissements internationaux.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e5e04b84de171e3ad9c43003e25996b5d70163f0",
-      "title": "Videos | Replay | CMCM Indoor Meeting Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwMVk5dXpSQmVqVm9wdkZOYWNmX0czU0d1RGNZd0ZBcmQtc3ZHZU51ZlFIV3h4R1NqQjM5Zi1DblQ1Ym81djBQWnN2RW9RclJSX1p4T2lhd2pKTGI4VE9XOVVpaXF6cVlDa1JydUNyWWdZZGRCZXliS3EzUE4?oc=5",
-      "source": "European Athletics",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-13T11:46:03.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Videos | Replay | CMCM Indoor Meeting Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Vidéos | Rejouer | Réunion en salle CMCM Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Videos | Wiederholung | CMCM Indoor Meeting Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "fe08bdcc78af643b44ed37e61c035b7c1c0d0020",
-      "title": "Luxembourg : Moussa Kanté buteur et homme du match face à Bissen (2-2)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUdrbURYSG11eFlmZDF1dkxYN2EwUFBzdHEzUDhPYzBtVkR0Ylk5bGJFNTNBSzlEejRiY09pSm0xZDJyNE8zbmVpUV9LbDlCQnFNZ09xNUxGTHEwZlZ4aXlYSERzOWNZbDhTRWpVQ0ZYOWJTeUM3Ny15aE1tZWlOUzBiajNNb3R4MHNPendaRUpXM1pBRUhrc2MwcEJqMHlM?oc=5",
-      "source": "wiwsport",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T11:27:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg : Moussa Kanté buteur et homme du match face à Bissen (2-2)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg: Moussa Kanté scored and man of the match against Bissen (2-2)",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg: Moussa Kanté traf und war Mann des Spiels gegen Bissen (2:2)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b5d1ea071c2f739329b59feda9121279d0801b8c",
-      "title": "وقعت فيتنام ولوكسمبورغ مذكرة تفاهم، تهدف إلى تعزيز التعاون المالي وجذب الاستثمارات الدولية.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEJ2T01wN3ZfeWtoNFRXbEdrNE1PdlNVWTBrMm5mVG82NHlFSzl1YkJTcS1ZOHJLWTh0OHhQVkpoM1dXZHg1NW4xVGdTUWt2TmR6ZW5na1RPNTVaNFJxdzhtbHN4UThGQkMwS2doNUowV0o3WkcxRng3RjRXeG0xVDZuY1ZnanNSamc0VlExYnZzMWdUMGVmVGttQnJMR19rNU9ZTThpdHAxLTFDT0tlZmNyMA?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-10-13T11:21:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Vietnam a Lëtzebuerg hunn e Memorandum of understanding ënnerschriwwen, fir d'finanziell Zesummenaarbecht ze verbesseren an international Investitiounen unzezéien.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Vietnam und Luxemburg haben eine Absichtserklärung unterzeichnet, die darauf abzielt, die finanzielle Zusammenarbeit zu verbessern und internationale Investitionen anzuziehen.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Vietnam and Luxembourg signed a memorandum of understanding, aiming to enhance financial cooperation and attract international investments.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Vietnam et le Luxembourg ont signé un protocole d'accord visant à renforcer la coopération financière et à attirer les investissements internationaux.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3dfb35cbcabff4ed31dc1489c8dad60d1a21ef9e",
-      "title": "Fondul de investiții pe termen lung al Luxemburgului ar putea investi în proiecte de transport public în Vietnam.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUFyYWE2ekxuaXh3NUFFQktSTVk1X2sxT0xKSDRNeWVVYmYxRTlDeU0zczZlNTlhSmp4TjVXX2k4ODlGWVVVLUpxckNyVnFhem5NX0RZLVpELW1mLWVhajhBZEVWeFFmcV9xVjZFcjdmNnMyQXVfTmlCRGgtV3hYQU5FYW5XQ01Ybk9IYWhTY04zMUxJMlVyVDcwQnVjOXpyS0NTd3MxUHkxY1A5YUQtWHJRNA?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T11:13:04.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Lëtzebuerger laangfristeg Investitiounsfong kéint an ëffentlechen Transportprojeten a Vietnam investéieren.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der langfristige Investmentfonds Luxemburgs könnte in öffentliche Verkehrsprojekte in Vietnam investieren.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg's long-term investment fund could invest in public transport projects in Vietnam.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le fonds d'investissement à long terme luxembourgeois pourrait investir dans des projets de transports publics au Vietnam.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "96048700294a3e3fac7ed38a1941b8aa7708ba2f",
-      "title": "Довгостроковий інвестиційний фонд Люксембургу може інвестувати в проекти громадського транспорту у В'єтнамі.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFJBWDk4SW5lYTRDWUpVSDk3eDIwMEtZYWtNUzZUN3NWbHA0VWVid1ZfalBGb2hPVXVBZlZoMzlTQjRCSlJ1UEFxYUpoNEhhRUhyWUFBS1h3aXByMG5Bd0dJeFZyQ3dDNEV3UkcwRTNjQTZxTTRvc21YRkFhS2xOR3R4bGthVFFTaklRRV95dm1CTlIySFZsSlVmQWNOTmNrU0NTN1puVy1QLXNfanR2SWRUMA?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-10-13T11:12:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Lëtzebuerger laangfristeg Investitiounsfong kann an ëffentlechen Transportprojeten a Vietnam investéieren.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg's long-term investment fund can invest in public transport projects in Vietnam.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der langfristige Investmentfonds Luxemburgs kann in öffentliche Verkehrsprojekte in Vietnam investieren.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le fonds d'investissement à long terme luxembourgeois peut investir dans des projets de transports publics au Vietnam.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2b9bada0df5cdac19a58dd255975f2c30006ae33",
-      "title": "卢森堡的长期投资基金可能会投资越南的公共交通项目。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1hSejFKUFRWTWFHTXlDM0RsUVpzTU84cmJFbGl2TXVobXA5T2cyWEh0UXBqZjlvd2E3QU93WGFsTFhFaDlENm01aEdybnlYQmtNanBueUVHVUJSbkFiRnpDZ1RyVzNwMkhCa1gxVkFha1hKQVRFUTNTM2tmbmtIRnRKVW9zcTcyaDE1bENoTk5sNFNBaFh4SE9qNmdQVmJvNFJIWjNfVTEzd1NtcXNtYW1kaVNHT00?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-13T11:03:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Lëtzebuerger laangfristeg Investitiounsfong kann an ëffentlechen Transportprojeten a Vietnam investéieren.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg's long-term investment fund may invest in public transport projects in Vietnam.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der langfristige Investmentfonds Luxemburgs darf in öffentliche Verkehrsprojekte in Vietnam investieren.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le fonds d'investissement à long terme luxembourgeois pourrait investir dans des projets de transports publics au Vietnam.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d99145b75e31773ca0d4a95279f70befe423e34a",
-      "title": "Il fondo di investimento a lungo termine del Lussemburgo potrebbe investire in progetti di trasporto pubblico in Vietnam.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV1NVV09FSy1Uamt2VXJSclpyYXFINXRRWXRuaHNSVm53MzZNaXpxMTdZQXZlZ1BJVTRzLUZyeEI4OXoxcV9aMmkxWURvUGk5V0dIRWdsTFJUbWthbmxoM2RtS3Jsb3M5UWFWN01GQllPYmd1UWZ2cTNlc3BzNjNTalNFRzlDQnJGa0lqTldJcEVIYXRBRVlnbm1Ubkgzc3NTamltRzNzb2hiTktVX3otV1cxQQ?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-13T11:02:35.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "de": {
-          "title": "Der langfristige Investmentfonds Luxemburgs könnte in öffentliche Verkehrsprojekte in Vietnam investieren.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg's long-term investment fund could invest in public transport projects in Vietnam.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le fonds d'investissement à long terme luxembourgeois pourrait investir dans des projets de transports publics au Vietnam.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "De Lëtzebuerger laangfristeg Investitiounsfong kéint an ëffentlechen Transportprojeten a Vietnam investéieren.",
           "summary": ""
         }
       }
