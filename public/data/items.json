@@ -1,6 +1,444 @@
 {
-  "generatedAt": "2026-11-02T23:33:12.340Z",
+  "generatedAt": "2026-11-03T06:51:04.043Z",
   "items": [
+    {
+      "id": "49b9c32e755b1482e6c0d03fa9eb0e18e4598df1",
+      "title": "Движение общественного транспорта по Розы Люксембург возвращается в привычное русло",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDJlSWkwNW9JajdocHZlUUNVN2JhREtBd2k4WjNLQUR0NjJFVC15QmNsMVJLRlV0dVhzUVQtbnFqRDByNWZSMlpLZFhocjJETWtrcmR2aVlJbjdUQkpwQTJqOE4xdFJSNi0wVzFaSFo1RkxsMUFNWUpKWFh2bFpPRVRrVkctTlFVU1RRQlhRSkItWkU2WnRWbV9jT3ZiTzhJdlJadmI2U3JEVzFpb3p1WXEzLVlYendkT2x5bFFB?oc=5",
+      "source": "Иркутск Сегодня",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-11-03T06:39:36.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Public transport traffic along Rosa Luxemburg is returning to normal",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "2e09af1572e78e7a57e2b751c95f672f21572772",
+      "title": "Poesía en Luxemburgo / Tomás Hernández",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zaTdRWURwSGZ0aDVkSWVrbHBQMmNIOFUxcVdMdVFYeEk4NFZQZUY3bXI0NkN3b3dBVFRINkY2TXBSMjJFajU3eVppRHVtdWlucnFrNmdlXzhyc2F5NUxMN0pIZ3ZuMWgtOTBjM2xB?oc=5",
+      "source": "Costa Digital",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-11-03T06:18:59.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Poesie zu Lëtzebuerg / Tomás Hernández",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Poésie au Luxembourg / Tomás Hernández",
+          "summary": ""
+        },
+        "de": {
+          "title": "Poesie in Luxemburg / Tomás Hernández",
+          "summary": ""
+        },
+        "en": {
+          "title": "Poetry in Luxembourg / Tomás Hernández",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3d4b441dd0e470046d2a2d271751d11e320a9216",
+      "title": "Le Luxembourg a émis sa première obligation souveraine sur blockchain",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPelhLWE95UHVCLXBXWlVSZ1prMjdYRTZYOHBzX2FlSUlyeHkwckxQazZmSnpEV19vakdoNUlqMTFiN1NZZUZYdVFKLUVnYTZ6M1N0WjRaSlhRZWlXSjdLaXJWa1k3VGo4Qmg1OTZuVEJhMndDOGljR1RDd2FoVUwtNDdaVTlJck56bWJhaVhhMlFxb2F1SmxZSXFNMWZmenpuN0Vscms1b2pNSTVKQ2pGZWgyQkVDaWUwSEE?oc=5",
+      "source": "L'Agefi",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-11-03T05:38:23.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "sport"
+      ],
+      "translations": {
+        "en": {
+          "title": "Luxembourg issued its first sovereign bond on blockchain",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerg huet seng éischt souverän Obligatioun op Blockchain erausginn",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg hat seine erste Staatsanleihe auf Blockchain ausgegeben",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "df64a079d6f8597f0c4eccc97326959b282ab4e9",
+      "title": "유럽 또 슈퍼마켓 냉장고 해킹…벨기에·스웨덴·룩셈부르크 등 [현장영상]",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nYnNBaURjRS02SmJNUEhwUDVfUF9BTGZISDVjVjBIcXBadVFCVmkwbzN1MmFDWG96WUVjN1BackdwS05sSVBKSWNhY0ZrWWNPYjhwNnFaQWU0bEJtMUFudlZWWDlqUQ?oc=5",
+      "source": "KBS 뉴스",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-11-03T05:15:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "En anere Supermarché Frigo an Europa gehackt ... Belsch, Schweden, Lëtzebuerg, etc. [Video op der Plaz]",
+          "summary": ""
+        },
+        "en": {
+          "title": "Another supermarket refrigerator hacked in Europe... Belgium, Sweden, Luxembourg, etc. [On-site video]",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ein weiterer Supermarkt-Kühlschrank wurde in Europa gehackt ... Belgien, Schweden, Luxemburg usw. [Video vor Ort]",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Encore un réfrigérateur de supermarché piraté en Europe... Belgique, Suède, Luxembourg, etc. [Vidéo sur place]",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "f7ae7cddaa2338682071e02c0a866886acccf436",
+      "title": "Travailler au Luxembourg rapporte gros, mais attention au retour en Belgique : une étude révèle les risques pour les frontaliers",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVoxX0pld3B0ZmtKclgyZEdKUTlCV2tqU0dmLVFRWDhZSFo2WWFFMWdLUHJ6LXZhbXQxWVpYLWg4SzFOWFB3TDNaS2FfWFVTdFVoNTVfcTdUX094ZUp4Zi1xQVk5aTlZOVl1dldjenY5MzFZVWlUZTF1emZpX1JvNHFUNmd5aTlRNmJ4M0YzRUE3N2lUaElQdDdIbUVGby1XZFNpSDVERFJiVlpyemt0bEsxMi1IbnZBWXVKSzhDMDdLRGs5Nk1NUEx0MA?oc=5",
+      "source": "Sudinfo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-11-03T04:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Aarbecht zu Lëtzebuerg lount sech grouss, passt awer op wann Dir zréck an d'Belsch kënnt: Eng Etude weist d'Risike fir d'Grenzaarbechter op.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Working in Luxembourg pays off big, but be careful when returning to Belgium: a study reveals the risks for cross-border workers",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Luxemburg zu arbeiten zahlt sich aus, aber Vorsicht bei der Rückkehr nach Belgien: Eine Studie zeigt die Risiken für Grenzgänger auf",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "df03f5d34d7e420020e35e8eab7b4bb008bbd999",
+      "title": "国际友谊比赛前瞻：比利时U16vs卢森堡U16预测分析(2026年11月04日)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jYnUzWnB0aC1PaG9yR3RNX0gtWUpwMnVvMkt4cFlHamRWeXpmZGF1WkVXOVpGWjlIbklwdFMwLXo4SlZzYWhFdUl2UUl4aFNIQTJ1Mg?oc=5",
+      "source": "球迷屋",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T03:34:51.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Virschau vun internationale Frëndschaftsmätscher: Belsch U16 vs Lëtzebuerg U16 Prognoseanalyse (04. November 2026)",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vorschau auf internationale Freundschaftsspiele: Vorhersageanalyse Belgien U16 vs. Luxemburg U16 (4. November 2026)",
+          "summary": ""
+        },
+        "en": {
+          "title": "Preview of international friendly matches: Belgium U16 vs Luxembourg U16 prediction analysis (November 04, 2026)",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu des matchs amicaux internationaux : analyse des pronostics Belgique U16 vs Luxembourg U16 (04 novembre 2026)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "cb738405c9eade67d39446bf81b222402fd9de0b",
+      "title": "Возобновляется движение общественного транспорта по Розы Люксембург в Иркутске.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yaTR6TG1FT3ZMYVdJSnQ3dmpDRGFjQ3ZNZk1ZUDZMZDhjVkxGTDNwX1ZmbXJQMkNrSEdKVFZBWjAyWWJlSUdUaFh3ZXZVU1I0NHVkRUhsUkpDTE00OTlBLUFLc0ZMeHc?oc=5",
+      "source": "Сибирское информационное агентство",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-11-03T03:21:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Den ëffentlechen Transport ass laanscht Rosa Luxemburg zu Irkutsk erëm opgaang.",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les transports publics ont repris le long de Rosa Luxemburg à Irkoutsk.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Public transport has resumed along Rosa Luxemburg in Irkutsk.",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der öffentliche Verkehr entlang der Rosa-Luxemburg-Straße in Irkutsk wurde wieder aufgenommen.",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "4696ed5a4490f749b4ba82ff049dfaf5d92f590b",
+      "title": "Acte de vandalisme : circulation des trains compliquée entre Metz et Luxembourg",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTh2OVhOaXJ1Rm5yRWlqM3dqOGJqa2V6U2RSSDJhVXp5ckhSYzhWOWdMWUVSTzJheHAyRWNLTGV2dXFwLWJtbHNKbjE3ZlhaeEpfXzVVaUhUb3NoSkdJRWo2ODBzVWVjMXlZQk02eDRzM3FCWjNGRDFsb0tjaFRPNFUzRlZDMmpMVlc1Rk9yN3lHQTF0WFp5dUEzWnpQam9uYU1PcTRxcldia0F4UkhrTklVbEtOSDZUMmNhRGFaTXpYS01va1FRa2w2N1I0eGQtN2c?oc=5",
+      "source": "ici.fr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-11-03T03:16:13.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "en": {
+          "title": "Act of vandalism: complicated train traffic between Metz and Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Vandalismusakt: komplizéierten Zuchverkéier tëscht Metz a Lëtzebuerg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Vandalismusakt: komplizierter Zugverkehr zwischen Metz und Luxemburg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b059fc11491e9bbdd7d4fd96c28b3c842585d0d6",
+      "title": "В Иркутске с 4 ноября восстановят проезд автобусов по улице Розы Люксембург",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQkFtZGxUR0YyZUFWcjRrSGRZcnZWRUVkR0FkNldMcHpXWDgtbzdnT3ZwVU5nSDIwcWU0Y3VYVnZaV0ZNUFZjLXQtLTNQWmlVVmdKdEg2aWlPeVBsMjROY3pZMzRxdFNqVlJ4ekE4MWxvc3B3VkhoR2hiSzhPRjNWLUlNT3F1ZE40a1RnaVpUUElnRG5ydERvblpBbW9MdlRRczZiSWl0ZXFEUHltVERfS0ZB?oc=5",
+      "source": "Телеинформ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-11-03T03:14:45.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Zu Irkutsk ginn de Busreesen op der Rosa Luxemburg Strooss vum 4. November restauréiert",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Irkutsk wird der Busverkehr entlang der Rosa-Luxemburg-Straße ab dem 4. November wiederhergestellt",
+          "summary": ""
+        },
+        "en": {
+          "title": "In Irkutsk, bus travel along Rosa Luxemburg Street will be restored from November 4",
+          "summary": ""
+        },
+        "fr": {
+          "title": "À Irkoutsk, la circulation des bus dans la rue Rosa Luxemburg sera rétablie à partir du 4 novembre",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "df1f0d05409ba9e0c67ead37f60539c8d9503c7c",
+      "title": "Движение общественного транспорта возобновили по Розе Люксембург в Иркутске",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3BHOW9jb1h6b1ozSU1EYk0zMmJ2bE9kbGhTc1dQdl84Tnp3M09aVjB4eXduOGdFTmROM0dLNzNsZ1M0cnV2R2o1RDhBQWQ4OHJoV3RTeWNsOGdMNnEyR2V0ZDgyMXNJMTZtWWhWdy1SVDdjUmRROTB2bUJENkNGMmJvajdyb3ZwRjNWbm5HQUFsNkRwLVVrSTM2Q3FQYjJCU3NDZGNOWkZlQ29JLV9OaEVR?oc=5",
+      "source": "Ogirk.ru",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-11-03T02:43:44.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Der öffentliche Verkehr entlang der Rosa-Luxemburg-Straße in Irkutsk wurde wieder aufgenommen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Public transport has resumed along Rosa Luxemburg in Irkutsk",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Den ëffentlechen Transport ass laanscht Rosa Luxemburg zu Irkutsk erëm opgaang",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les transports publics ont repris le long de Rosa Luxemburg à Irkoutsk",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "cc5702a0b73f5506c553f6a185130cddc5e54f64",
+      "title": "Dezenas de redes de supermercados na Suécia, Bélgica, Luxemburgo, Irlanda, Estônia, Finlândia e Países Baixos foram alvo de um ciberataque coordenado na madrugada desta segunda-feira (2). Os invasores acessaram os sistemas de controle de refriger",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZOFRONFJIRDJCTWNoUl8xVVJ2c0tJT09tdzAxdDY1b0l4YlI0azRnb2tMMFBxX21PbUxqYUhRZjJ0QWl0ZE0wd2c3dGlJWWRrNWFxazVB?oc=5",
+      "source": "Instagram",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-11-03T02:17:50.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Dutzende Supermarktketten in Schweden, Belgien, Luxemburg, Irland, Estland, Finnland und den Niederlanden waren in den frühen Morgenstunden des Montags das Ziel eines koordinierten Cyberangriffs (2). Angreifer griffen auf Kühlkontrollsysteme zu",
+          "summary": ""
+        },
+        "en": {
+          "title": "Dozens of supermarket chains in Sweden, Belgium, Luxembourg, Ireland, Estonia, Finland and the Netherlands were the target of a coordinated cyber attack in the early hours of Monday (2). Attackers accessed refrigeration control systems",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Des dizaines de chaînes de supermarchés en Suède, en Belgique, au Luxembourg, en Irlande, en Estonie, en Finlande et aux Pays-Bas ont été la cible d'une cyberattaque coordonnée aux premières heures de lundi (2). Les attaquants ont accédé aux systèmes de contrôle de la réfrigération",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dosende vu Supermarchéketten a Schweden, Belsch, Lëtzebuerg, Irland, Estland, Finnland an Holland waren d'Zil vun enger koordinéierter Cyberattack an de fréie Stonnen vum Méindeg (2). Ugräifer Zougang zu Frigo Kontroll Systemer",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "31f2dab0adcb638633ac8f58a0cfb2586ce75cd0",
+      "title": "Движение транспорта по улице Розы Люксембург восстановят",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQam0wU0kxZnRSZkJFa3p3WTlKeTFVMFNSYWQ3UXFsMHp3V0pacjRyTGVicjcyckkzWURPV2JOeVZ4d3UtNmU0ci1MTHhTb3ZZVjNQdndwNXNXOVRZOU5UZk05bVhWZEgyRjY0Z0JkNFBSMmNrM2hWOVRWeUxZalQyeHRsV25oN0lfTktMWmpjZGZBaGxLNUgwcURhSXcyWnFFamxTa0RGMk9pM3JjOUQ0NzRZeU5fMW5EODU0T0M2VUdVUQ?oc=5",
+      "source": "Иркутскинформ",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-11-03T01:35:24.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Den Trafic an der Rosa Luxemburg-Strooss gëtt restauréiert",
+          "summary": ""
+        },
+        "de": {
+          "title": "Der Verkehr auf der Rosa-Luxemburg-Straße wird wiederhergestellt",
+          "summary": ""
+        },
+        "en": {
+          "title": "Traffic on Rosa Luxemburg Street will be restored",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La circulation dans la rue Rosa Luxemburg sera rétablie",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "de4458a223572d2f53bd8a02e6764f9b01726ccc",
+      "title": "Hackean los sistemas de refrigeración de supermercados en Bélgica y Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHM4MkRTak9obF9VLXQ0ZVdqWDQza1Z5MVdpdjctRE1HaVhORkExSUxUVEl0Q21walByMk1xSnlreEx4UFJOZk9OXzlKNG1mVHc3Ym1sYnNLVzF1VWtXZ0YxM0R1aTd6U0kwSWJsQXlrX1RFWDhOTUJYTTdkR3ZMdHhPLWhHRURoWWpBQmxIMTNpUHNTMGdVeFBR?oc=5",
+      "source": "Quinta Fuerza",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-11-03T01:25:50.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "In Belgien und Luxemburg wurden Kühlsysteme von Supermärkten gehackt",
+          "summary": ""
+        },
+        "en": {
+          "title": "Supermarket refrigeration systems hacked in Belgium and Luxembourg",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Des systèmes de réfrigération de supermarchés piratés en Belgique et au Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Supermarché-Kältesystemer an der Belsch a Lëtzebuerg gehackt",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "df58354394156dcc0b4d5c349185cac50cef8c14",
+      "title": "Wie is Pedro Caixinha? Prijzen in Mexico, struiken in Luxemburg en lof van Neymar",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2FXLWdyMkhUNVI0aUc4YVhGbjVqd0tibGxPbzZKNjF2TzFkOXA1dnRSNTN1VkE4YnZjZVlHSEdfZE5sNXpIeGN6TklLcTVjRnc1TldUU0pwZ2ZrNF84aHhDcG1YQzA3QTdVYTZaOXpRSlZUZXYzMHRFeFVNMzlaUWJrQzlxQjNuaEE5WEdUUlBiWXFCaV9wYXoydG01WHg2VVJFU21nQU9QMTg?oc=5",
+      "source": "VoetbalPrimeur.be",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-11-02T21:08:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Wien ass de Pedro Caixinha? Auszeechnunge a Mexiko, Bëscher zu Lëtzebuerg a Luef vum Neymar",
+          "summary": ""
+        },
+        "en": {
+          "title": "Who is Pedro Caixinha? Awards in Mexico, bushes in Luxembourg and praise from Neymar",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Qui est Pedro Caixinha? Récompenses au Mexique, buissons au Luxembourg et éloges de Neymar",
+          "summary": ""
+        },
+        "de": {
+          "title": "Wer ist Pedro Caixinha? Auszeichnungen in Mexiko, Büsche in Luxemburg und Lob von Neymar",
+          "summary": ""
+        }
+      }
+    },
     {
       "id": "a820dbaca96869687258cb15e387f456d86c4fe0",
       "title": "Nuevo ciberataque a supermercados de Bélgica, Estonia, Luxemburgo y Suecia",
@@ -489,6 +927,39 @@
       }
     },
     {
+      "id": "7af12a4a01abde8e118b6051af55a8699bdd6598",
+      "title": "Στο στόχαστρο χάκερς και πάλι ψυγεία σε σούπερ μάρκετ στο Βέλγιο, το Λουξεμβούργο και τη Σουηδία",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa2xjNVVXQllDdFBpbzlpUmR3RFpRZDZXNHExLTJCSGFIZEhwdVVlZGJkQVdJUDA2RWc3bEQ5ZWZ2MzVwclZxSFM5S1FKQW1JUmNyOF9DcGZWSmozeW1MOGZfUWc5ckQzOXZIYkthUVNvdmZzR24tZ19tcVlzbXhSa2FXMVZFaHJnTUZLV3dEd0s0T0NaalFYcTFIVThvY3lCYnNGbHJTd2lGZTRWQUpDckQ3MDdOMEhMWXlMM1p3WXdIbXFXVUUyM2xPWXk?oc=5",
+      "source": "KontraNews",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-11-02T17:40:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Supermarché Frigoen an der Belsch, Lëtzebuerg a Schweden nees vun Hacker gezielt",
+          "summary": ""
+        },
+        "de": {
+          "title": "Supermarktkühlschränke in Belgien, Luxemburg und Schweden erneut im Visier von Hackern",
+          "summary": ""
+        },
+        "en": {
+          "title": "Supermarket fridges in Belgium, Luxembourg and Sweden again targeted by hackers",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Les réfrigérateurs des supermarchés en Belgique, au Luxembourg et en Suède à nouveau ciblés par des hackers",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "4f26d2fe053676897cfa4d8afa6fc657b3814b06",
       "title": "Suspected Cyberattacks Trigger Fridge Temperature Spikes Across Belgium, Estonia, Ireland, Luxembourg, Sweden",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb2RWbkFUWklpT3cyM1kwcmpsV1IyaE1SYkZMQmlibXRCY092aFJMbDNMa3ptYWhaZXIxMUVyNUhlODE4cW5PXy1ud3ZqdER1Ty0zRVY3WWtZQ1pnRjR1aTBmTE16ZGdSYmphUFpQcXlnLUZYNm1uaXA1MWRaZFNzOERHcWZzNzk4Y3dPejdlR01FTllDTGFFaUVhOWIxY29JS2VPNDgzTUZfNmxGWURmZ2NsU1ZPMzdhMnhoMHNaR09HVzlDdG03c212NzZyV08tVVhxYUI4dDdfSkFOR1FrNTZsLXhVa3Y3?oc=5",
@@ -604,6 +1075,39 @@
         },
         "en": {
           "title": "Suspected cyber attack in supermarkets in Sweden, Belgium and Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "15ccc0e43b737126115e376656a73193c312017d",
+      "title": "Mezza Europa colpita da attacchi hacker ai supermercati Nel mirino Irlanda Svezia Belgio Lussemburgo ed Estonia",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdFNtWTFLYUlqZTJhN1gwWjhDa0NmRnF2ZXEweEVYTm0zeVNmVk1WamgwV0NTemgzb1ZHVHpLSmdZY3FlcmFMNXZYbXZpb3B2M1hvNU85TjdfVkdXV0E0bkhxVF8tdG1iWU54MlJ0aVVXUVlkNVY3ckUtTmp4TUJEZGpHWTV5Vi1Kdlpldy1yVl96bjJZVm1sLTlSN05zbFpTVWZlNUVuRVY3UzliM180SHNrSThVdG1lS3h4NklkMTMzY0htODFNQTBBSzdlTVlFU21NaVliZU5SVklzaklaY3V0WW9lTGQyUkE?oc=5",
+      "source": "Zazoom Social News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-02T17:09:12.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "D'Halschent vun Europa getraff vun Hackerattacken op Supermarchéen Irland, Schweden, Belsch, Lëtzebuerg an Estland am Kräiz",
+          "summary": ""
+        },
+        "de": {
+          "title": "Halb Europa von Hackerangriffen auf Supermärkte betroffen Irland, Schweden, Belgien, Luxemburg und Estland im Fadenkreuz",
+          "summary": ""
+        },
+        "en": {
+          "title": "Half of Europe hit by hacker attacks on supermarkets Ireland, Sweden, Belgium, Luxembourg and Estonia in the crosshairs",
+          "summary": ""
+        },
+        "fr": {
+          "title": "La moitié de l'Europe touchée par des attaques de pirates informatiques contre des supermarchés L'Irlande, la Suède, la Belgique, le Luxembourg et l'Estonie dans la ligne de mire",
           "summary": ""
         }
       }
@@ -762,6 +1266,39 @@
         "de": {
           "title": "In Europa wächst die Besorgnis über Cyberangriffe auf Supermärkte",
           "summary": "Mehrere europäische Länder sind von Cyberangriffen auf Supermärkte betroffen: Belgien, Luxemburg, Estland, Irland und Schweden. Berichten zufolge wurden Gefriergeräte aus der Ferne gehackt, was zu einem Verlust führte"
+        }
+      }
+    },
+    {
+      "id": "2787dc3f1eac6067c771e8fdd33d6b9bfddcaa34",
+      "title": "Nuevo ciberataque a supermercados europeos: hackers contra Bélgica, Suecia, Estonia, Irlanda y Luxemburgo",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONlZKSUFibEJBeHZKdklIeHpwM29teE1HaEdMbGJwOXF1ZHJ2TW5CWmJJd3RjYUxTY0JpNF96Wm43YVE3bXg4THE5eTkzSG1jUV93eklWTG9udXRQbWRGbGF6MkhIc3hEaWZ3N2dXRWVQc19kWTluUjJRTFM4UXFFdWc0V3hKNVZpVHkwcGtzM19sR2Q0Tk1BZDJYVE5fcmIzVnlTczNzTDdvZnNRMy00V3oxeUNUc3RuWHhGNkMyRlMyck1NbWZoandYWGFtRWJJVDk3cnhkSmJBSzhEWHh0T0t4d2VyYlZISkVnczVaWHRqUXl3Z3dYdlVqRHlIY2JpU3ZVTmFlMNIBhwJBVV95cUxQay1ESGRqVkw4UDdvRTZXbEM3eVRUVkdzOUVKUF8tTEdrUVRiblRybHRlRlphMmZjTkJuejlUaXRwWDVyY01lZ1gwZXk3Skg5RE9SYTVBWmJJbk9mcm40NWhlSHZzZ1ZBbThhZllUYV9BQVNWT3NKeWlkeGNtQnl5Q3NqRXhCdXUxZG9TYnJ5Rkt1VzdxZ0Y1V1pTQ0hhamRsSl9YVlVJVTlLMUl3aWI3THdkamtEOE5lcmJkRVFxNjhoNlZuYkpSVEQ1LVVBVS1Uck1PTGFOXy1UbVhVX1N1Yk04WmlPYlVRN2RZTldXZ1BwUE52WEp6ZEI0ZXI4OHdFcUlrXzhOUQ?oc=5",
+      "source": "DW.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-11-02T16:50:30.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Nouvelle cyberattaque contre des supermarchés européens : des hackers contre la Belgique, la Suède, l'Estonie, l'Irlande et le Luxembourg",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Nei Cyberattack op europäesch Supermarchéen: Hacker géint Belsch, Schweden, Estland, Irland a Lëtzebuerg",
+          "summary": ""
+        },
+        "en": {
+          "title": "New cyberattack on European supermarkets: hackers against Belgium, Sweden, Estonia, Ireland and Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Neuer Cyberangriff auf europäische Supermärkte: Hacker gegen Belgien, Schweden, Estland, Irland und Luxemburg",
+          "summary": ""
         }
       }
     },
@@ -1076,6 +1613,39 @@
       }
     },
     {
+      "id": "3bbd097209fe43a8771583fc2bdf609972d59a78",
+      "title": "Ansa: attacchi hacker ai sistemi di refrigerazione dei supermercati in Svezia, Belgio, Estonia, Lussemburgo e Irlanda",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVEJjWFZnMXJjWVdyR1hKZ0U4MFhGLTB4b3pfR0lVdlVTY3h4LWtuc1FRcUtBb3BGdG9IaHB5OFIxeUl4bU1mOFlidWctbUtKeWs5Nm5lMVBlLWx6MHBHU2dmaktTQ1htOXJ1QW93S2c4XzhEeFZwU19aeldzbUc5a3YzbkVkYjNLSFVSNkpQNzdRN1FCQWR1Y2czdFlrWUdFZFFWX1dNZ2pVXzJKekJtdVV2bzhGYWR1X0RsbHNDUENPNENKYUl3NFhDMG1UcFhjUHE0UTNlN25EZUtGTlk4Z25PeVh6QQ?oc=5",
+      "source": "The Epoch Times Italia -",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-02T15:02:10.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Ansa : attaques de pirates informatiques contre les systèmes de réfrigération des supermarchés en Suède, Belgique, Estonie, Luxembourg et Irlande",
+          "summary": ""
+        },
+        "en": {
+          "title": "Ansa: hacker attacks on supermarket refrigeration systems in Sweden, Belgium, Estonia, Luxembourg and Ireland",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Ansa: Hackerattacke op Supermarché-Kältesystemer a Schweden, der Belsch, Estland, Lëtzebuerg an Irland",
+          "summary": ""
+        },
+        "de": {
+          "title": "Ansa: Hackerangriffe auf Supermarkt-Kühlanlagen in Schweden, Belgien, Estland, Luxemburg und Irland",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "ccb9adac2caf9036a5f6d0c822275ee70eba02d5",
       "title": "Ondata di attacchi hacker contro i supermercati di mezza Europa",
       "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/ondata-di-attacchi-hacker-contro-i-supermercati-di-mezza-europa_5e6f0b27-05c9-468a-9004-087167137119.html",
@@ -1171,6 +1741,39 @@
       }
     },
     {
+      "id": "71388c66a20eccba40eb574e87472b0f900615bd",
+      "title": "Da Lussemburgo a Ischia, Erasmus fa volare la passione per l'archeologia: il Liceo Buchner sul Luxemburger Wort",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmhVd05hdDBqNG5SdURwUlhfVGJIbTRfSnZFVzBIZXVxNFJuXzRnZDRLTDV4NXg3b1d6NnUxNHVUdHFHbjhCcDNLREFTM2NDeXIxZDJnNFNGUEdPR0xaRVd0OENPRGJvT196SVZtaXIzd2hVbUxyNnRaa2NTNzlORzZEMm1LZlJDZlhPMGx2M1dZMFl1VS1BNkpsMUdLd0txOHdtcFpkVlNVY3ZQX2IycVluZFNFZGM5cHVRdjZpeEw2ckxpMHBRZE1CTQ?oc=5",
+      "source": "Nuvola Tv",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-02T14:48:59.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "travel"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Vu Lëtzebuerg op Ischia léisst den Erasmus seng Passioun fir d'Archeologie fléien: de Buchnerlycée um Luxemburger Wort",
+          "summary": ""
+        },
+        "en": {
+          "title": "From Luxembourg to Ischia, Erasmus lets his passion for archeology fly: the Buchner High School on the Luxemburger Wort",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Du Luxembourg à Ischia, Erasmus laisse voler sa passion pour l'archéologie : le lycée Buchner sur le Luxemburger Wort",
+          "summary": ""
+        },
+        "de": {
+          "title": "Von Luxemburg nach Ischia lässt Erasmus seiner Leidenschaft für die Archäologie freien Lauf: das Buchner-Gymnasium am Luxemburger Wort",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "aab8982b6644b193299af06afd8129265dd3eb4b",
       "title": "Mach's noch mal? Störung bei Kühlanlagen in Belgien, Luxemburg, Estland und Schweden (6 Länder betroffen)",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUdzdm43OFJBMk9JdWI4S0dCclRSU1FjM1FqSlg4UzV1Z2pIVE9QcF93RVJqa3hTQUxtbmI4VGg2RWhlOTh0N2xZMDdZVmgwRzNtZU1BNXBuZUJDRmFOcUNHZU5pUVFyS3dOZVVWTW4tMTBpU1dyUTZvcjY2OUViYVAycGhFUzgwTThGZXM3Zll2cTVYdU13VDRZbG9BMURwZi1FSlJzMmw5UjMySmRPNHpzWkRrVG1nTEtmNA?oc=5",
@@ -1195,6 +1798,39 @@
         },
         "fr": {
           "title": "Le refaire ? Dysfonctionnement des systèmes de refroidissement en Belgique, au Luxembourg, en Estonie et en Suède (6 pays concernés)",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "73dc4166f08e7845837ea3000532309cf8a6da91",
+      "title": "Attacco hacker contro i supermercati di Svezia, Estonia, Belgio, Lussemburgo e Irlanda",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1p2TURpUFNiajhWM0xhOUx6OWRMdXBsWTdmcFN2MkxZbTNoR2ZrTkNvWUdKZ2dCVE4tS2ZjU2ZwdXBRWjBteTc3eTZXRzJWVlVLRFBId2ZOTkx3a1ZYRDVtUVdQZzJRcnN1MWFQbTVPaGl2R1J2bnpSUFVpaUlTSzMwZzc2eGFvb2Q0OU02NFhjeEVMa09oYzlPdUZkdTB6aWxpMlQ0eG5fNmFPWWduLVBB?oc=5",
+      "source": "TAG24 by Unicusano",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-02T14:45:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Hackerangriff auf Supermärkte in Schweden, Estland, Belgien, Luxemburg und Irland",
+          "summary": ""
+        },
+        "en": {
+          "title": "Hacker attack against supermarkets in Sweden, Estonia, Belgium, Luxembourg and Ireland",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Hackerattack géint Supermarchéen a Schweden, Estland, Belsch, Lëtzebuerg an Irland",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Attaque de pirate informatique contre des supermarchés en Suède, en Estonie, en Belgique, au Luxembourg et en Irlande",
           "summary": ""
         }
       }
@@ -1352,6 +1988,39 @@
         },
         "fr": {
           "title": "Handball: Didier Dinart envisage les éliminatoires du Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "227bc6e1f2f7fa56b98cf4ae589e05883a131e0a",
+      "title": "Zeci de magazine din Suedia, Belgia și Luxemburg raportează un incident IT, în urma căruia au crescut t...",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12cFJxYnNJaWJWa3EyU1FuOTFlOHRYUXdLRXFXR0RoMHFBUTNwZXp2SE94ZnJiV1pfMVZ4aGt1NW9peWN0V1NpQ1lkQXbSAUxBVV95cUxNdnBScWJzSWliVmtxMlNRbjkxZTh0WFF3S0VxV0dEaDBxQVEzcGV6dkhPeGZyYldaXzFWeGhrdTVvaXljdFdTaUNZZEF2?oc=5",
+      "source": "Biziday",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ro",
+      "publishedAt": "2026-11-02T14:33:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Dutzende Geschäfte in Schweden, Belgien und Luxemburg melden einen IT-Vorfall, der die Zahl erhöht hat.",
+          "summary": ""
+        },
+        "en": {
+          "title": "Dozens of stores in Sweden, Belgium and Luxembourg report an IT incident, which has increased t...",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Des dizaines de magasins en Suède, en Belgique et au Luxembourg signalent un incident informatique, qui a augmenté...",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Dosende vu Geschäfter a Schweden, der Belsch a Lëtzebuerg mellen en IT-Tëschefall, deen t ...",
           "summary": ""
         }
       }
@@ -1893,6 +2562,39 @@
         },
         "fr": {
           "title": "Cyberattaques contre les supermarchés européens : Sur la liste des hackers et le Luxembourg, les Pays-Bas, l'Irlande",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "b72d0e391282a79d8d0c9e1bff483ce1e872c360",
+      "title": "Attacchi hacker ai supermercati di Belgio Svezia Estonia e Lussemburgo | freezer a 50 gradi Allarme in Italia si indaga su sei guasti in Sicilia",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYnB4OGh6d3dTMEJXNW5DRV82WDVFQXFxdjFVRTcydVJqanRqX0VjR202eldKMjlubmgtYm9QZjhhaXVYdDJGeXBZdzVsbDBmYndBTHNfcHVza2FITEdyV1BmY3FxTnVJNFVGak4tT0s2X2NKWE9Ja2dMOXNKa1hQYnlzYk1fN2FpeXpMU1RYRU5GV200YUREdkg2aUtjalJuQlpMSTNLVUhkRndsQkNLcUxBLW9xNUlCMGY3aFVlUXgyWFpkaXp0OEs2OFNrQVJZeEE2c1VsM3hNVEFBT2lLM1Y1NmxZTUlGVnFNSzU0d1FzUVpYT2hFSTVKcWItWVJPTGpDRV9QS2FKRThycDFLMmRzZw?oc=5",
+      "source": "Zazoom Social News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-02T13:45:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "de": {
+          "title": "Hackerangriffe auf Supermärkte in Belgien, Schweden, Estland und Luxemburg | Gefrierschrank bei 50 Grad Alarm in Italien In Sizilien werden sechs Störungen untersucht",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Attaques de hackers contre des supermarchés en Belgique, en Suède, en Estonie et au Luxembourg | congélateur à 50 degrés Alarme en Italie six défauts sont en cours d'investigation en Sicile",
+          "summary": ""
+        },
+        "en": {
+          "title": "Hacker attacks on supermarkets in Belgium, Sweden, Estonia and Luxembourg | freezer at 50 degrees Alarm in Italy six faults are being investigated in Sicily",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Hackerattack op Supermarchéen an der Belsch, Schweden, Estland a Lëtzebuerg | Frigo op 50 Grad Alarm an Italien sechs Feeler ginn op Sizilien ënnersicht",
           "summary": ""
         }
       }
@@ -2567,6 +3269,35 @@
         },
         "fr": {
           "title": "Une cyberattaque contre des congélateurs de supermarchés en Europe frappe la Belgique, les Pays-Bas, la Suède et le Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "dbeef3183e88bb659e8270337ca81265f294fd19",
+      "title": "Luxembourg Launches New 10-Year Passport, Confirms Cost for Applicants",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTBsa2tySTBrLWptWG82UFJDc0VVRkY2OHUyaWNYWWdOcy02WUtiTnA5RVZwNExlMXh3WjdzQXhjVGRneWNtQURSZDE3bVY2UmxQcXEyaWdialVvVTlsMG1tZ2F3NnJydVJ0UGdGdms0dlZzeXhXUEJlcHliQl91Ri1HZnFoNF9lWjFVMm4tN1FlXzFOQzEydmJya21jUlU?oc=5",
+      "source": "Legit News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-02T12:58:39.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Lëtzebuerg lancéiert neien 10-Joer Pass, bestätegt Käschte fir Bewerber",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburg führt neuen 10-Jahres-Pass ein und bestätigt die Kosten für Antragsteller",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Le Luxembourg lance un nouveau passeport de 10 ans et confirme le coût pour les candidats",
           "summary": ""
         }
       }
@@ -3431,6 +4162,39 @@
       }
     },
     {
+      "id": "6d6a781818f71abdb06cb36c004b86326c74a048",
+      "title": "討論牆 | 盧森堡法院駁回巨額訴訟 房產投資商CPI FIM營運風險降低",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSazlRajljLV9xcjNPZk1xUXo4SEdrcTNEaTVNZ3pYMmJXbVFHZzgwZkdCZFB0d2Q0bjBKRWdINnQtTEx4RE9tVTBNMzE1bTdXTng4UnV2Wl80ZE1yMlR0ZlZkeFg?oc=5",
+      "source": "LINE TODAY",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T11:42:42.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Mur de discussion | Un tribunal luxembourgeois rejette un énorme procès, l'investisseur immobilier CPI FIM réduit les risques opérationnels",
+          "summary": ""
+        },
+        "en": {
+          "title": "Discussion Wall | Luxembourg court rejects huge lawsuit, real estate investor CPI FIM reduces operational risks",
+          "summary": ""
+        },
+        "de": {
+          "title": "Diskussionswand | Luxemburger Gericht weist große Klage ab, Immobilieninvestor CPI FIM reduziert Betriebsrisiken",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Diskussioun Mauer | D'Lëtzebuerger Geriicht refuséiert rieseg Prozess, Immobilieinvestor CPI FIM reduzéiert operationell Risiken",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "98282076a579ab918ecc54fff6855f2ace78dbd6",
       "title": "В Бельгии, Швеции и Люксембурге остановились холодильники — Politico Europe",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTBSeTR3cVZtTExMaWY0UlpVOHZnQ0RRaHBWOFE2WjlJOVFRRThORFJGMmI4a01aWnZ3WDBsTkgwNnFOd1QyS2lhYkFxRFJBWjFyc29aVG0yUnFBcjUxOENQa3RhN19fWFJVV3g4Znh6dWRNeGQ3UGlFSlY2UlkxR3BMbjlEeTB1THNlcVFMelp4bzNaTEMxSDJWaTZZYUpRcEtB?oc=5",
@@ -3987,6 +4751,35 @@
         },
         "fr": {
           "title": "Luxembourg, une destination à vivre toute l'année entre city breaks, nature et saveurs",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "dfcd54a3f0b7995a37f17f84fc97697032ab972e",
+      "title": "Gault&Millau 2027 : un restaurant de Steinfort élu « Méditerranéen de l’Année » au Luxembourg, découvrez les restaurants récompensés",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFAzSmpZSlkzQ0hKN2swb3Q2ZTJSMnpGNjFNZE1HeDhuTHYxVEV6RHN2Q0xMTHhmdTF2TW1vaEc4VzF6eWRrTG95Z3pMd1dtV1VEQ0VVR0JuVEZPU1dSa3ZlenVYRGtTd3VNNzZrclkwdUNxcFl1ejY2cmdmMW5OSjJwTExFUW1SQ05sMGxJTXM1eDZsRWZNT05LSi1Hb0RpMjQ5TjZ4TW5iSm5LWkRmRkJHNVpZa3BLSm4wQnFaOHBqZXM2?oc=5",
+      "source": "Sudinfo",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-11-02T11:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Gault&Millau 2027: Ein Steinfort-Restaurant, das in Luxemburg zum „Mittelmeer des Jahres“ gewählt wurde. Entdecken Sie die ausgezeichneten Restaurants",
+          "summary": ""
+        },
+        "en": {
+          "title": "Gault&Millau 2027: a Steinfort restaurant elected “Mediterranean of the Year” in Luxembourg, discover the awarded restaurants",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Gault&Millau 2027: e Stengeforter Restaurant, deen zu Lëtzebuerg als Mëttelmier vum Joer gewielt gouf, entdeckt déi ausgezeechent Restauranten",
           "summary": ""
         }
       }
@@ -4744,6 +5537,39 @@
       }
     },
     {
+      "id": "31cc69e3396f7e93c71605a09718c85bc303fc61",
+      "title": "NEWS - Attacchi hacker ai supermercati in Estonia, Lussemburgo, Irlanda, Belgio e Svezia",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVnVoeHRDYWNtVXhKWVFoQ2txUDdZZkdZc01fUk5GelViVWNFVG5hTjQzUWF2WmpndEExZGRqeFJ3dmVRTUIzazhNMVpSdWpmWkFReEkxTU1tY0dSdEkzWmFpa1dlUlpLVVBRTnZqbmlWLUo1dHhGRUJYYmJJOTFVcmVxVE5kVXIybEJqMWxOZHBTaFBTdm1IZkQ5R3NuN3FLRXZlQVl0NTh4S1Z0bkdEOUs3SEpWRUVGMkp0V2k0WnhvQWVZZk9rZ0IxRDJFQ2F5RWItbkNNdmVJNWhL?oc=5",
+      "source": "Napoli Magazine",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-02T09:00:05.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {
+        "lb": {
+          "title": "NEWS - Hackerattack op Supermarchéen an Estland, Lëtzebuerg, Irland, Belsch a Schweden",
+          "summary": ""
+        },
+        "en": {
+          "title": "NEWS - Hacker attacks on supermarkets in Estonia, Luxembourg, Ireland, Belgium and Sweden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "ACTUALITÉS - Attaques de pirates informatiques contre des supermarchés en Estonie, au Luxembourg, en Irlande, en Belgique et en Suède",
+          "summary": ""
+        },
+        "de": {
+          "title": "NACHRICHTEN – Hackerangriffe auf Supermärkte in Estland, Luxemburg, Irland, Belgien und Schweden",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "3316c46230aa7312fe0403a6d8b5b5049f5ba071",
       "title": "Hackers saboteren koelkasten en vriezers van supermarkten in België, Luxemburg en Zweden",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObW5hZHVaRGFadm5aN1JUQkFHS1BXWnh4eTdQc19wTGQ1TWkzUXZpVEZOUHlNVDRrVU1RZklwUDFOQ0ZxYTh1OTZnejVpYi1LYmZFWDJ4QWJrdmtDWkgtLXBGUTFEY25kNWVwMFJLbWpHR2lpOWZ6d3diUThUUWVjRmVWUFdfbDBoY3pSMnNNRENRQjRfLU9rTW5WNjBBdmMxSzRrSTFubWVRODVxRlllMVFnMUZiRWVTTkJmVTlVZGlNcFJweGd1dFhFZERDNVU?oc=5",
@@ -5090,6 +5916,39 @@
         },
         "lb": {
           "title": "Workshops zu Lëtzebuerg fir Fraen DIY ze léieren: dat sinn dem Vanessa seng Rendez-vousen!",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "3565ed1785eb64417fe36fc4f1b357e98c42b52f",
+      "title": "Longevità se il reddito non basta Imitare Svezia o Lussemburgo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmdySXJNU05GcTdHN2tNU3VQdnd1RmN6S2pFRk9fNjJZcGZ5S2NmYjRvRGdvSE9PMklDSWFXZ3BzZFdpamFuWWNQb291MWQ4dkxZVWhQQkFRRVNqOWtoa0xLNDU0eTJqMUNZVXM1cU9fbFd0Q280OEpibVVoVG1FN2lDM1NmdXI0RktaZEdnVmdjejRWMlpQSHZIc3hSclRxdHJ3WWxOb0I?oc=5",
+      "source": "Zazoom Social News",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-02T04:49:02.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Longévité si les revenus ne suffisent pas Imitez la Suède ou le Luxembourg",
+          "summary": ""
+        },
+        "en": {
+          "title": "Longevity if income is not enough Imitate Sweden or Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Langlebigkeit, wenn das Einkommen nicht ausreicht. Machen Sie Schweden oder Luxemburg nach",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Longevity wann Akommes net genuch Imitéiert Schweden oder Lëtzebuerg",
           "summary": ""
         }
       }
@@ -6722,6 +7581,39 @@
         },
         "de": {
           "title": "ÉVRY-VIRY - LUXEMBURG",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "e9c4f1e3524fd1f2c52cbe7ff89c5410690c5c4f",
+      "title": "Piratean los frigoríficos de supermercados de Bélgica, Irlanda, Luxemburgo, Países Bajos y Suecia",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdS1tMy1NVmwyRTJqeWpzWnU5WExjMXM3UzVEMHlmV05DVEt5NktnRHF4eURMVG5MbjhZOW1fQk52MENpMnVwRVN0djc4RmxqWE1ia0U2Q3YwUUpsWmU3WjBlcDROcEthQU55YlpwSHItV0ZwQ3NPbFFUakVOWno5d0lhbk92b0RNa2ZBNnV4ZXdpTERGbnJjeVd0TEgwQmJNOWp1ZHRjZVNfZUt3MmFyTjg4bFFGWkpmdk4zR2RtNjhNejhndEZ3VDU2Z21QWWxiT004QVdkNlA1YXdJTllua2RGbWpsazVWNlY40gGHAkFVX3lxTE5ndkJfRlg1ck9DOGp5QXFBYVpBMWpmSFVzV2VOdTVZbnVEek9UOWkyUnJITnh1UTFpUV96UHplN293RXh2am9BYmtHcDdnNHowdzJNcHdGdUVlTmFVTEo5Z0xQd0pfak1xV3JtVmwxTnZFd2RsZEowdWhkZ1ZzTzR3Y2M3cTBERUViWFNCYnc2amhIS1puUEV5WjgyQ1hNNnExTVI3YVNhemhvekVsUGE4RzVfTDJWRzRVS0p0c2t6ZGFjZHpheGNMZ3RGdHZSZWo5aUI3Wk1DN2pPekFfbFZqa1VYMHlYbHg0bFNTRzV5VEg0NmJWRFlVX0M5a0FFQWJVckRYYVVJ?oc=5",
+      "source": "La Voz de Galicia",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-10-31T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Des réfrigérateurs de supermarché piratés en Belgique, en Irlande, au Luxembourg, aux Pays-Bas et en Suède",
+          "summary": ""
+        },
+        "en": {
+          "title": "Supermarket refrigerators hacked in Belgium, Ireland, Luxembourg, Netherlands and Sweden",
+          "summary": ""
+        },
+        "de": {
+          "title": "In Belgien, Irland, Luxemburg, den Niederlanden und Schweden wurden Supermarktkühlschränke gehackt",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Supermarché Frigoen gehackt an der Belsch, Irland, Lëtzebuerg, Holland a Schweden",
           "summary": ""
         }
       }
@@ -9497,6 +10389,39 @@
       }
     },
     {
+      "id": "8ca0c068fb0483aedc8be32a156650891cce7a65",
+      "title": "瑞銀 (盧森堡) 全球多元關鍵趨勢基金 (美元) 的總覽 | 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNSTBmQlFpdUZIZEQzdTIyZmtULWd4cWFFSTRaYl9VOF8zUS1ob05rTE9YaEUyMnFWd1dCaUc2ZnlNbjRGQ3lQYmdhSUhlc2Z0SEZUdFYtTVhsLUFYaU5aQXFmZ2FfNUIteGsxOUR1UmRtbzJBY1oyRUVncnByVUlOZWVzaEFxOFpYdUJHcHl3Y2RGbmZmTDBPQy0zMEljQUZiZGpkVnRHSjJLcFM4UE56dFZjcVBZYmpiOEQyZW9lQVFOeWFMN00zNHhVSmVEd3N4d1dzaENCcTdXeGwtWnd1a0w3V1dKUHl1Z0l2SXdFNy00aVNiR01OZm9BRGZMME9JaVk3a3RqOEJyY3RYNWVzbzNGYm9JaGNBdVNvNUxTOWRBb196Ul9tZ1NHX0VLYnZaQnNOd0R2N21KdVRkU0d1bUpQRjFIMDlvZjJva3J3?oc=5",
+      "source": "鉅亨網",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Iwwersiicht vun UBS (Luxembourg) Global Diversified Key Trends Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "de": {
+          "title": "Übersicht über den UBS (Luxembourg) Global Diversified Key Trends Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "en": {
+          "title": "Overview of UBS (Luxembourg) Global Diversified Key Trends Fund (USD) | Juheng.com",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Aperçu du Fonds UBS (Luxembourg) Global Diversified Key Trends (USD) | Juheng.com",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "dc536c6bf14210ff7a45d2deccf24ddcd1901892",
       "title": "Mata Leão - Volksbühne am Rosa-Luxemburg-Platz Berlin",
       "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPS1ZZNWpGQ2pCRXUwNEp4Vlo2YkhPYlJSRDFmV0o2dlVWcG1wWlpGX0U2bVdyZ1BjcGVyTTRaNURNeTlKS3ozM1EyVjJKZzh1aVQ2X1Y5RXh1ZzFtTXh1WWFTUGlCd2NjQjZtOTZESXhDT1BZT3FTV0ROQUs1OEdEZUFUMXJibzYzTm4ydkE1OHUydWZBblBUdnUwTzRCcWFxd0tMWHVTZzZoWVpqalFBbmd5blhYcWdlbnBYbU5hZXJ2N2hsMTBGWS1DY2JWR202UXVtUlpIS3RybllRZkJpRnNwMmxFcThac2hjZEpLOUFGQi1WdzhDWGpLVV85cnlyNnlVWXk0RGNSV3J1MnFQeTd1U3FZclZHcTZocG5iazhlWXJxQWlGdWhXZlJIR2EyamhZRGpBQnRDZWFTRXhTWjJMWk1GRWstM2c3SmltR0xYelZWOGp4anRmYjZqSllO?oc=5",
@@ -11846,6 +12771,72 @@
         },
         "fr": {
           "title": "Prix ​​et données commerciales des œufs de dorade luxembourgeoise | Aperçu du marché 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "9be85d5f4a34cc291eadd4931b9df7047a9fa2b2",
+      "title": "룩셈부르크 머스터드 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzbzZGaldOeWc0SWFNNGN1Z0dpOHJadkd1S0FTb2wtdkszeXhrVzJmUTZ5Z0FWb1h0SEgwT01zTjV6TndLYU9KRXVMeWlCQVJUYzZvTUs2b3phb3BaYUU0OEJ3?oc=5",
+      "source": "Tridge",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Prix ​​de la moutarde luxembourgeoise et données commerciales | Aperçu du marché 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg mustard prices and trade data | Market Overview 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Lëtzebuerger Moschter Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Luxemburger Senfpreise und Handelsdaten | Marktübersicht 2026",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "id": "ad36a9f899703f146c8375fef73e5913e04482e5",
+      "title": "룩셈부르크 속 채운 민트 사탕 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wM2NuRVJjZW5xdVh3TGN6ZVpOVXhxMjBZR3RpZ3FqbzFkTE40S0JzakhZZDlCS1hnbUZOODZUWmdvWEFyUWNFd1IxSzFpclFmRXpoRFBhSmduM0VSRk43eFg3NW5xckM4NW5vRWUtTQ?oc=5",
+      "source": "Tridge",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Prix ​​et données commerciales des bonbons farcis à la menthe du Luxembourg | Aperçu du marché 2026",
+          "summary": ""
+        },
+        "en": {
+          "title": "Luxembourg Stuffed Mint Candy Prices and Trade Data | Market Overview 2026",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Luxembourg Stuffed Mint Candy Präisser an Handelsdaten | Maart Iwwersiicht 2026",
+          "summary": ""
+        },
+        "de": {
+          "title": "Preise und Handelsdaten für gefüllte Minzbonbons aus Luxemburg | Marktübersicht 2026",
           "summary": ""
         }
       }
@@ -30188,6 +31179,39 @@
       }
     },
     {
+      "id": "aa3c7c464e1bf7b92e617be2de03789fe9fbb006",
+      "title": "阿提哈德開通盧森堡—阿布達比唯一直飛航線 - 新聞與統計",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQk5rWWUyc0JBNy1XRE1RVU5wNXdqQ2NWWHowLTFWRmFELVJDNTNNRWhYSFFmdDJQa2trUXQyc2hvR1BIYm56S2NBVGkyb2lEUVpsMG9nSEY2TThmQnFyQzQtSTlSemVxS1lqaFNuelBRdlJNd2JESm5mUlptRUZBVmJZZWtiby1WaG05MHJlU0ctaFRJR3lkazVRSEpBdmFocG1hWVRB?oc=5",
+      "source": "IndexBox",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "zh",
+      "publishedAt": "2026-10-21T14:43:17.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "de": {
+          "title": "Etihad führt einzige Direktverbindung von Luxemburg nach Abu Dhabi ein - News & Statistics",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Etihad lance la seule liaison directe du Luxembourg vers Abu Dhabi - Actualités et statistiques",
+          "summary": ""
+        },
+        "en": {
+          "title": "Etihad launches only direct route from Luxembourg to Abu Dhabi - News & Statistics",
+          "summary": ""
+        },
+        "lb": {
+          "title": "Etihad lancéiert nëmmen direkt Streck vu Lëtzebuerg op Abu Dhabi - News & Statistics",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "ff810c5295966d29c78beee867e50c9b24c52c7d",
       "title": "경일대 사진영상학부, 루트 블리스 룩셈부르크 교수 초청 특강",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKbGtSNlFtd3lRcWlpWFN6bkhSTVItaWpMMjNDYWVDSVpKbGJ2YTE0THRkWmZ2ZVZwVVAwRVExOHo2VlJoMllwT2VQbGdTTXlLYTdOcmdHTjlKNFZicWkyZXBkS1VPQdIBaEFVX3lxTE9Nd3ZHdFVGeUhPR0IzWDViRm1ERkgyd0ZiY0g1TV9RWHFvdWJWSFVoVnJQV1Rod2pzWHFMdTZwd2JWNG5mZW01X180LXQ4U2VyZl9Tb2F1dlhBWmRoOUdXRzhCdGFjMklD?oc=5",
@@ -46213,6 +47237,39 @@
       }
     },
     {
+      "id": "11ab890d4584001ab158457f19ad84b30ee765c8",
+      "title": "카르타, 룩셈부르크에서 펀드 행정 및 명의개서 대리인으로 운영 승인 획득",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yN0poUkhKVVBGUEgyd0xKelJ2dkVVU0JlNnA0WXdEd3dqdFRFR0JzWE5TTHRKdHk0MUVncWg5NzhmcllvOFNXbWEtaEljM0hLZXNfNkxWRFRBU19CSlBkREUtR3I4QzNmdzBqSVNB?oc=5",
+      "source": "koreasprint.com",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ko",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {
+        "lb": {
+          "title": "Carta kritt Genehmegung fir als Fonds Administrateur an Transfer Agent zu Lëtzebuerg ze bedreiwen",
+          "summary": ""
+        },
+        "en": {
+          "title": "Carta Obtains Approval to Operate as Fund Administrator and Transfer Agent in Luxembourg",
+          "summary": ""
+        },
+        "de": {
+          "title": "Carta erhält die Genehmigung, als Fondsverwalter und Transferstelle in Luxemburg tätig zu werden",
+          "summary": ""
+        },
+        "fr": {
+          "title": "Carta obtient l'agrément pour exercer ses fonctions d'administrateur de fonds et d'agent de transfert au Luxembourg",
+          "summary": ""
+        }
+      }
+    },
+    {
       "id": "2d4732576cb83a5c3ee2e114907d56af8bbc1e43",
       "title": "Rama, Frieden ile görüştü – Lüksemburg’a direkt uçuşlar Mart 2027’de başlayacak",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVJsZlhGN2tnZ293RkNKRzcwbHozaC1wb0hxSlM2WGVxaE85dU5fc19YYjczVFdSVS1iWjM2d0FpQ25jckxNYnBwMEt0dDV1WWVMR1YySjdSV012VGwwVTBWWkxPUDdZcUc5amRqWjhPSWt1dzFXN1l3ZGxYTjJrUXhTVUg5NEdzaFFpQVRIblFxVWR4dmp6WGVBVi1DQjA?oc=5",
@@ -46270,1051 +47327,6 @@
         },
         "lb": {
           "title": "Montenegrinesch Dammefussballspiller iwwerzeegen zu Lëtzebuerg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "31e945ef787498afece14b0cf4376a1d8b87f15f",
-      "title": "Luxembourg September 2026: BMW now #1 year-to-date, passes Volkswagen",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcF9pdEhDX090RjRsd2F1WTc4eXlBeHBka1REQTdjai1QeThGOVQyWXg0ZTA5UWx4YjhDWFhzbFRyblJCMWRLRklsZEVYVGxMZ2Jnclh3eVR6bUp6Rm1ZTkRYWktwano5MWxXTEFzUUdzamhJT3M5S0xlYmE5TldrdXF5RC02RVdrbUlyT3B6TE9NWHFlcEo0WGhzQ0hjQ29wa25hTnhWYmFsZk0?oc=5",
-      "source": "Best Selling Cars Blog",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-14T06:17:35.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg September 2026: BMW ist seit Jahresbeginn die Nummer 1 und überholt Volkswagen",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg September 2026: BMW elo #1 Joer bis haut passéiert Volkswagen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg septembre 2026 : BMW désormais n°1 depuis le début de l'année, dépasse Volkswagen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "552e7c3d258c80cee35cb64c565497d331c9778b",
-      "title": "Promisiune inedită la Luxemburg. Marta Kos i-a spus unui jurnalist NordNews că îi va face cinste cu o băutură dacă Moldova va deschide toate clusterele până la sfârșitul anului",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPVzJ0RWJLNmpGblZwSmtCV1ZpeTBHZ0g3VHNremplbFN0YjgyZnZualFHbWdPcXhGRjN5cEdfa0tuNTZ1WXRUV240WU5qYzBOaFljYkRiLTFRb1dCN3VRMlQ5b096WVhzUGtxMlNnT3JXWXNmNW9zVFhxX20xejJlcTJxU0lRVnFxOUdtcVA2TGdQQ2RSTzFlR1dCa2dXQ2l3R192eFVjYXp4QnVGdHhkYk9LZzZNdk1PR2tVTDJndF80YVNqZDBNb195LUMxTnVlWDZjVFZiYkdMcVBpQ2tYNDdtZnZiU3h5U3BYelg3bllEMmlzOGdWWnk1VmFwVjRsaGtNbmZWdk9pYm94VGI3cEJtdHFuaGZFWGEwSDhmLTdDNjNBUU1uamJUYmFJMmw5QkQ1TkYtQ2xSSEMyb3c?oc=5",
-      "source": "Nordnews.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-14T06:17:13.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "En eemolegt Verspriechen zu Lëtzebuerg. D'Marta Kos sot zu engem NordNews-Journalistin, datt si him mat engem Gedrénks géif honoréieren, wann Moldawien all Cluster bis Enn vum Joer opmaacht",
-          "summary": ""
-        },
-        "en": {
-          "title": "An unprecedented promise in Luxembourg. Marta Kos told a NordNews journalist that she would honor him with a drink if Moldova opens all clusters by the end of the year",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Une promesse inédite au Luxembourg. Marta Kos a déclaré à un journaliste de NordNews qu'elle lui offrirait un verre si la Moldavie ouvrait tous les clusters d'ici la fin de l'année.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ein beispielloses Versprechen in Luxemburg. Marta Kos sagte einer NordNews-Journalistin, dass sie ihn mit einem Getränk ehren würde, wenn Moldawien bis Ende des Jahres alle Cluster öffnen würde",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "eeab2867857a25d47ebf8419daf1563194e61c3f",
-      "title": "На Розы Люксембург приостановили движение трамваев из-за регулировки путей",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEpEdUFMTk5adlAxaUFvTUlBT1hMYUQ5dXYteU5jNExheS1ZVEVQQWpqODF2OXotWlVDdWVCSVkxdjJWTEpWaGRwRVRwY3U3dUVELW5fSWstMWI5ME13enl2ams3b3QtWVRwY1F1SVB0YjVKOUhZOFozQzZjTkdBM1ZvSEk5bkxjQ2JsUmg2cGgxeFNjZVpiLVJIeGxxRGtIZVhZUWpjU3A5S3hp0gG0AUFVX3lxTE03bG9nTkt0SDRKMl9aekwtM2kwc0FOTnpSbGpIal9MNGZSSlVaUWpLNkxXcUlPY3VfMUNKQXVCOVc5blNpeEhBcG9rbXJDX3pxeVVmTXdWc1JTV2hLSU53Mk9IZDVsV0ZoWHd2N1Z1ckJtWXI5Smo2VXRwTGh2UXZxaVo5bjZGcENGa3pPNm4wNnZSUUFkUjZqQW1TYTVuNXFobkE0dkNFa01EZVBHd2ZQUUVkOA?oc=5",
-      "source": "Улпресса - все новости Ульяновска",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-14T06:11:25.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den Tram gouf op Rosa Luxemburg suspendéiert wéinst Spurenanpassungen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Trams have been suspended on Rosa Luxemburg due to track adjustments",
-          "summary": ""
-        },
-        "de": {
-          "title": "Aufgrund von Gleisanpassungen wurde der Straßenbahnverkehr auf Rosa Luxemburg eingestellt",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les tramways ont été suspendus sur Rosa Luxemburg en raison de modifications des voies",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d261f04fedb3b40c633b0ca84a93bd3e8f542bf5",
-      "title": "На улице Розы Люксембург приостановили движение трамваев",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGZQbFNiaU5LbEJNbDAxQjc0QldGYk9Cd3lMeGkxcnU2UzZrck5TNGxEMmFtRWhLbDM3VGl5VFhzVy15NjZ0UmN5TWZKZVppMmZTd0lfSy0zb3JxaUxnblVRZTQ3WmoxOUJJek03VFpuTUpQd193cU1LRHNKeU11cVk3WHltYU82aFlNSWVSWEzSAZMBQVVfeXFMT3FSWTZxcUV3ZThBUHB6UFpHYWJyTU50VEhxNVMwMTN5Y01ISTJ1YUNHZ3dzcjlsODlOWjVseTZmSUlMWENQOXlIWUZDQ0xYWklMWnB2TnFsdjdQMDJjeS1LY2hma1g3SXlQSjNNUWNiXzVsTDVxS3FiVW84X3RtcFQ0VW1BaE5QY3JQVHMzX2UtXzJz?oc=5",
-      "source": "73online.ru",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-14T06:11:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den Tram gouf an der Rosa Luxemburg Strooss suspendéiert",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der Straßenbahnverkehr in der Rosa-Luxemburg-Straße wurde eingestellt",
-          "summary": ""
-        },
-        "en": {
-          "title": "Trams have been suspended on Rosa Luxemburg Street",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Les tramways sont suspendus dans la rue Rosa Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2cb9b4f2cdf1fe28dacf77d1fcb09df08120cfa4",
-      "title": "Le député LFI Emmanuel Fernandes défend un \"principe de compensation\" fiscale entre le Luxembourg et la France",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOdEdsanZPTVdmSThTNmJNVTZ1QlRjN0RQSG1Xbi1DUTIxSmtYUDdVUlVxMWN0UmQ1Szd1TVQ1TGJET1JUdXJCR1hqLWJrM0dOMHgyc3doM2xfQjYtU3lOZWFOakhXR0FGbnpZVHZxbXM1WGVNMTFoVUFxQnN0U1FSRmlNWV9zeHAwV3RVMTRpZ1o4SlZueVZPVURQMU5LcjE2TkxndUZ0d0g5WmttUXhabmJtSnZzcGctNmlTcWktcHA3Y0lNdWotOEhDVEtzX3ZLVDdsZHd1Q3V0emRIYkd6RDY1LXV0cThNcGpBQnA1Nk5DVkFENUR3M0kzamszX0xwXzd4QkMxbTNsTzVpb25KbTNTMkVzUnE0M1hNUWlKYkRWdXVkdkJv?oc=5",
-      "source": "ici.fr",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-14T05:44:30.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "en": {
-          "title": "LFI MP Emmanuel Fernandes defends a fiscal “compensation principle” between Luxembourg and France",
-          "summary": ""
-        },
-        "de": {
-          "title": "Der LFI-Abgeordnete Emmanuel Fernandes verteidigt ein fiskalisches „Ausgleichsprinzip“ zwischen Luxemburg und Frankreich",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Den LFI-Deputéierten Emmanuel Fernandes verteidegt e steierlechen \"Kompensatiounsprinzip\" tëscht Lëtzebuerg a Frankräich",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a7715fd92af80ad998657726020578168e77190c",
-      "title": "Moldova opens two more EU accession clusters in Luxembourg talks",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYW5HdFZGdmVCVHFEUWhkUWxmN2s3a2lHOV9BVG9WRzlPUDVqLXlPUE84MW9JT3JVNmp3ZVp4aURKWHZpd19EWnZWZEFIRUJ4MXdyMHhscGpWZkdUM3FfeFhBTG9fblJ1LWVXeWRMNmQ3d0dvazlSaXNBX1RLUk5YUS1FTnFYOWVLSWMzQ2hrNno2ZWJDWk40?oc=5",
-      "source": "Moldova 1",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-14T05:36:52.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Moldawien mécht zwee weider EU-Bäitrëttscluster a Lëtzebuerger Gespréicher op",
-          "summary": ""
-        },
-        "de": {
-          "title": "Moldawien eröffnet in Luxemburg-Gesprächen zwei weitere EU-Beitrittscluster",
-          "summary": ""
-        },
-        "fr": {
-          "title": "La Moldavie ouvre deux autres clusters d'adhésion à l'UE lors des négociations de Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f5ed11ae81837496e79e7472a50c774d815e48b6",
-      "title": "Neue Spritpreise in Luxemburg: Das kosten Diesel und Benzin am Mittwoch",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSllZbHZWZHc3S1owSFNETUMxTjQxbUw4bm9xT2UwYzliN0YwR0NvOThTZi1SOXhLTFZsY0dkOV9CRk5LVy0zYXhwczN2VU9zbVNwVDhXOHJqUlBUeVZYNmRRUlR2ZERaWjU0RHl2WVo3R2ZGRnY0UFhOTGlVeklZTU5tMzdTbDhzZ0FFWXJhb1VOX3BxZmlQMUdIZ2JFeFpvRkY1aWxJWHR3RGhHYXpV?oc=5",
-      "source": "SOL.DE",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-14T05:19:51.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "travel"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Nouveaux prix des carburants au Luxembourg : voici ce que coûtent le diesel et l'essence mercredi",
-          "summary": ""
-        },
-        "en": {
-          "title": "New fuel prices in Luxembourg: This is what diesel and gasoline cost on Wednesday",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Nei Brennstoffpräisser zu Lëtzebuerg: Dat kaschten den Diesel a Benzin e Mëttwoch",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "a52516aee8f4efdb108340175906d5be95f2eee7",
-      "title": "Λουξεμβούργο: Επικεφαλής Ελεγκτικού Συνεδρίου προειδοποιεί για…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNmsxRThiaE5JLTdETXpIdWkxOVo2aXA5VzRwbUV2U0c3VGk0U0RMUXVIeTRYQ2JQTFhmNFkyT09RQjFqeElJOFdhbDVLeDVwRkJ1blM3ejZtdkI2WGxUOU03Q3RvZWJfV2U0VnNyeHE0cUdJbndLVjYzRmJfa3lCdlFkcGpYYUh6UHY0MXJDWUxMS2lRYVI4bjVFc3VJUllCdmdZUURzdzJuX3lnUlBFMkhGMHptVFdMRkRaanFPaFYyY1V3M1VmNmNxTXh1UQ?oc=5",
-      "source": "Pieria24",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-14T05:04:45.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg: Chef vun der Rechnungshaff warnt virun...",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg : le président de la Cour des comptes met en garde contre…",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg: Head of the Court of Auditors warns of…",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg: Rechnungshofchef warnt vor…",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "67269873f51eede1569eb90c5fd1567e4c4eddaf",
-      "title": "Волонтеры в Бельгии и Люксембурге спасли оленят от неминуемой смерти",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXpqSThldzBRU2ZPX0pPbnVtcGp1eDJnMG1xcHVYYnhMR3I4UUZMNm1hRTk5WTdLLTJjd3JDLWxIOXhxaWhvM1l5YUVaOExTS1RmX1BxdHdmR0h3UEdqa0NTU1F5RnZqZFRkaFEwenpzckpheERvT1JQSzU4bnFGblNDOHd5ekhxanpJQUplVEJ1V2Y0VnNEYWZnMFpjdFpKMzdrVkE2R25idUNoNGJULU9taw?oc=5",
-      "source": "Европульс",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-14T05:04:42.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Des bénévoles en Belgique et au Luxembourg ont sauvé des faons d'une mort certaine",
-          "summary": ""
-        },
-        "en": {
-          "title": "Volunteers in Belgium and Luxembourg saved fawns from certain death",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Fräiwëlleger an der Belsch a Lëtzebuerg hunn d'Fauen virum bestëmmten Doud gerett",
-          "summary": ""
-        },
-        "de": {
-          "title": "Freiwillige in Belgien und Luxemburg retteten Kitze vor dem sicheren Tod",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c8edc5f9b964d1e0a35817461873db03e0d4c4c1",
-      "title": "#luxemburg #müllerthal  #felsen #wandern ",
-      "url": "https://www.tiktok.com/@ekaterinakrass1810/video/7696384893051325728",
-      "source": "@ekaterinakrass1810",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-10-14T05:04:17.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/ow0zDfitEEdmIVDwqFqQFBqPItRwAFn4LDJcfn~tplv-tiktokx-origin.image?dr=9636&x-expires=1792130400&x-signature=r7dzlXjF4HVgBKKTp3noqxth4nE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "#luxembourg #müllerthal #rocks #hiking",
-          "summary": ""
-        },
-        "lb": {
-          "title": "#luxembourg #müllerthal #fielsen #wanderen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "#luxembourg #müllerthal #rochers #randonnée",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "7e331792ddd0a68c9cfa2fd7f6e268ef1160530e",
-      "title": "Luxembourg Flag Draws Greek Shipping: METIS MARU Reflagging - News and Statistics",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjhNcDFuUzFPa3VuaGF6eXpIQm1nYWFWUDBkSFRpZnNYX0NlU3pfc3FoSFF4Qk9kek5ZbVg4UGdpdk9PaGJ5N1hDTGkzaWNIYWJoWTV2VjAzNWFKaHQwQ3Z5TzMwcTE0YU4tbFZXWmcyTWNPS0lwd01NOTZ1ME9JTWU4WkNGOS00SGJtZTBNcWRNUTU3ZWc?oc=5",
-      "source": "IndexBox",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-14T04:54:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Die luxemburgische Flagge lockt die griechische Schifffahrt an: METIS MARU wird umgeflaggt – Nachrichten und Statistiken",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Fändel zitt griichesch Versand: METIS MARU Reflagging - Neiegkeeten a Statistiken",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le drapeau luxembourgeois attire la navigation grecque : METIS MARU Reflagging - Actualités et statistiques",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "885dcf0c96f498a831994b33578dfe8f32f89734",
-      "title": "盧森堡船旗吸引希臘海運業：METIS MARU轉籍 - 新聞與統計",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUtVU08yZk1GLVVQM0dvVThncjBTRXBDRnh1bFJ6WDJ0LWV2dy1HcWk4OWFFWGZJalROXzRsT1VJNHNoa01xSXdXXzN4c01BTTRXdVVRV1ZVM1ZXMk9wd1ZINkhBUXFCZFpsQUJ5LTBNWXR6VDk2Q1NKdlh0WDdwZk91XzFWUWV0dzN5SF9vY0VlcXg3UmJZZS1lZ21KMVd0?oc=5",
-      "source": "IndexBox",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T04:54:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburgische Flagge zieht griechische Schifffahrtsindustrie an: METIS MARU-Transfers - Nachrichten & Statistiken",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg flag attracts Greek shipping industry: METIS MARU transfers - News & Statistics",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Fändel lackelt griichesch Schëfferindustrie: METIS MARU Transfere - News & Statistics",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le drapeau luxembourgeois attire l’industrie maritime grecque : transferts METIS MARU - Actualités et statistiques",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "157886a6be3abe0599152314c8efe6a0bf9fa1fc",
-      "title": "ルクセンブルク船籍がギリシャ海運を獲得、METIS MARUが船籍変更 - ニュースと統計",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmVnSEJsX2U0OEZLY3pMUEhOd21pVUZsR0RCbU9yWVJTZmd6bm5GMGFWWmpodl82OTFYZ3NZaE11cG5wbWVQcUUzeGVtUUlPZzl4NFVIU3dHdTZNbzRVZFpoSTdzUzZqLVA5ZkhFbGJTWVdqV2VqVUhvR3Y1TzhvOTAtYW9KU05oUDk0UnpLZG1Sd2d1N2ZrT3Z3?oc=5",
-      "source": "IndexBox",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ja",
-      "publishedAt": "2026-10-14T04:54:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Le pavillon luxembourgeois acquiert la navigation grecque ; METIS MARU change de drapeau - Actualités et statistiques",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg flag acquires Greek shipping; METIS MARU changes flag - News and statistics",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Fändel kritt griichesch Schëffer; METIS MARU ännert Fändel - Neiegkeeten a Statistiken",
-          "summary": ""
-        },
-        "de": {
-          "title": "Die luxemburgische Flagge erwirbt die griechische Schifffahrt; METIS MARU wechselt die Flagge - Nachrichten und Statistiken",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "091fd6a2f28857265142072ba50195485e45d673",
-      "title": "Флаг Люксембурга привлекает греческих судовладельцев: METIS MARU меняет регистр - Новости и статистика",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWW0xYWpSQ1dGTXkzNFhtVUppcTVMT0pmWXJsTVVxSWdUdGdHcE1jd0FKMlVIREF6M2tMTm9VWUotV2RqZ0daMXF6Y3psc1U2UEYtbmRLSHFGUGlPRjJOMTZMYjhCQktJOWNldVpNTF9PZDM4aXY2WHUzcnN2WFBDcWtJT1NoNG8xcmVQRkpfVmpKQkwyVWZEVWh3?oc=5",
-      "source": "IndexBox",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ru",
-      "publishedAt": "2026-10-14T04:54:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Fändel lackelt griichesch Schëffer: METIS MARU Ännerungsregister - Neiegkeeten a Statistiken",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg flag attracts Greek shipowners: METIS MARU changes register - News and statistics",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburgische Flagge lockt griechische Reeder: METIS MARU ändert Register - Nachrichten und Statistiken",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le pavillon luxembourgeois séduit les armateurs grecs : METIS MARU change de registre - Actualités et statistiques",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9224035788762aaf831034ccd3e0677c500b6b0c",
-      "title": "علم لوكسمبورغ يجذب الشحن اليوناني: إعادة تسجيل METIS MARU - الأخبار والإحصاءات",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVzRyMnJVRUt1SzlVTnJaMV9mdHc0ZUxKamI3U1UxeDJPQ2JHTFlIYy11QjBVb1hZM0s3elAxNjdieWxRYm5GY3ZFU0Zwa0VaX0dxWEtLckZ6VUVETkFCTnE2eVI1d1hjSklXekN5NE4tSkg3ZmRVN1dGU1c2Nms3TG03T1R3UGZqNG52MjEwX3lmZUVlbXZQVjB3?oc=5",
-      "source": "IndexBox",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ar",
-      "publishedAt": "2026-10-14T04:54:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Fändel lackelt griichesch Schëffer: METIS MARU nei ageschriwwen - Neiegkeeten a Statistiken",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le pavillon luxembourgeois attire la navigation grecque : METIS MARU réimmatriculé - actualités et statistiques",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg flag attracts Greek shipping: METIS MARU re-registered - news and statistics",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburgische Flagge lockt griechische Schifffahrt an: METIS MARU neu registriert - Nachrichten und Statistiken",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e03f60327be9ea7c98a2f98798eab1c70a5b327e",
-      "title": "룩셈부르크 기치, 그리스 해운 유치: METIS MARU 재선적 - 뉴스 및 통계",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSmNNdEFGYVBJeERnU3hQVWFoZnhJYXVJR2MtNnJvOXVFNDY1MWhGSGRwWTlRZ0JMTzlVbHR6RFBCV1dGdWd2TmI2aklnU2dsME9PYjdkS3hsOVZGalE3Zy1WRUROUEs3dEQ4Q2pYc2diRGkyWTVabkVnb0lCckQ1VlpUcFBqUjlLUFhUQnlWbVl6YnplRWVmRTlR?oc=5",
-      "source": "IndexBox",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-10-14T04:54:02.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Banner lackelt griichesch Schëffer: METIS MARU reships - News a Statistiken",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg banner attracts Greek shipping: METIS MARU reships - News and statistics",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg-Banner zieht griechische Schifffahrt an: METIS MARU versendet erneut - Nachrichten und Statistiken",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'enseigne luxembourgeoise attire la navigation grecque : METIS MARU réexpédie - Actualités et statistiques",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2aa71edbbad1c75e553f3a6f9a3bf94dc82f4f9c",
-      "title": "Alpha Bank: Οι επόμενες κινήσεις μετά το rebranding, η UniCredit και η private bank στο Λουξεμβούργο",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYUtSV3BXOWFaRTFfSnlxUEhwQ09aaWZpbVl1ejhDLUtFQWRCb3pMOFN0b2pUUURqdTNJeUpRVVhNS3h2S2djRFpDZmFiOWttZ2ltNlJ3eVljMVVsV2R4TDQ2dnQ4X0JjTG4wLTQ5T3RJRUlmMnNjMmRPU2tILWp3M1E5a2tOZmVvZ21SVTlrWGJ1ZU5mWmtheFQ5bXhTbTlvX1ZkYlFkUHFRZFpGX1RhNVJUMm5tUHU4X3ZyWXhuempWSmlWeWQxM295Xzd3bEZzUTY5SWR6c3A?oc=5",
-      "source": "PowerGame",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-14T04:32:41.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Alpha Bank: Déi nächst Schrëtt no der Rebranding, UniCredit an der Privatbank zu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Alpha Bank: The next moves after the rebranding, UniCredit and the private bank in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Alpha Bank : Les prochaines étapes après le rebranding, UniCredit et la banque privée au Luxembourg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Alpha Bank: Die nächsten Schritte nach dem Rebranding: UniCredit und die Privatbank in Luxemburg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e0cbc98fcd2458b9d394e1c3cd8c141e8a413d07",
-      "title": "Honour historic school architecture with forward-looking design across Luxembourg's primary campus.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSnVyZVl3MWpOQVRmbHJkMDVlZmlBM1lRUUh1ZnpCT2ptWkhqQXdhd3Q5MnBWQlg3VkpOenJxT3VLS3ZkZWVZR0V3VnJxM3pqQUI1YmhaYXVwbnI0bWpoQXdfWHR4aHlCckNJV0h3VHZJZUlDTTFyUHAwMzVQTUFFQ1doWlBSWU9JM09HTTdBMHk1MFVaa2FYZTBIQThCN2hjTlVrMW8ySG5DVDVxVXlBSHVCTmNjcmhxVnd1dk5halNGN0sxdVRQMGZqQ1RJNmprS3hzQlpjamNGSzVVcHNlY2hzWQ?oc=5",
-      "source": "Architect and Interiors India",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-14T04:30:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Würdigen Sie die historische Schularchitektur mit zukunftsweisendem Design auf dem gesamten Luxemburger Hauptcampus.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Éieren historesch Schoularchitektur mat viraussiichtlechen Design iwwer de Lëtzebuerger Primärcampus.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Honorez l'architecture scolaire historique avec un design avant-gardiste sur le campus principal du Luxembourg.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f82d26efe4f05a0be470a84313573e7d08a02160",
-      "title": "Island - Lucembursko - 16.11.2026 18:00 - Liga národů UEFA - Liga C 2026/2027 - online výsledky | Fotbal | Sport",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vZ2l1Zjl0Z3F0QkVFcGo5cURUNFM5c2IybllnMUhBTURUdDM3Tm03TENLLUR5LVY2R0gzNWhEOVY4aXBSSVhHNEhCVUpnVHhGa0FQZVBzYldaQkJ1bGN5YTlGd0t0UWVoV2lXdmF2MFFnb0ktaHZoUVFENUw?oc=5",
-      "source": "TN.cz",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "cs",
-      "publishedAt": "2026-10-14T03:19:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "sport"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Island - Lëtzebuerg - 16/11/2026 18:00 - UEFA Nations League - Liga C 2026/2027 - Online Resultater | Fussball | Sport",
-          "summary": ""
-        },
-        "en": {
-          "title": "Iceland - Luxembourg - 16/11/2026 18:00 - UEFA Nations League - Liga C 2026/2027 - online results | Football | Sport",
-          "summary": ""
-        },
-        "de": {
-          "title": "Island - Luxemburg - 16.11.2026 18:00 - UEFA Nations League - Liga C 2026/2027 - Online-Ergebnisse | Fußball | Sport",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Islande - Luxembourg - 16/11/2026 18:00 - UEFA Nations League - Liga C 2026/2027 - résultats en ligne | Football | Sport",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f0097c31768ad88c474b8406604e7d31f58723b8",
-      "title": "VIDEO // Viceprim-ministra Cristina Gherasimov, înaintea Reuniunii de la Luxemburg: „Suntem pregătiți și foarte hotărâți să realizăm reformele necesare pentru aderarea la UE până în 2030”",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNUWx1ckt4clN5X3piU1hkdFk2Y2FWLUF4ckQ4NWY0MUpkdVBOeEF5UTRqWWV4ZmhYVndRcklLWVpPemlZVUdSNThsVmk1VllDazNLb20ybkNsbHR3S1BEQ1RMaWdFTXRwLWoxWlk3aURGRGlkckpVdkxUb3ItV3R0djNRSFdBTDhYTEV6ckhQYlpTMnJ0bHJyWTVMTENNd0JObnVGNVFYeE4tMDZsdTV2dWdhamRNNWNkYW84dUdOUGR4X2FPZThweThmSmEyQmhtOHpVMUtMWEo2N1RvZmprU2ttZGNFM3VicWZKZVY3Z0RmM1VYbDFJYnVCbzE0QXloTkRBYWxPMHpGdWR0RURVRXNHZWZYcmgzbml3T0hhY01kbWZmZmxwU3E5WXo1cHhlaklQcHZFQnE?oc=5",
-      "source": "Moldpres",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-14T02:14:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "VIDEO // Vizepremier Cristina Gherasimov, virun der Lëtzebuerger Sëtzung: \"Mir si prett a ganz décidéiert fir déi néideg Reformen fir den EU-Bäitrëtt bis 2030 duerchzeféieren\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "VIDEO // Deputy Prime Minister Cristina Gherasimov, before the Luxembourg Meeting: \"We are ready and very determined to carry out the necessary reforms for EU accession by 2030\"",
-          "summary": ""
-        },
-        "de": {
-          "title": "VIDEO // Stellvertretende Ministerpräsidentin Cristina Gherasimov vor dem Luxemburger Treffen: „Wir sind bereit und sehr entschlossen, die notwendigen Reformen für den EU-Beitritt bis 2030 durchzuführen.“",
-          "summary": ""
-        },
-        "fr": {
-          "title": "VIDÉO // La vice-Première ministre Cristina Gherasimov, avant la réunion de Luxembourg : \"Nous sommes prêts et très déterminés à mener les réformes nécessaires à l'adhésion à l'UE d'ici 2030\"",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "602081c2a8a8a9ac40f5e71efcbc3ebe7935a7fe",
-      "title": "Reuniunea de la Luxemburg // Cristina Gherasimov: „Decizia de astăzi le oferă cetățenilor un motiv în plus să aibă încredere în alegerea europeană”",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFZpTmpONXJDSW8zcUNqSDJiQ2lLbURpbUVZRjRKcGZSUnY4TndfOVROdWVCZU15Zl8tc2xXVHhUcDd6WWY4ai1NY2gxalI0NGw5eDliUjgzRG9qMm5CRk5SakhJRG9xcW9VY0stUTBSU0FDTFRTdXVwUElDRnFXTUk3cWE?oc=5",
-      "source": "Moldpres",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-14T02:12:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Treffen // Cristina Gherasimov: \"D'Entscheedung vun haut gëtt de Bierger nach ee Grond fir d'Europawahlen ze trauen\"",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg meeting // Cristina Gherasimov: \"Today's decision gives citizens one more reason to trust the European election\"",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburger Treffen // Cristina Gherasimov: „Die heutige Entscheidung gibt den Bürgern einen weiteren Grund, der Europawahl zu vertrauen“",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Réunion de Luxembourg // Cristina Gherasimov : \"La décision d'aujourd'hui donne aux citoyens une raison supplémentaire de faire confiance aux élections européennes\"",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2ea64b1830ec1ba56bea082e256518df05a700f9",
-      "title": "Alpha Bank: Άδεια Private Banking στο Λουξεμβούργο, 2 δισ. από τη UniCredit και το στοίχημα των κόκκινων δανείων",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYVpaS3ZWcFN2dmV1THhBV2sxVHhrakNNd2ljaERvQ3ZGdUJDcFUzVWFheV9kUzN2TDQ2ZmxhclhuRWVuR245cm5qemxVZVVfWUhnc3g1RmJzMTBLS29HSlFaME1sTXNZZzNmZi14QlZaSE1MOGVUSXVNWU44VVVrdHRiQ2ttUk1ONHJNamVaZkxhSUhXY3lNcFZuTHpWODNQMWJVSmNkTHBpckkyUnJJbUZpMGtuU2RRc0hRSDJucHVRYk01VnFodHJGbS1CaFhQME5QaFZ6WHVSQzlDS3BPc081TlM?oc=5",
-      "source": "Ελεύθερος Τύπος",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-14T01:30:45.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Alpha Bank: Private Banking Lizenz zu Lëtzebuerg, 2 Milliarde vun UniCredit an d'Wette vu roude Prêten",
-          "summary": ""
-        },
-        "en": {
-          "title": "Alpha Bank: Private Banking License in Luxembourg, 2 billion from UniCredit and the bet of red loans",
-          "summary": ""
-        },
-        "de": {
-          "title": "Alpha Bank: Private Banking-Lizenz in Luxemburg, 2 Milliarden von UniCredit und die Wette auf rote Kredite",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Alpha Bank : Licence de Banque Privée au Luxembourg, 2 milliards d'UniCredit et le pari des prêts rouges",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "15a1737d977028bcc9edfbb6b2b4951a07c0d765",
-      "title": "Аргумент Люксембургу для виключення російського олігарха Михайла Фрідмана не переконує",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUhuNlFTMzZPc202LXRxY0tXTUhtN1RLdjRKRzVNTUJQUkdjVHF5dDZ0TXBCX1llODQwX0xERk5hTmREOXp0aTBhSnJjd2xQR3RsTGZQTUZENVkwd19haFNGdXBCS2UxcGMzeUc4dEdXWUNoMWM0SHd6MmVvMUVHeFFiN1JOM1BULTJmT3NoQzJNZGdmZ0ZKdmVmMWpacWZqWEM1bGdxTVQyZmhEa2JRa1J3VVo3dw?oc=5",
-      "source": "https://versal.media/",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-10-13T23:39:57.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburgs Argument für den Ausschluss des russischen Oligarchen Mykhailo Fridman überzeugt nicht",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg's argument for the exclusion of Russian oligarch Mykhailo Fridman is not convincing",
-          "summary": ""
-        },
-        "fr": {
-          "title": "L'argument du Luxembourg en faveur de l'exclusion de l'oligarque russe Mykhailo Fridman n'est pas convaincant",
-          "summary": ""
-        },
-        "lb": {
-          "title": "D'Lëtzebuerger Argumentatioun fir d'Ausgrenzung vum russeschen Oligarch Mykhailo Fridman iwwerzeegt net",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1b75ec679740385872112715c2cf41941a952bee",
-      "title": "Люксембург готовий підтримувати та співпрацювати з Хошиміном у фінансовому секторі.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWNuTG9lUnQwTWZ6MmJuRERiU19OZHZyWHNvSHBlamVqZmJLajViSWtaN3BMZUhaYkpZOVNMTEREbnM4UmxOMTdYUW4tVFlOeUhWMi13ZEtSeW9ZbDFqZGoxSXRGUi04ZFZxRlBESVlmd3VPME02UEhKWlMzaktWbVpEdVRKaWc1RlhVM0trQldIN0thQXFxRjVzQ2w5bG80UFNiOVI4cw?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "uk",
-      "publishedAt": "2026-10-13T22:09:12.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg ist bereit, Ho-Chi-Minh-Stadt im Finanzsektor zu unterstützen und mit ihm zusammenzuarbeiten.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg is ready to support and cooperate with Ho Chi Minh City in the financial sector.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg est prêt à soutenir et à coopérer avec Hô Chi Minh-Ville dans le secteur financier.",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg ass prett mat Ho Chi Minh City am Finanzsecteur z'ënnerstëtzen a matzeschaffen.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "6c56d454ef5587db078a79f83bbd19a28a55a186",
-      "title": "Niederfeulen 공기질 지수 (AQI) 및 룩셈부르크 공해 | IQAir 대한민국",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hY0N6VEVYTERMajlaTFFHc3NrZ0d3bGJ1RHVwUlpiWjEwbmdDdlNyWmJOQkZzd19IakhIbEhCYzFIXy1ET2JNT0NEeUJLLWFxXzBmOGNzSElickoxcmQ0TGFoSkhMSm5pT3RGNFJJNEdYQmduZ1Fwbw?oc=5",
-      "source": "IQAir",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-10-13T21:35:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Niederfeulen-Luftqualitätsindex (AQI) und Luxemburger Luftverschmutzung | IQAir Südkorea",
-          "summary": ""
-        },
-        "en": {
-          "title": "Niederfeulen air quality index (AQI) and Luxembourg air pollution | IQAir South Korea",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Niederfeulen Loftqualitéit Index (AQI) a Lëtzebuerger Loftverschmotzung | IQAir Südkorea",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Indice de qualité de l'air (IQA) à Niederfeulen et pollution de l'air au Luxembourg | IQAir Corée du Sud",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "f50e95529aed641d1a1c6c49c9cba237b1b5ecf6",
-      "title": "Luxemburg är redo att stödja och samarbeta med Ho Chi Minh-staden inom finanssektorn.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3R6amxKN0VnTGM0LWZuUTUzaE1vSC1ZQ1lsMTQzdHhfS25IeDFIY1V2YWJZVTQtRXA0Ym5WT1FqVHBvdEtYNGVMcHJCSk8yS2syOUNzeklMWkNQbUZXemY2VjEwaDU4dnBrM1RvckxLMUtOQkgwdTVPdE1QZGhqSWZTYzRHY3NSSjl2OGhoNEFLbnQtTUtNVVQxUHdCNWhkVGpteE82MA?oc=5",
-      "source": "Vietnam.vn",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "sv",
-      "publishedAt": "2026-10-13T21:05:48.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerg ass prett mat Ho Chi Minh City am Finanzsecteur z'ënnerstëtzen a matzeschaffen.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg ist bereit, Ho-Chi-Minh-Stadt im Finanzsektor zu unterstützen und mit ihm zusammenzuarbeiten.",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg is ready to support and cooperate with Ho Chi Minh City in the financial sector.",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg est prêt à soutenir et à coopérer avec Hô Chi Minh-Ville dans le secteur financier.",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c6623c280c911da3871c20888ab34f83f71b0128",
-      "title": "Jeux de piste, enquêtes et escape games en ville : Bruxelles, Luxembourg, Lille, Strasbourg, Liège et Reims",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS2N1eW1YR1dqUmJhQVFOUG9GLWdib3A3NlQxRi1SYkQteFBpWkVZajUyS3pZYnhGZTZCcjJ6X2NLQUVSZzdtcFp3WUllanROQzhWeDB1a0FUc0lnaWJWTGVOUDNtamNwbHlCVklqY3BTWGtNS1d2WERYZXozempycTQ2MXFIa3lGLWtYSmpJOG9VTDZwQXM2aUpjbEM1QWhkSW9LY1B4UDNLYkYwdzFVb0tnM1dWVlUzTXdfa3pxZXF1LTZ5ZGZZSHN4ZlFRMUdxa1Y0VWlCLWx3VWZPdFhjRmJZZllZSGdyZnMwYU16MmpqdmxNOUVXdlphTkhhZw?oc=5",
-      "source": "Info-lux.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T21:05:27.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "eu"
-      ],
-      "translations": {
-        "de": {
-          "title": "Schatzsuchen, Ermittlungen und Fluchtspiele in der Stadt: Brüssel, Luxemburg, Lille, Straßburg, Lüttich und Reims",
-          "summary": ""
-        },
-        "en": {
-          "title": "Treasure hunts, investigations and escape games in the city: Brussels, Luxembourg, Lille, Strasbourg, Liège and Reims",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Schatzsich, Ermëttlungen an Fluchtspiller an der Stad: Bréissel, Lëtzebuerg, Lille, Stroossbuerg, Léck a Reims",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e7abc58ade96ba526a77dcdb21c3f5934926acc4",
-      "title": "Luxemburg sluit horeca tot half december",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VcHlQby1ONFU3a2dwdHpCejQtTEFFUlJTblJNODdwUnhMN25PbVlGWnBJT2tFZ0lOcUhNM0F2NlNmMk1xMTJBY0JxOV9BV0VhSDZNdndCaVFaSFhGZDZjRXBmTk9nTWFYOTViS3dSTVJLYTZl?oc=5",
-      "source": "Reformatorisch Dagblad",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "nl",
-      "publishedAt": "2026-10-13T21:05:13.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Luxemburg schließt die Gastronomie bis Mitte Dezember",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg mécht de Catering bis Mëtt Dezember zou",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg closes catering until mid-December",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Luxembourg ferme la restauration jusqu'à mi-décembre",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "36858c8ed96593ab6eb98489e439f823bcffe488",
-      "title": "Sortir à petit prix : 48 sorties à moins de 15 € en Belgique, au Luxembourg et dans le Grand Est (2026-2027)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWW1saWNqbEY1THJUNWtEMmlIR0UtWlFldTVNZDJXZ2k2OWJIMUZ6Y1R4aElTU09jWVNSOG9wZVNWclZ3SUp2ZkZxT05vd3lMTzlaWmVQNFRJNTVQaWRHZk5VMmc1cmY2S0NqcWlrYjlMQ1U2bVItY05XdGNVUGJIbHpHcE5rblNNSkhFcFhhR3Z1cXktNnR3Q1BNVDBmM0FWR1Bub3BpOTN5S0xuQ2VyUTMwdw?oc=5",
-      "source": "Info-lux.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T21:04:58.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Ausgoen zu engem niddrege Präis: 48 Ausflich fir manner wéi 15 € an der Belsch, Lëtzebuerg an am Grand Est (2026-2027)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Going out at a low price: 48 outings for less than €15 in Belgium, Luxembourg and the Grand Est (2026-2027)",
-          "summary": ""
-        },
-        "de": {
-          "title": "Ausgehen zum kleinen Preis: 48 Ausflüge für weniger als 15 € in Belgien, Luxemburg und im Grand Est (2026-2027)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b7968c609afcc7ae7598dc2bd9e056555cd12812",
-      "title": "#luxembourg #viral #diploma ",
-      "url": "https://www.tiktok.com/@tanx_jam/video/7696258283404938518",
-      "source": "@tanx_jam",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "fr",
-      "publishedAt": "2026-10-13T20:52:57.000Z",
-      "summary": "",
-      "imageUrl": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/ok3wqXmfAUyC00y1IH4ACjNdiiIDICiOhrhZvB~tplv-tiktokx-origin.image?dr=10395&x-expires=1792191600&x-signature=x9ypHyuUgjgnFEH6jxSKyu%2F%2F1Wc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "#luxembourg #viral #diploma",
-          "summary": ""
-        },
-        "en": {
-          "title": "#luxembourg #viral #diploma",
-          "summary": ""
-        },
-        "de": {
-          "title": "#Luxemburg #virales #Diplom",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "17a239cd861412e2d897b2256a78527a2cf1e9f4",
-      "title": "Oficial: Moldova a deschis negocierile cu UE pentru încă 17 capitole. Declarații după reuniunea de la Luxemburg (LIVE)",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON0p6TDhfcXpTdzdJOVBwVnhBa1hzZHBLUm9oWkpqcmlQdF9paFZPY2I4NkMwcXFFZzg0Z3Q2RGNhRXduUkdZUFJrdHJROGVWUGdMTEl5UTZZdi1MYkFqT2tFc3VHS1RZam5vSGlrMDdJTXYwdnpMc3Nlc1B1UDVKMVBCSXJiS1JZc2JRd3NKZGQtLWZmX3RoM05Yc2gxTjBFWFF5R0k4UEJPX0tWVWdxNXRKbE1aNlZSM2ZWSXpQNmJobE1DRTNRSmdPeHZuMHJSOUFlR3FzUm5WdGZVbnc0SlJzZFc2SnBRYzVLRGNYcw?oc=5",
-      "source": "NewsMaker.md",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T20:30:11.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Offiziell: Moldawien huet Verhandlunge mat der EU fir 17 weider Kapitelen opgemaach. Aussoen no der Versammlung zu Lëtzebuerg (LIVE)",
-          "summary": ""
-        },
-        "de": {
-          "title": "Offiziell: Moldawien hat Verhandlungen mit der EU über 17 weitere Kapitel aufgenommen. Statements nach dem Treffen in Luxemburg (LIVE)",
-          "summary": ""
-        },
-        "en": {
-          "title": "Official: Moldova has opened negotiations with the EU for 17 more chapters. Statements after the meeting in Luxembourg (LIVE)",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Officiel : La Moldavie a ouvert des négociations avec l'UE sur 17 chapitres supplémentaires. Déclarations après la réunion à Luxembourg (EN DIRECT)",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "1e0c4228b7b815329433460e87c2ce38055f1c1c",
-      "title": "Reuniunea de la Luxemburg // Thomas Byrne: Irlanda va continua să sprijine Republica Moldova în procesul de aderare la UE",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOemRsaGZqYVEzd19tWTlhTzNEVDlfZ2MzeDBIMjRXQ1VSVWoxZW9iank5bGxmVllQU1dSOFlpTHlIZmZfTHVTZm9iYk9LajZteVpGRHBJYWZlZUNIQzZtX0l3QUYzZmEtb3FOdnM2eTFPZ3lDMEdwZGw3ZlhWTU9DdVd0RnhHVjN1NjE4THE1bWNGMGtfQ3QzMG5NUHNQU0tXQ01qbldxNkk2OS1qSzQ3NU4zRF9jcl9BRklDSGhJUkpjLW9UYUtFWnlzTEs2TklZUzB6S1RmVXQ2T2RPY1FWdUFxM2Q?oc=5",
-      "source": "Moldpres",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ro",
-      "publishedAt": "2026-10-13T20:28:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Treffen in Luxemburg // Thomas Byrne: Irland wird die Republik Moldau weiterhin im EU-Beitrittsprozess unterstützen",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg meeting // Thomas Byrne: Ireland will continue to support the Republic of Moldova in the EU accession process",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Treffen // Thomas Byrne: Irland wäert d'Republik Moldawien am EU-Bäitrëttsprozess weider ënnerstëtzen",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Réunion de Luxembourg // Thomas Byrne : l'Irlande continuera à soutenir la République de Moldavie dans le processus d'adhésion à l'UE",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "c02d2aa68143869a3437b3ff2b42c67955a626b8",
-      "title": "#luxemburg #pourtoi ",
-      "url": "https://www.tiktok.com/@besnik337/video/7696250634487483680",
-      "source": "@besnik337",
-      "sourceCountry": "",
-      "type": "tiktok",
-      "lang": "de",
-      "publishedAt": "2026-10-13T20:23:12.000Z",
-      "summary": "",
-      "imageUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oEAAOFeYKzIyDkp5RfgBp3EuQmEDDTjI9ql5Em~tplv-tiktokx-origin.image?dr=14575&x-expires=1792170000&x-signature=YzjGN%2FLSgK0rhiOxcqb34k22bOk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "#luxemburg #pourtoi",
-          "summary": ""
-        },
-        "en": {
-          "title": "#luxembourg #pourtoi",
-          "summary": ""
-        },
-        "fr": {
-          "title": "#luxembourg #pourtoi",
           "summary": ""
         }
       }
