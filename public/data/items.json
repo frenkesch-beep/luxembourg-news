@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-11-04T17:30:09.504Z",
+  "generatedAt": "2026-11-04T23:50:58.386Z",
   "items": [
+    {
+      "id": "8986699b460f2ca065b69384969c7abea9ef728d",
+      "title": "Master the Course: IRONMAN 70.3 Luxembourg Remich - Région Moselle",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMUFBSjF0dzV3UnBpaTlLeHBiX3pLeC1XLWJNUzJydkJQZ0gtNTd1YnZyVVF6VG5TVDZRUFJpbWNHdy1aUkk5SDh4UEF4ek55TmZIUHpqY00xY2xJNGNXd25QeDVjMm84SG5ERTdrRUJ5OW9mSk5YaFZITnFHY3RrN2p0RUd1cUdfWjlyRi1JZHFneDhiOTJPdA?oc=5",
+      "source": "Ironman",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-04T21:03:18.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "e953be3d2a25c1aa63d8ea2d6a22877ac5e8fcb2",
+      "title": "Люксембургу в Скопье нечем было заняться — Македония триумфально отправилась на Евро-2028.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRTdYLW9zcnBDTDFRa1RqYzg4WkY4dHdpeG5GZXdPLWdYcGsyMmZwZ1NYTnNZODl5bWRHREE2RENQZnF0WW9lMXNLVXgxZGVSSGt6dzMxa2JJWlNKWXFkbllPTnJLbm9RT1kzVVFiRnZ0Y0VoUjZFNDJsZ0RTYWR1RTdHclBpMllTRzVKejZQOVU3T2ttc2Q3cmowTUFFczJyaS0zWVJjdzh5UXJHcEJZUlF6QzdKZ3NhaFpzY2c3clV4WlE?oc=5",
+      "source": "Слободен печат",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-11-04T19:59:09.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "98af5823ddc1ccc3bae05672d09255267d5124a6",
+      "title": "Il Lussemburgo non ha avuto alcun ruolo a Skopje: la Macedonia è partita vittoriosa verso la qualificazione a Euro 2028.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa01QMUVOMWlJUHBROWwtaUgyZUxMc2hiTncyS1BFdE9jb1hwY2xjNWUySHRtSDI4VlZJOHJ4Ty16YnF0TjR6aFRfZ1dvTkdreGdOREcyNzdlcXNOeGIxczJ3bGdtNHJKM0RkZ0FUbjR5MGw2UkhjX1NSSXNlXy1Fc2VKY1pBcVU1LUx3MWlwWmV6TUp2eWNMemprOFFTQ0EzbVo5M2tIWnRBU05OWE9Gd0libmhOc3ZpTHNsRlI1Y2UzMHc?oc=5",
+      "source": "Слободен печат",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-04T19:37:29.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "culture"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "fb294c0a997e6dcb197ca81bd164aafe717b7d24",
+      "title": "Lüksemburg'un Üsküp'te yapacak hiçbir şeyi yoktu; Makedonya, Euro 2028'e katılma yolunda zaferle yola çıktı.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWVPVnc3R1IydFlLbGpWcFZFYkxULTE4WXhqSVM1WERnMEFyc0wxeXg0NHlyeW1rSXNhRGdRUnQ0UjVJU08wclFZRzZYQmRTY3B3aU93TnpyUkZmVHAzb1ZoM3JLYnh1cTRVbjJ3ek53LUxYelptZnU3S0RFbHkyV2R0SjZzWHdvWDRXenpvTVFTeU93Z0tjVmZHbW45QXBudHdpY0J5TVpscHdkeHhsTTF4bHhnSGhMSU53NjhHWkFfUjA?oc=5",
+      "source": "Слободен печат",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "tr",
+      "publishedAt": "2026-11-04T19:37:29.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "c950a09530da16b3500b791ea8429a1863aeda84",
+      "title": "Το Λουξεμβούργο δεν είχε καμία σχέση στα Σκόπια — Η πΓΔΜ ξεκίνησε νικηφόρα για μια θέση στο Euro 2028",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd24yRmFSekM1U0k0cjJSNEt0LWZVUFJqcjRDNjR4NFJOSkJhRVAxbFFOUTQtUjhJTGF6MTNzWDg3eGJ4YWZBSTFYeGhfblVGOFlQbEVsTWpISGZPX2ZqMXlvc1huTVdkNjN4V3RoS2N5RldpSVVQSkNuQ04wWVh6N2JZdXhnOHZRTGFtRWg0bzRpWHd3SjExeHd1OUdtazJWWjZaNk83d3Q5amYxUnpndHN2SGNKUjUyOC02TkJBbldJTFk?oc=5",
+      "source": "Слободен печат",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-11-04T19:37:29.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "7694c939384580c0e2a25fdc7bd7726deccab055",
+      "title": "Manifestations en Luxembourg pour dire non aux visites domiciliaires",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdW51NlFMWG5ib1ZhT0NmaVF1MGVackpjRWg5d0J3amNQRXcwWXdCV3MyT1ZlbzBBNE5pRktHSmFiazJUNkF5bGh5c1ljUmQ1d1VRMW96N0ZJeFFITG9SV1pUZ3loTDdnUXFlZmZiaTFpVWM0c1p5NWVvRXllaV9pR293Y3MzUVhhVWJJV20yMjBERE40a0VHV3M3Uy1kLTdKbjJXeWR6SHY?oc=5",
+      "source": "TV Lux - Naturellement Proche",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "fr",
+      "publishedAt": "2026-11-04T19:34:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "edd11b30bafb2ac37d42e9c396969d20ffca7223",
+      "title": "Luxembourg Is Rewriting Europe’s Playbook For Frontier Technology",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQU9RTHdPUWE1TTF1Vnp4WUppNkR5aHpqZU1zc1lrS3BGWDhSUTZGeUJqYnVRYWw3YXc0UUotbnluNmxPTXpYYjlWV21PcXpxcmJ6LU0zcjBYTnZPYkNsQ2k3dnlqd3VrSGo3RmZHcGRldjZwTGN5VFVtV3oyWjJZMXVGRGJkNEVaUFo0VjhKZmVKOVZpOGVmSFBhb2pZZEFhN0hzbUdBVXQ5QUhjTkRxdmNyLV84UVAtaEpUVDBVY2E?oc=5",
+      "source": "Forbes",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "en",
+      "publishedAt": "2026-11-04T19:27:55.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "tech"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "c8ada84c9ccfb1ae90589d8617086ac9c15b8e88",
+      "title": "Liveticker Nordmazedonien - Luxemburg 41:23 | Gruppe 8, EM Qualifikation 2026/2027",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWxrV2k4Z0RES19oODM4ZEhXS0ozc09fU1YwVHJQUVFjWVdWbUx3c1lQWjFkaC1MVmR6TlNxaWg1SGVQNUQ2eG51VkJhZ1hyZkdZODUtSnNJbXhFVFJYbG5lbGZIREZIRDRIVUxfcGhLbjh5enNqdDE0dWpyRm1EeDVnWl91SFVNQzNtVDdNN29Wd2Yx?oc=5",
+      "source": "sport.de",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "de",
+      "publishedAt": "2026-11-04T18:00:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "bbe3cef4c94ed7fe7b1ebe4199e07751920d4057",
+      "title": "Подрез обыграла Завацкую в украинском дерби на турнире в Люксембурге",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjBSYzdBMkxYamU3VE5kbFBVWnJrRjRORUM4TTB4RS0zUlpCMFVURWRXTG04M2kzeWwwWno5WkxreFdONFNDVlpaMlJhZEFxTnBuZXgtMUMweWRiMzJzZkJfbUxRTEQ1MkVJZWY3M2JqekR6Q3VjMF84bTAtVmZDby1ZM1lTaVJOQVJFNmt0ZzR5QmllYU1pRmhqNkJuWlZteVlZODVzbUU0T0JyNzVzbWl0a0VVZjA1Mmc?oc=5",
+      "source": "Champion.com.ua",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "ru",
+      "publishedAt": "2026-11-04T17:11:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
     {
       "id": "6bd9b914c3af8597d9a608f5234d0c5d8345d4c7",
       "title": "La Fiscalía solicitará pruebas a EEUU y Luxemburgo sobre los activos transferidos por Ueno",
@@ -1027,6 +1171,22 @@
       }
     },
     {
+      "id": "8b851b455733008073e7fda8727e788c3d20aa8d",
+      "title": "ΜΚΟ \"Παιδική Χαρά\": Όλη η οικογένεια στη διοίκηση - Τα 300.000 ευρώ στο Λουξεμβούργο και οι ύποπτες δαπάνες",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNGgwbjZJM3poQzZoVEVHN3VxVnNDQU1kRWN3Zkdic3doVUhBVDFvQ05LY0FLMW80SlNSa1JmT3BoTEl3anhIZWZRbG5LQU14YUpOLWhTZUN3UmNydDdBRVBhaWtUZWFsd1Q1d1FNejBtZUkzc1VnV3JkVTRZRHpoU2xGUlEzeTIxV1RDMVUzMjdIeS1xMTJOZTZSMzRNb1lydERkek9tNTA3bGI4NTkxZ05xUEozU1QyX0NpVmwydzNGMTA3OFdrUy1RNFdZczE1MFB3?oc=5",
+      "source": "Today Press",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-11-03T17:54:38.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "d6f17e1bba63f2e4c53b9043d334db9781a3c89e",
       "title": "Paalberg plutôt à Luxembourg qu'à Annecy",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3ItRHhHY0J2V0F6WEpYcFE0VDVOVmN1WEpOT0xpRFkxbGZnY2pUWi0zbnlGVFc4MDl1S0NsTzUwUy1vMndpRkJjVnJPaHRNVVZLc2dqS2lrWFl5M2xhdEw0MEw1QWppVkNiLTF1NzVkZWFGMFdCWVNCZ0lNT1dWXzBYZno3UDZLcjJmcjN5cm9XZDlZUkFXNFJJMThpT3gt?oc=5",
@@ -1349,6 +1509,22 @@
       }
     },
     {
+      "id": "97037ab9b7827c40b06545fdab07b459a39f7c52",
+      "title": "ΜΚΟ «Παιδική Χαρά»: Δεσμεύεται η περιουσία των κατηγορουμένων - Εντοπίστηκαν 300.000 ευρώ στο Λουξεμβούργο",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Hd2p3bWFlemRVWEFvQ3V5Y3VWUVM2a1dSVjBSb3J6QS1fMThtMkRTT1VQclVXNEFPUU5vX2hlNGg2TVNqMkVMNw?oc=5",
+      "source": "iRafina",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-11-03T15:52:57.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "40bf2a1c585829397206e80afb22b7086d0fe500",
       "title": "Κύκλωμα μέσω ΜΚΟ / Δεσμεύονται τα περιουσιακά στοιχεία εμπλεκομένων - Βρέθηκαν 300.000 ευρώ στο Λουξεμβούργο",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWhONkU0X3QwZVh4UktYT2NnS3lVa0pJN3BsYXkzcU0tYmZKQ1QwVlR4cW44a0RZUGNmZXZSanJLcldMbHRpU09SUE5wc25OUlk2a2ZqSEs1QkFwckpQWkl5QlhSX2FHcU5Vb0JYX0U5aUp6RXJCY2R4Q2xtTEFkZ2h1WTlPODZ2MTJidGZFZW55cGlGMndNaEx4T1pEZWdyUzlzSkp3b2RhVEZUQlhJ?oc=5",
@@ -1478,6 +1654,22 @@
           "summary": ""
         }
       }
+    },
+    {
+      "id": "43fa7a5aeb59af6a0989692b3a0c35e45b2c6ac1",
+      "title": "ΜΚΟ «Παιδική Χαρά»: Δεσμεύτηκαν λογαριασμοί, ακίνητα και θυρίδες του ιδρυτή και της συντρόφου του - Εντοπίστηκαν 300.000 ευρώ στο Λουξεμβούργο",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVYwMEVkdHJGM0JOS3lycmhERTczQkItVnlROUgxY1FMZU1oZk0xeEp5QlRLV3lMcmR2RktYNWpWM0FrNnk3cEE2UmhSc1h0V3RvSVlycTBmTGdvZi1tWGwtWVA5MUlLRHFjSXBtRkZ1S2xPTGRfV2RKQzdJMVB4OWp2SEozM0ZDMXd6TGF4QlJBYl9xN1Z5eTRUajBTU1AzTjNJNGFMd2huMTc1NG9kNUhSSzhQMGhGT1ZfdmRPclM3QUZ6MFpBWC1jMFFqWDR6dVBLZWpRRFNxdW4zZHRMV0JmNzRsTjZoam1N?oc=5",
+      "source": "dete.gr",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "el",
+      "publishedAt": "2026-11-03T15:14:07.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
     },
     {
       "id": "172f6cd74e01506842c8af61c8d73cab46054bd4",
@@ -46116,370 +46308,6 @@
         },
         "de": {
           "title": "Nachtterror: Halloween-Abend im Kino Les 3 Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "2fa3942a0a3fbe1f9afcf27554b9455a6d092449",
-      "title": "Zone de secours Luxembourg : budget validé et 12 millions pour les investissements - \"Nous n'achetons pas des gadgets\", rappelle le commandant Thiry",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNc0lrM2ZhZVY4NVNVUXJuTDluMFlNZE9qeWtlMGlrR3B6WlFpOHRRZmRSb1NWUXFhS0FvZjZjekRLaEpMNDFLRGVmd3Q5OUl4Q1ZkUHpIQ2cwVXg3b3R5RlRIRGFZRnZzeUxYSmVfT1djT20zZ3BsblBzbDVKM2RQLVRiZV81bVpMTldKVFNhSlV5ZmdrOWZGRDdzV2ZWWUkzWXRMWGZSWHZmc0ZsMlRNQTR1TVF5WUtJeGJNRDZlalBDbzY2ZVFIdl8wX0pzZkFvbEVpTmdRcUtIUXV5MGV2ZWx3MkpYUXhPb056dzJqcHlYTDNSeGRISXFnZ0ZGeDlfRmFQYnlYdXhMeDZuYjV4cjlpUk5QY2RPaS16OVRVSVVJTUtSMlExeWltTEtIUC1TdTB6UHN3cjJWR3ZtMUxXTDR3V1dlTmdoUVdWNQ?oc=5",
-      "source": "L'Avenir",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-16T13:28:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "en": {
-          "title": "Luxembourg emergency zone: validated budget and 12 million for investments - “We do not buy gadgets”, recalls Commander Thiry",
-          "summary": ""
-        },
-        "de": {
-          "title": "Notstandszone Luxemburg: bestätigter Haushalt und 12 Millionen für Investitionen – „Wir kaufen keine Geräte“, erinnert sich Kommandant Thiry",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerger Noutzone: validéiert Budget an 12 Millioune fir Investitiounen - \"Mir kafen keng Gadgeten\", erënnert de Kommandant Thiry",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "3ac17950e31d49ffb701a866d717de2b24d10bc9",
-      "title": "Palácio da Bolsa acolheu conferência sobre investimento belga e luxemburguês em Portugal",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnBUSWhvLWwxdG5XRHZNY0RfNGVrNXFubTk4YlR1SFd1TGVLV2I4dUNzM1JZWURzSTlSLTZjMzFxN1dCaVJXbk5iT0dkYlRUaEhFTjhKdVdxVWFpc2ROTzhadkRHV1JyYTR2ZTduejZWTG1iU3ZkNkY5bTE0eE80TDhrWk82UUhZanh0dW5kUmJxXzFSYVlQV0ZuTVR2WmxNbkQyLWN4MU9jMDg?oc=5",
-      "source": "BOM DIA - Portugal no Mundo",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-10-16T12:51:01.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "lb": {
-          "title": "De Palácio da Bolsa huet Konferenz iwwer belsch a lëtzebuergesch Investitiounen a Portugal organiséiert",
-          "summary": ""
-        },
-        "de": {
-          "title": "Palácio da Bolsa war Gastgeber einer Konferenz über belgische und luxemburgische Investitionen in Portugal",
-          "summary": ""
-        },
-        "en": {
-          "title": "Palácio da Bolsa hosted conference on Belgian and Luxembourg investment in Portugal",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Le Palácio da Bolsa a accueilli une conférence sur les investissements belges et luxembourgeois au Portugal",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9256347567619a90b0d73121c1b0096364e4422b",
-      "title": "- | TF1+ Luxembourg 🇱🇺",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RWdkY1ZCeGRVajR5NDZqU2M5Vmg3bFlVWUNSTURuSW1ET1JhakRKNzhOZ0VaUlBMZHpqOUx3czlZNFVXMFVWTzJfWUxvTmxiWm9jY0V2TVhpUXpOVFJkRFBaYlZRV2d2Wjg2Z0VGbUZBQXh3bkRV?oc=5",
-      "source": "TF1+",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-16T12:47:16.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "- | TF1+ Luxembourg 🇱🇺",
-          "summary": ""
-        },
-        "en": {
-          "title": "- | TF1+ Luxembourg 🇱🇺",
-          "summary": ""
-        },
-        "de": {
-          "title": "- | TF1+ Luxemburg 🇱🇺",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "8b4d0fff9a03ab45afdb06c2d67bb438729cf0f0",
-      "title": "🇱🇺 Luxembourg: 80 Artists to Take Part in Auditions This Weekend",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTmM1YjBjWTY3bUFUczFoWUdxNzYzNWZGNnNUWDBYNjNaTW9YQThQbkFFQThNVEkxYW9CSnFGdGJnQ1VCeWRiM3Q5YUVkZFBtMmEwM04wZC1XbFZPUUhlYi1DbW9wOGxWeEwwdldURlVvZm5QT25YcGQ4RHZoMDBncF9IZmpFMEhNVDJaejdDZ1pmbm5ydVcwcg?oc=5",
-      "source": "Eurovoix",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-16T12:42:06.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "🇱🇺 Lëtzebuerg: 80 Kënschtler déi dëse Weekend un Auditioune matmaachen",
-          "summary": ""
-        },
-        "de": {
-          "title": "🇱🇺 Luxemburg: 80 Künstler nehmen dieses Wochenende an Auditions teil",
-          "summary": ""
-        },
-        "fr": {
-          "title": "🇱🇺 Luxembourg : 80 artistes participeront aux auditions ce week-end",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9a0273558f897aa827fba38f7bb148e2f3a34eca",
-      "title": "Suite à une intrusion dans le château d’eau, l’eau potable coupée à Bouy-Luxembourg, Onjon et Longsols",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGlMVFVlWUtqVm9wUHRkZHlpeUJhbkxnNkZ2cy16b2V3Ti1PSjlNcnVJOVJxdWhpazVsaHRGOEJtb2RRUThMNVZCQmRpUi0yaXVZbXpycTZoNS1tUWNkNmFOVWtNRzBya2huV3Vydm0yNEpEU1RNT0Zkc2NhMGtoUi1oZXpaNXphYS1HMWZmZEVrZXlQNkMxaTZyODVJUmEzeFhQcjNyVDBtUWs?oc=5",
-      "source": "L'Est éclair",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-16T12:27:25.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Following an intrusion into the water tower, drinking water was cut off in Bouy-Luxembourg, Onjon and Longsols",
-          "summary": ""
-        },
-        "lb": {
-          "title": "No engem Agrëff an de Waassertuerm gouf zu Bouy-Lëtzebuerg, Onjon a Longsols Drénkwaasser ofgeschnidden.",
-          "summary": ""
-        },
-        "de": {
-          "title": "Nach einem Einbruch in den Wasserturm wurde die Trinkwasserversorgung in Bouy-Luxembourg, Onjon und Longsols unterbrochen",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "074108a50891b43ef551b3a290beb836be66540b",
-      "title": "Luxembourg Art Week 2026: 78 Aussteller aus 15 Ländern in Luxemburg",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWW5yUkc1Umt0TEI2Z3dENVdqV2F5TG9EREpzYUxJSVY3bDhvX1R0S3lRckZFcUJfUzF4andCZHB3R1g3S0k0N193ZVpwam1HNWh3TnlOdVlBcUVTdGs0TldXUFZsS2dPSTdmYjVDMzhBZmhRZmtwaF9TR3RvTEdTUFJ4alBVVS1Sa3Fnc2JFd0RtMzNVTUZlYmhDcmJ5NXRPTkHSAacBQVVfeXFMUHdnRGhzRm1CUEExZC1kbW54THVkY0tRSGRWeXR3WEVNN253cVpHYWdmTkhxVmMtZ0JTWGxpb2o0TWd1azgtTmcxTW9sWjBYNXBPRG5yNlNCRndwT05VU0V1YzJ6LVZQNGdjRjRwQlBWUVlSeGNmN2hvXzZER1VDYXRYdTM5cTl5UTMxYndvTUZGT3RwV2Jwam10VmtMY3d5YkVCMVVzU0E?oc=5",
-      "source": "saarnews",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-16T12:04:09.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg Art Week 2026: 78 Aussteller aus 15 Ländern in Luxemburg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Art Week 2026: 78 exhibitors from 15 countries in Luxembourg",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg Art Week 2026 : 78 exposants de 15 pays au Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "d578a61d0005c6d641f21f339d4e882994234139",
-      "title": "Itajaí recebe visita do novo embaixador de Luxemburgo nesta sexta",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlBXVFlPSVFENUdQZ2VyQ2FZUDh1NUdRbHkwbURYcUR2U3c1Wjg2bmFuNE9TOVh3YjBlX0FJX2x0cHl3MTNfSllVYVNRR2dfcGhCS0M4WFk4ZkJCZEo2NnFYSGMxa1hrLVFUSmh0d2V4bjdTTFdhemJRajdBblZyX2dPazl5VnZuZFBxeml3ZHZrWUt0a09LX3lJaklHNlFMVm9J?oc=5",
-      "source": "DIARINHO",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "pt",
-      "publishedAt": "2026-10-16T11:18:21.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Den Itajaí kritt dëse Freideg Besuch vum neien Ambassadeur vu Lëtzebuerg",
-          "summary": ""
-        },
-        "en": {
-          "title": "Itajaí receives a visit from the new ambassador of Luxembourg this Friday",
-          "summary": ""
-        },
-        "de": {
-          "title": "Itajaí erhält diesen Freitag Besuch vom neuen Botschafter Luxemburgs",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Itajaí reçoit ce vendredi la visite du nouvel ambassadeur du Luxembourg",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b0df48c380c6d8408f8e678bb5849fbb8d236c81",
-      "title": "Luxembourg: 80 Artists Audition for Luxembourg Song Contest 2027",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVDRMN0pRd1BKbzFKV2c5UTFRSWhVYkIxNXN3Zml1UEx1TjdRQzdCdllndlQ5U2ZkaGNUSmFLZEJnRXdfSEppbEdvclRuSFJiSUIyVUI5UHo0ajQycDFvdEJwMEstUkFaa0NFcVlxdVNTdW82Z3J6VkJzUmhHdHVseVA2WDZkYXhvNW85aE0yRkh3NF9Vdkpn?oc=5",
-      "source": "ESCToday.com",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-16T10:48:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg: 80 Artists Audition for Luxembourg Song Contest 2027",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburg: 80 Künstler nehmen am Luxembourg Song Contest 2027 teil",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg : Audition de 80 artistes pour le Concours luxembourgeois de la chanson 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "dbcc044b00d186e109961949a92db90fac3c562a",
-      "title": "Luxembourg Song Contest 2027: 80 artists compete for a place in the National Final!",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXNGeTdpT0VUQm1ZLUVLWkFVWG9FUjh4TVQzWVpLLXpQeUFmWEZUdVhxVzhySHRQbU9XRHFSc1ItYWlsSHZETTZaVGZ2RkNxN09YaGF5dW15QlR1eDYxRTFlQ1dwUndoZEdGXzVkUUphajVHaDJYb2pGMFNXTm0xRms0ZkR3TEFweHZYZVR6c1lGeUVJQ0p6clNCcXYzRFcwMVM3dkNaaEc0TWs2RG1NQjVPdm5EeUh2aU9R?oc=5",
-      "source": "Eurovision News | Music",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "en",
-      "publishedAt": "2026-10-16T10:30:56.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg Song Contest 2027: 80 Kënschtler kämpfe fir eng Plaz an der Nationaler Finale!",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxembourg Song Contest 2027: 80 Künstler kämpfen um einen Platz im nationalen Finale!",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg Song Contest 2027 : 80 artistes en compétition pour une place en Finale Nationale !",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "64b044cf24e247cdc59ff97d341f21cef2722bed",
-      "title": "Luxembourg Song Contest 2027: 80 καλλιτέχνες διεκδικούν μια θέση στον εθνικό τελικό!",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNQkhOTDhPTE1WTVRkbEtDZy1HeE1jTTVtb3k4NTF4V0tNT0RWN01uVEJSS3VpZE45dW5QMmdnck0zN0g2WUJHdlJwZFRwM0JEQVVkVmcxU0lWNTNFOTVoME02dVV4dGN0MDVRRjRONlh3Vk5ZZlBQUnYtd2QyV3JmcE1uM28tTGdvT05RYlcwem1yQTRNUjNwNi05NzQtMXZDeE9Malg1bUYwc0hTV0I5NDBERGQ2Zmp5Q0pRSDRpM1otdUoySGRVMDh5SXFSbnN4d21QRzczUmZBQzJpbndrSGdnS1B5Nnd5bzBZZThVRnFzSHFoWElCZXlhUnRneGJ6OWMzMWhCQ25HVWtGZ05sMHowRzlWRzVhdXVGZzhpMFJ2MzVfWUxIYWhNd0pMQmpyWFFvUkFEeml5QWl4X21qWkdka0NlRHlCbXpaZDZDOUFPUQ?oc=5",
-      "source": "Eurovision News | Music",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "el",
-      "publishedAt": "2026-10-16T10:25:56.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Luxembourg Song Contest 2027: 80 Kënschtler kämpfen ëm eng Plaz an der Nationalfinale!",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Song Contest 2027: 80 artists vie for a place in the national final!",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Luxembourg Song Contest 2027 : 80 artistes se disputent une place en finale nationale !",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxembourg Song Contest 2027: 80 Künstler kämpfen um einen Platz im nationalen Finale!",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "b550bb5bce24bbde1fa588a1223e784228cd86bf",
-      "title": "Frontaliers : pourquoi la Lorraine réclame une compensation financière au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTVJM0E3TGtzQV9qZEMzTy02cld5cDY3YnN5ak53YTNKM01ITi1OQVRpWjY1dE5fMllVVW1LVWlqTHpVdGhhYjhXYlZlQnlYZ1dSci01ek4zZmE5RU43VHlqQjZLUjVOejlnM3Rod3VzU0NtYUU1QlFNbU9ra25UVFVvTWNIUXZWdTF6bTl6a3F6UzU5Z19SV3JMR2cwNkhEMFUyLV9ieV9VS3VCMkQ2dWJUUnhwSmlFRWc?oc=5",
-      "source": "La Semaine",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-16T10:03:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "en": {
-          "title": "Cross-border workers: why Lorraine is demanding financial compensation from Luxembourg",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Grenzaarbechter: Firwat fuerdert d'Lorraine eng finanziell Entschiedegung vu Lëtzebuerg",
-          "summary": ""
-        },
-        "de": {
-          "title": "Grenzgänger: Warum Lothringen von Luxemburg eine finanzielle Entschädigung verlangt",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "9cdc43372b331a109d6bd42408e89786d89c9ee3",
-      "title": "Primitive Robot, un ponte tra Italia e Lussemburgo con il concerto di Marcondiro",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHhpQWFHU1FDN1FzcFV1UXZHdEJXNVhlbUVWMkZvUnF0WHNIYXJJYmx4TXNtVHpSUTBDdkVLb24tV2pKNl9UWFNFUlRBNVFFbnM3OVB5VDRad1dGb0hoUHVsMmpZeENkUWNxdmZwMlBtd3A4dHNLdl9ZQXotYmltcXRGZGNmUV9uVDNFdzNFMEYyOG9CUHNWOGZTT3pEaWRFZHlEdlV5M0RGLVZQQTVoU0VHdzhwQUk?oc=5",
-      "source": "Notizie Geopolitiche",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-16T09:58:56.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "culture"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Primitive Robot, eng Bréck tëscht Italien a Lëtzebuerg mam Marcondiro sengem Concert",
-          "summary": ""
-        },
-        "en": {
-          "title": "Primitive Robot, a bridge between Italy and Luxembourg with Marcondiro's concert",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Primitive Robot, un pont entre l'Italie et le Luxembourg avec le concert de Marcondiro",
-          "summary": ""
-        },
-        "de": {
-          "title": "Primitive Robot, eine Brücke zwischen Italien und Luxemburg mit Marcondiros Konzert",
           "summary": ""
         }
       }
