@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:20:14.106Z",
+  "generatedAt": "2026-11-07T02:59:30.452Z",
   "items": [
     {
       "id": "a10289a31dd64d6c1300f76830cd77bae9d38f04",
@@ -58,6 +58,22 @@
       "type": "article",
       "lang": "fr",
       "publishedAt": "2026-11-06T20:15:00.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "b7d9a5fee13f265ffa303aa0897e8afa968ebde5",
+      "title": "Greet Minnen verzekert zich van plaats in halve finale in Luxemburg",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVIzSWRPU1hEeElLT2hibGYwVEpQdVV4UXVpaElFcFgzX2FtZDBPS0R0TmhUZ3dndnBoc0JoV1hBd2Q1aTd3amtCYmxBTjRzNzRQdzJLbmFOa2VwTzlfMDVReWpxTVRuZzNySjYtS3VhRnZnbkpIWXVsMk11QS1TemMtOEdkNFUtVnRUQXAyYUVtRWZDUGFnSVFVVnppaWtHVnc?oc=5",
+      "source": "sportinantwerpen.be",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "nl",
+      "publishedAt": "2026-11-06T19:48:59.000Z",
       "summary": "",
       "imageUrl": null,
       "topics": [
@@ -499,6 +515,22 @@
       "translations": {}
     },
     {
+      "id": "e04293dfb368e217f818a51b8b7b262a57dcdd46",
+      "title": "Rua Luxemburgo será interditada nesta sexta-feira para manutenção na rede de água em Uberaba",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSHRRUWs4VFpaNHNZcm1jeVNrTTZKS2ZkNmpPSzR0aTNLVldCdVJuNDA5TDdOTEJiRC1Gc0RiazdMd19sbHVDdUE3R254NWM3LXFlWnNQZW5lSlVEbDFFWm0yMnhsNDFLcHI2bEZLZmN5elBVMFZwMEVWdkdrM3JrR2dZUkI4LU83Zmp2MUFwTjJqYzdHd1dURGQybFJhdmFqU0RWMl9MVHl2azdxdVpHWTZhblAzZ1ZMSDFxdGl4UFFqVmtDRm1FSHV6Z03SAdQBQVVfeXFMTV9qcFZUc2FEcVdUd1EyYi03VHFHLV9kcXpadVZzWWljMmVpUDhFc2JyTE9TRUdBeDlwOUowdWZ6Z3VGMVA3Y2QxOHhrMkQ3dFlCbGJ1Uk85WmJkYVdNUzNQNWlQSmh0UVY5eWNDNmxGa0R6eWRQUDV6X2tNNWtYS1Z4Njhwci1XdG81RnR0MzBPUV9vTDd3eUMxblBtdkgwVVprUGpidlJmSVNlTGJxdC1vejVwREdFQk9DNjgycFV5Y0p0OHloRFJMNTlmSGxwVWQybkw?oc=5",
+      "source": "JM Online",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "pt",
+      "publishedAt": "2026-11-06T11:27:28.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
       "id": "a20ed88da6f945338b27607ee04488f5086cb7aa",
       "title": "De créditos a vinculadas a bonos en Nueva York: pedirán información a Luxemburgo y EE.UU. sobre Ueno",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYUhZVkJ1RWtiMUczd09zQVJYUGRmTnFhTFhiWGh4bkxNY05tT3U0SUlxeVI1cHdrUXBJcUdEc0VsaUN1LUh5TFQ2NGhGMmlQU3Z5NzRFTktDcFB4LVlkUEtrcERQT2RIV0FNV1JZalM0djdKTS1vdDQtQW5Dem51RFRrYXE0SWdzUjZoNnRwZVhPRjVpTVpQLUxTZnRsQWx2R1paYnFhNW5pT1BXQ2xOSm9JU2UzUkQxX1FqMjRXUV8?oc=5",
@@ -848,6 +880,38 @@
       "topics": [
         "politics",
         "finance"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "01f672904973c5ac901cea5763d4d6f192cb1cd8",
+      "title": "Últimos sismos y temblores en o cerca de Kayl, Esch-sur-Alzette, Luxemburgo, desde 2026",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lOUg2aERmOVdBUzliZThXMTNIZENuaXQzbXhoLWM2aGtlaEFvVWU5M19mOXhtV0hMSHd0Si1aLXFuWGl1ZjVVQXNBSVhINTAxbHFXQXVzZmV2QnhhZ19EWTJPaEx0UW0xZEhGOFJCM3h2X0Vk?oc=5",
+      "source": "Volcano Discovery",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "es",
+      "publishedAt": "2026-11-06T00:17:32.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
+      ],
+      "translations": {}
+    },
+    {
+      "id": "12fc58dfa04ec2279d9f6a8352ac5a94a105842d",
+      "title": "Ultimi terremoti in o vicino a Kayl, Canton d'Esch-sur-Alzette, Lussemburgo, dal 2026,",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyNW9XblYtNjU1NndKUlQ4c2tKVTJBUzUwVndGN2JEUHllWTZNcWdwbElzaU9LdVNHTFFmUHFDeDM0d2NMMUU5STJoVGZ3UWthcERaeEt6cnl0UTY3ZG1oWDktc0pHaVc3VG1EUnF3S0Z5SXp5?oc=5",
+      "source": "Volcano Discovery",
+      "sourceCountry": "",
+      "type": "article",
+      "lang": "it",
+      "publishedAt": "2026-11-06T00:17:31.000Z",
+      "summary": "",
+      "imageUrl": null,
+      "topics": [
+        "other"
       ],
       "translations": {}
     },
@@ -43657,130 +43721,6 @@
         },
         "de": {
           "title": "In Luxemburg versorgen mehr als 3.000 Hybridsensoren ein neues Viertel mit Strom",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "79c6202117aaff7a7b08e92b2ce7da0637995ee9",
-      "title": "룩셈부르크 가향 타피오카 펄 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kemMwdnpmeU4xUXlZMW8tMl9XWUZTamx5dlFLZTRYekVZMmw1ZnFIVDd1X2ZpMDRJazNZYnFORmM4UzFteUM3UEx3Nm1Nd2tIVnJiaFRBYWNIbkZ1NC1fT1JnZUtraW5JTldFNWFGUlQ0ejBBNmc?oc=5",
-      "source": "Tridge",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "ko",
-      "publishedAt": "2026-10-19T08:40:36.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Prix ​​et données commerciales des perles de tapioca aromatisées au Luxembourg | Aperçu du marché 2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg Flavored Tapioca Pearls Prices and Trade Data | Market Overview 2026",
-          "summary": ""
-        },
-        "de": {
-          "title": "Preise und Handelsdaten für Tapiokaperlen mit Luxemburger Geschmack | Marktübersicht 2026",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Lëtzebuerg Aroma Tapioca Pärelen Präisser an Handelsdaten | Maart Iwwersiicht 2026",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "872301a8b155b3f49e633a88751da324e6ef3b4a",
-      "title": "Stage alla Corte dei Conti europea in Lussemburgo. Sessione 2027",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzBiZmR6TFNHUTFLRkdJWkRIMldUTVQ4aUU0YTBQYktZbDZlOFlpbTlCcHg0cWxwZ2dpWWh6TS1qNHNCNFJCNGRHaVkyRVFHOWg0dm02Vm5mMWZMZTBIX2ZQSl9BbzQwblN1eFp4X0NPZ3JQWThqdmJhVXpHa0UzMklwZDB4QWVtaDFZaGdDVkxwb1AxRjZpOGJVUjhxU2NMbHJVMFVuZU5jOFp5YUx5eTE3RHRhYTRhVHpfZnMwUjE1S1dGODVXY29B?oc=5",
-      "source": "Regione Marche",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "it",
-      "publishedAt": "2026-10-19T08:29:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "de": {
-          "title": "Praktikum beim Europäischen Rechnungshof in Luxemburg. Sitzung 2027",
-          "summary": ""
-        },
-        "lb": {
-          "title": "Stage beim Europäesche Rechnungshaff zu Lëtzebuerg. Sëtzung 2027",
-          "summary": ""
-        },
-        "en": {
-          "title": "Internship at the European Court of Auditors in Luxembourg. Session 2027",
-          "summary": ""
-        },
-        "fr": {
-          "title": "Stage à la Cour des comptes européenne à Luxembourg. Séance 2027",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "4cdc4df7c45e2f397b92c41e2faa5aeec2167119",
-      "title": "Assurance vie luxembourgeoise : le Grand-Duché n'est plus réservé aux grandes fortunes",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN21IaER6VUxDTGJ5TE5vZ3JtWXVKcGdtYnZhUTZEdnhEX2dJN0NIQi1nQ0gzWFFNdWpYaDBlUVhHMjRZUUVIWTBJLWdheTlWdW1GeUVzTFhvNjFWNWdqQ3dFeUdjclNSUFBYdWZLVVczdnlpcW1NUkI4cVEtN1d6X3dPYXVoUHhxSkROZXZkMENuZFRSRFpSNkU1ZU1LbTN4aDN5R3dhbmpQcGhRVVk2QmtKVkZiNVpXSEVtbUlPYWd3ZkNKWTBtMkVQSjRIem1KSGg0?oc=5",
-      "source": "Challenges",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "fr",
-      "publishedAt": "2026-10-19T08:00:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "other"
-      ],
-      "translations": {
-        "lb": {
-          "title": "Lëtzebuerger Liewensversécherung: de Grand-Duché ass net méi fir déi Räich reservéiert",
-          "summary": ""
-        },
-        "en": {
-          "title": "Luxembourg life insurance: the Grand Duchy is no longer reserved for the wealthy",
-          "summary": ""
-        },
-        "de": {
-          "title": "Luxemburgische Lebensversicherung: Das Großherzogtum ist nicht mehr den Reichen vorbehalten",
-          "summary": ""
-        }
-      }
-    },
-    {
-      "id": "e3d074b44797aaaa5cf41fbf27ba0078bf6fc165",
-      "title": "US-Fondsdienstleister übernimmt Luxemburger Service-KVG | Unternehmen | 19.10.2026",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGViOVRpSUNLZTBuUUQ5S2tzZldlQUxiSVl6QVBUNHlPMTc0bnU4cmxiTWE1T19TaGhFbnVCamw2UXdSMDJqSzZoTm04a0pPMTNab0VMU0NGbTlYNDhrNlRlSTlBN0x6M04wYzZDMWZDbGtQRUxzSS1nMVd5YmF6eTM2bW9yc0FDREhHU1ZocW5ya2hXOVU0aUNEVzRLVnl6azRiS09UNUR6MjlMQlhnUTVlbHktaWN3a1Mw?oc=5",
-      "source": "FONDS professionell",
-      "sourceCountry": "",
-      "type": "article",
-      "lang": "de",
-      "publishedAt": "2026-10-19T07:55:00.000Z",
-      "summary": "",
-      "imageUrl": null,
-      "topics": [
-        "finance"
-      ],
-      "translations": {
-        "fr": {
-          "title": "Un prestataire américain de services de fonds reprend Luxembourg Service-KVG | Entreprise | 19 octobre 2026",
-          "summary": ""
-        },
-        "en": {
-          "title": "US fund service provider takes over Luxembourg Service-KVG | Company | October 19, 2026",
-          "summary": ""
-        },
-        "lb": {
-          "title": "US Fong Service Provider iwwerhëlt Lëtzebuerg Service-KVG | Firma | 19. Oktober 2026",
           "summary": ""
         }
       }
